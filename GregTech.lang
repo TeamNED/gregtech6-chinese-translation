@@ -4985,7 +4985,7 @@ languagefile {
     S:gt.research.page.1.GT_TRANSINVAR=Your discovery of Bronze Transmutation has lead you to the conclusion it works with other合金s such as Invar as well.
     S:gt.research.page.1.GT_TRANSNICKEL=You have discovered a way to multiply nickel by steeping nickel nuggets in metallum harvested from other metals.
     S:gt.research.page.1.GT_TRANSSOLDERINGALLOY=Your discovery of Bronze Transmutation has lead you to the conclusion it works with other合金s such as Soldering合金 as well.
-    S:gt.research.page.1.GT_TRANSZINC=You have discovered a way to multiply zinc by steeping zinc nuggets in metallum harvested from other metals.
+    S:gt.research.page.1.GT_TRANSZINC=You have discovered a way to multiply 锌 by steeping 锌 nuggets in metallum harvested from other metals.
     S:gt.research.page.1.GT_WOOD_TO_CHARCOAL=You have discovered a way of making charcoal magically instead of using regular ovens for this purpose.<BR><BR>To create charcoal from wood you first need an air-free environment, some vacuus essentia is needed for that, then you need to incinerate the wood using ignis essentia and wait until all the water inside the wood is burned away.<BR><BR>This method however doesn't create creosote 油 as byproduct.
     S:gt.stone.basalt.0.name=玄武岩
     S:gt.stone.basalt.1.name=玄武岩原石
@@ -6262,7 +6262,7 @@ languagefile {
     S:oredict.blockDustAntiVibranium.name=反物质Vibranium粉块
     S:oredict.blockDustAntiYtterbium.name=反物质Ytterbium粉块
     S:oredict.blockDustAntiYttrium.name=反物质Yttrium粉块
-    S:oredict.blockDustAntiZinc.name=反物质Zinc粉块
+    S:oredict.blockDustAntiZinc.name=反物质锌粉块
     S:oredict.blockDustAntiZirconium.name=反物质Zirconium粉块
     S:oredict.blockDustAntimony.name=锑粉块
     S:oredict.blockDustApatite.name=磷灰石粉块
@@ -6765,7 +6765,7 @@ languagefile {
     S:oredict.blockDustYttrium.name=Yttrium粉块
     S:oredict.blockDustYttriumBariumCuprate.name=Yttrium-钡-Cuprate粉块
     S:oredict.blockDustZeolite.name=Zeolite粉块
-    S:oredict.blockDustZinc.name=Zinc粉块
+    S:oredict.blockDustZinc.name=锌粉块
     S:oredict.blockDustZirconium.name=Zirconium粉块
     S:oredict.blockGemAlmandine.name=Block of Almandine
     S:oredict.blockGemAmber.name=琥珀块
@@ -6977,7 +6977,7 @@ languagefile {
     S:oredict.blockIngotAntiVanadium.name=反物质钒锭块
     S:oredict.blockIngotAntiYtterbium.name=反物质Ytterbium锭块
     S:oredict.blockIngotAntiYttrium.name=反物质Yttrium锭块
-    S:oredict.blockIngotAntiZinc.name=反物质Zinc锭块
+    S:oredict.blockIngotAntiZinc.name=反物质锌锭块
     S:oredict.blockIngotAntiZirconium.name=反物质Zirconium锭块
     S:oredict.blockIngotAntimony.name=锑锭块
     S:oredict.blockIngotArdite.name=Block of Ardite Ingot
@@ -7212,7 +7212,7 @@ languagefile {
     S:oredict.blockIngotYtterbium.name=Ytterbium锭块
     S:oredict.blockIngotYttrium.name=Yttrium锭块
     S:oredict.blockIngotYttriumBariumCuprate.name=Yttrium-钡-Cuprate锭块
-    S:oredict.blockIngotZinc.name=Zinc锭块
+    S:oredict.blockIngotZinc.name=锌锭块
     S:oredict.blockIngotZirconium.name=Zirconium锭块
     S:oredict.blockPlateActinium.name=锕板块
     S:oredict.blockPlateAdamantium.name=艾德曼合金板块
@@ -7334,7 +7334,7 @@ languagefile {
     S:oredict.blockPlateAntiVanadium.name=反物质钒板块
     S:oredict.blockPlateAntiYtterbium.name=反物质Ytterbium板块
     S:oredict.blockPlateAntiYttrium.name=反物质Yttrium板块
-    S:oredict.blockPlateAntiZinc.name=反物质Zinc板块
+    S:oredict.blockPlateAntiZinc.name=反物质锌板块
     S:oredict.blockPlateAntiZirconium.name=反物质Zirconium板块
     S:oredict.blockPlateAntimony.name=锑板块
     S:oredict.blockPlateArdite.name=Block of Ardite Plate
@@ -7679,7 +7679,7 @@ languagefile {
     S:oredict.blockPlateYtterbium.name=Ytterbium板块
     S:oredict.blockPlateYttrium.name=Yttrium板块
     S:oredict.blockPlateYttriumBariumCuprate.name=Yttrium-钡-Cuprate板块
-    S:oredict.blockPlateZinc.name=Zinc板块
+    S:oredict.blockPlateZinc.name=锌板块
     S:oredict.blockPlateZirconium.name=Zirconium板块
     S:oredict.blockSolidActinium.name=结实的锕块
     S:oredict.blockSolidAdamantium.name=结实的艾德曼合金块
@@ -7800,7 +7800,7 @@ languagefile {
     S:oredict.blockSolidAntiVanadium.name=结实的反物质钒块
     S:oredict.blockSolidAntiYtterbium.name=结实的反物质Ytterbium块
     S:oredict.blockSolidAntiYttrium.name=结实的反物质Yttrium块
-    S:oredict.blockSolidAntiZinc.name=结实的反物质Zinc块
+    S:oredict.blockSolidAntiZinc.name=结实的反物质锌块
     S:oredict.blockSolidAntiZirconium.name=结实的反物质Zirconium块
     S:oredict.blockSolidAntimony.name=结实的锑块
     S:oredict.blockSolidArdite.name=Block of solid Ardite
@@ -8035,7 +8035,7 @@ languagefile {
     S:oredict.blockSolidYtterbium.name=结实的Ytterbium块
     S:oredict.blockSolidYttrium.name=结实的Yttrium块
     S:oredict.blockSolidYttriumBariumCuprate.name=结实的Yttrium-钡-Cuprate块
-    S:oredict.blockSolidZinc.name=结实的Zinc块
+    S:oredict.blockSolidZinc.name=结实的锌块
     S:oredict.blockSolidZirconium.name=结实的Zirconium块
     S:oredict.boltAdamantium.name=艾德曼合金螺栓
     S:oredict.boltAlmandine.name=Almandine Bolt
@@ -9620,7 +9620,7 @@ languagefile {
     S:oredict.chemtubeAntiXenon.name=反物质Xenon试管
     S:oredict.chemtubeAntiYtterbium.name=反物质Ytterbium试管
     S:oredict.chemtubeAntiYttrium.name=反物质Yttrium试管
-    S:oredict.chemtubeAntiZinc.name=反物质Zinc试管
+    S:oredict.chemtubeAntiZinc.name=反物质锌试管
     S:oredict.chemtubeAntiZirconium.name=反物质Zirconium试管
     S:oredict.chemtubeAntimony.name=锑试管
     S:oredict.chemtubeApatite.name=磷灰石试管
@@ -10457,7 +10457,7 @@ languagefile {
     S:oredict.chemtubeYttrium.name=Yttrium试管
     S:oredict.chemtubeYttriumBariumCuprate.name=Yttrium-钡-Cuprate试管
     S:oredict.chemtubeZeolite.name=Zeolite试管
-    S:oredict.chemtubeZinc.name=Zinc试管
+    S:oredict.chemtubeZinc.name=锌试管
     S:oredict.chemtubeZirconium.name=Zirconium试管
     S:oredict.chunkGtActinium.name=锕 Chunk
     S:oredict.chunkGtAdamantium.name=艾德曼合金 Chunk
@@ -10578,7 +10578,7 @@ languagefile {
     S:oredict.chunkGtAntiVanadium.name=反物质钒 Chunk
     S:oredict.chunkGtAntiYtterbium.name=反物质Ytterbium Chunk
     S:oredict.chunkGtAntiYttrium.name=反物质Yttrium Chunk
-    S:oredict.chunkGtAntiZinc.name=反物质Zinc Chunk
+    S:oredict.chunkGtAntiZinc.name=反物质锌 Chunk
     S:oredict.chunkGtAntiZirconium.name=反物质Zirconium Chunk
     S:oredict.chunkGtAntimony.name=锑 Chunk
     S:oredict.chunkGtArdite.name=Ardite Chunk
@@ -10813,7 +10813,7 @@ languagefile {
     S:oredict.chunkGtYtterbium.name=Ytterbium Chunk
     S:oredict.chunkGtYttrium.name=Yttrium Chunk
     S:oredict.chunkGtYttriumBariumCuprate.name=Yttrium-钡-Cuprate Chunk
-    S:oredict.chunkGtZinc.name=Zinc Chunk
+    S:oredict.chunkGtZinc.name=锌 Chunk
     S:oredict.chunkGtZirconium.name=Zirconium Chunk
     S:oredict.crateGtDustActinium.name=锕粉板条箱
     S:oredict.crateGtDustAdamantium.name=艾德曼合金粉板条箱
@@ -10957,7 +10957,7 @@ languagefile {
     S:oredict.crateGtDustAntiVibranium.name=反物质Vibranium粉板条箱
     S:oredict.crateGtDustAntiYtterbium.name=反物质Ytterbium粉板条箱
     S:oredict.crateGtDustAntiYttrium.name=反物质Yttrium粉板条箱
-    S:oredict.crateGtDustAntiZinc.name=反物质Zinc粉板条箱
+    S:oredict.crateGtDustAntiZinc.name=反物质锌粉板条箱
     S:oredict.crateGtDustAntiZirconium.name=反物质Zirconium粉板条箱
     S:oredict.crateGtDustAntimony.name=锑粉板条箱
     S:oredict.crateGtDustApatite.name=磷灰石粉板条箱
@@ -11460,7 +11460,7 @@ languagefile {
     S:oredict.crateGtDustYttrium.name=Yttrium粉板条箱
     S:oredict.crateGtDustYttriumBariumCuprate.name=Yttrium-钡-Cuprate粉板条箱
     S:oredict.crateGtDustZeolite.name=Zeolite粉板条箱
-    S:oredict.crateGtDustZinc.name=Zinc粉板条箱
+    S:oredict.crateGtDustZinc.name=锌粉板条箱
     S:oredict.crateGtDustZirconium.name=Zirconium粉板条箱
     S:oredict.crateGtGemAlmandine.name=Crate of Almandine
     S:oredict.crateGtGemAmber.name=琥珀板条箱
@@ -11672,7 +11672,7 @@ languagefile {
     S:oredict.crateGtIngotAntiVanadium.name=反物质钒锭板条箱
     S:oredict.crateGtIngotAntiYtterbium.name=反物质Ytterbium锭板条箱
     S:oredict.crateGtIngotAntiYttrium.name=反物质Yttrium锭板条箱
-    S:oredict.crateGtIngotAntiZinc.name=反物质Zinc锭板条箱
+    S:oredict.crateGtIngotAntiZinc.name=反物质锌锭板条箱
     S:oredict.crateGtIngotAntiZirconium.name=反物质Zirconium锭板条箱
     S:oredict.crateGtIngotAntimony.name=锑锭板条箱
     S:oredict.crateGtIngotArdite.name=Crate of Ardite Ingot
@@ -11907,7 +11907,7 @@ languagefile {
     S:oredict.crateGtIngotYtterbium.name=Ytterbium锭板条箱
     S:oredict.crateGtIngotYttrium.name=Yttrium锭板条箱
     S:oredict.crateGtIngotYttriumBariumCuprate.name=Yttrium-钡-Cuprate锭板条箱
-    S:oredict.crateGtIngotZinc.name=Zinc锭板条箱
+    S:oredict.crateGtIngotZinc.name=锌锭板条箱
     S:oredict.crateGtIngotZirconium.name=Zirconium锭板条箱
     S:oredict.crateGtPlateActinium.name=锕板板条箱
     S:oredict.crateGtPlateAdamantium.name=艾德曼合金板板条箱
@@ -12029,7 +12029,7 @@ languagefile {
     S:oredict.crateGtPlateAntiVanadium.name=反物质钒板板条箱
     S:oredict.crateGtPlateAntiYtterbium.name=反物质Ytterbium板板条箱
     S:oredict.crateGtPlateAntiYttrium.name=反物质Yttrium板板条箱
-    S:oredict.crateGtPlateAntiZinc.name=反物质Zinc板板条箱
+    S:oredict.crateGtPlateAntiZinc.name=反物质锌板板条箱
     S:oredict.crateGtPlateAntiZirconium.name=反物质Zirconium板板条箱
     S:oredict.crateGtPlateAntimony.name=锑板板条箱
     S:oredict.crateGtPlateArdite.name=Crate of Ardite Plate
@@ -12374,7 +12374,7 @@ languagefile {
     S:oredict.crateGtPlateYtterbium.name=Ytterbium板板条箱
     S:oredict.crateGtPlateYttrium.name=Yttrium板板条箱
     S:oredict.crateGtPlateYttriumBariumCuprate.name=Yttrium-钡-Cuprate板板条箱
-    S:oredict.crateGtPlateZinc.name=Zinc板板条箱
+    S:oredict.crateGtPlateZinc.name=锌板板条箱
     S:oredict.crateGtPlateZirconium.name=Zirconium板板条箱
     S:oredict.crushedActinium.name=粉碎的锕矿石
     S:oredict.crushedAdamantium.name=粉碎的艾德曼合金矿石
@@ -12511,7 +12511,7 @@ languagefile {
     S:oredict.crushedAntiVibranium.name=粉碎的反物质Vibranium矿石
     S:oredict.crushedAntiYtterbium.name=粉碎的反物质Ytterbium矿石
     S:oredict.crushedAntiYttrium.name=粉碎的反物质Yttrium矿石
-    S:oredict.crushedAntiZinc.name=粉碎的反物质Zinc矿石
+    S:oredict.crushedAntiZinc.name=粉碎的反物质锌矿石
     S:oredict.crushedAntiZirconium.name=粉碎的反物质Zirconium矿石
     S:oredict.crushedAntimony.name=粉碎的锑矿石
     S:oredict.crushedApatite.name=粉碎的磷灰石矿石
@@ -12688,7 +12688,7 @@ languagefile {
     S:oredict.crushedCentrifugedAntiVibranium.name=离心过的反物质Vibranium矿石
     S:oredict.crushedCentrifugedAntiYtterbium.name=离心过的反物质Ytterbium矿石
     S:oredict.crushedCentrifugedAntiYttrium.name=离心过的反物质Yttrium矿石
-    S:oredict.crushedCentrifugedAntiZinc.name=离心过的反物质Zinc矿石
+    S:oredict.crushedCentrifugedAntiZinc.name=离心过的反物质锌矿石
     S:oredict.crushedCentrifugedAntiZirconium.name=离心过的反物质Zirconium矿石
     S:oredict.crushedCentrifugedAntimony.name=离心过的锑矿石
     S:oredict.crushedCentrifugedApatite.name=离心过的磷灰石矿石
@@ -13091,7 +13091,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyAntiVibranium.name=Tiny Centrifuged Anti-Vibranium Ore
     S:oredict.crushedCentrifugedTinyAntiYtterbium.name=Tiny Centrifuged Anti-Ytterbium Ore
     S:oredict.crushedCentrifugedTinyAntiYttrium.name=Tiny Centrifuged Anti-Yttrium Ore
-    S:oredict.crushedCentrifugedTinyAntiZinc.name=Tiny Centrifuged Anti-Zinc Ore
+    S:oredict.crushedCentrifugedTinyAntiZinc.name=Tiny Centrifuged Anti-锌 Ore
     S:oredict.crushedCentrifugedTinyAntiZirconium.name=Tiny Centrifuged Anti-Zirconium Ore
     S:oredict.crushedCentrifugedTinyAntimony.name=Tiny Centrifuged Antimony Ore
     S:oredict.crushedCentrifugedTinyApatite.name=Tiny Centrifuged Apatite Ore
@@ -13386,7 +13386,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyYtterbium.name=Tiny Centrifuged Ytterbium Ore
     S:oredict.crushedCentrifugedTinyYttrium.name=Tiny Centrifuged Yttrium Ore
     S:oredict.crushedCentrifugedTinyZeolite.name=Tiny Centrifuged Zeolite Ore
-    S:oredict.crushedCentrifugedTinyZinc.name=Tiny Centrifuged Zinc Ore
+    S:oredict.crushedCentrifugedTinyZinc.name=Tiny Centrifuged 锌 Ore
     S:oredict.crushedCentrifugedTinyZirconium.name=Tiny Centrifuged Zirconium Ore
     S:oredict.crushedCentrifugedTitanium.name=离心过的钛矿石
     S:oredict.crushedCentrifugedTopaz.name=离心过的黄玉矿石
@@ -13418,7 +13418,7 @@ languagefile {
     S:oredict.crushedCentrifugedYtterbium.name=离心过的Ytterbium矿石
     S:oredict.crushedCentrifugedYttrium.name=离心过的Yttrium矿石
     S:oredict.crushedCentrifugedZeolite.name=离心过的Zeolite矿石
-    S:oredict.crushedCentrifugedZinc.name=离心过的Zinc矿石
+    S:oredict.crushedCentrifugedZinc.name=离心过的锌矿石
     S:oredict.crushedCentrifugedZirconium.name=离心过的Zirconium矿石
     S:oredict.crushedCerium.name=粉碎的铈矿石
     S:oredict.crushedCertusQuartz.name=粉碎的赛特斯石英矿石
@@ -13726,7 +13726,7 @@ languagefile {
     S:oredict.crushedPurifiedAntiVibranium.name=纯净的反物质Vibranium矿石
     S:oredict.crushedPurifiedAntiYtterbium.name=纯净的反物质Ytterbium矿石
     S:oredict.crushedPurifiedAntiYttrium.name=纯净的反物质Yttrium矿石
-    S:oredict.crushedPurifiedAntiZinc.name=纯净的反物质Zinc矿石
+    S:oredict.crushedPurifiedAntiZinc.name=纯净的反物质锌矿石
     S:oredict.crushedPurifiedAntiZirconium.name=纯净的反物质Zirconium矿石
     S:oredict.crushedPurifiedAntimony.name=纯净的锑矿石
     S:oredict.crushedPurifiedApatite.name=纯净的磷灰石矿石
@@ -14129,7 +14129,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyAntiVibranium.name=Tiny Purified Anti-Vibranium Ore
     S:oredict.crushedPurifiedTinyAntiYtterbium.name=Tiny Purified Anti-Ytterbium Ore
     S:oredict.crushedPurifiedTinyAntiYttrium.name=Tiny Purified Anti-Yttrium Ore
-    S:oredict.crushedPurifiedTinyAntiZinc.name=Tiny Purified Anti-Zinc Ore
+    S:oredict.crushedPurifiedTinyAntiZinc.name=Tiny Purified Anti-锌 Ore
     S:oredict.crushedPurifiedTinyAntiZirconium.name=Tiny Purified Anti-Zirconium Ore
     S:oredict.crushedPurifiedTinyAntimony.name=Tiny Purified Antimony Ore
     S:oredict.crushedPurifiedTinyApatite.name=Tiny Purified Apatite Ore
@@ -14424,7 +14424,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyYtterbium.name=Tiny Purified Ytterbium Ore
     S:oredict.crushedPurifiedTinyYttrium.name=Tiny Purified Yttrium Ore
     S:oredict.crushedPurifiedTinyZeolite.name=Tiny Purified Zeolite Ore
-    S:oredict.crushedPurifiedTinyZinc.name=Tiny Purified Zinc Ore
+    S:oredict.crushedPurifiedTinyZinc.name=Tiny Purified 锌 Ore
     S:oredict.crushedPurifiedTinyZirconium.name=Tiny Purified Zirconium Ore
     S:oredict.crushedPurifiedTitanium.name=纯净的钛矿石
     S:oredict.crushedPurifiedTopaz.name=纯净的黄玉矿石
@@ -14456,7 +14456,7 @@ languagefile {
     S:oredict.crushedPurifiedYtterbium.name=纯净的Ytterbium矿石
     S:oredict.crushedPurifiedYttrium.name=纯净的Yttrium矿石
     S:oredict.crushedPurifiedZeolite.name=纯净的Zeolite矿石
-    S:oredict.crushedPurifiedZinc.name=纯净的Zinc矿石
+    S:oredict.crushedPurifiedZinc.name=纯净的锌矿石
     S:oredict.crushedPurifiedZirconium.name=纯净的Zirconium矿石
     S:oredict.crushedPyrite.name=粉碎的黄铁矿矿石
     S:oredict.crushedPyrolusite.name=粉碎的Pyrolusite矿石
@@ -14648,7 +14648,7 @@ languagefile {
     S:oredict.crushedTinyAntiVibranium.name=Tiny Crushed Anti-Vibranium Ore
     S:oredict.crushedTinyAntiYtterbium.name=Tiny Crushed Anti-Ytterbium Ore
     S:oredict.crushedTinyAntiYttrium.name=Tiny Crushed Anti-Yttrium Ore
-    S:oredict.crushedTinyAntiZinc.name=Tiny Crushed Anti-Zinc Ore
+    S:oredict.crushedTinyAntiZinc.name=Tiny Crushed Anti-锌 Ore
     S:oredict.crushedTinyAntiZirconium.name=Tiny Crushed Anti-Zirconium Ore
     S:oredict.crushedTinyAntimony.name=Tiny Crushed Antimony Ore
     S:oredict.crushedTinyApatite.name=Tiny Crushed Apatite Ore
@@ -14943,7 +14943,7 @@ languagefile {
     S:oredict.crushedTinyYtterbium.name=Tiny Crushed Ytterbium Ore
     S:oredict.crushedTinyYttrium.name=Tiny Crushed Yttrium Ore
     S:oredict.crushedTinyZeolite.name=Tiny Crushed Zeolite Ore
-    S:oredict.crushedTinyZinc.name=Tiny Crushed Zinc Ore
+    S:oredict.crushedTinyZinc.name=Tiny Crushed 锌 Ore
     S:oredict.crushedTinyZirconium.name=Tiny Crushed Zirconium Ore
     S:oredict.crushedTitanium.name=粉碎的钛矿石
     S:oredict.crushedTopaz.name=粉碎的黄玉矿石
@@ -14975,7 +14975,7 @@ languagefile {
     S:oredict.crushedYtterbium.name=粉碎的Ytterbium矿石
     S:oredict.crushedYttrium.name=粉碎的Yttrium矿石
     S:oredict.crushedZeolite.name=粉碎的Zeolite矿石
-    S:oredict.crushedZinc.name=粉碎的Zinc矿石
+    S:oredict.crushedZinc.name=粉碎的锌矿石
     S:oredict.crushedZirconium.name=粉碎的Zirconium矿石
     S:oredict.dustActinium.name=锕粉
     S:oredict.dustAdamantium.name=艾德曼合金粉
@@ -15119,7 +15119,7 @@ languagefile {
     S:oredict.dustAntiVibranium.name=反物质Vibranium粉
     S:oredict.dustAntiYtterbium.name=反物质Ytterbium粉
     S:oredict.dustAntiYttrium.name=反物质Yttrium粉
-    S:oredict.dustAntiZinc.name=反物质Zinc粉
+    S:oredict.dustAntiZinc.name=反物质锌粉
     S:oredict.dustAntiZirconium.name=反物质Zirconium粉
     S:oredict.dustAntimony.name=锑粉
     S:oredict.dustApatite.name=磷灰石粉
@@ -15461,7 +15461,7 @@ languagefile {
     S:oredict.dustImpureAntiVibranium.name=含杂的反物质Vibranium粉
     S:oredict.dustImpureAntiYtterbium.name=含杂的反物质Ytterbium粉
     S:oredict.dustImpureAntiYttrium.name=含杂的反物质Yttrium粉
-    S:oredict.dustImpureAntiZinc.name=含杂的反物质Zinc粉
+    S:oredict.dustImpureAntiZinc.name=含杂的反物质锌粉
     S:oredict.dustImpureAntiZirconium.name=含杂的反物质Zirconium粉
     S:oredict.dustImpureAntimony.name=含杂的锑粉
     S:oredict.dustImpureApatite.name=含杂的磷灰石粉
@@ -15789,7 +15789,7 @@ languagefile {
     S:oredict.dustImpureYtterbium.name=含杂的Ytterbium粉
     S:oredict.dustImpureYttrium.name=含杂的Yttrium粉
     S:oredict.dustImpureZeolite.name=含杂的Zeolite粉
-    S:oredict.dustImpureZinc.name=含杂的Zinc粉
+    S:oredict.dustImpureZinc.name=含杂的锌粉
     S:oredict.dustImpureZirconium.name=含杂的Zirconium粉
     S:oredict.dustIndigo.name=Indigo Dust
     S:oredict.dustIndium.name=铟粉
@@ -16069,7 +16069,7 @@ languagefile {
     S:oredict.dustPureAntiVibranium.name=纯净的反物质Vibranium粉
     S:oredict.dustPureAntiYtterbium.name=纯净的反物质Ytterbium粉
     S:oredict.dustPureAntiYttrium.name=纯净的反物质Yttrium粉
-    S:oredict.dustPureAntiZinc.name=纯净的反物质Zinc粉
+    S:oredict.dustPureAntiZinc.name=纯净的反物质锌粉
     S:oredict.dustPureAntiZirconium.name=纯净的反物质Zirconium粉
     S:oredict.dustPureAntimony.name=纯净的锑粉
     S:oredict.dustPureApatite.name=纯净的磷灰石粉
@@ -16397,7 +16397,7 @@ languagefile {
     S:oredict.dustPureYtterbium.name=纯净的Ytterbium粉
     S:oredict.dustPureYttrium.name=纯净的Yttrium粉
     S:oredict.dustPureZeolite.name=纯净的Zeolite粉
-    S:oredict.dustPureZinc.name=纯净的Zinc粉
+    S:oredict.dustPureZinc.name=纯净的锌粉
     S:oredict.dustPureZirconium.name=纯净的Zirconium粉
     S:oredict.dustPurple.name=Purple染料
     S:oredict.dustPyrite.name=黄铁矿粉
@@ -16589,7 +16589,7 @@ languagefile {
     S:oredict.dustSmallAntiVibranium.name=小堆反物质Vibranium粉
     S:oredict.dustSmallAntiYtterbium.name=小堆反物质Ytterbium粉
     S:oredict.dustSmallAntiYttrium.name=小堆反物质Yttrium粉
-    S:oredict.dustSmallAntiZinc.name=小堆反物质Zinc粉
+    S:oredict.dustSmallAntiZinc.name=小堆反物质锌粉
     S:oredict.dustSmallAntiZirconium.name=小堆反物质Zirconium粉
     S:oredict.dustSmallAntimony.name=小堆锑粉
     S:oredict.dustSmallApatite.name=小堆磷灰石粉
@@ -17092,7 +17092,7 @@ languagefile {
     S:oredict.dustSmallYttrium.name=小堆Yttrium粉
     S:oredict.dustSmallYttriumBariumCuprate.name=小堆Yttrium-钡-Cuprate粉
     S:oredict.dustSmallZeolite.name=小堆Zeolite粉
-    S:oredict.dustSmallZinc.name=小堆Zinc粉
+    S:oredict.dustSmallZinc.name=小堆锌粉
     S:oredict.dustSmallZirconium.name=小堆Zirconium粉
     S:oredict.dustSnow.name=Snow粉块
     S:oredict.dustSoapstone.name=皂石粉
@@ -17280,7 +17280,7 @@ languagefile {
     S:oredict.dustTinyAntiVibranium.name=小撮反物质Vibranium粉
     S:oredict.dustTinyAntiYtterbium.name=小撮反物质Ytterbium粉
     S:oredict.dustTinyAntiYttrium.name=小撮反物质Yttrium粉
-    S:oredict.dustTinyAntiZinc.name=小撮反物质Zinc粉
+    S:oredict.dustTinyAntiZinc.name=小撮反物质锌粉
     S:oredict.dustTinyAntiZirconium.name=小撮反物质Zirconium粉
     S:oredict.dustTinyAntimony.name=小撮锑粉
     S:oredict.dustTinyApatite.name=小撮磷灰石粉
@@ -17783,7 +17783,7 @@ languagefile {
     S:oredict.dustTinyYttrium.name=小撮Yttrium粉
     S:oredict.dustTinyYttriumBariumCuprate.name=小撮Yttrium-钡-Cuprate粉
     S:oredict.dustTinyZeolite.name=小撮Zeolite粉
-    S:oredict.dustTinyZinc.name=小撮Zinc粉
+    S:oredict.dustTinyZinc.name=小撮锌粉
     S:oredict.dustTinyZirconium.name=小撮Zirconium粉
     S:oredict.dustTitanium.name=钛粉
     S:oredict.dustTofu.name=Tofu
@@ -17842,7 +17842,7 @@ languagefile {
     S:oredict.dustYttrium.name=Yttrium粉
     S:oredict.dustYttriumBariumCuprate.name=Yttrium-钡-Cuprate粉
     S:oredict.dustZeolite.name=Zeolite粉
-    S:oredict.dustZinc.name=Zinc粉
+    S:oredict.dustZinc.name=锌粉
     S:oredict.dustZirconium.name=Zirconium粉
     S:oredict.foilActinium.name=锕箔
     S:oredict.foilAdamantium.name=艾德曼合金箔
@@ -17969,7 +17969,7 @@ languagefile {
     S:oredict.foilAntiVibranium.name=反物质Vibranium箔
     S:oredict.foilAntiYtterbium.name=反物质Ytterbium箔
     S:oredict.foilAntiYttrium.name=反物质Yttrium箔
-    S:oredict.foilAntiZinc.name=反物质Zinc箔
+    S:oredict.foilAntiZinc.name=反物质锌箔
     S:oredict.foilAntiZirconium.name=反物质Zirconium箔
     S:oredict.foilAntimony.name=锑箔
     S:oredict.foilApatite.name=磷灰石箔
@@ -18293,7 +18293,7 @@ languagefile {
     S:oredict.foilYtterbium.name=Ytterbium箔
     S:oredict.foilYttrium.name=Yttrium箔
     S:oredict.foilYttriumBariumCuprate.name=Yttrium-钡-Cuprate箔
-    S:oredict.foilZinc.name=Zinc箔
+    S:oredict.foilZinc.name=锌箔
     S:oredict.foilZirconium.name=Zirconium箔
     S:oredict.gearGtAdamantium.name=艾德曼合金齿轮
     S:oredict.gearGtAlmandine.name=Almandine Gear
@@ -19102,7 +19102,7 @@ languagefile {
     S:oredict.ingotAntiVanadium.name=反物质钒锭
     S:oredict.ingotAntiYtterbium.name=反物质Ytterbium锭
     S:oredict.ingotAntiYttrium.name=反物质Yttrium锭
-    S:oredict.ingotAntiZinc.name=反物质Zinc锭
+    S:oredict.ingotAntiZinc.name=反物质锌锭
     S:oredict.ingotAntiZirconium.name=反物质Zirconium锭
     S:oredict.ingotAntimony.name=锑锭
     S:oredict.ingotArdite.name=Ardite Ingot
@@ -19273,7 +19273,7 @@ languagefile {
     S:oredict.ingotDoubleAntiVanadium.name=两重反物质钒锭
     S:oredict.ingotDoubleAntiYtterbium.name=两重反物质Ytterbium锭
     S:oredict.ingotDoubleAntiYttrium.name=两重反物质Yttrium锭
-    S:oredict.ingotDoubleAntiZinc.name=两重反物质Zinc锭
+    S:oredict.ingotDoubleAntiZinc.name=两重反物质锌锭
     S:oredict.ingotDoubleAntiZirconium.name=两重反物质Zirconium锭
     S:oredict.ingotDoubleAntimony.name=两重锑锭
     S:oredict.ingotDoubleArdite.name=Double Ardite Ingot
@@ -19501,7 +19501,7 @@ languagefile {
     S:oredict.ingotDoubleYtterbium.name=两重Ytterbium锭
     S:oredict.ingotDoubleYttrium.name=两重Yttrium锭
     S:oredict.ingotDoubleYttriumBariumCuprate.name=两重Yttrium-钡-Cuprate锭
-    S:oredict.ingotDoubleZinc.name=两重Zinc锭
+    S:oredict.ingotDouble锌.name=两重Zinc锭
     S:oredict.ingotDoubleZirconium.name=两重Zirconium锭
     S:oredict.ingotDubnium.name=Dubnium锭
     S:oredict.ingotDuranium.name=钍瑞铌锭
@@ -19658,7 +19658,7 @@ languagefile {
     S:oredict.ingotHotAntiVanadium.name=热反物质钒锭
     S:oredict.ingotHotAntiYtterbium.name=热反物质Ytterbium锭
     S:oredict.ingotHotAntiYttrium.name=热反物质Yttrium锭
-    S:oredict.ingotHotAntiZinc.name=热反物质Zinc锭
+    S:oredict.ingotHotAntiZinc.name=热反物质锌锭
     S:oredict.ingotHotAntiZirconium.name=热反物质Zirconium锭
     S:oredict.ingotHotAntimony.name=热锑锭
     S:oredict.ingotHotArdite.name=Hot Ardite Ingot
@@ -19885,7 +19885,7 @@ languagefile {
     S:oredict.ingotHotYtterbium.name=热Ytterbium锭
     S:oredict.ingotHotYttrium.name=热Yttrium锭
     S:oredict.ingotHotYttriumBariumCuprate.name=热Yttrium-钡-Cuprate锭
-    S:oredict.ingotHotZinc.name=热Zinc锭
+    S:oredict.ingotHotZinc.name=热锌锭
     S:oredict.ingotHotZirconium.name=Hot Zirconium锭
     S:oredict.ingotIgnatius.name=伊格内修斯锭
     S:oredict.ingotIndium.name=铟锭
@@ -20073,7 +20073,7 @@ languagefile {
     S:oredict.ingotQuadrupleAntiVanadium.name=四重反物质钒锭
     S:oredict.ingotQuadrupleAntiYtterbium.name=四重反物质Ytterbium锭
     S:oredict.ingotQuadrupleAntiYttrium.name=四重反物质Yttrium锭
-    S:oredict.ingotQuadrupleAntiZinc.name=四重反物质Zinc锭
+    S:oredict.ingotQuadrupleAntiZinc.name=四重反物质锌锭
     S:oredict.ingotQuadrupleAntiZirconium.name=四重反物质Zirconium锭
     S:oredict.ingotQuadrupleAntimony.name=四重锑锭
     S:oredict.ingotQuadrupleArdite.name=Quadruple Ardite Ingot
@@ -20301,7 +20301,7 @@ languagefile {
     S:oredict.ingotQuadrupleYtterbium.name=四重Ytterbium锭
     S:oredict.ingotQuadrupleYttrium.name=四重Yttrium锭
     S:oredict.ingotQuadrupleYttriumBariumCuprate.name=四重Yttrium-钡-Cuprate锭
-    S:oredict.ingotQuadrupleZinc.name=四重Zinc锭
+    S:oredict.ingotQuadrupleZinc.name=四重锌锭
     S:oredict.ingotQuadrupleZirconium.name=四重Zirconium锭
     S:oredict.ingotQuintupleActinium.name=五重锕锭
     S:oredict.ingotQuintupleAdamantium.name=五重艾德曼合金锭
@@ -20422,7 +20422,7 @@ languagefile {
     S:oredict.ingotQuintupleAntiVanadium.name=五重反物质钒锭
     S:oredict.ingotQuintupleAntiYtterbium.name=五重反物质Ytterbium锭
     S:oredict.ingotQuintupleAntiYttrium.name=五重反物质Yttrium锭
-    S:oredict.ingotQuintupleAntiZinc.name=五重反物质Zinc锭
+    S:oredict.ingotQuintupleAntiZinc.name=五重反物质锌锭
     S:oredict.ingotQuintupleAntiZirconium.name=五重反物质Zirconium锭
     S:oredict.ingotQuintupleAntimony.name=五重锑锭
     S:oredict.ingotQuintupleArdite.name=Quintuple Ardite Ingot
@@ -20650,7 +20650,7 @@ languagefile {
     S:oredict.ingotQuintupleYtterbium.name=五重Ytterbium锭
     S:oredict.ingotQuintupleYttrium.name=五重Yttrium锭
     S:oredict.ingotQuintupleYttriumBariumCuprate.name=五重Yttrium-钡-Cuprate锭
-    S:oredict.ingotQuintupleZinc.name=五重Zinc锭
+    S:oredict.ingotQuintupleZinc.name=五重锌锭
     S:oredict.ingotQuintupleZirconium.name=五重Zirconium锭
     S:oredict.ingotRadium.name=镭锭
     S:oredict.ingotRedAlloy.name=红色合金锭
@@ -20816,7 +20816,7 @@ languagefile {
     S:oredict.ingotTripleAntiVanadium.name=三重反物质钒锭
     S:oredict.ingotTripleAntiYtterbium.name=三重反物质Ytterbium锭
     S:oredict.ingotTripleAntiYttrium.name=三重反物质Yttrium锭
-    S:oredict.ingotTripleAntiZinc.name=三重反物质Zinc锭
+    S:oredict.ingotTripleAntiZinc.name=三重反物质锌锭
     S:oredict.ingotTripleAntiZirconium.name=三重反物质Zirconium锭
     S:oredict.ingotTripleAntimony.name=三重锑锭
     S:oredict.ingotTripleArdite.name=Triple Ardite Ingot
@@ -21044,7 +21044,7 @@ languagefile {
     S:oredict.ingotTripleYtterbium.name=三重Ytterbium锭
     S:oredict.ingotTripleYttrium.name=三重Yttrium锭
     S:oredict.ingotTripleYttriumBariumCuprate.name=三重Yttrium-钡-Cuprate锭
-    S:oredict.ingotTripleZinc.name=三重Zinc锭
+    S:oredict.ingotTripleZinc.name=三重锌锭
     S:oredict.ingotTripleZirconium.name=三重Zirconium锭
     S:oredict.ingotTritanium.name=三钛合金锭
     S:oredict.ingotTungsten.name=钨锭
@@ -21072,7 +21072,7 @@ languagefile {
     S:oredict.ingotYtterbium.name=Ytterbium锭
     S:oredict.ingotYttrium.name=Yttrium锭
     S:oredict.ingotYttriumBariumCuprate.name=Yttrium-钡-Cuprate锭
-    S:oredict.ingotZinc.name=Zinc锭
+    S:oredict.ingotZinc.name=锌锭
     S:oredict.ingotZirconium.name=Zirconium锭
     S:oredict.lensAlmandine.name=Almandine Lens
     S:oredict.lensAmber.name=琥珀透镜
@@ -21439,7 +21439,7 @@ languagefile {
     S:oredict.nuggetAntiVanadium.name=反物质钒粒
     S:oredict.nuggetAntiYtterbium.name=反物质Ytterbium粒
     S:oredict.nuggetAntiYttrium.name=反物质Yttrium粒
-    S:oredict.nuggetAntiZinc.name=反物质Zinc粒
+    S:oredict.nuggetAntiZinc.name=反物质锌粒
     S:oredict.nuggetAntiZirconium.name=反物质Zirconium粒
     S:oredict.nuggetAntimony.name=锑粒
     S:oredict.nuggetArdite.name=Ardite Nugget
@@ -21673,7 +21673,7 @@ languagefile {
     S:oredict.nuggetYtterbium.name=Ytterbium粒
     S:oredict.nuggetYttrium.name=Yttrium粒
     S:oredict.nuggetYttriumBariumCuprate.name=Yttrium-钡-Cuprate粒
-    S:oredict.nuggetZinc.name=Zinc粒
+    S:oredict.nuggetZinc.name=锌粒
     S:oredict.nuggetZirconium.name=Zirconium粒
     S:oredict.oreActinium.name=锕矿石
     S:oredict.oreAdamantium.name=艾德曼合金矿石
@@ -21810,7 +21810,7 @@ languagefile {
     S:oredict.oreAntiVibranium.name=反物质Vibranium矿石
     S:oredict.oreAntiYtterbium.name=反物质Ytterbium矿石
     S:oredict.oreAntiYttrium.name=反物质Yttrium矿石
-    S:oredict.oreAntiZinc.name=反物质Zinc矿石
+    S:oredict.oreAntiZinc.name=反物质锌矿石
     S:oredict.oreAntiZirconium.name=反物质Zirconium矿石
     S:oredict.oreAntimony.name=锑矿石
     S:oredict.oreApatite.name=磷灰石矿石
@@ -21960,7 +21960,7 @@ languagefile {
     S:oredict.oreBasaltAntiVibranium.name=玄武岩反物质Vibranium矿石
     S:oredict.oreBasaltAntiYtterbium.name=玄武岩反物质Ytterbium矿石
     S:oredict.oreBasaltAntiYttrium.name=玄武岩反物质Yttrium矿石
-    S:oredict.oreBasaltAntiZinc.name=玄武岩反物质Zinc矿石
+    S:oredict.oreBasaltAntiZinc.name=玄武岩反物质锌矿石
     S:oredict.oreBasaltAntiZirconium.name=玄武岩反物质Zirconium矿石
     S:oredict.oreBasaltAntimony.name=玄武岩锑矿石
     S:oredict.oreBasaltApatite.name=玄武岩磷灰石矿石
@@ -22258,7 +22258,7 @@ languagefile {
     S:oredict.oreBasaltYtterbium.name=玄武岩Ytterbium矿石
     S:oredict.oreBasaltYttrium.name=玄武岩Yttrium矿石
     S:oredict.oreBasaltZeolite.name=玄武岩Zeolite矿石
-    S:oredict.oreBasaltZinc.name=玄武岩Zinc矿石
+    S:oredict.oreBasaltZinc.name=玄武岩锌矿石
     S:oredict.oreBasaltZirconium.name=玄武岩Zirconium矿石
     S:oredict.oreBasalticMineralSand.name=玄武岩类矿砂
     S:oredict.oreBastnasite.name=氟碳铈矿矿石
@@ -22403,7 +22403,7 @@ languagefile {
     S:oredict.oreBlackgraniteAntiVibranium.name=黑花岗岩反物质Vibranium矿石
     S:oredict.oreBlackgraniteAntiYtterbium.name=黑花岗岩反物质Ytterbium矿石
     S:oredict.oreBlackgraniteAntiYttrium.name=黑花岗岩反物质Yttrium矿石
-    S:oredict.oreBlackgraniteAntiZinc.name=黑花岗岩反物质Zinc矿石
+    S:oredict.oreBlackgraniteAntiZinc.name=黑花岗岩反物质锌矿石
     S:oredict.oreBlackgraniteAntiZirconium.name=黑花岗岩反物质Zirconium矿石
     S:oredict.oreBlackgraniteAntimony.name=黑花岗岩锑矿石
     S:oredict.oreBlackgraniteApatite.name=黑花岗岩磷灰石矿石
@@ -22701,7 +22701,7 @@ languagefile {
     S:oredict.oreBlackgraniteYtterbium.name=黑花岗岩Ytterbium矿石
     S:oredict.oreBlackgraniteYttrium.name=黑花岗岩Yttrium矿石
     S:oredict.oreBlackgraniteZeolite.name=黑花岗岩Zeolite矿石
-    S:oredict.oreBlackgraniteZinc.name=黑花岗岩Zinc矿石
+    S:oredict.oreBlackgraniteZinc.name=黑花岗岩锌矿石
     S:oredict.oreBlackgraniteZirconium.name=黑花岗岩Zirconium矿石
     S:oredict.oreBlueTopaz.name=蓝色黄玉矿石
     S:oredict.oreBlutonium.name=Blutonium Ore
@@ -22898,7 +22898,7 @@ languagefile {
     S:oredict.oreEndstoneAntiVibranium.name=末地反物质Vibranium矿石
     S:oredict.oreEndstoneAntiYtterbium.name=末地反物质Ytterbium矿石
     S:oredict.oreEndstoneAntiYttrium.name=末地反物质Yttrium矿石
-    S:oredict.oreEndstoneAntiZinc.name=末地反物质Zinc矿石
+    S:oredict.oreEndstoneAntiZinc.name=末地反物质锌矿石
     S:oredict.oreEndstoneAntiZirconium.name=末地反物质Zirconium矿石
     S:oredict.oreEndstoneAntimony.name=末地锑矿石
     S:oredict.oreEndstoneApatite.name=末地磷灰石矿石
@@ -23196,7 +23196,7 @@ languagefile {
     S:oredict.oreEndstoneYtterbium.name=末地Ytterbium矿石
     S:oredict.oreEndstoneYttrium.name=末地Yttrium矿石
     S:oredict.oreEndstoneZeolite.name=末地Zeolite矿石
-    S:oredict.oreEndstoneZinc.name=末地Zinc矿石
+    S:oredict.oreEndstoneZinc.name=末地锌矿石
     S:oredict.oreEndstoneZirconium.name=末地Zirconium矿石
     S:oredict.oreErbium.name=铒矿石
     S:oredict.oreEuropium.name=铕矿石
@@ -23363,7 +23363,7 @@ languagefile {
     S:oredict.oreGravelAntiVibranium.name=沙砾反物质Vibranium矿石
     S:oredict.oreGravelAntiYtterbium.name=沙砾反物质Ytterbium矿石
     S:oredict.oreGravelAntiYttrium.name=沙砾反物质Yttrium矿石
-    S:oredict.oreGravelAntiZinc.name=沙砾反物质Zinc矿石
+    S:oredict.oreGravelAntiZinc.name=沙砾反物质锌矿石
     S:oredict.oreGravelAntiZirconium.name=沙砾反物质Zirconium矿石
     S:oredict.oreGravelAntimony.name=沙砾锑矿石
     S:oredict.oreGravelApatite.name=沙砾磷灰石矿石
@@ -23661,7 +23661,7 @@ languagefile {
     S:oredict.oreGravelYtterbium.name=沙砾Ytterbium矿石
     S:oredict.oreGravelYttrium.name=沙砾Yttrium矿石
     S:oredict.oreGravelZeolite.name=沙砾Zeolite矿石
-    S:oredict.oreGravelZinc.name=沙砾Zinc矿石
+    S:oredict.oreGravelZinc.name=沙砾锌矿石
     S:oredict.oreGravelZirconium.name=沙砾Zirconium矿石
     S:oredict.oreGreenSapphire.name=绿色蓝宝石矿石
     S:oredict.oreGrossular.name=钙铝榴石矿石
@@ -23843,7 +23843,7 @@ languagefile {
     S:oredict.oreMarbleAntiVibranium.name=大理石反物质Vibranium矿石
     S:oredict.oreMarbleAntiYtterbium.name=大理石反物质Ytterbium矿石
     S:oredict.oreMarbleAntiYttrium.name=大理石反物质Yttrium矿石
-    S:oredict.oreMarbleAntiZinc.name=大理石反物质Zinc矿石
+    S:oredict.oreMarbleAntiZinc.name=大理石反物质锌矿石
     S:oredict.oreMarbleAntiZirconium.name=大理石反物质Zirconium矿石
     S:oredict.oreMarbleAntimony.name=大理石锑矿石
     S:oredict.oreMarbleApatite.name=大理石磷灰石矿石
@@ -24141,7 +24141,7 @@ languagefile {
     S:oredict.oreMarbleYtterbium.name=大理石Ytterbium矿石
     S:oredict.oreMarbleYttrium.name=大理石Yttrium矿石
     S:oredict.oreMarbleZeolite.name=大理石Zeolite矿石
-    S:oredict.oreMarbleZinc.name=大理石Zinc矿石
+    S:oredict.oreMarbleZinc.name=大理石锌矿石
     S:oredict.oreMarbleZirconium.name=大理石Zirconium矿石
     S:oredict.oreMeitnerium.name=Meitnerium矿石
     S:oredict.oreMendelevium.name=钔矿石
@@ -24297,7 +24297,7 @@ languagefile {
     S:oredict.oreNetherrackAntiVibranium.name=地狱反物质Vibranium矿石
     S:oredict.oreNetherrackAntiYtterbium.name=地狱Anti-Ytterbium矿石
     S:oredict.oreNetherrackAntiYttrium.name=地狱Anti-Yttrium矿石
-    S:oredict.oreNetherrackAntiZinc.name=地狱Anti-Zinc矿石
+    S:oredict.oreNetherrackAntiZinc.name=地狱Anti-锌矿石
     S:oredict.oreNetherrackAntiZirconium.name=地狱Anti-Zirconium矿石
     S:oredict.oreNetherrackAntimony.name=地狱锑矿石
     S:oredict.oreNetherrackApatite.name=地狱Apatite矿石
@@ -24595,7 +24595,7 @@ languagefile {
     S:oredict.oreNetherrackYtterbium.name=地狱Ytterbium矿石
     S:oredict.oreNetherrackYttrium.name=地狱Yttrium矿石
     S:oredict.oreNetherrackZeolite.name=地狱Zeolite矿石
-    S:oredict.oreNetherrackZinc.name=地狱Zinc矿石
+    S:oredict.oreNetherrackZinc.name=地狱锌矿石
     S:oredict.oreNetherrackZirconium.name=地狱Zirconium矿石
     S:oredict.oreNickel.name=镍矿石
     S:oredict.oreNikolite.name=Nikolite矿石
@@ -24775,7 +24775,7 @@ languagefile {
     S:oredict.oreRedSandAntiVibranium.name=红沙反物质Vibranium矿石
     S:oredict.oreRedSandAntiYtterbium.name=红沙反物质Ytterbium矿石
     S:oredict.oreRedSandAntiYttrium.name=红沙反物质Yttrium矿石
-    S:oredict.oreRedSandAntiZinc.name=红沙反物质Zinc矿石
+    S:oredict.oreRedSandAntiZinc.name=红沙反物质锌矿石
     S:oredict.oreRedSandAntiZirconium.name=红沙反物质Zirconium矿石
     S:oredict.oreRedSandAntimony.name=红沙锑矿石
     S:oredict.oreRedSandApatite.name=红沙磷灰石矿石
@@ -25073,7 +25073,7 @@ languagefile {
     S:oredict.oreRedSandYtterbium.name=红沙Ytterbium矿石
     S:oredict.oreRedSandYttrium.name=红沙Yttrium矿石
     S:oredict.oreRedSandZeolite.name=红沙Zeolite矿石
-    S:oredict.oreRedSandZinc.name=红沙Zinc矿石
+    S:oredict.oreRedSandZinc.name=红沙锌矿石
     S:oredict.oreRedSandZirconium.name=红沙Zirconium矿石
     S:oredict.oreRedgraniteActinium.name=红花岗岩锕矿石
     S:oredict.oreRedgraniteAdamantium.name=红花岗岩艾德曼合金矿石
@@ -25210,7 +25210,7 @@ languagefile {
     S:oredict.oreRedgraniteAntiVibranium.name=红花岗岩反物质Vibranium矿石
     S:oredict.oreRedgraniteAntiYtterbium.name=红花岗岩反物质Ytterbium矿石
     S:oredict.oreRedgraniteAntiYttrium.name=红花岗岩反物质Yttrium矿石
-    S:oredict.oreRedgraniteAntiZinc.name=红花岗岩反物质Zinc矿石
+    S:oredict.oreRedgraniteAntiZinc.name=红花岗岩反物质锌矿石
     S:oredict.oreRedgraniteAntiZirconium.name=红花岗岩反物质Zirconium矿石
     S:oredict.oreRedgraniteAntimony.name=红花岗岩锑矿石
     S:oredict.oreRedgraniteApatite.name=红花岗岩磷灰石矿石
@@ -25508,7 +25508,7 @@ languagefile {
     S:oredict.oreRedgraniteYtterbium.name=红花岗岩Ytterbium矿石
     S:oredict.oreRedgraniteYttrium.name=红花岗岩Yttrium矿石
     S:oredict.oreRedgraniteZeolite.name=红花岗岩Zeolite矿石
-    S:oredict.oreRedgraniteZinc.name=红花岗岩Zinc矿石
+    S:oredict.oreRedgraniteZinc.name=红花岗岩锌矿石
     S:oredict.oreRedgraniteZirconium.name=红花岗岩Zirconium矿石
     S:oredict.oreRedstone.name=Redstone Ore
     S:oredict.oreRhenium.name=铼矿石
@@ -25660,7 +25660,7 @@ languagefile {
     S:oredict.oreSandAntiVibranium.name=反物质Vibranium矿沙
     S:oredict.oreSandAntiYtterbium.name=反物质Ytterbium矿沙
     S:oredict.oreSandAntiYttrium.name=反物质Yttrium矿沙
-    S:oredict.oreSandAntiZinc.name=反物质Zinc矿沙
+    S:oredict.oreSandAntiZinc.name=反物质锌矿沙
     S:oredict.oreSandAntiZirconium.name=反物质Zirconium矿沙
     S:oredict.oreSandAntimony.name=锑矿沙
     S:oredict.oreSandApatite.name=磷灰石矿沙
@@ -25958,7 +25958,7 @@ languagefile {
     S:oredict.oreSandYtterbium.name=Ytterbium矿沙
     S:oredict.oreSandYttrium.name=Yttrium矿沙
     S:oredict.oreSandZeolite.name=Zeolite矿沙
-    S:oredict.oreSandZinc.name=Zinc矿沙
+    S:oredict.oreSandZinc.name=锌矿沙
     S:oredict.oreSandZirconium.name=Zirconium矿沙
     S:oredict.oreSandstoneActinium.name=沙石锕矿石
     S:oredict.oreSandstoneAdamantium.name=沙石艾德曼合金矿石
@@ -26095,7 +26095,7 @@ languagefile {
     S:oredict.oreSandstoneAntiVibranium.name=沙石反物质Vibranium矿石
     S:oredict.oreSandstoneAntiYtterbium.name=沙石反物质Ytterbium矿石
     S:oredict.oreSandstoneAntiYttrium.name=沙石反物质Yttrium矿石
-    S:oredict.oreSandstoneAntiZinc.name=沙石反物质Zinc矿石
+    S:oredict.oreSandstoneAntiZinc.name=沙石反物质锌矿石
     S:oredict.oreSandstoneAntiZirconium.name=沙石反物质Zirconium矿石
     S:oredict.oreSandstoneAntimony.name=沙石锑矿石
     S:oredict.oreSandstoneApatite.name=沙石磷灰石矿石
@@ -26393,7 +26393,7 @@ languagefile {
     S:oredict.oreSandstoneYtterbium.name=沙石Ytterbium矿石
     S:oredict.oreSandstoneYttrium.name=沙石Yttrium矿石
     S:oredict.oreSandstoneZeolite.name=沙石Zeolite矿石
-    S:oredict.oreSandstoneZinc.name=沙石Zinc矿石
+    S:oredict.oreSandstoneZinc.name=沙石锌矿石
     S:oredict.oreSandstoneZirconium.name=沙石Zirconium矿石
     S:oredict.oreSanguinite.name=狱炎石矿石
     S:oredict.oreSapphire.name=蓝宝石矿石
@@ -26540,7 +26540,7 @@ languagefile {
     S:oredict.oreSmallAntiVibranium.name=贫瘠反物质Vibranium矿石
     S:oredict.oreSmallAntiYtterbium.name=贫瘠反物质Ytterbium矿石
     S:oredict.oreSmallAntiYttrium.name=贫瘠反物质Yttrium矿石
-    S:oredict.oreSmallAntiZinc.name=贫瘠反物质Zinc矿石
+    S:oredict.oreSmallAntiZinc.name=贫瘠反物质锌矿石
     S:oredict.oreSmallAntiZirconium.name=贫瘠反物质Zirconium矿石
     S:oredict.oreSmallAntimony.name=贫瘠锑矿石
     S:oredict.oreSmallApatite.name=贫瘠磷灰石矿石
@@ -26838,7 +26838,7 @@ languagefile {
     S:oredict.oreSmallYtterbium.name=贫瘠Ytterbium矿石
     S:oredict.oreSmallYttrium.name=贫瘠Yttrium矿石
     S:oredict.oreSmallZeolite.name=贫瘠Zeolite矿石
-    S:oredict.oreSmallZinc.name=贫瘠Zinc矿石
+    S:oredict.oreSmallZinc.name=贫瘠锌矿石
     S:oredict.oreSmallZirconium.name=贫瘠Zirconium矿石
     S:oredict.oreSoapstone.name=皂石矿石
     S:oredict.oreSodalite.name=方钠石矿石
@@ -26893,7 +26893,7 @@ languagefile {
     S:oredict.oreYtterbium.name=Ytterbium矿石
     S:oredict.oreYttrium.name=Yttrium矿石
     S:oredict.oreZeolite.name=Zeolite矿石
-    S:oredict.oreZinc.name=Zinc矿石
+    S:oredict.oreZinc.name=锌矿石
     S:oredict.oreZirconium.name=Zirconium矿石
     S:oredict.plantGtBerryActinium.name=Actinium Berry
     S:oredict.plantGtBerryAdamantium.name=Adamantium Berry
@@ -27038,7 +27038,7 @@ languagefile {
     S:oredict.plantGtBerryAntiVibranium.name=Anti-Vibranium Berry
     S:oredict.plantGtBerryAntiYtterbium.name=Anti-Ytterbium Berry
     S:oredict.plantGtBerryAntiYttrium.name=Anti-Yttrium Berry
-    S:oredict.plantGtBerryAntiZinc.name=Anti-Zinc Berry
+    S:oredict.plantGtBerryAntiZinc.name=Anti-锌 Berry
     S:oredict.plantGtBerryAntiZirconium.name=Anti-Zirconium Berry
     S:oredict.plantGtBerryAntimony.name=Antimony Berry
     S:oredict.plantGtBerryApatite.name=Apatite Berry
@@ -27578,7 +27578,7 @@ languagefile {
     S:oredict.plantGtBerryYttrium.name=Yttrium Berry
     S:oredict.plantGtBerryYttriumBariumCuprate.name=Yttrium-Barium-Cuprate Berry
     S:oredict.plantGtBerryZeolite.name=Zeolite Berry
-    S:oredict.plantGtBerryZinc.name=Zinc Berry
+    S:oredict.plantGtBerryZinc.name=锌 Berry
     S:oredict.plantGtBerryZirconium.name=Zirconium Berry
     S:oredict.plantGtBlossomActinium.name=Actinium Blossom
     S:oredict.plantGtBlossomAdamantium.name=Adamantium Blossom
@@ -27723,7 +27723,7 @@ languagefile {
     S:oredict.plantGtBlossomAntiVibranium.name=Anti-Vibranium Blossom
     S:oredict.plantGtBlossomAntiYtterbium.name=Anti-Ytterbium Blossom
     S:oredict.plantGtBlossomAntiYttrium.name=Anti-Yttrium Blossom
-    S:oredict.plantGtBlossomAntiZinc.name=Anti-Zinc Blossom
+    S:oredict.plantGtBlossomAntiZinc.name=Anti-锌 Blossom
     S:oredict.plantGtBlossomAntiZirconium.name=Anti-Zirconium Blossom
     S:oredict.plantGtBlossomAntimony.name=Antimony Blossom
     S:oredict.plantGtBlossomApatite.name=Apatite Blossom
@@ -28263,7 +28263,7 @@ languagefile {
     S:oredict.plantGtBlossomYttrium.name=Yttrium Blossom
     S:oredict.plantGtBlossomYttriumBariumCuprate.name=Yttrium-Barium-Cuprate Blossom
     S:oredict.plantGtBlossomZeolite.name=Zeolite Blossom
-    S:oredict.plantGtBlossomZinc.name=Zinc Blossom
+    S:oredict.plantGtBlossomZinc.name=锌 Blossom
     S:oredict.plantGtBlossomZirconium.name=Zirconium Blossom
     S:oredict.plantGtFiberActinium.name=Raw Actinium Fiber
     S:oredict.plantGtFiberAdamantium.name=Raw Adamantium Fiber
@@ -28408,7 +28408,7 @@ languagefile {
     S:oredict.plantGtFiberAntiVibranium.name=Raw Anti-Vibranium Fiber
     S:oredict.plantGtFiberAntiYtterbium.name=Raw Anti-Ytterbium Fiber
     S:oredict.plantGtFiberAntiYttrium.name=Raw Anti-Yttrium Fiber
-    S:oredict.plantGtFiberAntiZinc.name=Raw Anti-Zinc Fiber
+    S:oredict.plantGtFiberAntiZinc.name=Raw Anti-锌 Fiber
     S:oredict.plantGtFiberAntiZirconium.name=Raw Anti-Zirconium Fiber
     S:oredict.plantGtFiberAntimony.name=Raw Antimony Fiber
     S:oredict.plantGtFiberApatite.name=Raw Apatite Fiber
@@ -28948,7 +28948,7 @@ languagefile {
     S:oredict.plantGtFiberYttrium.name=Raw Yttrium Fiber
     S:oredict.plantGtFiberYttriumBariumCuprate.name=Raw Yttrium-Barium-Cuprate Fiber
     S:oredict.plantGtFiberZeolite.name=Raw Zeolite Fiber
-    S:oredict.plantGtFiberZinc.name=Raw Zinc Fiber
+    S:oredict.plantGtFiberZinc.name=Raw 锌 Fiber
     S:oredict.plantGtFiberZirconium.name=Raw Zirconium Fiber
     S:oredict.plantGtTwigActinium.name=Actinium Twig
     S:oredict.plantGtTwigAdamantium.name=Adamantium Twig
@@ -29093,7 +29093,7 @@ languagefile {
     S:oredict.plantGtTwigAntiVibranium.name=Anti-Vibranium Twig
     S:oredict.plantGtTwigAntiYtterbium.name=Anti-Ytterbium Twig
     S:oredict.plantGtTwigAntiYttrium.name=Anti-Yttrium Twig
-    S:oredict.plantGtTwigAntiZinc.name=Anti-Zinc Twig
+    S:oredict.plantGtTwigAntiZinc.name=Anti-锌 Twig
     S:oredict.plantGtTwigAntiZirconium.name=Anti-Zirconium Twig
     S:oredict.plantGtTwigAntimony.name=Antimony Twig
     S:oredict.plantGtTwigApatite.name=Apatite Twig
@@ -29633,7 +29633,7 @@ languagefile {
     S:oredict.plantGtTwigYttrium.name=Yttrium Twig
     S:oredict.plantGtTwigYttriumBariumCuprate.name=Yttrium-Barium-Cuprate Twig
     S:oredict.plantGtTwigZeolite.name=Zeolite Twig
-    S:oredict.plantGtTwigZinc.name=Zinc Twig
+    S:oredict.plantGtTwigZinc.name=锌 Twig
     S:oredict.plantGtTwigZirconium.name=Zirconium Twig
     S:oredict.plantGtWartActinium.name=Actinium Wart
     S:oredict.plantGtWartAdamantium.name=Adamantium Wart
@@ -29778,7 +29778,7 @@ languagefile {
     S:oredict.plantGtWartAntiVibranium.name=Anti-Vibranium Wart
     S:oredict.plantGtWartAntiYtterbium.name=Anti-Ytterbium Wart
     S:oredict.plantGtWartAntiYttrium.name=Anti-Yttrium Wart
-    S:oredict.plantGtWartAntiZinc.name=Anti-Zinc Wart
+    S:oredict.plantGtWartAntiZinc.name=Anti-锌 Wart
     S:oredict.plantGtWartAntiZirconium.name=Anti-Zirconium Wart
     S:oredict.plantGtWartAntimony.name=Antimony Wart
     S:oredict.plantGtWartApatite.name=Apatite Wart
@@ -30318,7 +30318,7 @@ languagefile {
     S:oredict.plantGtWartYttrium.name=Yttrium Wart
     S:oredict.plantGtWartYttriumBariumCuprate.name=Yttrium-Barium-Cuprate Wart
     S:oredict.plantGtWartZeolite.name=Zeolite Wart
-    S:oredict.plantGtWartZinc.name=Zinc Wart
+    S:oredict.plantGtWartZinc.name=锌 Wart
     S:oredict.plantGtWartZirconium.name=Zirconium Wart
     S:oredict.plateActinium.name=锕板
     S:oredict.plateAdamantium.name=艾德曼合金板
@@ -30440,7 +30440,7 @@ languagefile {
     S:oredict.plateAntiVanadium.name=反物质钒板
     S:oredict.plateAntiYtterbium.name=反物质Ytterbium板
     S:oredict.plateAntiYttrium.name=反物质Yttrium板
-    S:oredict.plateAntiZinc.name=反物质Zinc板
+    S:oredict.plateAntiZinc.name=反物质锌板
     S:oredict.plateAntiZirconium.name=反物质Zirconium板
     S:oredict.plateAntimony.name=锑板
     S:oredict.plateArdite.name=Ardite Plate
@@ -30611,7 +30611,7 @@ languagefile {
     S:oredict.plateCurvedAntiVanadium.name=弯曲的 Anti-Vanadium 板
     S:oredict.plateCurvedAntiYtterbium.name=弯曲的 Anti-Ytterbium 板
     S:oredict.plateCurvedAntiYttrium.name=弯曲的 Anti-Yttrium 板
-    S:oredict.plateCurvedAntiZinc.name=弯曲的 Anti-Zinc 板
+    S:oredict.plateCurvedAntiZinc.name=弯曲的 Anti-锌 板
     S:oredict.plateCurvedAntiZirconium.name=弯曲的 Anti-Zirconium 板
     S:oredict.plateCurvedAntimony.name=弯曲的 Antimony 板
     S:oredict.plateCurvedArdite.name=Curved Ardite Plate
@@ -30886,7 +30886,7 @@ languagefile {
     S:oredict.plateCurvedYtterbium.name=弯曲的 Ytterbium 板
     S:oredict.plateCurvedYttrium.name=弯曲的 Yttrium 板
     S:oredict.plateCurvedYttriumBariumCuprate.name=弯曲的 Yttrium-Barium-Cuprate 板
-    S:oredict.plateCurvedZinc.name=弯曲的 Zinc 板
+    S:oredict.plateCurvedZinc.name=弯曲的 锌 板
     S:oredict.plateCurvedZirconium.name=弯曲的 Zirconium 板
     S:oredict.plateCyanite.name=Cyanite Plate
     S:oredict.plateDacite.name=Dacite Plate
@@ -31015,7 +31015,7 @@ languagefile {
     S:oredict.plateDenseAntiVanadium.name=致密反物质钒板
     S:oredict.plateDenseAntiYtterbium.name=致密反物质Ytterbium板
     S:oredict.plateDenseAntiYttrium.name=致密反物质Yttrium板
-    S:oredict.plateDenseAntiZinc.name=致密反物质Zinc板
+    S:oredict.plateDenseAntiZinc.name=致密反物质锌板
     S:oredict.plateDenseAntiZirconium.name=致密反物质Zirconium板
     S:oredict.plateDenseAntimony.name=致密锑板
     S:oredict.plateDenseArdite.name=Dense Ardite Plate
@@ -31241,7 +31241,7 @@ languagefile {
     S:oredict.plateDenseYtterbium.name=致密Ytterbium板
     S:oredict.plateDenseYttrium.name=致密Yttrium板
     S:oredict.plateDenseYttriumBariumCuprate.name=致密Yttrium-钡-Cuprate板
-    S:oredict.plateDenseZinc.name=致密Zinc板
+    S:oredict.plateDenseZinc.name=致密锌板
     S:oredict.plateDenseZirconium.name=Dense Zirconium板
     S:oredict.plateDesh.name=戴斯板
     S:oredict.plateDesichalkos.name=虚空之魂石板
@@ -31365,7 +31365,7 @@ languagefile {
     S:oredict.plateDoubleAntiVanadium.name=两重反物质钒板
     S:oredict.plateDoubleAntiYtterbium.name=两重反物质Ytterbium板
     S:oredict.plateDoubleAntiYttrium.name=两重反物质Yttrium板
-    S:oredict.plateDoubleAntiZinc.name=两重反物质Zinc板
+    S:oredict.plateDoubleAntiZinc.name=两重反物质锌板
     S:oredict.plateDoubleAntiZirconium.name=两重反物质Zirconium板
     S:oredict.plateDoubleAntimony.name=两重锑板
     S:oredict.plateDoubleArdite.name=Double Ardite Plate
@@ -31592,7 +31592,7 @@ languagefile {
     S:oredict.plateDoubleYtterbium.name=两重Ytterbium板
     S:oredict.plateDoubleYttrium.name=两重Yttrium板
     S:oredict.plateDoubleYttriumBariumCuprate.name=两重Yttrium-钡-Cuprate板
-    S:oredict.plateDoubleZinc.name=两重Zinc板
+    S:oredict.plateDoubleZinc.name=两重锌板
     S:oredict.plateDoubleZirconium.name=Double Zirconium板
     S:oredict.plateDubnium.name=Dubnium板
     S:oredict.plateDuranium.name=钍瑞铌板
@@ -31979,7 +31979,7 @@ languagefile {
     S:oredict.plateQuadrupleAntiVanadium.name=四重反物质钒板
     S:oredict.plateQuadrupleAntiYtterbium.name=四重反物质Ytterbium板
     S:oredict.plateQuadrupleAntiYttrium.name=四重反物质Yttrium板
-    S:oredict.plateQuadrupleAntiZinc.name=四重反物质Zinc板
+    S:oredict.plateQuadrupleAntiZinc.name=四重反物质锌板
     S:oredict.plateQuadrupleAntiZirconium.name=四重反物质Zirconium板
     S:oredict.plateQuadrupleAntimony.name=四重锑板
     S:oredict.plateQuadrupleArdite.name=Quadruple Ardite Plate
@@ -32206,7 +32206,7 @@ languagefile {
     S:oredict.plateQuadrupleYtterbium.name=四重Ytterbium板
     S:oredict.plateQuadrupleYttrium.name=四重Yttrium板
     S:oredict.plateQuadrupleYttriumBariumCuprate.name=四重Yttrium-钡-Cuprate板
-    S:oredict.plateQuadrupleZinc.name=四重Zinc板
+    S:oredict.plateQuadrupleZinc.name=四重锌板
     S:oredict.plateQuadrupleZirconium.name=四重Zirconium板
     S:oredict.plateQuintupleActinium.name=五重锕板
     S:oredict.plateQuintupleAdamantium.name=五重艾德曼合金板
@@ -32327,7 +32327,7 @@ languagefile {
     S:oredict.plateQuintupleAntiVanadium.name=五重反物质钒板
     S:oredict.plateQuintupleAntiYtterbium.name=五重反物质Ytterbium板
     S:oredict.plateQuintupleAntiYttrium.name=五重反物质Yttrium板
-    S:oredict.plateQuintupleAntiZinc.name=五重反物质Zinc板
+    S:oredict.plateQuintupleAntiZinc.name=五重反物质锌板
     S:oredict.plateQuintupleAntiZirconium.name=五重反物质Zirconium板
     S:oredict.plateQuintupleAntimony.name=五重锑板
     S:oredict.plateQuintupleArdite.name=Quintuple Ardite Plate
@@ -32554,7 +32554,7 @@ languagefile {
     S:oredict.plateQuintupleYtterbium.name=五重Ytterbium板
     S:oredict.plateQuintupleYttrium.name=五重Yttrium板
     S:oredict.plateQuintupleYttriumBariumCuprate.name=五重Yttrium-钡-Cuprate板
-    S:oredict.plateQuintupleZinc.name=五重Zinc板
+    S:oredict.plateQuintupleZinc.name=五重锌板
     S:oredict.plateQuintupleZirconium.name=五重Zirconium板
     S:oredict.plateRadium.name=镭板
     S:oredict.plateRedAlloy.name=红色合金板
@@ -32727,7 +32727,7 @@ languagefile {
     S:oredict.plateTinyAntiVanadium.name=小块反物质钒板
     S:oredict.plateTinyAntiYtterbium.name=小块反物质Ytterbium板
     S:oredict.plateTinyAntiYttrium.name=小块反物质Yttrium板
-    S:oredict.plateTinyAntiZinc.name=小块反物质Zinc板
+    S:oredict.plateTinyAntiZinc.name=小块反物质锌板
     S:oredict.plateTinyAntiZirconium.name=小块反物质Zirconium板
     S:oredict.plateTinyAntimony.name=小块锑板
     S:oredict.plateTinyArdite.name=Tiny Ardite Plate
@@ -33002,7 +33002,7 @@ languagefile {
     S:oredict.plateTinyYtterbium.name=小块Ytterbium板
     S:oredict.plateTinyYttrium.name=小块Yttrium板
     S:oredict.plateTinyYttriumBariumCuprate.name=小块Yttrium-钡-Cuprate板
-    S:oredict.plateTinyZinc.name=小块Zinc板
+    S:oredict.plateTinyZinc.name=小块锌板
     S:oredict.plateTinyZirconium.name=小块Zirconium板
     S:oredict.plateTitanium.name=钛板
     S:oredict.plateTripleActinium.name=三重锕板
@@ -33124,7 +33124,7 @@ languagefile {
     S:oredict.plateTripleAntiVanadium.name=三重反物质钒板
     S:oredict.plateTripleAntiYtterbium.name=三重反物质Ytterbium板
     S:oredict.plateTripleAntiYttrium.name=三重反物质Yttrium板
-    S:oredict.plateTripleAntiZinc.name=三重反物质Zinc板
+    S:oredict.plateTripleAntiZinc.name=三重反物质锌板
     S:oredict.plateTripleAntiZirconium.name=三重反物质Zirconium板
     S:oredict.plateTripleAntimony.name=三重锑板
     S:oredict.plateTripleArdite.name=Triple Ardite Plate
@@ -33351,7 +33351,7 @@ languagefile {
     S:oredict.plateTripleYtterbium.name=三重Ytterbium板
     S:oredict.plateTripleYttrium.name=三重Yttrium板
     S:oredict.plateTripleYttriumBariumCuprate.name=三重Yttrium-钡-Cuprate板
-    S:oredict.plateTripleZinc.name=三重Zinc板
+    S:oredict.plateTripleZinc.name=三重锌板
     S:oredict.plateTripleZirconium.name=三重Zirconium板
     S:oredict.plateTritanium.name=三钛合金板
     S:oredict.plateTungsten.name=钨板
@@ -33388,7 +33388,7 @@ languagefile {
     S:oredict.plateYtterbium.name=Ytterbium板
     S:oredict.plateYttrium.name=Yttrium板
     S:oredict.plateYttriumBariumCuprate.name=Yttrium-钡-Cuprate板
-    S:oredict.plateZinc.name=Zinc板
+    S:oredict.plateZinc.name=锌板
     S:oredict.plateZirconium.name=Zirconium板
     S:oredict.railGtAluminium.name=铝导轨
     S:oredict.railGtBronze.name=青铜导轨
@@ -34235,7 +34235,7 @@ languagefile {
     S:oredict.scrapGtAntiVibranium.name=反物质Vibranium废料
     S:oredict.scrapGtAntiYtterbium.name=反物质Ytterbium废料
     S:oredict.scrapGtAntiYttrium.name=反物质Yttrium废料
-    S:oredict.scrapGtAntiZinc.name=反物质Zinc废料
+    S:oredict.scrapGtAntiZinc.name=反物质锌废料
     S:oredict.scrapGtAntiZirconium.name=反物质Zirconium废料
     S:oredict.scrapGtAntimony.name=锑废料
     S:oredict.scrapGtApatite.name=磷灰石废料
@@ -34738,7 +34738,7 @@ languagefile {
     S:oredict.scrapGtYttrium.name=Yttrium废料
     S:oredict.scrapGtYttriumBariumCuprate.name=Yttrium-钡-Cuprate废料
     S:oredict.scrapGtZeolite.name=Zeolite废料
-    S:oredict.scrapGtZinc.name=Zinc废料
+    S:oredict.scrapGtZinc.name=锌废料
     S:oredict.scrapGtZirconium.name=Zirconium废料
     S:oredict.screwAdamantium.name=艾德曼合金螺丝
     S:oredict.screwAlmandine.name=Almandine Screw
@@ -35437,7 +35437,7 @@ languagefile {
     S:oredict.stickAntiVibranium.name=反物质Vibranium杆
     S:oredict.stickAntiYtterbium.name=反物质Ytterbium杆
     S:oredict.stickAntiYttrium.name=反物质Yttrium杆
-    S:oredict.stickAntiZinc.name=反物质Zinc杆
+    S:oredict.stickAntiZinc.name=反物质锌杆
     S:oredict.stickAntiZirconium.name=反物质Zirconium杆
     S:oredict.stickAntimony.name=锑杆
     S:oredict.stickApatite.name=磷灰石杆
@@ -35731,7 +35731,7 @@ languagefile {
     S:oredict.stickLongAntiVibranium.name=长反物质Vibranium杆
     S:oredict.stickLongAntiYtterbium.name=长反物质Ytterbium杆
     S:oredict.stickLongAntiYttrium.name=长反物质Yttrium杆
-    S:oredict.stickLongAntiZinc.name=长反物质Zinc杆
+    S:oredict.stickLongAntiZinc.name=长反物质锌杆
     S:oredict.stickLongAntiZirconium.name=长反物质Zirconium杆
     S:oredict.stickLongAntimony.name=长锑杆
     S:oredict.stickLongApatite.name=长磷灰石杆
@@ -36055,7 +36055,7 @@ languagefile {
     S:oredict.stickLongYtterbium.name=长Ytterbium杆
     S:oredict.stickLongYttrium.name=长Yttrium杆
     S:oredict.stickLongYttriumBariumCuprate.name=长Yttrium-钡-Cuprate杆
-    S:oredict.stickLongZinc.name=长Zinc杆
+    S:oredict.stickLongZinc.name=长锌杆
     S:oredict.stickLongZirconium.name=长Zirconium杆
     S:oredict.stickLonsdaleite.name=Lonsdaleite Rod
     S:oredict.stickLumium.name=Lumium杆
@@ -36211,7 +36211,7 @@ languagefile {
     S:oredict.stickYtterbium.name=Ytterbium杆
     S:oredict.stickYttrium.name=Yttrium杆
     S:oredict.stickYttriumBariumCuprate.name=Yttrium-钡-Cuprate杆
-    S:oredict.stickZinc.name=Zinc杆
+    S:oredict.stickZinc.name=锌杆
     S:oredict.stickZirconium.name=Zirconium杆
     S:oredict.toolHeadArrowAdamantium.name=艾德曼合金箭头
     S:oredict.toolHeadArrowAlmandine.name=Almandine箭头 Head
@@ -42685,7 +42685,7 @@ languagefile {
     S:tc.research_name.GT_TRANSINVAR=Invar Transmutation
     S:tc.research_name.GT_TRANSNICKEL=Nickel Transmutation
     S:tc.research_name.GT_TRANSSOLDERINGALLOY=Soldering合金 Transmutation
-    S:tc.research_name.GT_TRANSZINC=Zinc Transmutation
+    S:tc.research_name.GT_TRANSZINC=锌 Transmutation
     S:tc.research_name.GT_WOOD_TO_CHARCOAL=Charcoal Transmutation
     S:tc.research_text.GT_ADVANCEDMETALLURGY=[GT] Mastering the basic metals
     S:tc.research_text.GT_CRYSTALLISATION=[GT] Fixing your precious crystals
@@ -42703,7 +42703,7 @@ languagefile {
     S:tc.research_text.GT_TRANSINVAR=[GT] Transformation of metals into invar
     S:tc.research_text.GT_TRANSNICKEL=[GT] Transformation of metals into nickel
     S:tc.research_text.GT_TRANSSOLDERINGALLOY=[GT] Transformation of metals into soldering合金
-    S:tc.research_text.GT_TRANSZINC=[GT] Transformation of metals into zinc
+    S:tc.research_text.GT_TRANSZINC=[GT] Transformation of metals into 锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] Turning wood into charcoal
 }
 
