@@ -4229,10 +4229,10 @@ languagefile {
     S:gt.multitileentity.2.name=金箱子
     S:gt.multitileentity.20.name=Gilded Iron箱子
     S:gt.multitileentity.2000.name=Mechanical Lead Safe
-    S:gt.multitileentity.20001.name=液化炉(钢)
-    S:gt.multitileentity.20002.name=液化炉(因瓦合金)
-    S:gt.multitileentity.20003.name=液化炉(钛)
-    S:gt.multitileentity.20004.name=液化炉(钨)
+    S:gt.multitileentity.20001.name=熔炉(钢)
+    S:gt.multitileentity.20002.name=熔炉(因瓦合金)
+    S:gt.multitileentity.20003.name=熔炉(钛)
+    S:gt.multitileentity.20004.name=熔炉(钨)
     S:gt.multitileentity.2001.name=Mechanical Aluminium Safe
     S:gt.multitileentity.20011.name=研磨机(青铜）
     S:gt.multitileentity.20012.name=研磨机(钢)
