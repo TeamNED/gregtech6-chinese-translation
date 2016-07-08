@@ -5387,6 +5387,7 @@ languagefile {
     S:itemGroup.gt.multitileentity.30256=Sorting
     S:itemGroup.gt.multitileentity.31015=Sensors
     S:itemGroup.gt.multitileentity.32700=Coins
+    S:itemGroup.gt.multitileentity.32705=Misc Tool Blocks
     S:itemGroup.gt.multitileentity.32707=Misc Tool Blocks
     S:itemGroup.gt.multitileentity.32765=C-Foam
     S:itemGroup.gt.multitileentity.32766=Portals
@@ -9670,7 +9671,9 @@ languagefile {
     S:oredict.chemtubeGadolinium.name=Glass Tube containing Gadolinium
     S:oredict.chemtubeGalena.name=Glass Tube containing Galena
     S:oredict.chemtubeGallium.name=Glass Tube containing Gallium
+    S:oredict.chemtubeGarnetRed.name=Glass Tube containing GarnetRed
     S:oredict.chemtubeGarnetSand.name=Glass Tube containing Garnet Sand
+    S:oredict.chemtubeGarnetYellow.name=Glass Tube containing GarnetYellow
     S:oredict.chemtubeGarnierite.name=Glass Tube containing Garnierite
     S:oredict.chemtubeGermanium.name=Glass Tube containing Germanium
     S:oredict.chemtubeGildedIron.name=Glass Tube containing Gilded Iron
@@ -42432,3 +42435,5 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] Transformation of metals into zinc
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] Turning wood into charcoal
 }
+
+
