@@ -5130,6 +5130,7 @@ languagefile {
     S:gt.td.long.processing.uum_synthesisable=UUM Synthesisable
     S:gt.td.long.processing.washing_mercury=Mercury Washable
     S:gt.td.long.processing.washing_sodiumpersulfate=Sodium Persulfate Washable
+    S:gt.td.long.projectiles.arrow=箭头
     S:gt.td.long.properties.auto_blacklist=自动黑名单
     S:gt.td.long.properties.auto_material=Automatic Material
     S:gt.td.long.properties.bouncy=Bouncy
@@ -5251,6 +5252,7 @@ languagefile {
     S:gt.td.short.processing.uum_synthesisable=UUM Synthesisable
     S:gt.td.short.processing.washing_mercury=Mercury Washable
     S:gt.td.short.processing.washing_sodiumpersulfate=Sodium Persulfate Washable
+    S:gt.td.short.projectiles.arrow=箭头
     S:gt.td.short.properties.auto_blacklist=Auto Blacklist
     S:gt.td.short.properties.auto_material=Automatic Material
     S:gt.td.short.properties.bouncy=Bouncy
@@ -6344,6 +6346,7 @@ languagefile {
     S:oredict.blockDustOlivine.name=橄榄石粉块
     S:oredict.blockDustOpal.name=猫眼石粉块
     S:oredict.blockDustOrange.name=橙色染料块
+    S:oredict.blockDustOrangeSapphire.name=Block of Orange Sapphire粉
     S:oredict.blockDustOrichalcum.name=自然之石粉块
     S:oredict.blockDustOsmiridium.name=铱锇合金粉块
     S:oredict.blockDustOsmium.name=锇粉块
@@ -10767,6 +10770,7 @@ languagefile {
     S:oredict.crateGtDustBlizz.name=Blizz粉板条箱
     S:oredict.crateGtDustBlue.name=Crate of蓝色染料
     S:oredict.crateGtDustBlueAlloy.name=蓝合金粉板条箱
+    S:oredict.crateGtDustBlueSapphire.name=Crate of Blue Sapphire粉
     S:oredict.crateGtDustBlueSteel.name=蓝钢粉板条箱
     S:oredict.crateGtDustBlueTopaz.name=蓝色黄玉粉板条箱
     S:oredict.crateGtDustBlueschist.name=蓝片岩粉板条箱
@@ -11041,6 +11045,7 @@ languagefile {
     S:oredict.crateGtDustOlivine.name=橄榄石粉板条箱
     S:oredict.crateGtDustOpal.name=猫眼石粉板条箱
     S:oredict.crateGtDustOrange.name=Crate of橙色染料
+    S:oredict.crateGtDustOrangeSapphire.name=Crate of Orange Sapphire粉
     S:oredict.crateGtDustOrichalcum.name=自然之石粉板条箱
     S:oredict.crateGtDustOsmiridium.name=铱锇合金粉板条箱
     S:oredict.crateGtDustOsmium.name=锇粉板条箱
@@ -11227,6 +11232,7 @@ languagefile {
     S:oredict.crateGtDustYellorium.name=Crate of Yellorium粉
     S:oredict.crateGtDustYellow.name=Crate of黄色染料
     S:oredict.crateGtDustYellowLimonite.name=黄色褐铁矿粉板条箱
+    S:oredict.crateGtDustYellowSapphire.name=Crate of Yellow Sapphire粉
     S:oredict.crateGtDustYtterbium.name=Ytterbium粉板条箱
     S:oredict.crateGtDustYttrium.name=Yttrium粉板条箱
     S:oredict.crateGtDustYttriumBariumCuprate.name=Yttrium-钡-Cuprate粉板条箱
@@ -14937,6 +14943,8 @@ languagefile {
     S:oredict.dustBlizz.name=Blizz粉
     S:oredict.dustBlue.name=蓝色染料
     S:oredict.dustBlueAlloy.name=蓝合金粉
+    S:oredict.dustBlueSapphire.name=Blue Sapphire粉
+    S:oredict.dustBlueSteel.name=Blue Steel粉
     S:oredict.dustBlueTopaz.name=蓝色黄玉粉
     S:oredict.dustBlueschist.name=蓝片岩粉
     S:oredict.dustBluestone.name=胆矾粉
@@ -15265,6 +15273,7 @@ languagefile {
     S:oredict.dustImpureBeryllium.name=含杂的铍粉
     S:oredict.dustImpureBiotite.name=含杂的黑云母粉
     S:oredict.dustImpureBismuth.name=含杂的铋粉
+    S:oredict.dustImpureBlueSapphire.name=Impure Pile of Blue Sapphire粉
     S:oredict.dustImpureBlueTopaz.name=含杂的蓝色黄玉粉
     S:oredict.dustImpureBlueschist.name=Impure Pile of蓝色 Schist粉
     S:oredict.dustImpureBluestone.name=Impure Pile of蓝色stone粉
@@ -15562,6 +15571,7 @@ languagefile {
     S:oredict.dustImpureWulfenite.name=含杂的Wulfenite粉
     S:oredict.dustImpureYellorium.name=Impure Pile of Yellorium粉
     S:oredict.dustImpureYellowLimonite.name=含杂的黄色褐铁矿粉
+    S:oredict.dustImpureYellowSapphire.name=Impure Pile of Yellow Sapphire粉
     S:oredict.dustImpureYtterbium.name=含杂的Ytterbium粉
     S:oredict.dustImpureYttrium.name=含杂的Yttrium粉
     S:oredict.dustImpureZeolite.name=含杂的Zeolite粉
@@ -15870,6 +15880,7 @@ languagefile {
     S:oredict.dustPureBeryllium.name=纯净的铍粉
     S:oredict.dustPureBiotite.name=纯净的黑云母粉
     S:oredict.dustPureBismuth.name=纯净的铋粉
+    S:oredict.dustPureBlueSapphire.name=Purified Pile of Blue Sapphire粉
     S:oredict.dustPureBlueTopaz.name=纯净的蓝色黄玉粉
     S:oredict.dustPureBlueschist.name=Purified Pile of蓝色 Schist粉
     S:oredict.dustPureBluestone.name=Purified Pile of蓝色stone粉
@@ -16052,6 +16063,7 @@ languagefile {
     S:oredict.dustPureOilsands.name=纯净的Oilsands
     S:oredict.dustPureOlivine.name=纯净的橄榄石粉
     S:oredict.dustPureOpal.name=纯净的猫眼石粉
+    S:oredict.dustPureOrangeSapphire.name=Purified Pile of Orange Sapphire粉
     S:oredict.dustPureOrichalcum.name=纯净的自然之石粉
     S:oredict.dustPureOsmium.name=纯净的锇粉
     S:oredict.dustPureOureclase.name=纯净的大地结晶粉
@@ -16167,6 +16179,7 @@ languagefile {
     S:oredict.dustPureWulfenite.name=纯净的Wulfenite粉
     S:oredict.dustPureYellorium.name=Purified Pile of Yellorium粉
     S:oredict.dustPureYellowLimonite.name=纯净的黄色褐铁矿粉
+    S:oredict.dustPureYellowSapphire.name=Purified Pile of Yellow Sapphire粉
     S:oredict.dustPureYtterbium.name=纯净的Ytterbium粉
     S:oredict.dustPureYttrium.name=纯净的Yttrium粉
     S:oredict.dustPureZeolite.name=纯净的Zeolite粉
@@ -16399,6 +16412,7 @@ languagefile {
     S:oredict.dustSmallBlizz.name=小堆Blizz粉
     S:oredict.dustSmallBlue.name=Small Pile of蓝色染料
     S:oredict.dustSmallBlueAlloy.name=小堆蓝合金粉
+    S:oredict.dustSmallBlueSapphire.name=小堆的Blue Sapphire粉
     S:oredict.dustSmallBlueSteel.name=小堆蓝钢粉
     S:oredict.dustSmallBlueTopaz.name=小堆蓝色黄玉粉
     S:oredict.dustSmallBlueschist.name=小堆蓝片岩粉
@@ -16673,6 +16687,7 @@ languagefile {
     S:oredict.dustSmallOlivine.name=小堆橄榄石粉
     S:oredict.dustSmallOpal.name=小堆猫眼石粉
     S:oredict.dustSmallOrange.name=Small Pile of橙色染料
+    S:oredict.dustSmallOrangeSapphire.name=小堆的Orange Sapphire粉
     S:oredict.dustSmallOrichalcum.name=小堆自然之石粉
     S:oredict.dustSmallOsmiridium.name=小堆铱锇合金粉
     S:oredict.dustSmallOsmium.name=小堆锇粉
@@ -16859,6 +16874,7 @@ languagefile {
     S:oredict.dustSmallYellorium.name=小堆的Yellorium粉
     S:oredict.dustSmallYellow.name=Small Pile of黄色染料
     S:oredict.dustSmallYellowLimonite.name=小堆黄色褐铁矿粉
+    S:oredict.dustSmallYellowSapphire.name=小堆的Yellow Sapphire粉
     S:oredict.dustSmallYtterbium.name=小堆Ytterbium粉
     S:oredict.dustSmallYttrium.name=小堆Yttrium粉
     S:oredict.dustSmallYttriumBariumCuprate.name=小堆Yttrium-钡-Cuprate粉
@@ -17088,6 +17104,7 @@ languagefile {
     S:oredict.dustTinyBlizz.name=小撮Blizz粉
     S:oredict.dustTinyBlue.name=小撮蓝色染料
     S:oredict.dustTinyBlueAlloy.name=小撮蓝合金粉
+    S:oredict.dustTinyBlueSapphire.name=小撮Blue Sapphire粉
     S:oredict.dustTinyBlueSteel.name=小撮蓝钢粉
     S:oredict.dustTinyBlueTopaz.name=小撮蓝色黄玉粉
     S:oredict.dustTinyBlueschist.name=小撮蓝片岩粉
@@ -17362,6 +17379,7 @@ languagefile {
     S:oredict.dustTinyOlivine.name=小撮Olivine粉
     S:oredict.dustTinyOpal.name=小撮Opal粉
     S:oredict.dustTinyOrange.name=小撮橙色染料
+    S:oredict.dustTinyOrangeSapphire.name=小撮Orange Sapphire粉
     S:oredict.dustTinyOrichalcum.name=小撮Orichalcum粉
     S:oredict.dustTinyOsmiridium.name=小撮Osmiridium粉
     S:oredict.dustTinyOsmium.name=小撮锇粉
@@ -17548,6 +17566,7 @@ languagefile {
     S:oredict.dustTinyYellorium.name=小撮Yellorium粉
     S:oredict.dustTinyYellow.name=小撮黄色染料
     S:oredict.dustTinyYellowLimonite.name=小撮黄色褐铁矿粉
+    S:oredict.dustTinyYellowSapphire.name=小撮Yellow Sapphire粉
     S:oredict.dustTinyYtterbium.name=小撮Ytterbium粉
     S:oredict.dustTinyYttrium.name=小撮Yttrium粉
     S:oredict.dustTinyYttriumBariumCuprate.name=小撮Yttrium-钡-Cuprate粉
