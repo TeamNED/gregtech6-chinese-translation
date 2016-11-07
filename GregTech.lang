@@ -153,7 +153,7 @@ languagefile {
     S:fluid.dye.flower.dyemagenta=Magenta 花染料
     S:fluid.dye.flower.dyeorange=Orange 花染料
     S:fluid.dye.flower.dyepink=Pink 花染料
-    S:fluid.dye.flower.dyepurple=Purple 花染料
+    S:fluid.dye.flower.dyepurple=紫色 花染料
     S:fluid.dye.flower.dyered=Red 花染料
     S:fluid.dye.flower.dyewhite=White 花染料
     S:fluid.dye.flower.dyeyellow=Yellow 花染料
@@ -669,7 +669,7 @@ languagefile {
     S:gt.block.cfoam.slab.2.3.name=褐色泡沫半砖
     S:gt.block.cfoam.slab.2.32767.name=Any Sub-Block of this one
     S:gt.block.cfoam.slab.2.4.name=蓝色泡沫半砖
-    S:gt.block.cfoam.slab.2.5.name=Purple泡沫半砖
+    S:gt.block.cfoam.slab.2.5.name=紫色泡沫半砖
     S:gt.block.cfoam.slab.2.6.name=Cyan泡沫半砖
     S:gt.block.cfoam.slab.2.7.name=淡灰色泡沫半砖
     S:gt.block.cfoam.slab.2.8.name=Gray泡沫半砖
@@ -686,7 +686,7 @@ languagefile {
     S:gt.block.cfoam.slab.3.3.name=褐色泡沫半砖
     S:gt.block.cfoam.slab.3.32767.name=Any Sub-Block of this one
     S:gt.block.cfoam.slab.3.4.name=蓝色泡沫半砖
-    S:gt.block.cfoam.slab.3.5.name=Purple泡沫半砖
+    S:gt.block.cfoam.slab.3.5.name=紫色泡沫半砖
     S:gt.block.cfoam.slab.3.6.name=Cyan泡沫半砖
     S:gt.block.cfoam.slab.3.7.name=淡灰色泡沫半砖
     S:gt.block.cfoam.slab.3.8.name=Gray泡沫半砖
@@ -703,7 +703,7 @@ languagefile {
     S:gt.block.cfoam.slab.4.3.name=褐色泡沫半砖
     S:gt.block.cfoam.slab.4.32767.name=Any Sub-Block of this one
     S:gt.block.cfoam.slab.4.4.name=蓝色泡沫半砖
-    S:gt.block.cfoam.slab.4.5.name=Purple泡沫半砖
+    S:gt.block.cfoam.slab.4.5.name=紫色泡沫半砖
     S:gt.block.cfoam.slab.4.6.name=Cyan泡沫半砖
     S:gt.block.cfoam.slab.4.7.name=淡灰色泡沫半砖
     S:gt.block.cfoam.slab.4.8.name=Gray泡沫半砖
@@ -720,7 +720,7 @@ languagefile {
     S:gt.block.cfoam.slab.5.3.name=褐色泡沫半砖
     S:gt.block.cfoam.slab.5.32767.name=Any Sub-Block of this one
     S:gt.block.cfoam.slab.5.4.name=蓝色泡沫半砖
-    S:gt.block.cfoam.slab.5.5.name=Purple泡沫半砖
+    S:gt.block.cfoam.slab.5.5.name=紫色泡沫半砖
     S:gt.block.cfoam.slab.5.6.name=Cyan泡沫半砖
     S:gt.block.cfoam.slab.5.7.name=淡灰色泡沫半砖
     S:gt.block.cfoam.slab.5.8.name=Gray泡沫半砖
@@ -737,7 +737,7 @@ languagefile {
     S:gt.block.glass.3.name=褐色玻璃
     S:gt.block.glass.32767.name=Any Sub-Block of this one
     S:gt.block.glass.4.name=蓝色玻璃
-    S:gt.block.glass.5.name=Purple玻璃
+    S:gt.block.glass.5.name=紫色玻璃
     S:gt.block.glass.6.name=Cyan玻璃
     S:gt.block.glass.7.name=淡灰色玻璃
     S:gt.block.glass.8.name=Gray玻璃
@@ -754,7 +754,7 @@ languagefile {
     S:gt.block.glass.slab.0.3.name=褐色玻璃半砖
     S:gt.block.glass.slab.0.32767.name=Any Sub-Block of this one
     S:gt.block.glass.slab.0.4.name=蓝色玻璃半砖
-    S:gt.block.glass.slab.0.5.name=Purple玻璃半砖
+    S:gt.block.glass.slab.0.5.name=紫色玻璃半砖
     S:gt.block.glass.slab.0.6.name=Cyan玻璃半砖
     S:gt.block.glass.slab.0.7.name=淡灰色玻璃半砖
     S:gt.block.glass.slab.0.8.name=Gray玻璃半砖
@@ -771,7 +771,7 @@ languagefile {
     S:gt.block.glass.slab.1.3.name=褐色玻璃半砖
     S:gt.block.glass.slab.1.32767.name=Any Sub-Block of this one
     S:gt.block.glass.slab.1.4.name=蓝色玻璃半砖
-    S:gt.block.glass.slab.1.5.name=Purple玻璃半砖
+    S:gt.block.glass.slab.1.5.name=紫色玻璃半砖
     S:gt.block.glass.slab.1.6.name=Cyan玻璃半砖
     S:gt.block.glass.slab.1.7.name=淡灰色玻璃半砖
     S:gt.block.glass.slab.1.8.name=Gray玻璃半砖
@@ -788,7 +788,7 @@ languagefile {
     S:gt.block.glass.slab.2.3.name=褐色玻璃半砖
     S:gt.block.glass.slab.2.32767.name=Any Sub-Block of this one
     S:gt.block.glass.slab.2.4.name=蓝色玻璃半砖
-    S:gt.block.glass.slab.2.5.name=Purple玻璃半砖
+    S:gt.block.glass.slab.2.5.name=紫色玻璃半砖
     S:gt.block.glass.slab.2.6.name=Cyan玻璃半砖
     S:gt.block.glass.slab.2.7.name=淡灰色玻璃半砖
     S:gt.block.glass.slab.2.8.name=Gray玻璃半砖
@@ -805,7 +805,7 @@ languagefile {
     S:gt.block.glass.slab.3.3.name=褐色玻璃半砖
     S:gt.block.glass.slab.3.32767.name=Any Sub-Block of this one
     S:gt.block.glass.slab.3.4.name=蓝色玻璃半砖
-    S:gt.block.glass.slab.3.5.name=Purple玻璃半砖
+    S:gt.block.glass.slab.3.5.name=紫色玻璃半砖
     S:gt.block.glass.slab.3.6.name=Cyan玻璃半砖
     S:gt.block.glass.slab.3.7.name=淡灰色玻璃半砖
     S:gt.block.glass.slab.3.8.name=Gray玻璃半砖
@@ -822,7 +822,7 @@ languagefile {
     S:gt.block.glass.slab.4.3.name=褐色玻璃半砖
     S:gt.block.glass.slab.4.32767.name=Any Sub-Block of this one
     S:gt.block.glass.slab.4.4.name=蓝色玻璃半砖
-    S:gt.block.glass.slab.4.5.name=Purple玻璃半砖
+    S:gt.block.glass.slab.4.5.name=紫色玻璃半砖
     S:gt.block.glass.slab.4.6.name=Cyan玻璃半砖
     S:gt.block.glass.slab.4.7.name=淡灰色玻璃半砖
     S:gt.block.glass.slab.4.8.name=Gray玻璃半砖
@@ -839,7 +839,7 @@ languagefile {
     S:gt.block.glass.slab.5.3.name=褐色玻璃半砖
     S:gt.block.glass.slab.5.32767.name=Any Sub-Block of this one
     S:gt.block.glass.slab.5.4.name=蓝色玻璃半砖
-    S:gt.block.glass.slab.5.5.name=Purple玻璃半砖
+    S:gt.block.glass.slab.5.5.name=紫色玻璃半砖
     S:gt.block.glass.slab.5.6.name=Cyan玻璃半砖
     S:gt.block.glass.slab.5.7.name=淡灰色玻璃半砖
     S:gt.block.glass.slab.5.8.name=Gray玻璃半砖
@@ -1006,7 +1006,7 @@ languagefile {
     S:gt.drink.potion.poison.strong=中毒 II (0:22)
     S:gt.drink.potion.poison.strong.splash=中毒 II (0:16)
     S:gt.drink.potion.potatojuice=Ever seen Potato Juice in stores? No? That has a reason.
-    S:gt.drink.potion.purpledrink=How about Lemonade. Or some Ice Tea? I got Purple Drink!
+    S:gt.drink.potion.purpledrink=How about Lemonade. Or some Ice Tea? I got 紫色妹汁!
     S:gt.drink.potion.reedwater=I guess this tastes better when fermented
     S:gt.drink.potion.regen=再生 I (0:45)
     S:gt.drink.potion.regen.long=再生 I (2:00)
@@ -2378,7 +2378,7 @@ languagefile {
     S:gt.material.Proton=质子
     S:gt.material.PulsatingIron=脉冲铁
     S:gt.material.Pumice=浮石
-    S:gt.material.Purple=Purple
+    S:gt.material.Purple=紫色
     S:gt.material.Pyrite=黄铁矿
     S:gt.material.Pyrolusite=软锰矿
     S:gt.material.Pyrope=镁铝榴石
@@ -3339,7 +3339,7 @@ languagefile {
     S:gt.multiitem.bottles.1501.name=Notches的酿造
     S:gt.multiitem.bottles.1501.tooltip=This is just overpowered
     S:gt.multiitem.bottles.1600.name=紫色妹汁
-    S:gt.multiitem.bottles.1600.tooltip=妹汁哦♂♂（来自tp翻译，为TP致敬;-P）
+    S:gt.multiitem.bottles.1600.tooltip=妹汁哦♂♂
     S:gt.multiitem.bottles.1700.name=圣水
     S:gt.multiitem.bottles.1700.tooltip=让你变得神圣（妥妥的上天堂哦）
     S:gt.multiitem.bottles.1800.name=酒酿
@@ -3453,7 +3453,7 @@ languagefile {
     S:gt.multiitem.bottles.32136.name=Bottled 花染料
     S:gt.multiitem.bottles.32136.tooltip=Color: Blue
     S:gt.multiitem.bottles.32137.name=Bottled 花染料
-    S:gt.multiitem.bottles.32137.tooltip=Color: Purple
+    S:gt.multiitem.bottles.32137.tooltip=Color: 紫色
     S:gt.multiitem.bottles.32138.name=Bottled 花染料
     S:gt.multiitem.bottles.32138.tooltip=Color: Cyan
     S:gt.multiitem.bottles.32139.name=Bottled 花染料
@@ -3557,15 +3557,15 @@ languagefile {
     S:gt.multiitem.cans.4.tooltip=
     S:gt.multiitem.cans.41.name=迷你食物罐头 (Bread)
     S:gt.multiitem.cans.41.tooltip=
-    S:gt.multiitem.cans.42.name=小食物罐头 (Bread)
+    S:gt.multiitem.cans.42.name=小食物罐头 (面包)
     S:gt.multiitem.cans.42.tooltip=
-    S:gt.multiitem.cans.43.name=高食物罐头 (Bread)
+    S:gt.multiitem.cans.43.name=高食物罐头 (面包)
     S:gt.multiitem.cans.43.tooltip=
-    S:gt.multiitem.cans.44.name=宽食物罐头 (Bread)
+    S:gt.multiitem.cans.44.name=宽食物罐头 (面包)
     S:gt.multiitem.cans.44.tooltip=
-    S:gt.multiitem.cans.45.name=大食物罐头 (Bread)
+    S:gt.multiitem.cans.45.name=大食物罐头 (面包)
     S:gt.multiitem.cans.45.tooltip=
-    S:gt.multiitem.cans.46.name=超级大食物罐头 (Bread)
+    S:gt.multiitem.cans.46.name=超级大食物罐头 (面包)
     S:gt.multiitem.cans.46.tooltip=
     S:gt.multiitem.cans.5.name=大食物罐头 (Unknown)
     S:gt.multiitem.cans.5.tooltip=
@@ -3694,8 +3694,8 @@ languagefile {
     S:gt.multiitem.food.31005.tooltip=Pill that cures Poison
     S:gt.multiitem.food.31999.name=Cure All
     S:gt.multiitem.food.31999.tooltip=Cures everything you could imagine*
-    S:gt.multiitem.food.32000.name=Dough
-    S:gt.multiitem.food.32000.tooltip=For making Bread
+    S:gt.multiitem.food.32000.name=面团
+    S:gt.multiitem.food.32000.tooltip=做面包用
     S:gt.multiitem.food.32001.name=Sugary Dough
     S:gt.multiitem.food.32001.tooltip=Don't eat the Dough before it is baken
     S:gt.multiitem.food.32002.name=Chocolate Dough
@@ -3764,10 +3764,10 @@ languagefile {
     S:gt.multiitem.food.5017.tooltip=Don't forget your Soylent Salad with Soylent Cola!
     S:gt.multiitem.food.60.name=Green Grapes
     S:gt.multiitem.food.60.tooltip=Source of Wine
-    S:gt.multiitem.food.6000.name=Dough (Bread)
+    S:gt.multiitem.food.6000.name=Dough (面包)
     S:gt.multiitem.food.6000.tooltip=In Bread Shape
     S:gt.multiitem.food.6002.name=Sliced Bread
-    S:gt.multiitem.food.6002.tooltip=Just half a Bread
+    S:gt.multiitem.food.6002.tooltip=只是半个面包
     S:gt.multiitem.food.6003.name=Breads
     S:gt.multiitem.food.6003.tooltip=Pre Sliced
     S:gt.multiitem.food.6010.name=Veggie Sandwich
@@ -3780,7 +3780,7 @@ languagefile {
     S:gt.multiitem.food.6015.tooltip=Not a 'Steam Sandwich'
     S:gt.multiitem.food.61.name=Green Raisins
     S:gt.multiitem.food.61.tooltip=Dried Grapes
-    S:gt.multiitem.food.70.name=Purple Grapes
+    S:gt.multiitem.food.70.name=紫色葡萄
     S:gt.multiitem.food.70.tooltip=Source of Wine
     S:gt.multiitem.food.7000.name=Dough (Baguette)
     S:gt.multiitem.food.7000.tooltip=In Baguette Shape
@@ -3845,9 +3845,9 @@ languagefile {
     S:gt.multiitem.randomtools.1008.tooltip=满满的
     S:gt.multiitem.randomtools.1009.name=喷射油漆 (Blue)
     S:gt.multiitem.randomtools.1009.tooltip=使用过的
-    S:gt.multiitem.randomtools.1010.name=喷射油漆 (Purple)
+    S:gt.multiitem.randomtools.1010.name=喷射油漆 (紫色)
     S:gt.multiitem.randomtools.1010.tooltip=满满的
-    S:gt.multiitem.randomtools.1011.name=喷射油漆 (Purple)
+    S:gt.multiitem.randomtools.1011.name=喷射油漆 (紫色)
     S:gt.multiitem.randomtools.1011.tooltip=使用过的
     S:gt.multiitem.randomtools.1012.name=喷射油漆 (Cyan)
     S:gt.multiitem.randomtools.1012.tooltip=满满的
@@ -3913,9 +3913,9 @@ languagefile {
     S:gt.multiitem.randomtools.1108.tooltip=满满的
     S:gt.multiitem.randomtools.1109.name=喷射泡沫 (Blue)
     S:gt.multiitem.randomtools.1109.tooltip=使用过的
-    S:gt.multiitem.randomtools.1110.name=喷射泡沫 (Purple)
+    S:gt.multiitem.randomtools.1110.name=喷射泡沫 (紫色)
     S:gt.multiitem.randomtools.1110.tooltip=满满的
-    S:gt.multiitem.randomtools.1111.name=喷射泡沫 (Purple)
+    S:gt.multiitem.randomtools.1111.name=喷射泡沫 (紫色)
     S:gt.multiitem.randomtools.1111.tooltip=使用过的
     S:gt.multiitem.randomtools.1112.name=喷射泡沫 (Cyan)
     S:gt.multiitem.randomtools.1112.tooltip=满满的
@@ -18010,7 +18010,7 @@ languagefile {
     S:oredict.dustPureZeolite.name=纯净的Zeolite粉
     S:oredict.dustPureZinc.name=纯净的锌粉
     S:oredict.dustPureZirconium.name=纯净的Zirconium粉
-    S:oredict.dustPurple.name=Purple染料
+    S:oredict.dustPurple.name=紫色染料
     S:oredict.dustPyrite.name=黄铁矿粉
     S:oredict.dustPyrolusite.name=Pyrolusite粉
     S:oredict.dustPyrope.name=Pyrope粉
@@ -30382,7 +30382,7 @@ languagefile {
     S:oredict.plantGtBerryProtactinium.name=Protactinium梅
     S:oredict.plantGtBerryPulsatingIron.name=Pulsating Iron梅
     S:oredict.plantGtBerryPumice.name=Pumice梅
-    S:oredict.plantGtBerryPurple.name=Purple梅
+    S:oredict.plantGtBerryPurple.name=紫色梅
     S:oredict.plantGtBerryPyrite.name=Pyrite梅
     S:oredict.plantGtBerryPyrolusite.name=Pyrolusite梅
     S:oredict.plantGtBerryPyrope.name=Pyrope梅
@@ -31121,7 +31121,7 @@ languagefile {
     S:oredict.plantGtBlossomProtactinium.name=Protactinium花
     S:oredict.plantGtBlossomPulsatingIron.name=Pulsating Iron花
     S:oredict.plantGtBlossomPumice.name=Pumice花
-    S:oredict.plantGtBlossomPurple.name=Purple花
+    S:oredict.plantGtBlossomPurple.name=紫色花
     S:oredict.plantGtBlossomPyrite.name=Pyrite花
     S:oredict.plantGtBlossomPyrolusite.name=Pyrolusite花
     S:oredict.plantGtBlossomPyrope.name=Pyrope花
@@ -31860,7 +31860,7 @@ languagefile {
     S:oredict.plantGtFiberProtactinium.name=粗糙的Protactinium纤维
     S:oredict.plantGtFiberPulsatingIron.name=粗糙的Pulsating Iron纤维
     S:oredict.plantGtFiberPumice.name=粗糙的Pumice纤维
-    S:oredict.plantGtFiberPurple.name=Purple String
+    S:oredict.plantGtFiberPurple.name=紫色 String
     S:oredict.plantGtFiberPyrite.name=粗糙的Pyrite纤维
     S:oredict.plantGtFiberPyrolusite.name=粗糙的Pyrolusite纤维
     S:oredict.plantGtFiberPyrope.name=粗糙的Pyrope纤维
@@ -32599,7 +32599,7 @@ languagefile {
     S:oredict.plantGtTwigProtactinium.name=Protactinium细枝
     S:oredict.plantGtTwigPulsatingIron.name=Pulsating Iron细枝
     S:oredict.plantGtTwigPumice.name=Pumice细枝
-    S:oredict.plantGtTwigPurple.name=Purple细枝
+    S:oredict.plantGtTwigPurple.name=紫色细枝
     S:oredict.plantGtTwigPyrite.name=Pyrite细枝
     S:oredict.plantGtTwigPyrolusite.name=Pyrolusite细枝
     S:oredict.plantGtTwigPyrope.name=Pyrope细枝
@@ -33338,7 +33338,7 @@ languagefile {
     S:oredict.plantGtWartProtactinium.name=Protactinium疣
     S:oredict.plantGtWartPulsatingIron.name=Pulsating Iron疣
     S:oredict.plantGtWartPumice.name=Pumice疣
-    S:oredict.plantGtWartPurple.name=Purple疣
+    S:oredict.plantGtWartPurple.name=紫色疣
     S:oredict.plantGtWartPyrite.name=Pyrite疣
     S:oredict.plantGtWartPyrolusite.name=Pyrolusite疣
     S:oredict.plantGtWartPyrope.name=Pyrope疣
@@ -37884,7 +37884,7 @@ languagefile {
     S:oredict.scrapGtProtactinium.name=镤废料
     S:oredict.scrapGtPulsatingIron.name=Pulsating Iron废料
     S:oredict.scrapGtPumice.name=Pumice废料
-    S:oredict.scrapGtPurple.name=Purple废料
+    S:oredict.scrapGtPurple.name=紫色废料
     S:oredict.scrapGtPyrite.name=Pyrite废料
     S:oredict.scrapGtPyrolusite.name=Pyrolusite废料
     S:oredict.scrapGtPyrope.name=Pyrope废料
