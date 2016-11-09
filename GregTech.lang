@@ -7734,7 +7734,7 @@ languagefile {
     S:oredict.blockDustPhosphate.name=磷酸盐粉块
     S:oredict.blockDustPhosphor.name=磷粉块
     S:oredict.blockDustPhosphorite.name=Block of Phosphorite粉
-    S:oredict.blockDustPhosphorus.name=Phosphorus粉块
+    S:oredict.blockDustPhosphorus.name=磷粉块
     S:oredict.blockDustPigIron.name=生铁粉块
     S:oredict.blockDustPinalite.name=Block of Pinalite粉
     S:oredict.blockDustPink.name=Block of Pink染料
@@ -8003,7 +8003,7 @@ languagefile {
     S:oredict.blockGemOrangeSapphire.name=Orange Sapphire块
     S:oredict.blockGemPhosphor.name=磷块
     S:oredict.blockGemPhosphorite.name=磷灰石块
-    S:oredict.blockGemPhosphorus.name=Phosphorus块
+    S:oredict.blockGemPhosphorus.name=磷块
     S:oredict.blockGemPotassium.name=钾块
     S:oredict.blockGemPrismane.name=Prismane块
     S:oredict.blockGemPyrope.name=Pyrope块
@@ -8655,7 +8655,7 @@ languagefile {
     S:oredict.blockPlateGemOpal.name=猫眼石板块
     S:oredict.blockPlateGemOrangeSapphire.name=Block of水晶line 橙色蓝宝石板
     S:oredict.blockPlateGemPhosphorite.name=Block of水晶line Phosphorite 板
-    S:oredict.blockPlateGemPhosphorus.name=Phosphorus板块
+    S:oredict.blockPlateGemPhosphorus.name=磷板块
     S:oredict.blockPlateGemPrismane.name=Block of水晶line Prismane 板
     S:oredict.blockPlateGemPyrope.name=Block of Pyrope 板
     S:oredict.blockPlateGemQuartzite.name=石英岩板块
@@ -11355,7 +11355,7 @@ languagefile {
     S:oredict.chemtubePhosphate.name=磷酸盐试管
     S:oredict.chemtubePhosphor.name=磷试管
     S:oredict.chemtubePhosphorite.name=试管装 Phosphorite
-    S:oredict.chemtubePhosphorus.name=Phosphorus试管
+    S:oredict.chemtubePhosphorus.name=磷试管
     S:oredict.chemtubePhoton.name=Photon试管
     S:oredict.chemtubePigIron.name=生铁试管
     S:oredict.chemtubePinalite.name=试管装 Pinalite
@@ -12599,7 +12599,7 @@ languagefile {
     S:oredict.crateGtDustPhosphate.name=磷酸盐粉板条箱
     S:oredict.crateGtDustPhosphor.name=磷粉板条箱
     S:oredict.crateGtDustPhosphorite.name=Crate of Phosphorite粉
-    S:oredict.crateGtDustPhosphorus.name=Phosphorus粉板条箱
+    S:oredict.crateGtDustPhosphorus.name=磷粉板条箱
     S:oredict.crateGtDustPigIron.name=生铁粉板条箱
     S:oredict.crateGtDustPinalite.name=Crate of Pinalite粉
     S:oredict.crateGtDustPink.name=Crate of Pink染料
@@ -12868,7 +12868,7 @@ languagefile {
     S:oredict.crateGtGemOrangeSapphire.name=Crate of Orange Sapphire
     S:oredict.crateGtGemPhosphor.name=磷板条箱
     S:oredict.crateGtGemPhosphorite.name=Crate of Phosphorite
-    S:oredict.crateGtGemPhosphorus.name=Phosphorus板条箱
+    S:oredict.crateGtGemPhosphorus.name=磷板条箱
     S:oredict.crateGtGemPotassium.name=钾板条箱
     S:oredict.crateGtGemPrismane.name=Crate of Prismane
     S:oredict.crateGtGemPyrope.name=Crate of Pyrope
@@ -13520,7 +13520,7 @@ languagefile {
     S:oredict.crateGtPlateGemOpal.name=猫眼石板板条箱
     S:oredict.crateGtPlateGemOrangeSapphire.name=Crate of水晶line 橙色蓝宝石板
     S:oredict.crateGtPlateGemPhosphorite.name=Crate of Phosphorite 板
-    S:oredict.crateGtPlateGemPhosphorus.name=Phosphorus板板条箱
+    S:oredict.crateGtPlateGemPhosphorus.name=磷板板条箱
     S:oredict.crateGtPlateGemPrismane.name=Crate of水晶line Prismane 板
     S:oredict.crateGtPlateGemPyrope.name=Crate of Pyrope 板
     S:oredict.crateGtPlateGemQuartzite.name=石英岩板板条箱
@@ -14247,7 +14247,7 @@ languagefile {
     S:oredict.crushedCentrifugedPhosphate.name=离心过的磷酸盐矿石
     S:oredict.crushedCentrifugedPhosphor.name=离心过的磷矿石
     S:oredict.crushedCentrifugedPhosphorite.name=Centrifuged Phosphorite矿石
-    S:oredict.crushedCentrifugedPhosphorus.name=离心过的Phosphorus矿石
+    S:oredict.crushedCentrifugedPhosphorus.name=离心过的磷矿石
     S:oredict.crushedCentrifugedPigIron.name=离心过的生铁矿石
     S:oredict.crushedCentrifugedPinalite.name=Centrifuged Pinalite矿石
     S:oredict.crushedCentrifugedPitchblende.name=离心过的Pitchblende
@@ -14670,7 +14670,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyPhosphate.name=小撮Centrifuged Phosphate矿石
     S:oredict.crushedCentrifugedTinyPhosphor.name=小撮Centrifuged Phosphor矿石
     S:oredict.crushedCentrifugedTinyPhosphorite.name=小撮Centrifuged Phosphorite矿石
-    S:oredict.crushedCentrifugedTinyPhosphorus.name=小撮Centrifuged Phosphorus矿石
+    S:oredict.crushedCentrifugedTinyPhosphorus.name=小撮Centrifuged 磷矿石
     S:oredict.crushedCentrifugedTinyPigIron.name=小撮Centrifuged Pig Iron矿石
     S:oredict.crushedCentrifugedTinyPinalite.name=小撮Centrifuged Pinalite矿石
     S:oredict.crushedCentrifugedTinyPitchblende.name=小撮Centrifuged Pitchblende
@@ -14996,7 +14996,7 @@ languagefile {
     S:oredict.crushedPhosphate.name=粉碎的磷酸盐矿石
     S:oredict.crushedPhosphor.name=粉碎的磷矿石
     S:oredict.crushedPhosphorite.name=Crushed Phosphorite矿石
-    S:oredict.crushedPhosphorus.name=粉碎的Phosphorus矿石
+    S:oredict.crushedPhosphorus.name=粉碎的磷矿石
     S:oredict.crushedPigIron.name=粉碎的生铁矿石
     S:oredict.crushedPinalite.name=Crushed Pinalite矿石
     S:oredict.crushedPitchblende.name=Ground Pitchblende
@@ -15358,7 +15358,7 @@ languagefile {
     S:oredict.crushedPurifiedPhosphate.name=纯净的磷酸盐矿石
     S:oredict.crushedPurifiedPhosphor.name=纯净的磷矿石
     S:oredict.crushedPurifiedPhosphorite.name=Purified Phosphorite矿石
-    S:oredict.crushedPurifiedPhosphorus.name=纯净的Phosphorus矿石
+    S:oredict.crushedPurifiedPhosphorus.name=纯净的磷矿石
     S:oredict.crushedPurifiedPigIron.name=纯净的生铁矿石
     S:oredict.crushedPurifiedPinalite.name=Purified Pinalite矿石
     S:oredict.crushedPurifiedPitchblende.name=纯净的Pitchblende
@@ -15781,7 +15781,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyPhosphate.name=小撮Purified Phosphate矿石
     S:oredict.crushedPurifiedTinyPhosphor.name=小撮Purified Phosphor矿石
     S:oredict.crushedPurifiedTinyPhosphorite.name=小撮Purified Phosphorite矿石
-    S:oredict.crushedPurifiedTinyPhosphorus.name=小撮Purified Phosphorus矿石
+    S:oredict.crushedPurifiedTinyPhosphorus.name=小撮Purified 磷矿石
     S:oredict.crushedPurifiedTinyPigIron.name=小撮Purified Pig Iron矿石
     S:oredict.crushedPurifiedTinyPinalite.name=小撮Purified Pinalite矿石
     S:oredict.crushedPurifiedTinyPitchblende.name=小撮Purified Pitchblende
@@ -16347,7 +16347,7 @@ languagefile {
     S:oredict.crushedTinyPhosphate.name=小撮Crushed Phosphate矿石
     S:oredict.crushedTinyPhosphor.name=小撮Crushed Phosphor矿石
     S:oredict.crushedTinyPhosphorite.name=小撮Crushed Phosphorite矿石
-    S:oredict.crushedTinyPhosphorus.name=小撮Crushed Phosphorus矿石
+    S:oredict.crushedTinyPhosphorus.name=小撮Crushed 磷矿石
     S:oredict.crushedTinyPigIron.name=小撮Crushed Pig Iron矿石
     S:oredict.crushedTinyPinalite.name=小撮Crushed Pinalite矿石
     S:oredict.crushedTinyPitchblende.name=小撮Ground Pitchblende
@@ -17242,7 +17242,7 @@ languagefile {
     S:oredict.dustImpurePhosphate.name=含杂的磷酸盐粉
     S:oredict.dustImpurePhosphor.name=含杂的磷粉
     S:oredict.dustImpurePhosphorite.name=Impure Pile of Phosphorite粉
-    S:oredict.dustImpurePhosphorus.name=含杂的Phosphorus粉
+    S:oredict.dustImpurePhosphorus.name=含杂的磷粉
     S:oredict.dustImpurePigIron.name=含杂的生铁粉
     S:oredict.dustImpurePinalite.name=Impure Pile of Pinalite粉
     S:oredict.dustImpurePitchblende.name=含杂的Pitchblende
@@ -17489,7 +17489,7 @@ languagefile {
     S:oredict.dustPhosphate.name=磷酸盐粉
     S:oredict.dustPhosphor.name=磷粉
     S:oredict.dustPhosphorite.name=磷灰石粉
-    S:oredict.dustPhosphorus.name=Phosphorus粉
+    S:oredict.dustPhosphorus.name=磷粉
     S:oredict.dustPigIron.name=生铁粉
     S:oredict.dustPinalite.name=Pinalite粉
     S:oredict.dustPink.name=Pink染料
@@ -17883,7 +17883,7 @@ languagefile {
     S:oredict.dustPurePhosphate.name=纯净的磷酸盐粉
     S:oredict.dustPurePhosphor.name=纯净的磷粉
     S:oredict.dustPurePhosphorite.name=Purified Pile of Phosphorite粉
-    S:oredict.dustPurePhosphorus.name=纯净的Phosphorus粉
+    S:oredict.dustPurePhosphorus.name=纯净的磷粉
     S:oredict.dustPurePigIron.name=纯净的生铁粉
     S:oredict.dustPurePinalite.name=Purified Pile of Pinalite粉
     S:oredict.dustPurePitchblende.name=纯净的Pitchblende
@@ -18547,7 +18547,7 @@ languagefile {
     S:oredict.dustSmallPhosphate.name=小堆磷酸盐粉
     S:oredict.dustSmallPhosphor.name=小堆磷粉
     S:oredict.dustSmallPhosphorite.name=小堆的Phosphorite粉
-    S:oredict.dustSmallPhosphorus.name=小堆Phosphorus粉
+    S:oredict.dustSmallPhosphorus.name=小堆磷粉
     S:oredict.dustSmallPigIron.name=小堆生铁粉
     S:oredict.dustSmallPinalite.name=小堆的Pinalite粉
     S:oredict.dustSmallPink.name=小堆的Pink染料
@@ -19280,7 +19280,7 @@ languagefile {
     S:oredict.dustTinyPhosphate.name=小撮磷酸盐粉
     S:oredict.dustTinyPhosphor.name=小撮磷粉
     S:oredict.dustTinyPhosphorite.name=小撮Phosphorite粉
-    S:oredict.dustTinyPhosphorus.name=小撮Phosphorus粉
+    S:oredict.dustTinyPhosphorus.name=小撮磷粉
     S:oredict.dustTinyPigIron.name=小撮生铁粉
     S:oredict.dustTinyPinalite.name=小撮Pinalite粉
     S:oredict.dustTinyPink.name=小撮Pink染料
@@ -20647,7 +20647,7 @@ languagefile {
     S:oredict.gemOrangeSapphire.name=Orange Sapphire
     S:oredict.gemPhosphor.name=磷
     S:oredict.gemPhosphorite.name=磷灰石
-    S:oredict.gemPhosphorus.name=Phosphorus
+    S:oredict.gemPhosphorus.name=磷
     S:oredict.gemPotassium.name=钾
     S:oredict.gemPrismane.name=Prismane
     S:oredict.gemPyrope.name=Pyrope
@@ -23834,7 +23834,7 @@ languagefile {
     S:oredict.oreBasaltPhosphate.name=玄武岩磷酸盐矿石
     S:oredict.oreBasaltPhosphor.name=玄武岩磷矿石
     S:oredict.oreBasaltPhosphorite.name=玄武岩Phosphorite矿石
-    S:oredict.oreBasaltPhosphorus.name=玄武岩Phosphorus矿石
+    S:oredict.oreBasaltPhosphorus.name=玄武岩磷矿石
     S:oredict.oreBasaltPigIron.name=玄武岩生铁矿石
     S:oredict.oreBasaltPinalite.name=玄武岩Pinalite矿石
     S:oredict.oreBasaltPitchblende.name=玄武岩Pitchblende
@@ -24298,7 +24298,7 @@ languagefile {
     S:oredict.oreBedrockPhosphate.name=Bedrock Phosphate Ore
     S:oredict.oreBedrockPhosphor.name=Bedrock Phosphor Ore
     S:oredict.oreBedrockPhosphorite.name=Bedrock Phosphorite Ore
-    S:oredict.oreBedrockPhosphorus.name=Bedrock Phosphorus Ore
+    S:oredict.oreBedrockPhosphorus.name=Bedrock 磷 Ore
     S:oredict.oreBedrockPigIron.name=Bedrock Pig Iron Ore
     S:oredict.oreBedrockPinalite.name=Bedrock Pinalite Ore
     S:oredict.oreBedrockPitchblende.name=Bedrock Pitchblende
@@ -24765,7 +24765,7 @@ languagefile {
     S:oredict.oreBlackgranitePhosphate.name=黑花岗岩磷酸盐矿石
     S:oredict.oreBlackgranitePhosphor.name=黑花岗岩磷矿石
     S:oredict.oreBlackgranitePhosphorite.name=Granite Phosphorite矿石
-    S:oredict.oreBlackgranitePhosphorus.name=黑花岗岩Phosphorus矿石
+    S:oredict.oreBlackgranitePhosphorus.name=黑花岗岩磷矿石
     S:oredict.oreBlackgranitePigIron.name=黑花岗岩生铁矿石
     S:oredict.oreBlackgranitePinalite.name=Granite Pinalite矿石
     S:oredict.oreBlackgranitePitchblende.name=黑花岗岩Pitchblende
@@ -25300,7 +25300,7 @@ languagefile {
     S:oredict.oreEndstonePhosphate.name=末地磷酸盐矿石
     S:oredict.oreEndstonePhosphor.name=末地磷矿石
     S:oredict.oreEndstonePhosphorite.name=End Phosphorite矿石
-    S:oredict.oreEndstonePhosphorus.name=末地Phosphorus矿石
+    S:oredict.oreEndstonePhosphorus.name=末地磷矿石
     S:oredict.oreEndstonePigIron.name=末地生铁矿石
     S:oredict.oreEndstonePinalite.name=End Pinalite矿石
     S:oredict.oreEndstonePitchblende.name=末地Pitchblende
@@ -25792,7 +25792,7 @@ languagefile {
     S:oredict.oreGravelPhosphate.name=沙砾磷酸盐矿石
     S:oredict.oreGravelPhosphor.name=沙砾磷矿石
     S:oredict.oreGravelPhosphorite.name=Gravel Phosphorite矿石
-    S:oredict.oreGravelPhosphorus.name=沙砾Phosphorus矿石
+    S:oredict.oreGravelPhosphorus.name=沙砾磷矿石
     S:oredict.oreGravelPigIron.name=沙砾生铁矿石
     S:oredict.oreGravelPinalite.name=Gravel Pinalite矿石
     S:oredict.oreGravelPitchblende.name=沙砾Pitchblende
@@ -26290,7 +26290,7 @@ languagefile {
     S:oredict.oreLimestonePhosphate.name=Limestone Phosphate Ore
     S:oredict.oreLimestonePhosphor.name=Limestone Phosphor Ore
     S:oredict.oreLimestonePhosphorite.name=Limestone Phosphorite Ore
-    S:oredict.oreLimestonePhosphorus.name=Limestone Phosphorus Ore
+    S:oredict.oreLimestonePhosphorus.name=Limestone 磷 Ore
     S:oredict.oreLimestonePigIron.name=Limestone Pig Iron Ore
     S:oredict.oreLimestonePinalite.name=Limestone Pinalite Ore
     S:oredict.oreLimestonePitchblende.name=Limestone Pitchblende
@@ -26762,7 +26762,7 @@ languagefile {
     S:oredict.oreMarblePhosphate.name=大理石磷酸盐矿石
     S:oredict.oreMarblePhosphor.name=大理石磷矿石
     S:oredict.oreMarblePhosphorite.name=Marble Phosphorite矿石
-    S:oredict.oreMarblePhosphorus.name=大理石Phosphorus矿石
+    S:oredict.oreMarblePhosphorus.name=大理石磷矿石
     S:oredict.oreMarblePigIron.name=大理石生铁矿石
     S:oredict.oreMarblePinalite.name=Marble Pinalite矿石
     S:oredict.oreMarblePitchblende.name=大理石Pitchblende
@@ -27245,7 +27245,7 @@ languagefile {
     S:oredict.oreNetherrackPhosphate.name=地狱磷酸盐矿石
     S:oredict.oreNetherrackPhosphor.name=地狱磷矿石
     S:oredict.oreNetherrackPhosphorite.name=Nether Phosphorite矿石
-    S:oredict.oreNetherrackPhosphorus.name=地狱Phosphorus矿石
+    S:oredict.oreNetherrackPhosphorus.name=地狱磷矿石
     S:oredict.oreNetherrackPigIron.name=地狱生铁矿石
     S:oredict.oreNetherrackPinalite.name=Nether Pinalite矿石
     S:oredict.oreNetherrackPitchblende.name=地狱Pitchblende
@@ -27385,7 +27385,7 @@ languagefile {
     S:oredict.orePhosphate.name=磷酸盐矿石
     S:oredict.orePhosphor.name=磷矿石
     S:oredict.orePhosphorite.name=磷灰石矿石
-    S:oredict.orePhosphorus.name=Phosphorus矿石
+    S:oredict.orePhosphorus.name=磷矿石
     S:oredict.orePigIron.name=生铁矿石
     S:oredict.orePinalite.name=Pinalite矿石
     S:oredict.orePitchblende.name=Pitchblende
@@ -27754,7 +27754,7 @@ languagefile {
     S:oredict.oreRedSandPhosphate.name=红沙磷酸盐矿石
     S:oredict.oreRedSandPhosphor.name=红沙磷矿石
     S:oredict.oreRedSandPhosphorite.name=Sand Phosphorite矿石
-    S:oredict.oreRedSandPhosphorus.name=红沙Phosphorus矿石
+    S:oredict.oreRedSandPhosphorus.name=红沙磷矿石
     S:oredict.oreRedSandPigIron.name=红沙生铁矿石
     S:oredict.oreRedSandPinalite.name=Sand Pinalite矿石
     S:oredict.oreRedSandPitchblende.name=红沙Pitchblende
@@ -28219,7 +28219,7 @@ languagefile {
     S:oredict.oreRedgranitePhosphate.name=红花岗岩磷酸盐矿石
     S:oredict.oreRedgranitePhosphor.name=红花岗岩磷矿石
     S:oredict.oreRedgranitePhosphorite.name=红花岗岩Phosphorite矿石
-    S:oredict.oreRedgranitePhosphorus.name=红花岗岩Phosphorus矿石
+    S:oredict.oreRedgranitePhosphorus.name=红花岗岩磷
     S:oredict.oreRedgranitePigIron.name=红花岗岩生铁矿石
     S:oredict.oreRedgranitePinalite.name=红花岗岩Pinalite矿石
     S:oredict.oreRedgranitePitchblende.name=红花岗岩Pitchblende
@@ -28698,7 +28698,7 @@ languagefile {
     S:oredict.oreSandPhosphate.name=磷酸盐矿砂
     S:oredict.oreSandPhosphor.name=磷矿砂
     S:oredict.oreSandPhosphorite.name=Phosphorite矿砂
-    S:oredict.oreSandPhosphorus.name=Phosphorus矿砂
+    S:oredict.oreSandPhosphorus.name=磷矿砂
     S:oredict.oreSandPigIron.name=生铁矿砂
     S:oredict.oreSandPinalite.name=Pinalite矿砂
     S:oredict.oreSandPitchblende.name=Pitchblende矿砂
@@ -29162,7 +29162,7 @@ languagefile {
     S:oredict.oreSandstonePhosphate.name=沙石磷酸盐矿石
     S:oredict.oreSandstonePhosphor.name=沙石磷矿石
     S:oredict.oreSandstonePhosphorite.name=Sandstone Phosphorite矿石
-    S:oredict.oreSandstonePhosphorus.name=沙石Phosphorus矿石
+    S:oredict.oreSandstonePhosphorus.name=沙石磷矿石
     S:oredict.oreSandstonePigIron.name=沙石生铁矿石
     S:oredict.oreSandstonePinalite.name=Sandstone Pinalite矿石
     S:oredict.oreSandstonePitchblende.name=沙石Pitchblende
@@ -29637,7 +29637,7 @@ languagefile {
     S:oredict.oreSmallPhosphate.name=贫瘠磷酸盐矿石
     S:oredict.oreSmallPhosphor.name=贫瘠磷矿石
     S:oredict.oreSmallPhosphorite.name=Small Phosphorite矿石
-    S:oredict.oreSmallPhosphorus.name=贫瘠Phosphorus矿石
+    S:oredict.oreSmallPhosphorus.name=贫瘠磷矿石
     S:oredict.oreSmallPigIron.name=贫瘠生铁矿石
     S:oredict.oreSmallPinalite.name=Small Pinalite矿石
     S:oredict.oreSmallPitchblende.name=贫瘠Pitchblende
@@ -30355,7 +30355,7 @@ languagefile {
     S:oredict.plantGtBerryPhosphate.name=Phosphate梅
     S:oredict.plantGtBerryPhosphor.name=Phosphor梅
     S:oredict.plantGtBerryPhosphorite.name=磷灰石梅
-    S:oredict.plantGtBerryPhosphorus.name=Phosphorus梅
+    S:oredict.plantGtBerryPhosphorus.name=磷梅
     S:oredict.plantGtBerryPigIron.name=Pig Iron梅
     S:oredict.plantGtBerryPinalite.name=Pinalite梅
     S:oredict.plantGtBerryPink.name=Pink梅
@@ -31094,7 +31094,7 @@ languagefile {
     S:oredict.plantGtBlossomPhosphate.name=Phosphate花
     S:oredict.plantGtBlossomPhosphor.name=Phosphor花
     S:oredict.plantGtBlossomPhosphorite.name=磷灰石花
-    S:oredict.plantGtBlossomPhosphorus.name=Phosphorus花
+    S:oredict.plantGtBlossomPhosphorus.name=磷花
     S:oredict.plantGtBlossomPigIron.name=Pig Iron花
     S:oredict.plantGtBlossomPinalite.name=Pinalite花
     S:oredict.plantGtBlossomPink.name=Pink花
@@ -31833,7 +31833,7 @@ languagefile {
     S:oredict.plantGtFiberPhosphate.name=粗糙的Phosphate纤维
     S:oredict.plantGtFiberPhosphor.name=粗糙的Phosphor纤维
     S:oredict.plantGtFiberPhosphorite.name=粗糙的Phosphorite纤维
-    S:oredict.plantGtFiberPhosphorus.name=粗糙的Phosphorus纤维
+    S:oredict.plantGtFiberPhosphorus.name=粗糙的磷纤维
     S:oredict.plantGtFiberPigIron.name=粗糙的Pig Iron纤维
     S:oredict.plantGtFiberPinalite.name=粗糙的Pinalite纤维
     S:oredict.plantGtFiberPink.name=Pink String
@@ -32572,7 +32572,7 @@ languagefile {
     S:oredict.plantGtTwigPhosphate.name=Phosphate细枝
     S:oredict.plantGtTwigPhosphor.name=Phosphor细枝
     S:oredict.plantGtTwigPhosphorite.name=磷灰石细枝
-    S:oredict.plantGtTwigPhosphorus.name=Phosphorus细枝
+    S:oredict.plantGtTwigPhosphorus.name=磷细枝
     S:oredict.plantGtTwigPigIron.name=Pig Iron细枝
     S:oredict.plantGtTwigPinalite.name=Pinalite细枝
     S:oredict.plantGtTwigPink.name=Pink细枝
@@ -33311,7 +33311,7 @@ languagefile {
     S:oredict.plantGtWartPhosphate.name=Phosphate疣
     S:oredict.plantGtWartPhosphor.name=Phosphor疣
     S:oredict.plantGtWartPhosphorite.name=磷灰石疣
-    S:oredict.plantGtWartPhosphorus.name=Phosphorus疣
+    S:oredict.plantGtWartPhosphorus.name=磷疣
     S:oredict.plantGtWartPigIron.name=Pig Iron疣
     S:oredict.plantGtWartPinalite.name=Pinalite疣
     S:oredict.plantGtWartPink.name=Pink疣
@@ -34900,7 +34900,7 @@ languagefile {
     S:oredict.plateGemOpal.name=猫眼石板
     S:oredict.plateGemOrangeSapphire.name=Crystalline 橙色蓝宝石板
     S:oredict.plateGemPhosphorite.name=磷灰石 板
-    S:oredict.plateGemPhosphorus.name=Phosphorus板
+    S:oredict.plateGemPhosphorus.name=磷板
     S:oredict.plateGemPrismane.name=Crystalline Prismane 板
     S:oredict.plateGemPyrope.name=Pyrope 板
     S:oredict.plateGemQuartzite.name=石英岩板
@@ -34968,7 +34968,7 @@ languagefile {
     S:oredict.plateGemTinyOpal.name=小块猫眼石板
     S:oredict.plateGemTinyOrangeSapphire.name=Tiny水晶line 橙色蓝宝石板
     S:oredict.plateGemTinyPhosphorite.name=小撮Phosphorite 板
-    S:oredict.plateGemTinyPhosphorus.name=小块Phosphorus板
+    S:oredict.plateGemTinyPhosphorus.name=小块磷板
     S:oredict.plateGemTinyPrismane.name=Tiny水晶line Prismane 板
     S:oredict.plateGemTinyPyrope.name=小撮Pyrope 板
     S:oredict.plateGemTinyQuartzite.name=小块石英岩板
@@ -37858,7 +37858,7 @@ languagefile {
     S:oredict.scrapGtPhosphate.name=Phosphate废料
     S:oredict.scrapGtPhosphor.name=磷废料
     S:oredict.scrapGtPhosphorite.name=磷灰石废料
-    S:oredict.scrapGtPhosphorus.name=Phosphorus废料
+    S:oredict.scrapGtPhosphorus.name=磷废料
     S:oredict.scrapGtPigIron.name=生铁废料
     S:oredict.scrapGtPinalite.name=Pinalite废料
     S:oredict.scrapGtPink.name=Pink废料
@@ -39293,7 +39293,7 @@ languagefile {
     S:oredict.stickLongOureclase.name=长大地结晶杆
     S:oredict.stickLongPalladium.name=长钯杆
     S:oredict.stickLongPhosphorite.name=Long Phosphorite杆
-    S:oredict.stickLongPhosphorus.name=长Phosphorus杆
+    S:oredict.stickLongPhosphorus.name=长磷杆
     S:oredict.stickLongPigIron.name=长生铁杆
     S:oredict.stickLongPlastic.name=长塑料杆
     S:oredict.stickLongPlatinum.name=长铂杆
@@ -39456,7 +39456,7 @@ languagefile {
     S:oredict.stickOureclase.name=大地结晶杆
     S:oredict.stickPalladium.name=钯杆
     S:oredict.stickPhosphorite.name=磷灰石杆
-    S:oredict.stickPhosphorus.name=Phosphorus杆
+    S:oredict.stickPhosphorus.name=磷杆
     S:oredict.stickPigIron.name=生铁杆
     S:oredict.stickPlastic.name=塑料杆
     S:oredict.stickPlatinum.name=铂杆
