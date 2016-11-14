@@ -7485,7 +7485,6 @@ languagefile {
     S:o红色ict.blockDustCobalt60.name=钴-60粉块
     S:o红色ict.blockDustCobaltBrass.name=钴黄铜粉块
     S:o红色ict.blockDustCobaltHexahydrate.name=Block of Cobalt Hexahydrate粉
-    S:o红色ict.blockDustCobaltite.name=Cobaltite粉块
     S:o红色ict.blockDustCocoa.name=Cocoa粉块块
     S:o红色ict.blockDustCoffee.name=Coffee粉块块
     S:o红色ict.blockDustConcrete.name=混凝土粉块
@@ -7727,7 +7726,7 @@ languagefile {
     S:oredict.blockDustPaper.name=Chad块
     S:oredict.blockDustPeat.name=Block of Peat
     S:oredict.blockDustPeatBituminous.name=Block of Bituminous Peat
-    S:oredict.blockDustPentlandite.name=Pentlandite粉块
+    S:oredict.blockDustPentlandite.name=镍黄铁粉块
     S:oredict.blockDustPepper黑色.name=Block of Ground黑胡椒
     S:oredict.blockDustPerlite.name=珍珠岩粉块
     S:oredict.blockDustPetrotheum.name=Block of Petrotheum Dust
@@ -11062,7 +11061,7 @@ languagefile {
     S:oredict.chemtubeCobalt60.name=钴-60试管
     S:oredict.chemtubeCobaltBrass.name=钴黄铜试管
     S:oredict.chemtubeCobaltHexahydrate.name=钴 Hexahydrate试管
-    S:oredict.chemtubeCobaltite.name=Cobaltite试管
+    S:oredict.chemtubeCobaltite.name=辉砷钴试管
     S:oredict.chemtubeCocoa.name=Cocoa试管
     S:oredict.chemtubeCoffee.name=Coffee试管
     S:oredict.chemtubeConcrete.name=混凝土试管
@@ -11348,7 +11347,7 @@ languagefile {
     S:oredict.chemtubePaper.name=纸试管
     S:oredict.chemtubePeat.name=试管装 Peat
     S:oredict.chemtubePeatBituminous.name=试管装 Bituminous Peat
-    S:oredict.chemtubePentlandite.name=Pentlandite试管
+    S:oredict.chemtubePentlandite.name=镍黄铁试管
     S:oredict.chemtubePepper黑色.name=试管装黑胡椒
     S:oredict.chemtubePerlite.name=珍珠岩试管
     S:oredict.chemtubePetrotheum.name=Glass Tube containing Petrotheum
@@ -12350,7 +12349,7 @@ languagefile {
     S:oredict.crateGtDustCobalt60.name=钴-60粉板条箱
     S:oredict.crateGtDustCobaltBrass.name=钴黄铜粉板条箱
     S:oredict.crateGtDustCobaltHexahydrate.name=Crate of Cobalt Hexahydrate粉
-    S:oredict.crateGtDustCobaltite.name=Cobaltite粉板条箱
+    S:oredict.crateGtDustCobaltite.name=辉砷钴粉板条箱
     S:oredict.crateGtDustCocoa.name=Cocoa粉块板条箱
     S:oredict.crateGtDustCoffee.name=Coffee粉块板条箱
     S:oredict.crateGtDustConcrete.name=混凝土粉板条箱
@@ -12592,7 +12591,7 @@ languagefile {
     S:oredict.crateGtDustPaper.name=Chad板条箱
     S:oredict.crateGtDustPeat.name=Crate of Peat
     S:oredict.crateGtDustPeatBituminous.name=Crate of Bituminous Peat
-    S:oredict.crateGtDustPentlandite.name=Pentlandite粉板条箱
+    S:oredict.crateGtDustPentlandite.name=镍黄铁粉板条箱
     S:oredict.crateGtDustPepper黑色.name=Crate of Ground黑胡椒
     S:oredict.crateGtDustPerlite.name=珍珠岩粉板条箱
     S:oredict.crateGtDustPetrotheum.name=Crate of Petrotheum Dust
@@ -14100,7 +14099,7 @@ languagefile {
     S:oredict.crushedCentrifugedCoal.name=离心过的煤矿石
     S:oredict.crushedCentrifugedCobalt.name=离心过的钴矿石
     S:oredict.crushedCentrifugedCobalt60.name=离心过的钴-60矿石
-    S:oredict.crushedCentrifugedCobaltite.name=离心过的Cobaltite矿石
+    S:oredict.crushedCentrifugedCobaltite.name=离心过的辉砷钴矿石
     S:oredict.crushedCentrifugedCooperite.name=离心过的Sheldonite矿石
     S:oredict.crushedCentrifugedCopernicium.name=离心过的鎶矿石
     S:oredict.crushedCentrifuged铜.name=离心过的铜矿石
@@ -14242,7 +14241,7 @@ languagefile {
     S:oredict.crushedCentrifugedOsmium.name=离心过的锇矿石
     S:oredict.crushedCentrifugedOureclase.name=离心过的大地结晶矿石
     S:oredict.crushedCentrifugedPalladium.name=离心过的钯矿石
-    S:oredict.crushedCentrifugedPentlandite.name=离心过的Pentlandite矿石
+    S:oredict.crushedCentrifugedPentlandite.name=离心过的镍黄铁矿石
     S:oredict.crushedCentrifugedPerlite.name=离心过的珍珠岩矿石
     S:oredict.crushedCentrifugedPhosphate.name=离心过的磷酸盐矿石
     S:oredict.crushedCentrifugedPhosphor.name=离心过的磷矿石
@@ -14523,7 +14522,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyCoal.name=小撮Centrifuged Coal矿石
     S:oredict.crushedCentrifugedTinyCobalt.name=小撮Centrifuged Cobalt矿石
     S:oredict.crushedCentrifugedTinyCobalt60.name=小撮Centrifuged Cobalt-60矿石
-    S:oredict.crushedCentrifugedTinyCobaltite.name=小撮Centrifuged Cobaltite矿石
+    S:oredict.crushedCentrifugedTinyCobaltite.name=小撮Centrifuged 辉砷钴矿石
     S:oredict.crushedCentrifugedTinyCooperite.name=小撮Centrifuged Sheldonite矿石
     S:oredict.crushedCentrifugedTinyCopernicium.name=小撮Centrifuged Copernicium矿石
     S:oredict.crushedCentrifugedTiny铜.name=小撮Centrifuged 铜矿石
@@ -14665,7 +14664,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyOsmium.name=小撮Centrifuged Osmium矿石
     S:oredict.crushedCentrifugedTinyOureclase.name=小撮Centrifuged Oureclase矿石
     S:oredict.crushedCentrifugedTinyPalladium.name=小撮Centrifuged Palladium矿石
-    S:oredict.crushedCentrifugedTinyPentlandite.name=小撮Centrifuged Pentlandite矿石
+    S:oredict.crushedCentrifugedTinyPentlandite.name=小撮Centrifuged 镍黄铁矿石
     S:oredict.crushedCentrifugedTinyPerlite.name=小撮Centrifuged Perlite矿石
     S:oredict.crushedCentrifugedTinyPhosphate.name=小撮Centrifuged Phosphate矿石
     S:oredict.crushedCentrifugedTinyPhosphor.name=小撮Centrifuged Phosphor矿石
@@ -14734,7 +14733,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinySpodumene.name=小撮Centrifuged Spodumene矿石
     S:oredict.crushedCentrifugedTinyStannite.name=Tiny Refined Stannite Ore
     S:oredict.crushedCentrifugedTinySteel.name=Tiny Refined Steel Ore
-    S:oredict.crushedCentrifugedTinyStibnite.name=小撮Centrifuged Stibnite矿石
+    S:oredict.crushedCentrifugedTinyStibnite.name=小撮Centrifuged 辉锑矿矿石
     S:oredict.crushedCentrifugedTinyStolzite.name=小撮Centrifuged Stolzite矿石
     S:oredict.crushedCentrifugedTinyStrontium.name=小撮Centrifuged Strontium矿石
     S:oredict.crushedCentrifugedTinySulfur.name=小撮Centrifuged Sulfur矿石
@@ -14746,7 +14745,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyTellurium.name=小撮Centrifuged Tellurium矿石
     S:oredict.crushedCentrifugedTinyTerbium.name=小撮Centrifuged Terbium矿石
     S:oredict.crushedCentrifugedTinyTeslatite.name=小撮Centrifuged Teslatite矿石
-    S:oredict.crushedCentrifugedTinyTetrahedrite.name=小撮Centrifuged Tetrahedrite矿石
+    S:oredict.crushedCentrifugedTinyTetrahedrite.name=小撮Centrifuged 黝铜矿矿石
     S:oredict.crushedCentrifugedTinyThallium.name=小撮Centrifuged Thallium矿石
     S:oredict.crushedCentrifugedTinyThorium.name=小撮Centrifuged Thorium矿石
     S:oredict.crushedCentrifugedTinyThulium.name=小撮Centrifuged Thulium矿石
@@ -14848,7 +14847,7 @@ languagefile {
     S:oredict.crushedCoal.name=粉碎的煤矿石
     S:oredict.crushedCobalt.name=粉碎的钴矿石
     S:oredict.crushedCobalt60.name=粉碎的钴-60矿石
-    S:oredict.crushedCobaltite.name=粉碎的Cobaltite矿石
+    S:oredict.crushedCobaltite.name=粉碎的辉砷钴矿石
     S:oredict.crushedCooperite.name=粉碎的Sheldonite矿石
     S:oredict.crushedCopernicium.name=粉碎的鎶矿石
     S:oredict.crushed铜.name=粉碎的铜矿石
@@ -14991,7 +14990,7 @@ languagefile {
     S:oredict.crushedOsmium.name=粉碎的锇矿石
     S:oredict.crushedOureclase.name=粉碎的大地结晶矿石
     S:oredict.crushedPalladium.name=粉碎的钯矿石
-    S:oredict.crushedPentlandite.name=粉碎的Pentlandite矿石
+    S:oredict.crushedPentlandite.name=粉碎的镍黄铁矿石
     S:oredict.crushedPerlite.name=粉碎的珍珠岩矿石
     S:oredict.crushedPhosphate.name=粉碎的磷酸盐矿石
     S:oredict.crushedPhosphor.name=粉碎的磷矿石
@@ -15211,7 +15210,7 @@ languagefile {
     S:oredict.crushedPurifiedCoal.name=纯净的煤矿石
     S:oredict.crushedPurifiedCobalt.name=纯净的钴矿石
     S:oredict.crushedPurifiedCobalt60.name=纯净的钴-60矿石
-    S:oredict.crushedPurifiedCobaltite.name=纯净的Cobaltite矿石
+    S:oredict.crushedPurifiedCobaltite.name=纯净的辉砷钴矿石
     S:oredict.crushedPurifiedCooperite.name=纯净的Sheldonite矿石
     S:oredict.crushedPurifiedCopernicium.name=纯净的鎶矿石
     S:oredict.crushedPurified铜.name=纯净的铜矿石
@@ -15353,7 +15352,7 @@ languagefile {
     S:oredict.crushedPurifiedOsmium.name=纯净的锇矿石
     S:oredict.crushedPurifiedOureclase.name=纯净的大地结晶矿石
     S:oredict.crushedPurifiedPalladium.name=纯净的钯矿石
-    S:oredict.crushedPurifiedPentlandite.name=纯净的Pentlandite矿石
+    S:oredict.crushedPurifiedPentlandite.name=纯净的镍黄铁
     S:oredict.crushedPurifiedPerlite.name=纯净的珍珠岩矿石
     S:oredict.crushedPurifiedPhosphate.name=纯净的磷酸盐矿石
     S:oredict.crushedPurifiedPhosphor.name=纯净的磷矿石
@@ -15634,7 +15633,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyCoal.name=小撮Purified Coal矿石
     S:oredict.crushedPurifiedTinyCobalt.name=小撮Purified Cobalt矿石
     S:oredict.crushedPurifiedTinyCobalt60.name=小撮Purified Cobalt-60矿石
-    S:oredict.crushedPurifiedTinyCobaltite.name=小撮Purified Cobaltite矿石
+    S:oredict.crushedPurifiedTinyCobaltite.name=小撮Purified 辉砷钴矿石
     S:oredict.crushedPurifiedTinyCooperite.name=小撮Purified Sheldonite矿石
     S:oredict.crushedPurifiedTinyCopernicium.name=小撮Purified Copernicium矿石
     S:oredict.crushedPurifiedTiny铜.name=小撮Purified 铜矿石
@@ -15776,7 +15775,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyOsmium.name=小撮Purified Osmium矿石
     S:oredict.crushedPurifiedTinyOureclase.name=小撮Purified Oureclase矿石
     S:oredict.crushedPurifiedTinyPalladium.name=小撮Purified Palladium矿石
-    S:oredict.crushedPurifiedTinyPentlandite.name=小撮Purified Pentlandite矿石
+    S:oredict.crushedPurifiedTinyPentlandite.name=小撮Purified 镍黄铁
     S:oredict.crushedPurifiedTinyPerlite.name=小撮Purified Perlite矿石
     S:oredict.crushedPurifiedTinyPhosphate.name=小撮Purified Phosphate矿石
     S:oredict.crushedPurifiedTinyPhosphor.name=小撮Purified Phosphor矿石
@@ -15845,7 +15844,7 @@ languagefile {
     S:oredict.crushedPurifiedTinySpodumene.name=小撮Purified Spodumene矿石
     S:oredict.crushedPurifiedTinyStannite.name=Tiny Purified Stannite Ore
     S:oredict.crushedPurifiedTinySteel.name=Tiny Purified Steel Ore
-    S:oredict.crushedPurifiedTinyStibnite.name=小撮Purified Stibnite矿石
+    S:oredict.crushedPurifiedTinyStibnite.name=小撮Purified 辉锑矿矿石
     S:oredict.crushedPurifiedTinyStolzite.name=小撮Purified Stolzite矿石
     S:oredict.crushedPurifiedTinyStrontium.name=小撮Purified Strontium矿石
     S:oredict.crushedPurifiedTinySulfur.name=小撮Purified Sulfur矿石
@@ -15857,7 +15856,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyTellurium.name=小撮Purified Tellurium矿石
     S:oredict.crushedPurifiedTinyTerbium.name=小撮Purified Terbium矿石
     S:oredict.crushedPurifiedTinyTeslatite.name=小撮Purified Teslatite矿石
-    S:oredict.crushedPurifiedTinyTetrahedrite.name=小撮Purified Tetrahedrite矿石
+    S:oredict.crushedPurifiedTinyTetrahedrite.name=小撮Purified 黝铜矿矿石
     S:oredict.crushedPurifiedTinyThallium.name=小撮Purified Thallium矿石
     S:oredict.crushedPurifiedTinyThorium.name=小撮Purified Thorium矿石
     S:oredict.crushedPurifiedTinyThulium.name=小撮Purified Thulium矿石
@@ -16200,7 +16199,7 @@ languagefile {
     S:oredict.crushedTinyCoal.name=小撮Crushed Coal矿石
     S:oredict.crushedTinyCobalt.name=小撮Crushed Cobalt矿石
     S:oredict.crushedTinyCobalt60.name=小撮Crushed Cobalt-60矿石
-    S:oredict.crushedTinyCobaltite.name=小撮Crushed Cobaltite矿石
+    S:oredict.crushedTinyCobaltite.name=小撮Crushed 辉砷钴矿石
     S:oredict.crushedTinyCooperite.name=小撮Crushed Sheldonite矿石
     S:oredict.crushedTinyCopernicium.name=小撮Crushed Copernicium矿石
     S:oredict.crushedTiny铜.name=小撮Crushed 铜矿石
@@ -16342,7 +16341,7 @@ languagefile {
     S:oredict.crushedTinyOsmium.name=小撮Crushed Osmium矿石
     S:oredict.crushedTinyOureclase.name=小撮Crushed Oureclase矿石
     S:oredict.crushedTinyPalladium.name=小撮Crushed Palladium矿石
-    S:oredict.crushedTinyPentlandite.name=小撮Crushed Pentlandite矿石
+    S:oredict.crushedTinyPentlandite.name=小撮Crushed 镍黄铁矿石
     S:oredict.crushedTinyPerlite.name=小撮Crushed Perlite矿石
     S:oredict.crushedTinyPhosphate.name=小撮Crushed Phosphate矿石
     S:oredict.crushedTinyPhosphor.name=小撮Crushed Phosphor矿石
@@ -16411,7 +16410,7 @@ languagefile {
     S:oredict.crushedTinySpodumene.name=小撮Crushed Spodumene矿石
     S:oredict.crushedTinyStannite.name=Tiny Crushed Stannite Ore
     S:oredict.crushedTinySteel.name=Tiny Crushed Steel Ore
-    S:oredict.crushedTinyStibnite.name=小撮Crushed Stibnite矿石
+    S:oredict.crushedTinyStibnite.name=小撮Crushed 辉锑矿矿石
     S:oredict.crushedTinyStolzite.name=小撮Crushed Stolzite矿石
     S:oredict.crushedTinyStrontium.name=小撮Crushed Strontium矿石
     S:oredict.crushedTinySulfur.name=小撮Crushed Sulfur矿石
@@ -16423,7 +16422,7 @@ languagefile {
     S:oredict.crushedTinyTellurium.name=小撮Crushed Tellurium矿石
     S:oredict.crushedTinyTerbium.name=小撮Crushed Terbium矿石
     S:oredict.crushedTinyTeslatite.name=小撮Crushed Teslatite矿石
-    S:oredict.crushedTinyTetrahedrite.name=小撮Crushed Tetrahedrite矿石
+    S:oredict.crushedTinyTetrahedrite.name=小撮Crushed 黝铜矿矿石
     S:oredict.crushedTinyThallium.name=小撮Crushed Thallium矿石
     S:oredict.crushedTinyThorium.name=小撮Crushed Thorium矿石
     S:oredict.crushedTinyThulium.name=小撮Crushed Thulium矿石
@@ -16747,7 +16746,7 @@ languagefile {
     S:oredict.dustCobalt60.name=钴-60粉
     S:oredict.dustCobaltBrass.name=钴黄铜粉
     S:oredict.dustCobaltHexahydrate.name=Cobalt Hexahydrate粉
-    S:oredict.dustCobaltite.name=Cobaltite粉
+    S:oredict.dustCobaltite.name=辉砷钴粉
     S:oredict.dustCocoa.name=Cocoa粉块
     S:oredict.dustCoffee.name=Coffee粉块
     S:oredict.dustConcrete.name=混凝土粉
@@ -17075,7 +17074,7 @@ languagefile {
     S:oredict.dustImpureCoal.name=含杂的煤粉
     S:oredict.dustImpureCobalt.name=含杂的钴粉
     S:oredict.dustImpureCobalt60.name=含杂的钴-60粉
-    S:oredict.dustImpureCobaltite.name=含杂的Cobaltite粉
+    S:oredict.dustImpureCobaltite.name=含杂的辉砷钴粉
     S:oredict.dustImpureConcrete.name=含杂的混凝土粉
     S:oredict.dustImpureCooperite.name=含杂的Sheldonite粉
     S:oredict.dustImpureCopernicium.name=含杂的鎶粉
@@ -17237,7 +17236,7 @@ languagefile {
     S:oredict.dustImpureOsmium.name=含杂的锇粉
     S:oredict.dustImpureOureclase.name=含杂的大地结晶粉
     S:oredict.dustImpurePalladium.name=含杂的钯粉
-    S:oredict.dustImpurePentlandite.name=含杂的Pentlandite粉
+    S:oredict.dustImpurePentlandite.name=含杂的镍黄铁粉
     S:oredict.dustImpurePerlite.name=含杂的珍珠岩粉
     S:oredict.dustImpurePhosphate.name=含杂的磷酸盐粉
     S:oredict.dustImpurePhosphor.name=含杂的磷粉
@@ -17482,7 +17481,7 @@ languagefile {
     S:oredict.dustPaper.name=Chad
     S:oredict.dustPeat.name=Peat
     S:oredict.dustPeatBituminous.name=Bituminous Peat
-    S:oredict.dustPentlandite.name=Pentlandite粉
+    S:oredict.dustPentlandite.name=镍黄铁
     S:oredict.dustPepper黑色.name=Ground黑胡椒
     S:oredict.dustPerlite.name=珍珠岩粉
     S:oredict.dustPetrotheum.name=Petrotheum Dust
@@ -17716,7 +17715,7 @@ languagefile {
     S:oredict.dustPureCoal.name=纯净的煤粉
     S:oredict.dustPureCobalt.name=纯净的钴粉
     S:oredict.dustPureCobalt60.name=纯净的钴-60粉
-    S:oredict.dustPureCobaltite.name=纯净的Cobaltite粉
+    S:oredict.dustPureCobaltite.name=纯净的辉砷钴粉
     S:oredict.dustPureConcrete.name=纯净的混凝土粉
     S:oredict.dustPureCooperite.name=纯净的Sheldonite粉
     S:oredict.dustPureCopernicium.name=纯净的鎶粉
@@ -17878,7 +17877,7 @@ languagefile {
     S:oredict.dustPureOsmium.name=纯净的锇粉
     S:oredict.dustPureOureclase.name=纯净的大地结晶粉
     S:oredict.dustPurePalladium.name=纯净的钯粉
-    S:oredict.dustPurePentlandite.name=纯净的Pentlandite粉
+    S:oredict.dustPurePentlandite.name=纯净的镍黄铁
     S:oredict.dustPurePerlite.name=纯净的珍珠岩粉
     S:oredict.dustPurePhosphate.name=纯净的磷酸盐粉
     S:oredict.dustPurePhosphor.name=纯净的磷粉
@@ -18298,7 +18297,7 @@ languagefile {
     S:oredict.dustSmallCobalt60.name=小堆钴-60粉
     S:oredict.dustSmallCobaltBrass.name=小堆钴黄铜粉
     S:oredict.dustSmallCobaltHexahydrate.name=小堆的Cobalt Hexahydrate粉
-    S:oredict.dustSmallCobaltite.name=小堆Cobaltite粉
+    S:oredict.dustSmallCobaltite.name=小堆辉砷钴粉
     S:oredict.dustSmallCocoa.name=小堆Cocoa粉块
     S:oredict.dustSmallCoffee.name=小堆Coffee粉块
     S:oredict.dustSmallConcrete.name=小堆混凝土粉
@@ -18540,7 +18539,7 @@ languagefile {
     S:oredict.dustSmallPaper.name=小堆Chad
     S:oredict.dustSmallPeat.name=小堆的Peat
     S:oredict.dustSmallPeatBituminous.name=小堆的Bituminous Peat
-    S:oredict.dustSmallPentlandite.name=小堆Pentlandite粉
+    S:oredict.dustSmallPentlandite.name=小堆镍黄铁
     S:oredict.dustSmallPepper黑色.name=小堆的Ground黑胡椒
     S:oredict.dustSmallPerlite.name=小堆珍珠岩粉
     S:oredict.dustSmallPetrotheum.name=Small Pile of Petrotheum Dust
@@ -19031,7 +19030,7 @@ languagefile {
     S:oredict.dustTinyCobalt60.name=小撮Cobalt-60粉
     S:oredict.dustTinyCobaltBrass.name=小撮Cobalt 黄铜粉
     S:oredict.dustTinyCobaltHexahydrate.name=小撮Cobalt Hexahydrate粉
-    S:oredict.dustTinyCobaltite.name=小撮Cobaltite粉
+    S:oredict.dustTinyCobaltite.name=小撮辉砷钴
     S:oredict.dustTinyCocoa.name=小撮Cocoa粉块
     S:oredict.dustTinyCoffee.name=小撮Coffee粉块
     S:oredict.dustTinyConcrete.name=小撮Concrete粉
@@ -19273,7 +19272,7 @@ languagefile {
     S:oredict.dustTinyPaper.name=小撮Chad
     S:oredict.dustTinyPeat.name=小撮Peat
     S:oredict.dustTinyPeatBituminous.name=小撮Bituminous Peat
-    S:oredict.dustTinyPentlandite.name=小撮Pentlandite粉
+    S:oredict.dustTinyPentlandite.name=小撮镍黄铁粉
     S:oredict.dustTinyPepper黑色.name=小撮Ground黑胡椒
     S:oredict.dustTinyPerlite.name=小撮珍珠岩粉
     S:oredict.dustTinyPetrotheum.name=Tiny Pile of Petrotheum Dust
@@ -19380,7 +19379,7 @@ languagefile {
     S:oredict.dustTinySteelMagnetic.name=小撮Magnetic 钢粉
     S:oredict.dustTinySteeleaf.name=小撮Steeleaf粉
     S:oredict.dustTinySterlingSilver.name=小撮Sterling 银粉
-    S:oredict.dustTinyStibnite.name=小撮Stibnite粉
+    S:oredict.dustTinyStibnite.name=小撮辉锑矿粉
     S:oredict.dustTinyStolzite.name=小撮Stolzite粉
     S:oredict.dustTinyStone.name=小撮石头粉
     S:oredict.dustTinyStrontium.name=小撮Strontium粉
@@ -19399,7 +19398,7 @@ languagefile {
     S:oredict.dustTinyTerbium.name=小撮Terbium粉
     S:oredict.dustTinyTerrasteel.name=小撮Terrasteel粉
     S:oredict.dustTinyTeslatite.name=小撮Teslatite粉
-    S:oredict.dustTinyTetrahedrite.name=小撮Tetrahedrite粉
+    S:oredict.dustTinyTetrahedrite.name=小撮黝铜矿粉
     S:oredict.dustTinyThallium.name=小撮Thallium粉
     S:oredict.dustTinyThaumium.name=小撮神秘粉
     S:oredict.dustTinyThorium.name=小撮Thorium粉
@@ -23686,7 +23685,7 @@ languagefile {
     S:oredict.oreBasaltCoal.name=玄武岩煤矿石
     S:oredict.oreBasaltCobalt.name=玄武岩钴矿石
     S:oredict.oreBasaltCobalt60.name=玄武岩钴-60矿石
-    S:oredict.oreBasaltCobaltite.name=玄武岩Cobaltite矿石
+    S:oredict.oreBasaltCobaltite.name=玄武岩辉砷钴矿石
     S:oredict.oreBasaltCooperite.name=玄武岩Sheldonite矿石
     S:oredict.oreBasaltCopernicium.name=玄武岩鎶矿石
     S:oredict.oreBasalt铜.name=玄武岩铜矿石
@@ -23829,7 +23828,7 @@ languagefile {
     S:oredict.oreBasaltOsmium.name=玄武岩锇矿石
     S:oredict.oreBasaltOureclase.name=玄武岩大地结晶矿石
     S:oredict.oreBasaltPalladium.name=玄武岩钯矿石
-    S:oredict.oreBasaltPentlandite.name=玄武岩Pentlandite矿石
+    S:oredict.oreBasaltPentlandite.name=玄武岩镍黄铁矿石
     S:oredict.oreBasaltPerlite.name=玄武岩珍珠岩矿石
     S:oredict.oreBasaltPhosphate.name=玄武岩磷酸盐矿石
     S:oredict.oreBasaltPhosphor.name=玄武岩磷矿石
@@ -24153,7 +24152,7 @@ languagefile {
     S:oredict.oreBedrockCoal.name=Bedrock Coal Ore
     S:oredict.oreBedrockCobalt.name=Bedrock Cobalt Ore
     S:oredict.oreBedrockCobalt60.name=Bedrock Cobalt-60 Ore
-    S:oredict.oreBedrockCobaltite.name=Bedrock Cobaltite Ore
+    S:oredict.oreBedrockCobaltite.name=Bedrock 辉砷钴 Ore
     S:oredict.oreBedrockCooperite.name=Bedrock Sheldonite Ore
     S:oredict.oreBedrockCopernicium.name=Bedrock Copernicium Ore
     S:oredict.oreBedrock铜.name=Bedrock 铜 Ore
@@ -24293,7 +24292,7 @@ languagefile {
     S:oredict.oreBedrockOsmium.name=Bedrock Osmium Ore
     S:oredict.oreBedrockOureclase.name=Bedrock Oureclase Ore
     S:oredict.oreBedrockPalladium.name=Bedrock Palladium Ore
-    S:oredict.oreBedrockPentlandite.name=Bedrock Pentlandite Ore
+    S:oredict.oreBedrockPentlandite.name=Bedrock 镍黄铁
     S:oredict.oreBedrockPerlite.name=Bedrock Perlite Ore
     S:oredict.oreBedrockPhosphate.name=Bedrock Phosphate Ore
     S:oredict.oreBedrockPhosphor.name=Bedrock Phosphor Ore
@@ -24362,7 +24361,7 @@ languagefile {
     S:oredict.oreBedrockSpodumene.name=Bedrock Spodumene Ore
     S:oredict.oreBedrockStannite.name=Bedrock Stannite Ore
     S:oredict.oreBedrockSteel.name=Bedrock Steel Ore
-    S:oredict.oreBedrockStibnite.name=Bedrock Stibnite Ore
+    S:oredict.oreBedrockStibnite.name=Bedrock 辉锑矿 Ore
     S:oredict.oreBedrockStolzite.name=Bedrock Stolzite Ore
     S:oredict.oreBedrockStrontium.name=Bedrock Strontium Ore
     S:oredict.oreBedrockSulfur.name=Bedrock Sulfur Ore
@@ -24374,7 +24373,7 @@ languagefile {
     S:oredict.oreBedrockTellurium.name=Bedrock Tellurium Ore
     S:oredict.oreBedrockTerbium.name=Bedrock Terbium Ore
     S:oredict.oreBedrockTeslatite.name=Bedrock Teslatite Ore
-    S:oredict.oreBedrockTetrahedrite.name=Bedrock Tetrahedrite Ore
+    S:oredict.oreBedrockTetrahedrite.name=Bedrock 黝铜矿 Ore
     S:oredict.oreBedrockThallium.name=Bedrock Thallium Ore
     S:oredict.oreBedrockThorium.name=Bedrock Thorium Ore
     S:oredict.oreBedrockThulium.name=Bedrock Thulium Ore
@@ -24618,7 +24617,7 @@ languagefile {
     S:oredict.ore黑色graniteCoal.name=黑花岗岩煤矿石
     S:oredict.ore黑色graniteCobalt.name=黑花岗岩钴矿石
     S:oredict.ore黑色graniteCobalt60.name=黑花岗岩钴-60矿石
-    S:oredict.ore黑色graniteCobaltite.name=黑花岗岩Cobaltite矿石
+    S:oredict.ore黑色graniteCobaltite.name=黑花岗岩辉砷钴矿石
     S:oredict.ore黑色graniteCooperite.name=黑花岗岩Sheldonite矿石
     S:oredict.ore黑色graniteCopernicium.name=黑花岗岩鎶矿石
     S:oredict.ore黑色granite铜.name=黑花岗岩铜矿石
@@ -24760,7 +24759,7 @@ languagefile {
     S:oredict.ore黑色graniteOsmium.name=黑花岗岩锇矿石
     S:oredict.ore黑色graniteOureclase.name=黑花岗岩大地结晶矿石
     S:oredict.ore黑色granitePalladium.name=黑花岗岩钯矿石
-    S:oredict.ore黑色granitePentlandite.name=黑花岗岩Pentlandite矿石
+    S:oredict.ore黑色granitePentlandite.name=黑花岗岩镍黄铁
     S:oredict.ore黑色granitePerlite.name=黑花岗岩珍珠岩矿石
     S:oredict.ore黑色granitePhosphate.name=黑花岗岩磷酸盐矿石
     S:oredict.ore黑色granitePhosphor.name=黑花岗岩磷矿石
@@ -24923,7 +24922,7 @@ languagefile {
     S:oredict.oreCoal.name=煤矿石
     S:oredict.oreCobalt.name=钴矿石
     S:oredict.oreCobalt60.name=钴-60矿石
-    S:oredict.oreCobaltite.name=Cobaltite矿石
+    S:oredict.oreCobaltite.name=辉砷钴
     S:oredict.oreCooperite.name=Sheldonite矿石
     S:oredict.oreCopernicium.name=鎶矿石
     S:oredict.ore铜.name=铜矿石
@@ -25153,7 +25152,7 @@ languagefile {
     S:oredict.oreEndstoneCoal.name=末地煤矿石
     S:oredict.oreEndstoneCobalt.name=末地钴矿石
     S:oredict.oreEndstoneCobalt60.name=末地钴-60矿石
-    S:oredict.oreEndstoneCobaltite.name=末地Cobaltite矿石
+    S:oredict.oreEndstoneCobaltite.name=末地辉砷钴
     S:oredict.oreEndstoneCooperite.name=末地Sheldonite矿石
     S:oredict.oreEndstoneCopernicium.name=末地鎶矿石
     S:oredict.oreEndstone铜.name=末地铜矿石
@@ -25295,7 +25294,7 @@ languagefile {
     S:oredict.oreEndstoneOsmium.name=末地锇矿石
     S:oredict.oreEndstoneOureclase.name=末地大地结晶矿石
     S:oredict.oreEndstonePalladium.name=末地钯矿石
-    S:oredict.oreEndstonePentlandite.name=末地Pentlandite矿石
+    S:oredict.oreEndstonePentlandite.name=末地镍黄铁
     S:oredict.oreEndstonePerlite.name=末地珍珠岩矿石
     S:oredict.oreEndstonePhosphate.name=末地磷酸盐矿石
     S:oredict.oreEndstonePhosphor.name=末地磷矿石
@@ -25645,7 +25644,7 @@ languagefile {
     S:oredict.oreGravelCoal.name=沙砾煤矿石
     S:oredict.oreGravelCobalt.name=沙砾钴矿石
     S:oredict.oreGravelCobalt60.name=沙砾钴-60矿石
-    S:oredict.oreGravelCobaltite.name=沙砾Cobaltite矿石
+    S:oredict.oreGravelCobaltite.name=沙砾辉砷钴矿石
     S:oredict.oreGravelCooperite.name=沙砾Sheldonite矿石
     S:oredict.oreGravelCopernicium.name=沙砾鎶矿石
     S:oredict.oreGravel铜.name=沙砾铜矿石
@@ -25787,7 +25786,7 @@ languagefile {
     S:oredict.oreGravelOsmium.name=沙砾锇矿石
     S:oredict.oreGravelOureclase.name=沙砾大地结晶矿石
     S:oredict.oreGravelPalladium.name=沙砾钯矿石
-    S:oredict.oreGravelPentlandite.name=沙砾Pentlandite矿石
+    S:oredict.oreGravelPentlandite.name=沙砾镍黄铁矿石
     S:oredict.oreGravelPerlite.name=沙砾珍珠岩矿石
     S:oredict.oreGravelPhosphate.name=沙砾磷酸盐矿石
     S:oredict.oreGravelPhosphor.name=沙砾磷矿石
@@ -26145,7 +26144,7 @@ languagefile {
     S:oredict.oreLimestoneCoal.name=Limestone Coal Ore
     S:oredict.oreLimestoneCobalt.name=Limestone Cobalt Ore
     S:oredict.oreLimestoneCobalt60.name=Limestone Cobalt-60 Ore
-    S:oredict.oreLimestoneCobaltite.name=Limestone Cobaltite Ore
+    S:oredict.oreLimestoneCobaltite.name=Limestone 辉砷钴 Ore
     S:oredict.oreLimestoneCooperite.name=Limestone Sheldonite Ore
     S:oredict.oreLimestoneCopernicium.name=Limestone Copernicium Ore
     S:oredict.oreLimestone铜.name=Limestone 铜 Ore
@@ -26285,7 +26284,7 @@ languagefile {
     S:oredict.oreLimestoneOsmium.name=Limestone Osmium Ore
     S:oredict.oreLimestoneOureclase.name=Limestone Oureclase Ore
     S:oredict.oreLimestonePalladium.name=Limestone Palladium Ore
-    S:oredict.oreLimestonePentlandite.name=Limestone Pentlandite Ore
+    S:oredict.oreLimestonePentlandite.name=Limestone 镍黄铁 Ore
     S:oredict.oreLimestonePerlite.name=Limestone Perlite Ore
     S:oredict.oreLimestonePhosphate.name=Limestone Phosphate Ore
     S:oredict.oreLimestonePhosphor.name=Limestone Phosphor Ore
@@ -26354,7 +26353,7 @@ languagefile {
     S:oredict.oreLimestoneSpodumene.name=Limestone Spodumene Ore
     S:oredict.oreLimestoneStannite.name=Limestone Stannite Ore
     S:oredict.oreLimestoneSteel.name=Limestone Steel Ore
-    S:oredict.oreLimestoneStibnite.name=Limestone Stibnite Ore
+    S:oredict.oreLimestoneStibnite.name=Limestone 辉锑矿 Ore
     S:oredict.oreLimestoneStolzite.name=Limestone Stolzite Ore
     S:oredict.oreLimestoneStrontium.name=Limestone Strontium Ore
     S:oredict.oreLimestoneSulfur.name=Limestone Sulfur Ore
@@ -26366,7 +26365,7 @@ languagefile {
     S:oredict.oreLimestoneTellurium.name=Limestone Tellurium Ore
     S:oredict.oreLimestoneTerbium.name=Limestone Terbium Ore
     S:oredict.oreLimestoneTeslatite.name=Limestone Teslatite Ore
-    S:oredict.oreLimestoneTetrahedrite.name=Limestone Tetrahedrite Ore
+    S:oredict.oreLimestoneTetrahedrite.name=Limestone 黝铜矿 Ore
     S:oredict.oreLimestoneThallium.name=Limestone Thallium Ore
     S:oredict.oreLimestoneThorium.name=Limestone Thorium Ore
     S:oredict.oreLimestoneThulium.name=Limestone Thulium Ore
@@ -26615,7 +26614,7 @@ languagefile {
     S:oredict.oreMarbleCoal.name=大理石煤矿石
     S:oredict.oreMarbleCobalt.name=大理石钴矿石
     S:oredict.oreMarbleCobalt60.name=大理石钴-60矿石
-    S:oredict.oreMarbleCobaltite.name=大理石Cobaltite矿石
+    S:oredict.oreMarbleCobaltite.name=大理石辉砷钴矿石
     S:oredict.oreMarbleCooperite.name=大理石Sheldonite矿石
     S:oredict.oreMarbleCopernicium.name=大理石鎶矿石
     S:oredict.oreMarble铜.name=大理石铜矿石
@@ -26757,7 +26756,7 @@ languagefile {
     S:oredict.oreMarbleOsmium.name=大理石锇矿石
     S:oredict.oreMarbleOureclase.name=大理石大地结晶矿石
     S:oredict.oreMarblePalladium.name=大理石钯矿石
-    S:oredict.oreMarblePentlandite.name=大理石Pentlandite矿石
+    S:oredict.oreMarblePentlandite.name=大理石镍黄铁矿石
     S:oredict.oreMarblePerlite.name=大理石珍珠岩矿石
     S:oredict.oreMarblePhosphate.name=大理石磷酸盐矿石
     S:oredict.oreMarblePhosphor.name=大理石磷矿石
@@ -27098,7 +27097,7 @@ languagefile {
     S:oredict.oreNetherrackCoal.name=地狱煤矿石
     S:oredict.oreNetherrackCobalt.name=地狱钴矿石
     S:oredict.oreNetherrackCobalt60.name=地狱钴-60矿石
-    S:oredict.oreNetherrackCobaltite.name=地狱Cobaltite矿石
+    S:oredict.oreNetherrackCobaltite.name=地狱辉砷钴
     S:oredict.oreNetherrackCooperite.name=地狱Sheldonite矿石
     S:oredict.oreNetherrackCopernicium.name=地狱Copernicium矿石
     S:oredict.oreNetherrack铜.name=地狱铜矿石
@@ -27240,7 +27239,7 @@ languagefile {
     S:oredict.oreNetherrackOsmium.name=地狱锇矿石
     S:oredict.oreNetherrackOureclase.name=地狱Oureclase矿石
     S:oredict.oreNetherrackPalladium.name=地狱钯矿石
-    S:oredict.oreNetherrackPentlandite.name=地狱Pentlandite矿石
+    S:oredict.oreNetherrackPentlandite.name=地狱镍黄铁矿石
     S:oredict.oreNetherrackPerlite.name=地狱珍珠岩矿石
     S:oredict.oreNetherrackPhosphate.name=地狱磷酸盐矿石
     S:oredict.oreNetherrackPhosphor.name=地狱磷矿石
@@ -27309,7 +27308,7 @@ languagefile {
     S:oredict.oreNetherrackSpodumene.name=地狱Spodumene矿石
     S:oredict.oreNetherrackStannite.name=Nether Stannite Ore
     S:oredict.oreNetherrackSteel.name=Nether Steel Ore
-    S:oredict.oreNetherrackStibnite.name=地狱Stibnite矿石
+    S:oredict.oreNetherrackStibnite.name=地狱辉锑矿矿石
     S:oredict.oreNetherrackStolzite.name=Nether Stolzite矿石
     S:oredict.oreNetherrackStrontium.name=地狱Strontium矿石
     S:oredict.oreNetherrackSulfur.name=地狱Sulfur矿石
@@ -27321,7 +27320,7 @@ languagefile {
     S:oredict.oreNetherrackTellurium.name=地狱Tellurium矿石
     S:oredict.oreNetherrackTerbium.name=地狱Terbium矿石
     S:oredict.oreNetherrackTeslatite.name=地狱Teslatite矿石
-    S:oredict.oreNetherrackTetrahedrite.name=地狱Tetrahedrite矿石
+    S:oredict.oreNetherrackTetrahedrite.name=地狱黝铜矿矿石
     S:oredict.oreNetherrackThallium.name=地狱Thallium矿石
     S:oredict.oreNetherrackThorium.name=地狱Thorium矿石
     S:oredict.oreNetherrackThulium.name=地狱Thulium矿石
@@ -27380,7 +27379,7 @@ languagefile {
     S:oredict.oreOsmium.name=锇矿石
     S:oredict.oreOureclase.name=大地结晶矿石
     S:oredict.orePalladium.name=钯矿石
-    S:oredict.orePentlandite.name=Pentlandite矿石
+    S:oredict.orePentlandite.name=镍黄铁矿石
     S:oredict.orePerlite.name=珍珠岩矿石
     S:oredict.orePhosphate.name=磷酸盐矿石
     S:oredict.orePhosphor.name=磷矿石
@@ -27607,7 +27606,7 @@ languagefile {
     S:oredict.oreRedSandCoal.name=红沙煤矿石
     S:oredict.oreRedSandCobalt.name=红沙钴矿石
     S:oredict.oreRedSandCobalt60.name=红沙钴-60矿石
-    S:oredict.oreRedSandCobaltite.name=红沙Cobaltite矿石
+    S:oredict.oreRedSandCobaltite.name=红沙辉砷钴矿石
     S:oredict.oreRedSandCooperite.name=红沙Sheldonite矿石
     S:oredict.oreRedSandCopernicium.name=红沙鎶矿石
     S:oredict.oreRedSand铜.name=红沙铜矿石
@@ -27749,7 +27748,7 @@ languagefile {
     S:oredict.oreRedSandOsmium.name=红沙锇矿石
     S:oredict.oreRedSandOureclase.name=红沙大地结晶矿石
     S:oredict.oreRedSandPalladium.name=红沙钯矿石
-    S:oredict.oreRedSandPentlandite.name=红沙Pentlandite矿石
+    S:oredict.oreRedSandPentlandite.name=红沙镍黄铁
     S:oredict.oreRedSandPerlite.name=红沙珍珠岩矿石
     S:oredict.oreRedSandPhosphate.name=红沙磷酸盐矿石
     S:oredict.oreRedSandPhosphor.name=红沙磷矿石
@@ -28071,7 +28070,7 @@ languagefile {
     S:oredict.oreRedgraniteCoal.name=红花岗岩煤矿石
     S:oredict.oreRedgraniteCobalt.name=红花岗岩钴矿石
     S:oredict.oreRedgraniteCobalt60.name=红花岗岩钴-60矿石
-    S:oredict.oreRedgraniteCobaltite.name=红花岗岩Cobaltite矿石
+    S:oredict.oreRedgraniteCobaltite.name=红花岗岩辉砷钴矿石
     S:oredict.oreRedgraniteCooperite.name=红花岗岩Sheldonite矿石
     S:oredict.oreRedgraniteCopernicium.name=红花岗岩鎶矿石
     S:oredict.oreRedgranite铜.name=红花岗岩铜矿石
@@ -28214,7 +28213,7 @@ languagefile {
     S:oredict.oreRedgraniteOsmium.name=红花岗岩锇矿石
     S:oredict.oreRedgraniteOureclase.name=红花岗岩大地结晶矿石
     S:oredict.oreRedgranitePalladium.name=红花岗岩钯矿石
-    S:oredict.oreRedgranitePentlandite.name=红花岗岩Pentlandite矿石
+    S:oredict.oreRedgranitePentlandite.name=红花岗岩镍黄铁矿石
     S:oredict.oreRedgranitePerlite.name=红花岗岩珍珠岩矿石
     S:oredict.oreRedgranitePhosphate.name=红花岗岩磷酸盐矿石
     S:oredict.oreRedgranitePhosphor.name=红花岗岩磷矿石
@@ -28551,7 +28550,7 @@ languagefile {
     S:oredict.oreSandCoal.name=煤矿砂
     S:oredict.oreSandCobalt.name=钴矿砂
     S:oredict.oreSandCobalt60.name=钴-60矿砂
-    S:oredict.oreSandCobaltite.name=Cobaltite矿砂
+    S:oredict.oreSandCobaltite.name=辉砷钴
     S:oredict.oreSandCooperite.name=Sheldonite矿砂
     S:oredict.oreSandCopernicium.name=鎶矿砂
     S:oredict.oreSand铜.name=铜矿砂
@@ -28693,7 +28692,7 @@ languagefile {
     S:oredict.oreSandOsmium.name=锇矿砂
     S:oredict.oreSandOureclase.name=大地结晶矿砂
     S:oredict.oreSandPalladium.name=钯矿砂
-    S:oredict.oreSandPentlandite.name=Pentlandite矿砂
+    S:oredict.oreSandPentlandite.name=镍黄铁
     S:oredict.oreSandPerlite.name=珍珠岩矿砂
     S:oredict.oreSandPhosphate.name=磷酸盐矿砂
     S:oredict.oreSandPhosphor.name=磷矿砂
@@ -29015,7 +29014,7 @@ languagefile {
     S:oredict.oreSandstoneCoal.name=沙石煤矿石
     S:oredict.oreSandstoneCobalt.name=沙石钴矿石
     S:oredict.oreSandstoneCobalt60.name=沙石钴-60矿石
-    S:oredict.oreSandstoneCobaltite.name=沙石Cobaltite矿石
+    S:oredict.oreSandstoneCobaltite.name=沙石辉砷钴
     S:oredict.oreSandstoneCooperite.name=沙石Sheldonite矿石
     S:oredict.oreSandstoneCopernicium.name=沙石鎶矿石
     S:oredict.oreSandstone铜.name=沙石铜矿石
@@ -29157,7 +29156,7 @@ languagefile {
     S:oredict.oreSandstoneOsmium.name=沙石锇矿石
     S:oredict.oreSandstoneOureclase.name=沙石大地结晶矿石
     S:oredict.oreSandstonePalladium.name=沙石钯矿石
-    S:oredict.oreSandstonePentlandite.name=沙石Pentlandite矿石
+    S:oredict.oreSandstonePentlandite.name=沙石镍黄铁矿石
     S:oredict.oreSandstonePerlite.name=沙石珍珠岩矿石
     S:oredict.oreSandstonePhosphate.name=沙石磷酸盐矿石
     S:oredict.oreSandstonePhosphor.name=沙石磷矿石
@@ -29490,7 +29489,7 @@ languagefile {
     S:oredict.oreSmallCoal.name=贫瘠煤矿石
     S:oredict.oreSmallCobalt.name=贫瘠钴矿石
     S:oredict.oreSmallCobalt60.name=贫瘠钴-60矿石
-    S:oredict.oreSmallCobaltite.name=贫瘠Cobaltite矿石
+    S:oredict.oreSmallCobaltite.name=贫瘠辉砷钴矿石
     S:oredict.oreSmallCooperite.name=贫瘠Sheldonite矿石
     S:oredict.oreSmallCopernicium.name=贫瘠鎶矿石
     S:oredict.oreSmall铜.name=贫瘠铜矿石
@@ -29632,7 +29631,7 @@ languagefile {
     S:oredict.oreSmallOsmium.name=贫瘠锇矿石
     S:oredict.oreSmallOureclase.name=贫瘠大地结晶矿石
     S:oredict.oreSmallPalladium.name=贫瘠钯矿石
-    S:oredict.oreSmallPentlandite.name=贫瘠Pentlandite矿石
+    S:oredict.oreSmallPentlandite.name=贫瘠镍黄铁矿石
     S:oredict.oreSmallPerlite.name=贫瘠珍珠岩矿石
     S:oredict.oreSmallPhosphate.name=贫瘠磷酸盐矿石
     S:oredict.oreSmallPhosphor.name=贫瘠磷矿石
@@ -30077,7 +30076,7 @@ languagefile {
     S:oredict.plantGtBerryCobalt60.name=Cobalt-60梅
     S:oredict.plantGtBerryCobaltBrass.name=Cobalt Brass梅
     S:oredict.plantGtBerryCobaltHexahydrate.name=Cobalt Hexahydrate梅
-    S:oredict.plantGtBerryCobaltite.name=Cobaltite梅
+    S:oredict.plantGtBerryCobaltite.name=辉砷钴梅
     S:oredict.plantGtBerryCocoa.name=Cocoa梅
     S:oredict.plantGtBerryCoffee.name=Coffee梅
     S:oredict.plantGtBerryConcrete.name=Concrete梅
@@ -30348,7 +30347,7 @@ languagefile {
     S:oredict.plantGtBerryPaper.name=纸梅
     S:oredict.plantGtBerryPeat.name=Peat梅
     S:oredict.plantGtBerryPeatBituminous.name=Bituminous Peat梅
-    S:oredict.plantGtBerryPentlandite.name=Pentlandite梅
+    S:oredict.plantGtBerryPentlandite.name=镍黄铁
     S:oredict.plantGtBerryPepper黑色.name=黑胡椒梅
     S:oredict.plantGtBerryPerlite.name=Perlite梅
     S:oredict.plantGtBerryPetrotheum.name=Petrotheum Berry
@@ -30462,7 +30461,7 @@ languagefile {
     S:oredict.plantGtBerrySteelMagnetic.name=Magnetic Steel梅
     S:oredict.plantGtBerrySteeleaf.name=Steeleaf梅
     S:oredict.plantGtBerrySterlingSilver.name=Sterling Silver梅
-    S:oredict.plantGtBerryStibnite.name=Stibnite梅
+    S:oredict.plantGtBerryStibnite.name=辉锑矿梅
     S:oredict.plantGtBerryStolzite.name=Stolzite梅
     S:oredict.plantGtBerryStone.name=Stone梅
     S:oredict.plantGtBerryStrontium.name=Strontium梅
@@ -30485,7 +30484,7 @@ languagefile {
     S:oredict.plantGtBerryTerbium.name=Terbium梅
     S:oredict.plantGtBerryTerrasteel.name=Terrasteel梅
     S:oredict.plantGtBerryTeslatite.name=Teslatite梅
-    S:oredict.plantGtBerryTetrahedrite.name=Tetrahedrite梅
+    S:oredict.plantGtBerryTetrahedrite.name=黝铜矿梅
     S:oredict.plantGtBerryThallium.name=Thallium梅
     S:oredict.plantGtBerryThaumium.name=Thaumium梅
     S:oredict.plantGtBerryThorium.name=Thorium梅
@@ -30816,7 +30815,7 @@ languagefile {
     S:oredict.plantGtBlossomCobalt60.name=Cobalt-60花
     S:oredict.plantGtBlossomCobaltBrass.name=Cobalt Brass花
     S:oredict.plantGtBlossomCobaltHexahydrate.name=Cobalt Hexahydrate花
-    S:oredict.plantGtBlossomCobaltite.name=Cobaltite花
+    S:oredict.plantGtBlossomCobaltite.name=辉砷钴花
     S:oredict.plantGtBlossomCocoa.name=Cocoa花
     S:oredict.plantGtBlossomCoffee.name=Coffee花
     S:oredict.plantGtBlossomConcrete.name=Concrete花
@@ -31087,7 +31086,7 @@ languagefile {
     S:oredict.plantGtBlossomPaper.name=纸花
     S:oredict.plantGtBlossomPeat.name=Peat花
     S:oredict.plantGtBlossomPeatBituminous.name=Bituminous Peat花
-    S:oredict.plantGtBlossomPentlandite.name=Pentlandite花
+    S:oredict.plantGtBlossomPentlandite.name=镍黄铁
     S:oredict.plantGtBlossomPepper黑色.name=黑胡椒花
     S:oredict.plantGtBlossomPerlite.name=Perlite花
     S:oredict.plantGtBlossomPetrotheum.name=Petrotheum Blossom
@@ -31201,7 +31200,7 @@ languagefile {
     S:oredict.plantGtBlossomSteelMagnetic.name=Magnetic Steel花
     S:oredict.plantGtBlossomSteeleaf.name=Steeleaf Leaf
     S:oredict.plantGtBlossomSterlingSilver.name=Sterling Silver花
-    S:oredict.plantGtBlossomStibnite.name=Stibnite花
+    S:oredict.plantGtBlossomStibnite.name=辉锑矿花
     S:oredict.plantGtBlossomStolzite.name=Stolzite花
     S:oredict.plantGtBlossomStone.name=Stone花
     S:oredict.plantGtBlossomStrontium.name=Strontium花
@@ -31224,7 +31223,7 @@ languagefile {
     S:oredict.plantGtBlossomTerbium.name=Terbium花
     S:oredict.plantGtBlossomTerrasteel.name=Terrasteel花
     S:oredict.plantGtBlossomTeslatite.name=Teslatite花
-    S:oredict.plantGtBlossomTetrahedrite.name=Tetrahedrite花
+    S:oredict.plantGtBlossomTetrahedrite.name=黝铜矿花
     S:oredict.plantGtBlossomThallium.name=Thallium花
     S:oredict.plantGtBlossomThaumium.name=Thaumium花
     S:oredict.plantGtBlossomThorium.name=Thorium花
@@ -31555,7 +31554,7 @@ languagefile {
     S:oredict.plantGtFiberCobalt60.name=粗糙的Cobalt-60纤维
     S:oredict.plantGtFiberCobaltBrass.name=粗糙的Cobalt Brass纤维
     S:oredict.plantGtFiberCobaltHexahydrate.name=粗糙的Cobalt Hexahydrate纤维
-    S:oredict.plantGtFiberCobaltite.name=粗糙的Cobaltite纤维
+    S:oredict.plantGtFiberCobaltite.name=粗糙的辉砷钴纤维
     S:oredict.plantGtFiberCocoa.name=粗糙的Cocoa纤维
     S:oredict.plantGtFiberCoffee.name=粗糙的Coffee纤维
     S:oredict.plantGtFiberConcrete.name=粗糙的Concrete纤维
@@ -31826,7 +31825,7 @@ languagefile {
     S:oredict.plantGtFiberPaper.name=Raw纸纤维
     S:oredict.plantGtFiberPeat.name=粗糙的Peat纤维
     S:oredict.plantGtFiberPeatBituminous.name=粗糙的Bituminous Peat纤维
-    S:oredict.plantGtFiberPentlandite.name=粗糙的Pentlandite纤维
+    S:oredict.plantGtFiberPentlandite.name=粗糙的镍黄铁纤维
     S:oredict.plantGtFiberPepper黑色.name=Raw黑胡椒纤维
     S:oredict.plantGtFiberPerlite.name=粗糙的Perlite纤维
     S:oredict.plantGtFiberPetrotheum.name=Raw Petrotheum Fiber
@@ -31940,7 +31939,7 @@ languagefile {
     S:oredict.plantGtFiberSteelMagnetic.name=粗糙的Magnetic Steel纤维
     S:oredict.plantGtFiberSteeleaf.name=粗糙的Steeleaf纤维
     S:oredict.plantGtFiberSterlingSilver.name=粗糙的Sterling Silver纤维
-    S:oredict.plantGtFiberStibnite.name=粗糙的Stibnite纤维
+    S:oredict.plantGtFiberStibnite.name=粗糙的辉锑矿纤维
     S:oredict.plantGtFiberStolzite.name=粗糙的Stolzite纤维
     S:oredict.plantGtFiberStone.name=粗糙的Stone纤维
     S:oredict.plantGtFiberStrontium.name=粗糙的Strontium纤维
@@ -31963,7 +31962,7 @@ languagefile {
     S:oredict.plantGtFiberTerbium.name=粗糙的Terbium纤维
     S:oredict.plantGtFiberTerrasteel.name=粗糙的Terrasteel纤维
     S:oredict.plantGtFiberTeslatite.name=粗糙的Teslatite纤维
-    S:oredict.plantGtFiberTetrahedrite.name=粗糙的Tetrahedrite纤维
+    S:oredict.plantGtFiberTetrahedrite.name=粗糙的黝铜矿纤维
     S:oredict.plantGtFiberThallium.name=粗糙的Thallium纤维
     S:oredict.plantGtFiberThaumium.name=粗糙的Thaumium纤维
     S:oredict.plantGtFiberThorium.name=粗糙的Thorium纤维
@@ -32294,7 +32293,7 @@ languagefile {
     S:oredict.plantGtTwigCobalt60.name=Cobalt-60细枝
     S:oredict.plantGtTwigCobaltBrass.name=Cobalt Brass细枝
     S:oredict.plantGtTwigCobaltHexahydrate.name=Cobalt Hexahydrate细枝
-    S:oredict.plantGtTwigCobaltite.name=Cobaltite细枝
+    S:oredict.plantGtTwigCobaltite.name=辉砷钴细枝
     S:oredict.plantGtTwigCocoa.name=Cocoa细枝
     S:oredict.plantGtTwigCoffee.name=Coffee细枝
     S:oredict.plantGtTwigConcrete.name=Concrete细枝
@@ -32565,7 +32564,7 @@ languagefile {
     S:oredict.plantGtTwigPaper.name=纸细枝
     S:oredict.plantGtTwigPeat.name=Peat细枝
     S:oredict.plantGtTwigPeatBituminous.name=Bituminous Peat细枝
-    S:oredict.plantGtTwigPentlandite.name=Pentlandite细枝
+    S:oredict.plantGtTwigPentlandite.name=镍黄铁细枝
     S:oredict.plantGtTwigPepper黑色.name=黑胡椒细枝
     S:oredict.plantGtTwigPerlite.name=Perlite细枝
     S:oredict.plantGtTwigPetrotheum.name=Petrotheum Twig
@@ -32679,7 +32678,7 @@ languagefile {
     S:oredict.plantGtTwigSteelMagnetic.name=Magnetic Steel细枝
     S:oredict.plantGtTwigSteeleaf.name=Steeleaf细枝
     S:oredict.plantGtTwigSterlingSilver.name=Sterling Silver细枝
-    S:oredict.plantGtTwigStibnite.name=Stibnite细枝
+    S:oredict.plantGtTwigStibnite.name=辉锑矿细枝
     S:oredict.plantGtTwigStolzite.name=Stolzite细枝
     S:oredict.plantGtTwigStone.name=Stone细枝
     S:oredict.plantGtTwigStrontium.name=Strontium细枝
@@ -32702,7 +32701,7 @@ languagefile {
     S:oredict.plantGtTwigTerbium.name=Terbium细枝
     S:oredict.plantGtTwigTerrasteel.name=Terrasteel细枝
     S:oredict.plantGtTwigTeslatite.name=Teslatite细枝
-    S:oredict.plantGtTwigTetrahedrite.name=Tetrahedrite细枝
+    S:oredict.plantGtTwigTetrahedrite.name=黝铜矿细枝
     S:oredict.plantGtTwigThallium.name=Thallium细枝
     S:oredict.plantGtTwigThaumium.name=Thaumium细枝
     S:oredict.plantGtTwigThorium.name=Thorium细枝
@@ -33033,7 +33032,7 @@ languagefile {
     S:oredict.plantGtWartCobalt60.name=Cobalt-60疣
     S:oredict.plantGtWartCobaltBrass.name=Cobalt Brass疣
     S:oredict.plantGtWartCobaltHexahydrate.name=Cobalt Hexahydrate疣
-    S:oredict.plantGtWartCobaltite.name=Cobaltite疣
+    S:oredict.plantGtWartCobaltite.name=辉砷钴疣
     S:oredict.plantGtWartCocoa.name=Cocoa疣
     S:oredict.plantGtWartCoffee.name=Coffee疣
     S:oredict.plantGtWartConcrete.name=Concrete疣
@@ -33304,7 +33303,7 @@ languagefile {
     S:oredict.plantGtWartPaper.name=纸疣
     S:oredict.plantGtWartPeat.name=Peat疣
     S:oredict.plantGtWartPeatBituminous.name=Bituminous Peat疣
-    S:oredict.plantGtWartPentlandite.name=Pentlandite疣
+    S:oredict.plantGtWartPentlandite.name=镍黄铁疣
     S:oredict.plantGtWartPepper黑色.name=黑胡椒疣
     S:oredict.plantGtWartPerlite.name=Perlite疣
     S:oredict.plantGtWartPetrotheum.name=Petrotheum Wart
@@ -33418,7 +33417,7 @@ languagefile {
     S:oredict.plantGtWartSteelMagnetic.name=Magnetic Steel疣
     S:oredict.plantGtWartSteeleaf.name=Steeleaf疣
     S:oredict.plantGtWartSterlingSilver.name=Sterling Silver疣
-    S:oredict.plantGtWartStibnite.name=Stibnite疣
+    S:oredict.plantGtWartStibnite.name=辉锑矿疣
     S:oredict.plantGtWartStolzite.name=Stolzite疣
     S:oredict.plantGtWartStone.name=Stone疣
     S:oredict.plantGtWartStrontium.name=Strontium疣
@@ -33441,7 +33440,7 @@ languagefile {
     S:oredict.plantGtWartTerbium.name=Terbium疣
     S:oredict.plantGtWartTerrasteel.name=Terrasteel疣
     S:oredict.plantGtWartTeslatite.name=Teslatite疣
-    S:oredict.plantGtWartTetrahedrite.name=Tetrahedrite疣
+    S:oredict.plantGtWartTetrahedrite.name=黝铜矿疣
     S:oredict.plantGtWartThallium.name=Thallium疣
     S:oredict.plantGtWartThaumium.name=Thaumium疣
     S:oredict.plantGtWartThorium.name=Thorium疣
@@ -37609,7 +37608,7 @@ languagefile {
     S:oredict.scrapGtCobalt60.name=钴-60废料
     S:oredict.scrapGtCobaltBrass.name=钴黄铜废料
     S:oredict.scrapGtCobaltHexahydrate.name=Cobalt Hexahydrate废料
-    S:oredict.scrapGtCobaltite.name=Cobaltite废料
+    S:oredict.scrapGtCobaltite.name=辉砷钴废料
     S:oredict.scrapGtCocoa.name=Cocoa废料
     S:oredict.scrapGtCoffee.name=Coffee废料
     S:oredict.scrapGtConcrete.name=混凝土废料
@@ -37851,7 +37850,7 @@ languagefile {
     S:oredict.scrapGtPaper.name=纸废料
     S:oredict.scrapGtPeat.name=Peat废料
     S:oredict.scrapGtPeatBituminous.name=Bituminous Peat废料
-    S:oredict.scrapGtPentlandite.name=Pentlandite废料
+    S:oredict.scrapGtPentlandite.name=镍黄铁废料
     S:oredict.scrapGtPepper黑色.name=黑胡椒废料
     S:oredict.scrapGtPerlite.name=Perlite废料
     S:oredict.scrapGtPetrotheum.name=Petrotheum Scrap
