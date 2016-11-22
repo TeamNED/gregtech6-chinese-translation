@@ -9630,7 +9630,7 @@ languagefile {
     S:oredict.casingMachineDenseThorium.name=Dense Thorium 机器外壳
     S:oredict.casingMachineDenseTin.name=Dense Tin Machine Casing
     S:oredict.casingMachineDenseTinAlloy.name=Dense 锡合金机器外壳
-    S:oredict.casingMachineDenseTitanium.name=Dense Titanium 机器外壳
+    S:oredict.casingMachineDenseTitanium.name=Dense 钛合金机器外壳
     S:oredict.casingMachineDenseTrinaquadalloy.name=Dense Trinaquadalloy Machine Casing
     S:oredict.casingMachineDenseTrinitanium.name=Dense Trinitanium Machine Casing
     S:oredict.casingMachineDenseTritanium.name=Dense Tritanium 机器外壳
@@ -10003,8 +10003,8 @@ languagefile {
     S:oredict.casingMachineQuadrupleVulcanite.name=Reinforced Vulcanite 机器外壳
     S:oredict.casingMachineQuadrupleVyroxeres.name=Reinforced Vyroxeres 机器外壳
     S:oredict.casingMachineQuadrupleWroughtIron.name=Reinforced Wrought Iron 机器外壳
-    S:oredict.casingMachineRedSteel.name=红钢 机器外壳
-    S:oredict.casingMachineRosegold.name=Rose 金 机器外壳
+    S:oredict.casingMachineRedSteel.name=红钢机器外壳
+    S:oredict.casingMachineRosegold.name=玫瑰金机器外壳
     S:oredict.casingMachineSanguinite.name=Sanguinite 机器外壳
     S:oredict.casingMachineShadowIron.name=Shadow Iron 机器外壳
     S:oredict.casingMachineShadowSteel.name=Shadow Steel 机器外壳
@@ -10012,7 +10012,7 @@ languagefile {
     S:oredict.casingMachineSilver.name=Silver 机器外壳
     S:oredict.casingMachineSoularium.name=Soularium 机器外壳
     S:oredict.casingMachineStainlessSteel.name=Stainless Steel 机器外壳
-    S:oredict.casingMachineSteel.name=Steel 机器外壳
+    S:oredict.casingMachineSteel.name=钢机器外壳
     S:oredict.casingMachineSteelGalvanized.name=Galvanized Steel 机器外壳
     S:oredict.casingMachineSteelMagnetic.name=Magnetic Steel 机器外壳
     S:oredict.casingMachineSteeleaf.name=Steeleaf 机器外壳
@@ -10024,7 +10024,7 @@ languagefile {
     S:oredict.casingMachineThorium.name=Thorium 机器外壳
     S:oredict.casingMachineTin.name=Tin Machine Casing
     S:oredict.casingMachineTinAlloy.name=锡合金机器外壳
-    S:oredict.casingMachineTitanium.name=Titanium 机器外壳
+    S:oredict.casingMachineTitanium.name=钛合金机器外壳
     S:oredict.casingMachineTrinaquadalloy.name=Trinaquadalloy Machine Casing
     S:oredict.casingMachineTrinitanium.name=Trinitanium Machine Casing
     S:oredict.casingMachineTritanium.name=Tritanium 机器外壳
@@ -39407,7 +39407,7 @@ languagefile {
     S:oredict.stickLonsdaleite.name=Lonsdaleite杆
     S:oredict.stickLumium.name=Lumium杆
     S:oredict.stickLutetium.name=镥杆
-    S:oredict.stickMagic.name=Magic杆
+    S:oredict.stickMagic.name=膜法杆
     S:oredict.stickMagnalium.name=镁铝合金杆
     S:oredict.stickMagnesium.name=镁杆
     S:oredict.stickMalachite.name=孔雀石杆
