@@ -868,7 +868,7 @@ languagefile {
     S:gt.block.rail.booster.bronze.32767.name=Any Sub-Rail of this one
     S:gt.block.rail.booster.bronze.name=青铜 Booster轨道
     S:gt.block.rail.booster.stainlesssteel.32767.name=Any Sub-Rail of this one
-    S:gt.block.rail.booster.stainlesssteel.name=Stainless钢 Booster轨道
+    S:gt.block.rail.booster.stainlesssteel.name=不锈钢 Booster轨道
     S:gt.block.rail.booster.steel.32767.name=Any Sub-Rail of this one
     S:gt.block.rail.booster.steel.name=钢 Booster轨道
     S:gt.block.rail.booster.titanium.32767.name=Any Sub-Rail of this one
@@ -886,7 +886,7 @@ languagefile {
     S:gt.block.rail.detector.bronze.32767.name=Any Sub-Rail of this one
     S:gt.block.rail.detector.bronze.name=青铜 Detector轨道
     S:gt.block.rail.detector.stainlesssteel.32767.name=Any Sub-Rail of this one
-    S:gt.block.rail.detector.stainlesssteel.name=Stainless钢 Detector轨道
+    S:gt.block.rail.detector.stainlesssteel.name=不锈钢 Detector轨道
     S:gt.block.rail.detector.steel.32767.name=Any Sub-Rail of this one
     S:gt.block.rail.detector.steel.name=钢 Detector轨道
     S:gt.block.rail.detector.titanium.32767.name=Any Sub-Rail of this one
@@ -898,7 +898,7 @@ languagefile {
     S:gt.block.rail.detector.tungstensteel.32767.name=Any Sub-Rail of this one
     S:gt.block.rail.detector.tungstensteel.name=Tungstensteel Detector轨道
     S:gt.block.rail.stainlesssteel.32767.name=Any Sub-Rail of this one
-    S:gt.block.rail.stainlesssteel.name=Stainless钢轨道
+    S:gt.block.rail.stainlesssteel.name=不锈钢轨道
     S:gt.block.rail.steel.32767.name=Any Sub-Rail of this one
     S:gt.block.rail.steel.name=钢轨道
     S:gt.block.rail.titanium.32767.name=Any Sub-Rail of this one
@@ -5654,7 +5654,7 @@ languagefile {
     S:gt.multitileentity.508.name=Brass加固木箱子
     S:gt.multitileentity.509.name=青铜加固木箱子
     S:gt.multitileentity.510.name=钢加固木箱子
-    S:gt.multitileentity.511.name=Stainless钢加固木箱子
+    S:gt.multitileentity.511.name=不锈钢加固木箱子
     S:gt.multitileentity.512.name=Titanium加固木箱子
     S:gt.multitileentity.513.name=Chromium加固木箱子
     S:gt.multitileentity.514.name=Tungstensteel加固木箱子
@@ -5861,7 +5861,7 @@ languagefile {
     S:gt.multitileentity.8008.name=Brass漏斗
     S:gt.multitileentity.8009.name=青铜漏斗
     S:gt.multitileentity.8010.name=钢漏斗
-    S:gt.multitileentity.8011.name=Stainless钢漏斗
+    S:gt.multitileentity.8011.name=不锈钢漏斗
     S:gt.multitileentity.8012.name=Titanium漏斗
     S:gt.multitileentity.8013.name=Chromium漏斗
     S:gt.multitileentity.8014.name=Tungstensteel漏斗
@@ -7583,7 +7583,7 @@ languagefile {
     S:oredict.blockDustGlowstoneRefined.name=离心过的 萤石粉块
     S:oredict.blockDustGneiss.name=Gneiss粉块
     S:oredict.blockDustgold.name=金粉块
-    S:oredict.blockDust金Inductive.name=Block of Inductive合金粉
+    S:oredict.blockDustgoldInductive.name=Block of Inductive合金粉
     S:oredict.blockDustGraniteblack.name=黑花岗岩粉块
     S:oredict.blockDustGranitered.name=红花岗岩粉块
     S:oredict.blockDustGraniticMineralSand.name=花岗岩类矿砂块
@@ -9650,7 +9650,7 @@ languagefile {
     S:oredict.casingMachineDenseWroughtIron.name=Dense Wrought Iron 机器外壳
     S:oredict.casingMachineDesh.name=Desh 机器外壳
     S:oredict.casingMachineDesichalkos.name=Desichalkos 机器外壳
-    S:oredict.casingMachineDoub铅amantium.name=Robust Adamantium 机器外壳
+    S:oredict.casingMachineDoubleAdamantium.name=Robust Adamantium 机器外壳
     S:oredict.casingMachineDoubleAluminium.name=Robust Aluminium 机器外壳
     S:oredict.casingMachineDoubleAluminiumAlloy.name=Robust Aluminium Alloy 机器外壳
     S:oredict.casingMachineDoubleAluminiumBrass.name=Robust Aluminium Brass 机器外壳
@@ -9858,7 +9858,7 @@ languagefile {
     S:oredict.casingMachinePlutonium243.name=Plutonium-243 机器外壳
     S:oredict.casingMachinePrometheum.name=Prometheum 机器外壳
     S:oredict.casingMachinePulsatingIron.name=Pulsating Iron 机器外壳
-    S:oredict.casingMachineQuadrup铅amantium.name=Reinforced Adamantium 机器外壳
+    S:oredict.casingMachineQuadrupleAdamantium.name=Reinforced Adamantium 机器外壳
     S:oredict.casingMachineQuadrupleAluminium.name=Reinforced Aluminium 机器外壳
     S:oredict.casingMachineQuadrupleAluminiumAlloy.name=Reinforced Aluminium Alloy 机器外壳
     S:oredict.casingMachineQuadrupleAluminiumBrass.name=Reinforced Aluminium Brass 机器外壳
@@ -10011,7 +10011,7 @@ languagefile {
     S:oredict.casingMachineSignalum.name=信素机器外壳
     S:oredict.casingMachineSilver.name=Silver 机器外壳
     S:oredict.casingMachineSoularium.name=Soularium 机器外壳
-    S:oredict.casingMachineStainlessSteel.name=Stainless钢 机器外壳
+    S:oredict.casingMachineStainlessSteel.name=不锈钢 机器外壳
     S:oredict.casingMachineSteel.name=钢机器外壳
     S:oredict.casingMachineSteelGalvanized.name=Galvanized钢 机器外壳
     S:oredict.casingMachineSteelMagnetic.name=Magnetic钢 机器外壳
@@ -30454,7 +30454,7 @@ languagefile {
     S:oredict.plantGtBerrySphalerite.name=Sphalerite梅
     S:oredict.plantGtBerrySpinel.name=Spinel Berry
     S:oredict.plantGtBerrySpodumene.name=Spodumene梅
-    S:oredict.plantGtBerryStainlessSteel.name=Stainless钢梅
+    S:oredict.plantGtBerryStainlessSteel.name=不锈钢梅
     S:oredict.plantGtBerryStannicChloride.name=Stannic Chloride Berry
     S:oredict.plantGtBerryStannite.name=Stannite Berry
     S:oredict.plantGtBerrySteel.name=钢梅
@@ -31193,7 +31193,7 @@ languagefile {
     S:oredict.plantGtBlossomSphalerite.name=Sphalerite花
     S:oredict.plantGtBlossomSpinel.name=Spinel Blossom
     S:oredict.plantGtBlossomSpodumene.name=Spodumene花
-    S:oredict.plantGtBlossomStainlessSteel.name=Stainless钢花
+    S:oredict.plantGtBlossomStainlessSteel.name=不锈钢花
     S:oredict.plantGtBlossomStannicChloride.name=Stannic Chloride Blossom
     S:oredict.plantGtBlossomStannite.name=Stannite Blossom
     S:oredict.plantGtBlossomSteel.name=钢花
@@ -32671,7 +32671,7 @@ languagefile {
     S:oredict.plantGtTwigSphalerite.name=Sphalerite细枝
     S:oredict.plantGtTwigSpinel.name=Spinel Twig
     S:oredict.plantGtTwigSpodumene.name=Spodumene细枝
-    S:oredict.plantGtTwigStainlessSteel.name=Stainless钢细枝
+    S:oredict.plantGtTwigStainlessSteel.name=不锈钢细枝
     S:oredict.plantGtTwigStannicChloride.name=Stannic Chloride Twig
     S:oredict.plantGtTwigStannite.name=Stannite Twig
     S:oredict.plantGtTwigSteel.name=钢细枝
@@ -33410,7 +33410,7 @@ languagefile {
     S:oredict.plantGtWartSphalerite.name=Sphalerite疣
     S:oredict.plantGtWartSpinel.name=Spinel Wart
     S:oredict.plantGtWartSpodumene.name=Spodumene疣
-    S:oredict.plantGtWartStainlessSteel.name=Stainless钢疣
+    S:oredict.plantGtWartStainlessSteel.name=不锈钢疣
     S:oredict.plantGtWartStannicChloride.name=Stannic Chloride Wart
     S:oredict.plantGtWartStannite.name=Stannite Wart
     S:oredict.plantGtWartSteel.name=钢疣
