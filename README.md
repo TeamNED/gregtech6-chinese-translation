@@ -11,3 +11,9 @@ Current Works:
   - Translate all english description into Chinese
   - Make the translations make sense
   - Sleep :P (I like sleeping!!My heaven!!)
+
+##How we change it?
+  - Ind: Stupidly replace all words :P (Just kidding~)
+  - Gordon: Based on these two regular expression:
+    - [^\=\.\(\-\:]\b"Search_context" --> Find target contexts the first word after "="
+    - =\b"Search_context" --> Find target contexts right after "="
