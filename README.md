@@ -16,4 +16,4 @@ Current Works:
   - Ind: Stupidly replace all words :P (Just kidding~)
   - Gordon: Based on these two regular expression:
     - [^\=\.\(\-\:]\b"Search_context" --> Find target contexts the first word after "="
-    - =\b"Search_context" --> Find target contexts right after "="
+    - =\b"Search_context" --> Find target contexts right after "="
