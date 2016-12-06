@@ -17,3 +17,4 @@ Current Works:
   - Gordon: Based on these two regular expression:
     - [^\=\.\(\-\:]\b"Search_context" --> Find target contexts the first word after "="
     - =\b"Search_context" --> Find target contexts right after "="
+    - Just created a script that can based on the translation of words to words (Maybe weird, but IDC! xD)
