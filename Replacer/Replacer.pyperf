@@ -4,4 +4,9 @@
     <TargetProject>ff2bf9e4-584d-438c-ba05-bd2068f62b02</TargetProject>
     <FriendlyName>Replacer</FriendlyName>
   </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Gordon's\AppData\Local\Temp\Replacer_20161206.vsp</Filename>
+    </Report>
+  </Reports>
 </ProfilingTarget>
