@@ -22,7 +22,7 @@ if dict_path:
     dictionary_dict={}
 
     for line in dictionary_list:
-        if line.find('=')!=0:
+        if line.find('=')!=0 and line.find('=')!=len(line)-1:
             dictionary_dict[line[:line.find('=')]]=unicode(line[line.find('=')+1:],'gb2312')
 
     del dictionary_list

@@ -78,7 +78,7 @@ class counter():
         '''Write to file'''
         output=""
         for key in words.keys():
-            output+=key
+            output+=key.strip()
             output+="=\n"
 
         destination_file=open('pending_dictionary.dict','w+')
