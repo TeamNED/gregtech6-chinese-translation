@@ -3,7 +3,7 @@ Gregtech6汉化
 欢迎加入
 原始文件源自Amamiya组
 草草草，这个大破坑
-
+滑稽
 ##Notes from Gordon
 I'm so buzy these days, so i may update it after I've done all works >_<
 
@@ -18,3 +18,4 @@ Current Works:
     - [^\=\.\(\-\:]\b"Search_context" --> Find target contexts the first word after "="
     - =\b"Search_context" --> Find target contexts right after "="
     - Just created a script that can based on the translation of words to words (Maybe weird, but IDC! xD)
+
