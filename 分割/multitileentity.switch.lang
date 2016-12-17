@@ -1,0 +1,17 @@
+    S:gt.multitileentity.data.switch.tooltip.1=Use adjacent to Machines that require USB Sticks to select Recipes
+    S:gt.multitileentity.data.switch.tooltip.2=Add USB Cable to Slot where USB Stick in the Recipe would go
+    S:gt.multitileentity.data.switch.tooltip.3=Clicking with USB Stick will write its Data to the selected Slot.
+    S:gt.multitileentity.data.switch.tooltip.4=Not usable with Machines that consume USB Sticks, such as 扫描仪s!
+    S:gt.multitileentity.data.switch.tooltip.5=Requires a Selector Cover to work, otherwise it always selects Slot 0!
+    S:gt.multitileentity.ender.garbage.bin.tooltip.1=Trash Bin deleting Items & Fluids, or moving them to the Servers Garbage Dump
+    S:gt.multitileentity.ender.garbage.bin.tooltip.2=Items & Fluids entering this will be dumped inside the Garbage Dimension
+    S:gt.multitileentity.ender.garbage.bin.tooltip.3=You can stop this from operating using a simple 红石 Signal
+    S:gt.multitileentity.ender.garbage.dump.tooltip.1=This is where all the Trash Bin Items & Fluids go to
+    S:gt.multitileentity.ender.garbage.dump.tooltip.2=Accesses the Garbage Dimension to retrieve Trash.
+    S:gt.multitileentity.ender.garbage.dump.tooltip.3=If used properly, people could for example 'donate' Resources.
+    S:gt.multitileentity.hdd.switch.tooltip=Switches between the 16 Data Slots using Selector Covers
+    S:gt.multitileentity.hopper.tooltip.1=Slot Count:
+    S:gt.multitileentity.hopper.tooltip.2=Specified Stacksize:
+    S:gt.multitileentity.massstorage.tooltip.1=Can Store exactly 1 Million Items of one Type
+    S:gt.multitileentity.massstorage.tooltip.2=Can be used adjacent to Advanced Crafting Tables
+    S:gt.multitileentity.usb.switch.tooltip=Switches between 16 different USB Sticks using Selector Covers

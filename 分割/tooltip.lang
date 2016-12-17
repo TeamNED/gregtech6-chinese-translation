@@ -1,0 +1,24 @@
+    S:gt.tooltip.assemblylaser=Place directly ontop of the Laser powered BC Device
+    S:gt.tooltip.certificate=Certified Support of GregTech
+    S:gt.tooltip.energybattery.1=Selector Covers can set the amount of emitted Packets
+    S:gt.tooltip.energybattery.2=Mode 0 = Emit as much as possible, this is Default
+    S:gt.tooltip.energybattery.3=Mode 1 - 15 = Emit up to 1 - 15 Packets if enough Energy Storages
+    S:gt.tooltip.sensor.bucketometer=测量液体(单位：立方米)
+    S:gt.tooltip.sensor.chronometer=测量当时的时间
+    S:gt.tooltip.sensor.electrometer=测量电力流(单位：EU)
+    S:gt.tooltip.sensor.fluidometer=测量液体(单位：升)
+    S:gt.tooltip.sensor.gibblometer=测量压力(单位：Gibbl)
+    S:gt.tooltip.sensor.heavyweightometer=测量库存的质量(单位：吨)
+    S:gt.tooltip.sensor.itemometer=测量精确数量的物品
+    S:gt.tooltip.sensor.lightweightometer=测量库存的质量(单位：克)
+    S:gt.tooltip.sensor.luminometer=测量光线强度 (0 - 15)
+    S:gt.tooltip.sensor.mediumweightometer=测量库存的质量(单位：千克)
+    S:gt.tooltip.sensor.playercounter=测量整个服务器的玩家数量
+    S:gt.tooltip.sensor.progressmeter=测量进度
+    S:gt.tooltip.sensor.screwdrive.buttons=在按钮上使用螺丝刀启用平均模式。
+    S:gt.tooltip.sensor.screwdrive.display=在显示屏上使用螺丝刀开关十六进制显示。
+    S:gt.tooltip.sensor.screwdrive.modes=在其他地方使用螺丝刀调整其他模式。
+    S:gt.tooltip.sensor.stackometer=测量栈的精确数量
+    S:gt.tooltip.sensor.superheavyweightometer=测量库存的质量(单位：千吨)
+    S:gt.tooltip.sensor.thermometer=测量温度(单位：开尔文)
+    S:gt.tooltip.sensor.tpsmeter=测量整个服务器的TPS值

@@ -1,0 +1,10 @@
+    S:gt.tileentity.extender.tooltip.all=Relays everything
+    S:gt.tileentity.extender.tooltip.control=Relays Control Functions
+    S:gt.tileentity.extender.tooltip.exclusive=Cannot be attached to other Extenders!
+    S:gt.tileentity.extender.tooltip.inv=Relays Inventories
+    S:gt.tileentity.extender.tooltip.other=Relays Misc Functions
+    S:gt.tileentity.extender.tooltip.redstone=Relays 红石
+    S:gt.tileentity.extender.tooltip.tank=Relays Tanks
+    S:gt.tileentity.portal.nether.tooltip.1=传送物品，流体，红石，比较器信号，GT能量，以及更多！
+    S:gt.tileentity.portal.nether.tooltip.2=只能在主世界和下界之间工作，并且受到8倍距离因子的影响！
+    S:gt.tileentity.portal.nether.tooltip.3=总是将物品传送到最近的被激活的传送门。
