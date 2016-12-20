@@ -1,6 +1,0 @@
-    S:gt.advcrafting.automation.access=允许自动从合成栏提取
-    S:gt.advcrafting.drop.slot=自动化提取物品到这个插槽
-    S:gt.advcrafting.insert.blueprint=放一个蓝图在这儿
-    S:gt.advcrafting.neutral.slot=This Slot does ABSOLUTELY NOTHING to its content
-    S:gt.advcrafting.put.to.storage=移动合成栏内物品到存储栏位
-    S:gt.autocrafting.insert.blueprint=Insert an autocraftable Blueprint here
