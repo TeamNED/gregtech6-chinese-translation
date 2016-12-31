@@ -6,7 +6,7 @@ Gregtech6汉化
 滑稽
 ##Notes from Gordon
 I'm so buzy these days, so i may update it after I've done all works >_<
-
+###机器的汉化来自空集
 Current Works:
   - Translate all english description into Chinese
   - Make the translations make sense
