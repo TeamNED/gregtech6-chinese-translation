@@ -20,5 +20,5 @@ I'm so buzy these days, so i may update it after I've done all works >_<
     - =\b"Search_context" --> Find target contexts right after "="
     - Just created a script that can based on the translation of words to words (Maybe weird, but IDC! xD)
 
-##lisence
+##license
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本汉化项目 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。
