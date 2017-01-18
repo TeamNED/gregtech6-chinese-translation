@@ -7663,7 +7663,7 @@ languagefile {
     S:oredict.arrowGtWoodGreenschist.name=绿片岩箭
     S:oredict.arrowGtWoodGreywacke.name=杂砂岩箭
     S:oredict.arrowGtWoodGrossular.name=钙铝榴石箭
-    S:oredict.arrowGtWoodHSLASpringSteel.name=Spring Steel箭
+    S:oredict.arrowGtWoodHSLASpringSteel.name=弹簧钢箭
     S:oredict.arrowGtWoodHSLASteel.name=HSLA-钢箭
     S:oredict.arrowGtWoodHaderoth.name=幻之铜箭
     S:oredict.arrowGtWoodHepatizon.name=幽魂结晶箭
@@ -7689,7 +7689,7 @@ languagefile {
     S:oredict.arrowGtWoodKanthal.name=铁铬铝合金箭
     S:oredict.arrowGtWoodKnightmetal.name=骑士金属箭
     S:oredict.arrowGtWoodKomatiite.name=科马提岩箭
-    S:oredict.arrowGtWoodLead.name=Lead箭
+    S:oredict.arrowGtWoodLead.name=铅箭
     S:oredict.arrowGtWoodLimestone.name=石灰石箭
     S:oredict.arrowGtWoodMagnalium.name=镁铝合金箭
     S:oredict.arrowGtWoodManganese.name=锰箭
@@ -8216,7 +8216,7 @@ languagefile {
     S:oredict.blockDustLapis.name=青金石粉块
     S:oredict.blockDustLawrencium.name=铹粉块
     S:oredict.blockDustLazurite.name=Lazurite粉块
-    S:oredict.blockDustLead.name=Lead 粉块
+    S:oredict.blockDustLead.name=铅 粉块
     S:oredict.blockDustLemurite.name=Lemurite粉块
     S:oredict.blockDustLepidolite.name=Lepidolite粉块
     S:oredict.blockDustLightBlue.name=淡蓝色染料块
@@ -8869,7 +8869,7 @@ languagefile {
     S:oredict.blockIngotKnightmetal.name=骑士金属锭块
     S:oredict.blockIngotLantanium.name=镧锭块
     S:oredict.blockIngotLawrencium.name=铹锭块
-    S:oredict.blockIngotLead.name=Lead 锭块
+    S:oredict.blockIngotLead.name=铅 锭块
     S:oredict.blockIngotLemurite.name=Lemurite锭块
     S:oredict.blockIngotLivermorium.name=Livermorium锭块
     S:oredict.blockIngotLumium.name=Lumium锭块
@@ -9354,7 +9354,7 @@ languagefile {
     S:oredict.blockPlateKomatiite.name=Komatiite 板块
     S:oredict.blockPlateLantanium.name=镧板块
     S:oredict.blockPlateLawrencium.name=铹板块
-    S:oredict.blockPlateLead.name=Lead 板块
+    S:oredict.blockPlateLead.name=铅 板块
     S:oredict.blockPlateLemurite.name=Lemurite板块
     S:oredict.blockPlateLimestone.name=石灰石 板块
     S:oredict.blockPlateLivermorium.name=Livermorium板块
@@ -9754,7 +9754,7 @@ languagefile {
     S:oredict.blockSolidKnightmetal.name=骑士金属块
     S:oredict.blockSolidLantanium.name=镧块
     S:oredict.blockSolidLawrencium.name=铹块
-    S:oredict.blockSolidLead.name=Lead块
+    S:oredict.blockSolidLead.name=铅块
     S:oredict.blockSolidLemurite.name=Lemurite块
     S:oredict.blockSolidLivermorium.name=Livermorium块
     S:oredict.blockSolidLumium.name=Lumium块
@@ -10012,7 +10012,7 @@ languagefile {
     S:oredict.boltGreenschist.name=绿片岩 Bolt
     S:oredict.boltGreywacke.name=杂砂岩 螺栓
     S:oredict.boltGrossular.name=钙铝榴石 螺栓
-    S:oredict.boltHSLASpringSteel.name=Spring Steel 螺栓
+    S:oredict.boltHSLASpringSteel.name=弹簧钢 螺栓
     S:oredict.boltHSLASteel.name=HSLA-钢螺栓
     S:oredict.boltHaderoth.name=幻之铜螺栓
     S:oredict.boltHepatizon.name=幽魂结晶螺栓
@@ -10038,7 +10038,7 @@ languagefile {
     S:oredict.boltKanthal.name=铁铬铝合金螺栓
     S:oredict.boltKnightmetal.name=骑士金属螺栓
     S:oredict.boltKomatiite.name=科马提岩 螺栓
-    S:oredict.boltLead.name=Lead Bolt
+    S:oredict.boltLead.name=铅 Bolt
     S:oredict.boltLimestone.name=石灰石 螺栓
     S:oredict.boltLumium.name=Lumium 螺栓
     S:oredict.boltMagic.name=Magic螺栓
@@ -10261,7 +10261,7 @@ languagefile {
     S:oredict.casingMachineDenseGildedIron.name=致密 Gilded Iron 机器外壳
     S:oredict.casingMachineDenseGold.name=致密 Gold Machine Casing
     S:oredict.casingMachineDenseGoldInductive.name=致密 Inductive Alloy Machine Casing
-    S:oredict.casingMachineDenseHSLASpringSteel.name=致密 Spring Steel 机器外壳
+    S:oredict.casingMachineDenseHSLASpringSteel.name=致密 弹簧钢 机器外壳
     S:oredict.casingMachineDenseHSLASteel.name=致密 HSLA-Steel 机器外壳
     S:oredict.casingMachineDenseHaderoth.name=致密 幻之铜机器外壳
     S:oredict.casingMachineDenseHepatizon.name=致密 Hepatizon 机器外壳
@@ -10418,7 +10418,7 @@ languagefile {
     S:oredict.casingMachineDoubleGildedIron.name=Robust Gilded Iron 机器外壳
     S:oredict.casingMachineDoubleGold.name=Robust Gold Machine Casing
     S:oredict.casingMachineDoubleGoldInductive.name=Robust Inductive Alloy Machine Casing
-    S:oredict.casingMachineDoubleHSLASpringSteel.name=Robust Spring Steel 机器外壳
+    S:oredict.casingMachineDoubleHSLASpringSteel.name=Robust 弹簧钢 机器外壳
     S:oredict.casingMachineDoubleHSLASteel.name=Robust HSLA-Steel 机器外壳
     S:oredict.casingMachineDoubleHaderoth.name=Robust 幻之铜机器外壳
     S:oredict.casingMachineDoubleHepatizon.name=Robust Hepatizon 机器外壳
@@ -10531,7 +10531,7 @@ languagefile {
     S:oredict.casingMachineGildedIron.name=镀金铁 机器外壳
     S:oredict.casingMachineGold.name=金 Machine Casing
     S:oredict.casingMachineGoldInductive.name=Inductive Alloy Machine Casing
-    S:oredict.casingMachineHSLASpringSteel.name=Spring Steel 机器外壳
+    S:oredict.casingMachineHSLASpringSteel.name=弹簧钢 机器外壳
     S:oredict.casingMachineHSLASteel.name=HSLA-Steel 机器外壳
     S:oredict.casingMachineHaderoth.name=幻之铜机器外壳
     S:oredict.casingMachineHepatizon.name=幽魂结晶 机器外壳
@@ -10548,7 +10548,7 @@ languagefile {
     S:oredict.casingMachineKalendrite.name=幽冥魂石 机器外壳
     S:oredict.casingMachineKanthal.name=铁铬铝合金 机器外壳
     S:oredict.casingMachineKnightmetal.name=Knightmetal 机器外壳
-    S:oredict.casingMachineLead.name=Lead Machine Casing
+    S:oredict.casingMachineLead.name=铅 Machine Casing
     S:oredict.casingMachineLumium.name=Lumium 机器外壳
     S:oredict.casingMachineMagnalium.name=Magnalium 机器外壳
     S:oredict.casingMachineManasteel.name=Manasteel 机器外壳
@@ -10639,7 +10639,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleGildedIron.name=Reinforced Gilded Iron 机器外壳
     S:oredict.casingMachineQuadrupleGold.name=Reinforced Gold Machine Casing
     S:oredict.casingMachineQuadrupleGoldInductive.name=Reinforced Inductive Alloy Machine Casing
-    S:oredict.casingMachineQuadrupleHSLASpringSteel.name=Reinforced Spring Steel 机器外壳
+    S:oredict.casingMachineQuadrupleHSLASpringSteel.name=Reinforced 弹簧钢 机器外壳
     S:oredict.casingMachineQuadrupleHSLASteel.name=Reinforced HSLA-Steel 机器外壳
     S:oredict.casingMachineQuadrupleHaderoth.name=Reinforced 幻之铜机器外壳
     S:oredict.casingMachineQuadrupleHepatizon.name=Reinforced Hepatizon 机器外壳
@@ -10892,7 +10892,7 @@ languagefile {
     S:oredict.casingSmallGreenschist.name=绿片岩 外壳
     S:oredict.casingSmallGreywacke.name=杂砂岩 外壳
     S:oredict.casingSmallGrossular.name=钙铝榴石 外壳
-    S:oredict.casingSmallHSLASpringSteel.name=Spring Steel 外壳
+    S:oredict.casingSmallHSLASpringSteel.name=弹簧钢 外壳
     S:oredict.casingSmallHSLASteel.name=HSLA-钢外壳
     S:oredict.casingSmallHaderoth.name=幻之铜外壳
     S:oredict.casingSmallHepatizon.name=幽魂结晶外壳
@@ -10918,7 +10918,7 @@ languagefile {
     S:oredict.casingSmallKanthal.name=铁铬铝合金外壳
     S:oredict.casingSmallKnightmetal.name=骑士金属外壳
     S:oredict.casingSmallKomatiite.name=科马提岩 外壳
-    S:oredict.casingSmallLead.name=Lead 外壳
+    S:oredict.casingSmallLead.name=铅 外壳
     S:oredict.casingSmallLimestone.name=石灰石 外壳
     S:oredict.casingSmallLumium.name=Lumium 外壳
     S:oredict.casingSmallMagic.name=Magic 外壳
@@ -12033,7 +12033,7 @@ languagefile {
     S:oredict.chemtubeLava.name=岩浆试管
     S:oredict.chemtubeLawrencium.name=铹试管
     S:oredict.chemtubeLazurite.name=Lazurite试管
-    S:oredict.chemtubeLead.name=Lead试管
+    S:oredict.chemtubeLead.name=铅试管
     S:oredict.chemtubeLeather.name= Leather试管
     S:oredict.chemtubeLemurite.name=Lemurite试管
     S:oredict.chemtubeLepidolite.name=Lepidolite试管
@@ -12788,7 +12788,7 @@ languagefile {
     S:oredict.chunkGtGlowstoneRefined.name=Refined 萤石小块
     S:oredict.chunkGtGold.name=金 Chunk
     S:oredict.chunkGtGoldInductive.name=Inductive Alloy Chunk
-    S:oredict.chunkGtHSLASpringSteel.name=Spring Steel小块
+    S:oredict.chunkGtHSLASpringSteel.name=弹簧钢小块
     S:oredict.chunkGtHSLASteel.name=HSLA-钢小块
     S:oredict.chunkGtHaderoth.name=幻之铜小块
     S:oredict.chunkGtHafnium.name=铪小块
@@ -12812,7 +12812,7 @@ languagefile {
     S:oredict.chunkGtKnightmetal.name=骑士金属小块
     S:oredict.chunkGtLantanium.name=镧小块
     S:oredict.chunkGtLawrencium.name=铹小块
-    S:oredict.chunkGtLead.name=Lead Chunk
+    S:oredict.chunkGtLead.name=铅 Chunk
     S:oredict.chunkGtLemurite.name=Lemurite小块
     S:oredict.chunkGtLivermorium.name=Livermorium小块
     S:oredict.chunkGtLumium.name=Lumium小块
@@ -13373,7 +13373,7 @@ languagefile {
     S:oredict.crateGtDustLapis.name=青金石粉板条箱
     S:oredict.crateGtDustLawrencium.name=铹粉板条箱
     S:oredict.crateGtDustLazurite.name=Lazurite粉板条箱
-    S:oredict.crateGtDustLead.name=Lead 粉板条箱
+    S:oredict.crateGtDustLead.name=铅 粉板条箱
     S:oredict.crateGtDustLemurite.name=Lemurite粉板条箱
     S:oredict.crateGtDustLepidolite.name=Lepidolite粉板条箱
     S:oredict.crateGtDustLightBlue.name=淡蓝色染料板条箱
@@ -18215,7 +18215,7 @@ languagefile {
     S:oredict.dustDiv72Grossular.name=1/72nd of a Pile of Grossular 粉
     S:oredict.dustDiv72Gunpowder.name=1/72nd of a Pile of Gunpowder
     S:oredict.dustDiv72Gypsum.name=1/72nd of a Pile of Gypsum 粉
-    S:oredict.dustDiv72HSLASpringSteel.name=1/72nd of a Pile of Spring Steel 粉
+    S:oredict.dustDiv72HSLASpringSteel.name=1/72nd of a Pile of 弹簧钢 粉
     S:oredict.dustDiv72HSLASteel.name=1/72nd of a Pile of HSLA-Steel 粉
     S:oredict.dustDiv72Haderoth.name=1/72nd of a Pile of 幻之铜Dust
     S:oredict.dustDiv72Hafnium.name=1/72nd of a Pile of Hafnium 粉
@@ -18630,7 +18630,7 @@ languagefile {
     S:oredict.dustGreywacke.name=杂砂岩粉
     S:oredict.dustGrossular.name=钙铝榴石粉
     S:oredict.dustGypsum.name=石膏粉
-    S:oredict.dustHSLASpringSteel.name=Spring Steel粉
+    S:oredict.dustHSLASpringSteel.name=弹簧钢粉
     S:oredict.dustHSLASteel.name=HSLA-钢粉
     S:oredict.dustHaderoth.name=幻之铜粉
     S:oredict.dustHafnium.name=铪粉
@@ -21696,7 +21696,7 @@ languagefile {
     S:oredict.foilGlowstoneRefined.name=Refined 萤石箔
     S:oredict.foilGold.name=金箔
     S:oredict.foilGoldInductive.name=Inductive Alloy 箔
-    S:oredict.foilHSLASpringSteel.name=Spring Steel箔
+    S:oredict.foilHSLASpringSteel.name=弹簧钢箔
     S:oredict.foilHSLASteel.name=HSLA-钢箔
     S:oredict.foilHaderoth.name=幻之铜箔
     S:oredict.foilHafnium.name=铪箔
@@ -21978,7 +21978,7 @@ languagefile {
     S:oredict.gearGtGreenschist.name=绿片岩 齿轮
     S:oredict.gearGtGreywacke.name=杂砂岩齿轮
     S:oredict.gearGtGrossular.name=钙铝榴石齿轮
-    S:oredict.gearGtHSLASpringSteel.name=Spring Steel齿轮
+    S:oredict.gearGtHSLASpringSteel.name=弹簧钢齿轮
     S:oredict.gearGtHSLASteel.name=HSLA-钢齿轮
     S:oredict.gearGtHaderoth.name=幻之铜齿轮
     S:oredict.gearGtHepatizon.name=幽魂结晶齿轮
@@ -23261,7 +23261,7 @@ languagefile {
     S:oredict.ingotGildedIron.name=镀金铁锭
     S:oredict.ingotGlowstoneRefined.name=Refined 萤石锭
     S:oredict.ingotGoldInductive.name=Inductive Alloy 锭
-    S:oredict.ingotHSLASpringSteel.name=Spring Steel锭
+    S:oredict.ingotHSLASpringSteel.name=弹簧钢锭
     S:oredict.ingotHSLASteel.name=HSLA-钢锭
     S:oredict.ingotHaderoth.name=幻之铜锭
     S:oredict.ingotHafnium.name=铪锭
@@ -23652,7 +23652,7 @@ languagefile {
     S:oredict.ingotKnightmetal.name=骑士金属锭
     S:oredict.ingotLantanium.name=镧锭
     S:oredict.ingotLawrencium.name=铹锭
-    S:oredict.ingotLead.name=Lead 锭
+    S:oredict.ingotLead.name=铅 锭
     S:oredict.ingotLemurite.name=Lemurite锭
     S:oredict.ingotLivermorium.name=Livermorium锭
     S:oredict.ingotLumium.name=Lumium锭
@@ -25013,7 +25013,7 @@ languagefile {
     S:oredict.minecartWheelsGildedIron.name=镀金铁车轮
     S:oredict.minecartWheelsGold.name=金车轮
     S:oredict.minecartWheelsGoldInductive.name=Inductive Alloy车轮
-    S:oredict.minecartWheelsHSLASpringSteel.name=Spring Steel车轮
+    S:oredict.minecartWheelsHSLASpringSteel.name=弹簧钢车轮
     S:oredict.minecartWheelsHSLASteel.name=HSLA-钢车轮
     S:oredict.minecartWheelsHaderoth.name=幻之铜车轮
     S:oredict.minecartWheelsHepatizon.name=幽魂结晶车轮
@@ -25030,7 +25030,7 @@ languagefile {
     S:oredict.minecartWheelsKalendrite.name=幽冥魂石车轮
     S:oredict.minecartWheelsKanthal.name=铁铬铝合金车轮
     S:oredict.minecartWheelsKnightmetal.name=骑士金属车轮
-    S:oredict.minecartWheelsLead.name=Lead车轮
+    S:oredict.minecartWheelsLead.name=铅车轮
     S:oredict.minecartWheelsLumium.name=Lumium车轮
     S:oredict.minecartWheelsMagnalium.name=Magnalium车轮
     S:oredict.minecartWheelsManasteel.name=Manasteel车轮
@@ -25319,7 +25319,7 @@ languagefile {
     S:oredict.nuggetGildedIron.name=镀金铁粒
     S:oredict.nuggetGlowstoneRefined.name=Refined 萤石粒
     S:oredict.nuggetGoldInductive.name=Inductive Alloy粒
-    S:oredict.nuggetHSLASpringSteel.name=Spring Steel粒
+    S:oredict.nuggetHSLASpringSteel.name=弹簧钢粒
     S:oredict.nuggetHSLASteel.name=HSLA-钢粒
     S:oredict.nuggetHaderoth.name=幻之铜粒
     S:oredict.nuggetHafnium.name=铪粒
@@ -28184,7 +28184,7 @@ languagefile {
     S:oredict.oreLapis.name=青金石矿石
     S:oredict.oreLawrencium.name=铹矿石
     S:oredict.oreLazurite.name=Lazurite矿石
-    S:oredict.oreLead.name=Lead 矿
+    S:oredict.oreLead.name=铅 矿
     S:oredict.oreLemurite.name=Lemurite矿石
     S:oredict.oreLepidolite.name=Lepidolite矿石
     S:oredict.oreLignite.name=褐煤矿石
@@ -33084,7 +33084,7 @@ languagefile {
     S:oredict.plantGtBerryGrossular.name=钙铝榴石梅
     S:oredict.plantGtBerryGunpowder.name=火药梅
     S:oredict.plantGtBerryGypsum.name=石膏梅
-    S:oredict.plantGtBerryHSLASpringSteel.name=Spring Steel梅
+    S:oredict.plantGtBerryHSLASpringSteel.name=弹簧钢梅
     S:oredict.plantGtBerryHSLASteel.name=HSLA-Steel梅
     S:oredict.plantGtBerryHaderoth.name=幻之铜梅
     S:oredict.plantGtBerryHafnium.name=铪梅
@@ -33138,7 +33138,7 @@ languagefile {
     S:oredict.plantGtBerryLava.name=岩浆梅
     S:oredict.plantGtBerryLawrencium.name=Lawrencium梅
     S:oredict.plantGtBerryLazurite.name=Lazurite梅
-    S:oredict.plantGtBerryLead.name=Lead梅
+    S:oredict.plantGtBerryLead.name=铅梅
     S:oredict.plantGtBerryLemurite.name=Lemurite梅
     S:oredict.plantGtBerryLepidolite.name=Lepidolite梅
     S:oredict.plantGtBerryLightBlue.name=淡蓝色梅
@@ -33880,7 +33880,7 @@ languagefile {
     S:oredict.plantGtBlossomGrossular.name=钙铝榴石花
     S:oredict.plantGtBlossomGunpowder.name=火药花
     S:oredict.plantGtBlossomGypsum.name=石膏花
-    S:oredict.plantGtBlossomHSLASpringSteel.name=Spring Steel花
+    S:oredict.plantGtBlossomHSLASpringSteel.name=弹簧钢花
     S:oredict.plantGtBlossomHSLASteel.name=HSLA-Steel花
     S:oredict.plantGtBlossomHaderoth.name=幻之铜花
     S:oredict.plantGtBlossomHafnium.name=铪花
@@ -35470,7 +35470,7 @@ languagefile {
     S:oredict.plantGtTwigGrossular.name=钙铝榴石细枝
     S:oredict.plantGtTwigGunpowder.name=火药细枝
     S:oredict.plantGtTwigGypsum.name=石膏细枝
-    S:oredict.plantGtTwigHSLASpringSteel.name=Spring Steel细枝
+    S:oredict.plantGtTwigHSLASpringSteel.name=弹簧钢细枝
     S:oredict.plantGtTwigHSLASteel.name=HSLA-Steel细枝
     S:oredict.plantGtTwigHaderoth.name=幻之铜细枝
     S:oredict.plantGtTwigHafnium.name=铪细枝
@@ -35524,7 +35524,7 @@ languagefile {
     S:oredict.plantGtTwigLava.name=岩浆细枝
     S:oredict.plantGtTwigLawrencium.name=Lawrencium细枝
     S:oredict.plantGtTwigLazurite.name=Lazurite细枝
-    S:oredict.plantGtTwigLead.name=Lead细枝
+    S:oredict.plantGtTwigLead.name=铅细枝
     S:oredict.plantGtTwigLemurite.name=Lemurite细枝
     S:oredict.plantGtTwigLepidolite.name=Lepidolite细枝
     S:oredict.plantGtTwigLightBlue.name=淡蓝色细枝
@@ -36266,7 +36266,7 @@ languagefile {
     S:oredict.plantGtWartGrossular.name=钙铝榴石疣
     S:oredict.plantGtWartGunpowder.name=火药疣
     S:oredict.plantGtWartGypsum.name=石膏疣
-    S:oredict.plantGtWartHSLASpringSteel.name=Spring Steel疣
+    S:oredict.plantGtWartHSLASpringSteel.name=弹簧钢疣
     S:oredict.plantGtWartHSLASteel.name=HSLA-Steel疣
     S:oredict.plantGtWartHaderoth.name=幻之铜疣
     S:oredict.plantGtWartHafnium.name=铪疣
@@ -36320,7 +36320,7 @@ languagefile {
     S:oredict.plantGtWartLava.name=岩浆疣
     S:oredict.plantGtWartLawrencium.name=Lawrencium疣
     S:oredict.plantGtWartLazurite.name=Lazurite疣
-    S:oredict.plantGtWartLead.name=Lead疣
+    S:oredict.plantGtWartLead.name=铅疣
     S:oredict.plantGtWartLemurite.name=Lemurite疣
     S:oredict.plantGtWartLepidolite.name=Lepidolite疣
     S:oredict.plantGtWartLightBlue.name=淡蓝色疣
@@ -38223,7 +38223,7 @@ languagefile {
     S:oredict.plateGreenschist.name=绿片岩 Plate
     S:oredict.plateGreenstone.name=绿岩Plate
     S:oredict.plateGreywacke.name=杂砂岩 板
-    S:oredict.plateHSLASpringSteel.name=Spring Steel 板
+    S:oredict.plateHSLASpringSteel.name=弹簧钢 板
     S:oredict.plateHSLASteel.name=HSLA-钢板
     S:oredict.plateHaderoth.name=幻之铜板
     S:oredict.plateHafnium.name=铪板
@@ -38248,7 +38248,7 @@ languagefile {
     S:oredict.plateKomatiite.name=科马提岩 板
     S:oredict.plateLantanium.name=镧板
     S:oredict.plateLawrencium.name=铹板
-    S:oredict.plateLead.name=Lead Plate
+    S:oredict.plateLead.name=铅 Plate
     S:oredict.plateLemurite.name=Lemurite板
     S:oredict.plateLimestone.name=石灰石 板
     S:oredict.plateLivermorium.name=Livermorium板
@@ -40074,7 +40074,7 @@ languagefile {
     S:oredict.ringGreenschist.name=绿片岩 Ring
     S:oredict.ringGreywacke.name=杂砂岩环
     S:oredict.ringGrossular.name=钙铝榴石环
-    S:oredict.ringHSLASpringSteel.name=Spring Steel环
+    S:oredict.ringHSLASpringSteel.name=弹簧钢环
     S:oredict.ringHSLASteel.name=HSLA-钢环
     S:oredict.ringHaderoth.name=幻之铜环
     S:oredict.ringHepatizon.name=幽魂结晶环
@@ -40328,7 +40328,7 @@ languagefile {
     S:oredict.rotorGreenschist.name=绿片岩 转子
     S:oredict.rotorGreywacke.name=杂砂岩转子
     S:oredict.rotorGrossular.name=钙铝榴石转子
-    S:oredict.rotorHSLASpringSteel.name=Spring Steel转子
+    S:oredict.rotorHSLASpringSteel.name=弹簧钢转子
     S:oredict.rotorHSLASteel.name=HSLA-钢转子
     S:oredict.rotorHaderoth.name=幻之铜转子
     S:oredict.rotorHepatizon.name=幽魂结晶转子
@@ -40353,7 +40353,7 @@ languagefile {
     S:oredict.rotorKanthal.name=铁铬铝合金转子
     S:oredict.rotorKnightmetal.name=骑士金属转子
     S:oredict.rotorKomatiite.name=科马提岩转子
-    S:oredict.rotorLead.name=Lead 转子
+    S:oredict.rotorLead.name=铅 转子
     S:oredict.rotorLimestone.name=石灰石转子
     S:oredict.rotorLumium.name=Lumium转子
     S:oredict.rotorMagic.name=Magic转子
@@ -40582,7 +40582,7 @@ languagefile {
     S:oredict.roundGreenschist.name=绿片岩垫片
     S:oredict.roundGreywacke.name=杂砂岩垫片
     S:oredict.roundGrossular.name=钙铝榴石垫片
-    S:oredict.roundHSLASpringSteel.name=Spring Steel垫片
+    S:oredict.roundHSLASpringSteel.name=弹簧钢垫片
     S:oredict.roundHSLASteel.name=HSLA-钢垫片
     S:oredict.roundHaderoth.name=幻之铜垫片
     S:oredict.roundHepatizon.name=幽魂结晶垫片
@@ -40608,7 +40608,7 @@ languagefile {
     S:oredict.roundKanthal.name=铁铬铝合金垫片
     S:oredict.roundKnightmetal.name=骑士金属垫片
     S:oredict.roundKomatiite.name=科马提岩垫片
-    S:oredict.roundLead.name=Lead垫片
+    S:oredict.roundLead.name=铅垫片
     S:oredict.roundLimestone.name=石灰石垫片
     S:oredict.roundLumium.name=Lumium垫片
     S:oredict.roundMagic.name=Magic垫片
@@ -41092,7 +41092,7 @@ languagefile {
     S:oredict.scrapGtGrossular.name=钙铝榴石废料
     S:oredict.scrapGtGunpowder.name=火药废料
     S:oredict.scrapGtGypsum.name=石膏废料
-    S:oredict.scrapGtHSLASpringSteel.name=Spring Steel废料
+    S:oredict.scrapGtHSLASpringSteel.name=弹簧钢废料
     S:oredict.scrapGtHSLASteel.name=HSLA-钢废料
     S:oredict.scrapGtHaderoth.name=幻之铜废料
     S:oredict.scrapGtHafnium.name=铪废料
@@ -41140,7 +41140,7 @@ languagefile {
     S:oredict.scrapGtLapis.name=青金石废料
     S:oredict.scrapGtLawrencium.name=铹废料
     S:oredict.scrapGtLazurite.name=Lazurite废料
-    S:oredict.scrapGtLead.name=Lead 废料
+    S:oredict.scrapGtLead.name=铅 废料
     S:oredict.scrapGtLemurite.name=Lemurite废料
     S:oredict.scrapGtLepidolite.name=Lepidolite废料
     S:oredict.scrapGtLightBlue.name=淡蓝色废料
@@ -41568,7 +41568,7 @@ languagefile {
     S:oredict.screwGreenschist.name=绿片岩螺丝
     S:oredict.screwGreywacke.name=杂砂岩螺丝
     S:oredict.screwGrossular.name=钙铝榴石螺丝
-    S:oredict.screwHSLASpringSteel.name=Spring Steel螺丝
+    S:oredict.screwHSLASpringSteel.name=弹簧钢螺丝
     S:oredict.screwHSLASteel.name=HSLA-钢螺丝
     S:oredict.screwHaderoth.name=幻之铜螺丝
     S:oredict.screwHepatizon.name=幽魂结晶螺丝
@@ -41594,7 +41594,7 @@ languagefile {
     S:oredict.screwKanthal.name=铁铬铝合金螺丝
     S:oredict.screwKnightmetal.name=骑士金属螺丝
     S:oredict.screwKomatiite.name=科马提岩螺丝
-    S:oredict.screwLead.name=Lead螺丝
+    S:oredict.screwLead.name=铅螺丝
     S:oredict.screwLimestone.name=石灰石螺丝
     S:oredict.screwLumium.name=Lumium螺丝
     S:oredict.screwMagic.name=Magic螺丝
@@ -41791,7 +41791,7 @@ languagefile {
     S:oredict.springGraphene.name=石墨烯弹簧
     S:oredict.springGreenschist.name=绿片岩 Spring
     S:oredict.springGreywacke.name=杂砂岩弹簧
-    S:oredict.springHSLASpringSteel.name=Spring Steel弹簧
+    S:oredict.springHSLASpringSteel.name=弹簧钢弹簧
     S:oredict.springHSLASteel.name=HSLA-钢弹簧
     S:oredict.springHaderoth.name=幻之铜弹簧
     S:oredict.springHepatizon.name=幽魂结晶弹簧
@@ -41809,7 +41809,7 @@ languagefile {
     S:oredict.springKanthal.name=铁铬铝合金弹簧
     S:oredict.springKnightmetal.name=骑士金属弹簧
     S:oredict.springKomatiite.name=科马提岩弹簧
-    S:oredict.springLead.name=Lead Spring
+    S:oredict.springLead.name=铅 Spring
     S:oredict.springLumium.name=Lumium弹簧
     S:oredict.springMagic.name=Magic弹簧
     S:oredict.springMagnalium.name=镁铝合金弹簧
@@ -42352,7 +42352,7 @@ languagefile {
     S:oredict.stickGreenstone.name=绿岩Rod
     S:oredict.stickGreywacke.name=杂砂岩杆
     S:oredict.stickGrossular.name=钙铝榴石杆
-    S:oredict.stickHSLASpringSteel.name=Spring Steel杆
+    S:oredict.stickHSLASpringSteel.name=弹簧钢杆
     S:oredict.stickHSLASteel.name=HSLA-钢杆
     S:oredict.stickHaderoth.name=幻之铜杆
     S:oredict.stickHafnium.name=铪杆
@@ -42388,7 +42388,7 @@ languagefile {
     S:oredict.stickLapis.name=青金石杆
     S:oredict.stickLawrencium.name=铹杆
     S:oredict.stickLazurite.name=Lazurite杆
-    S:oredict.stickLead.name=Lead Rod
+    S:oredict.stickLead.name=铅 Rod
     S:oredict.stickLemurite.name=Lemurite杆
     S:oredict.stickLignite.name=褐煤杆
     S:oredict.stickLigniteCoke.name=Lignite Coke Rod
@@ -43154,7 +43154,7 @@ languagefile {
     S:oredict.toolHeadArrowGreenschist.name=绿片岩箭头
     S:oredict.toolHeadArrowGreywacke.name=杂砂岩箭头
     S:oredict.toolHeadArrowGrossular.name=钙铝榴石箭头
-    S:oredict.toolHeadArrowHSLASpringSteel.name=Spring Steel箭头
+    S:oredict.toolHeadArrowHSLASpringSteel.name=弹簧钢箭头
     S:oredict.toolHeadArrowHSLASteel.name=HSLA-钢箭头
     S:oredict.toolHeadArrowHaderoth.name=幻之铜箭头
     S:oredict.toolHeadArrowHepatizon.name=幽魂结晶箭头
@@ -43180,7 +43180,7 @@ languagefile {
     S:oredict.toolHeadArrowKanthal.name=铁铬铝合金箭头
     S:oredict.toolHeadArrowKnightmetal.name=骑士金属箭头
     S:oredict.toolHeadArrowKomatiite.name=科马提岩箭头
-    S:oredict.toolHeadArrowLead.name=Lead箭头
+    S:oredict.toolHeadArrowLead.name=铅箭头
     S:oredict.toolHeadArrowLimestone.name=石灰石箭头
     S:oredict.toolHeadArrowMagnalium.name=镁铝合金箭头
     S:oredict.toolHeadArrowManganese.name=锰箭头
@@ -43438,7 +43438,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleGreenschist.name=绿片岩 双刃斧头
     S:oredict.toolHeadAxeDoubleGreywacke.name=杂砂岩 双刃斧
     S:oredict.toolHeadAxeDoubleGrossular.name=钙铝榴石 双刃斧
-    S:oredict.toolHeadAxeDoubleHSLASpringSteel.name=Spring Steel 双刃斧
+    S:oredict.toolHeadAxeDoubleHSLASpringSteel.name=弹簧钢 双刃斧
     S:oredict.toolHeadAxeDoubleHSLASteel.name=HSLA-钢双刃斧头
     S:oredict.toolHeadAxeDoubleHaderoth.name=幻之铜双刃斧头
     S:oredict.toolHeadAxeDoubleHepatizon.name=幽魂结晶双刃斧头
@@ -43463,7 +43463,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleKanthal.name=铁铬铝合金双刃斧头
     S:oredict.toolHeadAxeDoubleKnightmetal.name=骑士金属双刃斧头
     S:oredict.toolHeadAxeDoubleKomatiite.name=科马提岩 双刃斧
-    S:oredict.toolHeadAxeDoubleLead.name=Lead 双刃斧头
+    S:oredict.toolHeadAxeDoubleLead.name=铅 双刃斧头
     S:oredict.toolHeadAxeDoubleMagnalium.name=镁铝合金双刃斧头
     S:oredict.toolHeadAxeDoubleManganese.name=锰双刃斧头
     S:oredict.toolHeadAxeDoubleManyullyn.name=玛玉灵双刃斧头
@@ -43593,7 +43593,7 @@ languagefile {
     S:oredict.toolHeadAxeGreenschist.name=绿片岩斧头
     S:oredict.toolHeadAxeGreywacke.name=杂砂岩 斧头
     S:oredict.toolHeadAxeGrossular.name=钙铝榴石 斧头
-    S:oredict.toolHeadAxeHSLASpringSteel.name=Spring Steel 斧头
+    S:oredict.toolHeadAxeHSLASpringSteel.name=弹簧钢 斧头
     S:oredict.toolHeadAxeHSLASteel.name=HSLA-钢斧头
     S:oredict.toolHeadAxeHaderoth.name=幻之铜斧头
     S:oredict.toolHeadAxeHepatizon.name=幽魂结晶斧头
@@ -43619,7 +43619,7 @@ languagefile {
     S:oredict.toolHeadAxeKanthal.name=铁铬铝合金斧头
     S:oredict.toolHeadAxeKnightmetal.name=骑士金属斧头
     S:oredict.toolHeadAxeKomatiite.name=科马提岩 斧头
-    S:oredict.toolHeadAxeLead.name=Lead斧头
+    S:oredict.toolHeadAxeLead.name=铅斧头
     S:oredict.toolHeadAxeLimestone.name=石灰石 斧头
     S:oredict.toolHeadAxeMagnalium.name=镁铝合金斧头
     S:oredict.toolHeadAxeManganese.name=锰斧头
@@ -43812,7 +43812,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawGreenschist.name=绿片岩 Buzz锯片
     S:oredict.toolHeadBuzzSawGreywacke.name=杂砂岩 圆锯片
     S:oredict.toolHeadBuzzSawGrossular.name=钙铝榴石 圆锯片
-    S:oredict.toolHeadBuzzSawHSLASpringSteel.name=Spring Steel 圆锯片
+    S:oredict.toolHeadBuzzSawHSLASpringSteel.name=弹簧钢 圆锯片
     S:oredict.toolHeadBuzzSawHSLASteel.name=HSLA-钢圆锯片
     S:oredict.toolHeadBuzzSawHaderoth.name=幻之铜圆锯片
     S:oredict.toolHeadBuzzSawHepatizon.name=幽魂结晶圆锯片
@@ -43836,7 +43836,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawKanthal.name=铁铬铝合金圆锯片
     S:oredict.toolHeadBuzzSawKnightmetal.name=骑士金属圆锯片
     S:oredict.toolHeadBuzzSawKomatiite.name=科马提岩 圆锯片
-    S:oredict.toolHeadBuzzSawLead.name=Lead Buzz锯片
+    S:oredict.toolHeadBuzzSawLead.name=铅 Buzz锯片
     S:oredict.toolHeadBuzzSawMagnalium.name=镁铝合金圆锯片
     S:oredict.toolHeadBuzzSawManganese.name=锰圆锯片
     S:oredict.toolHeadBuzzSawManyullyn.name=玛玉灵圆锯片
@@ -44016,7 +44016,7 @@ languagefile {
     S:oredict.toolHeadChainsawGreenschist.name=绿片岩 Chainsaw Tip
     S:oredict.toolHeadChainsawGreywacke.name=杂砂岩 电锯头
     S:oredict.toolHeadChainsawGrossular.name=钙铝榴石 电锯头
-    S:oredict.toolHeadChainsawHSLASpringSteel.name=Spring Steel 电锯头
+    S:oredict.toolHeadChainsawHSLASpringSteel.name=弹簧钢 电锯头
     S:oredict.toolHeadChainsawHSLASteel.name=HSLA-钢电锯头
     S:oredict.toolHeadChainsawHaderoth.name=幻之铜电锯头
     S:oredict.toolHeadChainsawHepatizon.name=幽魂结晶电锯头
@@ -44040,7 +44040,7 @@ languagefile {
     S:oredict.toolHeadChainsawKanthal.name=铁铬铝合金电锯头
     S:oredict.toolHeadChainsawKnightmetal.name=骑士金属电锯头
     S:oredict.toolHeadChainsawKomatiite.name=科马提岩 电锯头
-    S:oredict.toolHeadChainsawLead.name=Lead Chainsaw Tip
+    S:oredict.toolHeadChainsawLead.name=铅 Chainsaw Tip
     S:oredict.toolHeadChainsawMagnalium.name=镁铝合金电锯头
     S:oredict.toolHeadChainsawManganese.name=锰电锯头
     S:oredict.toolHeadChainsawManyullyn.name=玛玉灵电锯头
@@ -44220,7 +44220,7 @@ languagefile {
     S:oredict.toolHeadChiselGreenschist.name=绿片岩 凿子头
     S:oredict.toolHeadChiselGreywacke.name=杂砂岩 凿子头
     S:oredict.toolHeadChiselGrossular.name=钙铝榴石 凿子头
-    S:oredict.toolHeadChiselHSLASpringSteel.name=Spring Steel 凿子头
+    S:oredict.toolHeadChiselHSLASpringSteel.name=弹簧钢 凿子头
     S:oredict.toolHeadChiselHSLASteel.name=HSLA-钢凿子头
     S:oredict.toolHeadChiselHaderoth.name=幻之铜凿子头
     S:oredict.toolHeadChiselHepatizon.name=幽魂结晶凿子头
@@ -44244,7 +44244,7 @@ languagefile {
     S:oredict.toolHeadChiselKanthal.name=铁铬铝合金凿子头
     S:oredict.toolHeadChiselKnightmetal.name=骑士金属凿子头
     S:oredict.toolHeadChiselKomatiite.name=科马提岩 凿子头
-    S:oredict.toolHeadChiselLead.name=Lead 凿子头
+    S:oredict.toolHeadChiselLead.name=铅 凿子头
     S:oredict.toolHeadChiselMagnalium.name=镁铝合金凿子头
     S:oredict.toolHeadChiselManganese.name=锰凿子头
     S:oredict.toolHeadChiselManyullyn.name=玛玉灵凿子头
@@ -44424,7 +44424,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeGreenschist.name=绿片岩 建筑镐头
     S:oredict.toolHeadConstructionPickaxeGreywacke.name=杂砂岩 建筑镐头
     S:oredict.toolHeadConstructionPickaxeGrossular.name=钙铝榴石 建筑镐头
-    S:oredict.toolHeadConstructionPickaxeHSLASpringSteel.name=Spring Steel 建筑镐头
+    S:oredict.toolHeadConstructionPickaxeHSLASpringSteel.name=弹簧钢 建筑镐头
     S:oredict.toolHeadConstructionPickaxeHSLASteel.name=HSLA-钢 建筑镐头
     S:oredict.toolHeadConstructionPickaxeHaderoth.name=幻之铜 建筑镐头
     S:oredict.toolHeadConstructionPickaxeHepatizon.name=幽魂结晶 建筑镐头
@@ -44449,7 +44449,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeKanthal.name=铁铬铝合金 建筑镐头
     S:oredict.toolHeadConstructionPickaxeKnightmetal.name=骑士金属 建筑镐头
     S:oredict.toolHeadConstructionPickaxeKomatiite.name=科马提岩 建筑镐头
-    S:oredict.toolHeadConstructionPickaxeLead.name=Lead 建筑镐头
+    S:oredict.toolHeadConstructionPickaxeLead.name=铅 建筑镐头
     S:oredict.toolHeadConstructionPickaxeMagnalium.name=镁铝合金 建筑镐头
     S:oredict.toolHeadConstructionPickaxeManganese.name=锰 建筑镐头
     S:oredict.toolHeadConstructionPickaxeManyullyn.name=玛玉灵 建筑镐头
@@ -44632,7 +44632,7 @@ languagefile {
     S:oredict.toolHeadDrillGreenschist.name=绿片岩 钻头
     S:oredict.toolHeadDrillGreywacke.name=杂砂岩 钻头
     S:oredict.toolHeadDrillGrossular.name=钙铝榴石 钻头
-    S:oredict.toolHeadDrillHSLASpringSteel.name=Spring Steel 钻头
+    S:oredict.toolHeadDrillHSLASpringSteel.name=弹簧钢 钻头
     S:oredict.toolHeadDrillHSLASteel.name=HSLA-钢钻头
     S:oredict.toolHeadDrillHaderoth.name=幻之铜钻头
     S:oredict.toolHeadDrillHepatizon.name=幽魂结晶钻头
@@ -44656,7 +44656,7 @@ languagefile {
     S:oredict.toolHeadDrillKanthal.name=铁铬铝合金钻头
     S:oredict.toolHeadDrillKnightmetal.name=骑士金属钻头
     S:oredict.toolHeadDrillKomatiite.name=科马提岩 钻头
-    S:oredict.toolHeadDrillLead.name=Lead 钻头
+    S:oredict.toolHeadDrillLead.name=铅 钻头
     S:oredict.toolHeadDrillMagnalium.name=镁铝合金钻头
     S:oredict.toolHeadDrillManganese.name=锰钻头
     S:oredict.toolHeadDrillManyullyn.name=玛玉灵钻头
@@ -44836,7 +44836,7 @@ languagefile {
     S:oredict.toolHeadFileGreenschist.name=绿片岩 锉刀头
     S:oredict.toolHeadFileGreywacke.name=杂砂岩 锉刀头
     S:oredict.toolHeadFileGrossular.name=钙铝榴石 锉刀头
-    S:oredict.toolHeadFileHSLASpringSteel.name=Spring Steel 锉刀头
+    S:oredict.toolHeadFileHSLASpringSteel.name=弹簧钢 锉刀头
     S:oredict.toolHeadFileHSLASteel.name=HSLA-钢锉刀头
     S:oredict.toolHeadFileHaderoth.name=幻之铜锉刀头
     S:oredict.toolHeadFileHepatizon.name=幽魂结晶锉刀头
@@ -44860,7 +44860,7 @@ languagefile {
     S:oredict.toolHeadFileKanthal.name=铁铬铝合金锉刀头
     S:oredict.toolHeadFileKnightmetal.name=骑士金属锉刀头
     S:oredict.toolHeadFileKomatiite.name=科马提岩 锉刀头
-    S:oredict.toolHeadFileLead.name=Lead 锉刀头
+    S:oredict.toolHeadFileLead.name=铅 锉刀头
     S:oredict.toolHeadFileMagnalium.name=镁铝合金锉刀头
     S:oredict.toolHeadFileManganese.name=锰锉刀头
     S:oredict.toolHeadFileManyullyn.name=玛玉灵锉刀头
@@ -45046,7 +45046,7 @@ languagefile {
     S:oredict.toolHeadHammerGreenschist.name=绿片岩 锤头
     S:oredict.toolHeadHammerGreywacke.name=杂砂岩锤头
     S:oredict.toolHeadHammerGrossular.name=钙铝榴石锤头
-    S:oredict.toolHeadHammerHSLASpringSteel.name=Spring Steel锤头
+    S:oredict.toolHeadHammerHSLASpringSteel.name=弹簧钢锤头
     S:oredict.toolHeadHammerHSLASteel.name=HSLA-钢锤头
     S:oredict.toolHeadHammerHaderoth.name=幻之铜锤头
     S:oredict.toolHeadHammerHepatizon.name=幽魂结晶锤头
@@ -45071,7 +45071,7 @@ languagefile {
     S:oredict.toolHeadHammerKanthal.name=铁铬铝合金锤头
     S:oredict.toolHeadHammerKnightmetal.name=骑士金属锤头
     S:oredict.toolHeadHammerKomatiite.name=科马提岩锤头
-    S:oredict.toolHeadHammerLead.name=Lead 锤头
+    S:oredict.toolHeadHammerLead.name=铅 锤头
     S:oredict.toolHeadHammerLimestone.name=石灰石锤头
     S:oredict.toolHeadHammerMagnalium.name=镁铝合金锤头
     S:oredict.toolHeadHammerManganese.name=锰锤头
@@ -45273,7 +45273,7 @@ languagefile {
     S:oredict.toolHeadHoeGreenschist.name=绿片岩 锄头
     S:oredict.toolHeadHoeGreywacke.name=杂砂岩 锄头
     S:oredict.toolHeadHoeGrossular.name=钙铝榴石 锄头
-    S:oredict.toolHeadHoeHSLASpringSteel.name=Spring Steel 锄头
+    S:oredict.toolHeadHoeHSLASpringSteel.name=弹簧钢 锄头
     S:oredict.toolHeadHoeHSLASteel.name=HSLA-钢锄头
     S:oredict.toolHeadHoeHaderoth.name=幻之铜锄头
     S:oredict.toolHeadHoeHepatizon.name=幽魂结晶锄头
@@ -45299,7 +45299,7 @@ languagefile {
     S:oredict.toolHeadHoeKanthal.name=铁铬铝合金锄头
     S:oredict.toolHeadHoeKnightmetal.name=骑士金属锄头
     S:oredict.toolHeadHoeKomatiite.name=科马提岩 锄头
-    S:oredict.toolHeadHoeLead.name=Lead 锄头
+    S:oredict.toolHeadHoeLead.name=铅 锄头
     S:oredict.toolHeadHoeLimestone.name=石灰石 锄头
     S:oredict.toolHeadHoeMagnalium.name=镁铝合金锄头
     S:oredict.toolHeadHoeManganese.name=锰锄头
@@ -45503,7 +45503,7 @@ languagefile {
     S:oredict.toolHeadPickaxeGreenschist.name=绿片岩 镐头
     S:oredict.toolHeadPickaxeGreywacke.name=杂砂岩 镐头
     S:oredict.toolHeadPickaxeGrossular.name=钙铝榴石 镐头
-    S:oredict.toolHeadPickaxeHSLASpringSteel.name=Spring Steel 镐头
+    S:oredict.toolHeadPickaxeHSLASpringSteel.name=弹簧钢 镐头
     S:oredict.toolHeadPickaxeHSLASteel.name=HSLA-钢镐头
     S:oredict.toolHeadPickaxeHaderoth.name=幻之铜镐头
     S:oredict.toolHeadPickaxeHepatizon.name=幽魂结晶镐头
@@ -45529,7 +45529,7 @@ languagefile {
     S:oredict.toolHeadPickaxeKanthal.name=铁铬铝合金镐头
     S:oredict.toolHeadPickaxeKnightmetal.name=骑士金属镐头
     S:oredict.toolHeadPickaxeKomatiite.name=科马提岩 镐头
-    S:oredict.toolHeadPickaxeLead.name=Lead 镐头
+    S:oredict.toolHeadPickaxeLead.name=铅 镐头
     S:oredict.toolHeadPickaxeLimestone.name=石灰石 镐头
     S:oredict.toolHeadPickaxeMagnalium.name=镁铝合金镐头
     S:oredict.toolHeadPickaxeManganese.name=锰镐头
@@ -45733,7 +45733,7 @@ languagefile {
     S:oredict.toolHeadPlowGreenschist.name=绿片岩 犁头
     S:oredict.toolHeadPlowGreywacke.name=杂砂岩 犁头
     S:oredict.toolHeadPlowGrossular.name=钙铝榴石 犁头
-    S:oredict.toolHeadPlowHSLASpringSteel.name=Spring Steel 犁头
+    S:oredict.toolHeadPlowHSLASpringSteel.name=弹簧钢 犁头
     S:oredict.toolHeadPlowHSLASteel.name=HSLA-钢犁头
     S:oredict.toolHeadPlowHaderoth.name=幻之铜犁头
     S:oredict.toolHeadPlowHepatizon.name=幽魂结晶犁头
@@ -45759,7 +45759,7 @@ languagefile {
     S:oredict.toolHeadPlowKanthal.name=铁铬铝合金犁头
     S:oredict.toolHeadPlowKnightmetal.name=骑士金属犁头
     S:oredict.toolHeadPlowKomatiite.name=科马提岩 犁头
-    S:oredict.toolHeadPlowLead.name=Lead 犁头
+    S:oredict.toolHeadPlowLead.name=铅 犁头
     S:oredict.toolHeadPlowLimestone.name=石灰石 犁头
     S:oredict.toolHeadPlowMagnalium.name=镁铝合金犁头
     S:oredict.toolHeadPlowManganese.name=锰犁头
@@ -48613,7 +48613,7 @@ languagefile {
     S:oredict.toolHeadSawGreenschist.name=绿片岩 锯片
     S:oredict.toolHeadSawGreywacke.name=杂砂岩锯片
     S:oredict.toolHeadSawGrossular.name=钙铝榴石锯片
-    S:oredict.toolHeadSawHSLASpringSteel.name=Spring Steel锯片
+    S:oredict.toolHeadSawHSLASpringSteel.name=弹簧钢锯片
     S:oredict.toolHeadSawHSLASteel.name=HSLA-钢锯片
     S:oredict.toolHeadSawHaderoth.name=幻之铜锯片
     S:oredict.toolHeadSawHepatizon.name=幽魂结晶锯片
@@ -48637,7 +48637,7 @@ languagefile {
     S:oredict.toolHeadSawKanthal.name=铁铬铝合金锯片
     S:oredict.toolHeadSawKnightmetal.name=骑士金属锯片
     S:oredict.toolHeadSawKomatiite.name=科马提岩锯片
-    S:oredict.toolHeadSawLead.name=Lead 锯片
+    S:oredict.toolHeadSawLead.name=铅 锯片
     S:oredict.toolHeadSawMagnalium.name=镁铝合金锯片
     S:oredict.toolHeadSawManganese.name=锰锯片
     S:oredict.toolHeadSawManyullyn.name=玛玉灵锯片
@@ -48817,7 +48817,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverGreenschist.name=绿片岩螺丝刀头
     S:oredict.toolHeadScrewdriverGreywacke.name=杂砂岩螺丝刀头
     S:oredict.toolHeadScrewdriverGrossular.name=钙铝榴石螺丝刀头
-    S:oredict.toolHeadScrewdriverHSLASpringSteel.name=Spring Steel螺丝刀头
+    S:oredict.toolHeadScrewdriverHSLASpringSteel.name=弹簧钢螺丝刀头
     S:oredict.toolHeadScrewdriverHSLASteel.name=HSLA-钢螺丝刀头
     S:oredict.toolHeadScrewdriverHaderoth.name=幻之铜螺丝刀头
     S:oredict.toolHeadScrewdriverHepatizon.name=幽魂结晶螺丝刀头
@@ -48842,7 +48842,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverKanthal.name=铁铬铝合金螺丝刀头
     S:oredict.toolHeadScrewdriverKnightmetal.name=骑士金属螺丝刀头
     S:oredict.toolHeadScrewdriverKomatiite.name=科马提岩螺丝刀头
-    S:oredict.toolHeadScrewdriverLead.name=Lead螺丝刀头
+    S:oredict.toolHeadScrewdriverLead.name=铅螺丝刀头
     S:oredict.toolHeadScrewdriverMagnalium.name=镁铝合金螺丝刀头
     S:oredict.toolHeadScrewdriverManganese.name=锰螺丝刀头
     S:oredict.toolHeadScrewdriverManyullyn.name=玛玉灵螺丝刀头
@@ -49036,7 +49036,7 @@ languagefile {
     S:oredict.toolHeadSenseGreenschist.name=绿片岩 镰刀片
     S:oredict.toolHeadSenseGreywacke.name=杂砂岩 镰刀片
     S:oredict.toolHeadSenseGrossular.name=钙铝榴石 镰刀片
-    S:oredict.toolHeadSenseHSLASpringSteel.name=Spring Steel 镰刀片
+    S:oredict.toolHeadSenseHSLASpringSteel.name=弹簧钢 镰刀片
     S:oredict.toolHeadSenseHSLASteel.name=HSLA-钢镰刀片
     S:oredict.toolHeadSenseHaderoth.name=幻之铜镰刀片
     S:oredict.toolHeadSenseHepatizon.name=幽魂结晶镰刀片
@@ -49062,7 +49062,7 @@ languagefile {
     S:oredict.toolHeadSenseKanthal.name=铁铬铝合金镰刀片
     S:oredict.toolHeadSenseKnightmetal.name=骑士金属镰刀片
     S:oredict.toolHeadSenseKomatiite.name=科马提岩 镰刀片
-    S:oredict.toolHeadSenseLead.name=Lead 镰刀片
+    S:oredict.toolHeadSenseLead.name=铅 镰刀片
     S:oredict.toolHeadSenseLimestone.name=石灰石 镰刀片
     S:oredict.toolHeadSenseMagnalium.name=镁铝合金镰刀片
     S:oredict.toolHeadSenseManganese.name=锰镰刀片
@@ -49266,7 +49266,7 @@ languagefile {
     S:oredict.toolHeadShovelGreenschist.name=绿片岩 锹头
     S:oredict.toolHeadShovelGreywacke.name=杂砂岩锹头
     S:oredict.toolHeadShovelGrossular.name=钙铝榴石锹头
-    S:oredict.toolHeadShovelHSLASpringSteel.name=Spring Steel锹头
+    S:oredict.toolHeadShovelHSLASpringSteel.name=弹簧钢锹头
     S:oredict.toolHeadShovelHSLASteel.name=HSLA-钢锹头
     S:oredict.toolHeadShovelHaderoth.name=幻之铜锹头
     S:oredict.toolHeadShovelHepatizon.name=幽魂结晶锹头
@@ -49292,7 +49292,7 @@ languagefile {
     S:oredict.toolHeadShovelKanthal.name=铁铬铝合金锹头
     S:oredict.toolHeadShovelKnightmetal.name=骑士金属锹头
     S:oredict.toolHeadShovelKomatiite.name=科马提岩锹头
-    S:oredict.toolHeadShovelLead.name=Lead 锹头
+    S:oredict.toolHeadShovelLead.name=铅 锹头
     S:oredict.toolHeadShovelLimestone.name=石灰石锹头
     S:oredict.toolHeadShovelMagnalium.name=镁铝合金锹头
     S:oredict.toolHeadShovelManganese.name=锰锹头
@@ -49496,7 +49496,7 @@ languagefile {
     S:oredict.toolHeadSwordGreenschist.name=绿片岩剑身
     S:oredict.toolHeadSwordGreywacke.name=杂砂岩 剑身
     S:oredict.toolHeadSwordGrossular.name=钙铝榴石 剑身
-    S:oredict.toolHeadSwordHSLASpringSteel.name=Spring Steel 剑身
+    S:oredict.toolHeadSwordHSLASpringSteel.name=弹簧钢 剑身
     S:oredict.toolHeadSwordHSLASteel.name=HSLA-钢剑身
     S:oredict.toolHeadSwordHaderoth.name=幻之铜剑身
     S:oredict.toolHeadSwordHepatizon.name=幽魂结晶剑身
@@ -49522,7 +49522,7 @@ languagefile {
     S:oredict.toolHeadSwordKanthal.name=铁铬铝合金剑身
     S:oredict.toolHeadSwordKnightmetal.name=骑士金属剑身
     S:oredict.toolHeadSwordKomatiite.name=科马提岩 剑身
-    S:oredict.toolHeadSwordLead.name=Lead剑身
+    S:oredict.toolHeadSwordLead.name=铅剑身
     S:oredict.toolHeadSwordLimestone.name=石灰石 剑身
     S:oredict.toolHeadSwordMagnalium.name=镁铝合金剑身
     S:oredict.toolHeadSwordManganese.name=锰剑身
@@ -49715,7 +49715,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeGreenschist.name=绿片岩 万用铲头
     S:oredict.toolHeadUniversalSpadeGreywacke.name=杂砂岩 万用铲头
     S:oredict.toolHeadUniversalSpadeGrossular.name=钙铝榴石 万用铲头
-    S:oredict.toolHeadUniversalSpadeHSLASpringSteel.name=Spring Steel 万用铲头
+    S:oredict.toolHeadUniversalSpadeHSLASpringSteel.name=弹簧钢 万用铲头
     S:oredict.toolHeadUniversalSpadeHSLASteel.name=HSLA-钢万用铲头
     S:oredict.toolHeadUniversalSpadeHaderoth.name=幻之铜万用铲头
     S:oredict.toolHeadUniversalSpadeHepatizon.name=幽魂结晶万用铲头
@@ -49739,7 +49739,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeKanthal.name=铁铬铝合金万用铲头
     S:oredict.toolHeadUniversalSpadeKnightmetal.name=骑士金属万用铲头
     S:oredict.toolHeadUniversalSpadeKomatiite.name=科马提岩 万用铲头
-    S:oredict.toolHeadUniversalSpadeLead.name=Lead 万用铲头
+    S:oredict.toolHeadUniversalSpadeLead.name=铅 万用铲头
     S:oredict.toolHeadUniversalSpadeMagnalium.name=镁铝合金万用铲头
     S:oredict.toolHeadUniversalSpadeManganese.name=锰万用铲头
     S:oredict.toolHeadUniversalSpadeManyullyn.name=玛玉灵万用铲头
@@ -49919,7 +49919,7 @@ languagefile {
     S:oredict.toolHeadWrenchGreenschist.name=绿片岩 扳手头
     S:oredict.toolHeadWrenchGreywacke.name=杂砂岩 扳手头
     S:oredict.toolHeadWrenchGrossular.name=钙铝榴石扳手头
-    S:oredict.toolHeadWrenchHSLASpringSteel.name=Spring Steel 扳手头
+    S:oredict.toolHeadWrenchHSLASpringSteel.name=弹簧钢 扳手头
     S:oredict.toolHeadWrenchHSLASteel.name=HSLA-钢扳手头
     S:oredict.toolHeadWrenchHaderoth.name=幻之铜扳手头
     S:oredict.toolHeadWrenchHepatizon.name=幽魂结晶扳手头
@@ -49943,7 +49943,7 @@ languagefile {
     S:oredict.toolHeadWrenchKanthal.name=铁铬铝合金扳手头
     S:oredict.toolHeadWrenchKnightmetal.name=骑士金属扳手头
     S:oredict.toolHeadWrenchKomatiite.name=科马提岩 扳手头
-    S:oredict.toolHeadWrenchLead.name=Lead 扳手头
+    S:oredict.toolHeadWrenchLead.name=铅 扳手头
     S:oredict.toolHeadWrenchMagnalium.name=镁铝合金扳手头
     S:oredict.toolHeadWrenchManganese.name=锰扳手头
     S:oredict.toolHeadWrenchManyullyn.name=玛玉灵扳手头
