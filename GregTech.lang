@@ -7103,7 +7103,7 @@ languagefile {
     S:gt.td.short.properties.plasma=Plasma
     S:gt.td.short.properties.quartz=Quartz
     S:gt.td.short.properties.rotten=Rotten
-    S:gt.td.short.properties.solid=Solid
+    S:gt.td.short.properties.solid=
     S:gt.td.short.properties.stone=Stone
     S:gt.td.short.properties.stretchy=Stretchy
     S:gt.td.short.properties.transparent=Transparent
@@ -7456,7 +7456,7 @@ languagefile {
     S:oredict.arrowGtPlasticKanthal.name=轻质铁铬铝合金箭
     S:oredict.arrowGtPlasticKnightmetal.name=轻质骑士金属箭
     S:oredict.arrowGtPlasticKomatiite.name=轻质 Komatiite箭
-    S:oredict.arrowGtPlasticLead.name=Light Lead箭
+    S:oredict.arrowGtPlasticLead.name=Light 铅箭
     S:oredict.arrowGtPlasticLimestone.name=轻质 石灰石箭
     S:oredict.arrowGtPlasticMagnalium.name=轻质镁铝合金箭
     S:oredict.arrowGtPlasticManganese.name=轻质锰箭
@@ -8693,7 +8693,7 @@ languagefile {
     S:oredict.blockIngotAntiIron.name=反物质铁锭块
     S:oredict.blockIngotAntiLantanium.name=反物质Lantanium锭块
     S:oredict.blockIngotAntiLawrencium.name=反物质铹锭块
-    S:oredict.blockIngotAntiLead.name=反物质Lead 锭块
+    S:oredict.blockIngotAntiLead.name=反物质铅 锭块
     S:oredict.blockIngotAntiLivermorium.name=反物质Livermorium锭块
     S:oredict.blockIngotAntiLutetium.name=反物质镥锭块
     S:oredict.blockIngotAntiMagnesium.name=反物质镁锭块
@@ -9078,7 +9078,7 @@ languagefile {
     S:oredict.blockPlateAntiIron.name=反物质铁板块
     S:oredict.blockPlateAntiLantanium.name=反物质Lantanium板块
     S:oredict.blockPlateAntiLawrencium.name=反物质铹板块
-    S:oredict.blockPlateAntiLead.name=反物质Lead 板块
+    S:oredict.blockPlateAntiLead.name=反物质铅 板块
     S:oredict.blockPlateAntiLivermorium.name=反物质Livermorium板块
     S:oredict.blockPlateAntiLutetium.name=反物质镥板块
     S:oredict.blockPlateAntiMagnesium.name=反物质镁板块
@@ -9522,9 +9522,9 @@ languagefile {
     S:oredict.blockSolidActinium.name=锕块
     S:oredict.blockSolidAdamantium.name=艾德曼合金块
     S:oredict.blockSolidAlduorite.name=神秘蓝金块
-    S:oredict.blockSolidAluminium.name=solid铝块
+    S:oredict.blockSolidAluminium.name=铝块
     S:oredict.blockSolidAluminiumAlloy.name=铝合金块
-    S:oredict.blockSolidAluminiumBrass.name=solid铝黄铜块
+    S:oredict.blockSolidAluminiumBrass.name=铝黄铜块
     S:oredict.blockSolidAlumite.name=耐酸铝块
     S:oredict.blockSolidAmericium.name=镅块
     S:oredict.blockSolidAmericium241.name=镅-241块
@@ -10278,7 +10278,7 @@ languagefile {
     S:oredict.casingMachineDenseKalendrite.name=致密 Kalendrite 机器外壳
     S:oredict.casingMachineDenseKanthal.name=致密 Kanthal 机器外壳
     S:oredict.casingMachineDenseKnightmetal.name=致密 Knightmetal 机器外壳
-    S:oredict.casingMachineDenseLead.name=致密 Lead Machine Casing
+    S:oredict.casingMachineDenseLead.name=致密 铅 Machine Casing
     S:oredict.casingMachineDenseLumium.name=致密 Lumium 机器外壳
     S:oredict.casingMachineDenseMagnalium.name=致密 Magnalium 机器外壳
     S:oredict.casingMachineDenseManasteel.name=致密 Manasteel 机器外壳
@@ -10435,7 +10435,7 @@ languagefile {
     S:oredict.casingMachineDoubleKalendrite.name=Robust Kalendrite 机器外壳
     S:oredict.casingMachineDoubleKanthal.name=Robust Kanthal 机器外壳
     S:oredict.casingMachineDoubleKnightmetal.name=Robust Knightmetal 机器外壳
-    S:oredict.casingMachineDoubleLead.name=Robust Lead Machine Casing
+    S:oredict.casingMachineDoubleLead.name=Robust 铅 Machine Casing
     S:oredict.casingMachineDoubleLumium.name=Robust Lumium 机器外壳
     S:oredict.casingMachineDoubleMagnalium.name=Robust Magnalium 机器外壳
     S:oredict.casingMachineDoubleManasteel.name=Robust Manasteel 机器外壳
@@ -10656,7 +10656,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleKalendrite.name=Reinforced Kalendrite 机器外壳
     S:oredict.casingMachineQuadrupleKanthal.name=Reinforced Kanthal 机器外壳
     S:oredict.casingMachineQuadrupleKnightmetal.name=Reinforced Knightmetal 机器外壳
-    S:oredict.casingMachineQuadrupleLead.name=Reinforced Lead Machine Casing
+    S:oredict.casingMachineQuadrupleLead.name=Reinforced 铅 Machine Casing
     S:oredict.casingMachineQuadrupleLumium.name=Reinforced Lumium 机器外壳
     S:oredict.casingMachineQuadrupleMagnalium.name=Reinforced Magnalium 机器外壳
     S:oredict.casingMachineQuadrupleManasteel.name=Reinforced Manasteel 机器外壳
@@ -12636,7 +12636,7 @@ languagefile {
     S:oredict.chunkGtAntiIron.name=反物质铁小块
     S:oredict.chunkGtAntiLantanium.name=反物质Lantanium小块
     S:oredict.chunkGtAntiLawrencium.name=反物质铹小块
-    S:oredict.chunkGtAntiLead.name=反物质Lead Chunk
+    S:oredict.chunkGtAntiLead.name=反物质铅 Chunk
     S:oredict.chunkGtAntiLivermorium.name=反物质Livermorium小块
     S:oredict.chunkGtAntiLutetium.name=反物质镥小块
     S:oredict.chunkGtAntiMagnesium.name=反物质镁小块
@@ -13036,7 +13036,7 @@ languagefile {
     S:oredict.crateGtDustAntiIron.name=反物质铁粉板条箱
     S:oredict.crateGtDustAntiLantanium.name=反物质Lantanium粉板条箱
     S:oredict.crateGtDustAntiLawrencium.name=反物质铹粉板条箱
-    S:oredict.crateGtDustAntiLead.name=反物质Lead 粉板条箱
+    S:oredict.crateGtDustAntiLead.name=反物质铅 粉板条箱
     S:oredict.crateGtDustAntiLithium.name=反物质锂粉板条箱
     S:oredict.crateGtDustAntiLithium6.name=反物质锂-6粉板条箱
     S:oredict.crateGtDustAntiLivermorium.name=反物质Livermorium粉板条箱
@@ -15360,7 +15360,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyAntiIron.name=小撮离心过的反物质Iron矿石
     S:oredict.crushedCentrifugedTinyAntiLantanium.name=小撮离心过的反物质Lantanium矿石
     S:oredict.crushedCentrifugedTinyAntiLawrencium.name=小撮离心过的反物质Lawrencium矿石
-    S:oredict.crushedCentrifugedTinyAntiLead.name=Tiny Refined 反物质Lead 矿
+    S:oredict.crushedCentrifugedTinyAntiLead.name=Tiny Refined 反物质铅 矿
     S:oredict.crushedCentrifugedTinyAntiLithium.name=小撮离心过的反物质Lithium矿石
     S:oredict.crushedCentrifugedTinyAntiLithium6.name=小撮离心过的反物质Lithium-6矿石
     S:oredict.crushedCentrifugedTinyAntiLivermorium.name=小撮离心过的反物质Livermorium矿石
@@ -15589,7 +15589,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyLapis.name=小撮离心过的Lapis矿石
     S:oredict.crushedCentrifugedTinyLawrencium.name=小撮离心过的Lawrencium矿石
     S:oredict.crushedCentrifugedTinyLazurite.name=小撮离心过的Lazurite矿石
-    S:oredict.crushedCentrifugedTinyLead.name=Tiny Refined Lead 矿
+    S:oredict.crushedCentrifugedTinyLead.name=Tiny Refined 铅 矿
     S:oredict.crushedCentrifugedTinyLemurite.name=小撮离心过的Lemurite矿石
     S:oredict.crushedCentrifugedTinyLepidolite.name=小撮离心过的Lepidolite矿石
     S:oredict.crushedCentrifugedTinyLignite.name=小撮离心过的Lignite Coal矿石
@@ -15941,7 +15941,7 @@ languagefile {
     S:oredict.crushedLapis.name=粉碎Lapis矿石
     S:oredict.crushedLawrencium.name=粉碎铹矿石
     S:oredict.crushedLazurite.name=粉碎Lazurite矿石
-    S:oredict.crushedLead.name=Crushed Lead 矿
+    S:oredict.crushedLead.name=Crushed 铅 矿
     S:oredict.crushedLemurite.name=粉碎Lemurite矿石
     S:oredict.crushedLepidolite.name=粉碎Lepidolite矿石
     S:oredict.crushedLignite.name=粉碎褐煤矿石
@@ -16518,7 +16518,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyAntiIron.name=小撮纯净反物质Iron矿石
     S:oredict.crushedPurifiedTinyAntiLantanium.name=小撮纯净反物质Lantanium矿石
     S:oredict.crushedPurifiedTinyAntiLawrencium.name=小撮纯净反物质Lawrencium矿石
-    S:oredict.crushedPurifiedTinyAntiLead.name=Tiny Purified 反物质Lead 矿
+    S:oredict.crushedPurifiedTinyAntiLead.name=Tiny Purified 反物质铅 矿
     S:oredict.crushedPurifiedTinyAntiLithium.name=小撮纯净反物质Lithium矿石
     S:oredict.crushedPurifiedTinyAntiLithium6.name=小撮纯净反物质Lithium-6矿石
     S:oredict.crushedPurifiedTinyAntiLivermorium.name=小撮纯净反物质Livermorium矿石
@@ -16747,7 +16747,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyLapis.name=小撮纯净Lapis矿石
     S:oredict.crushedPurifiedTinyLawrencium.name=小撮纯净Lawrencium矿石
     S:oredict.crushedPurifiedTinyLazurite.name=小撮纯净Lazurite矿石
-    S:oredict.crushedPurifiedTinyLead.name=Tiny Purified Lead 矿
+    S:oredict.crushedPurifiedTinyLead.name=Tiny Purified 铅 矿
     S:oredict.crushedPurifiedTinyLemurite.name=小撮纯净Lemurite矿石
     S:oredict.crushedPurifiedTinyLepidolite.name=小撮纯净Lepidolite矿石
     S:oredict.crushedPurifiedTinyLignite.name=小撮纯净Lignite Coal矿石
@@ -17114,7 +17114,7 @@ languagefile {
     S:oredict.crushedTinyAntiIron.name=小搓粉碎反物质Iron矿石
     S:oredict.crushedTinyAntiLantanium.name=小搓粉碎反物质Lantanium矿石
     S:oredict.crushedTinyAntiLawrencium.name=小搓粉碎反物质Lawrencium矿石
-    S:oredict.crushedTinyAntiLead.name=Tiny Crushed 反物质Lead 矿
+    S:oredict.crushedTinyAntiLead.name=Tiny Crushed 反物质铅 矿
     S:oredict.crushedTinyAntiLithium.name=小搓粉碎反物质Lithium矿石
     S:oredict.crushedTinyAntiLithium6.name=小搓粉碎反物质Lithium-6矿石
     S:oredict.crushedTinyAntiLivermorium.name=小搓粉碎反物质Livermorium矿石
@@ -17343,7 +17343,7 @@ languagefile {
     S:oredict.crushedTinyLapis.name=小搓粉碎Lapis矿石
     S:oredict.crushedTinyLawrencium.name=小搓粉碎Lawrencium矿石
     S:oredict.crushedTinyLazurite.name=小搓粉碎Lazurite矿石
-    S:oredict.crushedTinyLead.name=Tiny Crushed Lead 矿
+    S:oredict.crushedTinyLead.name=Tiny Crushed 铅 矿
     S:oredict.crushedTinyLemurite.name=小搓粉碎Lemurite矿石
     S:oredict.crushedTinyLepidolite.name=小搓粉碎Lepidolite矿石
     S:oredict.crushedTinyLignite.name=小搓粉碎Lignite Coal矿石
@@ -17932,7 +17932,7 @@ languagefile {
     S:oredict.dustDiv72AntiIron.name=1/72nd of a Pile of 反物质Iron 粉
     S:oredict.dustDiv72AntiLantanium.name=1/72nd of a Pile of 反物质Lantanium 粉
     S:oredict.dustDiv72AntiLawrencium.name=1/72nd of a Pile of 反物质Lawrencium 粉
-    S:oredict.dustDiv72AntiLead.name=1/72nd of a Pile of 反物质Lead 粉
+    S:oredict.dustDiv72AntiLead.name=1/72nd of a Pile of 反物质铅 粉
     S:oredict.dustDiv72AntiLithium.name=1/72nd of a Pile of 反物质Lithium 粉
     S:oredict.dustDiv72AntiLithium6.name=1/72nd of a Pile of 反物质Lithium-6 粉
     S:oredict.dustDiv72AntiLivermorium.name=1/72nd of a Pile of 反物质Livermorium 粉
@@ -18260,7 +18260,7 @@ languagefile {
     S:oredict.dustDiv72Lapis.name=1/72nd of a Pile of Lapis 粉
     S:oredict.dustDiv72Lawrencium.name=1/72nd of a Pile of Lawrencium 粉
     S:oredict.dustDiv72Lazurite.name=1/72nd of a Pile of Lazurite 粉
-    S:oredict.dustDiv72Lead.name=1/72nd of a Pile of Lead 粉
+    S:oredict.dustDiv72Lead.name=1/72nd of a Pile of 铅 粉
     S:oredict.dustDiv72Lemurite.name=1/72nd of a Pile of Lemurite 粉
     S:oredict.dustDiv72Lepidolite.name=1/72nd of a Pile of Lepidolite 粉
     S:oredict.dustDiv72LightBlue.name=1/72nd of a Pile of 淡蓝色Dye
@@ -18963,7 +18963,7 @@ languagefile {
     S:oredict.dustImpureLapis.name=含杂Lapis粉
     S:oredict.dustImpureLawrencium.name=含杂铹粉
     S:oredict.dustImpureLazurite.name=含杂Lazurite粉
-    S:oredict.dustImpureLead.name=含杂 Lead 粉
+    S:oredict.dustImpureLead.name=含杂 铅 粉
     S:oredict.dustImpureLemurite.name=含杂Lemurite粉
     S:oredict.dustImpureLepidolite.name=含杂Lepidolite粉
     S:oredict.dustImpureLignite.name=含杂褐煤粉
@@ -25942,7 +25942,7 @@ languagefile {
     S:oredict.oreBasaltLapis.name=玄武岩Lapis矿石
     S:oredict.oreBasaltLawrencium.name=玄武岩铹矿石
     S:oredict.oreBasaltLazurite.name=玄武岩Lazurite矿石
-    S:oredict.oreBasaltLead.name=玄武岩 Lead 矿
+    S:oredict.oreBasaltLead.name=玄武岩 铅 矿
     S:oredict.oreBasaltLemurite.name=玄武岩Lemurite矿石
     S:oredict.oreBasaltLepidolite.name=玄武岩Lepidolite矿石
     S:oredict.oreBasaltLignite.name=玄武岩褐煤矿石
@@ -26200,7 +26200,7 @@ languagefile {
     S:oredict.oreBedrockAntiIron.name=基岩反物质Iron 矿
     S:oredict.oreBedrockAntiLantanium.name=基岩反物质Lantanium 矿
     S:oredict.oreBedrockAntiLawrencium.name=基岩反物质Lawrencium 矿
-    S:oredict.oreBedrockAntiLead.name=基岩反物质Lead 矿
+    S:oredict.oreBedrockAntiLead.name=基岩反物质铅 矿
     S:oredict.oreBedrockAntiLithium.name=基岩反物质Lithium 矿
     S:oredict.oreBedrockAntiLithium6.name=基岩反物质Lithium-6 矿
     S:oredict.oreBedrockAntiLivermorium.name=基岩反物质Livermorium 矿
@@ -26426,7 +26426,7 @@ languagefile {
     S:oredict.oreBedrockLapis.name=基岩Lapis 矿
     S:oredict.oreBedrockLawrencium.name=基岩Lawrencium 矿
     S:oredict.oreBedrockLazurite.name=基岩Lazurite 矿
-    S:oredict.oreBedrockLead.name=基岩Lead 矿
+    S:oredict.oreBedrockLead.name=基岩铅 矿
     S:oredict.oreBedrockLemurite.name=基岩Lemurite 矿
     S:oredict.oreBedrockLepidolite.name=基岩Lepidolite 矿
     S:oredict.oreBedrockLignite.name=基岩Lignite Coal 矿
@@ -27452,7 +27452,7 @@ languagefile {
     S:oredict.oreEndstoneLapis.name=末地Lapis矿石
     S:oredict.oreEndstoneLawrencium.name=末地铹矿石
     S:oredict.oreEndstoneLazurite.name=末地Lazurite矿石
-    S:oredict.oreEndstoneLead.name=End Lead 矿
+    S:oredict.oreEndstoneLead.name=End 铅 矿
     S:oredict.oreEndstoneLemurite.name=末地Lemurite矿石
     S:oredict.oreEndstoneLepidolite.name=末地Lepidolite矿石
     S:oredict.oreEndstoneLignite.name=末地褐煤矿石
@@ -28256,7 +28256,7 @@ languagefile {
     S:oredict.oreLimestoneAntiIron.name=石灰岩反物质Iron 矿
     S:oredict.oreLimestoneAntiLantanium.name=石灰岩反物质Lantanium 矿
     S:oredict.oreLimestoneAntiLawrencium.name=石灰岩反物质Lawrencium 矿
-    S:oredict.oreLimestoneAntiLead.name=石灰岩反物质Lead 矿
+    S:oredict.oreLimestoneAntiLead.name=石灰岩反物质铅 矿
     S:oredict.oreLimestoneAntiLithium.name=石灰岩反物质Lithium 矿
     S:oredict.oreLimestoneAntiLithium6.name=石灰岩反物质Lithium-6 矿
     S:oredict.oreLimestoneAntiLivermorium.name=石灰岩反物质Livermorium 矿
@@ -28482,7 +28482,7 @@ languagefile {
     S:oredict.oreLimestoneLapis.name=石灰岩 Lapis 矿
     S:oredict.oreLimestoneLawrencium.name=石灰岩 Lawrencium 矿
     S:oredict.oreLimestoneLazurite.name=石灰岩 Lazurite 矿
-    S:oredict.oreLimestoneLead.name=石灰岩 Lead 矿
+    S:oredict.oreLimestoneLead.name=石灰岩 铅 矿
     S:oredict.oreLimestoneLemurite.name=石灰岩 Lemurite 矿
     S:oredict.oreLimestoneLepidolite.name=石灰岩 Lepidolite 矿
     S:oredict.oreLimestoneLignite.name=石灰岩 Lignite Coal 矿
@@ -28969,7 +28969,7 @@ languagefile {
     S:oredict.oreMarbleLapis.name=大理石Lapis矿石
     S:oredict.oreMarbleLawrencium.name=大理石铹矿石
     S:oredict.oreMarbleLazurite.name=大理石Lazurite矿石
-    S:oredict.oreMarbleLead.name=Marble Lead 矿
+    S:oredict.oreMarbleLead.name=Marble 铅 矿
     S:oredict.oreMarbleLemurite.name=大理石Lemurite矿石
     S:oredict.oreMarbleLepidolite.name=大理石Lepidolite矿石
     S:oredict.oreMarbleLignite.name=大理石褐煤矿石
@@ -29245,7 +29245,7 @@ languagefile {
     S:oredict.oreNetherrackAntiIron.name=地狱反物质铁矿石
     S:oredict.oreNetherrackAntiLantanium.name=地狱反物质Lantanium矿石
     S:oredict.oreNetherrackAntiLawrencium.name=地狱反物质铹矿石
-    S:oredict.oreNetherrackAntiLead.name=Nether 反物质Lead 矿
+    S:oredict.oreNetherrackAntiLead.name=Nether 反物质铅 矿
     S:oredict.oreNetherrackAntiLithium.name=地狱反物质锂矿石
     S:oredict.oreNetherrackAntiLithium6.name=地狱反物质锂-6矿石
     S:oredict.oreNetherrackAntiLivermorium.name=地狱反物质Livermorium矿石
@@ -29474,7 +29474,7 @@ languagefile {
     S:oredict.oreNetherrackLapis.name=地狱Lapis矿石
     S:oredict.oreNetherrackLawrencium.name=地狱Lawrencium矿石
     S:oredict.oreNetherrackLazurite.name=地狱Lazurite矿石
-    S:oredict.oreNetherrackLead.name=Nether Lead 矿
+    S:oredict.oreNetherrackLead.name=Nether 铅 矿
     S:oredict.oreNetherrackLemurite.name=地狱Lemurite矿石
     S:oredict.oreNetherrackLepidolite.name=地狱Lepidolite矿石
     S:oredict.oreNetherrackLignite.name=地狱褐煤矿石
@@ -33567,7 +33567,7 @@ languagefile {
     S:oredict.plantGtBlossomAntiIron.name=反物质Iron花
     S:oredict.plantGtBlossomAntiLantanium.name=反物质Lantanium花
     S:oredict.plantGtBlossomAntiLawrencium.name=反物质Lawrencium花
-    S:oredict.plantGtBlossomAntiLead.name=反物质Lead 花
+    S:oredict.plantGtBlossomAntiLead.name=反物质铅 花
     S:oredict.plantGtBlossomAntiLithium.name=反物质Lithium花
     S:oredict.plantGtBlossomAntiLithium6.name=反物质Lithium-6花
     S:oredict.plantGtBlossomAntiLivermorium.name=反物质Livermorium花
@@ -34730,7 +34730,7 @@ languagefile {
     S:oredict.plantGtFiberLava.name=粗糙的Lava纤维
     S:oredict.plantGtFiberLawrencium.name=粗糙的Lawrencium纤维
     S:oredict.plantGtFiberLazurite.name=粗糙的Lazurite纤维
-    S:oredict.plantGtFiberLead.name=Raw Lead纤维
+    S:oredict.plantGtFiberLead.name=Raw 铅纤维
     S:oredict.plantGtFiberLemurite.name=粗糙的Lemurite纤维
     S:oredict.plantGtFiberLepidolite.name=粗糙的Lepidolite纤维
     S:oredict.plantGtFiberLightBlue.name=淡蓝色 String
@@ -36907,7 +36907,7 @@ languagefile {
     S:oredict.plateCurvedAntiIron.name=弯曲的反物质Iron 板
     S:oredict.plateCurvedAntiLantanium.name=弯曲的反物质Lantanium 板
     S:oredict.plateCurvedAntiLawrencium.name=弯曲的反物质Lawrencium 板
-    S:oredict.plateCurvedAntiLead.name=Curved 反物质Lead Plate
+    S:oredict.plateCurvedAntiLead.name=Curved 反物质铅 Plate
     S:oredict.plateCurvedAntiLivermorium.name=弯曲的反物质Livermorium 板
     S:oredict.plateCurvedAntiLutetium.name=弯曲的反物质Lutetium 板
     S:oredict.plateCurvedAntiMagnesium.name=弯曲的反物质Magnesium 板
@@ -37104,7 +37104,7 @@ languagefile {
     S:oredict.plateCurvedKomatiite.name=弯曲的 Komatiite 板
     S:oredict.plateCurvedLantanium.name=弯曲的 Lantanium 板
     S:oredict.plateCurvedLawrencium.name=弯曲的 Lawrencium 板
-    S:oredict.plateCurvedLead.name=Curved Lead Plate
+    S:oredict.plateCurvedLead.name=Curved 铅 Plate
     S:oredict.plateCurvedLemurite.name=弯曲的 Lemurite 板
     S:oredict.plateCurvedLimestone.name=弯曲的石灰石 板
     S:oredict.plateCurvedLivermorium.name=弯曲的 Livermorium 板
@@ -37336,7 +37336,7 @@ languagefile {
     S:oredict.plateDenseAntiIron.name=致密反物质铁板
     S:oredict.plateDenseAntiLantanium.name=致密反物质Lantanium板
     S:oredict.plateDenseAntiLawrencium.name=致密反物质铹板
-    S:oredict.plateDenseAntiLead.name=致密 反物质Lead Plate
+    S:oredict.plateDenseAntiLead.name=致密 反物质铅 Plate
     S:oredict.plateDenseAntiLivermorium.name=致密反物质Livermorium板
     S:oredict.plateDenseAntiLutetium.name=致密反物质镥板
     S:oredict.plateDenseAntiMagnesium.name=致密反物质镁板
@@ -40803,7 +40803,7 @@ languagefile {
     S:oredict.scrapGtAntiIron.name=反物质铁废料
     S:oredict.scrapGtAntiLantanium.name=反物质Lantanium废料
     S:oredict.scrapGtAntiLawrencium.name=反物质铹废料
-    S:oredict.scrapGtAntiLead.name=反物质Lead 废料
+    S:oredict.scrapGtAntiLead.name=反物质铅 废料
     S:oredict.scrapGtAntiLithium.name=反物质锂废料
     S:oredict.scrapGtAntiLithium6.name=反物质锂-6废料
     S:oredict.scrapGtAntiLivermorium.name=反物质Livermorium废料
@@ -41952,7 +41952,7 @@ languagefile {
     S:oredict.springSmallKanthal.name=小型铁铬铝合金弹簧
     S:oredict.springSmallKnightmetal.name=小型骑士金属弹簧
     S:oredict.springSmallKomatiite.name=小型Komatiite弹簧
-    S:oredict.springSmallLead.name=Small Lead Spring
+    S:oredict.springSmallLead.name=Small 铅 Spring
     S:oredict.springSmallLumium.name=小型Lumium弹簧
     S:oredict.springSmallMagic.name=小型Magic弹簧
     S:oredict.springSmallMagnalium.name=小型镁铝合金弹簧
@@ -42155,7 +42155,7 @@ languagefile {
     S:oredict.stickAntiIron.name=反物质铁杆
     S:oredict.stickAntiLantanium.name=反物质Lantanium杆
     S:oredict.stickAntiLawrencium.name=反物质铹杆
-    S:oredict.stickAntiLead.name=反物质Lead Rod
+    S:oredict.stickAntiLead.name=反物质铅 Rod
     S:oredict.stickAntiLivermorium.name=反物质Livermorium杆
     S:oredict.stickAntiLutetium.name=反物质镥杆
     S:oredict.stickAntiMagnesium.name=反物质镁杆
@@ -42459,7 +42459,7 @@ languagefile {
     S:oredict.stickLongAntiIron.name=长反物质铁杆
     S:oredict.stickLongAntiLantanium.name=长反物质Lantanium杆
     S:oredict.stickLongAntiLawrencium.name=长反物质铹杆
-    S:oredict.stickLongAntiLead.name=Long 反物质Lead Rod
+    S:oredict.stickLongAntiLead.name=Long 反物质铅 Rod
     S:oredict.stickLongAntiLivermorium.name=长反物质Livermorium杆
     S:oredict.stickLongAntiLutetium.name=长反物质镥杆
     S:oredict.stickLongAntiMagnesium.name=长反物质镁杆
@@ -42693,7 +42693,7 @@ languagefile {
     S:oredict.stickLongLapis.name=长Lapis杆
     S:oredict.stickLongLawrencium.name=长铹杆
     S:oredict.stickLongLazurite.name=长Lazurite杆
-    S:oredict.stickLongLead.name=Long Lead Rod
+    S:oredict.stickLongLead.name=Long 铅 Rod
     S:oredict.stickLongLemurite.name=长Lemurite杆
     S:oredict.stickLongLignite.name=长褐煤杆
     S:oredict.stickLongLigniteCoke.name=Long Lignite Coke Rod
@@ -45989,7 +45989,7 @@ languagefile {
     S:oredict.toolHeadRawArrowKanthal.name=粗糙的铁铬铝合金箭头
     S:oredict.toolHeadRawArrowKnightmetal.name=粗糙的骑士金属箭头
     S:oredict.toolHeadRawArrowKomatiite.name=粗糙的Komatiite箭头
-    S:oredict.toolHeadRawArrowLead.name=Raw Lead箭头
+    S:oredict.toolHeadRawArrowLead.name=Raw 铅箭头
     S:oredict.toolHeadRawArrowLimestone.name=Raw石灰石箭头
     S:oredict.toolHeadRawArrowMagnalium.name=粗糙的镁铝合金箭头
     S:oredict.toolHeadRawArrowManganese.name=粗糙的锰箭头
@@ -46272,7 +46272,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleKanthal.name=粗糙的铁铬铝合金双刃斧
     S:oredict.toolHeadRawAxeDoubleKnightmetal.name=粗糙的骑士金属双刃斧
     S:oredict.toolHeadRawAxeDoubleKomatiite.name=粗糙的Komatiite 双刃斧
-    S:oredict.toolHeadRawAxeDoubleLead.name=Raw Lead 双刃斧头
+    S:oredict.toolHeadRawAxeDoubleLead.name=Raw 铅 双刃斧头
     S:oredict.toolHeadRawAxeDoubleMagnalium.name=粗糙的镁铝合金双刃斧
     S:oredict.toolHeadRawAxeDoubleManganese.name=粗糙的锰双刃斧
     S:oredict.toolHeadRawAxeDoubleManyullyn.name=粗糙的玛玉灵双刃斧
@@ -46428,7 +46428,7 @@ languagefile {
     S:oredict.toolHeadRawAxeKanthal.name=粗糙的铁铬铝合金斧头
     S:oredict.toolHeadRawAxeKnightmetal.name=粗糙的骑士金属斧头
     S:oredict.toolHeadRawAxeKomatiite.name=粗糙的Komatiite 斧头
-    S:oredict.toolHeadRawAxeLead.name=Raw Lead斧头
+    S:oredict.toolHeadRawAxeLead.name=Raw 铅斧头
     S:oredict.toolHeadRawAxeLimestone.name=Raw石灰石 斧头
     S:oredict.toolHeadRawAxeMagnalium.name=粗糙的镁铝合金斧头
     S:oredict.toolHeadRawAxeManganese.name=粗糙的锰斧头
@@ -46645,7 +46645,7 @@ languagefile {
     S:oredict.toolHeadRawChiselKanthal.name=粗糙的铁铬铝合金凿子头
     S:oredict.toolHeadRawChiselKnightmetal.name=粗糙的骑士金属凿子头
     S:oredict.toolHeadRawChiselKomatiite.name=粗糙的Komatiite 凿子头
-    S:oredict.toolHeadRawChiselLead.name=Raw Lead 凿子头
+    S:oredict.toolHeadRawChiselLead.name=Raw 铅 凿子头
     S:oredict.toolHeadRawChiselMagnalium.name=粗糙的镁铝合金凿子头
     S:oredict.toolHeadRawChiselManganese.name=粗糙的锰凿子头
     S:oredict.toolHeadRawChiselManyullyn.name=粗糙的玛玉灵凿子头
@@ -46862,7 +46862,7 @@ languagefile {
     S:oredict.toolHeadRawHoeKanthal.name=粗糙的铁铬铝合金锄头
     S:oredict.toolHeadRawHoeKnightmetal.name=粗糙的骑士金属锄头
     S:oredict.toolHeadRawHoeKomatiite.name=粗糙的Komatiite 锄头
-    S:oredict.toolHeadRawHoeLead.name=Raw Lead 锄头
+    S:oredict.toolHeadRawHoeLead.name=Raw 铅 锄头
     S:oredict.toolHeadRawHoeLimestone.name=Raw石灰石 锄头
     S:oredict.toolHeadRawHoeMagnalium.name=粗糙的镁铝合金锄头
     S:oredict.toolHeadRawHoeManganese.name=粗糙的锰锄头
@@ -47092,7 +47092,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeKanthal.name=粗糙的铁铬铝合金镐头
     S:oredict.toolHeadRawPickaxeKnightmetal.name=粗糙的骑士金属镐头
     S:oredict.toolHeadRawPickaxeKomatiite.name=粗糙的Komatiite 镐头
-    S:oredict.toolHeadRawPickaxeLead.name=Raw Lead 镐头
+    S:oredict.toolHeadRawPickaxeLead.name=Raw 铅 镐头
     S:oredict.toolHeadRawPickaxeLimestone.name=Raw石灰石 镐头
     S:oredict.toolHeadRawPickaxeMagnalium.name=粗糙的镁铝合金镐头
     S:oredict.toolHeadRawPickaxeManganese.name=粗糙的锰镐头
@@ -47322,7 +47322,7 @@ languagefile {
     S:oredict.toolHeadRawPlowKanthal.name=粗糙的铁铬铝合金犁头
     S:oredict.toolHeadRawPlowKnightmetal.name=粗糙的骑士金属犁头
     S:oredict.toolHeadRawPlowKomatiite.name=粗糙的Komatiite 犁头
-    S:oredict.toolHeadRawPlowLead.name=Raw Lead 犁头
+    S:oredict.toolHeadRawPlowLead.name=Raw 铅 犁头
     S:oredict.toolHeadRawPlowLimestone.name=Raw石灰石 犁头
     S:oredict.toolHeadRawPlowMagnalium.name=粗糙的镁铝合金犁头
     S:oredict.toolHeadRawPlowManganese.name=粗糙的锰犁头
@@ -47539,7 +47539,7 @@ languagefile {
     S:oredict.toolHeadRawSawKanthal.name=粗糙的铁铬铝合金锯片
     S:oredict.toolHeadRawSawKnightmetal.name=粗糙的骑士金属锯片
     S:oredict.toolHeadRawSawKomatiite.name=粗糙的Komatiite 圆锯片
-    S:oredict.toolHeadRawSawLead.name=Raw Lead 锯片
+    S:oredict.toolHeadRawSawLead.name=Raw 铅 锯片
     S:oredict.toolHeadRawSawMagnalium.name=粗糙的镁铝合金锯片
     S:oredict.toolHeadRawSawManganese.name=粗糙的锰锯片
     S:oredict.toolHeadRawSawManyullyn.name=粗糙的玛玉灵锯片
@@ -47756,7 +47756,7 @@ languagefile {
     S:oredict.toolHeadRawSenseKanthal.name=粗糙的铁铬铝合金镰刀片
     S:oredict.toolHeadRawSenseKnightmetal.name=粗糙的骑士金属镰刀片
     S:oredict.toolHeadRawSenseKomatiite.name=粗糙的Komatiite 镰刀片
-    S:oredict.toolHeadRawSenseLead.name=Raw Lead 镰刀片
+    S:oredict.toolHeadRawSenseLead.name=Raw 铅 镰刀片
     S:oredict.toolHeadRawSenseLimestone.name=Raw石灰石 镰刀片
     S:oredict.toolHeadRawSenseMagnalium.name=粗糙的镁铝合金镰刀片
     S:oredict.toolHeadRawSenseManganese.name=粗糙的锰镰刀片
@@ -47986,7 +47986,7 @@ languagefile {
     S:oredict.toolHeadRawShovelKanthal.name=粗糙的铁铬铝合金锹头
     S:oredict.toolHeadRawShovelKnightmetal.name=粗糙的骑士金属锹头
     S:oredict.toolHeadRawShovelKomatiite.name=粗糙的Komatiite锹头
-    S:oredict.toolHeadRawShovelLead.name=Raw Lead 锹头
+    S:oredict.toolHeadRawShovelLead.name=Raw 铅 锹头
     S:oredict.toolHeadRawShovelLimestone.name=Raw石灰石锹头
     S:oredict.toolHeadRawShovelMagnalium.name=粗糙的镁铝合金锹头
     S:oredict.toolHeadRawShovelManganese.name=粗糙的锰锹头
@@ -48216,7 +48216,7 @@ languagefile {
     S:oredict.toolHeadRawSwordKanthal.name=粗糙的铁铬铝合金剑身
     S:oredict.toolHeadRawSwordKnightmetal.name=粗糙的骑士金属剑身
     S:oredict.toolHeadRawSwordKomatiite.name=粗糙的Komatiite 剑身
-    S:oredict.toolHeadRawSwordLead.name=Raw Lead剑身
+    S:oredict.toolHeadRawSwordLead.name=Raw 铅剑身
     S:oredict.toolHeadRawSwordLimestone.name=Raw石灰石 剑身
     S:oredict.toolHeadRawSwordMagnalium.name=粗糙的镁铝合金剑身
     S:oredict.toolHeadRawSwordManganese.name=粗糙的锰剑身
@@ -48433,7 +48433,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeKanthal.name=粗糙的铁铬铝合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeKnightmetal.name=粗糙的骑士金属万用铲头
     S:oredict.toolHeadRawUniversalSpadeKomatiite.name=粗糙的Komatiite 万用铲头
-    S:oredict.toolHeadRawUniversalSpadeLead.name=Raw Lead 万用铲头
+    S:oredict.toolHeadRawUniversalSpadeLead.name=Raw 铅 万用铲头
     S:oredict.toolHeadRawUniversalSpadeMagnalium.name=粗糙的镁铝合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeManganese.name=粗糙的锰万用铲头
     S:oredict.toolHeadRawUniversalSpadeManyullyn.name=粗糙的玛玉灵万用铲头
@@ -50120,7 +50120,7 @@ languagefile {
     S:oredict.wireFineKalendrite.name=优良幽冥魂石线缆
     S:oredict.wireFineKanthal.name=优良铁铬铝合金线缆
     S:oredict.wireFineKnightmetal.name=优良骑士金属线缆
-    S:oredict.wireFineLead.name=Fine Lead 线缆
+    S:oredict.wireFineLead.name=Fine 铅 线缆
     S:oredict.wireFineLumium.name=优良Lumium线缆
     S:oredict.wireFineMagnalium.name=优良镁铝合金线缆
     S:oredict.wireFineManasteel.name=优良Mana钢线缆
