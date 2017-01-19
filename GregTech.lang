@@ -8371,7 +8371,7 @@ languagefile {
     S:oredict.blockDustRutile.name=Rutile粉块
     S:oredict.blockDustRye.name=Rye Flour块
     S:oredict.blockDustSalt.name=盐块
-    S:oredict.blockDustSaltpeter.name=Saltpeter粉块
+    S:oredict.blockDustSaltpeter.name=硝酸盐粉块
     S:oredict.blockDustSamarium.name=钐粉块
     S:oredict.blockDustSanguinite.name=狱炎石粉块
     S:oredict.blockDustSapphire.name=蓝宝石粉块
@@ -8447,7 +8447,7 @@ languagefile {
     S:oredict.blockDustTrinitanium.name=Trinitanium粉块
     S:oredict.blockDustTrinium.name=Trinium粉块
     S:oredict.blockDustTritanium.name=三钛合金粉块
-    S:oredict.blockDustTritaniumDioxide.name=钛 Dioxide粉块
+    S:oredict.blockDustTritaniumDioxide.name=二氧化钛粉块
     S:oredict.blockDustTritaniumElemental.name=Elemental Tritanium粉块
     S:oredict.blockDustTritaniumHexaastatide.name=钛 Hexaastatide粉块
     S:oredict.blockDustTritaniumHexabromide.name=钛 Hexabromide粉块
@@ -8615,7 +8615,7 @@ languagefile {
     S:oredict.blockGemQuartzite.name=石英岩块
     S:oredict.blockGemRockSalt.name=Rock Salt块
     S:oredict.blockGemRuby.name=红宝石块
-    S:oredict.blockGemSalt.name=Salt块
+    S:oredict.blockGemSalt.name=盐块
     S:oredict.blockGemSapphire.name=蓝宝石块
     S:oredict.blockGemSelenium.name=硒块
     S:oredict.blockGemSodalite.name=方钠石块
@@ -11155,7 +11155,7 @@ languagefile {
     S:oredict.cellPlasmaOil.name=Oil等离子单元
     S:oredict.cellPlasmaOliveOil.name=橄榄油等离子单元
     S:oredict.cellPlasmaPyrotheum.name=Pyrotheum等离子单元
-    S:oredict.cellPlasmaSaltWater.name=Salt Water等离子单元
+    S:oredict.cellPlasmaSaltWater.name=盐水等离子单元
     S:oredict.cellPlasmaSeedOil.name=种子油等离子单元
     S:oredict.cellPlasmaSeedOilHemp.name=Hemp 种子 油等离子单元
     S:oredict.cellPlasmaSeedOilLin.name=Lin 种子 油等离子单元
@@ -11171,7 +11171,7 @@ languagefile {
     S:oredict.cellPyrotheum.name=Pyrotheum 单元
     S:oredict.cellRadon.name=Radon单元
     S:oredict.cellRedVitriol.name=红色硫酸盐 单元
-    S:oredict.cellSaltWater.name=Salt Water 单元
+    S:oredict.cellSaltWater.name=盐水 单元
     S:oredict.cellSeedOil.name=种子油 单元
     S:oredict.cellSeedOilHemp.name=Hemp 种子 油 单元
     S:oredict.cellSeedOilLin.name=Lin 种子 油 单元
@@ -12214,9 +12214,9 @@ languagefile {
     S:oredict.chemtubeRutherfordium.name=鑪试管
     S:oredict.chemtubeRutile.name= Rutile试管
     S:oredict.chemtubeRye.name= Rye试管
-    S:oredict.chemtubeSalt.name=Salt试管
-    S:oredict.chemtubeSaltWater.name=Salt Water试管
-    S:oredict.chemtubeSaltpeter.name=Saltpeter试管
+    S:oredict.chemtubeSalt.name=盐试管
+    S:oredict.chemtubeSaltWater.name=盐水试管
+    S:oredict.chemtubeSaltpeter.name=硝酸盐试管
     S:oredict.chemtubeSamarium.name=钐试管
     S:oredict.chemtubeSand.name=Sand试管
     S:oredict.chemtubeSanguinite.name=狱炎石试管
@@ -12381,7 +12381,7 @@ languagefile {
     S:oredict.chemtubeTrisepttrium.name=Trisepttrium试管
     S:oredict.chemtubeTriseptunium.name=Triseptunium试管
     S:oredict.chemtubeTritanium.name=三钛合金试管
-    S:oredict.chemtubeTritaniumDioxide.name=钛 Dioxide试管
+    S:oredict.chemtubeTritaniumDioxide.name=二氧化钛试管
     S:oredict.chemtubeTritaniumElemental.name=Elemental Tritanium试管
     S:oredict.chemtubeTritaniumHexaastatide.name=钛 Hexaastatide试管
     S:oredict.chemtubeTritaniumHexabromide.name=钛 Hexabromide试管
@@ -13527,8 +13527,8 @@ languagefile {
     S:oredict.crateGtDustRutherfordium.name=鑪粉板条箱
     S:oredict.crateGtDustRutile.name=Rutile粉板条箱
     S:oredict.crateGtDustRye.name=Rye Flour板条箱
-    S:oredict.crateGtDustSalt.name=Salt板条箱
-    S:oredict.crateGtDustSaltpeter.name=Saltpeter粉板条箱
+    S:oredict.crateGtDustSalt.name=盐板条箱
+    S:oredict.crateGtDustSaltpeter.name=硝酸盐粉板条箱
     S:oredict.crateGtDustSamarium.name=钐粉板条箱
     S:oredict.crateGtDustSanguinite.name=狱炎石粉板条箱
     S:oredict.crateGtDustSapphire.name=蓝宝石粉板条箱
@@ -13604,7 +13604,7 @@ languagefile {
     S:oredict.crateGtDustTrinitanium.name=Trinitanium粉板条箱
     S:oredict.crateGtDustTrinium.name=Trinium粉板条箱
     S:oredict.crateGtDustTritanium.name=三钛合金粉板条箱
-    S:oredict.crateGtDustTritaniumDioxide.name=钛 Dioxide粉板条箱
+    S:oredict.crateGtDustTritaniumDioxide.name=二氧化钛粉板条箱
     S:oredict.crateGtDustTritaniumElemental.name=Elemental Tritanium粉板条箱
     S:oredict.crateGtDustTritaniumHexaastatide.name=钛 Hexaastatide粉板条箱
     S:oredict.crateGtDustTritaniumHexabromide.name=钛 Hexabromide粉板条箱
@@ -13772,7 +13772,7 @@ languagefile {
     S:oredict.crateGtGemQuartzite.name=石英岩板条箱
     S:oredict.crateGtGemRockSalt.name=Rock Salt板条箱
     S:oredict.crateGtGemRuby.name=红宝石板条箱
-    S:oredict.crateGtGemSalt.name=Salt板条箱
+    S:oredict.crateGtGemSalt.name=盐板条箱
     S:oredict.crateGtGemSapphire.name=蓝宝石板条箱
     S:oredict.crateGtGemSelenium.name=硒板条箱
     S:oredict.crateGtGemSodalite.name=方钠石板条箱
@@ -19866,8 +19866,8 @@ languagefile {
     S:oredict.dustRutherfordium.name=鑪粉
     S:oredict.dustRutile.name=Rutile粉
     S:oredict.dustRye.name=Rye Flour
-    S:oredict.dustSalt.name=Salt
-    S:oredict.dustSaltpeter.name=Saltpeter粉
+    S:oredict.dustSalt.name=盐
+    S:oredict.dustSaltpeter.name=硝酸盐粉
     S:oredict.dustSamarium.name=钐粉
     S:oredict.dustSanguinite.name=狱炎石粉
     S:oredict.dustSapphire.name=蓝宝石粉
@@ -20652,7 +20652,7 @@ languagefile {
     S:oredict.dustTantalum.name=钽粉
     S:oredict.dustTanzanite.name=坦桑石粉
     S:oredict.dustTartarite.name=溶火之石粉
-    S:oredict.dustTea.name=Tea粉块
+    S:oredict.dustTea.name=茶粉块
     S:oredict.dustTechnetium.name=锝粉
     S:oredict.dustTellurium.name=碲粉
     S:oredict.dustTerbium.name=铽粉
@@ -21402,7 +21402,7 @@ languagefile {
     S:oredict.dustTrinitanium.name=Trinitanium粉
     S:oredict.dustTrinium.name=Trinium粉
     S:oredict.dustTritanium.name=三钛合金粉
-    S:oredict.dustTritaniumDioxide.name=钛 Dioxide粉
+    S:oredict.dustTritaniumDioxide.name=二氧化钛粉
     S:oredict.dustTritaniumElemental.name=Elemental Tritanium粉
     S:oredict.dustTritaniumHexaastatide.name=钛 Hexaastatide粉
     S:oredict.dustTritaniumHexabromide.name=钛 Hexabromide粉
@@ -22664,7 +22664,7 @@ languagefile {
     S:oredict.gemQuartzite.name=石英岩
     S:oredict.gemRockSalt.name=Rock Salt
     S:oredict.gemRuby.name=红宝石
-    S:oredict.gemSalt.name=Salt
+    S:oredict.gemSalt.name=盐
     S:oredict.gemSapphire.name=蓝宝石
     S:oredict.gemSelenium.name=硒
     S:oredict.gemSodalite.name=方钠石
@@ -30689,8 +30689,8 @@ languagefile {
     S:oredict.oreRuthenium.name=钌矿石
     S:oredict.oreRutherfordium.name=鑪矿石
     S:oredict.oreRutile.name=Rutile矿石
-    S:oredict.oreSalt.name=Salt矿石
-    S:oredict.oreSaltpeter.name=Saltpeter矿石
+    S:oredict.oreSalt.name=盐矿石
+    S:oredict.oreSaltpeter.name=硝酸盐矿石
     S:oredict.oreSamarium.name=钐矿石
     S:oredict.oreSandActinium.name=锕矿沙
     S:oredict.oreSandAdamantium.name=艾德曼合金矿沙
@@ -31082,8 +31082,8 @@ languagefile {
     S:oredict.oreSandRuthenium.name=钌矿沙
     S:oredict.oreSandRutherfordium.name=鑪矿沙
     S:oredict.oreSandRutile.name=Sand Rutile 矿
-    S:oredict.oreSandSalt.name=Salt矿沙
-    S:oredict.oreSandSaltpeter.name=Saltpeter矿沙
+    S:oredict.oreSandSalt.name=盐矿沙
+    S:oredict.oreSandSaltpeter.name=硝酸盐矿沙
     S:oredict.oreSandSamarium.name=钐矿沙
     S:oredict.oreSandSanguinite.name=狱炎石矿沙
     S:oredict.oreSandSapphire.name=蓝宝石矿沙
@@ -32185,7 +32185,7 @@ languagefile {
     S:oredict.oreTopaz.name=黄玉矿石
     S:oredict.oreTrinium.name=氚 矿
     S:oredict.oreTritanium.name=Tritanium矿石
-    S:oredict.oreTritaniumDioxide.name=钛 Dioxide 矿
+    S:oredict.oreTritaniumDioxide.name=二氧化钛 矿
     S:oredict.oreTritaniumElemental.name=Elemental 三钛合金 矿
     S:oredict.oreTritaniumHexaastatide.name=钛 Hexaastatide 矿
     S:oredict.oreTritaniumHexabromide.name=钛 Hexabromide 矿
@@ -33308,9 +33308,9 @@ languagefile {
     S:oredict.plantGtBerryRutherfordium.name=Rutherfordium梅
     S:oredict.plantGtBerryRutile.name=Rutile梅
     S:oredict.plantGtBerryRye.name=Rye梅
-    S:oredict.plantGtBerrySalt.name=Salt梅
-    S:oredict.plantGtBerrySaltWater.name=Salt Water梅
-    S:oredict.plantGtBerrySaltpeter.name=Saltpeter梅
+    S:oredict.plantGtBerrySalt.name=盐梅
+    S:oredict.plantGtBerrySaltWater.name=盐水梅
+    S:oredict.plantGtBerrySaltpeter.name=硝酸盐梅
     S:oredict.plantGtBerrySamarium.name=Samarium梅
     S:oredict.plantGtBerrySanguinite.name=Sanguinite梅
     S:oredict.plantGtBerrySapphire.name=Sapphire梅
@@ -33374,7 +33374,7 @@ languagefile {
     S:oredict.plantGtBerryTantalum.name=Tantalum梅
     S:oredict.plantGtBerryTanzanite.name=Tanzanite梅
     S:oredict.plantGtBerryTartarite.name=Tartarite梅
-    S:oredict.plantGtBerryTea.name=Tea梅
+    S:oredict.plantGtBerryTea.name=茶梅
     S:oredict.plantGtBerryTechnetium.name=Technetium梅
     S:oredict.plantGtBerryTellurium.name=Tellurium梅
     S:oredict.plantGtBerryTerbium.name=Terbium梅
@@ -33394,7 +33394,7 @@ languagefile {
     S:oredict.plantGtBerryTrinitanium.name=Trinitanium梅
     S:oredict.plantGtBerryTrinium.name=Trinium梅
     S:oredict.plantGtBerryTritanium.name=Tritanium梅
-    S:oredict.plantGtBerryTritaniumDioxide.name=钛 Dioxide梅
+    S:oredict.plantGtBerryTritaniumDioxide.name=二氧化钛梅
     S:oredict.plantGtBerryTritaniumElemental.name=Elemental Tritanium梅
     S:oredict.plantGtBerryTritaniumHexaastatide.name=钛 Hexaastatide梅
     S:oredict.plantGtBerryTritaniumHexabromide.name=钛 Hexabromide梅
@@ -34104,9 +34104,9 @@ languagefile {
     S:oredict.plantGtBlossomRutherfordium.name=Rutherfordium花
     S:oredict.plantGtBlossomRutile.name=Rutile花
     S:oredict.plantGtBlossomRye.name=Rye花
-    S:oredict.plantGtBlossomSalt.name=Salt花
-    S:oredict.plantGtBlossomSaltWater.name=Salt Water花
-    S:oredict.plantGtBlossomSaltpeter.name=Saltpeter花
+    S:oredict.plantGtBlossomSalt.name=盐花
+    S:oredict.plantGtBlossomSaltWater.name=盐水花
+    S:oredict.plantGtBlossomSaltpeter.name=硝酸盐花
     S:oredict.plantGtBlossomSamarium.name=Samarium花
     S:oredict.plantGtBlossomSanguinite.name=Sanguinite花
     S:oredict.plantGtBlossomSapphire.name=Sapphire花
@@ -34170,7 +34170,7 @@ languagefile {
     S:oredict.plantGtBlossomTantalum.name=Tantalum花
     S:oredict.plantGtBlossomTanzanite.name=Tanzanite花
     S:oredict.plantGtBlossomTartarite.name=Tartarite花
-    S:oredict.plantGtBlossomTea.name=Tea花
+    S:oredict.plantGtBlossomTea.name=茶花
     S:oredict.plantGtBlossomTechnetium.name=Technetium花
     S:oredict.plantGtBlossomTellurium.name=Tellurium花
     S:oredict.plantGtBlossomTerbium.name=Terbium花
@@ -34190,7 +34190,7 @@ languagefile {
     S:oredict.plantGtBlossomTrinitanium.name=三钛 花
     S:oredict.plantGtBlossomTrinium.name=氚 花
     S:oredict.plantGtBlossomTritanium.name=Tritanium花
-    S:oredict.plantGtBlossomTritaniumDioxide.name=钛 Dioxide 花
+    S:oredict.plantGtBlossomTritaniumDioxide.name=二氧化钛 花
     S:oredict.plantGtBlossomTritaniumElemental.name=Elemental 三钛合金 花
     S:oredict.plantGtBlossomTritaniumHexaastatide.name=钛 Hexaastatide 花
     S:oredict.plantGtBlossomTritaniumHexabromide.name=钛 Hexabromide 花
@@ -35694,9 +35694,9 @@ languagefile {
     S:oredict.plantGtTwigRutherfordium.name=Rutherfordium细枝
     S:oredict.plantGtTwigRutile.name=Rutile细枝
     S:oredict.plantGtTwigRye.name=Rye细枝
-    S:oredict.plantGtTwigSalt.name=Salt细枝
-    S:oredict.plantGtTwigSaltWater.name=Salt Water细枝
-    S:oredict.plantGtTwigSaltpeter.name=Saltpeter细枝
+    S:oredict.plantGtTwigSalt.name=盐细枝
+    S:oredict.plantGtTwigSaltWater.name=盐水细枝
+    S:oredict.plantGtTwigSaltpeter.name=硝酸盐细枝
     S:oredict.plantGtTwigSamarium.name=Samarium细枝
     S:oredict.plantGtTwigSanguinite.name=Sanguinite细枝
     S:oredict.plantGtTwigSapphire.name=Sapphire细枝
@@ -35760,7 +35760,7 @@ languagefile {
     S:oredict.plantGtTwigTantalum.name=Tantalum细枝
     S:oredict.plantGtTwigTanzanite.name=Tanzanite细枝
     S:oredict.plantGtTwigTartarite.name=Tartarite细枝
-    S:oredict.plantGtTwigTea.name=Tea细枝
+    S:oredict.plantGtTwigTea.name=茶细枝
     S:oredict.plantGtTwigTechnetium.name=Technetium细枝
     S:oredict.plantGtTwigTellurium.name=Tellurium细枝
     S:oredict.plantGtTwigTerbium.name=Terbium细枝
@@ -35780,7 +35780,7 @@ languagefile {
     S:oredict.plantGtTwigTrinitanium.name=Trinitanium细枝
     S:oredict.plantGtTwigTrinium.name=Trinium细枝
     S:oredict.plantGtTwigTritanium.name=Tritanium细枝
-    S:oredict.plantGtTwigTritaniumDioxide.name=钛 Dioxide细枝
+    S:oredict.plantGtTwigTritaniumDioxide.name=二氧化钛细枝
     S:oredict.plantGtTwigTritaniumElemental.name=Elemental Tritanium细枝
     S:oredict.plantGtTwigTritaniumHexaastatide.name=钛 Hexaastatide细枝
     S:oredict.plantGtTwigTritaniumHexabromide.name=钛 Hexabromide细枝
@@ -36490,9 +36490,9 @@ languagefile {
     S:oredict.plantGtWartRutherfordium.name=Rutherfordium疣
     S:oredict.plantGtWartRutile.name=Rutile疣
     S:oredict.plantGtWartRye.name=Rye疣
-    S:oredict.plantGtWartSalt.name=Salt疣
-    S:oredict.plantGtWartSaltWater.name=Salt Water疣
-    S:oredict.plantGtWartSaltpeter.name=Saltpeter疣
+    S:oredict.plantGtWartSalt.name=盐疣
+    S:oredict.plantGtWartSaltWater.name=盐水疣
+    S:oredict.plantGtWartSaltpeter.name=硝酸盐疣
     S:oredict.plantGtWartSamarium.name=Samarium疣
     S:oredict.plantGtWartSanguinite.name=Sanguinite疣
     S:oredict.plantGtWartSapphire.name=Sapphire疣
@@ -36556,7 +36556,7 @@ languagefile {
     S:oredict.plantGtWartTantalum.name=Tantalum疣
     S:oredict.plantGtWartTanzanite.name=Tanzanite疣
     S:oredict.plantGtWartTartarite.name=Tartarite疣
-    S:oredict.plantGtWartTea.name=Tea疣
+    S:oredict.plantGtWartTea.name=茶疣
     S:oredict.plantGtWartTechnetium.name=Technetium疣
     S:oredict.plantGtWartTellurium.name=Tellurium疣
     S:oredict.plantGtWartTerbium.name=Terbium疣
@@ -36576,7 +36576,7 @@ languagefile {
     S:oredict.plantGtWartTrinitanium.name=Trinitanium疣
     S:oredict.plantGtWartTrinium.name=Trinium疣
     S:oredict.plantGtWartTritanium.name=Tritanium疣
-    S:oredict.plantGtWartTritaniumDioxide.name=钛 Dioxide疣
+    S:oredict.plantGtWartTritaniumDioxide.name=二氧化钛疣
     S:oredict.plantGtWartTritaniumElemental.name=Elemental Tritanium疣
     S:oredict.plantGtWartTritaniumHexaastatide.name=钛 Hexaastatide疣
     S:oredict.plantGtWartTritaniumHexabromide.name=钛 Hexabromide疣
@@ -41294,8 +41294,8 @@ languagefile {
     S:oredict.scrapGtRutherfordium.name=鑪废料
     S:oredict.scrapGtRutile.name=Rutile废料
     S:oredict.scrapGtRye.name=Rye废料
-    S:oredict.scrapGtSalt.name=Salt废料
-    S:oredict.scrapGtSaltpeter.name=Saltpeter废料
+    S:oredict.scrapGtSalt.name=盐废料
+    S:oredict.scrapGtSaltpeter.name=硝酸盐废料
     S:oredict.scrapGtSamarium.name=钐废料
     S:oredict.scrapGtSanguinite.name=狱炎石废料
     S:oredict.scrapGtSapphire.name=蓝宝石废料
@@ -41351,7 +41351,7 @@ languagefile {
     S:oredict.scrapGtTantalum.name=钽废料
     S:oredict.scrapGtTanzanite.name=坦桑石废料
     S:oredict.scrapGtTartarite.name=溶火之石废料
-    S:oredict.scrapGtTea.name=Tea废料
+    S:oredict.scrapGtTea.name=茶废料
     S:oredict.scrapGtTechnetium.name=锝废料
     S:oredict.scrapGtTellurium.name=碲废料
     S:oredict.scrapGtTerbium.name=铽废料
@@ -41370,9 +41370,9 @@ languagefile {
     S:oredict.scrapGtTrinaquadalloy.name=Trinaquadalloy 废料
     S:oredict.scrapGtTrinitanium.name=三钛 废料
     S:oredict.scrapGtTrinium.name=氚 废料
-    S:oredict.scrapGtTritanium.name=三钛合金废料
-    S:oredict.scrapGtTritaniumDioxide.name=钛 Dioxide 废料
-    S:oredict.scrapGtTritaniumElemental.name=Elemental 三钛合金 废料
+    S:oredict.scrapGtTritanium.name=钛废料
+    S:oredict.scrapGtTritaniumDioxide.name=二氧化钛 废料
+    S:oredict.scrapGtTritaniumElemental.name=Elemental 钛 废料
     S:oredict.scrapGtTritaniumHexaastatide.name=钛 Hexaastatide 废料
     S:oredict.scrapGtTritaniumHexabromide.name=钛 Hexabromide 废料
     S:oredict.scrapGtTritaniumHexachloride.name=钛 Hexachloride 废料
