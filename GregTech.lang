@@ -2265,7 +2265,7 @@ languagefile {
     S:gt.material.Ferrovanadium=Ferrovanadium
     S:gt.material.FierySteel=炙热钢
     S:gt.material.Firestone=火石
-    S:gt.material.FishCooked=熟 Fishmeal
+    S:gt.material.FishCooked=Cooked Fishmeal
     S:gt.material.FishOil=鱼油
     S:gt.material.FishRaw=Raw Fishmeal
     S:gt.material.FishRotten=Rotten Fishmeal
@@ -8122,7 +8122,7 @@ languagefile {
     S:oredict.blockDustFerrovanadium.name=Ferrovanadium粉块
     S:oredict.blockDustFierySteel.name=炙热钢粉块
     S:oredict.blockDustFirestone.name=火石粉块
-    S:oredict.blockDustFishCooked.name=熟 Fishmeal块
+    S:oredict.blockDustFishCooked.name=Cooked Fishmeal块
     S:oredict.blockDustFishRaw.name=Fishmeal块
     S:oredict.blockDustFishRotten.name=Rotten Fishmeal块
     S:oredict.blockDustFlerovium.name=鈇粉块
@@ -8197,7 +8197,7 @@ languagefile {
     S:oredict.blockDustInolashite.name=暗影秘银蓝金粉块
     S:oredict.blockDustInvar.name=因瓦合金粉块
     S:oredict.blockDustIodine.name=碘粉块
-    S:oredict.blockDustIodineSalt.name=碘盐块
+    S:oredict.blockDustIodineSalt.name=Iodine Salt块
     S:oredict.blockDustIridium.name=铱粉块
     S:oredict.blockDustIron.name=铁粉块
     S:oredict.blockDustIronCompressed.name=压缩铁粉块
@@ -8243,7 +8243,7 @@ languagefile {
     S:oredict.blockDustManganese.name=锰粉块
     S:oredict.blockDustManyullyn.name=玛玉灵粉块
     S:oredict.blockDustMarble.name=大理石粉块
-    S:oredict.blockDustMeatCooked.name=熟 Mince Meat块
+    S:oredict.blockDustMeatCooked.name=Cooked Mince Meat块
     S:oredict.blockDustMeatRaw.name=Mince Meat块
     S:oredict.blockDustMeatRotten.name=Rotten Mince Meat块
     S:oredict.blockDustMeitnerium.name=Meitnerium粉块
@@ -8523,7 +8523,7 @@ languagefile {
     S:oredict.blockDustgreenschist.name=绿色 Schist粉块
     S:oredict.blockDustgreenstone.name=绿色stone粉块
     S:oredict.blockDustlead.name=铅粉块
-    S:oredict.blockDustmeatCooked.name=熟 Mince 肉块
+    S:oredict.blockDustmeatCooked.name=Cooked Mince 肉块
     S:oredict.blockDustmeatRaw.name=Mince 肉块
     S:oredict.blockDustorange.name=橙色染料块
     S:oredict.blockDustorangeSapphire.name=橙色蓝宝石粉块
@@ -8831,7 +8831,7 @@ languagefile {
     S:oredict.blockIngotFarnsium.name=Farnsium锭块
     S:oredict.blockIngotFermium.name=镄锭块
     S:oredict.blockIngotFierySteel.name=炙热钢锭块
-    S:oredict.blockIngotFishCooked.name=熟 Fishmeal 锭块
+    S:oredict.blockIngotFishCooked.name=Cooked Fishmeal 锭块
     S:oredict.blockIngotFishRaw.name=Raw Fishmeal 锭块
     S:oredict.blockIngotFishRotten.name=Rotten Fishmeal 锭块
     S:oredict.blockIngotFlerovium.name=鈇锭块
@@ -9716,7 +9716,7 @@ languagefile {
     S:oredict.blockSolidFarnsium.name=Farnsium块
     S:oredict.blockSolidFermium.name=镄块
     S:oredict.blockSolidFierySteel.name=炙热钢块
-    S:oredict.blockSolidFishCooked.name=熟 Fishmeal块
+    S:oredict.blockSolidFishCooked.name=Cooked Fishmeal块
     S:oredict.blockSolidFishRaw.name=Raw Fishmeal块
     S:oredict.blockSolidFishRotten.name=Rotten Fishmeal块
     S:oredict.blockSolidFlerovium.name=鈇块
@@ -11918,7 +11918,7 @@ languagefile {
     S:oredict.chemtubeFerrovanadium.name=Ferrovanadium试管
     S:oredict.chemtubeFierySteel.name=炙热Blood试管
     S:oredict.chemtubeFirestone.name=火石试管
-    S:oredict.chemtubeFishCooked.name=熟 Fishmeal试管
+    S:oredict.chemtubeFishCooked.name=Cooked Fishmeal试管
     S:oredict.chemtubeFishOil.name=鱼 油试管
     S:oredict.chemtubeFishRaw.name=Raw Fishmeal试管
     S:oredict.chemtubeFishRotten.name=Rotten Fishmeal试管
@@ -12010,7 +12010,7 @@ languagefile {
     S:oredict.chemtubeInolashite.name=暗影秘银蓝金试管
     S:oredict.chemtubeInvar.name=因瓦合金试管
     S:oredict.chemtubeIodine.name=碘试管
-    S:oredict.chemtubeIodineSalt.name= 碘盐试管
+    S:oredict.chemtubeIodineSalt.name= Iodine Salt试管
     S:oredict.chemtubeIridium.name=铱试管
     S:oredict.chemtubeIron.name=铁试管
     S:oredict.chemtubeIronCompressed.name=压缩铁试管
@@ -12774,7 +12774,7 @@ languagefile {
     S:oredict.chunkGtFarnsium.name=Farnsium小块
     S:oredict.chunkGtFermium.name=镄小块
     S:oredict.chunkGtFierySteel.name=炙热钢小块
-    S:oredict.chunkGtFishCooked.name=熟 Fishmeal Chunk
+    S:oredict.chunkGtFishCooked.name=Cooked Fishmeal Chunk
     S:oredict.chunkGtFishRaw.name=Raw Fishmeal Chunk
     S:oredict.chunkGtFishRotten.name=Rotten Fishmeal Chunk
     S:oredict.chunkGtFlerovium.name=鈇小块
@@ -13280,7 +13280,7 @@ languagefile {
     S:oredict.crateGtDustFerrovanadium.name=Ferrovanadium粉板条箱
     S:oredict.crateGtDustFierySteel.name=炙热钢粉板条箱
     S:oredict.crateGtDustFirestone.name=火石粉板条箱
-    S:oredict.crateGtDustFishCooked.name=熟 Fishmeal板条箱
+    S:oredict.crateGtDustFishCooked.name=Cooked Fishmeal板条箱
     S:oredict.crateGtDustFishRaw.name=Fishmeal板条箱
     S:oredict.crateGtDustFishRotten.name=Rotten Fishmeal板条箱
     S:oredict.crateGtDustFlerovium.name=鈇粉板条箱
@@ -13354,7 +13354,7 @@ languagefile {
     S:oredict.crateGtDustInolashite.name=暗影秘银蓝金粉板条箱
     S:oredict.crateGtDustInvar.name=因瓦合金粉板条箱
     S:oredict.crateGtDustIodine.name=碘粉板条箱
-    S:oredict.crateGtDustIodineSalt.name=碘盐板条箱
+    S:oredict.crateGtDustIodineSalt.name=Iodine Salt板条箱
     S:oredict.crateGtDustIridium.name=铱粉板条箱
     S:oredict.crateGtDustIron.name=铁粉板条箱
     S:oredict.crateGtDustIronCompressed.name=压缩铁粉板条箱
@@ -13400,7 +13400,7 @@ languagefile {
     S:oredict.crateGtDustManganese.name=锰粉板条箱
     S:oredict.crateGtDustManyullyn.name=玛玉灵粉板条箱
     S:oredict.crateGtDustMarble.name=大理石粉板条箱
-    S:oredict.crateGtDustMeatCooked.name=熟 Mince Meat板条箱
+    S:oredict.crateGtDustMeatCooked.name=Cooked Mince Meat板条箱
     S:oredict.crateGtDustMeatRaw.name=Mince Meat板条箱
     S:oredict.crateGtDustMeatRotten.name=Rotten Mince Meat板条箱
     S:oredict.crateGtDustMeitnerium.name=Meitnerium粉板条箱
@@ -13680,7 +13680,7 @@ languagefile {
     S:oredict.crateGtDustgreenschist.name=绿色 Schist粉板条箱
     S:oredict.crateGtDustgreenstone.name=绿色stone粉板条箱
     S:oredict.crateGtDustlead.name=铅粉板条箱
-    S:oredict.crateGtDustmeatCooked.name=熟 Mince 肉板条箱
+    S:oredict.crateGtDustmeatCooked.name=Cooked Mince 肉板条箱
     S:oredict.crateGtDustmeatRaw.name=Mince 肉板条箱
     S:oredict.crateGtDustorange.name=橙色染料板条箱
     S:oredict.crateGtDustorangeSapphire.name=橙色蓝宝石粉板条箱
@@ -13746,7 +13746,7 @@ languagefile {
     S:oredict.crateGtGemInfusedOrder.name=秩序蕴魔石碎片板条箱
     S:oredict.crateGtGemInfusedWater.name=水之蕴魔石碎片板条箱
     S:oredict.crateGtGemIodine.name=碘板条箱
-    S:oredict.crateGtGemIodineSalt.name=碘盐板条箱
+    S:oredict.crateGtGemIodineSalt.name=Iodine Salt板条箱
     S:oredict.crateGtGemJade.name=翡翠板条箱
     S:oredict.crateGtGemJasper.name=碧玉板条箱
     S:oredict.crateGtGemLapis.name=青金石板条箱
@@ -13988,7 +13988,7 @@ languagefile {
     S:oredict.crateGtIngotFarnsium.name=Farnsium锭板条箱
     S:oredict.crateGtIngotFermium.name=镄锭板条箱
     S:oredict.crateGtIngotFierySteel.name=炙热钢锭板条箱
-    S:oredict.crateGtIngotFishCooked.name=熟 Fishmeal 锭板条箱
+    S:oredict.crateGtIngotFishCooked.name=Cooked Fishmeal 锭板条箱
     S:oredict.crateGtIngotFishRaw.name=Raw Fishmeal 锭板条箱
     S:oredict.crateGtIngotFishRotten.name=Rotten Fishmeal 锭板条箱
     S:oredict.crateGtIngotFlerovium.name=鈇锭板条箱
@@ -15142,7 +15142,7 @@ languagefile {
     S:oredict.crushedCentrifugedInfusedWater.name=离心过的水之蕴魔石碎片
     S:oredict.crushedCentrifugedInfusedgold.name=离心过的附魔金矿石
     S:oredict.crushedCentrifugedIodine.name=离心过的碘矿石
-    S:oredict.crushedCentrifugedIodineSalt.name=离心过的 碘盐矿石
+    S:oredict.crushedCentrifugedIodineSalt.name=离心过的 Iodine Salt矿石
     S:oredict.crushedCentrifugedIridium.name=离心过的铱矿石
     S:oredict.crushedCentrifugedIron.name=离心过的铁矿石
     S:oredict.crushedCentrifugedJade.name=离心过的Jade矿石
@@ -15576,7 +15576,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyInfusedWater.name=小撮离心过的Infused Water水晶s
     S:oredict.crushedCentrifugedTinyInfusedgold.name=小撮离心过的Infused 金矿石
     S:oredict.crushedCentrifugedTinyIodine.name=小撮离心过的Iodine矿石
-    S:oredict.crushedCentrifugedTinyIodineSalt.name=小撮离心过的碘盐矿石
+    S:oredict.crushedCentrifugedTinyIodineSalt.name=小撮离心过的Iodine Salt矿石
     S:oredict.crushedCentrifugedTinyIridium.name=小撮离心过的Iridium矿石
     S:oredict.crushedCentrifugedTinyIron.name=小撮离心过的Iron矿石
     S:oredict.crushedCentrifugedTinyJade.name=小撮离心过的Jade矿石
@@ -15928,7 +15928,7 @@ languagefile {
     S:oredict.crushedInfusedWater.name=粉碎水之蕴魔石碎片
     S:oredict.crushedInfusedgold.name=粉碎附魔金矿石
     S:oredict.crushedIodine.name=粉碎碘矿石
-    S:oredict.crushedIodineSalt.name=粉碎 碘盐矿石
+    S:oredict.crushedIodineSalt.name=粉碎 Iodine Salt矿石
     S:oredict.crushedIridium.name=粉碎铱矿石
     S:oredict.crushedIron.name=粉碎铁矿石
     S:oredict.crushedJade.name=粉碎Jade矿石
@@ -16300,7 +16300,7 @@ languagefile {
     S:oredict.crushedPurifiedInfusedWater.name=纯净水之蕴魔石碎片
     S:oredict.crushedPurifiedInfusedgold.name=纯净附魔金矿石
     S:oredict.crushedPurifiedIodine.name=纯净碘矿石
-    S:oredict.crushedPurifiedIodineSalt.name=Purified 碘盐矿石
+    S:oredict.crushedPurifiedIodineSalt.name=Purified Iodine Salt矿石
     S:oredict.crushedPurifiedIridium.name=纯净铱矿石
     S:oredict.crushedPurifiedIron.name=纯净铁矿石
     S:oredict.crushedPurifiedJade.name=纯净Jade矿石
@@ -16734,7 +16734,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyInfusedWater.name=小撮纯净Infused Water水晶s
     S:oredict.crushedPurifiedTinyInfusedgold.name=小撮纯净Infused 金矿石
     S:oredict.crushedPurifiedTinyIodine.name=小撮纯净Iodine矿石
-    S:oredict.crushedPurifiedTinyIodineSalt.name=小撮纯净碘盐矿石
+    S:oredict.crushedPurifiedTinyIodineSalt.name=小撮纯净Iodine Salt矿石
     S:oredict.crushedPurifiedTinyIridium.name=小撮纯净Iridium矿石
     S:oredict.crushedPurifiedTinyIron.name=小撮纯净Iron矿石
     S:oredict.crushedPurifiedTinyJade.name=小撮纯净Jade矿石
@@ -17330,7 +17330,7 @@ languagefile {
     S:oredict.crushedTinyInfusedWater.name=小搓粉碎Infused Water水晶s
     S:oredict.crushedTinyInfusedgold.name=小搓粉碎Infused 金矿石
     S:oredict.crushedTinyIodine.name=小搓粉碎Iodine矿石
-    S:oredict.crushedTinyIodineSalt.name=小搓粉碎碘盐矿石
+    S:oredict.crushedTinyIodineSalt.name=小搓粉碎Iodine Salt矿石
     S:oredict.crushedTinyIridium.name=小搓粉碎Iridium矿石
     S:oredict.crushedTinyIron.name=小搓粉碎Iron矿石
     S:oredict.crushedTinyJade.name=小搓粉碎Jade矿石
@@ -18172,7 +18172,7 @@ languagefile {
     S:oredict.dustDiv72Ferrovanadium.name=1/72nd of a Pile of Ferrovanadium 粉
     S:oredict.dustDiv72FierySteel.name=1/72nd of a Pile of Fiery Steel 粉
     S:oredict.dustDiv72Firestone.name=1/72nd of a Pile of Firestone 粉
-    S:oredict.dustDiv72FishCooked.name=1/72nd of a Pile of 熟 Fishmeal
+    S:oredict.dustDiv72FishCooked.name=1/72nd of a Pile of Cooked Fishmeal
     S:oredict.dustDiv72FishRaw.name=1/72nd of a Pile of Fishmeal
     S:oredict.dustDiv72FishRotten.name=1/72nd of a Pile of Rotten Fishmeal
     S:oredict.dustDiv72Flerovium.name=1/72nd of a Pile of Flerovium 粉
@@ -18243,7 +18243,7 @@ languagefile {
     S:oredict.dustDiv72Inolashite.name=1/72nd of a Pile of Inolashite 粉
     S:oredict.dustDiv72Invar.name=1/72nd of a Pile of Invar 粉
     S:oredict.dustDiv72Iodine.name=1/72nd of a Pile of Iodine 粉
-    S:oredict.dustDiv72IodineSalt.name=1/72nd of a Pile of 碘盐
+    S:oredict.dustDiv72IodineSalt.name=1/72nd of a Pile of Iodine Salt
     S:oredict.dustDiv72Iridium.name=1/72nd of a Pile of Iridium 粉
     S:oredict.dustDiv72Iron.name=1/72nd of a Pile of Iron 粉
     S:oredict.dustDiv72IronWood.name=1/72nd of a Pile of Ironwood 粉
@@ -18286,7 +18286,7 @@ languagefile {
     S:oredict.dustDiv72Manganese.name=1/72nd of a Pile of Manganese 粉
     S:oredict.dustDiv72Manyullyn.name=1/72nd of a Pile of Manyullyn 粉
     S:oredict.dustDiv72Marble.name=1/72nd of a Pile of Marble 粉
-    S:oredict.dustDiv72MeatCooked.name=1/72nd of a Pile of 熟 Mince Meat
+    S:oredict.dustDiv72MeatCooked.name=1/72nd of a Pile of Cooked Mince Meat
     S:oredict.dustDiv72MeatRaw.name=1/72nd of a Pile of Mince Meat
     S:oredict.dustDiv72MeatRotten.name=1/72nd of a Pile of Rotten Mince Meat
     S:oredict.dustDiv72Meitnerium.name=1/72nd of a Pile of Meitnerium 粉
@@ -18587,7 +18587,7 @@ languagefile {
     S:oredict.dustFerrovanadium.name=Ferrovanadium粉
     S:oredict.dustFierySteel.name=炙热钢粉
     S:oredict.dustFirestone.name=火石粉
-    S:oredict.dustFishCooked.name=熟 Fishmeal
+    S:oredict.dustFishCooked.name=Cooked Fishmeal
     S:oredict.dustFishRaw.name=Fishmeal
     S:oredict.dustFishRotten.name=Rotten Fishmeal
     S:oredict.dustFlerovium.name=鈇粉
@@ -18949,7 +18949,7 @@ languagefile {
     S:oredict.dustImpureInfusedWater.name=含杂水之蕴魔石碎片碎片粉
     S:oredict.dustImpureInfusedgold.name=含杂附魔金粉
     S:oredict.dustImpureIodine.name=含杂碘粉
-    S:oredict.dustImpureIodineSalt.name=含杂 碘盐
+    S:oredict.dustImpureIodineSalt.name=含杂 Iodine Salt
     S:oredict.dustImpureIridium.name=含杂铱粉
     S:oredict.dustImpureIron.name=含杂铁粉
     S:oredict.dustImpureJade.name=含杂Jade粉
@@ -19223,7 +19223,7 @@ languagefile {
     S:oredict.dustManganese.name=锰粉
     S:oredict.dustManyullyn.name=玛玉灵粉
     S:oredict.dustMarble.name=大理石粉
-    S:oredict.dustMeatCooked.name=熟 Mince Meat
+    S:oredict.dustMeatCooked.name=Cooked Mince Meat
     S:oredict.dustMeatRaw.name=Mince Meat
     S:oredict.dustMeatRotten.name=Rotten Mince Meat
     S:oredict.dustMeitnerium.name=Meitnerium粉
@@ -19622,7 +19622,7 @@ languagefile {
     S:oredict.dustPureInfusedWater.name=纯净水之蕴魔石碎片碎片粉
     S:oredict.dustPureInfusedgold.name=纯净附魔金粉
     S:oredict.dustPureIodine.name=纯净碘粉
-    S:oredict.dustPureIodineSalt.name=纯净碘盐
+    S:oredict.dustPureIodineSalt.name=纯净Iodine Salt
     S:oredict.dustPureIridium.name=纯净铱粉
     S:oredict.dustPureIron.name=纯净铁粉
     S:oredict.dustPureJade.name=纯净Jade粉
@@ -20204,7 +20204,7 @@ languagefile {
     S:oredict.dustSmallFerrovanadium.name=小撮Ferrovanadium粉
     S:oredict.dustSmallFierySteel.name=小堆炙热钢粉
     S:oredict.dustSmallFirestone.name=小堆火石粉
-    S:oredict.dustSmallFishCooked.name=小堆 熟 Fishmeal
+    S:oredict.dustSmallFishCooked.name=小堆 Cooked Fishmeal
     S:oredict.dustSmallFishRaw.name=小堆 Fishmeal
     S:oredict.dustSmallFishRotten.name=小堆 Rotten Fishmeal
     S:oredict.dustSmallFlerovium.name=小堆鈇粉
@@ -20278,7 +20278,7 @@ languagefile {
     S:oredict.dustSmallInolashite.name=小堆暗影秘银蓝金粉
     S:oredict.dustSmallInvar.name=小堆因瓦合金粉
     S:oredict.dustSmallIodine.name=小堆碘粉
-    S:oredict.dustSmallIodineSalt.name=小堆碘盐
+    S:oredict.dustSmallIodineSalt.name=小堆Iodine Salt
     S:oredict.dustSmallIridium.name=小堆铱粉
     S:oredict.dustSmallIron.name=小堆铁粉
     S:oredict.dustSmallIronCompressed.name=小堆压缩铁粉
@@ -20324,7 +20324,7 @@ languagefile {
     S:oredict.dustSmallManganese.name=小堆锰粉
     S:oredict.dustSmallManyullyn.name=小堆玛玉灵粉
     S:oredict.dustSmallMarble.name=小堆大理石粉
-    S:oredict.dustSmallMeatCooked.name=小堆 熟 Mince Meat
+    S:oredict.dustSmallMeatCooked.name=小堆 Cooked Mince Meat
     S:oredict.dustSmallMeatRaw.name=小堆 Mince Meat
     S:oredict.dustSmallMeatRotten.name=小堆 Rotten Mince Meat
     S:oredict.dustSmallMeitnerium.name=小堆Meitnerium粉
@@ -20604,7 +20604,7 @@ languagefile {
     S:oredict.dustSmallgreenschistname=小堆绿色 Schist粉
     S:oredict.dustSmallgreenstone.name=小堆绿色stone粉
     S:oredict.dustSmalllead.name=小堆铅粉
-    S:oredict.dustSmallmeatCooked.name=小堆熟 Mince 肉
+    S:oredict.dustSmallmeatCooked.name=小堆Cooked Mince 肉
     S:oredict.dustSmallmeatRaw.name=小堆Mince 肉
     S:oredict.dustSmallorange.name=小型Pile of橙色染料
     S:oredict.dustSmallorangeSapphire.name=小堆橙色蓝宝石粉
@@ -20984,7 +20984,7 @@ languagefile {
     S:oredict.dustTinyFerrovanadium.name=小撮 Ferrovanadium粉
     S:oredict.dustTinyFierySteel.name=小撮炙热钢粉
     S:oredict.dustTinyFirestone.name=小撮火石粉
-    S:oredict.dustTinyFishCooked.name=小撮 熟 Fishmeal
+    S:oredict.dustTinyFishCooked.name=小撮 Cooked Fishmeal
     S:oredict.dustTinyFishRaw.name=小撮 Fishmeal
     S:oredict.dustTinyFishRotten.name=小撮 Rotten Fishmeal
     S:oredict.dustTinyFlerovium.name=小撮Flerovium粉
@@ -21058,7 +21058,7 @@ languagefile {
     S:oredict.dustTinyInolashite.name=小撮暗影秘银蓝金粉
     S:oredict.dustTinyInvar.name=小撮因瓦合金粉
     S:oredict.dustTinyIodine.name=小撮碘粉
-    S:oredict.dustTinyIodineSalt.name=小撮碘盐
+    S:oredict.dustTinyIodineSalt.name=小撮Iodine Salt
     S:oredict.dustTinyIridium.name=小撮铱粉
     S:oredict.dustTinyIron.name=小撮铁粉
     S:oredict.dustTinyIronCompressed.name=小撮压缩铁粉
@@ -21104,7 +21104,7 @@ languagefile {
     S:oredict.dustTinyManganese.name=小撮Manganese粉
     S:oredict.dustTinyManyullyn.name=小撮Manyullyn粉
     S:oredict.dustTinyMarble.name=小撮Marble粉
-    S:oredict.dustTinyMeatCooked.name=小撮 熟 Mince Meat
+    S:oredict.dustTinyMeatCooked.name=小撮 Cooked Mince Meat
     S:oredict.dustTinyMeatRaw.name=小撮 Mince Meat
     S:oredict.dustTinyMeatRotten.name=小撮 Rotten Mince Meat
     S:oredict.dustTinyMeitnerium.name=小撮Meitnerium粉
@@ -21384,7 +21384,7 @@ languagefile {
     S:oredict.dustTinygreenschistname=小撮绿色 Schist粉
     S:oredict.dustTinygreenstone.name=小撮绿色stone粉
     S:oredict.dustTinylead.name=小撮铅粉
-    S:oredict.dustTinymeatCooked.name=小撮熟 Mince 肉
+    S:oredict.dustTinymeatCooked.name=小撮Cooked Mince 肉
     S:oredict.dustTinymeatRaw.name=小撮Mince 肉
     S:oredict.dustTinyorange.name=小撮橙色染料
     S:oredict.dustTinypink.name=小撮粉色染料
@@ -21478,7 +21478,7 @@ languagefile {
     S:oredict.dustgreenschistname=绿色 Schist粉
     S:oredict.dustgreenstone.name=绿色stone粉
     S:oredict.dustlead.name=铅粉
-    S:oredict.dustmeatCooked.name=熟 Mince 肉
+    S:oredict.dustmeatCooked.name=Cooked Mince 肉
     S:oredict.dustmeatRaw.name=Mince 肉
     S:oredict.dustorange.name=橙色染料
     S:oredict.dustorangeSapphire.name=橙色蓝宝石粉
@@ -22428,7 +22428,7 @@ languagefile {
     S:oredict.gemChippedInfusedFire.name=碎裂的火之蕴魔石碎片
     S:oredict.gemChippedInfusedOrder.name=碎裂的秩序蕴魔石碎片
     S:oredict.gemChippedInfusedWater.name=碎裂的水之蕴魔石碎片
-    S:oredict.gemChippedIodineSalt.name=碎裂的碘盐
+    S:oredict.gemChippedIodineSalt.name=碎裂的Iodine Salt
     S:oredict.gemChippedJade.name=碎裂的Jade
     S:oredict.gemChippedJasper.name=碎裂的碧玉
     S:oredict.gemChippedMorganite.name=碎裂的Morganite
@@ -22522,7 +22522,7 @@ languagefile {
     S:oredict.gemFlawedInfusedFire.name=有瑕疵的火之蕴魔石碎片
     S:oredict.gemFlawedInfusedOrder.name=有瑕疵的秩序蕴魔石碎片
     S:oredict.gemFlawedInfusedWater.name=有瑕疵的水之蕴魔石碎片
-    S:oredict.gemFlawedIodineSalt.name=有瑕疵的碘盐
+    S:oredict.gemFlawedIodineSalt.name=有瑕疵的Iodine Salt
     S:oredict.gemFlawedJade.name=有瑕疵的Jade
     S:oredict.gemFlawedJasper.name=有瑕疵的碧玉
     S:oredict.gemFlawedMorganite.name=有瑕疵的Morganite
@@ -25306,7 +25306,7 @@ languagefile {
     S:oredict.nuggetFarnsium.name=Farnsium粒
     S:oredict.nuggetFermium.name=镄粒
     S:oredict.nuggetFierySteel.name=炙热钢粒
-    S:oredict.nuggetFishCooked.name=熟 Fishmeal粒
+    S:oredict.nuggetFishCooked.name=Cooked Fishmeal粒
     S:oredict.nuggetFishRaw.name=Raw Fishmeal粒
     S:oredict.nuggetFishRotten.name=Rotten Fishmeal粒
     S:oredict.nuggetFlerovium.name=鈇粒
@@ -25929,7 +25929,7 @@ languagefile {
     S:oredict.oreBasaltInfusedWater.name=玄武岩水之蕴魔石碎片
     S:oredict.oreBasaltInfusedgold.name=玄武岩附魔金矿石
     S:oredict.oreBasaltIodine.name=玄武岩碘矿石
-    S:oredict.oreBasaltIodineSalt.name=玄武岩碘盐矿石
+    S:oredict.oreBasaltIodineSalt.name=玄武岩Iodine Salt矿石
     S:oredict.oreBasaltIridium.name=玄武岩铱矿石
     S:oredict.oreBasaltIron.name=玄武岩铁矿石
     S:oredict.oreBasaltJade.name=玄武岩Jade矿石
@@ -26413,7 +26413,7 @@ languagefile {
     S:oredict.oreBedrockInfusedWater.name=基岩Infused Water Infused Stone
     S:oredict.oreBedrockInfusedgold.name=基岩Infused 金 矿
     S:oredict.oreBedrockIodine.name=基岩Iodine 矿
-    S:oredict.oreBedrockIodineSalt.name=基岩碘盐 矿
+    S:oredict.oreBedrockIodineSalt.name=基岩Iodine Salt 矿
     S:oredict.oreBedrockIridium.name=基岩Iridium 矿
     S:oredict.oreBedrockIron.name=基岩Iron 矿
     S:oredict.oreBedrockJade.name=基岩Jade 矿
@@ -26893,7 +26893,7 @@ languagefile {
     S:oredict.oreBlackgraniteInfusedOrder.name=黑色花岗岩秩序蕴魔石碎片
     S:oredict.oreBlackgraniteInfusedWater.name=黑色花岗岩水之蕴魔石碎片
     S:oredict.oreBlackgraniteIodine.name=黑色花岗岩碘矿石
-    S:oredict.oreBlackgraniteIodineSalt.name=黑色花岗岩 碘盐 矿
+    S:oredict.oreBlackgraniteIodineSalt.name=黑色花岗岩 Iodine Salt 矿
     S:oredict.oreBlackgraniteIridium.name=黑色花岗岩铱矿石
     S:oredict.oreBlackgraniteIron.name=黑色花岗岩铁矿石
     S:oredict.oreBlackgraniteJade.name=黑色花岗岩Jade矿石
@@ -27439,7 +27439,7 @@ languagefile {
     S:oredict.oreEndstoneInfusedWater.name=末地水之蕴魔石碎片
     S:oredict.oreEndstoneInfusedgold.name=末地附魔金矿石
     S:oredict.oreEndstoneIodine.name=末地碘矿石
-    S:oredict.oreEndstoneIodineSalt.name=End 碘盐矿石
+    S:oredict.oreEndstoneIodineSalt.name=End Iodine Salt矿石
     S:oredict.oreEndstoneIridium.name=末地铱矿石
     S:oredict.oreEndstoneIron.name=末地铁矿石
     S:oredict.oreEndstoneJade.name=末地Jade矿石
@@ -27950,7 +27950,7 @@ languagefile {
     S:oredict.oreGravelInfusedOrder.name=沙砾秩序蕴魔石碎片
     S:oredict.oreGravelInfusedWater.name=沙砾水之蕴魔石碎片
     S:oredict.oreGravelIodine.name=沙砾碘矿石
-    S:oredict.oreGravelIodineSalt.name=沙砾 碘盐矿石
+    S:oredict.oreGravelIodineSalt.name=沙砾 Iodine Salt矿石
     S:oredict.oreGravelIridium.name=沙砾铱矿石
     S:oredict.oreGravelIron.name=沙砾铁矿石
     S:oredict.oreGravelJade.name=沙砾Jade矿石
@@ -28469,7 +28469,7 @@ languagefile {
     S:oredict.oreLimestoneInfusedWater.name=石灰岩 Infused Water Infused Stone
     S:oredict.oreLimestoneInfusedgold.name=石灰岩 Infused 金 矿
     S:oredict.oreLimestoneIodine.name=石灰岩 Iodine 矿
-    S:oredict.oreLimestoneIodineSalt.name=石灰岩 碘盐 矿
+    S:oredict.oreLimestoneIodineSalt.name=石灰岩 Iodine Salt 矿
     S:oredict.oreLimestoneIridium.name=石灰岩 Iridium 矿
     S:oredict.oreLimestoneIron.name=石灰岩 Iron 矿
     S:oredict.oreLimestoneJade.name=石灰岩 Jade 矿
@@ -28956,7 +28956,7 @@ languagefile {
     S:oredict.oreMarbleInfusedWater.name=大理石水之蕴魔石碎片
     S:oredict.oreMarbleInfusedgold.name=大理石附魔金矿石
     S:oredict.oreMarbleIodine.name=大理石碘矿石
-    S:oredict.oreMarbleIodineSalt.name=Marble 碘盐矿石
+    S:oredict.oreMarbleIodineSalt.name=Marble Iodine Salt矿石
     S:oredict.oreMarbleIridium.name=大理石铱矿石
     S:oredict.oreMarbleIron.name=大理石铁矿石
     S:oredict.oreMarbleJade.name=大理石Jade矿石
@@ -29461,7 +29461,7 @@ languagefile {
     S:oredict.oreNetherrackInfusedWater.name=地狱Infused Water Infused 石头
     S:oredict.oreNetherrackInfusedgold.name=地狱Infused 金矿石
     S:oredict.oreNetherrackIodine.name=地狱Iodine矿石
-    S:oredict.oreNetherrackIodineSalt.name=Nether 碘盐矿石
+    S:oredict.oreNetherrackIodineSalt.name=Nether Iodine Salt矿石
     S:oredict.oreNetherrackIridium.name=地狱铱矿石
     S:oredict.oreNetherrackIron.name=地狱铁矿石
     S:oredict.oreNetherrackJade.name=地狱Jade矿石
@@ -29992,7 +29992,7 @@ languagefile {
     S:oredict.oreRedSandInfusedOrder.name=红沙秩序蕴魔石碎片
     S:oredict.oreRedSandInfusedWater.name=红沙水之蕴魔石碎片
     S:oredict.oreRedSandIodine.name=红沙碘矿石
-    S:oredict.oreRedSandIodineSalt.name=Sand 碘盐矿石
+    S:oredict.oreRedSandIodineSalt.name=Sand Iodine Salt矿石
     S:oredict.oreRedSandIridium.name=红沙铱矿石
     S:oredict.oreRedSandIron.name=红沙铁矿石
     S:oredict.oreRedSandJade.name=红沙Jade矿石
@@ -30476,7 +30476,7 @@ languagefile {
     S:oredict.oreRedgraniteInfusedOrder.name=红花岗岩秩序蕴魔石碎片
     S:oredict.oreRedgraniteInfusedWater.name=红花岗岩水之蕴魔石碎片
     S:oredict.oreRedgraniteIodine.name=红花岗岩碘矿石
-    S:oredict.oreRedgraniteIodineSalt.name=红花岗岩碘盐矿石
+    S:oredict.oreRedgraniteIodineSalt.name=红花岗岩Iodine Salt矿石
     S:oredict.oreRedgraniteIridium.name=红花岗岩铱矿石
     S:oredict.oreRedgraniteIron.name=红花岗岩铁矿石
     S:oredict.oreRedgraniteJade.name=红花岗岩Jade矿石
@@ -30974,7 +30974,7 @@ languagefile {
     S:oredict.oreSandInfusedOrder.name=秩序蕴魔石碎片
     S:oredict.oreSandInfusedWater.name=水之蕴魔石碎片
     S:oredict.oreSandIodine.name=碘矿沙
-    S:oredict.oreSandIodineSalt.name=Sand 碘盐 矿
+    S:oredict.oreSandIodineSalt.name=Sand Iodine Salt 矿
     S:oredict.oreSandIridium.name=铱矿沙
     S:oredict.oreSandIron.name=铁矿沙
     S:oredict.oreSandJade.name=翡翠矿沙
@@ -31455,7 +31455,7 @@ languagefile {
     S:oredict.oreSandstoneInfusedOrder.name=沙石秩序蕴魔石碎片
     S:oredict.oreSandstoneInfusedWater.name=沙石水之蕴魔石碎片
     S:oredict.oreSandstoneIodine.name=沙石碘矿石
-    S:oredict.oreSandstoneIodineSalt.name=Sandstone 碘盐矿石
+    S:oredict.oreSandstoneIodineSalt.name=Sandstone Iodine Salt矿石
     S:oredict.oreSandstoneIridium.name=沙石铱矿石
     S:oredict.oreSandstoneIron.name=沙石铁矿石
     S:oredict.oreSandstoneJade.name=沙石Jade矿石
@@ -31952,7 +31952,7 @@ languagefile {
     S:oredict.oreSmallInfusedOrder.name=贫瘠秩序蕴魔石碎片
     S:oredict.oreSmallInfusedWater.name=贫瘠水之蕴魔石碎片
     S:oredict.oreSmallIodine.name=贫瘠碘矿石
-    S:oredict.oreSmallIodineSalt.name=小型碘盐矿石
+    S:oredict.oreSmallIodineSalt.name=小型Iodine Salt矿石
     S:oredict.oreSmallIridium.name=贫瘠铱矿石
     S:oredict.oreSmallIron.name=贫瘠铁矿石
     S:oredict.oreSmallJade.name=贫瘠Jade矿石
@@ -32499,7 +32499,7 @@ languagefile {
     S:oredict.oreblackgraniteInfusedWater.name=黑色花岗岩水之蕴魔石碎片
     S:oredict.oreblackgraniteInfusedgold.name=黑色花岗岩附魔金矿石
     S:oredict.oreblackgraniteIodine.name=黑色花岗岩碘矿石
-    S:oredict.oreblackgraniteIodineSalt.name=黑色花岗岩 碘盐矿石
+    S:oredict.oreblackgraniteIodineSalt.name=黑色花岗岩 Iodine Salt矿石
     S:oredict.oreblackgraniteIridium.name=黑色花岗岩铱矿石
     S:oredict.oreblackgraniteIron.name=黑色花岗岩铁矿石
     S:oredict.oreblackgraniteJade.name=黑色花岗岩Jade矿石
@@ -33029,7 +33029,7 @@ languagefile {
     S:oredict.plantGtBerryFerrovanadium.name=Ferrovanadium梅
     S:oredict.plantGtBerryFierySteel.name=炙热钢梅
     S:oredict.plantGtBerryFirestone.name=火石梅
-    S:oredict.plantGtBerryFishCooked.name=熟 Fishmeal梅
+    S:oredict.plantGtBerryFishCooked.name=Cooked Fishmeal梅
     S:oredict.plantGtBerryFishOil.name=鱼 油梅
     S:oredict.plantGtBerryFishRaw.name=Raw Fishmeal梅
     S:oredict.plantGtBerryFishRotten.name=Rotten Fishmeal梅
@@ -33825,7 +33825,7 @@ languagefile {
     S:oredict.plantGtBlossomFerrovanadium.name=Ferrovanadium 花
     S:oredict.plantGtBlossomFierySteel.name=炙热钢花
     S:oredict.plantGtBlossomFirestone.name=火石花
-    S:oredict.plantGtBlossomFishCooked.name=熟 Fishmeal 花
+    S:oredict.plantGtBlossomFishCooked.name=Cooked Fishmeal 花
     S:oredict.plantGtBlossomFishOil.name=鱼 油花
     S:oredict.plantGtBlossomFishRaw.name=Raw Fishmeal 花
     S:oredict.plantGtBlossomFishRotten.name=Rotten Fishmeal 花
@@ -34621,7 +34621,7 @@ languagefile {
     S:oredict.plantGtFiberFerrovanadium.name=Raw Ferrovanadium纤维
     S:oredict.plantGtFiberFierySteel.name=粗糙的Fiery Steel纤维
     S:oredict.plantGtFiberFirestone.name=粗糙的Firestone纤维
-    S:oredict.plantGtFiberFishCooked.name=Raw 熟 Fishmeal Fiber
+    S:oredict.plantGtFiberFishCooked.name=Raw Cooked Fishmeal Fiber
     S:oredict.plantGtFiberFishOil.name=粗糙的鱼 油纤维
     S:oredict.plantGtFiberFishRaw.name=Raw Raw Fishmeal Fiber
     S:oredict.plantGtFiberFishRotten.name=Raw Rotten Fishmeal Fiber
@@ -34708,7 +34708,7 @@ languagefile {
     S:oredict.plantGtFiberInolashite.name=粗糙的Inolashite纤维
     S:oredict.plantGtFiberInvar.name=粗糙的Invar纤维
     S:oredict.plantGtFiberIodine.name=粗糙的Iodine纤维
-    S:oredict.plantGtFiberIodineSalt.name=粗糙的碘盐纤维
+    S:oredict.plantGtFiberIodineSalt.name=粗糙的Iodine Salt纤维
     S:oredict.plantGtFiberIridium.name=粗糙的Iridium纤维
     S:oredict.plantGtFiberIron.name=粗糙的Iron纤维
     S:oredict.plantGtFiberIronCompressed.name=粗糙的Compressed Iron纤维
@@ -35415,7 +35415,7 @@ languagefile {
     S:oredict.plantGtTwigFerrovanadium.name=Ferrovanadium细枝
     S:oredict.plantGtTwigFierySteel.name=炙热钢细枝
     S:oredict.plantGtTwigFirestone.name=火石细枝
-    S:oredict.plantGtTwigFishCooked.name=熟 Fishmeal Twig
+    S:oredict.plantGtTwigFishCooked.name=Cooked Fishmeal Twig
     S:oredict.plantGtTwigFishOil.name=鱼 油细枝
     S:oredict.plantGtTwigFishRaw.name=Raw Fishmeal Twig
     S:oredict.plantGtTwigFishRotten.name=Rotten Fishmeal Twig
@@ -36211,7 +36211,7 @@ languagefile {
     S:oredict.plantGtWartFerrovanadium.name=Ferrovanadium疣
     S:oredict.plantGtWartFierySteel.name=炙热钢疣
     S:oredict.plantGtWartFirestone.name=火石疣
-    S:oredict.plantGtWartFishCooked.name=熟 Fishmeal Wart
+    S:oredict.plantGtWartFishCooked.name=Cooked Fishmeal Wart
     S:oredict.plantGtWartFishOil.name=鱼 油疣
     S:oredict.plantGtWartFishRaw.name=Raw Fishmeal Wart
     S:oredict.plantGtWartFishRotten.name=Rotten Fishmeal Wart
@@ -41047,7 +41047,7 @@ languagefile {
     S:oredict.scrapGtFerrovanadium.name=Ferrovanadium 废料
     S:oredict.scrapGtFierySteel.name=炙热钢废料
     S:oredict.scrapGtFirestone.name=火石废料
-    S:oredict.scrapGtFishCooked.name=熟 Fishmeal 废料
+    S:oredict.scrapGtFishCooked.name=Cooked Fishmeal 废料
     S:oredict.scrapGtFishRaw.name=Raw Fishmeal 废料
     S:oredict.scrapGtFishRotten.name=Rotten Fishmeal 废料
     S:oredict.scrapGtFlerovium.name=鈇废料
@@ -43550,7 +43550,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleVibraniumSteel.name=Vibranium Steel双刃斧头
     S:oredict.toolHeadAxeDoubleVibrantAlloy.name=Vibrant合金 双刃斧
     S:oredict.toolHeadAxeDoubleVinteum.name=古蓝石双刃斧头
-    S:oredict.toolHeadAxeDoubleVinteumPurified.name=Purified Vinteum 双刃斧头
+    S:oredict.toolHeadAxeDoubleVinteumPurified.name=Purified Vinteum Double Axe Head
     S:oredict.toolHeadAxeDoubleVoidMetal.name=虚空金属双刃斧头
     S:oredict.toolHeadAxeDoubleVulcanite.name=熔岩结晶双刃斧头
     S:oredict.toolHeadAxeDoubleVyroxeres.name=幽冥剧毒结晶双刃斧头
@@ -43712,12 +43712,12 @@ languagefile {
     S:oredict.toolHeadAxeVibraniumSteel.name=Vibranium钢斧头
     S:oredict.toolHeadAxeVibrantAlloy.name=Vibrant合金 斧头
     S:oredict.toolHeadAxeVinteum.name=古蓝石斧头
-    S:oredict.toolHeadAxeVinteumPurified.name=Purified Vinteum 斧头
+    S:oredict.toolHeadAxeVinteumPurified.name=Purified Vinteum Axe Head
     S:oredict.toolHeadAxeVoidMetal.name=虚空金属斧头
     S:oredict.toolHeadAxeVulcanite.name=熔岩结晶斧头
     S:oredict.toolHeadAxeVyroxeres.name=幽冥剧毒结晶斧头
     S:oredict.toolHeadAxeWood.name=木斧头
-    S:oredict.toolHeadAxeWoodPolished.name=抛光木 斧头
+    S:oredict.toolHeadAxeWoodPolished.name=抛光木 Axe Head
     S:oredict.toolHeadAxeWoodRubber.name=Rubber木 斧头
     S:oredict.toolHeadAxeWoodSealed.name=防腐木斧头
     S:oredict.toolHeadAxeWroughtIron.name=熟铁斧头
@@ -43753,14 +43753,14 @@ languagefile {
     S:oredict.toolHeadBuzzSawAredrite.name=希尔金圆锯片
     S:oredict.toolHeadBuzzSawAstralSilver.name=星辰银圆锯片
     S:oredict.toolHeadBuzzSawAtlarus.name=深金圆锯片
-    S:oredict.toolHeadBuzzSawBalasRuby.name=红宝石 圆锯片
+    S:oredict.toolHeadBuzzSawBalasRuby.name=红宝石 Buzz锯片
     S:oredict.toolHeadBuzzSawBedrockHSLAAlloy.name=基岩HSLA钢 圆锯片
     S:oredict.toolHeadBuzzSawBeryllium.name=铍圆锯片
     S:oredict.toolHeadBuzzSawBismuth.name=铋圆锯片
     S:oredict.toolHeadBuzzSawBismuthBronze.name=铋青铜圆锯片
-    S:oredict.toolHeadBuzzSawBlackBronze.name=乌铜 圆锯片
-    S:oredict.toolHeadBuzzSawBlackSteel.name=碳钢 圆锯片
-    S:oredict.toolHeadBuzzSawBlueSapphire.name=蓝宝石圆锯片
+    S:oredict.toolHeadBuzzSawBlackBronze.name=乌铜 Buzz锯片
+    S:oredict.toolHeadBuzzSawBlackSteel.name=碳钢 Buzz锯片
+    S:oredict.toolHeadBuzzSawBlueSapphire.name=蓝宝石Buzz锯片
     S:oredict.toolHeadBuzzSawBlueSteel.name=蓝钢圆锯片
     S:oredict.toolHeadBuzzSawBlueTopaz.name=蓝色黄玉圆锯片
     S:oredict.toolHeadBuzzSawBlueschist.name=蓝色 Schist 圆锯片
@@ -43807,9 +43807,9 @@ languagefile {
     S:oredict.toolHeadBuzzSawForce.name=力量圆锯片
     S:oredict.toolHeadBuzzSawGildedIron.name=镀金铁 圆锯片
     S:oredict.toolHeadBuzzSawGneiss.name=片麻岩 圆锯片
-    S:oredict.toolHeadBuzzSawGold.name=金 圆锯片
-    S:oredict.toolHeadBuzzSawGreenSapphire.name=绿色蓝宝石 圆锯片
-    S:oredict.toolHeadBuzzSawGreenschist.name=绿片岩 圆锯片
+    S:oredict.toolHeadBuzzSawGold.name=金 Buzz锯片
+    S:oredict.toolHeadBuzzSawGreenSapphire.name=绿色蓝宝石 Buzz锯片
+    S:oredict.toolHeadBuzzSawGreenschist.name=绿片岩 Buzz锯片
     S:oredict.toolHeadBuzzSawGreywacke.name=杂砂岩 圆锯片
     S:oredict.toolHeadBuzzSawGrossular.name=钙铝榴石 圆锯片
     S:oredict.toolHeadBuzzSawHSLASpringSteel.name=弹簧钢 圆锯片
@@ -43821,7 +43821,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawInfusedEarth.name=地之蕴魔石碎片圆锯片
     S:oredict.toolHeadBuzzSawInfusedEntropy.name=混沌蕴魔石碎片圆锯片
     S:oredict.toolHeadBuzzSawInfusedFire.name=火之蕴魔石碎片圆锯片
-    S:oredict.toolHeadBuzzSawInfusedGold.name=附魔金 圆锯片
+    S:oredict.toolHeadBuzzSawInfusedGold.name=附魔金 Buzz锯片
     S:oredict.toolHeadBuzzSawInfusedOrder.name=秩序蕴魔石碎片圆锯片
     S:oredict.toolHeadBuzzSawInfusedWater.name=水之蕴魔石碎片圆锯片
     S:oredict.toolHeadBuzzSawInfusedgold.name=附魔金圆锯片
@@ -43836,7 +43836,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawKanthal.name=铁铬铝合金圆锯片
     S:oredict.toolHeadBuzzSawKnightmetal.name=骑士金属圆锯片
     S:oredict.toolHeadBuzzSawKomatiite.name=科马提岩 圆锯片
-    S:oredict.toolHeadBuzzSawLead.name=铅 圆锯片
+    S:oredict.toolHeadBuzzSawLead.name=铅 Buzz锯片
     S:oredict.toolHeadBuzzSawMagnalium.name=镁铝合金圆锯片
     S:oredict.toolHeadBuzzSawManganese.name=锰圆锯片
     S:oredict.toolHeadBuzzSawManyullyn.name=玛玉灵圆锯片
@@ -43859,15 +43859,15 @@ languagefile {
     S:oredict.toolHeadBuzzSawNickel.name=镍圆锯片
     S:oredict.toolHeadBuzzSawOlivine.name=橄榄石圆锯片
     S:oredict.toolHeadBuzzSawOpal.name=猫眼石圆锯片
-    S:oredict.toolHeadBuzzSawOrangeSapphire.name=橙色蓝宝石 圆锯片
+    S:oredict.toolHeadBuzzSawOrangeSapphire.name=橙色蓝宝石 Buzz锯片
     S:oredict.toolHeadBuzzSawOrichalcum.name=自然之石圆锯片
     S:oredict.toolHeadBuzzSawOsmiridium.name=铱锇合金圆锯片
     S:oredict.toolHeadBuzzSawOsmium.name=锇圆锯片
-    S:oredict.toolHeadBuzzSawOsmiumElemental.name=Osmium 圆锯片
+    S:oredict.toolHeadBuzzSawOsmiumElemental.name=Osmium Buzz锯片
     S:oredict.toolHeadBuzzSawOureclase.name=大地结晶圆锯片
     S:oredict.toolHeadBuzzSawPalladium.name=钯圆锯片
     S:oredict.toolHeadBuzzSawPigIron.name=生铁圆锯片
-    S:oredict.toolHeadBuzzSawPlatinum.name=Platinum 圆锯片
+    S:oredict.toolHeadBuzzSawPlatinum.name=Platinum Buzz锯片
     S:oredict.toolHeadBuzzSawPlutonium.name=钚圆锯片
     S:oredict.toolHeadBuzzSawPlutonium241.name=钚-241圆锯片
     S:oredict.toolHeadBuzzSawPlutonium243.name=钚-243圆锯片
@@ -43877,7 +43877,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawQuartzite.name=石英岩圆锯片
     S:oredict.toolHeadBuzzSawRedSteel.name=红钢圆锯片
     S:oredict.toolHeadBuzzSawRhyolite.name=Rhyolite 圆锯片
-    S:oredict.toolHeadBuzzSawRoseGold.name=玫瑰金 圆锯片
+    S:oredict.toolHeadBuzzSawRoseGold.name=玫瑰金 Buzz锯片
     S:oredict.toolHeadBuzzSawRosegold.name=玫瑰金圆锯片
     S:oredict.toolHeadBuzzSawRuby.name=红宝石圆锯片
     S:oredict.toolHeadBuzzSawSanguinite.name=狱炎石圆锯片
@@ -43889,7 +43889,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawSilver.name=银圆锯片
     S:oredict.toolHeadBuzzSawSoularium.name=Soularium 圆锯片
     S:oredict.toolHeadBuzzSawSpessartine.name=Spessartine 圆锯片
-    S:oredict.toolHeadBuzzSawSpinel.name=Spinel 圆锯片
+    S:oredict.toolHeadBuzzSawSpinel.name=Spinel Buzz锯片
     S:oredict.toolHeadBuzzSawStainlessSteel.name=不锈钢圆锯片
     S:oredict.toolHeadBuzzSawSteel.name=钢圆锯片
     S:oredict.toolHeadBuzzSawSteelGalvanized.name=Galvanized Steel 圆锯片
@@ -43902,13 +43902,13 @@ languagefile {
     S:oredict.toolHeadBuzzSawTinAlloy.name=锡合金圆锯片
     S:oredict.toolHeadBuzzSawTitanium.name=钛圆锯片
     S:oredict.toolHeadBuzzSawTopaz.name=黄玉圆锯片
-    S:oredict.toolHeadBuzzSawTrinaquadalloy.name=Trinaquadalloy 圆锯片
-    S:oredict.toolHeadBuzzSawTrinitanium.name=三钛 圆锯片
-    S:oredict.toolHeadBuzzSawTrinium.name=氚 圆锯片
+    S:oredict.toolHeadBuzzSawTrinaquadalloy.name=Trinaquadalloy Buzz锯片
+    S:oredict.toolHeadBuzzSawTrinitanium.name=三钛 Buzz锯片
+    S:oredict.toolHeadBuzzSawTrinium.name=氚 Buzz锯片
     S:oredict.toolHeadBuzzSawTritanium.name=三钛合金圆锯片
     S:oredict.toolHeadBuzzSawTungsten.name=钨圆锯片
     S:oredict.toolHeadBuzzSawTungstenCarbide.name=Tungsten Carbide 圆锯片
-    S:oredict.toolHeadBuzzSawTungstenSintered.name=Sintered Tungsten 圆锯片
+    S:oredict.toolHeadBuzzSawTungstenSintered.name=Sintered Tungsten Buzz锯片
     S:oredict.toolHeadBuzzSawTungstensteel.name=钨钢圆锯片
     S:oredict.toolHeadBuzzSawUltimet.name=哈氏合金圆锯片
     S:oredict.toolHeadBuzzSawUranium.name=铀圆锯片
@@ -43920,21 +43920,21 @@ languagefile {
     S:oredict.toolHeadBuzzSawVibraniumSteel.name=Vibranium Steel圆锯片
     S:oredict.toolHeadBuzzSawVibrantAlloy.name=Vibrant合金 圆锯片
     S:oredict.toolHeadBuzzSawVinteum.name=古蓝石圆锯片
-    S:oredict.toolHeadBuzzSawVinteumPurified.name=Purified Vinteum 圆锯片
+    S:oredict.toolHeadBuzzSawVinteumPurified.name=Purified Vinteum Buzz锯片
     S:oredict.toolHeadBuzzSawVoidMetal.name=虚空金属圆锯片
     S:oredict.toolHeadBuzzSawVulcanite.name=熔岩结晶圆锯片
     S:oredict.toolHeadBuzzSawVyroxeres.name=幽冥剧毒结晶圆锯片
     S:oredict.toolHeadBuzzSawWroughtIron.name=熟铁圆锯片
-    S:oredict.toolHeadBuzzSawYellowSapphire.name=黄色蓝宝石 圆锯片
+    S:oredict.toolHeadBuzzSawYellowSapphire.name=黄色蓝宝石 Buzz锯片
     S:oredict.toolHeadBuzzSawblackBronze.name=乌铜圆锯片
     S:oredict.toolHeadBuzzSawblackSteel.name=碳钢圆锯片
     S:oredict.toolHeadBuzzSawgold.name=金圆锯片
     S:oredict.toolHeadBuzzSawgreenSapphire.name=绿色蓝宝石圆锯片
     S:oredict.toolHeadBuzzSawgreenschistname=绿色 Schist 圆锯片
     S:oredict.toolHeadBuzzSawlead.name=铅圆锯片
-    S:oredict.toolHeadBuzzSaworangeSapphire.name=橙色蓝宝石圆锯片
+    S:oredict.toolHeadBuzzSaworangeSapphire.name=橙色蓝宝石Buzz锯片
     S:oredict.toolHeadBuzzSawplatinum.name=铂圆锯片
-    S:oredict.toolHeadBuzzSawyellowSapphire.name=黄色蓝宝石圆锯片
+    S:oredict.toolHeadBuzzSawyellowSapphire.name=黄色蓝宝石Buzz锯片
     S:oredict.toolHeadChainsawAdamantium.name=艾德曼合金电锯头
     S:oredict.toolHeadChainsawAlmandine.name=铁铝榴石 电锯头
     S:oredict.toolHeadChainsawAluminium.name=铝电锯头
@@ -43957,13 +43957,13 @@ languagefile {
     S:oredict.toolHeadChainsawAredrite.name=阿迪特电锯头
     S:oredict.toolHeadChainsawAstralSilver.name=星辰银电锯头
     S:oredict.toolHeadChainsawAtlarus.name=深金电锯头
-    S:oredict.toolHeadChainsawBalasRuby.name=红宝石 电锯头
+    S:oredict.toolHeadChainsawBalasRuby.name=红宝石 Chainsaw Tip
     S:oredict.toolHeadChainsawBedrockHSLAAlloy.name=基岩HSLA钢 电锯头
     S:oredict.toolHeadChainsawBeryllium.name=铍电锯头
     S:oredict.toolHeadChainsawBismuth.name=铋电锯头
     S:oredict.toolHeadChainsawBismuthBronze.name=铋青铜电锯头
-    S:oredict.toolHeadChainsawBlackBronze.name=乌铜 电锯头
-    S:oredict.toolHeadChainsawBlackSteel.name=碳钢 电锯头
+    S:oredict.toolHeadChainsawBlackBronze.name=乌铜 Chainsaw Tip
+    S:oredict.toolHeadChainsawBlackSteel.name=碳钢 Chainsaw Tip
     S:oredict.toolHeadChainsawBlueSapphire.name=蓝宝石电锯头
     S:oredict.toolHeadChainsawBlueSteel.name=蓝钢电锯头
     S:oredict.toolHeadChainsawBlueTopaz.name=蓝色黄玉电锯头
@@ -44011,9 +44011,9 @@ languagefile {
     S:oredict.toolHeadChainsawForce.name=力量电锯头
     S:oredict.toolHeadChainsawGildedIron.name=镀金铁 电锯头
     S:oredict.toolHeadChainsawGneiss.name=片麻岩 电锯头
-    S:oredict.toolHeadChainsawGold.name=金 电锯头
-    S:oredict.toolHeadChainsawGreenSapphire.name=绿色蓝宝石 电锯头
-    S:oredict.toolHeadChainsawGreenschist.name=绿片岩 电锯头
+    S:oredict.toolHeadChainsawGold.name=金 Chainsaw Tip
+    S:oredict.toolHeadChainsawGreenSapphire.name=绿色蓝宝石 Chainsaw Tip
+    S:oredict.toolHeadChainsawGreenschist.name=绿片岩 Chainsaw Tip
     S:oredict.toolHeadChainsawGreywacke.name=杂砂岩 电锯头
     S:oredict.toolHeadChainsawGrossular.name=钙铝榴石 电锯头
     S:oredict.toolHeadChainsawHSLASpringSteel.name=弹簧钢 电锯头
@@ -44025,7 +44025,7 @@ languagefile {
     S:oredict.toolHeadChainsawInfusedEarth.name=地之蕴魔石碎片电锯头
     S:oredict.toolHeadChainsawInfusedEntropy.name=混沌蕴魔石碎片电锯头
     S:oredict.toolHeadChainsawInfusedFire.name=火之蕴魔石碎片电锯头
-    S:oredict.toolHeadChainsawInfusedGold.name=附魔金 电锯头
+    S:oredict.toolHeadChainsawInfusedGold.name=附魔金 Chainsaw Tip
     S:oredict.toolHeadChainsawInfusedOrder.name=秩序蕴魔石碎片电锯头
     S:oredict.toolHeadChainsawInfusedWater.name=水之蕴魔石碎片电锯头
     S:oredict.toolHeadChainsawInfusedgold.name=附魔金电锯头
@@ -44040,7 +44040,7 @@ languagefile {
     S:oredict.toolHeadChainsawKanthal.name=铁铬铝合金电锯头
     S:oredict.toolHeadChainsawKnightmetal.name=骑士金属电锯头
     S:oredict.toolHeadChainsawKomatiite.name=科马提岩 电锯头
-    S:oredict.toolHeadChainsawLead.name=铅 电锯头
+    S:oredict.toolHeadChainsawLead.name=铅 Chainsaw Tip
     S:oredict.toolHeadChainsawMagnalium.name=镁铝合金电锯头
     S:oredict.toolHeadChainsawManganese.name=锰电锯头
     S:oredict.toolHeadChainsawManyullyn.name=玛玉灵电锯头
@@ -44063,15 +44063,15 @@ languagefile {
     S:oredict.toolHeadChainsawNickel.name=镍电锯头
     S:oredict.toolHeadChainsawOlivine.name=橄榄石电锯头
     S:oredict.toolHeadChainsawOpal.name=猫眼石电锯头
-    S:oredict.toolHeadChainsawOrangeSapphire.name=橙色蓝宝石 电锯头
+    S:oredict.toolHeadChainsawOrangeSapphire.name=橙色蓝宝石 Chainsaw Tip
     S:oredict.toolHeadChainsawOrichalcum.name=自然之石电锯头
     S:oredict.toolHeadChainsawOsmiridium.name=铱锇合金电锯头
     S:oredict.toolHeadChainsawOsmium.name=锇电锯头
-    S:oredict.toolHeadChainsawOsmiumElemental.name=Osmium 电锯头
+    S:oredict.toolHeadChainsawOsmiumElemental.name=Osmium Chainsaw Tip
     S:oredict.toolHeadChainsawOureclase.name=大地结晶电锯头
     S:oredict.toolHeadChainsawPalladium.name=钯电锯头
     S:oredict.toolHeadChainsawPigIron.name=生铁电锯头
-    S:oredict.toolHeadChainsawPlatinum.name=Platinum 电锯头
+    S:oredict.toolHeadChainsawPlatinum.name=Platinum Chainsaw Tip
     S:oredict.toolHeadChainsawPlutonium.name=钚电锯头
     S:oredict.toolHeadChainsawPlutonium241.name=钚-241电锯头
     S:oredict.toolHeadChainsawPlutonium243.name=钚-243电锯头
@@ -44081,7 +44081,7 @@ languagefile {
     S:oredict.toolHeadChainsawQuartzite.name=石英岩电锯头
     S:oredict.toolHeadChainsawRedSteel.name=红钢电锯头
     S:oredict.toolHeadChainsawRhyolite.name=Rhyolite 电锯头
-    S:oredict.toolHeadChainsawRoseGold.name=玫瑰金 电锯头
+    S:oredict.toolHeadChainsawRoseGold.name=玫瑰金 Chainsaw Tip
     S:oredict.toolHeadChainsawRosegold.name=玫瑰金电锯头
     S:oredict.toolHeadChainsawRuby.name=红宝石电锯头
     S:oredict.toolHeadChainsawSanguinite.name=狱炎石电锯头
@@ -44093,7 +44093,7 @@ languagefile {
     S:oredict.toolHeadChainsawSilver.name=银电锯头
     S:oredict.toolHeadChainsawSoularium.name=Soularium 电锯头
     S:oredict.toolHeadChainsawSpessartine.name=Spessartine 电锯头
-    S:oredict.toolHeadChainsawSpinel.name=Spinel 电锯头
+    S:oredict.toolHeadChainsawSpinel.name=Spinel Chainsaw Tip
     S:oredict.toolHeadChainsawStainlessSteel.name=不锈钢电锯头
     S:oredict.toolHeadChainsawSteel.name=钢电锯头
     S:oredict.toolHeadChainsawSteelGalvanized.name=Galvanized Steel 电锯头
@@ -44106,13 +44106,13 @@ languagefile {
     S:oredict.toolHeadChainsawTinAlloy.name=锡合金电锯头
     S:oredict.toolHeadChainsawTitanium.name=钛电锯头
     S:oredict.toolHeadChainsawTopaz.name=黄玉电锯头
-    S:oredict.toolHeadChainsawTrinaquadalloy.name=Trinaquadalloy 电锯头
-    S:oredict.toolHeadChainsawTrinitanium.name=三钛电锯头
-    S:oredict.toolHeadChainsawTrinium.name=氚 电锯头
+    S:oredict.toolHeadChainsawTrinaquadalloy.name=Trinaquadalloy Chainsaw Tip
+    S:oredict.toolHeadChainsawTrinitanium.name=三钛 Chainsaw Tip
+    S:oredict.toolHeadChainsawTrinium.name=氚 Chainsaw Tip
     S:oredict.toolHeadChainsawTritanium.name=三钛合金电锯头
     S:oredict.toolHeadChainsawTungsten.name=钨电锯头
     S:oredict.toolHeadChainsawTungstenCarbide.name=Tungsten Carbide 电锯头
-    S:oredict.toolHeadChainsawTungstenSintered.name=Sintered Tungsten 电锯头
+    S:oredict.toolHeadChainsawTungstenSintered.name=Sintered Tungsten Chainsaw Tip
     S:oredict.toolHeadChainsawTungstensteel.name=钨钢电锯头
     S:oredict.toolHeadChainsawUltimet.name=哈氏合金电锯头
     S:oredict.toolHeadChainsawUranium.name=铀电锯头
@@ -44124,12 +44124,12 @@ languagefile {
     S:oredict.toolHeadChainsawVibraniumSteel.name=Vibranium Steel电锯头
     S:oredict.toolHeadChainsawVibrantAlloy.name=Vibrant合金 电锯头
     S:oredict.toolHeadChainsawVinteum.name=古蓝石电锯头
-    S:oredict.toolHeadChainsawVinteumPurified.name=Purified Vinteum 电锯头
+    S:oredict.toolHeadChainsawVinteumPurified.name=Purified Vinteum Chainsaw Tip
     S:oredict.toolHeadChainsawVoidMetal.name=虚空金属电锯头
     S:oredict.toolHeadChainsawVulcanite.name=熔岩结晶电锯头
     S:oredict.toolHeadChainsawVyroxeres.name=幽冥剧毒结晶电锯头
     S:oredict.toolHeadChainsawWroughtIron.name=熟铁电锯头
-    S:oredict.toolHeadChainsawYellowSapphire.name=黄色蓝宝石 电锯头
+    S:oredict.toolHeadChainsawYellowSapphire.name=黄色蓝宝石 Chainsaw Tip
     S:oredict.toolHeadChainsawblackBronze.name=乌铜电锯头
     S:oredict.toolHeadChainsawblackSteel.name=碳钢电锯头
     S:oredict.toolHeadChainsawgold.name=金电锯头
@@ -44740,7 +44740,7 @@ languagefile {
     S:oredict.toolHeadDrillVibraniumSteel.name=Vibranium Steel钻头
     S:oredict.toolHeadDrillVibrantAlloy.name=Vibrant合金 钻头
     S:oredict.toolHeadDrillVinteum.name=古蓝石钻头
-    S:oredict.toolHeadDrillVinteumPurified.name=Purified Vinteum 钻头
+    S:oredict.toolHeadDrillVinteumPurified.name=Purified Vinteum Drill Tip
     S:oredict.toolHeadDrillVoidMetal.name=虚空金属钻头
     S:oredict.toolHeadDrillVulcanite.name=熔岩结晶钻头
     S:oredict.toolHeadDrillVyroxeres.name=幽冥剧毒结晶钻头
@@ -45162,7 +45162,7 @@ languagefile {
     S:oredict.toolHeadHammerVibraniumSteel.name=Vibranium Steel锤头
     S:oredict.toolHeadHammerVibrantAlloy.name=Vibrant合金锤头
     S:oredict.toolHeadHammerVinteum.name=古蓝石锤头
-    S:oredict.toolHeadHammerVinteumPurified.name=Purified Vinteum 锤头
+    S:oredict.toolHeadHammerVinteumPurified.name=Purified Vinteum Hammer Head
     S:oredict.toolHeadHammerVoidMetal.name=虚空金属锤头
     S:oredict.toolHeadHammerVulcanite.name=熔岩结晶锤头
     S:oredict.toolHeadHammerVyroxeres.name=幽冥剧毒结晶锤头
@@ -46359,7 +46359,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleVibraniumSteel.name=粗糙的Vibranium Steel双刃斧
     S:oredict.toolHeadRawAxeDoubleVibrantAlloy.name=粗糙的Vibrant合金 双刃斧
     S:oredict.toolHeadRawAxeDoubleVinteum.name=粗糙的古蓝石双刃斧
-    S:oredict.toolHeadRawAxeDoubleVinteumPurified.name=Raw Purified Vinteum 双刃斧头
+    S:oredict.toolHeadRawAxeDoubleVinteumPurified.name=Raw Purified Vinteum Double Axe Head
     S:oredict.toolHeadRawAxeDoubleVoidMetal.name=粗糙的虚空金属双刃斧
     S:oredict.toolHeadRawAxeDoubleVulcanite.name=粗糙的熔岩结晶双刃斧
     S:oredict.toolHeadRawAxeDoubleVyroxeres.name=粗糙的幽冥剧毒结晶双刃斧
@@ -46521,12 +46521,12 @@ languagefile {
     S:oredict.toolHeadRawAxeVibraniumSteel.name=粗糙的Vibranium Steel斧头
     S:oredict.toolHeadRawAxeVibrantAlloy.name=粗糙的Vibrant合金 斧头
     S:oredict.toolHeadRawAxeVinteum.name=粗糙的古蓝石斧头
-    S:oredict.toolHeadRawAxeVinteumPurified.name=Raw Purified Vinteum 斧头
+    S:oredict.toolHeadRawAxeVinteumPurified.name=Raw Purified Vinteum Axe Head
     S:oredict.toolHeadRawAxeVoidMetal.name=粗糙的虚空金属斧头
     S:oredict.toolHeadRawAxeVulcanite.name=粗糙的熔岩结晶斧头
     S:oredict.toolHeadRawAxeVyroxeres.name=粗糙的幽冥剧毒结晶斧头
     S:oredict.toolHeadRawAxeWood.name=粗糙的木斧头
-    S:oredict.toolHeadRawAxeWoodPolished.name=Raw 抛光木 斧头
+    S:oredict.toolHeadRawAxeWoodPolished.name=Raw 抛光木 Axe Head
     S:oredict.toolHeadRawAxeWoodRubber.name=粗糙的Rubber木 斧头
     S:oredict.toolHeadRawAxeWoodSealed.name=粗糙的防腐木斧头
     S:oredict.toolHeadRawAxeWroughtIron.name=粗糙的熟铁斧头
@@ -50232,8 +50232,8 @@ languagefile {
     S:tc.research_text.GT_FILL_WATER_BUCKET=[GT] 凭空生水灌满你的桶
     S:tc.research_text.GT_IRON_TO_STEEL=[GT] 转换铁为钢
     S:tc.research_text.GT_TRANSALUMINIUM=[GT] 转换金属为铝
-    S:tc.research_text.GT_TRANSANTIMONY=[GT] 转换金属为锑
-    S:tc.research_text.GT_TRANSBATTERYALLOY=[GT] 转换金属为电池合金
+    S:tc.research_text.GT_TRANSANTIMONY=[GT] 转换金属为 锑
+    S:tc.research_text.GT_TRANSBATTERYALLOY=[GT] 转换金属为 电池合金
     S:tc.research_text.GT_TRANSBISMUTH=[GT] 转换金属为 bismuth
     S:tc.research_text.GT_TRANSBRASS=[GT] 转换金属为 brass
     S:tc.research_text.GT_TRANSBRONZE=[GT] 转换金属为 bronze
@@ -50242,8 +50242,8 @@ languagefile {
     S:tc.research_text.GT_TRANSELECTRUM=[GT] 转换金属为 electrum
     S:tc.research_text.GT_TRANSINVAR=[GT] 转换金属为 invar
     S:tc.research_text.GT_TRANSNICKEL=[GT] 转换金属为 nickel
-    S:tc.research_text.GT_TRANSSOLDERINGALLOY=[GT] 转换金属为钎焊合金
-    S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
+    S:tc.research_text.GT_TRANSSOLDERINGALLOY=[GT] 转换金属为 钎焊合金
+    S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为 zinc
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
 
