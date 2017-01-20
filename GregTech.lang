@@ -6,10 +6,6 @@ enablelangfile {
 
 
 languagefile {
-    S:Liquid_extra_heavy_oil.name=超重油
-    S:Liquid_heavy_oil.name=重油
-    S:Liquid_light_oil.name=轻油
-    S:Liquid_medium_oil.name=Liquid_medium_oil
     S:bc.trigger.gregapi.energy.air.capacity.empty=空的 (ENERGY.AIR)
     S:bc.trigger.gregapi.energy.air.capacity.full=满的 (ENERGY.AIR)
     S:bc.trigger.gregapi.energy.air.capacity.notfull=不满的 (ENERGY.AIR)
@@ -97,7 +93,7 @@ languagefile {
     S:fluid.Chlorine=氯
     S:fluid.Mercury=汞
     S:fluid.air=空气
-    S:fluid.applevinegar=Apple Vinegar
+    S:fluid.applevinegar=苹果醋
     S:fluid.aquaregia=王水
     S:fluid.argon=氩
     S:fluid.bioethanol=生物乙醇
@@ -162,7 +158,7 @@ languagefile {
     S:fluid.dye.flower.dyegray=灰色植物染料
     S:fluid.dye.flower.dyegreen=绿色植物染料
     S:fluid.dye.flower.dyelightblue=淡蓝色植物染料
-    S:fluid.dye.flower.dyelightgray=Light 灰色植物染料
+    S:fluid.dye.flower.dyelightgray=浅灰色植物染料
     S:fluid.dye.flower.dyelime=Lime植物染料
     S:fluid.dye.flower.dyemagenta=Magenta植物染料
     S:fluid.dye.flower.dyeorange=橙色植物染料
@@ -221,7 +217,7 @@ languagefile {
     S:fluid.indigo=靛蓝染料
     S:fluid.juice=Juice
     S:fluid.kerosine=Kerosine
-    S:fluid.ketchup=番茄 Ketchup
+    S:fluid.ketchup=番茄酱
     S:fluid.kiwijuice=Kiwi 果汁
     S:fluid.krypton=氪
     S:fluid.linseedoil=亚麻籽油
@@ -3668,7 +3664,7 @@ languagefile {
     S:gt.multiitem.bottles.302.tooltip=共产主义万岁!
     S:gt.multiitem.bottles.3100.name=番茄 果汁
     S:gt.multiitem.bottles.3100.tooltip=
-    S:gt.multiitem.bottles.3101.name=番茄 Ketchup
+    S:gt.multiitem.bottles.3101.name=番茄酱
     S:gt.multiitem.bottles.3101.tooltip=
     S:gt.multiitem.bottles.32000.name=墨水瓶
     S:gt.multiitem.bottles.32000.tooltip=颜色:黑色
@@ -3753,7 +3749,7 @@ languagefile {
     S:gt.multiitem.bottles.32138.name=罐装植物染料
     S:gt.multiitem.bottles.32138.tooltip=颜色: Cyan
     S:gt.multiitem.bottles.32139.name=罐装植物染料
-    S:gt.multiitem.bottles.32139.tooltip=颜色: Light 灰色
+    S:gt.multiitem.bottles.32139.tooltip=颜色: 浅灰色
     S:gt.multiitem.bottles.32140.name=罐装植物染料
     S:gt.multiitem.bottles.32140.tooltip=颜色: 灰色
     S:gt.multiitem.bottles.32141.name=罐装植物染料
@@ -3812,22 +3808,22 @@ languagefile {
     S:gt.multiitem.bottles.900.tooltip=这是用最好的橡树山结的果子做的
     S:gt.multiitem.bottles.901.name=苹果酒
     S:gt.multiitem.bottles.901.tooltip=如果你实在想不出什么办法来对付你的苹果，就把它们做成酒吧
-    S:gt.multiitem.bottles.902.name=Apple Vinegar
+    S:gt.multiitem.bottles.902.name=苹果醋
     S:gt.multiitem.bottles.902.tooltip=
     S:gt.multiitem.bottles.name=Generated Item
     S:gt.multiitem.cans.1.name=迷你食物罐头 (未知)
     S:gt.multiitem.cans.1.tooltip=
-    S:gt.multiitem.cans.11.name=迷你食物罐头 (Rotten)
+    S:gt.multiitem.cans.11.name=迷你食物罐头 (腐肉)
     S:gt.multiitem.cans.11.tooltip=
-    S:gt.multiitem.cans.12.name=小食物罐头 (Rotten)
+    S:gt.multiitem.cans.12.name=小食物罐头 (腐肉)
     S:gt.multiitem.cans.12.tooltip=
-    S:gt.multiitem.cans.13.name=高食物罐头 (Rotten)
+    S:gt.multiitem.cans.13.name=高食物罐头 (腐肉)
     S:gt.multiitem.cans.13.tooltip=
-    S:gt.multiitem.cans.14.name=宽食物罐头 (Rotten)
+    S:gt.multiitem.cans.14.name=宽食物罐头 (腐肉)
     S:gt.multiitem.cans.14.tooltip=
-    S:gt.multiitem.cans.15.name=大食物罐头 (Rotten)
+    S:gt.multiitem.cans.15.name=大食物罐头 (腐肉)
     S:gt.multiitem.cans.15.tooltip=
-    S:gt.multiitem.cans.16.name=超级大食物罐头 (Rotten)
+    S:gt.multiitem.cans.16.name=超级大食物罐头 (腐肉)
     S:gt.multiitem.cans.16.tooltip=
     S:gt.multiitem.cans.2.name=小食物罐头 (未知)
     S:gt.multiitem.cans.2.tooltip=
