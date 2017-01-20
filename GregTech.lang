@@ -5630,8 +5630,8 @@ languagefile {
     S:gt.multitileentity.26122.name=青铜流体管道
     S:gt.multitileentity.26123.name=大型青铜流体管道
     S:gt.multitileentity.26124.name=巨型青铜流体管道
-    S:gt.multitileentity.26125.name=四合一Bronze 流体管道
-    S:gt.multitileentity.26126.name=九合一Bronze 流体管道
+    S:gt.multitileentity.26125.name=四合一青铜 流体管道
+    S:gt.multitileentity.26126.name=九合一青铜 流体管道
     S:gt.multitileentity.26140.name=微型钢流体管道
     S:gt.multitileentity.26141.name=小型钢流体管道
     S:gt.multitileentity.26142.name=钢流体管道
@@ -10216,12 +10216,12 @@ languagefile {
     S:oredict.casingMachineDenseBedrockHSLAAlloy.name=致密 基岩HSLA钢 机器外壳
     S:oredict.casingMachineDenseBeryllium.name=致密 Beryllium 机器外壳
     S:oredict.casingMachineDenseBismuth.name=致密 Bismuth 机器外壳
-    S:oredict.casingMachineDenseBismuthBronze.name=致密 Bismuth Bronze 机器外壳
+    S:oredict.casingMachineDenseBismuthBronze.name=致密 Bismuth 青铜 机器外壳
     S:oredict.casingMachineDenseBlackBronze.name=致密 乌铜 机器外壳
     S:oredict.casingMachineDenseBlackSteel.name=致密 碳钢 机器外壳
     S:oredict.casingMachineDenseBlueSteel.name=致密 Blue Steel 机器外壳
-    S:oredict.casingMachineDenseBrass.name=致密 Brass 机器外壳
-    S:oredict.casingMachineDenseBronze.name=致密 Bronze 机器外壳
+    S:oredict.casingMachineDenseBrass.name=致密 黄铜 机器外壳
+    S:oredict.casingMachineDenseBronze.name=致密 青铜 机器外壳
     S:oredict.casingMachineDenseCarmot.name=致密 Carmot 机器外壳
     S:oredict.casingMachineDenseCdInAgAlloy.name=致密 镉铟银合金 机器外壳
     S:oredict.casingMachineDenseCelenegil.name=致密 Celenegil 机器外壳
@@ -10230,7 +10230,7 @@ languagefile {
     S:oredict.casingMachineDenseChromiumDioxide.name=Dense铬 Dioxide 机器外壳
     S:oredict.casingMachineDenseCobalt.name=致密 Cobalt 机器外壳
     S:oredict.casingMachineDenseCobalt60.name=致密 Cobalt-60 机器外壳
-    S:oredict.casingMachineDenseCobaltBrass.name=致密 Cobalt Brass 机器外壳
+    S:oredict.casingMachineDenseCobaltBrass.name=致密 Cobalt 黄铜 机器外壳
     S:oredict.casingMachineDenseConductiveIron.name=致密 导体铁 机器外壳
     S:oredict.casingMachineDenseCopper.name=致密 铜 机器外壳
     S:oredict.casingMachineDenseCupronickel.name=致密 Cupronickel 机器外壳
@@ -10347,7 +10347,7 @@ languagefile {
     S:oredict.casingMachineDenseVulcanite.name=致密 Vulcanite 机器外壳
     S:oredict.casingMachineDenseVyroxeres.name=致密 Vyroxeres 机器外壳
     S:oredict.casingMachineDenseWroughtIron.name=致密 Wrought Iron 机器外壳
-    S:oredict.casingMachineDenseblackBronze.name=致密 黑色 Bronze 机器外壳
+    S:oredict.casingMachineDenseblackBronze.name=致密 黑色 青铜 机器外壳
     S:oredict.casingMachineDenseblackSteel.name=致密 碳钢 机器外壳
     S:oredict.casingMachineDensegold.name=致密 金 机器外壳
     S:oredict.casingMachineDensegoldInductive.name=致密 感应合金 机器外壳
@@ -10373,12 +10373,12 @@ languagefile {
     S:oredict.casingMachineDoubleBedrockHSLAAlloy.name=Robust 基岩HSLA钢 机器外壳
     S:oredict.casingMachineDoubleBeryllium.name=Robust Beryllium 机器外壳
     S:oredict.casingMachineDoubleBismuth.name=Robust Bismuth 机器外壳
-    S:oredict.casingMachineDoubleBismuthBronze.name=Robust Bismuth Bronze 机器外壳
+    S:oredict.casingMachineDoubleBismuthBronze.name=Robust Bismuth 青铜 机器外壳
     S:oredict.casingMachineDoubleBlackBronze.name=Robust 乌铜 机器外壳
     S:oredict.casingMachineDoubleBlackSteel.name=Robust 碳钢 机器外壳
     S:oredict.casingMachineDoubleBlueSteel.name=Robust Blue Steel 机器外壳
-    S:oredict.casingMachineDoubleBrass.name=Robust Brass 机器外壳
-    S:oredict.casingMachineDoubleBronze.name=Robust Bronze 机器外壳
+    S:oredict.casingMachineDoubleBrass.name=Robust 黄铜 机器外壳
+    S:oredict.casingMachineDoubleBronze.name=Robust 青铜 机器外壳
     S:oredict.casingMachineDoubleCarmot.name=Robust Carmot 机器外壳
     S:oredict.casingMachineDoubleCdInAgAlloy.name=Robust 镉铟银合金 机器外壳
     S:oredict.casingMachineDoubleCelenegil.name=Robust Celenegil 机器外壳
@@ -10387,7 +10387,7 @@ languagefile {
     S:oredict.casingMachineDoubleChromiumDioxide.name=Robust铬 Dioxide 机器外壳
     S:oredict.casingMachineDoubleCobalt.name=Robust Cobalt 机器外壳
     S:oredict.casingMachineDoubleCobalt60.name=Robust Cobalt-60 机器外壳
-    S:oredict.casingMachineDoubleCobaltBrass.name=Robust Cobalt Brass 机器外壳
+    S:oredict.casingMachineDoubleCobaltBrass.name=Robust Cobalt 黄铜 机器外壳
     S:oredict.casingMachineDoubleConductiveIron.name=Robust 导体铁 机器外壳
     S:oredict.casingMachineDoubleCopper.name=Robust 铜 机器外壳
     S:oredict.casingMachineDoubleCupronickel.name=Robust Cupronickel 机器外壳
@@ -10504,7 +10504,7 @@ languagefile {
     S:oredict.casingMachineDoubleVulcanite.name=Robust Vulcanite 机器外壳
     S:oredict.casingMachineDoubleVyroxeres.name=Robust Vyroxeres 机器外壳
     S:oredict.casingMachineDoubleWroughtIron.name=Robust Wrought Iron 机器外壳
-    S:oredict.casingMachineDoubleblackBronze.name=Robust 黑色 Bronze 机器外壳
+    S:oredict.casingMachineDoubleblackBronze.name=Robust 黑色 青铜 机器外壳
     S:oredict.casingMachineDoubleblackSteel.name=Robust 碳钢 机器外壳
     S:oredict.casingMachineDoublegold.name=Robust 金 机器外壳
     S:oredict.casingMachineDoublegoldInductive.name=Robust 感应合金 机器外壳
@@ -10594,12 +10594,12 @@ languagefile {
     S:oredict.casingMachineQuadrupleBedrockHSLAAlloy.name=Reinforced 基岩HSLA钢 机器外壳
     S:oredict.casingMachineQuadrupleBeryllium.name=Reinforced Beryllium 机器外壳
     S:oredict.casingMachineQuadrupleBismuth.name=Reinforced Bismuth 机器外壳
-    S:oredict.casingMachineQuadrupleBismuthBronze.name=Reinforced Bismuth Bronze 机器外壳
+    S:oredict.casingMachineQuadrupleBismuthBronze.name=Reinforced Bismuth 青铜 机器外壳
     S:oredict.casingMachineQuadrupleBlackBronze.name=Reinforced 乌铜 机器外壳
     S:oredict.casingMachineQuadrupleBlackSteel.name=Reinforced 碳钢 机器外壳
     S:oredict.casingMachineQuadrupleBlueSteel.name=Reinforced Blue Steel 机器外壳
-    S:oredict.casingMachineQuadrupleBrass.name=Reinforced Brass 机器外壳
-    S:oredict.casingMachineQuadrupleBronze.name=Reinforced Bronze 机器外壳
+    S:oredict.casingMachineQuadrupleBrass.name=Reinforced 黄铜 机器外壳
+    S:oredict.casingMachineQuadrupleBronze.name=Reinforced 青铜 机器外壳
     S:oredict.casingMachineQuadrupleCarmot.name=Reinforced Carmot 机器外壳
     S:oredict.casingMachineQuadrupleCdInAgAlloy.name=Reinforced 镉铟银合金 机器外壳
     S:oredict.casingMachineQuadrupleCelenegil.name=Reinforced Celenegil 机器外壳
@@ -10608,7 +10608,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleChromiumDioxide.name=Reinforced铬 Dioxide 机器外壳
     S:oredict.casingMachineQuadrupleCobalt.name=Reinforced Cobalt 机器外壳
     S:oredict.casingMachineQuadrupleCobalt60.name=Reinforced Cobalt-60 机器外壳
-    S:oredict.casingMachineQuadrupleCobaltBrass.name=Reinforced Cobalt Brass 机器外壳
+    S:oredict.casingMachineQuadrupleCobaltBrass.name=Reinforced Cobalt 黄铜 机器外壳
     S:oredict.casingMachineQuadrupleConductiveIron.name=Reinforced 导体铁 机器外壳
     S:oredict.casingMachineQuadrupleCopper.name=Reinforced 铜 机器外壳
     S:oredict.casingMachineQuadrupleCupronickel.name=Reinforced Cupronickel 机器外壳
@@ -10725,7 +10725,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleVulcanite.name=Reinforced Vulcanite 机器外壳
     S:oredict.casingMachineQuadrupleVyroxeres.name=Reinforced Vyroxeres 机器外壳
     S:oredict.casingMachineQuadrupleWroughtIron.name=Reinforced Wrought Iron 机器外壳
-    S:oredict.casingMachineQuadrupleblackBronze.name=Reinforced 黑色 Bronze 机器外壳
+    S:oredict.casingMachineQuadrupleblackBronze.name=Reinforced 黑色 青铜 机器外壳
     S:oredict.casingMachineQuadrupleblackSteel.name=Reinforced 碳钢 机器外壳
     S:oredict.casingMachineQuadruplegold.name=Reinforced 金 机器外壳
     S:oredict.casingMachineQuadruplegoldInductive.name=Reinforced 感应合金 机器外壳
@@ -10773,7 +10773,7 @@ languagefile {
     S:oredict.casingMachineVulcanite.name=Vulcanite 机器外壳
     S:oredict.casingMachineVyroxeres.name=Vyroxeres 机器外壳
     S:oredict.casingMachineWroughtIron.name=Wrought Iron 机器外壳
-    S:oredict.casingMachineblackBronze.name=黑色 Bronze 机器外壳
+    S:oredict.casingMachineblackBronze.name=黑色 青铜 机器外壳
     S:oredict.casingMachineblackSteel.name=碳钢 机器外壳
     S:oredict.casingMachinegold.name=金 机器外壳
     S:oredict.casingMachinegoldInductive.name=感应合金 机器外壳
@@ -18029,7 +18029,7 @@ languagefile {
     S:oredict.dustDiv72Beryllium.name=1/72nd of a Pile of Beryllium 粉
     S:oredict.dustDiv72Biotite.name=1/72nd of a Pile of Biotite 粉
     S:oredict.dustDiv72Bismuth.name=1/72nd of a Pile of Bismuth 粉
-    S:oredict.dustDiv72BismuthBronze.name=1/72nd of a Pile of Bismuth Bronze 粉
+    S:oredict.dustDiv72BismuthBronze.name=1/72nd of a Pile of Bismuth 青铜 粉
     S:oredict.dustDiv72Black.name=1/72nd of a Pile of黑色染料
     S:oredict.dustDiv72BlackBronze.name=1/72nd of a Pile of 乌铜 粉
     S:oredict.dustDiv72BlackSteel.name=1/72nd of a Pile of 碳钢 粉
@@ -18048,10 +18048,10 @@ languagefile {
     S:oredict.dustDiv72Bone.name=1/72nd of a Pile of Bonemeal
     S:oredict.dustDiv72Borax.name=1/72nd of a Pile of Borax 粉
     S:oredict.dustDiv72Boron.name=1/72nd of a Pile of Boron 粉
-    S:oredict.dustDiv72Brass.name=1/72nd of a Pile of Brass 粉
+    S:oredict.dustDiv72Brass.name=1/72nd of a Pile of 黄铜 粉
     S:oredict.dustDiv72Bromargyrite.name=1/72nd of a Pile of Bromargyrite 粉
     S:oredict.dustDiv72Bromine.name=1/72nd of a Pile of Bromine 粉
-    S:oredict.dustDiv72Bronze.name=1/72nd of a Pile of Bronze 粉
+    S:oredict.dustDiv72Bronze.name=1/72nd of a Pile of 青铜 粉
     S:oredict.dustDiv72Brown.name=1/72nd of a Pile of 褐色 Dye
     S:oredict.dustDiv72BrownLimonite.name=1/72nd of a Pile of 褐色 Limonite 粉
     S:oredict.dustDiv72Cadmium.name=1/72nd of a Pile of Cadmium 粉
@@ -18092,7 +18092,7 @@ languagefile {
     S:oredict.dustDiv72CoalCoke.name=1/72nd of a Pile of Coal Coke 粉
     S:oredict.dustDiv72Cobalt.name=1/72nd of a Pile of Cobalt 粉
     S:oredict.dustDiv72Cobalt60.name=1/72nd of a Pile of Cobalt-60 粉
-    S:oredict.dustDiv72CobaltBrass.name=1/72nd of a Pile of Cobalt Brass 粉
+    S:oredict.dustDiv72CobaltBrass.name=1/72nd of a Pile of Cobalt 黄铜 粉
     S:oredict.dustDiv72CobaltHexahydrate.name=1/72nd of a Pile of Cobalt Hexahydrate 粉
     S:oredict.dustDiv72Cobaltite.name=1/72nd of a Pile of Cobaltite 粉
     S:oredict.dustDiv72Cocoa.name=1/72nd of a Pile of Cocoa Powder
@@ -33461,7 +33461,7 @@ languagefile {
     S:oredict.plantGtBerryZinc.name=锌梅
     S:oredict.plantGtBerryZirconium.name=Zirconium梅
     S:oredict.plantGtBerryblack.name=黑色梅
-    S:oredict.plantGtBerryblackBronze.name=黑色 Bronze梅
+    S:oredict.plantGtBerryblackBronze.name=黑色 青铜梅
     S:oredict.plantGtBerryblackSteel.name=碳钢梅
     S:oredict.plantGtBerryblackVitriol.name=黑色硫酸盐梅
     S:oredict.plantGtBerrygold.name=金梅
@@ -34257,7 +34257,7 @@ languagefile {
     S:oredict.plantGtBlossomZinc.name=锌花
     S:oredict.plantGtBlossomZirconium.name=Zirconium花
     S:oredict.plantGtBlossomblack.name=黑色花
-    S:oredict.plantGtBlossomblackBronze.name=黑色 Bronze花
+    S:oredict.plantGtBlossomblackBronze.name=黑色 青铜花
     S:oredict.plantGtBlossomblackSteel.name=碳钢花
     S:oredict.plantGtBlossomblackVitriol.name=黑色硫酸盐 花
     S:oredict.plantGtBlossomgold.name=Aurelia Leaf
@@ -34467,7 +34467,7 @@ languagefile {
     S:oredict.plantGtFiberBiomass.name=粗糙的Biomass纤维
     S:oredict.plantGtFiberBiotite.name=粗糙的Biotite纤维
     S:oredict.plantGtFiberBismuth.name=粗糙的Bismuth纤维
-    S:oredict.plantGtFiberBismuthBronze.name=粗糙的Bismuth Bronze纤维
+    S:oredict.plantGtFiberBismuthBronze.name=粗糙的Bismuth 青铜纤维
     S:oredict.plantGtFiberBlack.name=黑色 String
     S:oredict.plantGtFiberBlackBronze.name=粗糙的 乌铜纤维
     S:oredict.plantGtFiberBlackSteel.name=粗糙的 碳钢纤维
@@ -34537,7 +34537,7 @@ languagefile {
     S:oredict.plantGtFiberCoalCoke.name=粗糙的Coal Coke纤维
     S:oredict.plantGtFiberCobalt.name=粗糙的Cobalt纤维
     S:oredict.plantGtFiberCobalt60.name=粗糙的Cobalt-60纤维
-    S:oredict.plantGtFiberCobaltBrass.name=粗糙的Cobalt Brass纤维
+    S:oredict.plantGtFiberCobaltBrass.name=粗糙的Cobalt 黄铜纤维
     S:oredict.plantGtFiberCobaltHexahydrate.name=粗糙的Cobalt Hexahydrate纤维
     S:oredict.plantGtFiberCobaltite.name=粗糙的辉砷钴纤维
     S:oredict.plantGtFiberCocoa.name=粗糙的Cocoa纤维
@@ -35053,7 +35053,7 @@ languagefile {
     S:oredict.plantGtFiberZinc.name=粗糙的锌纤维
     S:oredict.plantGtFiberZirconium.name=粗糙的Zirconium纤维
     S:oredict.plantGtFiberblack.name=黑色 String
-    S:oredict.plantGtFiberblackBronze.name=粗糙的黑色 Bronze纤维
+    S:oredict.plantGtFiberblackBronze.name=粗糙的黑色 青铜纤维
     S:oredict.plantGtFiberblackSteel.name=粗糙的碳钢纤维
     S:oredict.plantGtFiberblackVitriol.name=粗糙的 黑色硫酸盐纤维
     S:oredict.plantGtFibergold.name=粗糙的金纤维
@@ -35847,7 +35847,7 @@ languagefile {
     S:oredict.plantGtTwigZinc.name=锌细枝
     S:oredict.plantGtTwigZirconium.name=Zirconium细枝
     S:oredict.plantGtTwigblack.name=黑色细枝
-    S:oredict.plantGtTwigblackBronze.name=黑色 Bronze细枝
+    S:oredict.plantGtTwigblackBronze.name=黑色 青铜细枝
     S:oredict.plantGtTwigblackSteel.name=碳钢细枝
     S:oredict.plantGtTwigblackVitriol.name=黑色硫酸盐细枝
     S:oredict.plantGtTwiggold.name=金细枝
@@ -36643,7 +36643,7 @@ languagefile {
     S:oredict.plantGtWartZinc.name=锌疣
     S:oredict.plantGtWartZirconium.name=Zirconium疣
     S:oredict.plantGtWartblack.name=黑色疣
-    S:oredict.plantGtWartblackBronze.name=黑色 Bronze疣
+    S:oredict.plantGtWartblackBronze.name=黑色 青铜疣
     S:oredict.plantGtWartblackSteel.name=碳钢疣
     S:oredict.plantGtWartblackVitriol.name=黑色硫酸盐疣
     S:oredict.plantGtWartgold.name=金疣
@@ -36983,7 +36983,7 @@ languagefile {
     S:oredict.plateCurvedBerkelium.name=弯曲的 Berkelium 板
     S:oredict.plateCurvedBeryllium.name=弯曲的 Beryllium 板
     S:oredict.plateCurvedBismuth.name=弯曲的 Bismuth 板
-    S:oredict.plateCurvedBismuthBronze.name=弯曲的 Bismuth Bronze 板
+    S:oredict.plateCurvedBismuthBronze.name=弯曲的 Bismuth 青铜 板
     S:oredict.plateCurvedBlackBronze.name=弯曲的 乌铜 板
     S:oredict.plateCurvedBlackSteel.name=弯曲的 碳钢 板
     S:oredict.plateCurvedBlaze.name=弯曲的 Blaze 板
@@ -36994,7 +36994,7 @@ languagefile {
     S:oredict.plateCurvedBlutonium.name=弯曲的 Blutonium 板
     S:oredict.plateCurvedBohrium.name=弯曲的 Bohrium 板
     S:oredict.plateCurvedBoron.name=弯曲的 Boron 板
-    S:oredict.plateCurvedBrass.name=弯曲的 Brass 板
+    S:oredict.plateCurvedBrass.name=弯曲的 黄铜 板
     S:oredict.plateCurvedBronze.name=弯曲的青铜板
     S:oredict.plateCurvedCadmium.name=弯曲的 Cadmium 板
     S:oredict.plateCurvedCaesium.name=弯曲的 Caesium 板
@@ -37010,7 +37010,7 @@ languagefile {
     S:oredict.plateCurvedChromiumDioxide.name=弯曲的铬 Dioxide 板
     S:oredict.plateCurvedCobalt.name=弯曲的 Cobalt 板
     S:oredict.plateCurvedCobalt60.name=弯曲的 Cobalt-60 板
-    S:oredict.plateCurvedCobaltBrass.name=弯曲的 Cobalt Brass 板
+    S:oredict.plateCurvedCobaltBrass.name=弯曲的 Cobalt 黄铜 板
     S:oredict.plateCurvedConcrete.name=弯曲的 Concrete 板
     S:oredict.plateCurvedConductiveIron.name=弯曲的 导体铁 板
     S:oredict.plateCurvedCopernicium.name=弯曲的 Copernicium 板
@@ -37257,7 +37257,7 @@ languagefile {
     S:oredict.plateCurvedYttriumBariumCuprate.name=弯曲的 Yttrium-Barium-Cuprate 板
     S:oredict.plateCurvedZinc.name=弯曲的 锌 板
     S:oredict.plateCurvedZirconium.name=弯曲的 Zirconium 板
-    S:oredict.plateCurvedblackBronze.name=弯曲的黑色 Bronze 板
+    S:oredict.plateCurvedblackBronze.name=弯曲的黑色 青铜 板
     S:oredict.plateCurvedblackSteel.name=弯曲的碳钢 板
     S:oredict.plateCurvedgold.name=弯曲的 金 板
     S:oredict.plateCurvedgreenschistname=弯曲的绿片岩 板
@@ -50231,8 +50231,8 @@ languagefile {
     S:tc.research_text.GT_TRANSANTIMONY=[GT] 转换金属为 锑
     S:tc.research_text.GT_TRANSBATTERYALLOY=[GT] 转换金属为 电池合金
     S:tc.research_text.GT_TRANSBISMUTH=[GT] 转换金属为 bismuth
-    S:tc.research_text.GT_TRANSBRASS=[GT] 转换金属为 brass
-    S:tc.research_text.GT_TRANSBRONZE=[GT] 转换金属为 bronze
+    S:tc.research_text.GT_TRANSBRASS=[GT] 转换金属为 黄铜
+    S:tc.research_text.GT_TRANSBRONZE=[GT] 转换金属为 青铜
     S:tc.research_text.GT_TRANSCOBALT=[GT] 转换金属为 cobalt
     S:tc.research_text.GT_TRANSCUPRONICKEL=[GT] 转换金属为 cupronickel
     S:tc.research_text.GT_TRANSELECTRUM=[GT] 转换金属为 electrum
