@@ -102,12 +102,17 @@ languagefile {
     S:fluid.blackvitriol=黑色硫酸盐
     S:fluid.blueberryjuice=Blueberry 果汁
     S:fluid.bluevitriol=蓝色硫酸盐
+    S:fluid.bromine=Bromine
     S:fluid.butane=Butane
     S:fluid.cactuswater=Cactus Water
     S:fluid.canevinegar=Cane Vinegar
     S:fluid.carbondioxide=二氧化碳
     S:fluid.carbonmonoxide=一氧化碳
     S:fluid.carrotjuice=Carrot Juice
+    S:fluid.cfoam.black=Black C-Foam
+    S:fluid.cfoam.blue=Blue C-Foam
+    S:fluid.cfoam.brown=Brown C-Foam
+    S:fluid.cfoam.cyan=Cyan C-Foam
     S:fluid.cfoam.dyeblack=黑色泡沫
     S:fluid.cfoam.dyeblue=蓝色泡沫
     S:fluid.cfoam.dyebrown=棕色泡沫
@@ -125,6 +130,18 @@ languagefile {
     S:fluid.cfoam.dyewhite=白色泡沫
     S:fluid.cfoam.dyeyellow=黄色 泡沫
     S:fluid.cfoam.dyeyelyelloww=黄色泡沫
+    S:fluid.cfoam.gray=Gray C-Foam
+    S:fluid.cfoam.green=Green C-Foam
+    S:fluid.cfoam.lightblue=Light Blue C-Foam
+    S:fluid.cfoam.lightgray=Light Gray C-Foam
+    S:fluid.cfoam.lime=Lime C-Foam
+    S:fluid.cfoam.magenta=Magenta C-Foam
+    S:fluid.cfoam.orange=Orange C-Foam
+    S:fluid.cfoam.pink=Pink C-Foam
+    S:fluid.cfoam.purple=Purple C-Foam
+    S:fluid.cfoam.red=Red C-Foam
+    S:fluid.cfoam.white=White C-Foam
+    S:fluid.cfoam.yellow=Yellow C-Foam
     S:fluid.chargedmatter=充能物质
     S:fluid.chlorine=氯
     S:fluid.chloroauricacid=氯金酸
@@ -137,6 +154,10 @@ languagefile {
     S:fluid.cyanvitriol=青色硫酸盐
     S:fluid.deuterium=氘
     S:fluid.diesel=柴油
+    S:fluid.dye.chemical.black=Chemical Black Dye
+    S:fluid.dye.chemical.blue=Chemical Blue Dye
+    S:fluid.dye.chemical.brown=Chemical Brown Dye
+    S:fluid.dye.chemical.cyan=Chemical Cyan Dye
     S:fluid.dye.chemical.dyeblack=化学黑色染料
     S:fluid.dye.chemical.dyeblue=化学蓝色染料
     S:fluid.dye.chemical.dyebrown=化学褐色染料
@@ -169,6 +190,22 @@ languagefile {
     S:fluid.dye.flower.dyered=红色植物染料
     S:fluid.dye.flower.dyewhite=白色植物染料
     S:fluid.dye.flower.dyeyellow=黄色植物染料
+    S:fluid.dye.flower.gray=Gray Flower Dye
+    S:fluid.dye.flower.green=Green Flower Dye
+    S:fluid.dye.flower.lightblue=Light Blue Flower Dye
+    S:fluid.dye.flower.lightgray=Light Gray Flower Dye
+    S:fluid.dye.flower.lime=Lime Flower Dye
+    S:fluid.dye.flower.magenta=Magenta Flower Dye
+    S:fluid.dye.flower.orange=Orange Flower Dye
+    S:fluid.dye.flower.pink=Pink Flower Dye
+    S:fluid.dye.flower.purple=Purple Flower Dye
+    S:fluid.dye.flower.red=Red Flower Dye
+    S:fluid.dye.flower.white=White Flower Dye
+    S:fluid.dye.flower.yellow=Yellow Flower Dye
+    S:fluid.dye.watermixed.black=Water Mixed Black Dye
+    S:fluid.dye.watermixed.blue=Water Mixed Blue Dye
+    S:fluid.dye.watermixed.brown=Water Mixed Brown Dye
+    S:fluid.dye.watermixed.cyan=Water Mixed Cyan Dye
     S:fluid.dye.watermixed.dyeblack=水性黑色染料
     S:fluid.dye.watermixed.dyeblue=水性蓝色染料
     S:fluid.dye.watermixed.dyebrown=水性褐色染料
@@ -186,8 +223,21 @@ languagefile {
     S:fluid.dye.watermixed.dyewhite=水性白色染料
     S:fluid.dye.watermixed.dyeyellow=水性黄色染料
     S:fluid.dye.watermixed.dye黑色=水性黑色染料
+    S:fluid.dye.watermixed.gray=Water Mixed Gray Dye
+    S:fluid.dye.watermixed.green=Water Mixed Green Dye
+    S:fluid.dye.watermixed.lightblue=Water Mixed Light Blue Dye
+    S:fluid.dye.watermixed.lightgray=Water Mixed Light Gray Dye
+    S:fluid.dye.watermixed.lime=Water Mixed Lime Dye
+    S:fluid.dye.watermixed.magenta=Water Mixed Magenta Dye
+    S:fluid.dye.watermixed.orange=Water Mixed Orange Dye
+    S:fluid.dye.watermixed.pink=Water Mixed Pink Dye
+    S:fluid.dye.watermixed.purple=Water Mixed Purple Dye
+    S:fluid.dye.watermixed.red=Water Mixed Red Dye
+    S:fluid.dye.watermixed.white=Water Mixed White Dye
+    S:fluid.dye.watermixed.yellow=Water Mixed Yellow Dye
     S:fluid.fieryblood=炙热的血
     S:fluid.fishoil=鱼油
+    S:fluid.fluorine=Fluorine
     S:fluid.for.honey=蜂蜜
     S:fluid.for.honeydew=甘露
     S:fluid.fuel=柴油
@@ -211,6 +261,7 @@ languagefile {
     S:fluid.hotfryingoil=热食用油
     S:fluid.hydrochloricacid=盐酸
     S:fluid.hydrogen=氢
+    S:fluid.hydrogenperoxide=Hydrogen Peroxide
     S:fluid.ic2biomass=生物质
     S:fluid.ic2constructionfoam=建筑泡沫
     S:fluid.ic2distilledwater=蒸馏水
@@ -244,6 +295,7 @@ languagefile {
     S:fluid.molten.Copper=熔融铜
     S:fluid.molten.aluminium=熔融铝
     S:fluid.molten.aluminiumbrass=熔融铝黄铜
+    S:fluid.molten.alumite=Molten Alumite
     S:fluid.molten.angmallen=熔融神圣之金
     S:fluid.molten.annealedCopper=熔融韧铜
     S:fluid.molten.annealedcopper=熔融 Annealed Copper
@@ -261,7 +313,10 @@ languagefile {
     S:fluid.molten.chromium=熔融铬
     S:fluid.molten.cobalt=熔融钴
     S:fluid.molten.concrete=未固化的混凝土
+    S:fluid.molten.constantan=Molten Constantan
     S:fluid.molten.copper=熔融铜
+    S:fluid.molten.darkthaumium=Molten Dark Thaumium
+    S:fluid.molten.electrotinealloy=Molten Electrotine Alloy
     S:fluid.molten.electrum=熔融琥珀金
     S:fluid.molten.enderium=熔融末影金属
     S:fluid.molten.enderiumbase=熔融基础末影金属
@@ -279,8 +334,13 @@ languagefile {
     S:fluid.molten.latex=天然胶液
     S:fluid.molten.lead=熔融铅
     S:fluid.molten.lumium=熔融流明
+    S:fluid.molten.magnalium=Molten Magnalium
+    S:fluid.molten.magnesium=Molten Magnesium
     S:fluid.molten.manganese=熔融锰
     S:fluid.molten.manyullyn=熔融玛玉灵
+    S:fluid.molten.meteoriciron=Molten Meteoric Iron
+    S:fluid.molten.meteoricsteel=Molten Meteoric Steel
+    S:fluid.molten.neodymium=Molten Neodymium
     S:fluid.molten.nickel=熔融镍
     S:fluid.molten.osmium=熔融锇
     S:fluid.molten.osmiumelemental=熔融 锇
@@ -306,6 +366,8 @@ languagefile {
     S:fluid.molten.titanium=熔融钛
     S:fluid.molten.tungsten=熔融钨
     S:fluid.molten.tungstensteel=熔融钨钢
+    S:fluid.molten.vanadium=Molten Vanadium
+    S:fluid.molten.vanadiumsteel=Molten Vanadiumsteel
     S:fluid.molten.voidmetal=熔融虚空金属
     S:fluid.molten.wax=熔融蜡
     S:fluid.molten.waxbee=熔融蜂蜡
@@ -443,9 +505,11 @@ languagefile {
     S:fluid.potion.wheatyjuice=小麦汁
     S:fluid.potion.wine=葡萄酒
     S:fluid.propane=Propane
+    S:fluid.radon=Radon
     S:fluid.raspberryjuice=Raspberry 果汁
     S:fluid.redvitriol=红色硫酸盐
     S:fluid.ricevinegar=Rice Vinegar
+    S:fluid.saltwater=Saltwater
     S:fluid.seedoil=种子油
     S:fluid.sluicejuice=废水
     S:fluid.soda=苏打水
@@ -1257,6 +1321,7 @@ languagefile {
     S:gt.drink.potion.wine=Ordinary
     S:gt.drink.raspberryjuice=Made of tiny Computers!
     S:gt.drink.ricevinegar=
+    S:gt.drink.saltwater=Saltier than the seven Seas
     S:gt.drink.soda=普通的二氧化碳水溶物
     S:gt.drink.sunfloweroil=
     S:gt.drink.tomatojuice=Used for Ketchup and Tomato Sauces
@@ -1479,6 +1544,7 @@ languagefile {
     S:gt.material.Americium=镅
     S:gt.material.Americium241=镅-241
     S:gt.material.Amethyst=紫水晶
+    S:gt.material.AmethystEnder=Ender Amethyst
     S:gt.material.Ammonium=铵
     S:gt.material.Amordrine=魔力之石
     S:gt.material.Andesite=安山岩
@@ -2368,6 +2434,7 @@ languagefile {
     S:gt.material.HydratedCoal=水合煤
     S:gt.material.HydrochloricAcid=盐酸
     S:gt.material.Hydrogen=氢
+    S:gt.material.HydrogenPeroxide=Hydrogen Peroxide
     S:gt.material.Ice=冰
     S:gt.material.Ignatius=伊格内修斯
     S:gt.material.Ilmenite=钛铁矿
@@ -2681,6 +2748,7 @@ languagefile {
     S:gt.material.Scandium=钪
     S:gt.material.Scheelite=白钨矿
     S:gt.material.Seaborgium=Seaborgium
+    S:gt.material.Seawater=Seawater
     S:gt.material.SeedOil=种子油
     S:gt.material.SeedOilHemp=大麻种子油
     S:gt.material.SeedOilLin=亚麻种子油
@@ -2704,10 +2772,13 @@ languagefile {
     S:gt.material.Sodalite=方钠石
     S:gt.material.Sodium=钠
     S:gt.material.SodiumBisulfate=硫酸氢钠
+    S:gt.material.SodiumHydroxide=Sodium Hydroxide
     S:gt.material.SodiumPeroxide=过氧化钠
     S:gt.material.SodiumPersulfate=过硫化钠
     S:gt.material.SodiumPyrosulfate=焦硫酸钠
+    S:gt.material.SodiumSulfate=Sodium Sulfate
     S:gt.material.SodiumSulfide=硫化钠
+    S:gt.material.SodiumSulfite=Sodium Sulfite
     S:gt.material.SolderingAlloy=钎焊合金
     S:gt.material.SolutionBlueVitriol=蓝矾溶液
     S:gt.material.SolutionNickelSulfate=硫酸镍溶液
@@ -3001,6 +3072,7 @@ languagefile {
     S:gt.material.VanadiumGallium=钒镓合金
     S:gt.material.VanadiumMagnetite=钒磁铁矿
     S:gt.material.VanadiumPentoxide=五氧化二钒
+    S:gt.material.VanadiumSteel=Vanadiumsteel
     S:gt.material.Vanilla=香草
     S:gt.material.Vermiculite=蛭石
     S:gt.material.Vibramantium=Vibramantium
@@ -7026,6 +7098,7 @@ languagefile {
     S:gt.td.long.processing.washing_mercury=Mercury Washable
     S:gt.td.long.processing.washing_sodiumpersulfate=Sodium Persulfate Washable
     S:gt.td.long.projectiles.arrow=箭
+    S:gt.td.long.properties.acid=Acid
     S:gt.td.long.properties.auto_blacklist=Auto Blacklist
     S:gt.td.long.properties.auto_material=Automatic Material
     S:gt.td.long.properties.bouncy=Bouncy
@@ -7175,6 +7248,7 @@ languagefile {
     S:gt.td.short.processing.washing_mercury=Mercury Washable
     S:gt.td.short.processing.washing_sodiumpersulfate=Sodium Persulfate Washable
     S:gt.td.short.projectiles.arrow=箭
+    S:gt.td.short.properties.acid=Acid
     S:gt.td.short.properties.auto_blacklist=Auto 黑名单
     S:gt.td.short.properties.auto_material=Automatic Material
     S:gt.td.short.properties.bouncy=Bouncy
@@ -7449,6 +7523,7 @@ languagefile {
     S:oredict.arrowGtPlasticAmericium.name=轻质镅箭
     S:oredict.arrowGtPlasticAmericium241.name=轻质镅-241箭
     S:oredict.arrowGtPlasticAmethyst.name=轻质紫水晶箭
+    S:oredict.arrowGtPlasticAmethystEnder.name=Light Ender Amethyst Arrow
     S:oredict.arrowGtPlasticAmordrine.name=轻质魔力之石箭
     S:oredict.arrowGtPlasticAndesite.name=轻质安山岩箭
     S:oredict.arrowGtPlasticAndradite.name=轻质钙铁榴石箭
@@ -7490,6 +7565,7 @@ languagefile {
     S:oredict.arrowGtPlasticCobaltBrass.name=轻质钴黄铜箭
     S:oredict.arrowGtPlasticConcrete.name=轻质混凝土箭
     S:oredict.arrowGtPlasticConductiveIron.name=轻质导体铁箭
+    S:oredict.arrowGtPlasticConstantan.name=Light Constantan Arrow
     S:oredict.arrowGtPlasticCopper.name=轻质铜箭
     S:oredict.arrowGtPlasticCraponite.name=轻质Craponite箭
     S:oredict.arrowGtPlasticCupronickel.name=轻质白铜箭
@@ -7645,6 +7721,7 @@ languagefile {
     S:oredict.arrowGtPlasticUranium.name=轻质铀箭
     S:oredict.arrowGtPlasticUranium235.name=轻质铀-235箭
     S:oredict.arrowGtPlasticUvarovite.name=轻质 Uvarovite箭
+    S:oredict.arrowGtPlasticVanadiumSteel.name=Light Vanadiumsteel Arrow
     S:oredict.arrowGtPlasticVibramantium.name=轻质Vibramantium箭
     S:oredict.arrowGtPlasticVibranium.name=轻质Vibranium箭
     S:oredict.arrowGtPlasticVibraniumSilver.name=轻质钒银合金 箭
@@ -7683,6 +7760,7 @@ languagefile {
     S:oredict.arrowGtWoodAmericium.name=镅箭
     S:oredict.arrowGtWoodAmericium241.name=镅-241箭
     S:oredict.arrowGtWoodAmethyst.name=紫水晶箭
+    S:oredict.arrowGtWoodAmethystEnder.name=Ender Amethyst Arrow
     S:oredict.arrowGtWoodAmordrine.name=熔融魔石箭
     S:oredict.arrowGtWoodAndesite.name=安山岩箭
     S:oredict.arrowGtWoodAndradite.name=钙铁榴石箭
@@ -7724,6 +7802,7 @@ languagefile {
     S:oredict.arrowGtWoodCobaltBrass.name=钴黄铜箭
     S:oredict.arrowGtWoodConcrete.name=混凝土箭
     S:oredict.arrowGtWoodConductiveIron.name=导体铁箭
+    S:oredict.arrowGtWoodConstantan.name=Constantan Arrow
     S:oredict.arrowGtWoodCopper.name=铜箭
     S:oredict.arrowGtWoodCraponite.name=Craponite箭
     S:oredict.arrowGtWoodCupronickel.name=白铜箭
@@ -7879,6 +7958,7 @@ languagefile {
     S:oredict.arrowGtWoodUranium.name=铀箭
     S:oredict.arrowGtWoodUranium235.name=铀-235箭
     S:oredict.arrowGtWoodUvarovite.name=Uvarovite箭
+    S:oredict.arrowGtWoodVanadiumSteel.name=Vanadiumsteel Arrow
     S:oredict.arrowGtWoodVibramantium.name=Vibramantium箭
     S:oredict.arrowGtWoodVibranium.name=Vibranium箭
     S:oredict.arrowGtWoodVibraniumSilver.name=钒银合金 箭
@@ -7921,6 +8001,7 @@ languagefile {
     S:oredict.blockDustAmericium.name=镅粉块
     S:oredict.blockDustAmericium241.name=镅-241粉块
     S:oredict.blockDustAmethyst.name=紫水晶粉块
+    S:oredict.blockDustAmethystEnder.name=Block of Ender Amethyst Dust
     S:oredict.blockDustAmordrine.name=熔融魔石粉块
     S:oredict.blockDustAndesite.name=安山岩粉块
     S:oredict.blockDustAndradite.name=钙铁榴石粉块
@@ -8157,6 +8238,7 @@ languagefile {
     S:oredict.blockDustCoffee.name=咖啡粉块
     S:oredict.blockDustConcrete.name=混凝土粉块
     S:oredict.blockDustConductiveIron.name=导电铁粉块
+    S:oredict.blockDustConstantan.name=Block of Constantan Dust
     S:oredict.blockDustConstructionFoam.name=泡沫粉块
     S:oredict.blockDustCooperite.name=Sheldonite粉块
     S:oredict.blockDustCopernicium.name=鎶粉块
@@ -8499,9 +8581,12 @@ languagefile {
     S:oredict.blockDustSodalite.name=方钠石粉块
     S:oredict.blockDustSodium.name=钠粉块
     S:oredict.blockDustSodiumBisulfate.name=Sodium Bisulfate粉块
+    S:oredict.blockDustSodiumHydroxide.name=Block of Sodium Hydroxide Dust
     S:oredict.blockDustSodiumPersulfate.name=Sodium Persulfate粉块
     S:oredict.blockDustSodiumPyrosulfate.name=Sodium Pyrosulfate粉块
+    S:oredict.blockDustSodiumSulfate.name=Block of Sodium Sulfate Dust
     S:oredict.blockDustSodiumSulfide.name=Sodium Sulfide粉块
+    S:oredict.blockDustSodiumSulfite.name=Block of Sodium Sulfite Dust
     S:oredict.blockDustSolderingAlloy.name=钎焊合金粉块
     S:oredict.blockDustSoularium.name=Soularium粉块
     S:oredict.blockDustSoylentGreen.name=Emerald 绿色块
@@ -8577,6 +8662,7 @@ languagefile {
     S:oredict.blockDustVanadiumGallium.name=钒-镓粉块
     S:oredict.blockDustVanadiumMagnetite.name=钒磁铁矿粉块
     S:oredict.blockDustVanadiumPentoxide.name=Vanadium Pentoxide粉块
+    S:oredict.blockDustVanadiumSteel.name=Block of Vanadiumsteel Dust
     S:oredict.blockDustVanilla.name=Ground Vanilla块
     S:oredict.blockDustVermiculite.name=Vermiculite块
     S:oredict.blockDustVibramantium.name=Vibramantium粉块
@@ -8641,6 +8727,7 @@ languagefile {
     S:oredict.blockGemAlmandine.name=Almandine块
     S:oredict.blockGemAmber.name=琥珀块
     S:oredict.blockGemAmethyst.name=紫水晶块
+    S:oredict.blockGemAmethystEnder.name=Block of Ender Amethyst
     S:oredict.blockGemAndradite.name=Andradite块
     S:oredict.blockGemAnthracite.name=Anthracite块
     S:oredict.blockGemAntiBromine.name=反物质溴块
@@ -8901,6 +8988,7 @@ languagefile {
     S:oredict.blockIngotCobalt60.name=钴-60锭块
     S:oredict.blockIngotCobaltBrass.name=钴黄铜锭块
     S:oredict.blockIngotConductiveIron.name=导体铁锭块
+    S:oredict.blockIngotConstantan.name=Block of Constantan Ingot
     S:oredict.blockIngotCopernicium.name=鎶锭块
     S:oredict.blockIngotCopper.name=铜锭块
     S:oredict.blockIngotCupronickel.name=白铜锭块
@@ -9100,6 +9188,7 @@ languagefile {
     S:oredict.blockIngotUranium235.name=铀-235锭块
     S:oredict.blockIngotVanadium.name=钒锭块
     S:oredict.blockIngotVanadiumGallium.name=钒-镓锭块
+    S:oredict.blockIngotVanadiumSteel.name=Block of Vanadiumsteel Ingot
     S:oredict.blockIngotVibramantium.name=Vibramantium锭块
     S:oredict.blockIngotVibraniumSilver.name=钒银合金 锭块
     S:oredict.blockIngotVibraniumSteel.name=钒钢合金 锭块
@@ -9292,6 +9381,7 @@ languagefile {
     S:oredict.blockPlateCobaltBrass.name=钴黄铜板块
     S:oredict.blockPlateConcrete.name=Concrete 板块
     S:oredict.blockPlateConductiveIron.name=导体铁 板块
+    S:oredict.blockPlateConstantan.name=Block of Constantan Plate
     S:oredict.blockPlateCopernicium.name=鎶板块
     S:oredict.blockPlateCopper.name=铜板块
     S:oredict.blockPlateCupronickel.name=白铜板块
@@ -9342,6 +9432,7 @@ languagefile {
     S:oredict.blockPlateGemAlmandine.name=Almandine 板块
     S:oredict.blockPlateGemAmber.name=琥珀板块
     S:oredict.blockPlateGemAmethyst.name=紫水晶板块
+    S:oredict.blockPlateGemAmethystEnder.name=Block of Crystalline Ender Amethyst Plate
     S:oredict.blockPlateGemAndradite.name=Andradite 板块
     S:oredict.blockPlateGemAnthracite.name=水晶line Anthracite 板块
     S:oredict.blockPlateGemAntiVibranium.name=反物质钒合金板块
@@ -9591,6 +9682,7 @@ languagefile {
     S:oredict.blockPlateUranium235.name=铀-235板块
     S:oredict.blockPlateVanadium.name=钒板块
     S:oredict.blockPlateVanadiumGallium.name=钒-镓板块
+    S:oredict.blockPlateVanadiumSteel.name=Block of Vanadiumsteel Plate
     S:oredict.blockPlateVibramantium.name=Vibramantium板块
     S:oredict.blockPlateVibraniumSilver.name=钒银合金 板块
     S:oredict.blockPlateVibraniumSteel.name=钒钢合金 板块
@@ -9786,6 +9878,7 @@ languagefile {
     S:oredict.blockSolidCobalt60.name=钴-60块
     S:oredict.blockSolidCobaltBrass.name=钴黄铜块
     S:oredict.blockSolidConductiveIron.name=导体铁块
+    S:oredict.blockSolidConstantan.name=Block of solid Constantan
     S:oredict.blockSolidCopernicium.name=鎶块
     S:oredict.blockSolidCopper.name=铜块
     S:oredict.blockSolidCupronickel.name=白铜块
@@ -9985,6 +10078,7 @@ languagefile {
     S:oredict.blockSolidUranium235.name=铀-235块
     S:oredict.blockSolidVanadium.name=钒块
     S:oredict.blockSolidVanadiumGallium.name=钒-镓块
+    S:oredict.blockSolidVanadiumSteel.name=Block of solid Vanadiumsteel
     S:oredict.blockSolidVibramantium.name=Vibramantium块
     S:oredict.blockSolidVibraniumSilver.name=钒银合金 块
     S:oredict.blockSolidVibraniumSteel.name=钒钢合金 块
@@ -10017,6 +10111,7 @@ languagefile {
     S:oredict.boltAmericium.name=镅螺栓
     S:oredict.boltAmericium241.name=镅-241螺栓
     S:oredict.boltAmethyst.name=紫水晶螺栓
+    S:oredict.boltAmethystEnder.name=Ender Amethyst Bolt
     S:oredict.boltAmordrine.name=熔融魔石螺栓
     S:oredict.boltAndesite.name=安山岩 螺栓
     S:oredict.boltAndradite.name=钙铁榴石 螺栓
@@ -10066,6 +10161,7 @@ languagefile {
     S:oredict.boltCobaltBrass.name=钴黄铜螺栓
     S:oredict.boltConcrete.name=混凝土螺栓
     S:oredict.boltConductiveIron.name=导体铁 螺栓
+    S:oredict.boltConstantan.name=Constantan Bolt
     S:oredict.boltCopper.name=铜螺栓
     S:oredict.boltCraponite.name=Craponite螺栓
     S:oredict.boltCupronickel.name=白铜螺栓
@@ -10236,6 +10332,7 @@ languagefile {
     S:oredict.boltUranium.name=铀螺栓
     S:oredict.boltUranium235.name=铀-235螺栓
     S:oredict.boltUvarovite.name=Uvarovite 螺栓
+    S:oredict.boltVanadiumSteel.name=Vanadiumsteel Bolt
     S:oredict.boltVibramantium.name=Vibramantium螺栓
     S:oredict.boltVibranium.name=Vibranium螺栓
     S:oredict.boltVibraniumSilver.name=钒银合金 螺栓
@@ -10265,7 +10362,7 @@ languagefile {
     S:oredict.boltyellowSapphire.name=黄色蓝宝石螺栓
     S:oredict.bouleEmpty.name=空 Boule
     S:oredict.bouleRedstoneAlloy.name=红石合金 Boule
-    S:oredict.bouleSilicon.name=Silicon Boule
+    S:oredict.bouleSilicon.name=单晶硅
     S:oredict.casingMachineAdamantium.name=艾德曼合金机器外壳
     S:oredict.casingMachineAluminium.name=铝 机器外壳
     S:oredict.casingMachineAluminiumAlloy.name=铝合金 机器外壳
@@ -10300,6 +10397,7 @@ languagefile {
     S:oredict.casingMachineCobalt60.name=钴-60 机器外壳
     S:oredict.casingMachineCobaltBrass.name=钴黄铜 机器外壳
     S:oredict.casingMachineConductiveIron.name=导体铁 机器外壳
+    S:oredict.casingMachineConstantan.name=Constantan Machine Casing
     S:oredict.casingMachineCopper.name=铜 机器外壳
     S:oredict.casingMachineCupronickel.name=白铜 机器外壳
     S:oredict.casingMachineDamascusSteel.name=大马士革钢 机器外壳
@@ -10341,6 +10439,7 @@ languagefile {
     S:oredict.casingMachineDenseCobalt60.name=致密 Cobalt-60 机器外壳
     S:oredict.casingMachineDenseCobaltBrass.name=致密 Cobalt 黄铜 机器外壳
     S:oredict.casingMachineDenseConductiveIron.name=致密 导体铁 机器外壳
+    S:oredict.casingMachineDenseConstantan.name=Dense Constantan Machine Casing
     S:oredict.casingMachineDenseCopper.name=致密 铜 机器外壳
     S:oredict.casingMachineDenseCupronickel.name=致密 Cupronickel 机器外壳
     S:oredict.casingMachineDenseDamascusSteel.name=致密 Damascus Steel 机器外壳
@@ -10448,6 +10547,7 @@ languagefile {
     S:oredict.casingMachineDenseUltimet.name=致密 Ultimet 机器外壳
     S:oredict.casingMachineDenseUranium.name=致密 Uranium 机器外壳
     S:oredict.casingMachineDenseUranium235.name=致密 Uranium-235 机器外壳
+    S:oredict.casingMachineDenseVanadiumSteel.name=Dense Vanadiumsteel Machine Casing
     S:oredict.casingMachineDenseVibramantium.name=致密 Vibramantium 机器外壳
     S:oredict.casingMachineDenseVibraniumSilver.name=致密 钒银合金 机器外壳
     S:oredict.casingMachineDenseVibraniumSteel.name=致密 钒合金 Steel 机器外壳
@@ -10499,6 +10599,7 @@ languagefile {
     S:oredict.casingMachineDoubleCobalt60.name=Robust Cobalt-60 机器外壳
     S:oredict.casingMachineDoubleCobaltBrass.name=Robust Cobalt 黄铜 机器外壳
     S:oredict.casingMachineDoubleConductiveIron.name=Robust 导体铁 机器外壳
+    S:oredict.casingMachineDoubleConstantan.name=Robust Constantan Machine Casing
     S:oredict.casingMachineDoubleCopper.name=Robust 铜 机器外壳
     S:oredict.casingMachineDoubleCupronickel.name=Robust Cupronickel 机器外壳
     S:oredict.casingMachineDoubleDamascusSteel.name=Robust Damascus Steel 机器外壳
@@ -10606,6 +10707,7 @@ languagefile {
     S:oredict.casingMachineDoubleUltimet.name=Robust Ultimet 机器外壳
     S:oredict.casingMachineDoubleUranium.name=Robust Uranium 机器外壳
     S:oredict.casingMachineDoubleUranium235.name=Robust Uranium-235 机器外壳
+    S:oredict.casingMachineDoubleVanadiumSteel.name=Robust Vanadiumsteel Machine Casing
     S:oredict.casingMachineDoubleVibramantium.name=Robust Vibramantium 机器外壳
     S:oredict.casingMachineDoubleVibraniumSilver.name=Robust 钒银合金 机器外壳
     S:oredict.casingMachineDoubleVibraniumSteel.name=Robust 钒合金 Steel 机器外壳
@@ -10721,6 +10823,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleCobalt60.name=Reinforced Cobalt-60 机器外壳
     S:oredict.casingMachineQuadrupleCobaltBrass.name=Reinforced Cobalt 黄铜 机器外壳
     S:oredict.casingMachineQuadrupleConductiveIron.name=Reinforced 导体铁 机器外壳
+    S:oredict.casingMachineQuadrupleConstantan.name=Reinforced Constantan Machine Casing
     S:oredict.casingMachineQuadrupleCopper.name=Reinforced 铜 机器外壳
     S:oredict.casingMachineQuadrupleCupronickel.name=Reinforced Cupronickel 机器外壳
     S:oredict.casingMachineQuadrupleDamascusSteel.name=Reinforced Damascus Steel 机器外壳
@@ -10828,6 +10931,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleUltimet.name=Reinforced Ultimet 机器外壳
     S:oredict.casingMachineQuadrupleUranium.name=Reinforced Uranium 机器外壳
     S:oredict.casingMachineQuadrupleUranium235.name=Reinforced Uranium-235 机器外壳
+    S:oredict.casingMachineQuadrupleVanadiumSteel.name=Reinforced Vanadiumsteel Machine Casing
     S:oredict.casingMachineQuadrupleVibramantium.name=Reinforced Vibramantium 机器外壳
     S:oredict.casingMachineQuadrupleVibraniumSilver.name=Reinforced 钒银合金 机器外壳
     S:oredict.casingMachineQuadrupleVibraniumSteel.name=Reinforced 钒合金 Steel 机器外壳
@@ -10877,6 +10981,7 @@ languagefile {
     S:oredict.casingMachineUltimet.name=Ultimet 机器外壳
     S:oredict.casingMachineUranium.name=Uranium 机器外壳
     S:oredict.casingMachineUranium235.name=Uranium-235 机器外壳
+    S:oredict.casingMachineVanadiumSteel.name=Vanadiumsteel Machine Casing
     S:oredict.casingMachineVibramantium.name=Vibramantium 机器外壳
     S:oredict.casingMachineVibraniumSilver.name=钒银合金  机器外壳
     S:oredict.casingMachineVibraniumSteel.name=钒钢合金  机器外壳
@@ -10902,6 +11007,7 @@ languagefile {
     S:oredict.casingSmallAmericium.name=镅外壳
     S:oredict.casingSmallAmericium241.name=镅-241外壳
     S:oredict.casingSmallAmethyst.name=紫水晶 外壳
+    S:oredict.casingSmallAmethystEnder.name=Ender Amethyst Item Casing
     S:oredict.casingSmallAmordrine.name=熔融魔石外壳
     S:oredict.casingSmallAndesite.name=安山岩 外壳
     S:oredict.casingSmallAndradite.name=钙铁榴石 外壳
@@ -10951,6 +11057,7 @@ languagefile {
     S:oredict.casingSmallCobaltBrass.name=钴黄铜外壳
     S:oredict.casingSmallConcrete.name=混凝土 外壳
     S:oredict.casingSmallConductiveIron.name=导体铁 外壳
+    S:oredict.casingSmallConstantan.name=Constantan Item Casing
     S:oredict.casingSmallCopper.name=铜外壳
     S:oredict.casingSmallCraponite.name=Craponite 外壳
     S:oredict.casingSmallCupronickel.name=白铜外壳
@@ -11121,6 +11228,7 @@ languagefile {
     S:oredict.casingSmallUranium.name=铀外壳
     S:oredict.casingSmallUranium235.name=铀-235外壳
     S:oredict.casingSmallUvarovite.name=Uvarovite 外壳
+    S:oredict.casingSmallVanadiumSteel.name=Vanadiumsteel Item Casing
     S:oredict.casingSmallVibramantium.name=Vibramantium外壳
     S:oredict.casingSmallVibranium.name=钒合金 外壳
     S:oredict.casingSmallVibraniumSilver.name=钒银合金 外壳
@@ -11177,6 +11285,7 @@ languagefile {
     S:oredict.cellChlorine.name=Chlorine Cell
     S:oredict.cellChloroauricAcid.name=氯金酸 单元
     S:oredict.cellChloroplatinicAcid.name=氯铂酸 单元
+    S:oredict.cellCreosote.name=Creosote Cell
     S:oredict.cellCreosoteOil.name=木馏 油 单元
     S:oredict.cellCrudeOil.name=原油 单元
     S:oredict.cellCryotheum.name=元素碎片 单元
@@ -11203,6 +11312,7 @@ languagefile {
     S:oredict.cellHoneydew.name=甘露单元
     S:oredict.cellHydrochloricAcid.name=盐酸单元
     S:oredict.cellHydrogen.name=Hydrogen单元
+    S:oredict.cellHydrogenPeroxide.name=Hydrogen Peroxide Cell
     S:oredict.cellIce.name=冰单元
     S:oredict.cellKerosine.name=Kerosine 单元
     S:oredict.cellKrypton.name=氪单元
@@ -11284,6 +11394,7 @@ languagefile {
     S:oredict.cellRadon.name=Radon单元
     S:oredict.cellRedVitriol.name=红色硫酸盐 单元
     S:oredict.cellSaltWater.name=Salt Water 单元
+    S:oredict.cellSeawater.name=Seawater Cell
     S:oredict.cellSeedOil.name=种子油 单元
     S:oredict.cellSeedOilHemp.name=Hemp 种子 油 单元
     S:oredict.cellSeedOilLin.name=Lin 种子 油 单元
@@ -11318,6 +11429,7 @@ languagefile {
     S:oredict.chemtubeAmericium.name=镅试管
     S:oredict.chemtubeAmericium241.name=镅-241试管
     S:oredict.chemtubeAmethyst.name=紫水晶试管
+    S:oredict.chemtubeAmethystEnder.name=Glass Tube containing Ender Amethyst
     S:oredict.chemtubeAmordrine.name=熔融魔石试管
     S:oredict.chemtubeAndesite.name=安山岩试管
     S:oredict.chemtubeAndradite.name=钙铁榴石试管
@@ -11955,12 +12067,14 @@ languagefile {
     S:oredict.chemtubeCoffee.name=咖啡试管
     S:oredict.chemtubeConcrete.name=混凝土试管
     S:oredict.chemtubeConductiveIron.name=导体铁试管
+    S:oredict.chemtubeConstantan.name=Glass Tube containing Constantan
     S:oredict.chemtubeConstructionFoam.name=建筑泡沫试管
     S:oredict.chemtubeCooperite.name=Sheldonite试管
     S:oredict.chemtubeCopernicium.name=鎶试管
     S:oredict.chemtubeCopper.name=铜试管
     S:oredict.chemtubeCorn.name=Corn试管
     S:oredict.chemtubeCraponite.name=Craponite试管
+    S:oredict.chemtubeCreosote.name=Glass Tube containing Creosote
     S:oredict.chemtubeCreosoteOil.name=木馏 油试管
     S:oredict.chemtubeCrudeOil.name=原油试管
     S:oredict.chemtubeCryotheum.name=元素碎片试管
@@ -12105,6 +12219,7 @@ languagefile {
     S:oredict.chemtubeHydratedCoal.name=Hydrated 煤试管
     S:oredict.chemtubeHydrochloricAcid.name=Hydrochloric 酸试管
     S:oredict.chemtubeHydrogen.name=Hydrogen试管
+    S:oredict.chemtubeHydrogenPeroxide.name=Glass Tube containing Hydrogen Peroxide
     S:oredict.chemtubeIce.name=冰试管
     S:oredict.chemtubeIgnatius.name=伊格内修斯试管
     S:oredict.chemtubeIlmenite.name=钛铁矿试管
@@ -12336,6 +12451,7 @@ languagefile {
     S:oredict.chemtubeScandium.name=钪试管
     S:oredict.chemtubeScheelite.name=Scheelite试管
     S:oredict.chemtubeSeaborgium.name=Seaborgium试管
+    S:oredict.chemtubeSeawater.name=Glass Tube containing Seawater
     S:oredict.chemtubeSeedOil.name=种子油试管
     S:oredict.chemtubeSeedOilHemp.name=Hemp 种子 油试管
     S:oredict.chemtubeSeedOilLin.name=Lin 种子 油试管
@@ -12356,9 +12472,12 @@ languagefile {
     S:oredict.chemtubeSodalite.name=方钠石试管
     S:oredict.chemtubeSodium.name=钠试管
     S:oredict.chemtubeSodiumBisulfate.name=Sodium Bisulfate试管
+    S:oredict.chemtubeSodiumHydroxide.name=Glass Tube containing Sodium Hydroxide
     S:oredict.chemtubeSodiumPersulfate.name=钠 Persulfate试管
     S:oredict.chemtubeSodiumPyrosulfate.name=Sodium Pyrosulfate试管
+    S:oredict.chemtubeSodiumSulfate.name=Glass Tube containing Sodium Sulfate
     S:oredict.chemtubeSodiumSulfide.name=钠 Sulfide试管
+    S:oredict.chemtubeSodiumSulfite.name=Glass Tube containing Sodium Sulfite
     S:oredict.chemtubeSolderingAlloy.name=钎焊合金试管
     S:oredict.chemtubeSoularium.name=Soularium试管
     S:oredict.chemtubeSoulsand.name=Soulsand试管
@@ -12619,6 +12738,7 @@ languagefile {
     S:oredict.chemtubeVanadiumGallium.name=钒-镓试管
     S:oredict.chemtubeVanadiumMagnetite.name=钒磁铁矿试管
     S:oredict.chemtubeVanadiumPentoxide.name=Vanadium Pentoxide试管
+    S:oredict.chemtubeVanadiumSteel.name=Glass Tube containing Vanadiumsteel
     S:oredict.chemtubeVanilla.name=Vanilla试管
     S:oredict.chemtubeVermiculite.name=Vermiculite试管
     S:oredict.chemtubeVibramantium.name=Vibramantium试管
@@ -12852,6 +12972,7 @@ languagefile {
     S:oredict.chunkGtCobalt60.name=钴-60小块
     S:oredict.chunkGtCobaltBrass.name=钴黄铜小块
     S:oredict.chunkGtConductiveIron.name=导体铁小块
+    S:oredict.chunkGtConstantan.name=Constantan Chunk
     S:oredict.chunkGtCopernicium.name=鎶小块
     S:oredict.chunkGtCopper.name=铜小块
     S:oredict.chunkGtCupronickel.name=白铜小块
@@ -13051,6 +13172,7 @@ languagefile {
     S:oredict.chunkGtUranium235.name=铀-235小块
     S:oredict.chunkGtVanadium.name=钒小块
     S:oredict.chunkGtVanadiumGallium.name=钒-镓小块
+    S:oredict.chunkGtVanadiumSteel.name=Vanadiumsteel Chunk
     S:oredict.chunkGtVibramantium.name=Vibramantium小块
     S:oredict.chunkGtVibraniumSilver.name=钒银合金 小块
     S:oredict.chunkGtVibraniumSteel.name=钒钢合金 小块
@@ -13087,6 +13209,7 @@ languagefile {
     S:oredict.crateGtDustAmericium.name=镅粉板条箱
     S:oredict.crateGtDustAmericium241.name=镅-241粉板条箱
     S:oredict.crateGtDustAmethyst.name=紫水晶粉板条箱
+    S:oredict.crateGtDustAmethystEnder.name=Crate of Ender Amethyst Dust
     S:oredict.crateGtDustAmordrine.name=熔融魔石粉板条箱
     S:oredict.crateGtDustAndesite.name=安山岩粉板条箱
     S:oredict.crateGtDustAndradite.name=钙铁榴石粉板条箱
@@ -13323,6 +13446,7 @@ languagefile {
     S:oredict.crateGtDustCoffee.name=咖啡粉块板条箱
     S:oredict.crateGtDustConcrete.name=混凝土粉板条箱
     S:oredict.crateGtDustConductiveIron.name=导体铁粉板条箱
+    S:oredict.crateGtDustConstantan.name=Crate of Constantan Dust
     S:oredict.crateGtDustConstructionFoam.name=泡沫粉块板条箱
     S:oredict.crateGtDustCooperite.name=Sheldonite粉板条箱
     S:oredict.crateGtDustCopernicium.name=鎶粉板条箱
@@ -13664,9 +13788,12 @@ languagefile {
     S:oredict.crateGtDustSodalite.name=方钠石粉板条箱
     S:oredict.crateGtDustSodium.name=钠粉板条箱
     S:oredict.crateGtDustSodiumBisulfate.name=Sodium Bisulfate粉板条箱
+    S:oredict.crateGtDustSodiumHydroxide.name=Crate of Sodium Hydroxide Dust
     S:oredict.crateGtDustSodiumPersulfate.name=Sodium Persulfate粉板条箱
     S:oredict.crateGtDustSodiumPyrosulfate.name=Sodium Pyrosulfate粉板条箱
+    S:oredict.crateGtDustSodiumSulfate.name=Crate of Sodium Sulfate Dust
     S:oredict.crateGtDustSodiumSulfide.name=Sodium Sulfide粉板条箱
+    S:oredict.crateGtDustSodiumSulfite.name=Crate of Sodium Sulfite Dust
     S:oredict.crateGtDustSolderingAlloy.name=钎焊合金粉板条箱
     S:oredict.crateGtDustSoularium.name=Soularium粉板条箱
     S:oredict.crateGtDustSoylentGreen.name=Emerald 绿色板条箱
@@ -13742,6 +13869,7 @@ languagefile {
     S:oredict.crateGtDustVanadiumGallium.name=钒-镓粉板条箱
     S:oredict.crateGtDustVanadiumMagnetite.name=钒磁铁矿粉板条箱
     S:oredict.crateGtDustVanadiumPentoxide.name=Vanadium Pentoxide粉板条箱
+    S:oredict.crateGtDustVanadiumSteel.name=Crate of Vanadiumsteel Dust
     S:oredict.crateGtDustVanilla.name=Ground Vanilla板条箱
     S:oredict.crateGtDustVermiculite.name=Vermiculite板条箱
     S:oredict.crateGtDustVibramantium.name=Vibramantium粉板条箱
@@ -13806,6 +13934,7 @@ languagefile {
     S:oredict.crateGtGemAlmandine.name=Almandine板条箱
     S:oredict.crateGtGemAmber.name=琥珀板条箱
     S:oredict.crateGtGemAmethyst.name=紫水晶板条箱
+    S:oredict.crateGtGemAmethystEnder.name=Crate of Ender Amethyst
     S:oredict.crateGtGemAndradite.name=Andradite板条箱
     S:oredict.crateGtGemAnthracite.name=Anthracite板条箱
     S:oredict.crateGtGemAntiBromine.name=反物质溴板条箱
@@ -14066,6 +14195,7 @@ languagefile {
     S:oredict.crateGtIngotCobalt60.name=钴-60锭板条箱
     S:oredict.crateGtIngotCobaltBrass.name=钴黄铜锭板条箱
     S:oredict.crateGtIngotConductiveIron.name=导体铁锭板条箱
+    S:oredict.crateGtIngotConstantan.name=Crate of Constantan Ingot
     S:oredict.crateGtIngotCopernicium.name=鎶锭板条箱
     S:oredict.crateGtIngotCopper.name=铜锭板条箱
     S:oredict.crateGtIngotCupronickel.name=白铜锭板条箱
@@ -14265,6 +14395,7 @@ languagefile {
     S:oredict.crateGtIngotUranium235.name=铀-235锭板条箱
     S:oredict.crateGtIngotVanadium.name=钒锭板条箱
     S:oredict.crateGtIngotVanadiumGallium.name=钒-镓锭板条箱
+    S:oredict.crateGtIngotVanadiumSteel.name=Crate of Vanadiumsteel Ingot
     S:oredict.crateGtIngotVibramantium.name=Vibramantium锭板条箱
     S:oredict.crateGtIngotVibraniumSilver.name=钒银合金锭板条箱
     S:oredict.crateGtIngotVibraniumSteel.name=钒钢合金锭板条箱
@@ -14457,6 +14588,7 @@ languagefile {
     S:oredict.crateGtPlateCobaltBrass.name=钴黄铜板板条箱
     S:oredict.crateGtPlateConcrete.name=Concrete 板板条箱
     S:oredict.crateGtPlateConductiveIron.name=导体铁 板板条箱
+    S:oredict.crateGtPlateConstantan.name=Crate of Constantan Plate
     S:oredict.crateGtPlateCopernicium.name=鎶板板条箱
     S:oredict.crateGtPlateCopper.name=铜板板条箱
     S:oredict.crateGtPlateCupronickel.name=白铜板板条箱
@@ -14507,6 +14639,7 @@ languagefile {
     S:oredict.crateGtPlateGemAlmandine.name=Almandine 板板条箱
     S:oredict.crateGtPlateGemAmber.name=琥珀板板条箱
     S:oredict.crateGtPlateGemAmethyst.name=紫水晶板板条箱
+    S:oredict.crateGtPlateGemAmethystEnder.name=Crate of Crystalline Ender Amethyst Plate
     S:oredict.crateGtPlateGemAndradite.name=Andradite 板板条箱
     S:oredict.crateGtPlateGemAnthracite.name=水晶line Anthracite 板板条箱
     S:oredict.crateGtPlateGemAntiVibranium.name=反物质钒合金板板条箱
@@ -14756,6 +14889,7 @@ languagefile {
     S:oredict.crateGtPlateUranium235.name=铀-235板板条箱
     S:oredict.crateGtPlateVanadium.name=钒板板条箱
     S:oredict.crateGtPlateVanadiumGallium.name=钒-镓板板条箱
+    S:oredict.crateGtPlateVanadiumSteel.name=Crate of Vanadiumsteel Plate
     S:oredict.crateGtPlateVibramantium.name=Vibramantium板板条箱
     S:oredict.crateGtPlateVibraniumSilver.name=钒银合金 板板条箱
     S:oredict.crateGtPlateVibraniumSteel.name=钒钢合金 板板条箱
@@ -14798,6 +14932,7 @@ languagefile {
     S:oredict.crushedAmericium.name=粉碎镅矿石
     S:oredict.crushedAmericium241.name=粉碎镅-241矿石
     S:oredict.crushedAmethyst.name=粉碎紫水晶矿石
+    S:oredict.crushedAmethystEnder.name=Crushed Ender Amethyst Ore
     S:oredict.crushedAndradite.name=粉碎钙铁榴石矿石
     S:oredict.crushedAnthracite.name=粉碎 Anthracite矿石
     S:oredict.crushedAntiActinium.name=粉碎反物质锕矿石
@@ -14981,6 +15116,7 @@ languagefile {
     S:oredict.crushedCentrifugedAmericium.name=离心过的镅矿石
     S:oredict.crushedCentrifugedAmericium241.name=离心过的镅-241矿石
     S:oredict.crushedCentrifugedAmethyst.name=离心过的紫水晶矿石
+    S:oredict.crushedCentrifugedAmethystEnder.name=Refined Ender Amethyst Ore
     S:oredict.crushedCentrifugedAndradite.name=离心过的钙铁榴石矿石
     S:oredict.crushedCentrifugedAnthracite.name=离心过的 Anthracite矿石
     S:oredict.crushedCentrifugedAntiActinium.name=离心过的反物质锕矿石
@@ -15415,6 +15551,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyAmericium.name=小撮离心过的 Americium矿石
     S:oredict.crushedCentrifugedTinyAmericium241.name=小撮离心过的 Americium-241矿石
     S:oredict.crushedCentrifugedTinyAmethyst.name=小撮离心过的 Amethyst矿石
+    S:oredict.crushedCentrifugedTinyAmethystEnder.name=Tiny Refined Ender Amethyst Ore
     S:oredict.crushedCentrifugedTinyAndradite.name=小撮离心过的 Andradite矿石
     S:oredict.crushedCentrifugedTinyAnthracite.name=小撮离心过的 Anthracite矿石
     S:oredict.crushedCentrifugedTinyAntiActinium.name=小撮离心过的 反物质Actinium矿石
@@ -15864,6 +16001,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyUvarovite.name=小撮离心过的Uvarovite矿石
     S:oredict.crushedCentrifugedTinyVanadium.name=小撮离心过的Vanadium矿石
     S:oredict.crushedCentrifugedTinyVanadiumMagnetite.name=小撮离心过的Vanadium Magnetite矿石
+    S:oredict.crushedCentrifugedTinyVanadiumPentoxide.name=Tiny Refined Vanadium Pentoxide Ore
     S:oredict.crushedCentrifugedTinyVermiculite.name=小撮离心过的Vermiculite
     S:oredict.crushedCentrifugedTinyVibranium.name=小撮离心过的Vibranium矿石
     S:oredict.crushedCentrifugedTinyVinteum.name=小撮离心过的Vinteum矿石
@@ -15914,6 +16052,7 @@ languagefile {
     S:oredict.crushedCentrifugedUvarovite.name=离心过的Uvarovite矿石
     S:oredict.crushedCentrifugedVanadium.name=离心过的钒矿石
     S:oredict.crushedCentrifugedVanadiumMagnetite.name=离心过的钒磁铁矿石
+    S:oredict.crushedCentrifugedVanadiumPentoxide.name=Refined Vanadium Pentoxide Ore
     S:oredict.crushedCentrifugedVermiculite.name=离心过的Vermiculite
     S:oredict.crushedCentrifugedVibranium.name=离心过的钒合金矿石
     S:oredict.crushedCentrifugedVinteum.name=离心过的古蓝石矿石
@@ -16139,6 +16278,7 @@ languagefile {
     S:oredict.crushedPurifiedAmericium.name=纯净镅矿石
     S:oredict.crushedPurifiedAmericium241.name=纯净镅-241矿石
     S:oredict.crushedPurifiedAmethyst.name=纯净紫水晶矿石
+    S:oredict.crushedPurifiedAmethystEnder.name=Purified Ender Amethyst Ore
     S:oredict.crushedPurifiedAndradite.name=纯净钙铁榴石矿石
     S:oredict.crushedPurifiedAnthracite.name=Purified Anthracite矿石
     S:oredict.crushedPurifiedAntiActinium.name=纯净反物质锕矿石
@@ -16573,6 +16713,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyAmericium.name=小撮纯净Americium矿石
     S:oredict.crushedPurifiedTinyAmericium241.name=小撮纯净Americium-241矿石
     S:oredict.crushedPurifiedTinyAmethyst.name=小撮纯净Amethyst矿石
+    S:oredict.crushedPurifiedTinyAmethystEnder.name=Tiny Purified Ender Amethyst Ore
     S:oredict.crushedPurifiedTinyAndradite.name=小撮纯净Andradite矿石
     S:oredict.crushedPurifiedTinyAnthracite.name=小撮纯净Anthracite矿石
     S:oredict.crushedPurifiedTinyAntiActinium.name=小撮纯净反物质Actinium矿石
@@ -17022,6 +17163,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyUvarovite.name=小撮纯净Uvarovite矿石
     S:oredict.crushedPurifiedTinyVanadium.name=小撮纯净Vanadium矿石
     S:oredict.crushedPurifiedTinyVanadiumMagnetite.name=小撮纯净Vanadium Magnetite矿石
+    S:oredict.crushedPurifiedTinyVanadiumPentoxide.name=Tiny Purified Vanadium Pentoxide Ore
     S:oredict.crushedPurifiedTinyVermiculite.name=小撮纯净Vermiculite
     S:oredict.crushedPurifiedTinyVibranium.name=小撮纯净Vibranium矿石
     S:oredict.crushedPurifiedTinyVinteum.name=小撮纯净Vinteum矿石
@@ -17072,6 +17214,7 @@ languagefile {
     S:oredict.crushedPurifiedUvarovite.name=纯净Uvarovite矿石
     S:oredict.crushedPurifiedVanadium.name=纯净钒矿石
     S:oredict.crushedPurifiedVanadiumMagnetite.name=纯净钒磁铁矿石
+    S:oredict.crushedPurifiedVanadiumPentoxide.name=Purified Vanadium Pentoxide Ore
     S:oredict.crushedPurifiedVermiculite.name=纯净Vermiculite
     S:oredict.crushedPurifiedVibranium.name=纯净钒合金矿石
     S:oredict.crushedPurifiedVinteum.name=纯净古蓝石矿石
@@ -17169,6 +17312,7 @@ languagefile {
     S:oredict.crushedTinyAmericium.name=小搓粉碎Americium矿石
     S:oredict.crushedTinyAmericium241.name=小搓粉碎Americium-241矿石
     S:oredict.crushedTinyAmethyst.name=小搓粉碎Amethyst矿石
+    S:oredict.crushedTinyAmethystEnder.name=Tiny Crushed Ender Amethyst Ore
     S:oredict.crushedTinyAndradite.name=小搓粉碎Andradite矿石
     S:oredict.crushedTinyAnthracite.name=小搓粉碎Anthracite矿石
     S:oredict.crushedTinyAntiActinium.name=小搓粉碎反物质Actinium矿石
@@ -17618,6 +17762,7 @@ languagefile {
     S:oredict.crushedTinyUvarovite.name=小搓粉碎Uvarovite矿石
     S:oredict.crushedTinyVanadium.name=小搓粉碎Vanadium矿石
     S:oredict.crushedTinyVanadiumMagnetite.name=小搓粉碎Vanadium Magnetite矿石
+    S:oredict.crushedTinyVanadiumPentoxide.name=Tiny Crushed Vanadium Pentoxide Ore
     S:oredict.crushedTinyVermiculite.name=小撮Ground Vermiculite
     S:oredict.crushedTinyVibranium.name=小搓粉碎Vibranium矿石
     S:oredict.crushedTinyVinteum.name=小搓粉碎Vinteum矿石
@@ -17668,6 +17813,7 @@ languagefile {
     S:oredict.crushedUvarovite.name=粉碎Uvarovite矿石
     S:oredict.crushedVanadium.name=粉碎钒矿石
     S:oredict.crushedVanadiumMagnetite.name=粉碎钒磁铁矿石
+    S:oredict.crushedVanadiumPentoxide.name=Crushed Vanadium Pentoxide Ore
     S:oredict.crushedVermiculite.name=Ground Vermiculite
     S:oredict.crushedVibranium.name=粉碎Vibranium矿石
     S:oredict.crushedVinteum.name=粉碎古蓝石矿石
@@ -17707,6 +17853,7 @@ languagefile {
     S:oredict.dustAmericium.name=镅粉
     S:oredict.dustAmericium241.name=镅-241粉
     S:oredict.dustAmethyst.name=紫水晶粉
+    S:oredict.dustAmethystEnder.name=Ender Amethyst Dust
     S:oredict.dustAmordrine.name=熔融魔石粉
     S:oredict.dustAndesite.name=安山岩粉
     S:oredict.dustAndradite.name=钙铁榴石粉
@@ -17941,6 +18088,7 @@ languagefile {
     S:oredict.dustCoffee.name=咖啡粉块
     S:oredict.dustConcrete.name=混凝土粉
     S:oredict.dustConductiveIron.name=导体铁粉
+    S:oredict.dustConstantan.name=Constantan Dust
     S:oredict.dustConstructionFoam.name=泡沫粉块
     S:oredict.dustCooperite.name=Sheldonite粉
     S:oredict.dustCopernicium.name=鎶粉
@@ -17984,6 +18132,7 @@ languagefile {
     S:oredict.dustDiv72Americium.name=1/72nd of a Pile of Americium 粉
     S:oredict.dustDiv72Americium241.name=1/72nd of a Pile of Americium-241 粉
     S:oredict.dustDiv72Amethyst.name=1/72nd of a Pile of Amethyst 粉
+    S:oredict.dustDiv72AmethystEnder.name=1/72nd of a Pile of Ender Amethyst Dust
     S:oredict.dustDiv72Amordrine.name=1/72nd of a Pile of Amordrine 粉
     S:oredict.dustDiv72Andesite.name=1/72nd of a Pile of Andesite 粉
     S:oredict.dustDiv72Andradite.name=1/72nd of a Pile of Andradite 粉
@@ -18215,6 +18364,7 @@ languagefile {
     S:oredict.dustDiv72Coffee.name=1/72nd of a Pile of Coffee Powder
     S:oredict.dustDiv72Concrete.name=1/72nd of a Pile of Concrete 粉
     S:oredict.dustDiv72ConductiveIron.name=1/72nd of a Pile of 导体铁 粉
+    S:oredict.dustDiv72Constantan.name=1/72nd of a Pile of Constantan Dust
     S:oredict.dustDiv72ConstructionFoam.name=1/72nd of a Pile of 泡沫 Powder
     S:oredict.dustDiv72Cooperite.name=1/72nd of a Pile of Sheldonite 粉
     S:oredict.dustDiv72Copernicium.name=1/72nd of a Pile of Copernicium 粉
@@ -18546,9 +18696,12 @@ languagefile {
     S:oredict.dustDiv72Sodalite.name=1/72nd of a Pile of Sodalite 粉
     S:oredict.dustDiv72Sodium.name=1/72nd of a Pile of Sodium 粉
     S:oredict.dustDiv72SodiumBisulfate.name=1/72nd of a Pile of Sodium Bisulfate 粉
+    S:oredict.dustDiv72SodiumHydroxide.name=1/72nd of a Pile of Sodium Hydroxide Dust
     S:oredict.dustDiv72SodiumPersulfate.name=1/72nd of a Pile of Sodium Persulfate 粉
     S:oredict.dustDiv72SodiumPyrosulfate.name=1/72nd of a Pile of Sodium Pyrosulfate 粉
+    S:oredict.dustDiv72SodiumSulfate.name=1/72nd of a Pile of Sodium Sulfate Dust
     S:oredict.dustDiv72SodiumSulfide.name=1/72nd of a Pile of Sodium Sulfide 粉
+    S:oredict.dustDiv72SodiumSulfite.name=1/72nd of a Pile of Sodium Sulfite Dust
     S:oredict.dustDiv72SolderingAlloy.name=1/72nd of a Pile of 钎焊合金 粉
     S:oredict.dustDiv72Soularium.name=1/72nd of a Pile of Soularium 粉
     S:oredict.dustDiv72SoylentGreen.name=1/72nd of a Pile of Emerald 绿色
@@ -18621,6 +18774,7 @@ languagefile {
     S:oredict.dustDiv72Vanadium.name=1/72nd of a Pile of Vanadium 粉
     S:oredict.dustDiv72VanadiumGallium.name=1/72nd of a Pile of Vanadium-Gallium 粉
     S:oredict.dustDiv72VanadiumPentoxide.name=1/72nd of a Pile of Vanadium Pentoxide 粉
+    S:oredict.dustDiv72VanadiumSteel.name=1/72nd of a Pile of Vanadiumsteel Dust
     S:oredict.dustDiv72Vanilla.name=1/72nd of a Pile of Ground Vanilla
     S:oredict.dustDiv72Vermiculite.name=1/72nd of a Pile of Vermiculite
     S:oredict.dustDiv72Vibramantium.name=1/72nd of a Pile of Vibramantium 粉
@@ -18767,6 +18921,7 @@ languagefile {
     S:oredict.dustImpureAmericium.name=含杂镅粉
     S:oredict.dustImpureAmericium241.name=含杂镅-241粉
     S:oredict.dustImpureAmethyst.name=含杂紫水晶粉
+    S:oredict.dustImpureAmethystEnder.name=Impure Pile of Ender Amethyst Dust
     S:oredict.dustImpureAndesite.name=含杂 Andesite粉
     S:oredict.dustImpureAndradite.name=含杂钙铁榴石粉
     S:oredict.dustImpureAnthracite.name=含杂 Anthracite粉
@@ -19248,6 +19403,7 @@ languagefile {
     S:oredict.dustImpureUvarovite.name=含杂Uvarovite粉
     S:oredict.dustImpureVanadium.name=含杂钒粉
     S:oredict.dustImpureVanadiumMagnetite.name=含杂钒磁铁矿粉
+    S:oredict.dustImpureVanadiumPentoxide.name=Impure Pile of Vanadium Pentoxide Dust
     S:oredict.dustImpureVermiculite.name=含杂Vermiculite
     S:oredict.dustImpureVibranium.name=含杂Vibranium粉
     S:oredict.dustImpureVinteum.name=含杂古蓝石粉
@@ -19440,6 +19596,7 @@ languagefile {
     S:oredict.dustPureAmericium.name=纯净镅粉
     S:oredict.dustPureAmericium241.name=纯净镅-241粉
     S:oredict.dustPureAmethyst.name=纯净紫水晶粉
+    S:oredict.dustPureAmethystEnder.name=Purified Pile of Ender Amethyst Dust
     S:oredict.dustPureAndesite.name=纯净Andesite粉
     S:oredict.dustPureAndradite.name=纯净钙铁榴石粉
     S:oredict.dustPureAnthracite.name=纯净Anthracite粉
@@ -19921,6 +20078,7 @@ languagefile {
     S:oredict.dustPureUvarovite.name=纯净Uvarovite粉
     S:oredict.dustPureVanadium.name=纯净钒粉
     S:oredict.dustPureVanadiumMagnetite.name=纯净钒磁铁矿粉
+    S:oredict.dustPureVanadiumPentoxide.name=Purified Pile of Vanadium Pentoxide Dust
     S:oredict.dustPureVermiculite.name=纯净Vermiculite
     S:oredict.dustPureVibranium.name=纯净钒合金粉
     S:oredict.dustPureVinteum.name=纯净古蓝石粉
@@ -20011,6 +20169,7 @@ languagefile {
     S:oredict.dustSmallAmericium.name=小堆镅粉
     S:oredict.dustSmallAmericium241.name=小堆镅-241粉
     S:oredict.dustSmallAmethyst.name=小堆紫水晶粉
+    S:oredict.dustSmallAmethystEnder.name=Small Pile of Ender Amethyst Dust
     S:oredict.dustSmallAmordrine.name=小堆熔融魔石粉
     S:oredict.dustSmallAndesite.name=小堆安山岩粉
     S:oredict.dustSmallAndradite.name=小堆钙铁榴石粉
@@ -20247,6 +20406,7 @@ languagefile {
     S:oredict.dustSmallCoffee.name=小堆Coffee粉块
     S:oredict.dustSmallConcrete.name=小堆混凝土粉
     S:oredict.dustSmallConductiveIron.name=小堆导体铁粉
+    S:oredict.dustSmallConstantan.name=Small Pile of Constantan Dust
     S:oredict.dustSmallConstructionFoam.name=小型Pile of泡沫粉块
     S:oredict.dustSmallCooperite.name=小堆Sheldonite粉
     S:oredict.dustSmallCopernicium.name=小堆鎶粉
@@ -20588,9 +20748,12 @@ languagefile {
     S:oredict.dustSmallSodalite.name=小堆方钠石粉
     S:oredict.dustSmallSodium.name=小堆钠粉
     S:oredict.dustSmallSodiumBisulfate.name=小堆Sodium Bisulfate粉
+    S:oredict.dustSmallSodiumHydroxide.name=Small Pile of Sodium Hydroxide Dust
     S:oredict.dustSmallSodiumPersulfate.name=小堆Sodium Persulfate粉
     S:oredict.dustSmallSodiumPyrosulfate.name=小堆Sodium Pyrosulfate粉
+    S:oredict.dustSmallSodiumSulfate.name=Small Pile of Sodium Sulfate Dust
     S:oredict.dustSmallSodiumSulfide.name=小撮Sodium Sulfide粉
+    S:oredict.dustSmallSodiumSulfite.name=Small Pile of Sodium Sulfite Dust
     S:oredict.dustSmallSolderingAlloy.name=小堆钎焊合金粉
     S:oredict.dustSmallSoularium.name=小堆Soularium粉
     S:oredict.dustSmallSoylentGreen.name=小堆 Emerald 绿色
@@ -20666,6 +20829,7 @@ languagefile {
     S:oredict.dustSmallVanadiumGallium.name=小堆钒-镓粉
     S:oredict.dustSmallVanadiumMagnetite.name=小堆钒磁铁矿粉
     S:oredict.dustSmallVanadiumPentoxide.name=小堆Vanadium Pentoxide粉
+    S:oredict.dustSmallVanadiumSteel.name=Small Pile of Vanadiumsteel Dust
     S:oredict.dustSmallVanilla.name=小堆Ground Vanilla
     S:oredict.dustSmallVermiculite.name=小堆Vermiculite
     S:oredict.dustSmallVibramantium.name=小堆Vibramantium粉
@@ -20733,9 +20897,12 @@ languagefile {
     S:oredict.dustSodalite.name=方钠石粉
     S:oredict.dustSodium.name=钠粉
     S:oredict.dustSodiumBisulfate.name=Sodium Bisulfate粉
+    S:oredict.dustSodiumHydroxide.name=Sodium Hydroxide Dust
     S:oredict.dustSodiumPersulfate.name=Sodium Persulfate粉
     S:oredict.dustSodiumPyrosulfate.name=Sodium Pyrosulfate粉
+    S:oredict.dustSodiumSulfate.name=Sodium Sulfate Dust
     S:oredict.dustSodiumSulfide.name=Sodium Sulfide粉
+    S:oredict.dustSodiumSulfite.name=Sodium Sulfite Dust
     S:oredict.dustSolderingAlloy.name=钎焊合金粉
     S:oredict.dustSoularium.name=Soularium粉
     S:oredict.dustSoylentGreen.name=绿色绿宝石
@@ -20791,6 +20958,7 @@ languagefile {
     S:oredict.dustTinyAmericium.name=小撮镅粉
     S:oredict.dustTinyAmericium241.name=小撮镅-241粉
     S:oredict.dustTinyAmethyst.name=小撮紫水晶粉
+    S:oredict.dustTinyAmethystEnder.name=Tiny Pile of Ender Amethyst Dust
     S:oredict.dustTinyAmordrine.name=小撮魔力之石粉
     S:oredict.dustTinyAndesite.name=小撮安山岩粉
     S:oredict.dustTinyAndradite.name=小撮钙铁榴石粉
@@ -21027,6 +21195,7 @@ languagefile {
     S:oredict.dustTinyCoffee.name=小撮Coffee粉块
     S:oredict.dustTinyConcrete.name=小撮Concrete粉
     S:oredict.dustTinyConductiveIron.name=小撮导体铁粉
+    S:oredict.dustTinyConstantan.name=Tiny Pile of Constantan Dust
     S:oredict.dustTinyConstructionFoam.name=小撮泡沫粉块
     S:oredict.dustTinyCooperite.name=小撮Sheldonite粉
     S:oredict.dustTinyCopernicium.name=小撮Copernicium粉
@@ -21368,9 +21537,12 @@ languagefile {
     S:oredict.dustTinySodalite.name=小撮Sodalite粉
     S:oredict.dustTinySodium.name=小撮Sodium粉
     S:oredict.dustTinySodiumBisulfate.name=小撮Sodium Bisulfate粉
+    S:oredict.dustTinySodiumHydroxide.name=Tiny Pile of Sodium Hydroxide Dust
     S:oredict.dustTinySodiumPersulfate.name=小撮Sodium Persulfate粉
     S:oredict.dustTinySodiumPyrosulfate.name=小撮Sodium Pyrosulfate粉
+    S:oredict.dustTinySodiumSulfate.name=Tiny Pile of Sodium Sulfate Dust
     S:oredict.dustTinySodiumSulfide.name=小撮 Sodium Sulfide粉
+    S:oredict.dustTinySodiumSulfite.name=Tiny Pile of Sodium Sulfite Dust
     S:oredict.dustTinySolderingAlloy.name=小撮Soldering合金粉
     S:oredict.dustTinySoularium.name=小撮Soularium粉
     S:oredict.dustTinySoylentGreen.name=小撮 Emerald 绿色
@@ -21446,6 +21618,7 @@ languagefile {
     S:oredict.dustTinyVanadiumGallium.name=小撮钒-镓粉
     S:oredict.dustTinyVanadiumMagnetite.name=小撮钒磁铁矿粉
     S:oredict.dustTinyVanadiumPentoxide.name=小撮Vanadium Pentoxide粉
+    S:oredict.dustTinyVanadiumSteel.name=Tiny Pile of Vanadiumsteel Dust
     S:oredict.dustTinyVanilla.name=小撮Ground Vanilla
     S:oredict.dustTinyVermiculite.name=小撮Vermiculite
     S:oredict.dustTinyVibramantium.name=小撮Vibramantium粉
@@ -21540,6 +21713,7 @@ languagefile {
     S:oredict.dustVanadiumGallium.name=钒-镓粉
     S:oredict.dustVanadiumMagnetite.name=钒磁铁矿粉
     S:oredict.dustVanadiumPentoxide.name=Vanadium Pentoxide粉
+    S:oredict.dustVanadiumSteel.name=Vanadiumsteel Dust
     S:oredict.dustVanilla.name=Ground Vanilla
     S:oredict.dustVermiculite.name=Vermiculite
     S:oredict.dustVibramantium.name=Vibramantium粉
@@ -21762,6 +21936,7 @@ languagefile {
     S:oredict.foilCobalt60.name=钴-60箔
     S:oredict.foilCobaltBrass.name=钴黄铜箔
     S:oredict.foilConductiveIron.name=导体铁箔
+    S:oredict.foilConstantan.name=Constantan Foil
     S:oredict.foilCopernicium.name=鎶箔
     S:oredict.foilCopper.name=铜箔
     S:oredict.foilCupronickel.name=白铜箔
@@ -21951,6 +22126,7 @@ languagefile {
     S:oredict.foilUranium235.name=铀-235箔
     S:oredict.foilVanadium.name=钒箔
     S:oredict.foilVanadiumGallium.name=钒-镓箔
+    S:oredict.foilVanadiumSteel.name=Vanadiumsteel Foil
     S:oredict.foilVibramantium.name=Vibramantium箔
     S:oredict.foilVibraniumSilver.name=钒银合金箔
     S:oredict.foilVibraniumSteel.name=钒钢合金箔
@@ -21991,6 +22167,7 @@ languagefile {
     S:oredict.gearGtAmericium.name=镅齿轮
     S:oredict.gearGtAmericium241.name=镅-241齿轮
     S:oredict.gearGtAmethyst.name=紫水晶齿轮
+    S:oredict.gearGtAmethystEnder.name=Ender Amethyst Gear
     S:oredict.gearGtAmordrine.name=熔融魔石齿轮
     S:oredict.gearGtAndesite.name=安山岩齿轮
     S:oredict.gearGtAndradite.name=钙铁榴石齿轮
@@ -22040,6 +22217,7 @@ languagefile {
     S:oredict.gearGtCobaltBrass.name=钴黄铜齿轮
     S:oredict.gearGtConcrete.name=混凝土齿轮
     S:oredict.gearGtConductiveIron.name=导体铁 齿轮
+    S:oredict.gearGtConstantan.name=Constantan Gear
     S:oredict.gearGtCopper.name=铜齿轮
     S:oredict.gearGtCraponite.name=Craponite齿轮
     S:oredict.gearGtCupronickel.name=白铜齿轮
@@ -22188,6 +22366,7 @@ languagefile {
     S:oredict.gearGtSmallAmericium.name=小型镅齿轮
     S:oredict.gearGtSmallAmericium241.name=小型镅-241齿轮
     S:oredict.gearGtSmallAmethyst.name=小型紫水晶齿轮
+    S:oredict.gearGtSmallAmethystEnder.name=Small Ender Amethyst Gear
     S:oredict.gearGtSmallAmordrine.name=小型熔融魔石齿轮
     S:oredict.gearGtSmallAndesite.name=小型Andesite齿轮
     S:oredict.gearGtSmallAndradite.name=小型Andradite齿轮
@@ -22237,6 +22416,7 @@ languagefile {
     S:oredict.gearGtSmallCobaltBrass.name=小型钴黄铜齿轮
     S:oredict.gearGtSmallConcrete.name=小型混凝土齿轮
     S:oredict.gearGtSmallConductiveIron.name=小型导体铁齿轮
+    S:oredict.gearGtSmallConstantan.name=Small Constantan Gear
     S:oredict.gearGtSmallCopper.name=小型铜齿轮
     S:oredict.gearGtSmallCraponite.name=小型Craponite齿轮
     S:oredict.gearGtSmallCupronickel.name=小型白铜齿轮
@@ -22407,6 +22587,7 @@ languagefile {
     S:oredict.gearGtSmallUranium.name=小型铀齿轮
     S:oredict.gearGtSmallUranium235.name=小型铀-235齿轮
     S:oredict.gearGtSmallUvarovite.name=小型Uvarovite齿轮
+    S:oredict.gearGtSmallVanadiumSteel.name=Small Vanadiumsteel Gear
     S:oredict.gearGtSmallVibramantium.name=小型Vibramantium齿轮
     S:oredict.gearGtSmallVibranium.name=小型Vibranium齿轮
     S:oredict.gearGtSmallVibraniumSilver.name=小型钒银合金 齿轮
@@ -22466,6 +22647,7 @@ languagefile {
     S:oredict.gearGtUranium.name=铀齿轮
     S:oredict.gearGtUranium235.name=铀-235齿轮
     S:oredict.gearGtUvarovite.name=Uvarovite齿轮
+    S:oredict.gearGtVanadiumSteel.name=Vanadiumsteel Gear
     S:oredict.gearGtVibramantium.name=Vibramantium齿轮
     S:oredict.gearGtVibranium.name=Vibranium齿轮
     S:oredict.gearGtVibraniumSilver.name=钒银合金 齿轮
@@ -22496,6 +22678,7 @@ languagefile {
     S:oredict.gemAlmandine.name=铁铝榴石
     S:oredict.gemAmber.name=琥珀
     S:oredict.gemAmethyst.name=紫水晶
+    S:oredict.gemAmethystEnder.name=Ender Amethyst
     S:oredict.gemAndradite.name=钙铁榴石
     S:oredict.gemAnthracite.name=Anthracite
     S:oredict.gemAntiBromine.name=反物质溴
@@ -22958,6 +23141,7 @@ languagefile {
     S:oredict.ingotCobalt60.name=钴-60锭
     S:oredict.ingotCobaltBrass.name=钴黄铜锭
     S:oredict.ingotConductiveIron.name=导体铁锭
+    S:oredict.ingotConstantan.name=Constantan Ingot
     S:oredict.ingotCopernicium.name=鎶锭
     S:oredict.ingotCopper.name=铜锭
     S:oredict.ingotCupronickel.name=白铜锭
@@ -23132,6 +23316,7 @@ languagefile {
     S:oredict.ingotDoubleCobalt60.name=两重钴-60锭
     S:oredict.ingotDoubleCobaltBrass.name=两重钴黄铜锭
     S:oredict.ingotDoubleConductiveIron.name=两重 导体铁锭
+    S:oredict.ingotDoubleConstantan.name=Double Constantan Ingot
     S:oredict.ingotDoubleCopernicium.name=两重鎶锭
     S:oredict.ingotDoubleCopper.name=两重铜锭
     S:oredict.ingotDoubleCupronickel.name=两重白铜锭
@@ -23321,6 +23506,7 @@ languagefile {
     S:oredict.ingotDoubleUranium235.name=两重铀-235锭
     S:oredict.ingotDoubleVanadium.name=两重钒锭
     S:oredict.ingotDoubleVanadiumGallium.name=两重钒-镓锭
+    S:oredict.ingotDoubleVanadiumSteel.name=Double Vanadiumsteel Ingot
     S:oredict.ingotDoubleVibramantium.name=两重Vibramantium锭
     S:oredict.ingotDoubleVibraniumSilver.name=两重钒银合金 锭
     S:oredict.ingotDoubleVibraniumSteel.name=两重钒钢合金 锭
@@ -23543,6 +23729,7 @@ languagefile {
     S:oredict.ingotHotCobalt60.name=热钴-60锭
     S:oredict.ingotHotCobaltBrass.name=热钴黄铜锭
     S:oredict.ingotHotConductiveIron.name=Hot 导体铁锭
+    S:oredict.ingotHotConstantan.name=Hot Constantan Ingot
     S:oredict.ingotHotCopernicium.name=热鎶锭
     S:oredict.ingotHotCopper.name=热铜锭
     S:oredict.ingotHotCupronickel.name=热白铜锭
@@ -23730,6 +23917,7 @@ languagefile {
     S:oredict.ingotHotUranium235.name=热铀-235锭
     S:oredict.ingotHotVanadium.name=热钒锭
     S:oredict.ingotHotVanadiumGallium.name=热钒-镓锭
+    S:oredict.ingotHotVanadiumSteel.name=Hot Vanadiumsteel Ingot
     S:oredict.ingotHotVibramantium.name=热Vibramantium锭
     S:oredict.ingotHotVibraniumSilver.name=热钒银合金 锭
     S:oredict.ingotHotVibraniumSteel.name=热钒钢合金 锭
@@ -23984,6 +24172,7 @@ languagefile {
     S:oredict.ingotQuadrupleCobalt60.name=四重钴-60锭
     S:oredict.ingotQuadrupleCobaltBrass.name=四重钴黄铜锭
     S:oredict.ingotQuadrupleConductiveIron.name=四重 导体铁锭
+    S:oredict.ingotQuadrupleConstantan.name=Quadruple Constantan Ingot
     S:oredict.ingotQuadrupleCopernicium.name=四重鎶锭
     S:oredict.ingotQuadrupleCopper.name=四重铜锭
     S:oredict.ingotQuadrupleCupronickel.name=四重白铜锭
@@ -24173,6 +24362,7 @@ languagefile {
     S:oredict.ingotQuadrupleUranium235.name=四重铀-235锭
     S:oredict.ingotQuadrupleVanadium.name=四重钒锭
     S:oredict.ingotQuadrupleVanadiumGallium.name=四重钒-镓锭
+    S:oredict.ingotQuadrupleVanadiumSteel.name=Quadruple Vanadiumsteel Ingot
     S:oredict.ingotQuadrupleVibramantium.name=四重Vibramantium锭
     S:oredict.ingotQuadrupleVibraniumSilver.name=四重钒银合金锭
     S:oredict.ingotQuadrupleVibraniumSteel.name=四重钒钢合金锭
@@ -24355,6 +24545,7 @@ languagefile {
     S:oredict.ingotQuintupleCobalt60.name=五重钴-60锭
     S:oredict.ingotQuintupleCobaltBrass.name=五重钴黄铜锭
     S:oredict.ingotQuintupleConductiveIron.name=Quintuple 导体铁锭
+    S:oredict.ingotQuintupleConstantan.name=Quintuple Constantan Ingot
     S:oredict.ingotQuintupleCopernicium.name=五重鎶锭
     S:oredict.ingotQuintupleCopper.name=五重铜锭
     S:oredict.ingotQuintupleCupronickel.name=五重白铜锭
@@ -24543,6 +24734,7 @@ languagefile {
     S:oredict.ingotQuintupleUranium235.name=五重铀-235锭
     S:oredict.ingotQuintupleVanadium.name=五重钒锭
     S:oredict.ingotQuintupleVanadiumGallium.name=五重钒-镓锭
+    S:oredict.ingotQuintupleVanadiumSteel.name=Quintuple Vanadiumsteel Ingot
     S:oredict.ingotQuintupleVibramantium.name=五重Vibramantium锭
     S:oredict.ingotQuintupleVibraniumSilver.name=五重钒银合金 锭
     S:oredict.ingotQuintupleVibraniumSteel.name=五重钒钢合金 锭
@@ -24774,6 +24966,7 @@ languagefile {
     S:oredict.ingotTripleCobalt60.name=三重钴-60锭
     S:oredict.ingotTripleCobaltBrass.name=三重钴黄铜锭
     S:oredict.ingotTripleConductiveIron.name=三重导体铁锭
+    S:oredict.ingotTripleConstantan.name=Triple Constantan Ingot
     S:oredict.ingotTripleCopernicium.name=三重鎶锭
     S:oredict.ingotTripleCopper.name=三重铜锭
     S:oredict.ingotTripleCupronickel.name=三重白铜锭
@@ -24963,6 +25156,7 @@ languagefile {
     S:oredict.ingotTripleUranium235.name=三重铀-235锭
     S:oredict.ingotTripleVanadium.name=三重钒锭
     S:oredict.ingotTripleVanadiumGallium.name=三重钒-镓锭
+    S:oredict.ingotTripleVanadiumSteel.name=Triple Vanadiumsteel Ingot
     S:oredict.ingotTripleVibramantium.name=三重Vibramantium锭
     S:oredict.ingotTripleVibraniumSilver.name=三重钒银合金锭
     S:oredict.ingotTripleVibraniumSteel.name=三重钒钢合金锭
@@ -24999,6 +25193,7 @@ languagefile {
     S:oredict.ingotUranium235.name=铀-235锭
     S:oredict.ingotVanadium.name=钒锭
     S:oredict.ingotVanadiumGallium.name=钒-镓锭
+    S:oredict.ingotVanadiumSteel.name=Vanadiumsteel Ingot
     S:oredict.ingotVibramantium.name=Vibramantium锭
     S:oredict.ingotVibraniumSilver.name=钒银合金锭
     S:oredict.ingotVibraniumSteel.name=钒钢合金锭
@@ -25102,6 +25297,7 @@ languagefile {
     S:oredict.minecartWheelsCobalt60.name=钴-60车轮
     S:oredict.minecartWheelsCobaltBrass.name=钴黄铜车轮
     S:oredict.minecartWheelsConductiveIron.name=导体铁车轮
+    S:oredict.minecartWheelsConstantan.name=Constantan Cart Wheels
     S:oredict.minecartWheelsCopper.name=铜车轮
     S:oredict.minecartWheelsCupronickel.name=白铜车轮
     S:oredict.minecartWheelsDamascusSteel.name=大马士革钢车轮
@@ -25209,6 +25405,7 @@ languagefile {
     S:oredict.minecartWheelsUltimet.name=Ultimet车轮
     S:oredict.minecartWheelsUranium.name=铀车轮
     S:oredict.minecartWheelsUranium235.name=Uranium-235车轮
+    S:oredict.minecartWheelsVanadiumSteel.name=Vanadiumsteel Cart Wheels
     S:oredict.minecartWheelsVibramantium.name=Vibramantium车轮
     S:oredict.minecartWheelsVibraniumSilver.name=钒银合金 车轮
     S:oredict.minecartWheelsVibraniumSteel.name=钒钢合金 车轮
@@ -25387,6 +25584,7 @@ languagefile {
     S:oredict.nuggetCobalt60.name=钴-60粒
     S:oredict.nuggetCobaltBrass.name=钴黄铜粒
     S:oredict.nuggetConductiveIron.name=导体铁粒
+    S:oredict.nuggetConstantan.name=Constantan Nugget
     S:oredict.nuggetCopernicium.name=鎶粒
     S:oredict.nuggetCopper.name=铜粒
     S:oredict.nuggetCupronickel.name=白铜粒
@@ -25585,6 +25783,7 @@ languagefile {
     S:oredict.nuggetUranium235.name=铀-235粒
     S:oredict.nuggetVanadium.name=钒粒
     S:oredict.nuggetVanadiumGallium.name=钒-镓粒
+    S:oredict.nuggetVanadiumSteel.name=Vanadiumsteel Nugget
     S:oredict.nuggetVibramantium.name=Vibramantium粒
     S:oredict.nuggetVibraniumSilver.name=钒银合金粒
     S:oredict.nuggetVibraniumSteel.name=钒钢合金粒
@@ -25616,6 +25815,7 @@ languagefile {
     S:oredict.oreAmericium.name=镅矿石
     S:oredict.oreAmericium241.name=镅-241矿石
     S:oredict.oreAmethyst.name=紫水晶矿石
+    S:oredict.oreAmethystEnder.name=Ender Amethyst Ore
     S:oredict.oreAndradite.name=钙铁榴石矿石
     S:oredict.oreAnthracite.name=Anthracite矿石
     S:oredict.oreAntiActinium.name=反物质锕矿石
@@ -25770,6 +25970,7 @@ languagefile {
     S:oredict.oreBasaltAmericium.name=玄武岩镅矿石
     S:oredict.oreBasaltAmericium241.name=玄武岩镅-241矿石
     S:oredict.oreBasaltAmethyst.name=玄武岩紫水晶矿石
+    S:oredict.oreBasaltAmethystEnder.name=Basalt Ender Amethyst Ore
     S:oredict.oreBasaltAndradite.name=玄武岩钙铁榴石矿石
     S:oredict.oreBasaltAnthracite.name=玄武岩Anthracite矿石
     S:oredict.oreBasaltAntiActinium.name=玄武岩反物质锕矿石
@@ -26220,6 +26421,7 @@ languagefile {
     S:oredict.oreBasaltUvarovite.name=玄武岩Uvarovite矿石
     S:oredict.oreBasaltVanadium.name=玄武岩钒矿石
     S:oredict.oreBasaltVanadiumMagnetite.name=玄武岩钒磁铁矿石
+    S:oredict.oreBasaltVanadiumPentoxide.name=Basalt Vanadium Pentoxide Ore
     S:oredict.oreBasaltVermiculite.name=玄武岩Vermiculite
     S:oredict.oreBasaltVibranium.name=玄武岩Vibranium矿石
     S:oredict.oreBasaltVinteum.name=玄武岩古蓝石矿石
@@ -26258,6 +26460,7 @@ languagefile {
     S:oredict.oreBedrockAmericium.name=基岩Americium 矿
     S:oredict.oreBedrockAmericium241.name=基岩Americium-241 矿
     S:oredict.oreBedrockAmethyst.name=基岩Amethyst 矿
+    S:oredict.oreBedrockAmethystEnder.name=Bedrock Ender Amethyst Ore
     S:oredict.oreBedrockAndradite.name=基岩Andradite 矿
     S:oredict.oreBedrockAnthracite.name=基岩Anthracite 矿
     S:oredict.oreBedrockAntiActinium.name=基岩反物质锕 矿
@@ -26702,6 +26905,7 @@ languagefile {
     S:oredict.oreBedrockUranium235.name=基岩Uranium-235 矿
     S:oredict.oreBedrockUvarovite.name=基岩Uvarovite 矿
     S:oredict.oreBedrockVanadium.name=基岩Vanadium 矿
+    S:oredict.oreBedrockVanadiumPentoxide.name=Bedrock Vanadium Pentoxide Ore
     S:oredict.oreBedrockVermiculite.name=基岩Vermiculite
     S:oredict.oreBedrockVibranium.name=基岩钒合金 矿
     S:oredict.oreBedrockVinteum.name=基岩Vinteum 矿
@@ -26742,6 +26946,7 @@ languagefile {
     S:oredict.oreBlackgraniteAmericium.name=黑色花岗岩镅矿石
     S:oredict.oreBlackgraniteAmericium241.name=黑色花岗岩镅-241矿石
     S:oredict.oreBlackgraniteAmethyst.name=黑色花岗岩紫水晶矿石
+    S:oredict.oreBlackgraniteAmethystEnder.name=Granite Ender Amethyst Ore
     S:oredict.oreBlackgraniteAndradite.name=黑色花岗岩钙铁榴石矿石
     S:oredict.oreBlackgraniteAnthracite.name=黑色花岗岩 Anthracite 矿
     S:oredict.oreBlackgraniteAntiActinium.name=黑色花岗岩 反物质锕 矿
@@ -27182,6 +27387,7 @@ languagefile {
     S:oredict.oreBlackgraniteUranium235.name=黑色花岗岩铀-235矿石
     S:oredict.oreBlackgraniteUvarovite.name=黑色花岗岩Uvarovite矿石
     S:oredict.oreBlackgraniteVanadium.name=黑色花岗岩钒矿石
+    S:oredict.oreBlackgraniteVanadiumPentoxide.name=Granite Vanadium Pentoxide Ore
     S:oredict.oreBlackgraniteVermiculite.name=黑色花岗岩Vermiculite
     S:oredict.oreBlackgraniteVibranium.name=黑色花岗岩钒合金矿石
     S:oredict.oreBlackgraniteVinteum.name=黑色花岗岩古蓝石矿石
@@ -27281,6 +27487,7 @@ languagefile {
     S:oredict.oreEndstoneAmericium.name=末地镅矿石
     S:oredict.oreEndstoneAmericium241.name=末地镅-241矿石
     S:oredict.oreEndstoneAmethyst.name=末地紫水晶矿石
+    S:oredict.oreEndstoneAmethystEnder.name=End Ender Amethyst Ore
     S:oredict.oreEndstoneAndradite.name=末地钙铁榴石矿石
     S:oredict.oreEndstoneAnthracite.name=End Anthracite矿石
     S:oredict.oreEndstoneAntiActinium.name=末地反物质锕矿石
@@ -27730,6 +27937,7 @@ languagefile {
     S:oredict.oreEndstoneUvarovite.name=末地Uvarovite矿石
     S:oredict.oreEndstoneVanadium.name=末地钒矿石
     S:oredict.oreEndstoneVanadiumMagnetite.name=末地钒磁铁矿石
+    S:oredict.oreEndstoneVanadiumPentoxide.name=End Vanadium Pentoxide Ore
     S:oredict.oreEndstoneVermiculite.name=末地Vermiculite
     S:oredict.oreEndstoneVibranium.name=末地Vibranium矿石
     S:oredict.oreEndstoneVinteum.name=末地古蓝石矿石
@@ -27793,6 +28001,7 @@ languagefile {
     S:oredict.oreGravelAmericium.name=沙砾镅矿石
     S:oredict.oreGravelAmericium241.name=沙砾镅-241矿石
     S:oredict.oreGravelAmethyst.name=沙砾紫水晶矿石
+    S:oredict.oreGravelAmethystEnder.name=Gravel Ender Amethyst Ore
     S:oredict.oreGravelAndradite.name=沙砾钙铁榴石矿石
     S:oredict.oreGravelAnthracite.name=沙砾 Anthracite矿石
     S:oredict.oreGravelAntiActinium.name=沙砾反物质锕矿石
@@ -28241,6 +28450,7 @@ languagefile {
     S:oredict.oreGravelUvarovite.name=沙砾Uvarovite矿石
     S:oredict.oreGravelVanadium.name=沙砾钒矿石
     S:oredict.oreGravelVanadiumMagnetite.name=沙砾钒磁铁矿石
+    S:oredict.oreGravelVanadiumPentoxide.name=Gravel Vanadium Pentoxide Ore
     S:oredict.oreGravelVermiculite.name=沙砾Vermiculite
     S:oredict.oreGravelVibranium.name=沙砾Vibranium矿石
     S:oredict.oreGravelVinteum.name=沙砾古蓝石矿石
@@ -28798,6 +29008,7 @@ languagefile {
     S:oredict.oreMarbleAmericium.name=大理石镅矿石
     S:oredict.oreMarbleAmericium241.name=大理石镅-241矿石
     S:oredict.oreMarbleAmethyst.name=大理石紫水晶矿石
+    S:oredict.oreMarbleAmethystEnder.name=Marble Ender Amethyst Ore
     S:oredict.oreMarbleAndradite.name=大理石钙铁榴石矿石
     S:oredict.oreMarbleAnthracite.name=大理石 Anthracite矿石
     S:oredict.oreMarbleAntiActinium.name=大理石反物质锕矿石
@@ -29247,6 +29458,7 @@ languagefile {
     S:oredict.oreMarbleUvarovite.name=大理石Uvarovite矿石
     S:oredict.oreMarbleVanadium.name=大理石钒矿石
     S:oredict.oreMarbleVanadiumMagnetite.name=大理石钒磁铁矿石
+    S:oredict.oreMarbleVanadiumPentoxide.name=Marble Vanadium Pentoxide Ore
     S:oredict.oreMarbleVermiculite.name=大理石Vermiculite
     S:oredict.oreMarbleVibranium.name=大理石钒合金矿石
     S:oredict.oreMarbleVinteum.name=大理石古蓝石矿石
@@ -29303,6 +29515,7 @@ languagefile {
     S:oredict.oreNetherrackAmericium.name=地狱镅矿石
     S:oredict.oreNetherrackAmericium241.name=地狱镅-241矿石
     S:oredict.oreNetherrackAmethyst.name=地狱Amethyst矿石
+    S:oredict.oreNetherrackAmethystEnder.name=Nether Ender Amethyst Ore
     S:oredict.oreNetherrackAndradite.name=地狱钙铁榴石矿石
     S:oredict.oreNetherrackAnthracite.name=Nether Anthracite矿石
     S:oredict.oreNetherrackAntiActinium.name=地狱反物质锕矿石
@@ -29752,6 +29965,7 @@ languagefile {
     S:oredict.oreNetherrackUvarovite.name=地狱Uvarovite矿石
     S:oredict.oreNetherrackVanadium.name=地狱钒矿石
     S:oredict.oreNetherrackVanadiumMagnetite.name=地狱钒磁铁矿石
+    S:oredict.oreNetherrackVanadiumPentoxide.name=Nether Vanadium Pentoxide Ore
     S:oredict.oreNetherrackVermiculite.name=地狱Vermiculite
     S:oredict.oreNetherrackVibranium.name=地狱Vibranium矿石
     S:oredict.oreNetherrackVinteum.name=地狱Vinteum矿石
@@ -29835,6 +30049,7 @@ languagefile {
     S:oredict.oreRedSandAmericium.name=红沙镅矿石
     S:oredict.oreRedSandAmericium241.name=红沙镅-241矿石
     S:oredict.oreRedSandAmethyst.name=红沙紫水晶矿石
+    S:oredict.oreRedSandAmethystEnder.name=Sand Ender Amethyst Ore
     S:oredict.oreRedSandAndradite.name=红沙钙铁榴石矿石
     S:oredict.oreRedSandAnthracite.name=Sand Anthracite矿石
     S:oredict.oreRedSandAntiActinium.name=红沙反物质锕矿石
@@ -30283,6 +30498,7 @@ languagefile {
     S:oredict.oreRedSandUvarovite.name=红沙Uvarovite矿石
     S:oredict.oreRedSandVanadium.name=红沙钒矿石
     S:oredict.oreRedSandVanadiumMagnetite.name=红沙钒磁铁矿石
+    S:oredict.oreRedSandVanadiumPentoxide.name=Sand Vanadium Pentoxide Ore
     S:oredict.oreRedSandVermiculite.name=红沙Vermiculite
     S:oredict.oreRedSandVibranium.name=红沙钒合金矿石
     S:oredict.oreRedSandVinteum.name=红沙古蓝石矿石
@@ -30318,6 +30534,7 @@ languagefile {
     S:oredict.oreRedgraniteAmericium.name=红花岗岩镅矿石
     S:oredict.oreRedgraniteAmericium241.name=红花岗岩镅-241矿石
     S:oredict.oreRedgraniteAmethyst.name=红花岗岩紫水晶矿石
+    S:oredict.oreRedgraniteAmethystEnder.name=Granite Ender Amethyst Ore
     S:oredict.oreRedgraniteAndradite.name=红花岗岩钙铁榴石矿石
     S:oredict.oreRedgraniteAnthracite.name=黑色花岗岩 Anthracite矿石
     S:oredict.oreRedgraniteAntiActinium.name=红花岗岩反物质锕矿石
@@ -30767,6 +30984,7 @@ languagefile {
     S:oredict.oreRedgraniteUvarovite.name=红花岗岩Uvarovite矿石
     S:oredict.oreRedgraniteVanadium.name=红花岗岩钒矿石
     S:oredict.oreRedgraniteVanadiumMagnetite.name=红花岗岩钒磁铁矿石
+    S:oredict.oreRedgraniteVanadiumPentoxide.name=Granite Vanadium Pentoxide Ore
     S:oredict.oreRedgraniteVermiculite.name=红花岗岩Vermiculite
     S:oredict.oreRedgraniteVibranium.name=红花岗岩Vibranium矿石
     S:oredict.oreRedgraniteVinteum.name=红花岗岩古蓝石矿石
@@ -30817,6 +31035,7 @@ languagefile {
     S:oredict.oreSandAmericium.name=镅矿沙
     S:oredict.oreSandAmericium241.name=镅-241矿沙
     S:oredict.oreSandAmethyst.name=紫水晶矿沙
+    S:oredict.oreSandAmethystEnder.name=Sand Ender Amethyst Ore
     S:oredict.oreSandAndradite.name=钙铁榴石矿沙
     S:oredict.oreSandAnthracite.name=Sand Anthracite 矿
     S:oredict.oreSandAntiActinium.name=反物质锕矿沙
@@ -31265,6 +31484,7 @@ languagefile {
     S:oredict.oreSandUvarovite.name=Uvarovite矿沙
     S:oredict.oreSandVanadium.name=钒矿沙
     S:oredict.oreSandVanadiumMagnetite.name=钒磁铁矿沙
+    S:oredict.oreSandVanadiumPentoxide.name=Sand Vanadium Pentoxide Ore
     S:oredict.oreSandVermiculite.name=Vermiculite
     S:oredict.oreSandVibranium.name=钒合金矿沙
     S:oredict.oreSandVinteum.name=古蓝石矿沙
@@ -31298,6 +31518,7 @@ languagefile {
     S:oredict.oreSandstoneAmericium.name=沙石镅矿石
     S:oredict.oreSandstoneAmericium241.name=沙石镅-241矿石
     S:oredict.oreSandstoneAmethyst.name=沙石紫水晶矿石
+    S:oredict.oreSandstoneAmethystEnder.name=Sandstone Ender Amethyst Ore
     S:oredict.oreSandstoneAndradite.name=沙石钙铁榴石矿石
     S:oredict.oreSandstoneAnthracite.name=Sandstone Anthracite矿石
     S:oredict.oreSandstoneAntiActinium.name=沙石反物质锕矿石
@@ -31746,6 +31967,7 @@ languagefile {
     S:oredict.oreSandstoneUvarovite.name=沙石Uvarovite矿石
     S:oredict.oreSandstoneVanadium.name=沙石钒矿石
     S:oredict.oreSandstoneVanadiumMagnetite.name=沙石钒磁铁矿石
+    S:oredict.oreSandstoneVanadiumPentoxide.name=Sandstone Vanadium Pentoxide Ore
     S:oredict.oreSandstoneVermiculite.name=沙石Vermiculite
     S:oredict.oreSandstoneVibranium.name=沙石Vibranium矿石
     S:oredict.oreSandstoneVinteum.name=沙石古蓝石矿石
@@ -31795,6 +32017,7 @@ languagefile {
     S:oredict.oreSmallAmericium.name=贫瘠镅矿石
     S:oredict.oreSmallAmericium241.name=贫瘠镅-241矿石
     S:oredict.oreSmallAmethyst.name=贫瘠紫水晶矿石
+    S:oredict.oreSmallAmethystEnder.name=Small Ender Amethyst Ore
     S:oredict.oreSmallAndradite.name=贫瘠钙铁榴石矿石
     S:oredict.oreSmallAnthracite.name=小型Anthracite矿石
     S:oredict.oreSmallAntiActinium.name=贫瘠反物质锕矿石
@@ -32243,6 +32466,7 @@ languagefile {
     S:oredict.oreSmallUvarovite.name=贫瘠Uvarovite矿石
     S:oredict.oreSmallVanadium.name=贫瘠钒矿石
     S:oredict.oreSmallVanadiumMagnetite.name=贫瘠钒磁铁矿石
+    S:oredict.oreSmallVanadiumPentoxide.name=Small Vanadium Pentoxide Ore
     S:oredict.oreSmallVermiculite.name=贫瘠Vermiculite
     S:oredict.oreSmallVibranium.name=贫瘠钒合金矿石
     S:oredict.oreSmallVinteum.name=贫瘠古蓝石矿石
@@ -32321,6 +32545,7 @@ languagefile {
     S:oredict.oreUvarovite.name=Uvarovite矿石
     S:oredict.oreVanadium.name=钒矿石
     S:oredict.oreVanadiumMagnetite.name=钒磁铁矿石
+    S:oredict.oreVanadiumPentoxide.name=Vanadium Pentoxide Ore
     S:oredict.oreVermiculite.name=Vermiculite
     S:oredict.oreVibranium.name=钒合金矿石
     S:oredict.oreVinteum.name=古蓝石矿石
@@ -32825,6 +33050,7 @@ languagefile {
     S:oredict.plantGtBerryAmericium.name=镅梅
     S:oredict.plantGtBerryAmericium241.name=镅-241梅
     S:oredict.plantGtBerryAmethyst.name=紫水晶梅
+    S:oredict.plantGtBerryAmethystEnder.name=Ender Amethyst Berry
     S:oredict.plantGtBerryAmordrine.name=魔力之石梅
     S:oredict.plantGtBerryAndesite.name=安山岩梅
     S:oredict.plantGtBerryAndradite.name=钙铁榴石梅
@@ -33071,12 +33297,14 @@ languagefile {
     S:oredict.plantGtBerryCoffee.name=咖啡梅
     S:oredict.plantGtBerryConcrete.name=混凝土梅
     S:oredict.plantGtBerryConductiveIron.name=导体铁梅
+    S:oredict.plantGtBerryConstantan.name=Constantan Berry
     S:oredict.plantGtBerryConstructionFoam.name=建筑泡沫梅
     S:oredict.plantGtBerryCooperite.name=Sheldonite梅
     S:oredict.plantGtBerryCopernicium.name=鎶梅
     S:oredict.plantGtBerryCopper.name=铜梅
     S:oredict.plantGtBerryCorn.name=玉米梅
     S:oredict.plantGtBerryCraponite.name=Craponite梅
+    S:oredict.plantGtBerryCreosote.name=Creosote Berry
     S:oredict.plantGtBerryCreosoteOil.name=木馏 油梅
     S:oredict.plantGtBerryCrudeOil.name=原油梅
     S:oredict.plantGtBerryCryotheum.name=元素碎片梅
@@ -33214,6 +33442,7 @@ languagefile {
     S:oredict.plantGtBerryHuebnerite.name=钨锰矿梅
     S:oredict.plantGtBerryHydratedCoal.name=水合煤梅
     S:oredict.plantGtBerryHydrochloricAcid.name=盐酸梅
+    S:oredict.plantGtBerryHydrogenPeroxide.name=Hydrogen Peroxide Berry
     S:oredict.plantGtBerryIce.name=Ice梅
     S:oredict.plantGtBerryIgnatius.name=Ignatius梅
     S:oredict.plantGtBerryIlmenite.name=Ilmenite梅
@@ -33432,6 +33661,7 @@ languagefile {
     S:oredict.plantGtBerryScandium.name=Scandium梅
     S:oredict.plantGtBerryScheelite.name=Scheelite梅
     S:oredict.plantGtBerrySeaborgium.name=Seaborgium梅
+    S:oredict.plantGtBerrySeawater.name=Seawater Berry
     S:oredict.plantGtBerrySeedOil.name=种子油梅
     S:oredict.plantGtBerrySeedOilHemp.name=Hemp 种子 油梅
     S:oredict.plantGtBerrySeedOilLin.name=Lin 种子 油梅
@@ -33452,9 +33682,12 @@ languagefile {
     S:oredict.plantGtBerrySodalite.name=Sodalite梅
     S:oredict.plantGtBerrySodium.name=Sodium梅
     S:oredict.plantGtBerrySodiumBisulfate.name=Sodium Bisulfate梅
+    S:oredict.plantGtBerrySodiumHydroxide.name=Sodium Hydroxide Berry
     S:oredict.plantGtBerrySodiumPersulfate.name=Sodium Persulfate梅
     S:oredict.plantGtBerrySodiumPyrosulfate.name=Sodium Pyrosulfate梅
+    S:oredict.plantGtBerrySodiumSulfate.name=Sodium Sulfate Berry
     S:oredict.plantGtBerrySodiumSulfide.name=Sodium Sulfide梅
+    S:oredict.plantGtBerrySodiumSulfite.name=Sodium Sulfite Berry
     S:oredict.plantGtBerrySolderingAlloy.name=Soldering合金梅
     S:oredict.plantGtBerrySoularium.name=Soularium梅
     S:oredict.plantGtBerrySoylentGreen.name=绿色绿宝石梅
@@ -33537,6 +33770,7 @@ languagefile {
     S:oredict.plantGtBerryVanadiumGallium.name=Vanadium-Gallium梅
     S:oredict.plantGtBerryVanadiumMagnetite.name=Vanadium Magnetite梅
     S:oredict.plantGtBerryVanadiumPentoxide.name=Vanadium Pentoxide梅
+    S:oredict.plantGtBerryVanadiumSteel.name=Vanadiumsteel Berry
     S:oredict.plantGtBerryVanilla.name=Vanilla梅
     S:oredict.plantGtBerryVermiculite.name=Vermiculite梅
     S:oredict.plantGtBerryVibramantium.name=Vibramantium梅
@@ -33620,6 +33854,7 @@ languagefile {
     S:oredict.plantGtBlossomAmericium.name=镅花
     S:oredict.plantGtBlossomAmericium241.name=镅-241花
     S:oredict.plantGtBlossomAmethyst.name=紫水晶花
+    S:oredict.plantGtBlossomAmethystEnder.name=Ender Amethyst Blossom
     S:oredict.plantGtBlossomAmordrine.name=魔力之石花
     S:oredict.plantGtBlossomAndesite.name=安山岩花
     S:oredict.plantGtBlossomAndradite.name=钙铁榴石花
@@ -33866,12 +34101,14 @@ languagefile {
     S:oredict.plantGtBlossomCoffee.name=咖啡花
     S:oredict.plantGtBlossomConcrete.name=混凝土花
     S:oredict.plantGtBlossomConductiveIron.name=导体铁花
+    S:oredict.plantGtBlossomConstantan.name=Constantan Blossom
     S:oredict.plantGtBlossomConstructionFoam.name=建筑泡沫花
     S:oredict.plantGtBlossomCooperite.name=Sheldonite花
     S:oredict.plantGtBlossomCopernicium.name=鎶花
     S:oredict.plantGtBlossomCopper.name=铜花
     S:oredict.plantGtBlossomCorn.name=玉米花
     S:oredict.plantGtBlossomCraponite.name=Craponite花
+    S:oredict.plantGtBlossomCreosote.name=Creosote Blossom
     S:oredict.plantGtBlossomCreosoteOil.name=木馏 油花
     S:oredict.plantGtBlossomCrudeOil.name=原油花
     S:oredict.plantGtBlossomCryotheum.name=元素碎片花
@@ -34009,6 +34246,7 @@ languagefile {
     S:oredict.plantGtBlossomHuebnerite.name=钨锰矿花
     S:oredict.plantGtBlossomHydratedCoal.name=水合煤花
     S:oredict.plantGtBlossomHydrochloricAcid.name=盐酸花
+    S:oredict.plantGtBlossomHydrogenPeroxide.name=Hydrogen Peroxide Blossom
     S:oredict.plantGtBlossomIce.name=Ice花
     S:oredict.plantGtBlossomIgnatius.name=Ignatius花
     S:oredict.plantGtBlossomIlmenite.name=Ilmenite花
@@ -34227,6 +34465,7 @@ languagefile {
     S:oredict.plantGtBlossomScandium.name=Scandium花
     S:oredict.plantGtBlossomScheelite.name=Scheelite花
     S:oredict.plantGtBlossomSeaborgium.name=Seaborgium花
+    S:oredict.plantGtBlossomSeawater.name=Seawater Blossom
     S:oredict.plantGtBlossomSeedOil.name=种子油花
     S:oredict.plantGtBlossomSeedOilHemp.name=Hemp 种子 油花
     S:oredict.plantGtBlossomSeedOilLin.name=Lin 种子 油花
@@ -34247,9 +34486,12 @@ languagefile {
     S:oredict.plantGtBlossomSodalite.name=Sodalite花
     S:oredict.plantGtBlossomSodium.name=Sodium花
     S:oredict.plantGtBlossomSodiumBisulfate.name=Sodium Bisulfate花
+    S:oredict.plantGtBlossomSodiumHydroxide.name=Sodium Hydroxide Blossom
     S:oredict.plantGtBlossomSodiumPersulfate.name=Sodium Persulfate花
     S:oredict.plantGtBlossomSodiumPyrosulfate.name=Sodium Pyrosulfate花
+    S:oredict.plantGtBlossomSodiumSulfate.name=Sodium Sulfate Blossom
     S:oredict.plantGtBlossomSodiumSulfide.name=Sodium Sulfide花
+    S:oredict.plantGtBlossomSodiumSulfite.name=Sodium Sulfite Blossom
     S:oredict.plantGtBlossomSolderingAlloy.name=Soldering合金花
     S:oredict.plantGtBlossomSoularium.name=Soularium花
     S:oredict.plantGtBlossomSoylentGreen.name=绿色绿宝石 花
@@ -34332,6 +34574,7 @@ languagefile {
     S:oredict.plantGtBlossomVanadiumGallium.name=Vanadium-Gallium花
     S:oredict.plantGtBlossomVanadiumMagnetite.name=Vanadium Magnetite花
     S:oredict.plantGtBlossomVanadiumPentoxide.name=Vanadium Pentoxide花
+    S:oredict.plantGtBlossomVanadiumSteel.name=Vanadiumsteel Blossom
     S:oredict.plantGtBlossomVanilla.name=Vanilla花
     S:oredict.plantGtBlossomVermiculite.name=Vermiculite花
     S:oredict.plantGtBlossomVibramantium.name=Vibramantium花
@@ -34415,6 +34658,7 @@ languagefile {
     S:oredict.plantGtFiberAmericium.name=粗糙的Americium纤维
     S:oredict.plantGtFiberAmericium241.name=粗糙的Americium-241纤维
     S:oredict.plantGtFiberAmethyst.name=粗糙的Amethyst纤维
+    S:oredict.plantGtFiberAmethystEnder.name=Raw Ender Amethyst Fiber
     S:oredict.plantGtFiberAmordrine.name=粗糙的Amordrine纤维
     S:oredict.plantGtFiberAndesite.name=粗糙的Andesite纤维
     S:oredict.plantGtFiberAndradite.name=粗糙的Andradite纤维
@@ -34661,12 +34905,14 @@ languagefile {
     S:oredict.plantGtFiberCoffee.name=粗糙的Coffee纤维
     S:oredict.plantGtFiberConcrete.name=粗糙的Concrete纤维
     S:oredict.plantGtFiberConductiveIron.name=粗糙的导体铁纤维
+    S:oredict.plantGtFiberConstantan.name=Raw Constantan Fiber
     S:oredict.plantGtFiberConstructionFoam.name=粗糙的Construction Foam纤维
     S:oredict.plantGtFiberCooperite.name=粗糙的Sheldonite纤维
     S:oredict.plantGtFiberCopernicium.name=粗糙的Copernicium纤维
     S:oredict.plantGtFiberCopper.name=Coppon纤维
     S:oredict.plantGtFiberCorn.name=粗糙的Corn纤维
     S:oredict.plantGtFiberCraponite.name=粗糙的Craponite纤维
+    S:oredict.plantGtFiberCreosote.name=Raw Creosote Fiber
     S:oredict.plantGtFiberCreosoteOil.name=粗糙的Creosote 油纤维
     S:oredict.plantGtFiberCrudeOil.name=粗糙的原油纤维
     S:oredict.plantGtFiberCryotheum.name=粗糙的Cryotheum纤维
@@ -34804,6 +35050,7 @@ languagefile {
     S:oredict.plantGtFiberHuebnerite.name=粗糙的Huebnerite纤维
     S:oredict.plantGtFiberHydratedCoal.name=粗糙的Hydrated Coal纤维
     S:oredict.plantGtFiberHydrochloricAcid.name=粗糙的Hydrochloric 酸纤维
+    S:oredict.plantGtFiberHydrogenPeroxide.name=Raw Hydrogen Peroxide Fiber
     S:oredict.plantGtFiberIce.name=粗糙的Ice纤维
     S:oredict.plantGtFiberIgnatius.name=粗糙的Ignatius纤维
     S:oredict.plantGtFiberIlmenite.name=粗糙的Ilmenite纤维
@@ -35022,6 +35269,7 @@ languagefile {
     S:oredict.plantGtFiberScandium.name=粗糙的Scandium纤维
     S:oredict.plantGtFiberScheelite.name=粗糙的Scheelite纤维
     S:oredict.plantGtFiberSeaborgium.name=粗糙的Seaborgium纤维
+    S:oredict.plantGtFiberSeawater.name=Raw Seawater Fiber
     S:oredict.plantGtFiberSeedOil.name=粗糙的种子 油纤维
     S:oredict.plantGtFiberSeedOilHemp.name=粗糙的Hemp 种子 油纤维
     S:oredict.plantGtFiberSeedOilLin.name=粗糙的Lin 种子 油纤维
@@ -35042,9 +35290,12 @@ languagefile {
     S:oredict.plantGtFiberSodalite.name=粗糙的Sodalite纤维
     S:oredict.plantGtFiberSodium.name=粗糙的Sodium纤维
     S:oredict.plantGtFiberSodiumBisulfate.name=粗糙的Sodium Bisulfate纤维
+    S:oredict.plantGtFiberSodiumHydroxide.name=Raw Sodium Hydroxide Fiber
     S:oredict.plantGtFiberSodiumPersulfate.name=粗糙的Sodium Persulfate纤维
     S:oredict.plantGtFiberSodiumPyrosulfate.name=粗糙的Sodium Pyrosulfate纤维
+    S:oredict.plantGtFiberSodiumSulfate.name=Raw Sodium Sulfate Fiber
     S:oredict.plantGtFiberSodiumSulfide.name=粗糙的Sodium Sulfide纤维
+    S:oredict.plantGtFiberSodiumSulfite.name=Raw Sodium Sulfite Fiber
     S:oredict.plantGtFiberSolderingAlloy.name=粗糙的Soldering合金纤维
     S:oredict.plantGtFiberSoularium.name=粗糙的Soularium纤维
     S:oredict.plantGtFiberSoylentGreen.name=粗糙的 Emerald 绿色纤维
@@ -35127,6 +35378,7 @@ languagefile {
     S:oredict.plantGtFiberVanadiumGallium.name=粗糙的Vanadium-Gallium纤维
     S:oredict.plantGtFiberVanadiumMagnetite.name=粗糙的Vanadium Magnetite纤维
     S:oredict.plantGtFiberVanadiumPentoxide.name=粗糙的Vanadium Pentoxide纤维
+    S:oredict.plantGtFiberVanadiumSteel.name=Raw Vanadiumsteel Fiber
     S:oredict.plantGtFiberVanilla.name=粗糙的Vanilla纤维
     S:oredict.plantGtFiberVermiculite.name=粗糙的Vermiculite纤维
     S:oredict.plantGtFiberVibramantium.name=粗糙的Vibramantium纤维
@@ -35209,6 +35461,7 @@ languagefile {
     S:oredict.plantGtTwigAmericium.name=镅细枝
     S:oredict.plantGtTwigAmericium241.name=镅-241细枝
     S:oredict.plantGtTwigAmethyst.name=紫水晶细枝
+    S:oredict.plantGtTwigAmethystEnder.name=Ender Amethyst Twig
     S:oredict.plantGtTwigAmordrine.name=魔力之石细枝
     S:oredict.plantGtTwigAndesite.name=安山岩细枝
     S:oredict.plantGtTwigAndradite.name=钙铁榴石细枝
@@ -35455,12 +35708,14 @@ languagefile {
     S:oredict.plantGtTwigCoffee.name=咖啡细枝
     S:oredict.plantGtTwigConcrete.name=混凝土细枝
     S:oredict.plantGtTwigConductiveIron.name=导体铁细枝
+    S:oredict.plantGtTwigConstantan.name=Constantan Twig
     S:oredict.plantGtTwigConstructionFoam.name=建筑泡沫细枝
     S:oredict.plantGtTwigCooperite.name=Sheldonite细枝
     S:oredict.plantGtTwigCopernicium.name=鎶细枝
     S:oredict.plantGtTwigCopper.name=铜细枝
     S:oredict.plantGtTwigCorn.name=玉米细枝
     S:oredict.plantGtTwigCraponite.name=Craponite细枝
+    S:oredict.plantGtTwigCreosote.name=Creosote Twig
     S:oredict.plantGtTwigCreosoteOil.name=木馏 油细枝
     S:oredict.plantGtTwigCrudeOil.name=原油细枝
     S:oredict.plantGtTwigCryotheum.name=元素碎片细枝
@@ -35598,6 +35853,7 @@ languagefile {
     S:oredict.plantGtTwigHuebnerite.name=钨锰矿细枝
     S:oredict.plantGtTwigHydratedCoal.name=水合煤细枝
     S:oredict.plantGtTwigHydrochloricAcid.name=盐酸细枝
+    S:oredict.plantGtTwigHydrogenPeroxide.name=Hydrogen Peroxide Twig
     S:oredict.plantGtTwigIce.name=Ice细枝
     S:oredict.plantGtTwigIgnatius.name=Ignatius细枝
     S:oredict.plantGtTwigIlmenite.name=Ilmenite细枝
@@ -35816,6 +36072,7 @@ languagefile {
     S:oredict.plantGtTwigScandium.name=Scandium细枝
     S:oredict.plantGtTwigScheelite.name=Scheelite细枝
     S:oredict.plantGtTwigSeaborgium.name=Seaborgium细枝
+    S:oredict.plantGtTwigSeawater.name=Seawater Twig
     S:oredict.plantGtTwigSeedOil.name=种子油细枝
     S:oredict.plantGtTwigSeedOilHemp.name=Hemp 种子 油细枝
     S:oredict.plantGtTwigSeedOilLin.name=Lin 种子 油细枝
@@ -35836,9 +36093,12 @@ languagefile {
     S:oredict.plantGtTwigSodalite.name=Sodalite细枝
     S:oredict.plantGtTwigSodium.name=Sodium细枝
     S:oredict.plantGtTwigSodiumBisulfate.name=Sodium Bisulfate细枝
+    S:oredict.plantGtTwigSodiumHydroxide.name=Sodium Hydroxide Twig
     S:oredict.plantGtTwigSodiumPersulfate.name=Sodium Persulfate细枝
     S:oredict.plantGtTwigSodiumPyrosulfate.name=Sodium Pyrosulfate细枝
+    S:oredict.plantGtTwigSodiumSulfate.name=Sodium Sulfate Twig
     S:oredict.plantGtTwigSodiumSulfide.name=Sodium Sulfide细枝
+    S:oredict.plantGtTwigSodiumSulfite.name=Sodium Sulfite Twig
     S:oredict.plantGtTwigSolderingAlloy.name=Soldering合金细枝
     S:oredict.plantGtTwigSoularium.name=Soularium细枝
     S:oredict.plantGtTwigSoylentGreen.name=绿色绿宝石细枝
@@ -35921,6 +36181,7 @@ languagefile {
     S:oredict.plantGtTwigVanadiumGallium.name=Vanadium-Gallium细枝
     S:oredict.plantGtTwigVanadiumMagnetite.name=Vanadium Magnetite细枝
     S:oredict.plantGtTwigVanadiumPentoxide.name=Vanadium Pentoxide细枝
+    S:oredict.plantGtTwigVanadiumSteel.name=Vanadiumsteel Twig
     S:oredict.plantGtTwigVanilla.name=Vanilla细枝
     S:oredict.plantGtTwigVermiculite.name=Vermiculite细枝
     S:oredict.plantGtTwigVibramantium.name=Vibramantium细枝
@@ -36004,6 +36265,7 @@ languagefile {
     S:oredict.plantGtWartAmericium.name=镅疣
     S:oredict.plantGtWartAmericium241.name=镅-241疣
     S:oredict.plantGtWartAmethyst.name=紫水晶疣
+    S:oredict.plantGtWartAmethystEnder.name=Ender Amethyst Wart
     S:oredict.plantGtWartAmordrine.name=魔力之石疣
     S:oredict.plantGtWartAndesite.name=安山岩疣
     S:oredict.plantGtWartAndradite.name=钙铁榴石疣
@@ -36250,12 +36512,14 @@ languagefile {
     S:oredict.plantGtWartCoffee.name=咖啡疣
     S:oredict.plantGtWartConcrete.name=混凝土疣
     S:oredict.plantGtWartConductiveIron.name=导体铁疣
+    S:oredict.plantGtWartConstantan.name=Constantan Wart
     S:oredict.plantGtWartConstructionFoam.name=建筑泡沫疣
     S:oredict.plantGtWartCooperite.name=Sheldonite疣
     S:oredict.plantGtWartCopernicium.name=鎶疣
     S:oredict.plantGtWartCopper.name=铜疣
     S:oredict.plantGtWartCorn.name=玉米疣
     S:oredict.plantGtWartCraponite.name=Craponite疣
+    S:oredict.plantGtWartCreosote.name=Creosote Wart
     S:oredict.plantGtWartCreosoteOil.name=木馏 油疣
     S:oredict.plantGtWartCrudeOil.name=原油疣
     S:oredict.plantGtWartCryotheum.name=元素碎片疣
@@ -36393,6 +36657,7 @@ languagefile {
     S:oredict.plantGtWartHuebnerite.name=钨锰矿疣
     S:oredict.plantGtWartHydratedCoal.name=水合煤疣
     S:oredict.plantGtWartHydrochloricAcid.name=盐酸疣
+    S:oredict.plantGtWartHydrogenPeroxide.name=Hydrogen Peroxide Wart
     S:oredict.plantGtWartIce.name=Ice疣
     S:oredict.plantGtWartIgnatius.name=Ignatius疣
     S:oredict.plantGtWartIlmenite.name=Ilmenite疣
@@ -36611,6 +36876,7 @@ languagefile {
     S:oredict.plantGtWartScandium.name=Scandium疣
     S:oredict.plantGtWartScheelite.name=Scheelite疣
     S:oredict.plantGtWartSeaborgium.name=Seaborgium疣
+    S:oredict.plantGtWartSeawater.name=Seawater Wart
     S:oredict.plantGtWartSeedOil.name=种子油疣
     S:oredict.plantGtWartSeedOilHemp.name=Hemp 种子 油疣
     S:oredict.plantGtWartSeedOilLin.name=Lin 种子 油疣
@@ -36631,9 +36897,12 @@ languagefile {
     S:oredict.plantGtWartSodalite.name=Sodalite疣
     S:oredict.plantGtWartSodium.name=Sodium疣
     S:oredict.plantGtWartSodiumBisulfate.name=Sodium Bisulfate疣
+    S:oredict.plantGtWartSodiumHydroxide.name=Sodium Hydroxide Wart
     S:oredict.plantGtWartSodiumPersulfate.name=Sodium Persulfate疣
     S:oredict.plantGtWartSodiumPyrosulfate.name=Sodium Pyrosulfate疣
+    S:oredict.plantGtWartSodiumSulfate.name=Sodium Sulfate Wart
     S:oredict.plantGtWartSodiumSulfide.name=Sodium Sulfide疣
+    S:oredict.plantGtWartSodiumSulfite.name=Sodium Sulfite Wart
     S:oredict.plantGtWartSolderingAlloy.name=Soldering合金疣
     S:oredict.plantGtWartSoularium.name=Soularium疣
     S:oredict.plantGtWartSoylentGreen.name=绿色绿宝石疣
@@ -36716,6 +36985,7 @@ languagefile {
     S:oredict.plantGtWartVanadiumGallium.name=Vanadium-Gallium疣
     S:oredict.plantGtWartVanadiumMagnetite.name=Vanadium Magnetite疣
     S:oredict.plantGtWartVanadiumPentoxide.name=Vanadium Pentoxide疣
+    S:oredict.plantGtWartVanadiumSteel.name=Vanadiumsteel Wart
     S:oredict.plantGtWartVanilla.name=Vanilla疣
     S:oredict.plantGtWartVermiculite.name=Vermiculite疣
     S:oredict.plantGtWartVibramantium.name=Vibramantium疣
@@ -36953,6 +37223,7 @@ languagefile {
     S:oredict.plateCobaltBrass.name=钴黄铜板
     S:oredict.plateConcrete.name=混凝土 板
     S:oredict.plateConductiveIron.name=导体铁 板
+    S:oredict.plateConstantan.name=Constantan Plate
     S:oredict.plateCopernicium.name=鎶板
     S:oredict.plateCopper.name=铜板
     S:oredict.plateCupronickel.name=白铜板
@@ -37127,6 +37398,7 @@ languagefile {
     S:oredict.plateCurvedCobaltBrass.name=弯曲的 Cobalt 黄铜 板
     S:oredict.plateCurvedConcrete.name=弯曲的 Concrete 板
     S:oredict.plateCurvedConductiveIron.name=弯曲的 导体铁 板
+    S:oredict.plateCurvedConstantan.name=Curved Constantan Plate
     S:oredict.plateCurvedCopernicium.name=弯曲的 Copernicium 板
     S:oredict.plateCurvedCopper.name=弯曲的 铜 板
     S:oredict.plateCurvedCupronickel.name=弯曲的 Cupronickel 板
@@ -37347,6 +37619,7 @@ languagefile {
     S:oredict.plateCurvedUranium235.name=弯曲的 Uranium-235 板
     S:oredict.plateCurvedVanadium.name=弯曲的 Vanadium 板
     S:oredict.plateCurvedVanadiumGallium.name=弯曲的 Vanadium-Gallium 板
+    S:oredict.plateCurvedVanadiumSteel.name=Curved Vanadiumsteel Plate
     S:oredict.plateCurvedVibramantium.name=弯曲的 Vibramantium 板
     S:oredict.plateCurvedVibraniumSilver.name=弯曲的 钒银合金 板
     S:oredict.plateCurvedVibraniumSteel.name=弯曲的 钒合金 Steel 板
@@ -37548,6 +37821,7 @@ languagefile {
     S:oredict.plateDenseCobalt60.name=致密钴-60板
     S:oredict.plateDenseCobaltBrass.name=致密钴黄铜板
     S:oredict.plateDenseConductiveIron.name=致密 导体铁 板
+    S:oredict.plateDenseConstantan.name=Dense Constantan Plate
     S:oredict.plateDenseCopernicium.name=致密鎶板
     S:oredict.plateDenseCopper.name=致密铜板
     S:oredict.plateDenseCupronickel.name=致密白铜板
@@ -37735,6 +38009,7 @@ languagefile {
     S:oredict.plateDenseUranium235.name=致密铀-235板
     S:oredict.plateDenseVanadium.name=致密钒板
     S:oredict.plateDenseVanadiumGallium.name=致密钒-镓板
+    S:oredict.plateDenseVanadiumSteel.name=Dense Vanadiumsteel Plate
     S:oredict.plateDenseVibramantium.name=致密Vibramantium板
     S:oredict.plateDenseVibraniumSilver.name=致密钒银合金板
     S:oredict.plateDenseVibraniumSteel.name=致密钒钢合金板
@@ -37919,6 +38194,7 @@ languagefile {
     S:oredict.plateDoubleCobalt60.name=两重钴-60板
     S:oredict.plateDoubleCobaltBrass.name=两重钴黄铜板
     S:oredict.plateDoubleConductiveIron.name=两重 导体铁 板
+    S:oredict.plateDoubleConstantan.name=Double Constantan Plate
     S:oredict.plateDoubleCopernicium.name=两重鎶板
     S:oredict.plateDoubleCopper.name=两重铜板
     S:oredict.plateDoubleCupronickel.name=两重白铜板
@@ -38107,6 +38383,7 @@ languagefile {
     S:oredict.plateDoubleUranium235.name=两重铀-235板
     S:oredict.plateDoubleVanadium.name=两重钒板
     S:oredict.plateDoubleVanadiumGallium.name=两重钒-镓板
+    S:oredict.plateDoubleVanadiumSteel.name=Double Vanadiumsteel Plate
     S:oredict.plateDoubleVibramantium.name=两重Vibramantium板
     S:oredict.plateDoubleVibraniumSilver.name=两重钒银合金 板
     S:oredict.plateDoubleVibraniumSteel.name=两重钒钢合金 板
@@ -38163,6 +38440,7 @@ languagefile {
     S:oredict.plateGemAlmandine.name=铁铝榴石 板
     S:oredict.plateGemAmber.name=琥珀板
     S:oredict.plateGemAmethyst.name=紫水晶板
+    S:oredict.plateGemAmethystEnder.name=Crystalline Ender Amethyst Plate
     S:oredict.plateGemAndradite.name=钙铁榴石 板
     S:oredict.plateGemAnthracite.name=结晶 Anthracite 板
     S:oredict.plateGemAntiVibranium.name=反物质钒合金板
@@ -38232,6 +38510,7 @@ languagefile {
     S:oredict.plateGemTinyAlmandine.name=小撮Almandine 板
     S:oredict.plateGemTinyAmber.name=小块琥珀板
     S:oredict.plateGemTinyAmethyst.name=小块紫水晶板
+    S:oredict.plateGemTinyAmethystEnder.name=Tiny Crystalline Ender Amethyst Plate
     S:oredict.plateGemTinyAndradite.name=小撮Andradite 板
     S:oredict.plateGemTinyAnthracite.name=小块水晶line Anthracite 板
     S:oredict.plateGemTinyAntiVibranium.name=小块反物质钒合金板
@@ -38581,6 +38860,7 @@ languagefile {
     S:oredict.plateQuadrupleCobalt60.name=四重钴-60板
     S:oredict.plateQuadrupleCobaltBrass.name=四重钴黄铜板
     S:oredict.plateQuadrupleConductiveIron.name=四重 导体铁 板
+    S:oredict.plateQuadrupleConstantan.name=Quadruple Constantan Plate
     S:oredict.plateQuadrupleCopernicium.name=四重鎶板
     S:oredict.plateQuadrupleCopper.name=四重铜板
     S:oredict.plateQuadrupleCupronickel.name=四重白铜板
@@ -38769,6 +39049,7 @@ languagefile {
     S:oredict.plateQuadrupleUranium235.name=四重铀-235板
     S:oredict.plateQuadrupleVanadium.name=四重钒板
     S:oredict.plateQuadrupleVanadiumGallium.name=四重钒-镓板
+    S:oredict.plateQuadrupleVanadiumSteel.name=Quadruple Vanadiumsteel Plate
     S:oredict.plateQuadrupleVibramantium.name=四重Vibramantium板
     S:oredict.plateQuadrupleVibraniumSilver.name=四重钒银合金板
     S:oredict.plateQuadrupleVibraniumSteel.name=四重钒钢合金板
@@ -38951,6 +39232,7 @@ languagefile {
     S:oredict.plateQuintupleCobalt60.name=五重钴-60板
     S:oredict.plateQuintupleCobaltBrass.name=五重钴黄铜板
     S:oredict.plateQuintupleConductiveIron.name=五重导体铁 板
+    S:oredict.plateQuintupleConstantan.name=Quintuple Constantan Plate
     S:oredict.plateQuintupleCopernicium.name=五重鎶板
     S:oredict.plateQuintupleCopper.name=五重铜板
     S:oredict.plateQuintupleCupronickel.name=五重白铜板
@@ -39139,6 +39421,7 @@ languagefile {
     S:oredict.plateQuintupleUranium235.name=五重铀-235板
     S:oredict.plateQuintupleVanadium.name=五重钒板
     S:oredict.plateQuintupleVanadiumGallium.name=五重钒-镓板
+    S:oredict.plateQuintupleVanadiumSteel.name=Quintuple Vanadiumsteel Plate
     S:oredict.plateQuintupleVibramantium.name=五重Vibramantium板
     S:oredict.plateQuintupleVibraniumSilver.name=五重钒银合金板
     S:oredict.plateQuintupleVibraniumSteel.name=五重钒钢合金板
@@ -39382,6 +39665,7 @@ languagefile {
     S:oredict.plateTinyCobaltBrass.name=小块钴黄铜板
     S:oredict.plateTinyConcrete.name=小撮Concrete板
     S:oredict.plateTinyConductiveIron.name=小撮导体铁板
+    S:oredict.plateTinyConstantan.name=Tiny Constantan Plate
     S:oredict.plateTinyCopernicium.name=小块鎶板
     S:oredict.plateTinyCopper.name=小块铜板
     S:oredict.plateTinyCupronickel.name=小块白铜板
@@ -39602,6 +39886,7 @@ languagefile {
     S:oredict.plateTinyUranium235.name=小块铀-235板
     S:oredict.plateTinyVanadium.name=小块钒板
     S:oredict.plateTinyVanadiumGallium.name=小块钒-镓板
+    S:oredict.plateTinyVanadiumSteel.name=Tiny Vanadiumsteel Plate
     S:oredict.plateTinyVibramantium.name=小块Vibramantium板
     S:oredict.plateTinyVibraniumSilver.name=小块钒银合金板
     S:oredict.plateTinyVibraniumSteel.name=小块钒钢合金板
@@ -39799,6 +40084,7 @@ languagefile {
     S:oredict.plateTripleCobalt60.name=三重钴-60板
     S:oredict.plateTripleCobaltBrass.name=三重钴黄铜板
     S:oredict.plateTripleConductiveIron.name=三重导体铁板
+    S:oredict.plateTripleConstantan.name=Triple Constantan Plate
     S:oredict.plateTripleCopernicium.name=三重鎶板
     S:oredict.plateTripleCopper.name=三重铜板
     S:oredict.plateTripleCupronickel.name=三重白铜板
@@ -39987,6 +40273,7 @@ languagefile {
     S:oredict.plateTripleUranium235.name=三重铀-235板
     S:oredict.plateTripleVanadium.name=三重钒板
     S:oredict.plateTripleVanadiumGallium.name=三重钒-镓板
+    S:oredict.plateTripleVanadiumSteel.name=Triple Vanadiumsteel Plate
     S:oredict.plateTripleVibramantium.name=三重Vibramantium板
     S:oredict.plateTripleVibraniumSilver.name=三重钒银合金板
     S:oredict.plateTripleVibraniumSteel.name=三重钒钢合金板
@@ -40023,6 +40310,7 @@ languagefile {
     S:oredict.plateUranium235.name=铀-235板
     S:oredict.plateVanadium.name=钒板
     S:oredict.plateVanadiumGallium.name=钒-镓板
+    S:oredict.plateVanadiumSteel.name=Vanadiumsteel Plate
     S:oredict.plateVibramantium.name=Vibramantium板
     S:oredict.plateVibraniumSilver.name=钒银合金板
     S:oredict.plateVibraniumSteel.name=钒钢合金板
@@ -40084,6 +40372,7 @@ languagefile {
     S:oredict.ringAmericium.name=镅环
     S:oredict.ringAmericium241.name=镅-241环
     S:oredict.ringAmethyst.name=紫水晶环
+    S:oredict.ringAmethystEnder.name=Ender Amethyst Ring
     S:oredict.ringAmordrine.name=熔融魔石环
     S:oredict.ringAndesite.name=安山岩环
     S:oredict.ringAndradite.name=钙铁榴石环
@@ -40133,6 +40422,7 @@ languagefile {
     S:oredict.ringCobaltBrass.name=钴黄铜环
     S:oredict.ringConcrete.name=混凝土环
     S:oredict.ringConductiveIron.name=导体铁环
+    S:oredict.ringConstantan.name=Constantan Ring
     S:oredict.ringCopper.name=铜环
     S:oredict.ringCraponite.name=Craponite环
     S:oredict.ringCupronickel.name=白铜环
@@ -40302,6 +40592,7 @@ languagefile {
     S:oredict.ringUranium.name=铀环
     S:oredict.ringUranium235.name=铀-235环
     S:oredict.ringUvarovite.name=Uvarovite环
+    S:oredict.ringVanadiumSteel.name=Vanadiumsteel Ring
     S:oredict.ringVibramantium.name=Vibramantium环
     S:oredict.ringVibranium.name=Vibranium环
     S:oredict.ringVibraniumSilver.name=钒银合金 环
@@ -40339,6 +40630,7 @@ languagefile {
     S:oredict.rotorAmericium.name=镅转子
     S:oredict.rotorAmericium241.name=镅-241转子
     S:oredict.rotorAmethyst.name=紫水晶转子
+    S:oredict.rotorAmethystEnder.name=Ender Amethyst Rotor
     S:oredict.rotorAmordrine.name=熔融魔石转子
     S:oredict.rotorAndesite.name=安山岩转子
     S:oredict.rotorAndradite.name=钙铁榴石转子
@@ -40388,6 +40680,7 @@ languagefile {
     S:oredict.rotorCobaltBrass.name=钴黄铜转子
     S:oredict.rotorConcrete.name=混凝土转子
     S:oredict.rotorConductiveIron.name=导体铁转子
+    S:oredict.rotorConstantan.name=Constantan Rotor
     S:oredict.rotorCopper.name=铜转子
     S:oredict.rotorCraponite.name=Craponite转子
     S:oredict.rotorCupronickel.name=白铜转子
@@ -40557,6 +40850,7 @@ languagefile {
     S:oredict.rotorUranium.name=铀转子
     S:oredict.rotorUranium235.name=铀-235转子
     S:oredict.rotorUvarovite.name=Uvarovite转子
+    S:oredict.rotorVanadiumSteel.name=Vanadiumsteel Rotor
     S:oredict.rotorVibramantium.name=Vibramantium转子
     S:oredict.rotorVibranium.name=Vibranium转子
     S:oredict.rotorVibraniumSilver.name=钒银合金 转子
@@ -40594,6 +40888,7 @@ languagefile {
     S:oredict.roundAmericium.name=镅垫片
     S:oredict.roundAmericium241.name=镅-241垫片
     S:oredict.roundAmethyst.name=紫水晶垫片
+    S:oredict.roundAmethystEnder.name=Ender Amethyst Round
     S:oredict.roundAmordrine.name=熔融魔石垫片
     S:oredict.roundAndesite.name=安山岩垫片
     S:oredict.roundAndradite.name=钙铁榴石垫片
@@ -40643,6 +40938,7 @@ languagefile {
     S:oredict.roundCobaltBrass.name=钴黄铜垫片
     S:oredict.roundConcrete.name=混凝土垫片
     S:oredict.roundConductiveIron.name=导体铁垫片
+    S:oredict.roundConstantan.name=Constantan Round
     S:oredict.roundCopper.name=铜垫片
     S:oredict.roundCraponite.name=Craponite垫片
     S:oredict.roundCupronickel.name=白铜垫片
@@ -40813,6 +41109,7 @@ languagefile {
     S:oredict.roundUranium.name=铀垫片
     S:oredict.roundUranium235.name=铀-235垫片
     S:oredict.roundUvarovite.name=Uvarovite垫片
+    S:oredict.roundVanadiumSteel.name=Vanadiumsteel Round
     S:oredict.roundVibramantium.name=Vibramantium垫片
     S:oredict.roundVibranium.name=Vibranium垫片
     S:oredict.roundVibraniumSilver.name=钒银合金 垫片
@@ -40854,6 +41151,7 @@ languagefile {
     S:oredict.scrapGtAmericium.name=镅废料
     S:oredict.scrapGtAmericium241.name=镅-241废料
     S:oredict.scrapGtAmethyst.name=紫水晶废料
+    S:oredict.scrapGtAmethystEnder.name=Ender Amethyst Scrap
     S:oredict.scrapGtAmordrine.name=熔融魔石废料
     S:oredict.scrapGtAndesite.name=安山岩废料
     S:oredict.scrapGtAndradite.name=钙铁榴石废料
@@ -41090,6 +41388,7 @@ languagefile {
     S:oredict.scrapGtCoffee.name=咖啡废料
     S:oredict.scrapGtConcrete.name=混凝土废料
     S:oredict.scrapGtConductiveIron.name=导体铁废料
+    S:oredict.scrapGtConstantan.name=Constantan Scrap
     S:oredict.scrapGtConstructionFoam.name=泡沫废料
     S:oredict.scrapGtCooperite.name=Sheldonite废料
     S:oredict.scrapGtCopernicium.name=鎶废料
@@ -41431,9 +41730,12 @@ languagefile {
     S:oredict.scrapGtSodalite.name=方钠石废料
     S:oredict.scrapGtSodium.name=钠废料
     S:oredict.scrapGtSodiumBisulfate.name=Sodium Bisulfate废料
+    S:oredict.scrapGtSodiumHydroxide.name=Sodium Hydroxide Scrap
     S:oredict.scrapGtSodiumPersulfate.name=Sodium Persulfate废料
     S:oredict.scrapGtSodiumPyrosulfate.name=Sodium Pyrosulfate废料
+    S:oredict.scrapGtSodiumSulfate.name=Sodium Sulfate Scrap
     S:oredict.scrapGtSodiumSulfide.name=Sodium Sulfide 废料
+    S:oredict.scrapGtSodiumSulfite.name=Sodium Sulfite Scrap
     S:oredict.scrapGtSolderingAlloy.name=钎焊合金废料
     S:oredict.scrapGtSoularium.name=Soularium废料
     S:oredict.scrapGtSoylentGreen.name=绿色绿宝石 废料
@@ -41510,6 +41812,7 @@ languagefile {
     S:oredict.scrapGtVanadiumGallium.name=钒-镓废料
     S:oredict.scrapGtVanadiumMagnetite.name=钒磁铁矿废料
     S:oredict.scrapGtVanadiumPentoxide.name=Vanadium Pentoxide废料
+    S:oredict.scrapGtVanadiumSteel.name=Vanadiumsteel Scrap
     S:oredict.scrapGtVanilla.name=Vanilla废料
     S:oredict.scrapGtVermiculite.name=Vermiculite废料
     S:oredict.scrapGtVibramantium.name=Vibramantium废料
@@ -41581,6 +41884,7 @@ languagefile {
     S:oredict.screwAmericium.name=镅螺丝
     S:oredict.screwAmericium241.name=镅-241螺丝
     S:oredict.screwAmethyst.name=紫水晶螺丝
+    S:oredict.screwAmethystEnder.name=Ender Amethyst Screw
     S:oredict.screwAmordrine.name=熔融魔石螺丝
     S:oredict.screwAndesite.name=安山岩螺丝
     S:oredict.screwAndradite.name=钙铁榴石螺丝
@@ -41630,6 +41934,7 @@ languagefile {
     S:oredict.screwCobaltBrass.name=钴黄铜螺丝
     S:oredict.screwConcrete.name=混凝土螺丝
     S:oredict.screwConductiveIron.name=导体铁螺丝
+    S:oredict.screwConstantan.name=Constantan Screw
     S:oredict.screwCopper.name=铜螺丝
     S:oredict.screwCraponite.name=Craponite螺丝
     S:oredict.screwCupronickel.name=白铜螺丝
@@ -41800,6 +42105,7 @@ languagefile {
     S:oredict.screwUranium.name=铀螺丝
     S:oredict.screwUranium235.name=铀-235螺丝
     S:oredict.screwUvarovite.name=Uvarovite螺丝
+    S:oredict.screwVanadiumSteel.name=Vanadiumsteel Screw
     S:oredict.screwVibramantium.name=Vibramantium螺丝
     S:oredict.screwVibranium.name=Vibranium螺丝
     S:oredict.screwVibraniumSilver.name=钒银合金 螺丝
@@ -41872,6 +42178,7 @@ languagefile {
     S:oredict.springCobalt60.name=钴-60弹簧
     S:oredict.springCobaltBrass.name=钴黄铜弹簧
     S:oredict.springConductiveIron.name=导体铁弹簧
+    S:oredict.springConstantan.name=Constantan Spring
     S:oredict.springCopper.name=铜弹簧
     S:oredict.springCupronickel.name=白铜弹簧
     S:oredict.springDacite.name=英安岩弹簧
@@ -42015,6 +42322,7 @@ languagefile {
     S:oredict.springSmallCobalt60.name=小型钴-60弹簧
     S:oredict.springSmallCobaltBrass.name=小型钴黄铜弹簧
     S:oredict.springSmallConductiveIron.name=小型导体铁弹簧
+    S:oredict.springSmallConstantan.name=Small Constantan Spring
     S:oredict.springSmallCopper.name=小型铜弹簧
     S:oredict.springSmallCupronickel.name=小型白铜弹簧
     S:oredict.springSmallDacite.name=小型Dacite弹簧
@@ -42138,6 +42446,7 @@ languagefile {
     S:oredict.springSmallUltimet.name=小型哈氏合金弹簧
     S:oredict.springSmallUranium.name=小型铀弹簧
     S:oredict.springSmallUranium235.name=小型铀-235弹簧
+    S:oredict.springSmallVanadiumSteel.name=Small Vanadiumsteel Spring
     S:oredict.springSmallVibramantium.name=小型Vibramantium弹簧
     S:oredict.springSmallVibranium.name=小型Vibranium弹簧
     S:oredict.springSmallVibraniumSilver.name=小型钒银合金 弹簧
@@ -42184,6 +42493,7 @@ languagefile {
     S:oredict.springUltimet.name=哈氏合金弹簧
     S:oredict.springUranium.name=铀弹簧
     S:oredict.springUranium235.name=铀-235弹簧
+    S:oredict.springVanadiumSteel.name=Vanadiumsteel Spring
     S:oredict.springVibramantium.name=Vibramantium弹簧
     S:oredict.springVibranium.name=Vibranium弹簧
     S:oredict.springVibraniumSilver.name=钒银合金 弹簧
@@ -42217,6 +42527,7 @@ languagefile {
     S:oredict.stickAmericium.name=镅杆
     S:oredict.stickAmericium241.name=镅-241杆
     S:oredict.stickAmethyst.name=紫水晶杆
+    S:oredict.stickAmethystEnder.name=Ender Amethyst Rod
     S:oredict.stickAmordrine.name=熔融魔石杆
     S:oredict.stickAndesite.name=安山岩杆
     S:oredict.stickAndradite.name=钙铁榴石杆
@@ -42392,6 +42703,7 @@ languagefile {
     S:oredict.stickCobaltBrass.name=钴黄铜杆
     S:oredict.stickConcrete.name=混凝土杆
     S:oredict.stickConductiveIron.name=导体铁杆
+    S:oredict.stickConstantan.name=Constantan Rod
     S:oredict.stickCopernicium.name=鎶杆
     S:oredict.stickCopper.name=铜杆
     S:oredict.stickCraponite.name=Craponite杆
@@ -42521,6 +42833,7 @@ languagefile {
     S:oredict.stickLongAmericium.name=长镅杆
     S:oredict.stickLongAmericium241.name=长镅-241杆
     S:oredict.stickLongAmethyst.name=长紫水晶杆
+    S:oredict.stickLongAmethystEnder.name=Long Ender Amethyst Rod
     S:oredict.stickLongAmordrine.name=长熔融魔石杆
     S:oredict.stickLongAndesite.name=Long Andesite杆
     S:oredict.stickLongAndradite.name=Long Andradite杆
@@ -42697,6 +43010,7 @@ languagefile {
     S:oredict.stickLongCobaltBrass.name=长钴黄铜杆
     S:oredict.stickLongConcrete.name=长混凝土杆
     S:oredict.stickLongConductiveIron.name=Long 导体铁杆
+    S:oredict.stickLongConstantan.name=Long Constantan Rod
     S:oredict.stickLongCopernicium.name=长鎶杆
     S:oredict.stickLongCopper.name=长铜杆
     S:oredict.stickLongCraponite.name=长Craponite杆
@@ -42963,6 +43277,7 @@ languagefile {
     S:oredict.stickLongUvarovite.name=Long Uvarovite杆
     S:oredict.stickLongVanadium.name=长钒杆
     S:oredict.stickLongVanadiumGallium.name=长钒-镓杆
+    S:oredict.stickLongVanadiumSteel.name=Long Vanadiumsteel Rod
     S:oredict.stickLongVibramantium.name=长Vibramantium杆
     S:oredict.stickLongVibranium.name=长Vibranium杆
     S:oredict.stickLongVibraniumSilver.name=长钒银合金 杆
@@ -43145,6 +43460,7 @@ languagefile {
     S:oredict.stickUvarovite.name=Uvarovite杆
     S:oredict.stickVanadium.name=钒杆
     S:oredict.stickVanadiumGallium.name=钒-镓杆
+    S:oredict.stickVanadiumSteel.name=Vanadiumsteel Rod
     S:oredict.stickVibramantium.name=Vibramantium杆
     S:oredict.stickVibranium.name=Vibranium杆
     S:oredict.stickVibraniumSilver.name=钒银合金 杆
@@ -43187,6 +43503,7 @@ languagefile {
     S:oredict.toolHeadArrowAmericium.name=镅箭头
     S:oredict.toolHeadArrowAmericium241.name=镅-241箭头
     S:oredict.toolHeadArrowAmethyst.name=紫水晶箭头
+    S:oredict.toolHeadArrowAmethystEnder.name=Ender Amethyst Arrow Head
     S:oredict.toolHeadArrowAmordrine.name=熔融魔石箭头
     S:oredict.toolHeadArrowAndesite.name=安山岩箭头
     S:oredict.toolHeadArrowAndradite.name=钙铁榴石箭头
@@ -43228,6 +43545,7 @@ languagefile {
     S:oredict.toolHeadArrowCobaltBrass.name=钴黄铜箭头
     S:oredict.toolHeadArrowConcrete.name=混凝土箭头
     S:oredict.toolHeadArrowConductiveIron.name=导体铁箭头
+    S:oredict.toolHeadArrowConstantan.name=Constantan Arrow Head
     S:oredict.toolHeadArrowCopper.name=铜箭头
     S:oredict.toolHeadArrowCraponite.name=Craponite箭头
     S:oredict.toolHeadArrowCupronickel.name=白铜箭头
@@ -43382,6 +43700,7 @@ languagefile {
     S:oredict.toolHeadArrowUranium.name=铀箭头
     S:oredict.toolHeadArrowUranium235.name=铀-235箭头
     S:oredict.toolHeadArrowUvarovite.name=Uvarovite箭头
+    S:oredict.toolHeadArrowVanadiumSteel.name=Vanadiumsteel Arrow Head
     S:oredict.toolHeadArrowVibramantium.name=Vibramantium箭头
     S:oredict.toolHeadArrowVibranium.name=Vibranium箭头
     S:oredict.toolHeadArrowVibraniumSilver.name=钒银合金 箭头
@@ -43418,6 +43737,7 @@ languagefile {
     S:oredict.toolHeadAxeAmericium.name=镅斧头
     S:oredict.toolHeadAxeAmericium241.name=镅-241斧头
     S:oredict.toolHeadAxeAmethyst.name=紫水晶斧头
+    S:oredict.toolHeadAxeAmethystEnder.name=Ender Amethyst Axe Head
     S:oredict.toolHeadAxeAmordrine.name=熔融魔石斧头
     S:oredict.toolHeadAxeAndesite.name=安山岩 斧头
     S:oredict.toolHeadAxeAndradite.name=钙铁榴石 斧头
@@ -43459,6 +43779,7 @@ languagefile {
     S:oredict.toolHeadAxeCobaltBrass.name=钴黄铜斧头
     S:oredict.toolHeadAxeConcrete.name=混凝土斧头
     S:oredict.toolHeadAxeConductiveIron.name=导体铁 斧头
+    S:oredict.toolHeadAxeConstantan.name=Constantan Axe Head
     S:oredict.toolHeadAxeCopper.name=铜斧头
     S:oredict.toolHeadAxeCraponite.name=Craponite斧头
     S:oredict.toolHeadAxeCupronickel.name=白铜斧头
@@ -43483,6 +43804,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleAmericium.name=镅双刃斧头
     S:oredict.toolHeadAxeDoubleAmericium241.name=镅-241双刃斧头
     S:oredict.toolHeadAxeDoubleAmethyst.name=紫水晶双刃斧头
+    S:oredict.toolHeadAxeDoubleAmethystEnder.name=Ender Amethyst Double Axe Head
     S:oredict.toolHeadAxeDoubleAmordrine.name=熔融魔石双刃斧头
     S:oredict.toolHeadAxeDoubleAndesite.name=安山岩 双刃斧
     S:oredict.toolHeadAxeDoubleAndradite.name=钙铁榴石 双刃斧
@@ -43520,6 +43842,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleCobalt60.name=钴-60双刃斧头
     S:oredict.toolHeadAxeDoubleCobaltBrass.name=钴黄铜双刃斧头
     S:oredict.toolHeadAxeDoubleConductiveIron.name=导体铁 双刃斧
+    S:oredict.toolHeadAxeDoubleConstantan.name=Constantan Double Axe Head
     S:oredict.toolHeadAxeDoubleCopper.name=铜双刃斧头
     S:oredict.toolHeadAxeDoubleCraponite.name=Craponite双刃斧头
     S:oredict.toolHeadAxeDoubleCupronickel.name=白铜双刃斧头
@@ -43660,6 +43983,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleUranium.name=铀双刃斧头
     S:oredict.toolHeadAxeDoubleUranium235.name=铀-235双刃斧头
     S:oredict.toolHeadAxeDoubleUvarovite.name=Uvarovite 双刃斧
+    S:oredict.toolHeadAxeDoubleVanadiumSteel.name=Vanadiumsteel Double Axe Head
     S:oredict.toolHeadAxeDoubleVibramantium.name=Vibramantium双刃斧头
     S:oredict.toolHeadAxeDoubleVibranium.name=Vibranium双刃斧头
     S:oredict.toolHeadAxeDoubleVibraniumSilver.name=钒银合金 双刃斧头
@@ -43823,6 +44147,7 @@ languagefile {
     S:oredict.toolHeadAxeUranium.name=铀斧头
     S:oredict.toolHeadAxeUranium235.name=铀-235斧头
     S:oredict.toolHeadAxeUvarovite.name=Uvarovite 斧头
+    S:oredict.toolHeadAxeVanadiumSteel.name=Vanadiumsteel Axe Head
     S:oredict.toolHeadAxeVibramantium.name=Vibramantium斧头
     S:oredict.toolHeadAxeVibranium.name=Vibranium斧头
     S:oredict.toolHeadAxeVibraniumSilver.name=钒银合金 斧头
@@ -43859,6 +44184,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawAmericium.name=镅圆锯片
     S:oredict.toolHeadBuzzSawAmericium241.name=镅-241圆锯片
     S:oredict.toolHeadBuzzSawAmethyst.name=紫水晶圆锯片
+    S:oredict.toolHeadBuzzSawAmethystEnder.name=Ender Amethyst Buzzsaw Blade
     S:oredict.toolHeadBuzzSawAmordrine.name=魔力之石圆锯片
     S:oredict.toolHeadBuzzSawAndesite.name=安山岩 圆锯片
     S:oredict.toolHeadBuzzSawAndradite.name=钙铁榴石 圆锯片
@@ -43896,6 +44222,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawCobalt60.name=钴-60圆锯片
     S:oredict.toolHeadBuzzSawCobaltBrass.name=钴黄铜圆锯片
     S:oredict.toolHeadBuzzSawConductiveIron.name=导体铁 圆锯片
+    S:oredict.toolHeadBuzzSawConstantan.name=Constantan Buzzsaw Blade
     S:oredict.toolHeadBuzzSawCopper.name=铜圆锯片
     S:oredict.toolHeadBuzzSawCraponite.name=Craponite圆锯片
     S:oredict.toolHeadBuzzSawCupronickel.name=白铜圆锯片
@@ -44032,6 +44359,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawUranium.name=铀圆锯片
     S:oredict.toolHeadBuzzSawUranium235.name=铀-235圆锯片
     S:oredict.toolHeadBuzzSawUvarovite.name=Uvarovite 圆锯片
+    S:oredict.toolHeadBuzzSawVanadiumSteel.name=Vanadiumsteel Buzzsaw Blade
     S:oredict.toolHeadBuzzSawVibramantium.name=Vibramantium圆锯片
     S:oredict.toolHeadBuzzSawVibranium.name=Vibranium圆锯片
     S:oredict.toolHeadBuzzSawVibraniumSilver.name=钒银合金 圆锯片
@@ -44064,6 +44392,7 @@ languagefile {
     S:oredict.toolHeadChainsawAmericium.name=镅电锯头
     S:oredict.toolHeadChainsawAmericium241.name=镅-241电锯头
     S:oredict.toolHeadChainsawAmethyst.name=紫水晶电锯头
+    S:oredict.toolHeadChainsawAmethystEnder.name=Ender Amethyst Chainsaw Tip
     S:oredict.toolHeadChainsawAmordrine.name=熔融魔石电锯头
     S:oredict.toolHeadChainsawAndesite.name=安山岩 电锯头
     S:oredict.toolHeadChainsawAndradite.name=钙铁榴石 电锯头
@@ -44101,6 +44430,7 @@ languagefile {
     S:oredict.toolHeadChainsawCobalt60.name=钴-60电锯头
     S:oredict.toolHeadChainsawCobaltBrass.name=钴黄铜电锯头
     S:oredict.toolHeadChainsawConductiveIron.name=导体铁 电锯头
+    S:oredict.toolHeadChainsawConstantan.name=Constantan Chainsaw Tip
     S:oredict.toolHeadChainsawCopper.name=铜电锯头
     S:oredict.toolHeadChainsawCraponite.name=Craponite电锯头
     S:oredict.toolHeadChainsawCupronickel.name=白铜电锯头
@@ -44237,6 +44567,7 @@ languagefile {
     S:oredict.toolHeadChainsawUranium.name=铀电锯头
     S:oredict.toolHeadChainsawUranium235.name=铀-235电锯头
     S:oredict.toolHeadChainsawUvarovite.name=Uvarovite 电锯头
+    S:oredict.toolHeadChainsawVanadiumSteel.name=Vanadiumsteel Chainsaw Tip
     S:oredict.toolHeadChainsawVibramantium.name=Vibramantium电锯头
     S:oredict.toolHeadChainsawVibranium.name=Vibranium电锯头
     S:oredict.toolHeadChainsawVibraniumSilver.name=钒银合金 电锯头
@@ -44269,6 +44600,7 @@ languagefile {
     S:oredict.toolHeadChiselAmericium.name=镅凿子头
     S:oredict.toolHeadChiselAmericium241.name=镅-241凿子头
     S:oredict.toolHeadChiselAmethyst.name=紫水晶凿子头
+    S:oredict.toolHeadChiselAmethystEnder.name=Ender Amethyst Chisel Head
     S:oredict.toolHeadChiselAmordrine.name=熔融魔石凿子头
     S:oredict.toolHeadChiselAndesite.name=安山岩 凿子头
     S:oredict.toolHeadChiselAndradite.name=钙铁榴石 凿子头
@@ -44306,6 +44638,7 @@ languagefile {
     S:oredict.toolHeadChiselCobalt60.name=钴-60凿子头
     S:oredict.toolHeadChiselCobaltBrass.name=钴黄铜凿子头
     S:oredict.toolHeadChiselConductiveIron.name=导体铁 凿子头
+    S:oredict.toolHeadChiselConstantan.name=Constantan Chisel Head
     S:oredict.toolHeadChiselCopper.name=铜凿子头
     S:oredict.toolHeadChiselCraponite.name=Craponite凿子头
     S:oredict.toolHeadChiselCupronickel.name=白铜凿子头
@@ -44442,6 +44775,7 @@ languagefile {
     S:oredict.toolHeadChiselUranium.name=铀凿子头
     S:oredict.toolHeadChiselUranium235.name=铀-235凿子头
     S:oredict.toolHeadChiselUvarovite.name=Uvarovite 凿子头
+    S:oredict.toolHeadChiselVanadiumSteel.name=Vanadiumsteel Chisel Head
     S:oredict.toolHeadChiselVibramantium.name=Vibramantium凿子头
     S:oredict.toolHeadChiselVibranium.name=Vibranium凿子头
     S:oredict.toolHeadChiselVibraniumSilver.name=钒银合金 凿子头
@@ -44474,6 +44808,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeAmericium.name=镅 建筑镐头
     S:oredict.toolHeadConstructionPickaxeAmericium241.name=镅-241 建筑镐头
     S:oredict.toolHeadConstructionPickaxeAmethyst.name=紫水晶 建筑镐头
+    S:oredict.toolHeadConstructionPickaxeAmethystEnder.name=Ender Amethyst Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeAmordrine.name=熔融魔石 建筑镐头
     S:oredict.toolHeadConstructionPickaxeAndesite.name=安山岩 建筑镐头
     S:oredict.toolHeadConstructionPickaxeAndradite.name=钙铁榴石 建筑镐头
@@ -44511,6 +44846,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeCobalt60.name=钴-60 建筑镐头
     S:oredict.toolHeadConstructionPickaxeCobaltBrass.name=钴黄铜建筑镐头
     S:oredict.toolHeadConstructionPickaxeConductiveIron.name=导体铁 建筑镐头
+    S:oredict.toolHeadConstructionPickaxeConstantan.name=Constantan Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeCopper.name=铜 建筑镐头
     S:oredict.toolHeadConstructionPickaxeCraponite.name=Craponite 建筑镐头
     S:oredict.toolHeadConstructionPickaxeCupronickel.name=白铜 建筑镐头
@@ -44651,6 +44987,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeUranium.name=铀 建筑镐头
     S:oredict.toolHeadConstructionPickaxeUranium235.name=铀-235 建筑镐头
     S:oredict.toolHeadConstructionPickaxeUvarovite.name=Uvarovite 建筑镐头
+    S:oredict.toolHeadConstructionPickaxeVanadiumSteel.name=Vanadiumsteel Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeVibramantium.name=Vibramantium 建筑镐头
     S:oredict.toolHeadConstructionPickaxeVibranium.name=钒合金 建筑镐头
     S:oredict.toolHeadConstructionPickaxeVibraniumSilver.name=钒银合金  建筑镐头
@@ -44683,6 +45020,7 @@ languagefile {
     S:oredict.toolHeadDrillAmericium.name=镅钻头
     S:oredict.toolHeadDrillAmericium241.name=镅-241钻头
     S:oredict.toolHeadDrillAmethyst.name=紫水晶钻头
+    S:oredict.toolHeadDrillAmethystEnder.name=Ender Amethyst Drill Tip
     S:oredict.toolHeadDrillAmordrine.name=熔融魔石钻头
     S:oredict.toolHeadDrillAndesite.name=安山岩 钻头
     S:oredict.toolHeadDrillAndradite.name=钙铁榴石 钻头
@@ -44720,6 +45058,7 @@ languagefile {
     S:oredict.toolHeadDrillCobalt60.name=钴-60钻头
     S:oredict.toolHeadDrillCobaltBrass.name=钴黄铜钻头
     S:oredict.toolHeadDrillConductiveIron.name=导体铁 钻头
+    S:oredict.toolHeadDrillConstantan.name=Constantan Drill Tip
     S:oredict.toolHeadDrillCopper.name=铜钻头
     S:oredict.toolHeadDrillCraponite.name=Craponite钻头
     S:oredict.toolHeadDrillCupronickel.name=白铜钻头
@@ -44856,6 +45195,7 @@ languagefile {
     S:oredict.toolHeadDrillUranium.name=铀钻头
     S:oredict.toolHeadDrillUranium235.name=铀-235钻头
     S:oredict.toolHeadDrillUvarovite.name=Uvarovite 钻头
+    S:oredict.toolHeadDrillVanadiumSteel.name=Vanadiumsteel Drill Tip
     S:oredict.toolHeadDrillVibramantium.name=Vibramantium钻头
     S:oredict.toolHeadDrillVibranium.name=Vibranium钻头
     S:oredict.toolHeadDrillVibraniumSilver.name=钒银合金 钻头
@@ -44888,6 +45228,7 @@ languagefile {
     S:oredict.toolHeadFileAmericium.name=镅锉刀头
     S:oredict.toolHeadFileAmericium241.name=镅-241锉刀头
     S:oredict.toolHeadFileAmethyst.name=紫水晶锉刀头
+    S:oredict.toolHeadFileAmethystEnder.name=Ender Amethyst File Head
     S:oredict.toolHeadFileAmordrine.name=熔融魔石锉刀头
     S:oredict.toolHeadFileAndesite.name=安山岩 锉刀头
     S:oredict.toolHeadFileAndradite.name=钙铁榴石 锉刀头
@@ -44925,6 +45266,7 @@ languagefile {
     S:oredict.toolHeadFileCobalt60.name=钴-60锉刀头
     S:oredict.toolHeadFileCobaltBrass.name=钴黄铜锉刀头
     S:oredict.toolHeadFileConductiveIron.name=导体铁 锉刀头
+    S:oredict.toolHeadFileConstantan.name=Constantan File Head
     S:oredict.toolHeadFileCopper.name=铜锉刀头
     S:oredict.toolHeadFileCraponite.name=Craponite锉刀头
     S:oredict.toolHeadFileCupronickel.name=白铜锉刀头
@@ -45061,6 +45403,7 @@ languagefile {
     S:oredict.toolHeadFileUranium.name=铀锉刀头
     S:oredict.toolHeadFileUranium235.name=铀-235锉刀头
     S:oredict.toolHeadFileUvarovite.name=Uvarovite 锉刀头
+    S:oredict.toolHeadFileVanadiumSteel.name=Vanadiumsteel File Head
     S:oredict.toolHeadFileVibramantium.name=Vibramantium锉刀头
     S:oredict.toolHeadFileVibranium.name=Vibranium锉刀头
     S:oredict.toolHeadFileVibraniumSilver.name=钒银合金 锉刀头
@@ -45093,6 +45436,7 @@ languagefile {
     S:oredict.toolHeadHammerAmericium.name=镅锤头
     S:oredict.toolHeadHammerAmericium241.name=镅-241锤头
     S:oredict.toolHeadHammerAmethyst.name=紫水晶锤头
+    S:oredict.toolHeadHammerAmethystEnder.name=Ender Amethyst Hammer Head
     S:oredict.toolHeadHammerAmordrine.name=熔融魔石锤头
     S:oredict.toolHeadHammerAndesite.name=安山岩锤头
     S:oredict.toolHeadHammerAndradite.name=钙铁榴石锤头
@@ -45131,6 +45475,7 @@ languagefile {
     S:oredict.toolHeadHammerCobalt60.name=钴-60锤头
     S:oredict.toolHeadHammerCobaltBrass.name=钴黄铜锤头
     S:oredict.toolHeadHammerConductiveIron.name=导体铁锤头
+    S:oredict.toolHeadHammerConstantan.name=Constantan Hammer Head
     S:oredict.toolHeadHammerCraponite.name=Craponite锤头
     S:oredict.toolHeadHammerCupronickel.name=白铜锤头
     S:oredict.toolHeadHammerDacite.name=英安岩锤头
@@ -45280,6 +45625,7 @@ languagefile {
     S:oredict.toolHeadHammerUranium.name=铀锤头
     S:oredict.toolHeadHammerUranium235.name=铀-235锤头
     S:oredict.toolHeadHammerUvarovite.name=Uvarovite锤头
+    S:oredict.toolHeadHammerVanadiumSteel.name=Vanadiumsteel Hammer Head
     S:oredict.toolHeadHammerVibramantium.name=Vibramantium锤头
     S:oredict.toolHeadHammerVibranium.name=Vibranium锤头
     S:oredict.toolHeadHammerVibraniumSilver.name=钒银合金 锤头
@@ -45316,6 +45662,7 @@ languagefile {
     S:oredict.toolHeadHoeAmericium.name=镅锄头
     S:oredict.toolHeadHoeAmericium241.name=镅-241锄头
     S:oredict.toolHeadHoeAmethyst.name=紫水晶锄头
+    S:oredict.toolHeadHoeAmethystEnder.name=Ender Amethyst Hoe Head
     S:oredict.toolHeadHoeAmordrine.name=熔融魔石锄头
     S:oredict.toolHeadHoeAndesite.name=安山岩 锄头
     S:oredict.toolHeadHoeAndradite.name=钙铁榴石 锄头
@@ -45357,6 +45704,7 @@ languagefile {
     S:oredict.toolHeadHoeCobaltBrass.name=钴黄铜锄头
     S:oredict.toolHeadHoeConcrete.name=混凝土锄头
     S:oredict.toolHeadHoeConductiveIron.name=导体铁 锄头
+    S:oredict.toolHeadHoeConstantan.name=Constantan Hoe Head
     S:oredict.toolHeadHoeCopper.name=铜锄头
     S:oredict.toolHeadHoeCraponite.name=Craponite锄头
     S:oredict.toolHeadHoeCupronickel.name=白铜锄头
@@ -45511,6 +45859,7 @@ languagefile {
     S:oredict.toolHeadHoeUranium.name=铀锄头
     S:oredict.toolHeadHoeUranium235.name=铀-235锄头
     S:oredict.toolHeadHoeUvarovite.name=Uvarovite 锄头
+    S:oredict.toolHeadHoeVanadiumSteel.name=Vanadiumsteel Hoe Head
     S:oredict.toolHeadHoeVibramantium.name=Vibramantium锄头
     S:oredict.toolHeadHoeVibranium.name=Vibranium锄头
     S:oredict.toolHeadHoeVibraniumSilver.name=钒银合金 锄头
@@ -45547,6 +45896,7 @@ languagefile {
     S:oredict.toolHeadPickaxeAmericium.name=镅镐头
     S:oredict.toolHeadPickaxeAmericium241.name=镅-241镐头
     S:oredict.toolHeadPickaxeAmethyst.name=紫水晶镐头
+    S:oredict.toolHeadPickaxeAmethystEnder.name=Ender Amethyst Pickaxe Head
     S:oredict.toolHeadPickaxeAmordrine.name=熔融魔石镐头
     S:oredict.toolHeadPickaxeAndesite.name=安山岩 镐头
     S:oredict.toolHeadPickaxeAndradite.name=钙铁榴石 镐头
@@ -45588,6 +45938,7 @@ languagefile {
     S:oredict.toolHeadPickaxeCobaltBrass.name=钴黄铜镐头
     S:oredict.toolHeadPickaxeConcrete.name=混凝土镐头
     S:oredict.toolHeadPickaxeConductiveIron.name=导体铁 镐头
+    S:oredict.toolHeadPickaxeConstantan.name=Constantan Pickaxe Head
     S:oredict.toolHeadPickaxeCopper.name=铜镐头
     S:oredict.toolHeadPickaxeCraponite.name=Craponite镐头
     S:oredict.toolHeadPickaxeCupronickel.name=白铜镐头
@@ -45742,6 +46093,7 @@ languagefile {
     S:oredict.toolHeadPickaxeUranium.name=铀镐头
     S:oredict.toolHeadPickaxeUranium235.name=铀-235镐头
     S:oredict.toolHeadPickaxeUvarovite.name=Uvarovite 镐头
+    S:oredict.toolHeadPickaxeVanadiumSteel.name=Vanadiumsteel Pickaxe Head
     S:oredict.toolHeadPickaxeVibramantium.name=Vibramantium镐头
     S:oredict.toolHeadPickaxeVibranium.name=Vibranium镐头
     S:oredict.toolHeadPickaxeVibraniumSilver.name=钒银合金 镐头
@@ -45778,6 +46130,7 @@ languagefile {
     S:oredict.toolHeadPlowAmericium.name=镅犁头
     S:oredict.toolHeadPlowAmericium241.name=镅-241犁头
     S:oredict.toolHeadPlowAmethyst.name=紫水晶犁头
+    S:oredict.toolHeadPlowAmethystEnder.name=Ender Amethyst Plow Head
     S:oredict.toolHeadPlowAmordrine.name=熔融魔石犁头
     S:oredict.toolHeadPlowAndesite.name=安山岩 犁头
     S:oredict.toolHeadPlowAndradite.name=钙铁榴石 犁头
@@ -45819,6 +46172,7 @@ languagefile {
     S:oredict.toolHeadPlowCobaltBrass.name=钴黄铜犁头
     S:oredict.toolHeadPlowConcrete.name=混凝土犁头
     S:oredict.toolHeadPlowConductiveIron.name=导体铁 犁头
+    S:oredict.toolHeadPlowConstantan.name=Constantan Plow Head
     S:oredict.toolHeadPlowCopper.name=铜犁头
     S:oredict.toolHeadPlowCraponite.name=Craponite犁头
     S:oredict.toolHeadPlowCupronickel.name=白铜犁头
@@ -45973,6 +46327,7 @@ languagefile {
     S:oredict.toolHeadPlowUranium.name=铀犁头
     S:oredict.toolHeadPlowUranium235.name=铀-235犁头
     S:oredict.toolHeadPlowUvarovite.name=Uvarovite 犁头
+    S:oredict.toolHeadPlowVanadiumSteel.name=Vanadiumsteel Plow Head
     S:oredict.toolHeadPlowVibramantium.name=Vibramantium犁头
     S:oredict.toolHeadPlowVibranium.name=Vibranium犁头
     S:oredict.toolHeadPlowVibraniumSilver.name=钒银合金 犁头
@@ -46009,6 +46364,7 @@ languagefile {
     S:oredict.toolHeadRawArrowAmericium.name=粗糙的镅箭头
     S:oredict.toolHeadRawArrowAmericium241.name=粗糙的镅-241箭头
     S:oredict.toolHeadRawArrowAmethyst.name=粗糙的紫水晶箭头
+    S:oredict.toolHeadRawArrowAmethystEnder.name=Raw Ender Amethyst Arrow Head
     S:oredict.toolHeadRawArrowAmordrine.name=粗糙的熔融魔石箭头
     S:oredict.toolHeadRawArrowAndesite.name=粗糙的Andesite箭头
     S:oredict.toolHeadRawArrowAndradite.name=粗糙的Andradite箭头
@@ -46050,6 +46406,7 @@ languagefile {
     S:oredict.toolHeadRawArrowCobaltBrass.name=粗糙的钴黄铜箭头
     S:oredict.toolHeadRawArrowConcrete.name=粗糙的混凝土箭头
     S:oredict.toolHeadRawArrowConductiveIron.name=粗糙的导体铁箭头
+    S:oredict.toolHeadRawArrowConstantan.name=Raw Constantan Arrow Head
     S:oredict.toolHeadRawArrowCopper.name=粗糙的铜箭头
     S:oredict.toolHeadRawArrowCraponite.name=粗糙的Craponite箭头
     S:oredict.toolHeadRawArrowCupronickel.name=粗糙的白铜箭头
@@ -46204,6 +46561,7 @@ languagefile {
     S:oredict.toolHeadRawArrowUranium.name=粗糙的铀箭头
     S:oredict.toolHeadRawArrowUranium235.name=粗糙的铀-235箭头
     S:oredict.toolHeadRawArrowUvarovite.name=粗糙的Uvarovite箭头
+    S:oredict.toolHeadRawArrowVanadiumSteel.name=Raw Vanadiumsteel Arrow Head
     S:oredict.toolHeadRawArrowVibramantium.name=粗糙的Vibramantium箭头
     S:oredict.toolHeadRawArrowVibranium.name=粗糙的Vibranium箭头
     S:oredict.toolHeadRawArrowVibraniumSilver.name=粗糙的钒银合金 箭头
@@ -46240,6 +46598,7 @@ languagefile {
     S:oredict.toolHeadRawAxeAmericium.name=粗糙的镅斧头
     S:oredict.toolHeadRawAxeAmericium241.name=粗糙的镅-241斧头
     S:oredict.toolHeadRawAxeAmethyst.name=粗糙的紫水晶斧头
+    S:oredict.toolHeadRawAxeAmethystEnder.name=Raw Ender Amethyst Axe Head
     S:oredict.toolHeadRawAxeAmordrine.name=粗糙的熔融魔石斧头
     S:oredict.toolHeadRawAxeAndesite.name=粗糙的Andesite 斧头
     S:oredict.toolHeadRawAxeAndradite.name=粗糙的Andradite 斧头
@@ -46281,6 +46640,7 @@ languagefile {
     S:oredict.toolHeadRawAxeCobaltBrass.name=粗糙的钴黄铜斧头
     S:oredict.toolHeadRawAxeConcrete.name=粗糙的混凝土斧头
     S:oredict.toolHeadRawAxeConductiveIron.name=粗糙的导体铁 斧头
+    S:oredict.toolHeadRawAxeConstantan.name=Raw Constantan Axe Head
     S:oredict.toolHeadRawAxeCopper.name=粗糙的铜斧头
     S:oredict.toolHeadRawAxeCraponite.name=粗糙的Craponite斧头
     S:oredict.toolHeadRawAxeCupronickel.name=粗糙的白铜斧头
@@ -46305,6 +46665,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleAmericium.name=粗糙的镅双刃斧
     S:oredict.toolHeadRawAxeDoubleAmericium241.name=粗糙的镅-241双刃斧
     S:oredict.toolHeadRawAxeDoubleAmethyst.name=粗糙的紫水晶双刃斧
+    S:oredict.toolHeadRawAxeDoubleAmethystEnder.name=Raw Ender Amethyst Double Axe Head
     S:oredict.toolHeadRawAxeDoubleAmordrine.name=粗糙的熔融魔石双刃斧
     S:oredict.toolHeadRawAxeDoubleAndesite.name=粗糙的Andesite 双刃斧
     S:oredict.toolHeadRawAxeDoubleAndradite.name=粗糙的Andradite 双刃斧
@@ -46342,6 +46703,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleCobalt60.name=粗糙的钴-60双刃斧
     S:oredict.toolHeadRawAxeDoubleCobaltBrass.name=粗糙的钴黄铜双刃斧
     S:oredict.toolHeadRawAxeDoubleConductiveIron.name=粗糙的导体铁 双刃斧
+    S:oredict.toolHeadRawAxeDoubleConstantan.name=Raw Constantan Double Axe Head
     S:oredict.toolHeadRawAxeDoubleCopper.name=粗糙的铜双刃斧
     S:oredict.toolHeadRawAxeDoubleCraponite.name=粗糙的Craponite双刃斧
     S:oredict.toolHeadRawAxeDoubleCupronickel.name=粗糙的白铜双刃斧
@@ -46482,6 +46844,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleUranium.name=粗糙的铀双刃斧
     S:oredict.toolHeadRawAxeDoubleUranium235.name=粗糙的铀-235双刃斧
     S:oredict.toolHeadRawAxeDoubleUvarovite.name=粗糙的Uvarovite 双刃斧
+    S:oredict.toolHeadRawAxeDoubleVanadiumSteel.name=Raw Vanadiumsteel Double Axe Head
     S:oredict.toolHeadRawAxeDoubleVibramantium.name=粗糙的Vibramantium双刃斧
     S:oredict.toolHeadRawAxeDoubleVibranium.name=粗糙的Vibranium双刃斧
     S:oredict.toolHeadRawAxeDoubleVibraniumSilver.name=粗糙的钒银合金 双刃斧
@@ -46645,6 +47008,7 @@ languagefile {
     S:oredict.toolHeadRawAxeUranium.name=粗糙的铀斧头
     S:oredict.toolHeadRawAxeUranium235.name=粗糙的铀-235斧头
     S:oredict.toolHeadRawAxeUvarovite.name=粗糙的Uvarovite 斧头
+    S:oredict.toolHeadRawAxeVanadiumSteel.name=Raw Vanadiumsteel Axe Head
     S:oredict.toolHeadRawAxeVibramantium.name=粗糙的Vibramantium斧头
     S:oredict.toolHeadRawAxeVibranium.name=粗糙的Vibranium斧头
     S:oredict.toolHeadRawAxeVibraniumSilver.name=粗糙的钒银合金 斧头
@@ -46681,6 +47045,7 @@ languagefile {
     S:oredict.toolHeadRawChiselAmericium.name=粗糙的镅凿子头
     S:oredict.toolHeadRawChiselAmericium241.name=粗糙的镅-241凿子头
     S:oredict.toolHeadRawChiselAmethyst.name=粗糙的紫水晶凿子头
+    S:oredict.toolHeadRawChiselAmethystEnder.name=Raw Ender Amethyst Chisel Head
     S:oredict.toolHeadRawChiselAmordrine.name=粗糙的熔融魔石凿子头
     S:oredict.toolHeadRawChiselAndesite.name=粗糙的Andesite 凿子头
     S:oredict.toolHeadRawChiselAndradite.name=粗糙的Andradite 凿子头
@@ -46718,6 +47083,7 @@ languagefile {
     S:oredict.toolHeadRawChiselCobalt60.name=粗糙的钴-60凿子头
     S:oredict.toolHeadRawChiselCobaltBrass.name=粗糙的钴黄铜凿子头
     S:oredict.toolHeadRawChiselConductiveIron.name=粗糙的导体铁 凿子头
+    S:oredict.toolHeadRawChiselConstantan.name=Raw Constantan Chisel Head
     S:oredict.toolHeadRawChiselCopper.name=粗糙的铜凿子头
     S:oredict.toolHeadRawChiselCraponite.name=粗糙的Craponite凿子头
     S:oredict.toolHeadRawChiselCupronickel.name=粗糙的白铜凿子头
@@ -46854,6 +47220,7 @@ languagefile {
     S:oredict.toolHeadRawChiselUranium.name=粗糙的铀凿子头
     S:oredict.toolHeadRawChiselUranium235.name=粗糙的铀-235凿子头
     S:oredict.toolHeadRawChiselUvarovite.name=粗糙的Uvarovite 凿子头
+    S:oredict.toolHeadRawChiselVanadiumSteel.name=Raw Vanadiumsteel Chisel Head
     S:oredict.toolHeadRawChiselVibramantium.name=粗糙的Vibramantium凿子头
     S:oredict.toolHeadRawChiselVibranium.name=粗糙的Vibranium凿子头
     S:oredict.toolHeadRawChiselVibraniumSilver.name=粗糙的钒银合金 凿子头
@@ -46886,6 +47253,7 @@ languagefile {
     S:oredict.toolHeadRawHoeAmericium.name=粗糙的镅锄头
     S:oredict.toolHeadRawHoeAmericium241.name=粗糙的镅-241锄头
     S:oredict.toolHeadRawHoeAmethyst.name=粗糙的紫水晶锄头
+    S:oredict.toolHeadRawHoeAmethystEnder.name=Raw Ender Amethyst Hoe Head
     S:oredict.toolHeadRawHoeAmordrine.name=粗糙的熔融魔石锄头
     S:oredict.toolHeadRawHoeAndesite.name=粗糙的Andesite 锄头
     S:oredict.toolHeadRawHoeAndradite.name=粗糙的Andradite 锄头
@@ -46927,6 +47295,7 @@ languagefile {
     S:oredict.toolHeadRawHoeCobaltBrass.name=粗糙的钴黄铜锄头
     S:oredict.toolHeadRawHoeConcrete.name=粗糙的混凝土锄头
     S:oredict.toolHeadRawHoeConductiveIron.name=粗糙的导体铁 锄头
+    S:oredict.toolHeadRawHoeConstantan.name=Raw Constantan Hoe Head
     S:oredict.toolHeadRawHoeCopper.name=粗糙的铜锄头
     S:oredict.toolHeadRawHoeCraponite.name=粗糙的Craponite锄头
     S:oredict.toolHeadRawHoeCupronickel.name=粗糙的白铜锄头
@@ -47081,6 +47450,7 @@ languagefile {
     S:oredict.toolHeadRawHoeUranium.name=粗糙的铀锄头
     S:oredict.toolHeadRawHoeUranium235.name=粗糙的铀-235锄头
     S:oredict.toolHeadRawHoeUvarovite.name=粗糙的Uvarovite 锄头
+    S:oredict.toolHeadRawHoeVanadiumSteel.name=Raw Vanadiumsteel Hoe Head
     S:oredict.toolHeadRawHoeVibramantium.name=粗糙的Vibramantium锄头
     S:oredict.toolHeadRawHoeVibranium.name=粗糙的Vibranium锄头
     S:oredict.toolHeadRawHoeVibraniumSilver.name=粗糙的钒银合金 锄头
@@ -47117,6 +47487,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeAmericium.name=粗糙的镅镐头
     S:oredict.toolHeadRawPickaxeAmericium241.name=粗糙的镅-241镐头
     S:oredict.toolHeadRawPickaxeAmethyst.name=粗糙的紫水晶镐头
+    S:oredict.toolHeadRawPickaxeAmethystEnder.name=Raw Ender Amethyst Pickaxe Head
     S:oredict.toolHeadRawPickaxeAmordrine.name=粗糙的熔融魔石镐头
     S:oredict.toolHeadRawPickaxeAndesite.name=粗糙的Andesite 镐头
     S:oredict.toolHeadRawPickaxeAndradite.name=粗糙的Andradite 镐头
@@ -47158,6 +47529,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeCobaltBrass.name=粗糙的钴黄铜镐头
     S:oredict.toolHeadRawPickaxeConcrete.name=粗糙的混凝土镐头
     S:oredict.toolHeadRawPickaxeConductiveIron.name=粗糙的导体铁 镐头
+    S:oredict.toolHeadRawPickaxeConstantan.name=Raw Constantan Pickaxe Head
     S:oredict.toolHeadRawPickaxeCopper.name=粗糙的铜镐头
     S:oredict.toolHeadRawPickaxeCraponite.name=粗糙的Craponite镐头
     S:oredict.toolHeadRawPickaxeCupronickel.name=粗糙的白铜镐头
@@ -47312,6 +47684,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeUranium.name=粗糙的铀镐头
     S:oredict.toolHeadRawPickaxeUranium235.name=粗糙的铀-235镐头
     S:oredict.toolHeadRawPickaxeUvarovite.name=粗糙的Uvarovite 镐头
+    S:oredict.toolHeadRawPickaxeVanadiumSteel.name=Raw Vanadiumsteel Pickaxe Head
     S:oredict.toolHeadRawPickaxeVibramantium.name=粗糙的Vibramantium镐头
     S:oredict.toolHeadRawPickaxeVibranium.name=粗糙的Vibranium镐头
     S:oredict.toolHeadRawPickaxeVibraniumSilver.name=粗糙的钒银合金 镐头
@@ -47348,6 +47721,7 @@ languagefile {
     S:oredict.toolHeadRawPlowAmericium.name=粗糙的镅犁头
     S:oredict.toolHeadRawPlowAmericium241.name=粗糙的镅-241犁头
     S:oredict.toolHeadRawPlowAmethyst.name=粗糙的紫水晶犁头
+    S:oredict.toolHeadRawPlowAmethystEnder.name=Raw Ender Amethyst Plow Head
     S:oredict.toolHeadRawPlowAmordrine.name=粗糙的熔融魔石犁头
     S:oredict.toolHeadRawPlowAndesite.name=粗糙的Andesite 犁头
     S:oredict.toolHeadRawPlowAndradite.name=粗糙的Andradite 犁头
@@ -47389,6 +47763,7 @@ languagefile {
     S:oredict.toolHeadRawPlowCobaltBrass.name=粗糙的钴黄铜犁头
     S:oredict.toolHeadRawPlowConcrete.name=粗糙的混凝土犁头
     S:oredict.toolHeadRawPlowConductiveIron.name=粗糙的导体铁 犁头
+    S:oredict.toolHeadRawPlowConstantan.name=Raw Constantan Plow Head
     S:oredict.toolHeadRawPlowCopper.name=粗糙的铜犁头
     S:oredict.toolHeadRawPlowCraponite.name=粗糙的Craponite犁头
     S:oredict.toolHeadRawPlowCupronickel.name=粗糙的白铜犁头
@@ -47543,6 +47918,7 @@ languagefile {
     S:oredict.toolHeadRawPlowUranium.name=粗糙的铀犁头
     S:oredict.toolHeadRawPlowUranium235.name=粗糙的铀-235犁头
     S:oredict.toolHeadRawPlowUvarovite.name=粗糙的Uvarovite 犁头
+    S:oredict.toolHeadRawPlowVanadiumSteel.name=Raw Vanadiumsteel Plow Head
     S:oredict.toolHeadRawPlowVibramantium.name=粗糙的Vibramantium犁头
     S:oredict.toolHeadRawPlowVibranium.name=粗糙的Vibranium犁头
     S:oredict.toolHeadRawPlowVibraniumSilver.name=粗糙的钒银合金 犁头
@@ -47579,6 +47955,7 @@ languagefile {
     S:oredict.toolHeadRawSawAmericium.name=粗糙的镅锯片
     S:oredict.toolHeadRawSawAmericium241.name=粗糙的镅-241锯片
     S:oredict.toolHeadRawSawAmethyst.name=粗糙的紫水晶锯片
+    S:oredict.toolHeadRawSawAmethystEnder.name=Raw Ender Amethyst Saw Blade
     S:oredict.toolHeadRawSawAmordrine.name=粗糙的熔融魔石锯片
     S:oredict.toolHeadRawSawAndesite.name=粗糙的Andesite 圆锯片
     S:oredict.toolHeadRawSawAndradite.name=粗糙的Andradite 圆锯片
@@ -47616,6 +47993,7 @@ languagefile {
     S:oredict.toolHeadRawSawCobalt60.name=粗糙的钴-60锯片
     S:oredict.toolHeadRawSawCobaltBrass.name=粗糙的钴黄铜锯片
     S:oredict.toolHeadRawSawConductiveIron.name=粗糙的导体铁 圆锯片
+    S:oredict.toolHeadRawSawConstantan.name=Raw Constantan Saw Blade
     S:oredict.toolHeadRawSawCopper.name=粗糙的铜锯片
     S:oredict.toolHeadRawSawCraponite.name=粗糙的Craponite锯片
     S:oredict.toolHeadRawSawCupronickel.name=粗糙的白铜锯片
@@ -47752,6 +48130,7 @@ languagefile {
     S:oredict.toolHeadRawSawUranium.name=粗糙的铀锯片
     S:oredict.toolHeadRawSawUranium235.name=粗糙的铀-235锯片
     S:oredict.toolHeadRawSawUvarovite.name=粗糙的Uvarovite 圆锯片
+    S:oredict.toolHeadRawSawVanadiumSteel.name=Raw Vanadiumsteel Saw Blade
     S:oredict.toolHeadRawSawVibramantium.name=粗糙的Vibramantium锯片
     S:oredict.toolHeadRawSawVibranium.name=粗糙的Vibranium锯片
     S:oredict.toolHeadRawSawVibraniumSilver.name=粗糙的钒银合金 锯片
@@ -47784,6 +48163,7 @@ languagefile {
     S:oredict.toolHeadRawSenseAmericium.name=粗糙的镅镰刀片
     S:oredict.toolHeadRawSenseAmericium241.name=粗糙的镅-241镰刀片
     S:oredict.toolHeadRawSenseAmethyst.name=粗糙的紫水晶镰刀片
+    S:oredict.toolHeadRawSenseAmethystEnder.name=Raw Ender Amethyst Sense Blade
     S:oredict.toolHeadRawSenseAmordrine.name=粗糙的魔力之石镰刀片
     S:oredict.toolHeadRawSenseAndesite.name=粗糙的Andesite 镰刀片
     S:oredict.toolHeadRawSenseAndradite.name=粗糙的Andradite 镰刀片
@@ -47825,6 +48205,7 @@ languagefile {
     S:oredict.toolHeadRawSenseCobaltBrass.name=粗糙的钴黄铜镰刀片
     S:oredict.toolHeadRawSenseConcrete.name=粗糙的混凝土镰刀片
     S:oredict.toolHeadRawSenseConductiveIron.name=粗糙的导体铁 镰刀片
+    S:oredict.toolHeadRawSenseConstantan.name=Raw Constantan Sense Blade
     S:oredict.toolHeadRawSenseCopper.name=粗糙的铜镰刀片
     S:oredict.toolHeadRawSenseCraponite.name=粗糙的Craponite镰刀片
     S:oredict.toolHeadRawSenseCupronickel.name=粗糙的白铜镰刀片
@@ -47979,6 +48360,7 @@ languagefile {
     S:oredict.toolHeadRawSenseUranium.name=粗糙的铀镰刀片
     S:oredict.toolHeadRawSenseUranium235.name=粗糙的铀-235镰刀片
     S:oredict.toolHeadRawSenseUvarovite.name=粗糙的Uvarovite 镰刀片
+    S:oredict.toolHeadRawSenseVanadiumSteel.name=Raw Vanadiumsteel Sense Blade
     S:oredict.toolHeadRawSenseVibramantium.name=粗糙的Vibramantium镰刀片
     S:oredict.toolHeadRawSenseVibranium.name=粗糙的Vibranium镰刀片
     S:oredict.toolHeadRawSenseVibraniumSilver.name=粗糙的钒银合金 镰刀片
@@ -48015,6 +48397,7 @@ languagefile {
     S:oredict.toolHeadRawShovelAmericium.name=粗糙的镅锹头
     S:oredict.toolHeadRawShovelAmericium241.name=粗糙的镅-241锹头
     S:oredict.toolHeadRawShovelAmethyst.name=粗糙的紫水晶锹头
+    S:oredict.toolHeadRawShovelAmethystEnder.name=Raw Ender Amethyst Shovel Head
     S:oredict.toolHeadRawShovelAmordrine.name=粗糙的熔融魔石锹头
     S:oredict.toolHeadRawShovelAndesite.name=粗糙的Andesite锹头
     S:oredict.toolHeadRawShovelAndradite.name=粗糙的Andradite锹头
@@ -48056,6 +48439,7 @@ languagefile {
     S:oredict.toolHeadRawShovelCobaltBrass.name=粗糙的钴黄铜锹头
     S:oredict.toolHeadRawShovelConcrete.name=粗糙的混凝土锹头
     S:oredict.toolHeadRawShovelConductiveIron.name=粗糙的导体铁锹头
+    S:oredict.toolHeadRawShovelConstantan.name=Raw Constantan Shovel Head
     S:oredict.toolHeadRawShovelCopper.name=粗糙的铜锹头
     S:oredict.toolHeadRawShovelCraponite.name=粗糙的Craponite锹头
     S:oredict.toolHeadRawShovelCupronickel.name=粗糙的白铜锹头
@@ -48210,6 +48594,7 @@ languagefile {
     S:oredict.toolHeadRawShovelUranium.name=粗糙的铀锹头
     S:oredict.toolHeadRawShovelUranium235.name=粗糙的铀-235锹头
     S:oredict.toolHeadRawShovelUvarovite.name=粗糙的Uvarovite锹头
+    S:oredict.toolHeadRawShovelVanadiumSteel.name=Raw Vanadiumsteel Shovel Head
     S:oredict.toolHeadRawShovelVibramantium.name=粗糙的Vibramantium锹头
     S:oredict.toolHeadRawShovelVibranium.name=粗糙的Vibranium锹头
     S:oredict.toolHeadRawShovelVibraniumSilver.name=粗糙的钒银合金 锹头
@@ -48246,6 +48631,7 @@ languagefile {
     S:oredict.toolHeadRawSwordAmericium.name=粗糙的镅剑身
     S:oredict.toolHeadRawSwordAmericium241.name=粗糙的镅-241剑身
     S:oredict.toolHeadRawSwordAmethyst.name=粗糙的紫水晶剑身
+    S:oredict.toolHeadRawSwordAmethystEnder.name=Raw Ender Amethyst Sword Blade
     S:oredict.toolHeadRawSwordAmordrine.name=粗糙的熔融魔石剑身
     S:oredict.toolHeadRawSwordAndesite.name=粗糙的Andesite 剑身
     S:oredict.toolHeadRawSwordAndradite.name=粗糙的Andradite 剑身
@@ -48287,6 +48673,7 @@ languagefile {
     S:oredict.toolHeadRawSwordCobaltBrass.name=粗糙的钴黄铜剑身
     S:oredict.toolHeadRawSwordConcrete.name=粗糙的混凝土剑身
     S:oredict.toolHeadRawSwordConductiveIron.name=粗糙的导体铁 剑身
+    S:oredict.toolHeadRawSwordConstantan.name=Raw Constantan Sword Blade
     S:oredict.toolHeadRawSwordCopper.name=粗糙的铜剑身
     S:oredict.toolHeadRawSwordCraponite.name=粗糙的Craponite剑身
     S:oredict.toolHeadRawSwordCupronickel.name=粗糙的白铜剑身
@@ -48441,6 +48828,7 @@ languagefile {
     S:oredict.toolHeadRawSwordUranium.name=粗糙的铀剑身
     S:oredict.toolHeadRawSwordUranium235.name=粗糙的铀-235剑身
     S:oredict.toolHeadRawSwordUvarovite.name=粗糙的Uvarovite 剑身
+    S:oredict.toolHeadRawSwordVanadiumSteel.name=Raw Vanadiumsteel Sword Blade
     S:oredict.toolHeadRawSwordVibramantium.name=粗糙的Vibramantium剑身
     S:oredict.toolHeadRawSwordVibranium.name=粗糙的Vibranium剑身
     S:oredict.toolHeadRawSwordVibraniumSilver.name=粗糙的钒银合金 剑身
@@ -48477,6 +48865,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeAmericium.name=粗糙的镅万用铲头
     S:oredict.toolHeadRawUniversalSpadeAmericium241.name=粗糙的镅-241万用铲头
     S:oredict.toolHeadRawUniversalSpadeAmethyst.name=粗糙的紫水晶万用铲头
+    S:oredict.toolHeadRawUniversalSpadeAmethystEnder.name=Raw Ender Amethyst Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeAmordrine.name=粗糙的熔融魔石万用铲头
     S:oredict.toolHeadRawUniversalSpadeAndesite.name=粗糙的Andesite 万用铲头
     S:oredict.toolHeadRawUniversalSpadeAndradite.name=粗糙的Andradite 万用铲头
@@ -48514,6 +48903,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeCobalt60.name=粗糙的钴-60万用铲头
     S:oredict.toolHeadRawUniversalSpadeCobaltBrass.name=粗糙的钴黄铜万用铲头
     S:oredict.toolHeadRawUniversalSpadeConductiveIron.name=粗糙的导体铁 万用铲头
+    S:oredict.toolHeadRawUniversalSpadeConstantan.name=Raw Constantan Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeCopper.name=粗糙的铜万用铲头
     S:oredict.toolHeadRawUniversalSpadeCraponite.name=粗糙的Craponite万用铲头
     S:oredict.toolHeadRawUniversalSpadeCupronickel.name=粗糙的白铜万用铲头
@@ -48650,6 +49040,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeUranium.name=粗糙的铀万用铲头
     S:oredict.toolHeadRawUniversalSpadeUranium235.name=粗糙的铀-235万用铲头
     S:oredict.toolHeadRawUniversalSpadeUvarovite.name=粗糙的Uvarovite 万用铲头
+    S:oredict.toolHeadRawUniversalSpadeVanadiumSteel.name=Raw Vanadiumsteel Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeVibramantium.name=粗糙的Vibramantium万用铲头
     S:oredict.toolHeadRawUniversalSpadeVibranium.name=粗糙的Vibranium万用铲头
     S:oredict.toolHeadRawUniversalSpadeVibraniumSilver.name=粗糙的钒银合金 万用铲头
@@ -48682,6 +49073,7 @@ languagefile {
     S:oredict.toolHeadSawAmericium.name=镅锯片
     S:oredict.toolHeadSawAmericium241.name=镅-241锯片
     S:oredict.toolHeadSawAmethyst.name=紫水晶锯片
+    S:oredict.toolHeadSawAmethystEnder.name=Ender Amethyst Saw Blade
     S:oredict.toolHeadSawAmordrine.name=魔力之石锯片
     S:oredict.toolHeadSawAndesite.name=安山岩锯片
     S:oredict.toolHeadSawAndradite.name=钙铁榴石锯片
@@ -48719,6 +49111,7 @@ languagefile {
     S:oredict.toolHeadSawCobalt60.name=钴-60锯片
     S:oredict.toolHeadSawCobaltBrass.name=钴黄铜锯片
     S:oredict.toolHeadSawConductiveIron.name=导体铁锯片
+    S:oredict.toolHeadSawConstantan.name=Constantan Saw Blade
     S:oredict.toolHeadSawCopper.name=铜锯片
     S:oredict.toolHeadSawCraponite.name=Craponite锯片
     S:oredict.toolHeadSawCupronickel.name=白铜锯片
@@ -48855,6 +49248,7 @@ languagefile {
     S:oredict.toolHeadSawUranium.name=铀锯片
     S:oredict.toolHeadSawUranium235.name=铀-235锯片
     S:oredict.toolHeadSawUvarovite.name=Uvarovite锯片
+    S:oredict.toolHeadSawVanadiumSteel.name=Vanadiumsteel Saw Blade
     S:oredict.toolHeadSawVibramantium.name=Vibramantium锯片
     S:oredict.toolHeadSawVibranium.name=Vibranium锯片
     S:oredict.toolHeadSawVibraniumSilver.name=钒银合金 锯片
@@ -48887,6 +49281,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverAmericium.name=镅螺丝刀头
     S:oredict.toolHeadScrewdriverAmericium241.name=镅-241螺丝刀头
     S:oredict.toolHeadScrewdriverAmethyst.name=紫水晶螺丝刀头
+    S:oredict.toolHeadScrewdriverAmethystEnder.name=Ender Amethyst Screwdriver Tip
     S:oredict.toolHeadScrewdriverAmordrine.name=熔融魔石螺丝刀头
     S:oredict.toolHeadScrewdriverAndesite.name=安山岩螺丝刀头
     S:oredict.toolHeadScrewdriverAndradite.name=钙铁榴石螺丝刀头
@@ -48924,6 +49319,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverCobalt60.name=钴-60螺丝刀头
     S:oredict.toolHeadScrewdriverCobaltBrass.name=钴黄铜螺丝刀头
     S:oredict.toolHeadScrewdriverConductiveIron.name=导体铁螺丝刀头
+    S:oredict.toolHeadScrewdriverConstantan.name=Constantan Screwdriver Tip
     S:oredict.toolHeadScrewdriverCopper.name=铜螺丝刀头
     S:oredict.toolHeadScrewdriverCraponite.name=Craponite螺丝刀头
     S:oredict.toolHeadScrewdriverCupronickel.name=白铜螺丝刀头
@@ -49064,6 +49460,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverUranium.name=铀螺丝刀头
     S:oredict.toolHeadScrewdriverUranium235.name=铀-235螺丝刀头
     S:oredict.toolHeadScrewdriverUvarovite.name=Uvarovite螺丝刀头
+    S:oredict.toolHeadScrewdriverVanadiumSteel.name=Vanadiumsteel Screwdriver Tip
     S:oredict.toolHeadScrewdriverVibramantium.name=Vibramantium螺丝刀头
     S:oredict.toolHeadScrewdriverVibranium.name=Vibranium螺丝刀头
     S:oredict.toolHeadScrewdriverVibraniumSilver.name=钒银合金 螺丝刀头
@@ -49096,6 +49493,7 @@ languagefile {
     S:oredict.toolHeadSenseAmericium.name=镅镰刀片
     S:oredict.toolHeadSenseAmericium241.name=镅-241镰刀片
     S:oredict.toolHeadSenseAmethyst.name=紫水晶镰刀片
+    S:oredict.toolHeadSenseAmethystEnder.name=Ender Amethyst Sense Blade
     S:oredict.toolHeadSenseAmordrine.name=魔力之石镰刀片
     S:oredict.toolHeadSenseAndesite.name=安山岩 镰刀片
     S:oredict.toolHeadSenseAndradite.name=钙铁榴石 镰刀片
@@ -49137,6 +49535,7 @@ languagefile {
     S:oredict.toolHeadSenseCobaltBrass.name=钴黄铜镰刀片
     S:oredict.toolHeadSenseConcrete.name=混凝土镰刀片
     S:oredict.toolHeadSenseConductiveIron.name=导体铁 镰刀片
+    S:oredict.toolHeadSenseConstantan.name=Constantan Sense Blade
     S:oredict.toolHeadSenseCopper.name=铜镰刀片
     S:oredict.toolHeadSenseCraponite.name=Craponite镰刀片
     S:oredict.toolHeadSenseCupronickel.name=白铜镰刀片
@@ -49291,6 +49690,7 @@ languagefile {
     S:oredict.toolHeadSenseUranium.name=铀镰刀片
     S:oredict.toolHeadSenseUranium235.name=铀-235镰刀片
     S:oredict.toolHeadSenseUvarovite.name=Uvarovite 镰刀片
+    S:oredict.toolHeadSenseVanadiumSteel.name=Vanadiumsteel Sense Blade
     S:oredict.toolHeadSenseVibramantium.name=Vibramantium镰刀片
     S:oredict.toolHeadSenseVibranium.name=Vibranium镰刀片
     S:oredict.toolHeadSenseVibraniumSilver.name=钒银合金 镰刀片
@@ -49327,6 +49727,7 @@ languagefile {
     S:oredict.toolHeadShovelAmericium.name=镅锹头
     S:oredict.toolHeadShovelAmericium241.name=镅-241锹头
     S:oredict.toolHeadShovelAmethyst.name=紫水晶锹头
+    S:oredict.toolHeadShovelAmethystEnder.name=Ender Amethyst Shovel Head
     S:oredict.toolHeadShovelAmordrine.name=熔融魔石锹头
     S:oredict.toolHeadShovelAndesite.name=安山岩锹头
     S:oredict.toolHeadShovelAndradite.name=钙铁榴石锹头
@@ -49368,6 +49769,7 @@ languagefile {
     S:oredict.toolHeadShovelCobaltBrass.name=钴黄铜锹头
     S:oredict.toolHeadShovelConcrete.name=混凝土锹头
     S:oredict.toolHeadShovelConductiveIron.name=导体铁锹头
+    S:oredict.toolHeadShovelConstantan.name=Constantan Shovel Head
     S:oredict.toolHeadShovelCopper.name=铜锹头
     S:oredict.toolHeadShovelCraponite.name=Craponite锹头
     S:oredict.toolHeadShovelCupronickel.name=白铜锹头
@@ -49522,6 +49924,7 @@ languagefile {
     S:oredict.toolHeadShovelUranium.name=铀锹头
     S:oredict.toolHeadShovelUranium235.name=铀-235锹头
     S:oredict.toolHeadShovelUvarovite.name=Uvarovite锹头
+    S:oredict.toolHeadShovelVanadiumSteel.name=Vanadiumsteel Shovel Head
     S:oredict.toolHeadShovelVibramantium.name=Vibramantium锹头
     S:oredict.toolHeadShovelVibranium.name=Vibranium锹头
     S:oredict.toolHeadShovelVibraniumSilver.name=钒银合金 锹头
@@ -49558,6 +49961,7 @@ languagefile {
     S:oredict.toolHeadSwordAmericium.name=镅剑身
     S:oredict.toolHeadSwordAmericium241.name=镅-241剑身
     S:oredict.toolHeadSwordAmethyst.name=紫水晶剑身
+    S:oredict.toolHeadSwordAmethystEnder.name=Ender Amethyst Sword Blade
     S:oredict.toolHeadSwordAmordrine.name=熔融魔石剑身
     S:oredict.toolHeadSwordAndesite.name=安山岩 剑身
     S:oredict.toolHeadSwordAndradite.name=钙铁榴石 剑身
@@ -49599,6 +50003,7 @@ languagefile {
     S:oredict.toolHeadSwordCobaltBrass.name=钴黄铜剑身
     S:oredict.toolHeadSwordConcrete.name=混凝土剑身
     S:oredict.toolHeadSwordConductiveIron.name=导体铁 剑身
+    S:oredict.toolHeadSwordConstantan.name=Constantan Sword Blade
     S:oredict.toolHeadSwordCopper.name=铜剑身
     S:oredict.toolHeadSwordCraponite.name=Craponite剑身
     S:oredict.toolHeadSwordCupronickel.name=白铜剑身
@@ -49753,6 +50158,7 @@ languagefile {
     S:oredict.toolHeadSwordUranium.name=铀剑身
     S:oredict.toolHeadSwordUranium235.name=铀-235剑身
     S:oredict.toolHeadSwordUvarovite.name=Uvarovite 剑身
+    S:oredict.toolHeadSwordVanadiumSteel.name=Vanadiumsteel Sword Blade
     S:oredict.toolHeadSwordVibramantium.name=Vibramantium剑身
     S:oredict.toolHeadSwordVibranium.name=Vibranium剑身
     S:oredict.toolHeadSwordVibraniumSilver.name=钒银合金 剑身
@@ -49789,6 +50195,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeAmericium.name=镅万用铲头
     S:oredict.toolHeadUniversalSpadeAmericium241.name=镅-241万用铲头
     S:oredict.toolHeadUniversalSpadeAmethyst.name=紫水晶万用铲头
+    S:oredict.toolHeadUniversalSpadeAmethystEnder.name=Ender Amethyst Universal Spade Head
     S:oredict.toolHeadUniversalSpadeAmordrine.name=熔融魔石万用铲头
     S:oredict.toolHeadUniversalSpadeAndesite.name=安山岩 万用铲头
     S:oredict.toolHeadUniversalSpadeAndradite.name=钙铁榴石 万用铲头
@@ -49826,6 +50233,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeCobalt60.name=钴-60万用铲头
     S:oredict.toolHeadUniversalSpadeCobaltBrass.name=钴黄铜万用铲头
     S:oredict.toolHeadUniversalSpadeConductiveIron.name=导体铁 万用铲头
+    S:oredict.toolHeadUniversalSpadeConstantan.name=Constantan Universal Spade Head
     S:oredict.toolHeadUniversalSpadeCopper.name=铜万用铲头
     S:oredict.toolHeadUniversalSpadeCraponite.name=Craponite万用铲头
     S:oredict.toolHeadUniversalSpadeCupronickel.name=白铜万用铲头
@@ -49962,6 +50370,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeUranium.name=铀万用铲头
     S:oredict.toolHeadUniversalSpadeUranium235.name=铀-235万用铲头
     S:oredict.toolHeadUniversalSpadeUvarovite.name=Uvarovite 万用铲头
+    S:oredict.toolHeadUniversalSpadeVanadiumSteel.name=Vanadiumsteel Universal Spade Head
     S:oredict.toolHeadUniversalSpadeVibramantium.name=Vibramantium万用铲头
     S:oredict.toolHeadUniversalSpadeVibranium.name=Vibranium万用铲头
     S:oredict.toolHeadUniversalSpadeVibraniumSilver.name=钒银合金 万用铲头
@@ -49994,6 +50403,7 @@ languagefile {
     S:oredict.toolHeadWrenchAmericium.name=镅扳手头
     S:oredict.toolHeadWrenchAmericium241.name=镅-241扳手头
     S:oredict.toolHeadWrenchAmethyst.name=紫水晶扳手头
+    S:oredict.toolHeadWrenchAmethystEnder.name=Ender Amethyst Wrench Tip
     S:oredict.toolHeadWrenchAmordrine.name=熔融魔石扳手头
     S:oredict.toolHeadWrenchAndesite.name=安山岩 扳手头
     S:oredict.toolHeadWrenchAndradite.name=钙铁榴石 扳手头
@@ -50031,6 +50441,7 @@ languagefile {
     S:oredict.toolHeadWrenchCobalt60.name=钴-60扳手头
     S:oredict.toolHeadWrenchCobaltBrass.name=钴黄铜扳手头
     S:oredict.toolHeadWrenchConductiveIron.name=导体铁 扳手头
+    S:oredict.toolHeadWrenchConstantan.name=Constantan Wrench Tip
     S:oredict.toolHeadWrenchCopper.name=铜扳手头
     S:oredict.toolHeadWrenchCraponite.name=Craponite扳手头
     S:oredict.toolHeadWrenchCupronickel.name=白铜扳手头
@@ -50167,6 +50578,7 @@ languagefile {
     S:oredict.toolHeadWrenchUranium.name=铀扳手头
     S:oredict.toolHeadWrenchUranium235.name=铀-235扳手头
     S:oredict.toolHeadWrenchUvarovite.name=Uvarovite扳手头
+    S:oredict.toolHeadWrenchVanadiumSteel.name=Vanadiumsteel Wrench Tip
     S:oredict.toolHeadWrenchVibramantium.name=Vibramantium扳手头
     S:oredict.toolHeadWrenchVibranium.name=Vibranium扳手头
     S:oredict.toolHeadWrenchVibraniumSilver.name=钒银合金 扳手头
@@ -50224,6 +50636,7 @@ languagefile {
     S:oredict.wireFineCobalt60.name=优良钴-60线缆
     S:oredict.wireFineCobaltBrass.name=优良钴黄铜线缆
     S:oredict.wireFineConductiveIron.name=优良导体铁线缆
+    S:oredict.wireFineConstantan.name=Fine Constantan Wire
     S:oredict.wireFineCopper.name=优良铜线缆
     S:oredict.wireFineCupronickel.name=优良白铜线缆
     S:oredict.wireFineDamascusSteel.name=优良大马士革钢线缆
@@ -50334,6 +50747,7 @@ languagefile {
     S:oredict.wireFineUltimet.name=优良哈氏合金线缆
     S:oredict.wireFineUranium.name=优良铀线缆
     S:oredict.wireFineUranium235.name=优良铀-235线缆
+    S:oredict.wireFineVanadiumSteel.name=Fine Vanadiumsteel Wire
     S:oredict.wireFineVibramantium.name=优良Vibramantium线缆
     S:oredict.wireFineVibraniumSilver.name=优良钒合金 银线缆
     S:oredict.wireFineVibraniumSteel.name=优良钒合金 钢线缆
