@@ -102,10 +102,10 @@ languagefile {
     S:fluid.blackvitriol=黑色硫酸盐
     S:fluid.blueberryjuice=蓝莓果汁
     S:fluid.bluevitriol=蓝色硫酸盐
-    S:fluid.bromine=Bromine
-    S:fluid.butane=Butane
+    S:fluid.bromine=溴 
+    S:fluid.butane=丁烷
     S:fluid.cactuswater=Cactus Water
-    S:fluid.canevinegar=Cane Vinegar
+    S:fluid.canevinegar=甘蔗醋
     S:fluid.carbondioxide=二氧化碳
     S:fluid.carbonmonoxide=一氧化碳
     S:fluid.carrotjuice=胡萝卜汁
@@ -322,7 +322,7 @@ languagefile {
     S:fluid.molten.blaze=熔化的烈焰 棒
     S:fluid.molten.bluealloy=熔融蓝色合金
     S:fluid.molten.brass=熔融黄铜
-    S:fluid.molten.bromine=熔融 Bromine
+    S:fluid.molten.bromine=熔融 溴 
     S:fluid.molten.bronze=熔融青铜
     S:fluid.molten.cheese=熔融芝士
     S:fluid.molten.chocolate=巧克力酱
@@ -2205,7 +2205,7 @@ languagefile {
     S:gt.material.Bronze=青铜
     S:gt.material.Brown=褐色
     S:gt.material.BrownLimonite=褐铁矿
-    S:gt.material.Butane=Butane
+    S:gt.material.Butane=丁烷
     S:gt.material.Cadmium=镉
     S:gt.material.Caesium=铯
     S:gt.material.Calcite=方解石
@@ -11117,7 +11117,7 @@ languagefile {
     S:oredict.casingSmallBlaze.name=烈焰棒 外壳
     S:oredict.casingSmallBlueSapphire.name=蓝宝石外壳
     S:oredict.casingSmallBlueSteel.name=蓝钢外壳
-    S:oredict.casingSmallBlueTopaz.name=蓝色 Topaz 外壳
+    S:oredict.casingSmallBlueTopaz.name=蓝色黄玉 外壳
     S:oredict.casingSmallBlueschist.name=蓝片岩 外壳
     S:oredict.casingSmallBrass.name=黄铜外壳
     S:oredict.casingSmallBronze.name=青铜外壳
@@ -11352,12 +11352,12 @@ languagefile {
     S:oredict.cellAntiXenon.name=反物质Xenon单元
     S:oredict.cellAquaRegia.name=王水 单元
     S:oredict.cellArgon.name=氩单元
-    S:oredict.cellBioFuel.name=Bio Diesel 单元
+    S:oredict.cellBioFuel.name=生物柴油 单元
     S:oredict.cellBiomass.name=生物质 单元
     S:oredict.cellBlackVitriol.name=黑色硫酸盐 单元
     S:oredict.cellBlueVitriol.name=蓝色硫酸盐 单元
-    S:oredict.cellBromine.name=Bromine Cell
-    S:oredict.cellButane.name=Butane 单元
+    S:oredict.cellBromine.name=溴 Cell
+    S:oredict.cellButane.name=丁烷 单元
     S:oredict.cellCarbonDioxide.name=二氧化碳单元
     S:oredict.cellCarbonMonoxide.name=一氧化碳 单元
     S:oredict.cellChlorine.name=Chlorine Cell
@@ -11374,7 +11374,7 @@ languagefile {
     S:oredict.cellEthanol.name=乙醇 单元
     S:oredict.cellFishOil.name=鱼 油 单元
     S:oredict.cellFreshWater.name=淡水 单元
-    S:oredict.cellFryingOilHot.name=Hot Frying 油 单元
+    S:oredict.cellFryingOilHot.name=热炸油 单元
     S:oredict.cellFuel.name=柴油 单元
     S:oredict.cellGlue.name=胶水 单元
     S:oredict.cellGlycerol.name=Glycerol 单元
@@ -11418,7 +11418,7 @@ languagefile {
     S:oredict.cellPlasmaAir.name=空气等离子单元
     S:oredict.cellPlasmaAntiGravitonium.name=反物质Gravitonium等离子单元
     S:oredict.cellPlasmaAntiMacGuffium.name=反物质乌有岩等离子单元
-    S:oredict.cellPlasmaBioFuel.name=Bio Diesel等离子单元
+    S:oredict.cellPlasmaBioFuel.name=生物柴油等离子单元
     S:oredict.cellPlasmaBiomass.name=生物质等离子单元
     S:oredict.cellPlasmaCarbonDioxide.name=二氧化碳等离子单元
     S:oredict.cellPlasmaConstructionFoam.name=建筑泡沫等离子单元
@@ -11429,7 +11429,7 @@ languagefile {
     S:oredict.cellPlasmaEthanol.name=乙醇等离子单元
     S:oredict.cellPlasmaFishOil.name=鱼 油等离子单元
     S:oredict.cellPlasmaFreshWater.name=淡水等离子单元
-    S:oredict.cellPlasmaFryingOilHot.name=Hot Frying 油等离子单元
+    S:oredict.cellPlasmaFryingOilHot.name=热炸油等离子单元
     S:oredict.cellPlasmaFuel.name=柴油等离子单元
     S:oredict.cellPlasmaGlue.name=胶水等离子单元
     S:oredict.cellPlasmaGlyceryl.name=甘油等离子单元
@@ -12006,7 +12006,7 @@ languagefile {
     S:oredict.chemtubeBinilseptium.name=Binilseptium 试管
     S:oredict.chemtubeBiniltrium.name=Biniltrium 试管
     S:oredict.chemtubeBinilunium.name=Binilunium 试管
-    S:oredict.chemtubeBioFuel.name=Bio Diesel 试管
+    S:oredict.chemtubeBioFuel.name=生物柴油 试管
     S:oredict.chemtubeBioctbium.name=Bioctbium 试管
     S:oredict.chemtubeBioctennium.name=Bioctennium 试管
     S:oredict.chemtubeBiocthexium.name=Biocthexium 试管
@@ -12096,7 +12096,7 @@ languagefile {
     S:oredict.chemtubeBronze.name=青铜 试管
     S:oredict.chemtubeBrown.name=褐色 试管
     S:oredict.chemtubeBrownLimonite.name=褐铁矿 试管
-    S:oredict.chemtubeButane.name=Butane 试管
+    S:oredict.chemtubeButane.name=丁烷 试管
     S:oredict.chemtubeCadmium.name=镉 试管
     S:oredict.chemtubeCaesium.name=铯 试管
     S:oredict.chemtubeCalcite.name=方解石 试管
@@ -12240,7 +12240,7 @@ languagefile {
     S:oredict.chemtubeForcillium.name=立场 试管
     S:oredict.chemtubeFrancium.name=钫 试管
     S:oredict.chemtubeFreshWater.name=淡水 试管
-    S:oredict.chemtubeFryingOilHot.name=Hot Frying 油 试管
+    S:oredict.chemtubeFryingOilHot.name=热炸油 试管
     S:oredict.chemtubeFuel.name=柴油 试管
     S:oredict.chemtubeFullersEarth.name=满满的ers Earth 试管
     S:oredict.chemtubeGabbro.name=辉长岩 试管
@@ -15052,7 +15052,7 @@ languagefile {
     S:oredict.crushedAntiBismuth.name=粉碎反物质铋 矿
     S:oredict.crushedAntiBohrium.name=粉碎反物质𬭛 矿
     S:oredict.crushedAntiBoron.name=粉碎反物质硼 矿
-    S:oredict.crushedAntiBromine.name=粉碎反物质Bromine 矿
+    S:oredict.crushedAntiBromine.name=粉碎反物质溴 矿
     S:oredict.crushedAntiCadmium.name=粉碎反物质镉 矿
     S:oredict.crushedAntiCaesium.name=粉碎反物质铯 矿
     S:oredict.crushedAntiCalcium.name=粉碎反物质钙 矿
@@ -15195,7 +15195,7 @@ languagefile {
     S:oredict.crushedBorax.name=粉碎Borax 矿
     S:oredict.crushedBoron.name=粉碎硼 矿
     S:oredict.crushedBromargyrite.name=粉碎 Bromargyrite 矿
-    S:oredict.crushedBromine.name=粉碎Bromine 矿
+    S:oredict.crushedBromine.name=粉碎溴 矿
     S:oredict.crushedBrownLimonite.name=粉碎褐铁 矿
     S:oredict.crushedCadmium.name=粉碎镉 矿
     S:oredict.crushedCaesium.name=粉碎铯 矿
@@ -15237,7 +15237,7 @@ languagefile {
     S:oredict.crushedCentrifugedAntiBismuth.name=离心过的反物质铋 矿
     S:oredict.crushedCentrifugedAntiBohrium.name=离心过的反物质𬭛 矿
     S:oredict.crushedCentrifugedAntiBoron.name=离心过的反物质硼 矿
-    S:oredict.crushedCentrifugedAntiBromine.name=离心过的反物质Bromine 矿
+    S:oredict.crushedCentrifugedAntiBromine.name=离心过的反物质溴 矿
     S:oredict.crushedCentrifugedAntiCadmium.name=离心过的反物质镉 矿
     S:oredict.crushedCentrifugedAntiCaesium.name=离心过的反物质铯 矿
     S:oredict.crushedCentrifugedAntiCalcium.name=离心过的反物质钙 矿
@@ -15380,7 +15380,7 @@ languagefile {
     S:oredict.crushedCentrifugedBorax.name=离心过的Borax 矿
     S:oredict.crushedCentrifugedBoron.name=离心过的硼 矿
     S:oredict.crushedCentrifugedBromargyrite.name=Refined Bromargyrite 矿
-    S:oredict.crushedCentrifugedBromine.name=离心过的Bromine 矿
+    S:oredict.crushedCentrifugedBromine.name=离心过的溴 矿
     S:oredict.crushedCentrifugedBrownLimonite.name=离心过的褐铁 矿
     S:oredict.crushedCentrifugedCadmium.name=离心过的镉 矿
     S:oredict.crushedCentrifugedCaesium.name=离心过的铯 矿
@@ -15674,7 +15674,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyAntiBismuth.name=小撮离心过的反物质Bismuth 矿
     S:oredict.crushedCentrifugedTinyAntiBohrium.name=小撮离心过的反物质𬭛 矿
     S:oredict.crushedCentrifugedTinyAntiBoron.name=小撮离心过的反物质Boron 矿
-    S:oredict.crushedCentrifugedTinyAntiBromine.name=小撮离心过的反物质Bromine 矿
+    S:oredict.crushedCentrifugedTinyAntiBromine.name=小撮离心过的反物质溴 矿
     S:oredict.crushedCentrifugedTinyAntiCadmium.name=小撮离心过的反物质Cadmium 矿
     S:oredict.crushedCentrifugedTinyAntiCaesium.name=小撮离心过的反物质Caesium 矿
     S:oredict.crushedCentrifugedTinyAntiCalcium.name=小撮离心过的反物质Calcium 矿
@@ -15802,7 +15802,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyBandedIron.name=小撮离心过的带状铁 矿
     S:oredict.crushedCentrifugedTinyBarite.name=小撮离心过的Barite 矿
     S:oredict.crushedCentrifugedTinyBarium.name=小撮离心过的Barium 矿
-    S:oredict.crushedCentrifugedTinyBasalticMineralSand.name=小撮离心过的玄武岩ic Mineral Sand
+    S:oredict.crushedCentrifugedTinyBasalticMineralSand.name=小撮离心过的玄武岩ic 矿砂
     S:oredict.crushedCentrifugedTinyBastnasite.name=小撮离心过的Bastnasite 矿
     S:oredict.crushedCentrifugedTinyBauxite.name=小撮离心过的Bauxite 矿
     S:oredict.crushedCentrifugedTinyBentonite.name=小撮离心过的Bentonite
@@ -15811,13 +15811,13 @@ languagefile {
     S:oredict.crushedCentrifugedTinyBiotite.name=小撮离心过的黑云母 矿
     S:oredict.crushedCentrifugedTinyBismuth.name=小撮离心过的Bismuth 矿
     S:oredict.crushedCentrifugedTinyBlueSapphire.name=小撮离心过的蓝宝石Ore
-    S:oredict.crushedCentrifugedTinyBlueTopaz.name=小撮Centrifuged蓝色 Topaz 矿
+    S:oredict.crushedCentrifugedTinyBlueTopaz.name=小撮Centrifuged蓝色黄玉 矿
     S:oredict.crushedCentrifugedTinyBlutonium.name=小撮离心过的Blutonium 矿
     S:oredict.crushedCentrifugedTinyBohrium.name=小撮离心过的𬭛 矿
     S:oredict.crushedCentrifugedTinyBorax.name=小撮离心过的Borax 矿
     S:oredict.crushedCentrifugedTinyBoron.name=小撮离心过的Boron 矿
     S:oredict.crushedCentrifugedTinyBromargyrite.name=Tiny Refined Bromargyrite 矿
-    S:oredict.crushedCentrifugedTinyBromine.name=小撮离心过的Bromine 矿
+    S:oredict.crushedCentrifugedTinyBromine.name=小撮离心过的溴 矿
     S:oredict.crushedCentrifugedTinyBrownLimonite.name=小撮Centrifuged褐色 Limonite 矿
     S:oredict.crushedCentrifugedTinyCadmium.name=小撮离心过的Cadmium 矿
     S:oredict.crushedCentrifugedTinyCaesium.name=小撮离心过的Caesium 矿
@@ -15910,7 +15910,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyGlauconiteSand.name=小撮离心过的Glauconite Sand
     S:oredict.crushedCentrifugedTinyGlowstone.name=小撮离心过的Glowstone 矿
     S:oredict.crushedCentrifugedTinyGold.name=Tiny Refined 金 矿
-    S:oredict.crushedCentrifugedTinyGraniticMineralSand.name=小撮离心过的Granitic Mineral Sand
+    S:oredict.crushedCentrifugedTinyGraniticMineralSand.name=小撮离心过的Granitic 矿砂
     S:oredict.crushedCentrifugedTinyGraphite.name=小撮离心过的Graphite 矿
     S:oredict.crushedCentrifugedTinyGreenSapphire.name=Tiny Refined 绿色蓝宝石 矿
     S:oredict.crushedCentrifugedTinyGrossular.name=小撮离心过的Grossular 矿
@@ -16404,7 +16404,7 @@ languagefile {
     S:oredict.crushedPurifiedAntiBismuth.name=纯净反物质铋 矿
     S:oredict.crushedPurifiedAntiBohrium.name=纯净反物质𬭛 矿
     S:oredict.crushedPurifiedAntiBoron.name=纯净反物质硼 矿
-    S:oredict.crushedPurifiedAntiBromine.name=纯净反物质Bromine 矿
+    S:oredict.crushedPurifiedAntiBromine.name=纯净反物质溴 矿
     S:oredict.crushedPurifiedAntiCadmium.name=纯净反物质镉 矿
     S:oredict.crushedPurifiedAntiCaesium.name=纯净反物质铯 矿
     S:oredict.crushedPurifiedAntiCalcium.name=纯净反物质钙 矿
@@ -16547,7 +16547,7 @@ languagefile {
     S:oredict.crushedPurifiedBorax.name=纯净Borax 矿
     S:oredict.crushedPurifiedBoron.name=纯净硼 矿
     S:oredict.crushedPurifiedBromargyrite.name=纯净 Bromargyrite 矿
-    S:oredict.crushedPurifiedBromine.name=纯净Bromine 矿
+    S:oredict.crushedPurifiedBromine.name=纯净溴 矿
     S:oredict.crushedPurifiedBrownLimonite.name=纯净褐铁 矿
     S:oredict.crushedPurifiedCadmium.name=纯净镉 矿
     S:oredict.crushedPurifiedCaesium.name=纯净铯 矿
@@ -16841,7 +16841,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyAntiBismuth.name=小撮纯净反物质Bismuth 矿
     S:oredict.crushedPurifiedTinyAntiBohrium.name=小撮纯净反物质𬭛 矿
     S:oredict.crushedPurifiedTinyAntiBoron.name=小撮纯净反物质Boron 矿
-    S:oredict.crushedPurifiedTinyAntiBromine.name=小撮纯净反物质Bromine 矿
+    S:oredict.crushedPurifiedTinyAntiBromine.name=小撮纯净反物质溴 矿
     S:oredict.crushedPurifiedTinyAntiCadmium.name=小撮纯净反物质Cadmium 矿
     S:oredict.crushedPurifiedTinyAntiCaesium.name=小撮纯净反物质Caesium 矿
     S:oredict.crushedPurifiedTinyAntiCalcium.name=小撮纯净反物质Calcium 矿
@@ -16969,7 +16969,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyBandedIron.name=小撮纯净带状铁 矿
     S:oredict.crushedPurifiedTinyBarite.name=小撮纯净Barite 矿
     S:oredict.crushedPurifiedTinyBarium.name=小撮纯净Barium 矿
-    S:oredict.crushedPurifiedTinyBasalticMineralSand.name=小撮纯净玄武岩 Mineral Sand
+    S:oredict.crushedPurifiedTinyBasalticMineralSand.name=小撮纯净玄武岩 矿砂
     S:oredict.crushedPurifiedTinyBastnasite.name=小撮纯净Bastnasite 矿
     S:oredict.crushedPurifiedTinyBauxite.name=小撮纯净Bauxite 矿
     S:oredict.crushedPurifiedTinyBentonite.name=小撮纯净Bentonite
@@ -16978,13 +16978,13 @@ languagefile {
     S:oredict.crushedPurifiedTinyBiotite.name=小撮纯净黑云母 矿
     S:oredict.crushedPurifiedTinyBismuth.name=小撮纯净Bismuth 矿
     S:oredict.crushedPurifiedTinyBlueSapphire.name=小撮纯净蓝宝石Ore
-    S:oredict.crushedPurifiedTinyBlueTopaz.name=小撮纯净蓝色 Topaz 矿
+    S:oredict.crushedPurifiedTinyBlueTopaz.name=小撮纯净蓝色黄玉 矿
     S:oredict.crushedPurifiedTinyBlutonium.name=小撮纯净Blutonium 矿
     S:oredict.crushedPurifiedTinyBohrium.name=小撮纯净𬭛 矿
     S:oredict.crushedPurifiedTinyBorax.name=小撮纯净Borax 矿
     S:oredict.crushedPurifiedTinyBoron.name=小撮纯净Boron 矿
     S:oredict.crushedPurifiedTinyBromargyrite.name=Tiny Purified Bromargyrite 矿
-    S:oredict.crushedPurifiedTinyBromine.name=小撮纯净Bromine 矿
+    S:oredict.crushedPurifiedTinyBromine.name=小撮纯净溴 矿
     S:oredict.crushedPurifiedTinyBrownLimonite.name=小撮纯净褐色 Limonite 矿
     S:oredict.crushedPurifiedTinyCadmium.name=小撮纯净Cadmium 矿
     S:oredict.crushedPurifiedTinyCaesium.name=小撮纯净Caesium 矿
@@ -17077,7 +17077,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyGlauconiteSand.name=小撮纯净Glauconite Sand
     S:oredict.crushedPurifiedTinyGlowstone.name=小撮纯净Glowstone 矿
     S:oredict.crushedPurifiedTinyGold.name=小撮纯净金 矿
-    S:oredict.crushedPurifiedTinyGraniticMineralSand.name=小撮纯净Granitic Mineral Sand
+    S:oredict.crushedPurifiedTinyGraniticMineralSand.name=小撮纯净Granitic 矿砂
     S:oredict.crushedPurifiedTinyGraphite.name=小撮纯净Graphite 矿
     S:oredict.crushedPurifiedTinyGreenSapphire.name=小撮纯净绿色蓝宝石 矿
     S:oredict.crushedPurifiedTinyGrossular.name=小撮纯净Grossular 矿
@@ -17442,7 +17442,7 @@ languagefile {
     S:oredict.crushedTinyAntiBismuth.name=小搓粉碎反物质Bismuth 矿
     S:oredict.crushedTinyAntiBohrium.name=小搓粉碎反物质𬭛 矿
     S:oredict.crushedTinyAntiBoron.name=小搓粉碎反物质Boron 矿
-    S:oredict.crushedTinyAntiBromine.name=小搓粉碎反物质Bromine 矿
+    S:oredict.crushedTinyAntiBromine.name=小搓粉碎反物质溴 矿
     S:oredict.crushedTinyAntiCadmium.name=小搓粉碎反物质Cadmium 矿
     S:oredict.crushedTinyAntiCaesium.name=小搓粉碎反物质Caesium 矿
     S:oredict.crushedTinyAntiCalcium.name=小搓粉碎反物质Calcium 矿
@@ -17570,7 +17570,7 @@ languagefile {
     S:oredict.crushedTinyBandedIron.name=小搓粉碎带状铁 矿
     S:oredict.crushedTinyBarite.name=小搓粉碎Barite 矿
     S:oredict.crushedTinyBarium.name=小搓粉碎Barium 矿
-    S:oredict.crushedTinyBasalticMineralSand.name=小撮Ground 玄武岩 Mineral Sand
+    S:oredict.crushedTinyBasalticMineralSand.name=小撮Ground 玄武岩 矿砂
     S:oredict.crushedTinyBastnasite.name=小搓粉碎Bastnasite 矿
     S:oredict.crushedTinyBauxite.name=小搓粉碎Bauxite 矿
     S:oredict.crushedTinyBentonite.name=小撮Ground Bentonite
@@ -17579,13 +17579,13 @@ languagefile {
     S:oredict.crushedTinyBiotite.name=小搓粉碎黑云母 矿
     S:oredict.crushedTinyBismuth.name=小搓粉碎Bismuth 矿
     S:oredict.crushedTinyBlueSapphire.name=小搓粉碎蓝宝石Ore
-    S:oredict.crushedTinyBlueTopaz.name=小撮粉碎蓝色 Topaz 矿
+    S:oredict.crushedTinyBlueTopaz.name=小撮粉碎蓝色黄玉 矿
     S:oredict.crushedTinyBlutonium.name=小搓粉碎Blutonium 矿
     S:oredict.crushedTinyBohrium.name=小搓粉碎𬭛 矿
     S:oredict.crushedTinyBorax.name=小搓粉碎Borax 矿
     S:oredict.crushedTinyBoron.name=小搓粉碎Boron 矿
     S:oredict.crushedTinyBromargyrite.name=小撮粉碎 Bromargyrite 矿
-    S:oredict.crushedTinyBromine.name=小搓粉碎Bromine 矿
+    S:oredict.crushedTinyBromine.name=小搓粉碎溴 矿
     S:oredict.crushedTinyBrownLimonite.name=小撮粉碎褐色 Limonite 矿
     S:oredict.crushedTinyCadmium.name=小搓粉碎Cadmium 矿
     S:oredict.crushedTinyCaesium.name=小搓粉碎Caesium 矿
@@ -17678,7 +17678,7 @@ languagefile {
     S:oredict.crushedTinyGlauconiteSand.name=小撮Ground Glauconite Sand
     S:oredict.crushedTinyGlowstone.name=小搓粉碎Glowstone 矿
     S:oredict.crushedTinyGold.name=小撮粉碎 金 矿
-    S:oredict.crushedTinyGraniticMineralSand.name=小撮Ground Granitic Mineral Sand
+    S:oredict.crushedTinyGraniticMineralSand.name=小撮Ground Granitic 矿砂
     S:oredict.crushedTinyGraphite.name=小搓粉碎Graphite 矿
     S:oredict.crushedTinyGreenSapphire.name=小撮粉碎 绿色蓝宝石 矿
     S:oredict.crushedTinyGrossular.name=小搓粉碎Grossular 矿
@@ -18269,7 +18269,7 @@ languagefile {
     S:oredict.dustDiv72AntiBismuth.name=1/72份 反物质Bismuth 粉
     S:oredict.dustDiv72AntiBohrium.name=1/72份 反物质𬭛粉
     S:oredict.dustDiv72AntiBoron.name=1/72份 反物质Boron 粉
-    S:oredict.dustDiv72AntiBromine.name=1/72份 反物质Bromine 粉
+    S:oredict.dustDiv72AntiBromine.name=1/72份 反物质溴 粉
     S:oredict.dustDiv72AntiCadmium.name=1/72份 反物质Cadmium 粉
     S:oredict.dustDiv72AntiCaesium.name=1/72份 反物质Caesium 粉
     S:oredict.dustDiv72AntiCalcium.name=1/72份 反物质Calcium 粉
@@ -18399,7 +18399,7 @@ languagefile {
     S:oredict.dustDiv72Barium.name=1/72份 Barium 粉
     S:oredict.dustDiv72Barley.name=1/72份 Barley 面粉
     S:oredict.dustDiv72Basalt.name=1/72份 玄武岩 粉
-    S:oredict.dustDiv72BasalticMineralSand.name=1/72份 玄武岩 Mineral Sand
+    S:oredict.dustDiv72BasalticMineralSand.name=1/72份 玄武岩 矿砂
     S:oredict.dustDiv72Basalz.name=1/72份 Basalz 粉
     S:oredict.dustDiv72Bastnasite.name=1/72份 Bastnasite 粉
     S:oredict.dustDiv72BatteryAlloy.name=1/72份 电池合金 粉
@@ -18432,7 +18432,7 @@ languagefile {
     S:oredict.dustDiv72Boron.name=1/72份 Boron 粉
     S:oredict.dustDiv72Brass.name=1/72份 黄铜 粉
     S:oredict.dustDiv72Bromargyrite.name=1/72份 Bromargyrite 粉
-    S:oredict.dustDiv72Bromine.name=1/72份 Bromine 粉
+    S:oredict.dustDiv72Bromine.name=1/72份 溴 粉
     S:oredict.dustDiv72Bronze.name=1/72份 青铜 粉
     S:oredict.dustDiv72Brown.name=1/72份 褐色染料
     S:oredict.dustDiv72BrownLimonite.name=1/72份 褐色 Limonite 粉
@@ -18584,7 +18584,7 @@ languagefile {
     S:oredict.dustDiv72GoldInductive.name=1/72份 感应合金 粉
     S:oredict.dustDiv72GraniteBlack.name=1/72份 黑色花岗岩 粉
     S:oredict.dustDiv72GraniteRed.name=1/72份 红色花岗岩 粉
-    S:oredict.dustDiv72GraniticMineralSand.name=1/72份 Granitic Mineral Sand
+    S:oredict.dustDiv72GraniticMineralSand.name=1/72份 Granitic 矿砂
     S:oredict.dustDiv72Graphene.name=1/72份 Graphene 粉
     S:oredict.dustDiv72Graphite.name=1/72份 Graphite 粉
     S:oredict.dustDiv72Gravel.name=1/72份 Gravel 粉
@@ -19066,7 +19066,7 @@ languagefile {
     S:oredict.dustImpureAntiBismuth.name=含杂反物质铋粉
     S:oredict.dustImpureAntiBohrium.name=含杂反物质𬭛粉
     S:oredict.dustImpureAntiBoron.name=含杂反物质硼粉
-    S:oredict.dustImpureAntiBromine.name=含杂反物质Bromine粉
+    S:oredict.dustImpureAntiBromine.name=含杂反物质溴 粉
     S:oredict.dustImpureAntiCadmium.name=含杂反物质镉粉
     S:oredict.dustImpureAntiCaesium.name=含杂反物质铯粉
     S:oredict.dustImpureAntiCalcium.name=含杂反物质钙粉
@@ -19213,7 +19213,7 @@ languagefile {
     S:oredict.dustImpureBorax.name=含杂Borax粉
     S:oredict.dustImpureBoron.name=含杂硼粉
     S:oredict.dustImpureBromargyrite.name=含杂 Bromargyrite粉
-    S:oredict.dustImpureBromine.name=含杂Bromine粉
+    S:oredict.dustImpureBromine.name=含杂溴 粉
     S:oredict.dustImpureBrownLimonite.name=含杂褐铁矿粉
     S:oredict.dustImpureCadmium.name=含杂镉粉
     S:oredict.dustImpureCaesium.name=含杂铯粉
@@ -19747,7 +19747,7 @@ languagefile {
     S:oredict.dustPureAntiBismuth.name=纯净反物质铋粉
     S:oredict.dustPureAntiBohrium.name=纯净反物质𬭛粉
     S:oredict.dustPureAntiBoron.name=纯净反物质硼粉
-    S:oredict.dustPureAntiBromine.name=纯净反物质Bromine粉
+    S:oredict.dustPureAntiBromine.name=纯净反物质溴 粉
     S:oredict.dustPureAntiCadmium.name=纯净反物质镉粉
     S:oredict.dustPureAntiCaesium.name=纯净反物质铯粉
     S:oredict.dustPureAntiCalcium.name=纯净反物质钙粉
@@ -19894,7 +19894,7 @@ languagefile {
     S:oredict.dustPureBorax.name=纯净Borax粉
     S:oredict.dustPureBoron.name=纯净硼粉
     S:oredict.dustPureBromargyrite.name=纯净Bromargyrite粉
-    S:oredict.dustPureBromine.name=纯净Bromine粉
+    S:oredict.dustPureBromine.name=纯净溴 粉
     S:oredict.dustPureBrownLimonite.name=纯净褐铁矿粉
     S:oredict.dustPureCadmium.name=纯净镉粉
     S:oredict.dustPureCaesium.name=纯净铯粉
@@ -20325,7 +20325,7 @@ languagefile {
     S:oredict.dustSmallAntiBismuth.name=小堆反物质铋粉
     S:oredict.dustSmallAntiBohrium.name=小堆反物质𬭛粉
     S:oredict.dustSmallAntiBoron.name=小堆反物质硼粉
-    S:oredict.dustSmallAntiBromine.name=小堆反物质Bromine粉
+    S:oredict.dustSmallAntiBromine.name=小堆反物质溴 粉
     S:oredict.dustSmallAntiCadmium.name=小堆反物质镉粉
     S:oredict.dustSmallAntiCaesium.name=小堆反物质铯粉
     S:oredict.dustSmallAntiCalcium.name=小堆反物质钙粉
@@ -20492,7 +20492,7 @@ languagefile {
     S:oredict.dustSmallBoron.name=小堆硼粉
     S:oredict.dustSmallBrass.name=小堆黄铜粉
     S:oredict.dustSmallBromargyrite.name=小撮Bromargyrite粉
-    S:oredict.dustSmallBromine.name=小堆Bromine粉
+    S:oredict.dustSmallBromine.name=小堆溴 粉
     S:oredict.dustSmallBronze.name=小堆青铜粉
     S:oredict.dustSmallBrown.name=小型Pile of褐色染料
     S:oredict.dustSmallBrownLimonite.name=小堆褐铁矿粉
@@ -21122,7 +21122,7 @@ languagefile {
     S:oredict.dustTinyAntiBismuth.name=小撮反物质铋粉
     S:oredict.dustTinyAntiBohrium.name=小撮反物质𬭛粉
     S:oredict.dustTinyAntiBoron.name=小撮反物质硼粉
-    S:oredict.dustTinyAntiBromine.name=小撮反物质Bromine粉
+    S:oredict.dustTinyAntiBromine.name=小撮反物质溴 粉
     S:oredict.dustTinyAntiCadmium.name=小撮反物质镉粉
     S:oredict.dustTinyAntiCaesium.name=小撮反物质铯粉
     S:oredict.dustTinyAntiCalcium.name=小撮反物质钙粉
@@ -21289,7 +21289,7 @@ languagefile {
     S:oredict.dustTinyBoron.name=小撮Boron粉
     S:oredict.dustTinyBrass.name=小撮黄铜粉
     S:oredict.dustTinyBromargyrite.name=小撮 Bromargyrite粉
-    S:oredict.dustTinyBromine.name=小撮Bromine粉
+    S:oredict.dustTinyBromine.name=小撮溴 粉
     S:oredict.dustTinyBronze.name=小撮青铜粉
     S:oredict.dustTinyBrown.name=小撮褐色染料
     S:oredict.dustTinyBrownLimonite.name=小撮褐铁矿粉
@@ -26154,7 +26154,7 @@ languagefile {
     S:oredict.oreBasaltAntiBismuth.name=玄武岩反物质铋 矿
     S:oredict.oreBasaltAntiBohrium.name=玄武岩反物质𬭛 矿
     S:oredict.oreBasaltAntiBoron.name=玄武岩反物质硼 矿
-    S:oredict.oreBasaltAntiBromine.name=玄武岩反物质Bromine 矿
+    S:oredict.oreBasaltAntiBromine.name=玄武岩反物质溴 矿
     S:oredict.oreBasaltAntiCadmium.name=玄武岩反物质镉 矿
     S:oredict.oreBasaltAntiCaesium.name=玄武岩反物质铯 矿
     S:oredict.oreBasaltAntiCalcium.name=玄武岩反物质钙 矿
@@ -26297,7 +26297,7 @@ languagefile {
     S:oredict.oreBasaltBorax.name=玄武岩Borax 矿
     S:oredict.oreBasaltBoron.name=玄武岩硼 矿
     S:oredict.oreBasaltBromargyrite.name=玄武岩 Bromargyrite 矿
-    S:oredict.oreBasaltBromine.name=玄武岩Bromine 矿
+    S:oredict.oreBasaltBromine.name=玄武岩溴 矿
     S:oredict.oreBasaltBrownLimonite.name=玄武岩褐铁 矿
     S:oredict.oreBasaltCadmium.name=玄武岩镉 矿
     S:oredict.oreBasaltCaesium.name=玄武岩铯 矿
@@ -26646,7 +26646,7 @@ languagefile {
     S:oredict.oreBedrockAntiBismuth.name=基岩反物质Bismuth 矿
     S:oredict.oreBedrockAntiBohrium.name=基岩反物质𬭛 矿
     S:oredict.oreBedrockAntiBoron.name=基岩反物质Boron 矿
-    S:oredict.oreBedrockAntiBromine.name=基岩反物质Bromine 矿
+    S:oredict.oreBedrockAntiBromine.name=基岩反物质溴 矿
     S:oredict.oreBedrockAntiCadmium.name=基岩反物质Cadmium 矿
     S:oredict.oreBedrockAntiCaesium.name=基岩反物质Caesium 矿
     S:oredict.oreBedrockAntiCalcium.name=基岩反物质Calcium 矿
@@ -26773,7 +26773,7 @@ languagefile {
     S:oredict.oreBedrockBalasRuby.name=基岩Ruby 矿
     S:oredict.oreBedrockBarite.name=基岩Barite 矿
     S:oredict.oreBedrockBarium.name=基岩Barium 矿
-    S:oredict.oreBedrockBasalticMineralSand.name=基岩玄武岩 Mineral Sand
+    S:oredict.oreBedrockBasalticMineralSand.name=基岩玄武岩 矿砂
     S:oredict.oreBedrockBastnasite.name=基岩Bastnasite 矿
     S:oredict.oreBedrockBauxite.name=基岩Bauxite 矿
     S:oredict.oreBedrockBentonite.name=基岩Bentonite
@@ -26788,7 +26788,7 @@ languagefile {
     S:oredict.oreBedrockBorax.name=基岩Borax 矿
     S:oredict.oreBedrockBoron.name=基岩Boron 矿
     S:oredict.oreBedrockBromargyrite.name=基岩Bromargyrite 矿
-    S:oredict.oreBedrockBromine.name=基岩Bromine 矿
+    S:oredict.oreBedrockBromine.name=基岩溴 矿
     S:oredict.oreBedrockBrownLimonite.name=基岩褐色 Limonite 矿
     S:oredict.oreBedrockCadmium.name=基岩Cadmium 矿
     S:oredict.oreBedrockCaesium.name=基岩Caesium 矿
@@ -26879,7 +26879,7 @@ languagefile {
     S:oredict.oreBedrockGlauconiteSand.name=基岩Glauconite Sand
     S:oredict.oreBedrockGlowstone.name=基岩Glowstone 矿
     S:oredict.oreBedrockGold.name=基岩金 矿
-    S:oredict.oreBedrockGraniticMineralSand.name=基岩Granitic Mineral Sand
+    S:oredict.oreBedrockGraniticMineralSand.name=基岩Granitic 矿砂
     S:oredict.oreBedrockGraphite.name=基岩Graphite 矿
     S:oredict.oreBedrockGreenSapphire.name=基岩绿色蓝宝石 矿
     S:oredict.oreBedrockGrossular.name=基岩Grossular 矿
@@ -27134,7 +27134,7 @@ languagefile {
     S:oredict.oreBlackgraniteAntiBismuth.name=黑色花岗岩 反物质Bismuth 矿
     S:oredict.oreBlackgraniteAntiBohrium.name=黑色花岗岩反物质𬭛 矿
     S:oredict.oreBlackgraniteAntiBoron.name=黑色花岗岩反物质硼 矿
-    S:oredict.oreBlackgraniteAntiBromine.name=黑色花岗岩反物质Bromine 矿
+    S:oredict.oreBlackgraniteAntiBromine.name=黑色花岗岩反物质溴 矿
     S:oredict.oreBlackgraniteAntiCadmium.name=黑色花岗岩反物质镉 矿
     S:oredict.oreBlackgraniteAntiCaesium.name=黑色花岗岩反物质铯 矿
     S:oredict.oreBlackgraniteAntiCalcium.name=黑色花岗岩 反物质Calcium 矿
@@ -27273,7 +27273,7 @@ languagefile {
     S:oredict.oreBlackgraniteBorax.name=黑色花岗岩Borax 矿
     S:oredict.oreBlackgraniteBoron.name=黑色花岗岩硼 矿
     S:oredict.oreBlackgraniteBromargyrite.name=黑色花岗岩 Bromargyrite 矿
-    S:oredict.oreBlackgraniteBromine.name=黑色花岗岩Bromine 矿
+    S:oredict.oreBlackgraniteBromine.name=黑色花岗岩溴 矿
     S:oredict.oreBlackgraniteBrownLimonite.name=黑色花岗岩褐铁 矿
     S:oredict.oreBlackgraniteCadmium.name=黑色花岗岩镉 矿
     S:oredict.oreBlackgraniteCaesium.name=黑色花岗岩铯 矿
@@ -27678,7 +27678,7 @@ languagefile {
     S:oredict.oreEndstoneAntiBismuth.name=末地反物质铋 矿
     S:oredict.oreEndstoneAntiBohrium.name=末地反物质𬭛 矿
     S:oredict.oreEndstoneAntiBoron.name=末地反物质硼 矿
-    S:oredict.oreEndstoneAntiBromine.name=末地反物质Bromine 矿
+    S:oredict.oreEndstoneAntiBromine.name=末地反物质溴 矿
     S:oredict.oreEndstoneAntiCadmium.name=末地反物质镉 矿
     S:oredict.oreEndstoneAntiCaesium.name=末地反物质铯 矿
     S:oredict.oreEndstoneAntiCalcium.name=末地反物质钙 矿
@@ -27821,7 +27821,7 @@ languagefile {
     S:oredict.oreEndstoneBorax.name=末地Borax 矿
     S:oredict.oreEndstoneBoron.name=末地硼 矿
     S:oredict.oreEndstoneBromargyrite.name=End Bromargyrite 矿
-    S:oredict.oreEndstoneBromine.name=末地Bromine 矿
+    S:oredict.oreEndstoneBromine.name=末地溴 矿
     S:oredict.oreEndstoneBrownLimonite.name=末地褐铁 矿
     S:oredict.oreEndstoneCadmium.name=末地镉 矿
     S:oredict.oreEndstoneCaesium.name=末地铯 矿
@@ -28195,7 +28195,7 @@ languagefile {
     S:oredict.oreGravelAntiBismuth.name=沙砾反物质铋 矿
     S:oredict.oreGravelAntiBohrium.name=沙砾反物质铍 矿
     S:oredict.oreGravelAntiBoron.name=沙砾反物质硼 矿
-    S:oredict.oreGravelAntiBromine.name=沙砾反物质Bromine 矿
+    S:oredict.oreGravelAntiBromine.name=沙砾反物质溴 矿
     S:oredict.oreGravelAntiCadmium.name=沙砾反物质镉 矿
     S:oredict.oreGravelAntiCaesium.name=沙砾反物质铯 矿
     S:oredict.oreGravelAntiCalcium.name=沙砾反物质钙 矿
@@ -28338,7 +28338,7 @@ languagefile {
     S:oredict.oreGravelBorax.name=沙砾Borax 矿
     S:oredict.oreGravelBoron.name=沙砾硼 矿
     S:oredict.oreGravelBromargyrite.name=沙砾 Bromargyrite 矿
-    S:oredict.oreGravelBromine.name=沙砾Bromine 矿
+    S:oredict.oreGravelBromine.name=沙砾溴 矿
     S:oredict.oreGravelBrownLimonite.name=沙砾褐铁 矿
     S:oredict.oreGravelCadmium.name=沙砾镉 矿
     S:oredict.oreGravelCaesium.name=沙砾铯 矿
@@ -28719,7 +28719,7 @@ languagefile {
     S:oredict.oreLimestoneAntiBismuth.name=石灰岩反物质Bismuth 矿
     S:oredict.oreLimestoneAntiBohrium.name=石灰岩反物质𬭛 矿
     S:oredict.oreLimestoneAntiBoron.name=石灰岩反物质Boron 矿
-    S:oredict.oreLimestoneAntiBromine.name=石灰岩反物质Bromine 矿
+    S:oredict.oreLimestoneAntiBromine.name=石灰岩反物质溴 矿
     S:oredict.oreLimestoneAntiCadmium.name=石灰岩反物质Cadmium 矿
     S:oredict.oreLimestoneAntiCaesium.name=石灰岩反物质Caesium 矿
     S:oredict.oreLimestoneAntiCalcium.name=石灰岩反物质Calcium 矿
@@ -28846,7 +28846,7 @@ languagefile {
     S:oredict.oreLimestoneBalasRuby.name=石灰岩红宝石 矿
     S:oredict.oreLimestoneBarite.name=石灰岩 Barite 矿
     S:oredict.oreLimestoneBarium.name=石灰岩 Barium 矿
-    S:oredict.oreLimestoneBasalticMineralSand.name=石灰岩 玄武岩 Mineral Sand
+    S:oredict.oreLimestoneBasalticMineralSand.name=石灰岩 玄武岩 矿砂
     S:oredict.oreLimestoneBastnasite.name=石灰岩 Bastnasite 矿
     S:oredict.oreLimestoneBauxite.name=石灰岩 Bauxite 矿
     S:oredict.oreLimestoneBentonite.name=石灰岩 Bentonite
@@ -28861,7 +28861,7 @@ languagefile {
     S:oredict.oreLimestoneBorax.name=石灰岩 Borax 矿
     S:oredict.oreLimestoneBoron.name=石灰岩 Boron 矿
     S:oredict.oreLimestoneBromargyrite.name=石灰岩 Bromargyrite 矿
-    S:oredict.oreLimestoneBromine.name=石灰岩 Bromine 矿
+    S:oredict.oreLimestoneBromine.name=石灰岩 溴 矿
     S:oredict.oreLimestoneBrownLimonite.name=石灰岩 褐色 Limonite 矿
     S:oredict.oreLimestoneCadmium.name=石灰岩 Cadmium 矿
     S:oredict.oreLimestoneCaesium.name=石灰岩 Caesium 矿
@@ -28950,7 +28950,7 @@ languagefile {
     S:oredict.oreLimestoneGlauconiteSand.name=石灰岩 Glauconite Sand
     S:oredict.oreLimestoneGlowstone.name=石灰岩 Glowstone 矿
     S:oredict.oreLimestoneGold.name=石灰岩 金 矿
-    S:oredict.oreLimestoneGraniticMineralSand.name=石灰岩 Granitic Mineral Sand
+    S:oredict.oreLimestoneGraniticMineralSand.name=石灰岩 Granitic 矿砂
     S:oredict.oreLimestoneGraphite.name=石灰岩 Graphite 矿
     S:oredict.oreLimestoneGreenSapphire.name=石灰岩 绿色蓝宝石 矿
     S:oredict.oreLimestoneGrossular.name=石灰岩 Grossular 矿
@@ -29204,7 +29204,7 @@ languagefile {
     S:oredict.oreMarbleAntiBismuth.name=大理石反物质铋 矿
     S:oredict.oreMarbleAntiBohrium.name=大理石反物质𬭛 矿
     S:oredict.oreMarbleAntiBoron.name=大理石反物质硼 矿
-    S:oredict.oreMarbleAntiBromine.name=大理石反物质Bromine 矿
+    S:oredict.oreMarbleAntiBromine.name=大理石反物质溴 矿
     S:oredict.oreMarbleAntiCadmium.name=大理石反物质镉 矿
     S:oredict.oreMarbleAntiCaesium.name=大理石反物质铯 矿
     S:oredict.oreMarbleAntiCalcium.name=大理石反物质钙 矿
@@ -29347,7 +29347,7 @@ languagefile {
     S:oredict.oreMarbleBorax.name=大理石Borax 矿
     S:oredict.oreMarbleBoron.name=大理石硼 矿
     S:oredict.oreMarbleBromargyrite.name=大理石 Bromargyrite 矿
-    S:oredict.oreMarbleBromine.name=大理石Bromine 矿
+    S:oredict.oreMarbleBromine.name=大理石溴 矿
     S:oredict.oreMarbleBrownLimonite.name=大理石褐铁 矿
     S:oredict.oreMarbleCadmium.name=大理石镉 矿
     S:oredict.oreMarbleCaesium.name=大理石铯 矿
@@ -29713,7 +29713,7 @@ languagefile {
     S:oredict.oreNetherrackAntiBismuth.name=地狱反物质铋 矿
     S:oredict.oreNetherrackAntiBohrium.name=地狱反物质𬭛 矿
     S:oredict.oreNetherrackAntiBoron.name=地狱反物质硼 矿
-    S:oredict.oreNetherrackAntiBromine.name=地狱反物质Bromine 矿
+    S:oredict.oreNetherrackAntiBromine.name=地狱反物质溴 矿
     S:oredict.oreNetherrackAntiCadmium.name=地狱反物质镉 矿
     S:oredict.oreNetherrackAntiCaesium.name=地狱反物质铯 矿
     S:oredict.oreNetherrackAntiCalcium.name=地狱反物质钙 矿
@@ -29856,7 +29856,7 @@ languagefile {
     S:oredict.oreNetherrackBorax.name=地狱Borax 矿
     S:oredict.oreNetherrackBoron.name=地狱Boron 矿
     S:oredict.oreNetherrackBromargyrite.name=地狱Bromargyrite 矿
-    S:oredict.oreNetherrackBromine.name=地狱Bromine 矿
+    S:oredict.oreNetherrackBromine.name=地狱溴 矿
     S:oredict.oreNetherrackBrownLimonite.name=地狱褐铁 矿
     S:oredict.oreNetherrackCadmium.name=地狱镉 矿
     S:oredict.oreNetherrackCaesium.name=地狱铯 矿
@@ -30249,7 +30249,7 @@ languagefile {
     S:oredict.oreRedSandAntiBismuth.name=红沙反物质铋 矿
     S:oredict.oreRedSandAntiBohrium.name=红沙反物质𬭛 矿
     S:oredict.oreRedSandAntiBoron.name=红沙反物质硼 矿
-    S:oredict.oreRedSandAntiBromine.name=红沙反物质Bromine 矿
+    S:oredict.oreRedSandAntiBromine.name=红沙反物质溴 矿
     S:oredict.oreRedSandAntiCadmium.name=红沙反物质镉 矿
     S:oredict.oreRedSandAntiCaesium.name=红沙反物质铯 矿
     S:oredict.oreRedSandAntiCalcium.name=红沙反物质钙 矿
@@ -30392,7 +30392,7 @@ languagefile {
     S:oredict.oreRedSandBorax.name=红沙Borax 矿
     S:oredict.oreRedSandBoron.name=红沙硼 矿
     S:oredict.oreRedSandBromargyrite.name=红沙 Bromargyrite 矿
-    S:oredict.oreRedSandBromine.name=红沙Bromine 矿
+    S:oredict.oreRedSandBromine.name=红沙溴 矿
     S:oredict.oreRedSandBrownLimonite.name=红沙褐铁 矿
     S:oredict.oreRedSandCadmium.name=红沙镉 矿
     S:oredict.oreRedSandCaesium.name=红沙铯 矿
@@ -30736,7 +30736,7 @@ languagefile {
     S:oredict.oreRedgraniteAntiBismuth.name=红花岗岩反物质铋 矿
     S:oredict.oreRedgraniteAntiBohrium.name=红花岗岩反物质𬭛 矿
     S:oredict.oreRedgraniteAntiBoron.name=红花岗岩反物质硼 矿
-    S:oredict.oreRedgraniteAntiBromine.name=红花岗岩反物质Bromine 矿
+    S:oredict.oreRedgraniteAntiBromine.name=红花岗岩反物质溴 矿
     S:oredict.oreRedgraniteAntiCadmium.name=红花岗岩反物质镉 矿
     S:oredict.oreRedgraniteAntiCaesium.name=红花岗岩反物质铯 矿
     S:oredict.oreRedgraniteAntiCalcium.name=红花岗岩反物质钙 矿
@@ -30879,7 +30879,7 @@ languagefile {
     S:oredict.oreRedgraniteBorax.name=红花岗岩Borax 矿
     S:oredict.oreRedgraniteBoron.name=红花岗岩硼 矿
     S:oredict.oreRedgraniteBromargyrite.name=黑色花岗岩 Bromargyrite 矿
-    S:oredict.oreRedgraniteBromine.name=红花岗岩Bromine 矿
+    S:oredict.oreRedgraniteBromine.name=红花岗岩溴 矿
     S:oredict.oreRedgraniteBrownLimonite.name=红花岗岩褐铁 矿
     S:oredict.oreRedgraniteCadmium.name=红花岗岩镉 矿
     S:oredict.oreRedgraniteCaesium.name=红花岗岩铯 矿
@@ -31724,7 +31724,7 @@ languagefile {
     S:oredict.oreSandstoneAntiBismuth.name=沙石反物质铋 矿
     S:oredict.oreSandstoneAntiBohrium.name=沙石反物质𬭛 矿
     S:oredict.oreSandstoneAntiBoron.name=沙石反物质硼 矿
-    S:oredict.oreSandstoneAntiBromine.name=沙石反物质Bromine 矿
+    S:oredict.oreSandstoneAntiBromine.name=沙石反物质溴 矿
     S:oredict.oreSandstoneAntiCadmium.name=沙石反物质镉 矿
     S:oredict.oreSandstoneAntiCaesium.name=沙石反物质铯 矿
     S:oredict.oreSandstoneAntiCalcium.name=沙石反物质钙 矿
@@ -31867,7 +31867,7 @@ languagefile {
     S:oredict.oreSandstoneBorax.name=沙石Borax 矿
     S:oredict.oreSandstoneBoron.name=沙石硼 矿
     S:oredict.oreSandstoneBromargyrite.name=沙石Bromargyrite 矿
-    S:oredict.oreSandstoneBromine.name=沙石Bromine 矿
+    S:oredict.oreSandstoneBromine.name=沙石溴 矿
     S:oredict.oreSandstoneBrownLimonite.name=沙石褐铁 矿
     S:oredict.oreSandstoneCadmium.name=沙石镉 矿
     S:oredict.oreSandstoneCaesium.name=沙石铯 矿
@@ -32225,7 +32225,7 @@ languagefile {
     S:oredict.oreSmallAntiBismuth.name=贫瘠反物质铋 矿
     S:oredict.oreSmallAntiBohrium.name=贫瘠反物质𬭛 矿
     S:oredict.oreSmallAntiBoron.name=贫瘠反物质硼 矿
-    S:oredict.oreSmallAntiBromine.name=贫瘠反物质Bromine 矿
+    S:oredict.oreSmallAntiBromine.name=贫瘠反物质溴 矿
     S:oredict.oreSmallAntiCadmium.name=贫瘠反物质镉 矿
     S:oredict.oreSmallAntiCaesium.name=贫瘠反物质铯 矿
     S:oredict.oreSmallAntiCalcium.name=贫瘠反物质钙 矿
@@ -32368,7 +32368,7 @@ languagefile {
     S:oredict.oreSmallBorax.name=贫瘠Borax 矿
     S:oredict.oreSmallBoron.name=贫瘠硼 矿
     S:oredict.oreSmallBromargyrite.name=小型Bromargyrite 矿
-    S:oredict.oreSmallBromine.name=贫瘠Bromine 矿
+    S:oredict.oreSmallBromine.name=贫瘠溴 矿
     S:oredict.oreSmallBrownLimonite.name=贫瘠褐铁 矿
     S:oredict.oreSmallCadmium.name=贫瘠镉 矿
     S:oredict.oreSmallCaesium.name=贫瘠铯 矿
@@ -32782,7 +32782,7 @@ languagefile {
     S:oredict.oreblackgraniteAntiBismuth.name=黑色花岗岩反物质铋 矿
     S:oredict.oreblackgraniteAntiBohrium.name=黑色花岗岩反物质𬭛 矿
     S:oredict.oreblackgraniteAntiBoron.name=黑色花岗岩反物质硼 矿
-    S:oredict.oreblackgraniteAntiBromine.name=黑色花岗岩反物质Bromine 矿
+    S:oredict.oreblackgraniteAntiBromine.name=黑色花岗岩反物质溴 矿
     S:oredict.oreblackgraniteAntiCadmium.name=黑色花岗岩反物质镉 矿
     S:oredict.oreblackgraniteAntiCaesium.name=黑色花岗岩反物质铯 矿
     S:oredict.oreblackgraniteAntiCalcium.name=黑色花岗岩反物质钙 矿
@@ -32922,7 +32922,7 @@ languagefile {
     S:oredict.oreblackgraniteBorax.name=黑色花岗岩Borax 矿
     S:oredict.oreblackgraniteBoron.name=黑色花岗岩硼 矿
     S:oredict.oreblackgraniteBromargyrite.name=黑色花岗岩 Bromargyrite 矿
-    S:oredict.oreblackgraniteBromine.name=黑色花岗岩Bromine 矿
+    S:oredict.oreblackgraniteBromine.name=黑色花岗岩溴 矿
     S:oredict.oreblackgraniteBrownLimonite.name=黑色花岗岩褐铁 矿
     S:oredict.oreblackgraniteCadmium.name=黑色花岗岩镉 矿
     S:oredict.oreblackgraniteCaesium.name=黑色花岗岩铯 矿
@@ -33399,7 +33399,7 @@ languagefile {
     S:oredict.plantGtBerryBarium.name=钡梅
     S:oredict.plantGtBerryBarley.name=大麦梅
     S:oredict.plantGtBerryBasalt.name=玄武岩梅
-    S:oredict.plantGtBerryBasalticMineralSand.name=玄武岩ic Mineral Sand梅
+    S:oredict.plantGtBerryBasalticMineralSand.name=玄武岩ic 矿砂梅
     S:oredict.plantGtBerryBasalz.name=Basalz梅
     S:oredict.plantGtBerryBastnasite.name=氟碳铈矿梅
     S:oredict.plantGtBerryBatteryAlloy.name=电池合金梅
@@ -33409,7 +33409,7 @@ languagefile {
     S:oredict.plantGtBerryBentonite.name=膨润土梅
     S:oredict.plantGtBerryBerkelium.name=锫梅
     S:oredict.plantGtBerryBeryllium.name=铍梅
-    S:oredict.plantGtBerryBioFuel.name=Bio Diesel梅
+    S:oredict.plantGtBerryBioFuel.name=生物柴油梅
     S:oredict.plantGtBerryBiomass.name=生物质梅
     S:oredict.plantGtBerryBiotite.name=黑云母梅
     S:oredict.plantGtBerryBismuth.name=铋梅
@@ -33425,7 +33425,7 @@ languagefile {
     S:oredict.plantGtBerryBlueAlloy.name=蓝色合金梅
     S:oredict.plantGtBerryBlueSapphire.name=蓝宝石Berry
     S:oredict.plantGtBerryBlueSteel.name=蓝钢梅
-    S:oredict.plantGtBerryBlueTopaz.name=蓝色 Topaz梅
+    S:oredict.plantGtBerryBlueTopaz.name=蓝色黄玉梅
     S:oredict.plantGtBerryBlueVitriol.name=蓝色硫酸盐梅
     S:oredict.plantGtBerryBlueschist.name=蓝片岩梅
     S:oredict.plantGtBerryBluestone.name=蓝石梅
@@ -33440,7 +33440,7 @@ languagefile {
     S:oredict.plantGtBerryBronze.name=青铜梅
     S:oredict.plantGtBerryBrown.name=褐色梅
     S:oredict.plantGtBerryBrownLimonite.name=褐铁矿梅
-    S:oredict.plantGtBerryButane.name=Butane梅
+    S:oredict.plantGtBerryButane.name=丁烷梅
     S:oredict.plantGtBerryCadmium.name=镉梅
     S:oredict.plantGtBerryCaesium.name=铯梅
     S:oredict.plantGtBerryCalcite.name=方解石梅
@@ -33582,7 +33582,7 @@ languagefile {
     S:oredict.plantGtBerryForcillium.name=立场梅
     S:oredict.plantGtBerryFrancium.name=钫梅
     S:oredict.plantGtBerryFreshWater.name=淡水梅
-    S:oredict.plantGtBerryFryingOilHot.name=Hot Frying 油梅
+    S:oredict.plantGtBerryFryingOilHot.name=热炸油梅
     S:oredict.plantGtBerryFuel.name=柴油梅
     S:oredict.plantGtBerryFullersEarth.name=满满的ers Earth梅
     S:oredict.plantGtBerryGabbro.name=辉长岩梅
@@ -34212,7 +34212,7 @@ languagefile {
     S:oredict.plantGtBlossomBarium.name=钡花
     S:oredict.plantGtBlossomBarley.name=大麦花
     S:oredict.plantGtBlossomBasalt.name=玄武岩花
-    S:oredict.plantGtBlossomBasalticMineralSand.name=玄武岩ic Mineral Sand花
+    S:oredict.plantGtBlossomBasalticMineralSand.name=玄武岩ic 矿砂花
     S:oredict.plantGtBlossomBasalz.name=Basalz 花
     S:oredict.plantGtBlossomBastnasite.name=氟碳铈矿花
     S:oredict.plantGtBlossomBatteryAlloy.name=电池合金花
@@ -34222,7 +34222,7 @@ languagefile {
     S:oredict.plantGtBlossomBentonite.name=膨润土花
     S:oredict.plantGtBlossomBerkelium.name=锫花
     S:oredict.plantGtBlossomBeryllium.name=铍花
-    S:oredict.plantGtBlossomBioFuel.name=Bio Diesel花
+    S:oredict.plantGtBlossomBioFuel.name=生物柴油花
     S:oredict.plantGtBlossomBiomass.name=生物质花
     S:oredict.plantGtBlossomBiotite.name=黑云母花
     S:oredict.plantGtBlossomBismuth.name=铋花
@@ -34238,7 +34238,7 @@ languagefile {
     S:oredict.plantGtBlossomBlueAlloy.name=蓝色合金花
     S:oredict.plantGtBlossomBlueSapphire.name=蓝宝石Blossom
     S:oredict.plantGtBlossomBlueSteel.name=蓝钢花
-    S:oredict.plantGtBlossomBlueTopaz.name=蓝色 Topaz花
+    S:oredict.plantGtBlossomBlueTopaz.name=蓝色黄玉花
     S:oredict.plantGtBlossomBlueVitriol.name=蓝色硫酸盐 花
     S:oredict.plantGtBlossomBlueschist.name=蓝片岩花
     S:oredict.plantGtBlossomBluestone.name=蓝石花
@@ -34253,7 +34253,7 @@ languagefile {
     S:oredict.plantGtBlossomBronze.name=青铜花
     S:oredict.plantGtBlossomBrown.name=褐色花
     S:oredict.plantGtBlossomBrownLimonite.name=褐铁矿花
-    S:oredict.plantGtBlossomButane.name=Butane 花
+    S:oredict.plantGtBlossomButane.name=丁烷 花
     S:oredict.plantGtBlossomCadmium.name=镉花
     S:oredict.plantGtBlossomCaesium.name=铯花
     S:oredict.plantGtBlossomCalcite.name=方解石花
@@ -34395,7 +34395,7 @@ languagefile {
     S:oredict.plantGtBlossomForcillium.name=立场花
     S:oredict.plantGtBlossomFrancium.name=钫花
     S:oredict.plantGtBlossomFreshWater.name=淡水花
-    S:oredict.plantGtBlossomFryingOilHot.name=Hot Frying 油花
+    S:oredict.plantGtBlossomFryingOilHot.name=热炸油花
     S:oredict.plantGtBlossomFuel.name=柴油花
     S:oredict.plantGtBlossomFullersEarth.name=漂白土 花
     S:oredict.plantGtBlossomGabbro.name=辉长岩花
@@ -34890,7 +34890,7 @@ languagefile {
     S:oredict.plantGtFiberAntiBismuth.name=粗糙的反物质Bismuth纤维
     S:oredict.plantGtFiberAntiBohrium.name=粗糙的反物质𬭛纤维
     S:oredict.plantGtFiberAntiBoron.name=粗糙的反物质Boron纤维
-    S:oredict.plantGtFiberAntiBromine.name=粗糙的反物质Bromine纤维
+    S:oredict.plantGtFiberAntiBromine.name=粗糙的反物质溴 纤维
     S:oredict.plantGtFiberAntiCadmium.name=粗糙的反物质Cadmium纤维
     S:oredict.plantGtFiberAntiCaesium.name=粗糙的反物质Caesium纤维
     S:oredict.plantGtFiberAntiCalcium.name=粗糙的反物质Calcium纤维
@@ -35025,7 +35025,7 @@ languagefile {
     S:oredict.plantGtFiberBarium.name=粗糙的Barium纤维
     S:oredict.plantGtFiberBarley.name=粗糙的Barley纤维
     S:oredict.plantGtFiberBasalt.name=粗糙的玄武岩纤维
-    S:oredict.plantGtFiberBasalticMineralSand.name=粗糙的玄武岩 Mineral Sand纤维
+    S:oredict.plantGtFiberBasalticMineralSand.name=粗糙的玄武岩 矿砂纤维
     S:oredict.plantGtFiberBasalz.name=粗糙的 Basalz纤维
     S:oredict.plantGtFiberBastnasite.name=粗糙的Bastnasite纤维
     S:oredict.plantGtFiberBatteryAlloy.name=粗糙的电池合金纤维
@@ -35035,7 +35035,7 @@ languagefile {
     S:oredict.plantGtFiberBentonite.name=粗糙的Bentonite纤维
     S:oredict.plantGtFiberBerkelium.name=粗糙的Berkelium纤维
     S:oredict.plantGtFiberBeryllium.name=粗糙的Beryllium纤维
-    S:oredict.plantGtFiberBioFuel.name=粗糙的Bio Diesel纤维
+    S:oredict.plantGtFiberBioFuel.name=粗糙的生物柴油纤维
     S:oredict.plantGtFiberBiomass.name=粗糙的Biomass纤维
     S:oredict.plantGtFiberBiotite.name=粗糙的黑云母纤维
     S:oredict.plantGtFiberBismuth.name=粗糙的Bismuth纤维
@@ -35051,7 +35051,7 @@ languagefile {
     S:oredict.plantGtFiberBlueAlloy.name=粗糙的蓝色合金纤维
     S:oredict.plantGtFiberBlueSapphire.name=粗糙的蓝宝石Fiber
     S:oredict.plantGtFiberBlueSteel.name=粗糙的蓝钢纤维
-    S:oredict.plantGtFiberBlueTopaz.name=粗糙的蓝色 Topaz纤维
+    S:oredict.plantGtFiberBlueTopaz.name=粗糙的蓝色黄玉纤维
     S:oredict.plantGtFiberBlueVitriol.name=粗糙的 蓝色硫酸盐纤维
     S:oredict.plantGtFiberBlueschist.name=粗糙的蓝片岩纤维
     S:oredict.plantGtFiberBluestone.name=粗糙的蓝石纤维
@@ -35062,11 +35062,11 @@ languagefile {
     S:oredict.plantGtFiberBoron.name=粗糙的Boron纤维
     S:oredict.plantGtFiberBrass.name=粗糙的Brass纤维
     S:oredict.plantGtFiberBromargyrite.name=粗糙的 Bromargyrite纤维
-    S:oredict.plantGtFiberBromine.name=粗糙的Bromine纤维
+    S:oredict.plantGtFiberBromine.name=粗糙的溴 纤维
     S:oredict.plantGtFiberBronze.name=粗糙的Bronze纤维
     S:oredict.plantGtFiberBrown.name=褐色 纤维
     S:oredict.plantGtFiberBrownLimonite.name=粗糙的褐色 Limonite纤维
-    S:oredict.plantGtFiberButane.name=粗糙的 Butane纤维
+    S:oredict.plantGtFiberButane.name=粗糙的 丁烷纤维
     S:oredict.plantGtFiberCadmium.name=粗糙的Cadmium纤维
     S:oredict.plantGtFiberCaesium.name=粗糙的Caesium纤维
     S:oredict.plantGtFiberCalcite.name=粗糙的Calcite纤维
@@ -35208,7 +35208,7 @@ languagefile {
     S:oredict.plantGtFiberForcillium.name=粗糙的Forcillium纤维
     S:oredict.plantGtFiberFrancium.name=粗糙的Francium纤维
     S:oredict.plantGtFiberFreshWater.name=粗糙的湿 Water纤维
-    S:oredict.plantGtFiberFryingOilHot.name=粗糙的Hot Frying 油纤维
+    S:oredict.plantGtFiberFryingOilHot.name=粗糙的热炸油纤维
     S:oredict.plantGtFiberFuel.name=粗糙的Diesel纤维
     S:oredict.plantGtFiberFullersEarth.name=粗糙的漂白土纤维
     S:oredict.plantGtFiberGabbro.name=粗糙的Gabbro纤维
@@ -35233,7 +35233,7 @@ languagefile {
     S:oredict.plantGtFiberGraniteBlack.name=粗糙的 黑色花岗岩纤维
     S:oredict.plantGtFiberGraniteRed.name=粗糙的红色 Granite纤维
     S:oredict.plantGtFiberGraniteblack.name=粗糙的黑色花岗岩纤维
-    S:oredict.plantGtFiberGraniticMineralSand.name=粗糙的Granitic Mineral Sand纤维
+    S:oredict.plantGtFiberGraniticMineralSand.name=粗糙的Granitic 矿砂纤维
     S:oredict.plantGtFiberGraphene.name=粗糙的Graphene纤维
     S:oredict.plantGtFiberGraphite.name=粗糙的Graphite纤维
     S:oredict.plantGtFiberGravel.name=粗糙的Gravel纤维
@@ -35837,7 +35837,7 @@ languagefile {
     S:oredict.plantGtTwigBarium.name=钡细枝
     S:oredict.plantGtTwigBarley.name=大麦细枝
     S:oredict.plantGtTwigBasalt.name=玄武岩细枝
-    S:oredict.plantGtTwigBasalticMineralSand.name=玄武岩ic Mineral Sand细枝
+    S:oredict.plantGtTwigBasalticMineralSand.name=玄武岩ic 矿砂细枝
     S:oredict.plantGtTwigBasalz.name=Basalz细枝
     S:oredict.plantGtTwigBastnasite.name=氟碳铈矿细枝
     S:oredict.plantGtTwigBatteryAlloy.name=电池合金细枝
@@ -35847,7 +35847,7 @@ languagefile {
     S:oredict.plantGtTwigBentonite.name=膨润土细枝
     S:oredict.plantGtTwigBerkelium.name=锫细枝
     S:oredict.plantGtTwigBeryllium.name=铍细枝
-    S:oredict.plantGtTwigBioFuel.name=Bio Diesel细枝
+    S:oredict.plantGtTwigBioFuel.name=生物柴油细枝
     S:oredict.plantGtTwigBiomass.name=生物质细枝
     S:oredict.plantGtTwigBiotite.name=黑云母细枝
     S:oredict.plantGtTwigBismuth.name=铋细枝
@@ -35863,7 +35863,7 @@ languagefile {
     S:oredict.plantGtTwigBlueAlloy.name=蓝色合金细枝
     S:oredict.plantGtTwigBlueSapphire.name=蓝宝石Twig
     S:oredict.plantGtTwigBlueSteel.name=蓝钢细枝
-    S:oredict.plantGtTwigBlueTopaz.name=蓝色 Topaz细枝
+    S:oredict.plantGtTwigBlueTopaz.name=蓝色黄玉细枝
     S:oredict.plantGtTwigBlueVitriol.name=蓝色硫酸盐细枝
     S:oredict.plantGtTwigBlueschist.name=蓝片岩细枝
     S:oredict.plantGtTwigBluestone.name=蓝石细枝
@@ -35878,7 +35878,7 @@ languagefile {
     S:oredict.plantGtTwigBronze.name=青铜细枝
     S:oredict.plantGtTwigBrown.name=褐色细枝
     S:oredict.plantGtTwigBrownLimonite.name=褐铁矿细枝
-    S:oredict.plantGtTwigButane.name=Butane细枝
+    S:oredict.plantGtTwigButane.name=丁烷细枝
     S:oredict.plantGtTwigCadmium.name=镉细枝
     S:oredict.plantGtTwigCaesium.name=铯细枝
     S:oredict.plantGtTwigCalcite.name=方解石细枝
@@ -36020,7 +36020,7 @@ languagefile {
     S:oredict.plantGtTwigForcillium.name=立场细枝
     S:oredict.plantGtTwigFrancium.name=钫细枝
     S:oredict.plantGtTwigFreshWater.name=淡水细枝
-    S:oredict.plantGtTwigFryingOilHot.name=Hot Frying 油细枝
+    S:oredict.plantGtTwigFryingOilHot.name=热炸油细枝
     S:oredict.plantGtTwigFuel.name=柴油细枝
     S:oredict.plantGtTwigFullersEarth.name=满满的ers Earth细枝
     S:oredict.plantGtTwigGabbro.name=辉长岩细枝
@@ -36650,7 +36650,7 @@ languagefile {
     S:oredict.plantGtWartBarium.name=钡疣
     S:oredict.plantGtWartBarley.name=大麦疣
     S:oredict.plantGtWartBasalt.name=玄武岩疣
-    S:oredict.plantGtWartBasalticMineralSand.name=玄武岩 Mineral Sand疣
+    S:oredict.plantGtWartBasalticMineralSand.name=玄武岩 矿砂疣
     S:oredict.plantGtWartBasalz.name=Basalz疣
     S:oredict.plantGtWartBastnasite.name=氟碳铈矿疣
     S:oredict.plantGtWartBatteryAlloy.name=电池合金疣
@@ -36660,7 +36660,7 @@ languagefile {
     S:oredict.plantGtWartBentonite.name=膨润土疣
     S:oredict.plantGtWartBerkelium.name=锫疣
     S:oredict.plantGtWartBeryllium.name=铍疣
-    S:oredict.plantGtWartBioFuel.name=Bio Diesel疣
+    S:oredict.plantGtWartBioFuel.name=生物柴油疣
     S:oredict.plantGtWartBiomass.name=生物质疣
     S:oredict.plantGtWartBiotite.name=黑云母疣
     S:oredict.plantGtWartBismuth.name=铋疣
@@ -36676,7 +36676,7 @@ languagefile {
     S:oredict.plantGtWartBlueAlloy.name=蓝色合金疣
     S:oredict.plantGtWartBlueSapphire.name=蓝宝石Wart
     S:oredict.plantGtWartBlueSteel.name=蓝钢疣
-    S:oredict.plantGtWartBlueTopaz.name=蓝色 Topaz疣
+    S:oredict.plantGtWartBlueTopaz.name=蓝色黄玉疣
     S:oredict.plantGtWartBlueVitriol.name=蓝色硫酸盐疣
     S:oredict.plantGtWartBlueschist.name=蓝片岩疣
     S:oredict.plantGtWartBluestone.name=蓝石疣
@@ -36691,7 +36691,7 @@ languagefile {
     S:oredict.plantGtWartBronze.name=青铜疣
     S:oredict.plantGtWartBrown.name=褐色疣
     S:oredict.plantGtWartBrownLimonite.name=褐铁矿疣
-    S:oredict.plantGtWartButane.name=Butane疣
+    S:oredict.plantGtWartButane.name=丁烷疣
     S:oredict.plantGtWartCadmium.name=镉疣
     S:oredict.plantGtWartCaesium.name=铯疣
     S:oredict.plantGtWartCalcite.name=方解石疣
@@ -36833,7 +36833,7 @@ languagefile {
     S:oredict.plantGtWartForcillium.name=立场疣
     S:oredict.plantGtWartFrancium.name=钫疣
     S:oredict.plantGtWartFreshWater.name=淡水疣
-    S:oredict.plantGtWartFryingOilHot.name=Hot Frying 油疣
+    S:oredict.plantGtWartFryingOilHot.name=热炸油疣
     S:oredict.plantGtWartFuel.name=柴油疣
     S:oredict.plantGtWartFullersEarth.name=满满的ers Earth疣
     S:oredict.plantGtWartGabbro.name=辉长岩疣
