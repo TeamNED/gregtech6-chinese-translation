@@ -104,15 +104,15 @@ languagefile {
     S:fluid.bluevitriol=蓝色硫酸盐
     S:fluid.bromine=溴 
     S:fluid.butane=丁烷
-    S:fluid.cactuswater=Cactus Water
+    S:fluid.cactuswater=仙人掌汁
     S:fluid.canevinegar=甘蔗醋
     S:fluid.carbondioxide=二氧化碳
     S:fluid.carbonmonoxide=一氧化碳
     S:fluid.carrotjuice=胡萝卜汁
-    S:fluid.cfoam.black=黑色 泡沫
+    S:fluid.cfoam.black=黑色泡沫
     S:fluid.cfoam.blue=蓝色泡沫
-    S:fluid.cfoam.brown=褐色 泡沫
-    S:fluid.cfoam.cyan=青色 泡沫
+    S:fluid.cfoam.brown=褐色泡沫
+    S:fluid.cfoam.cyan=青色泡沫
     S:fluid.cfoam.dyeblack=黑色泡沫
     S:fluid.cfoam.dyeblue=蓝色泡沫
     S:fluid.cfoam.dyebrown=棕色泡沫
@@ -130,24 +130,24 @@ languagefile {
     S:fluid.cfoam.dyewhite=白色泡沫
     S:fluid.cfoam.dyeyellow=黄色泡沫
     S:fluid.cfoam.gray=灰色泡沫
-    S:fluid.cfoam.green=绿色 泡沫
-    S:fluid.cfoam.lightblue=淡蓝色 泡沫
-    S:fluid.cfoam.lightgray=淡灰色 泡沫
-    S:fluid.cfoam.lime=青柠色 泡沫
-    S:fluid.cfoam.magenta=品红 泡沫
+    S:fluid.cfoam.green=绿色泡沫
+    S:fluid.cfoam.lightblue=淡蓝色泡沫
+    S:fluid.cfoam.lightgray=淡灰色泡沫
+    S:fluid.cfoam.lime=青柠色泡沫
+    S:fluid.cfoam.magenta=品红泡沫
     S:fluid.cfoam.orange=橙色泡沫
-    S:fluid.cfoam.pink=粉色 泡沫
-    S:fluid.cfoam.purple=紫色 泡沫
+    S:fluid.cfoam.pink=粉色泡沫
+    S:fluid.cfoam.purple=紫色泡沫
     S:fluid.cfoam.red=红色泡沫
-    S:fluid.cfoam.white=白色 泡沫
-    S:fluid.cfoam.yellow=黄色 泡沫
+    S:fluid.cfoam.white=白色泡沫
+    S:fluid.cfoam.yellow=黄色泡沫
     S:fluid.chargedmatter=充能物质
     S:fluid.chlorine=氯
     S:fluid.chloroauricacid=氯金酸
     S:fluid.chloroplatinicacid=氯铂酸
     S:fluid.chocolatecream=巧克力冰淇淋
     S:fluid.chocolatemilk=巧克力牛奶
-    S:fluid.cranberryjuice=Cranberry 果汁
+    S:fluid.cranberryjuice=蔓越莓果汁
     S:fluid.cream=鲜奶油
     S:fluid.creosote=木榴油
     S:fluid.cyanvitriol=青色硫酸盐
@@ -237,7 +237,6 @@ languagefile {
     S:fluid.dye.watermixed.dyered=水性红色染料
     S:fluid.dye.watermixed.dyewhite=水性白色染料
     S:fluid.dye.watermixed.dyeyellow=水性黄色染料
-    S:fluid.dye.watermixed.dyeblack=水性黑色染料
     S:fluid.dye.watermixed.gray=水性灰色染料
     S:fluid.dye.watermixed.green=水性绿色染料
     S:fluid.dye.watermixed.lightblue=水性淡蓝色染料
@@ -276,6 +275,7 @@ languagefile {
     S:fluid.hotfryingoil=热食用油
     S:fluid.hydrochloricacid=盐酸
     S:fluid.hydrogen=氢
+    S:fluid.hydrogenfluoride=氟化氢
     S:fluid.hydrogenperoxide=过氧化氢
     S:fluid.ic2biomass=生物质
     S:fluid.ic2constructionfoam=建筑泡沫
@@ -284,8 +284,8 @@ languagefile {
     S:fluid.ic2uumatter=液态UU
     S:fluid.ice=碎冰
     S:fluid.indigo=靛蓝染料
-    S:fluid.juice=Juice
-    S:fluid.kerosine=Kerosine
+    S:fluid.juice=果汁
+    S:fluid.kerosine=煤油
     S:fluid.ketchup=番茄酱
     S:fluid.kiwijuice=猕猴桃 果汁
     S:fluid.krypton=氪
@@ -1173,15 +1173,17 @@ languagefile {
     S:gt.crop.cranberries=Cranberries
     S:gt.crop.creeperweed=爆炸草
     S:gt.crop.cucumber=Cucumber
+    S:gt.crop.darkredappletree=暗红苹果树
     S:gt.crop.desertnova=沙漠新星
     S:gt.crop.diareed=Diareed
     S:gt.crop.eggplant=茄子
     S:gt.crop.enderbloom=末影花
     S:gt.crop.flax=亚麻
     S:gt.crop.gooseberrybush=Gooseberry Bush
-    S:gt.crop.greengrapes=绿色 Grapes
+    S:gt.crop.greenappletree=绿苹果树
+    S:gt.crop.greengrapes=绿色葡萄
     S:gt.crop.indigo=靛蓝花
-    S:gt.crop.lemonplant=Lemon Plant
+    S:gt.crop.lemonplant=柠檬树
     S:gt.crop.liveroots=活根
     S:gt.crop.meatrose=肉玫瑰
     S:gt.crop.milkwart=牛奶疣
@@ -1189,20 +1191,22 @@ languagefile {
     S:gt.crop.oilberries=原油浆果
     S:gt.crop.onion=Onion
     S:gt.crop.plumbilia=Plumbilia
-    S:gt.crop.purplegrapes=紫色 Grapes
-    S:gt.crop.raspberries=Raspberries
+    S:gt.crop.purplegrapes=紫色葡萄
+    S:gt.crop.raspberries=树莓灌木
+    S:gt.crop.redappletree=红苹果树
     S:gt.crop.redcurrants=红色 Currants
     S:gt.crop.shimmerleaf=Shimmerleaf
     S:gt.crop.slimeplant=黏液草
     S:gt.crop.spidernip=Spidernip
     S:gt.crop.steeleafranks=Steeleafranks
-    S:gt.crop.strawberries=Strawberries
+    S:gt.crop.strawberries=草莓
     S:gt.crop.tea=茶
     S:gt.crop.tearstalks=Tearstalks
     S:gt.crop.tine=Tine
-    S:gt.crop.tomatoplant=番茄 Plant
+    S:gt.crop.tomatoplant=番茄
     S:gt.crop.whitecurrants=白色 Currants
     S:gt.crop.withereed=枯树
+    S:gt.crop.yellowappletree=黄苹果树
     S:gt.display.fluid.name=流体显示器
     S:gt.drink.applevinegar=
     S:gt.drink.blackberryjuice=Made of Smartphones!
@@ -1211,11 +1215,12 @@ languagefile {
     S:gt.drink.canevinegar=
     S:gt.drink.carrotjuice=Not scientifically proven to improve eyesight!
     S:gt.drink.chocolatecream=
+    S:gt.drink.chocolatemilk=Sweet Goodness
     S:gt.drink.cranberryjuice=Made of real Cranes!
     S:gt.drink.cream=
     S:gt.drink.for.honey=Bee careful with it
     S:gt.drink.for.honeydew=Sweet sweet Honeydew
-    S:gt.drink.glue=Do not eat!
+    S:gt.drink.glue=不要尝试喝它!
     S:gt.drink.goldencarrotjuice=A golden Carrot in liquid form
     S:gt.drink.gooseberryjuice=Made of real Geese!
     S:gt.drink.holywater=May the holy Planks be with you
@@ -1241,14 +1246,19 @@ languagefile {
     S:gt.drink.potion.awkward=well, that's awkward
     S:gt.drink.potion.bananajuice=又大又多汁的大香蕉
     S:gt.drink.potion.beer=老牌好啤酒
+    S:gt.drink.potion.cafeaulait=Sweet Coffee
     S:gt.drink.potion.cavejohnsonsgrenadejuice=当你的生活给你了柠檬，把你的柠檬还回去！
     S:gt.drink.potion.chillysauce=辣死啦
     S:gt.drink.potion.cider=如果你的苹果已经没什么卵用辣
+    S:gt.drink.potion.coffee=Just the regular morning Coffee
     S:gt.drink.potion.damage=瞬间伤害 I
     S:gt.drink.potion.damage.splash=瞬间伤害 I
     S:gt.drink.potion.damage.strong=瞬间伤害 II
     S:gt.drink.potion.damage.strong.splash=瞬间伤害 II
     S:gt.drink.potion.darkbeer=黑啤酒，真男人的饮料！
+    S:gt.drink.potion.darkcafeaulait=Keeping you awake the whole night
+    S:gt.drink.potion.darkchocolatemilk=A bit bitter, better add a bit Sugar
+    S:gt.drink.potion.darkcoffee=Coffee, dark, without anything else
     S:gt.drink.potion.diablosauce=Diablo always comes back!
     S:gt.drink.potion.diablosauce.strong=[Missing No]
     S:gt.drink.potion.diabolosauce=As if the Devil made this Sauce
@@ -1268,11 +1278,13 @@ languagefile {
     S:gt.drink.potion.health.strong.splash=瞬间恢复 II
     S:gt.drink.potion.hopsjuice=所有啤酒的起源
     S:gt.drink.potion.hotsauce=我猜这个可能很辣？
+    S:gt.drink.potion.icetea=Better than this purple Junk Drink from failed Potions
     S:gt.drink.potion.idunsapplejuice=So you got the Idea of using Notch Apples for a drink?
     S:gt.drink.potion.invisibility=隐身 (3:00)
     S:gt.drink.potion.invisibility.long=隐身 (8:00)
     S:gt.drink.potion.invisibility.long.splash=隐身 (6:00)
     S:gt.drink.potion.invisibility.splash=隐身 (2:15)
+    S:gt.drink.potion.laitaucafe=You want Coffee to your Sugar?
     S:gt.drink.potion.lemonade=冰凉爽快的柠檬汁（这不是雪碧！）
     S:gt.drink.potion.lemonjuice=加一些糖可以让它不那么酸
     S:gt.drink.potion.leninade=Let the Communism flow through you!
@@ -1316,20 +1328,22 @@ languagefile {
     S:gt.drink.potion.speed.splash=速度 I (2:15)
     S:gt.drink.potion.speed.strong=速度 II (1:30)
     S:gt.drink.potion.speed.strong.splash=速度 II (1:07)
-    S:gt.drink.potion.strawberryjuice=Where is the Straw for that 梅 果汁?
+    S:gt.drink.potion.strawberryjuice=Where is the Straw for that berry juice?
     S:gt.drink.potion.strength=Strength I (3:00)
     S:gt.drink.potion.strength.long=Strength I (8:00)
     S:gt.drink.potion.strength.long.splash=Strength I (6:00)
     S:gt.drink.potion.strength.splash=Strength I (2:15)
     S:gt.drink.potion.strength.strong=Strength II (1:30)
     S:gt.drink.potion.strength.strong.splash=Strength II (1:07)
+    S:gt.drink.potion.sweettea=How about a Tea Party? In Boston?
+    S:gt.drink.potion.tea=Keep calm and carry on
     S:gt.drink.potion.thick=thick and gooey
     S:gt.drink.potion.vinegar=Exquisite
     S:gt.drink.potion.vodka=Not to confuse with Water
-    S:gt.drink.potion.waterbreathing=Water Breathing (3:00)
-    S:gt.drink.potion.waterbreathing.long=Water Breathing (8:00)
-    S:gt.drink.potion.waterbreathing.long.splash=Water Breathing (6:00)
-    S:gt.drink.potion.waterbreathing.splash=Water Breathing (2:15)
+    S:gt.drink.potion.waterbreathing=水下呼吸 (3:00)
+    S:gt.drink.potion.waterbreathing.long=水下呼吸 (8:00)
+    S:gt.drink.potion.waterbreathing.long.splash=水下呼吸 (6:00)
+    S:gt.drink.potion.waterbreathing.splash=水下呼吸 (2:15)
     S:gt.drink.potion.weakness=虚弱 (1:30)
     S:gt.drink.potion.weakness.long=虚弱 (4:00)
     S:gt.drink.potion.weakness.long.splash=虚弱 (3:00)
@@ -1406,7 +1420,7 @@ languagefile {
     S:gt.lang.pipe.stats.stepsize=Stepsize:
     S:gt.lang.proof.acid=Can handle Acidous Substances
     S:gt.lang.proof.gas=Can handle Gaseous Substances
-    S:gt.lang.proof.plasma=Can handle Plasma
+    S:gt.lang.proof.plasma=可以存储等离子
     S:gt.lang.railspeed=车速限制: 
     S:gt.lang.recipe=配方
     S:gt.lang.recipes=配方
@@ -1416,10 +1430,12 @@ languagefile {
     S:gt.lang.recipes.grindstone.init=为了能让它使用，需要添加沙石。
     S:gt.lang.recipes.grindstone.usage=用你想打磨的物品多次点击它。
     S:gt.lang.recipes.igniter=用于执行打火石的右键操作和点燃方块
+    S:gt.lang.recipes.juicer.usage=Rightclick with the Item you want to get Juice from
     S:gt.lang.recipes.mixingbowl.usage=从上方放入物品/液体并右键
     S:gt.lang.recipes.mold=这个模具生产
     S:gt.lang.recipes.mold.coinage=放置小块金属板在上面,锤它并且取回硬币
     S:gt.lang.recipes.mold.select=使用一个凿子选择模具的形状
+    S:gt.lang.recipes.mortar.usage=右键你想变成粉末的方块
     S:gt.lang.recipes.quality=挖掘等级
     S:gt.lang.recipes.sifter.usage=在顶面输入并且右击它
     S:gt.lang.requirement.air.front=正面需要是空气才能工作
@@ -2029,13 +2045,14 @@ languagefile {
     S:gt.material.Apatite=磷灰石
     S:gt.material.AquaRegia=王水
     S:gt.material.Aquamarine=海蓝宝石
-    S:gt.material.ArcaneAsh=ArcaneAsh
+    S:gt.material.ArcaneAsh=奥术灰
     S:gt.material.ArcaneAshes=奥术灰
-    S:gt.material.ArcaneCompound=Arcane Compound
+    S:gt.material.ArcaneCompound=压缩奥术灰
     S:gt.material.Ardite=阿迪特
     S:gt.material.Aredrite=希尔金
     S:gt.material.Argon=氩
     S:gt.material.Arsenic=砷
+    S:gt.material.Arsenopyrite=Arsenopyrite
     S:gt.material.Asbestos=石棉
     S:gt.material.Ash=灰烬
     S:gt.material.AshDark=黑色灰烬
@@ -2195,7 +2212,7 @@ languagefile {
     S:gt.material.Bohrium=𬭛
     S:gt.material.Bone=骨头
     S:gt.material.Borax=硼砂
-    S:gt.material.BoricAcid=BoricAcid
+    S:gt.material.BoricAcid=硼酸
     S:gt.material.Boron=硼
     S:gt.material.Brass=黄铜
     S:gt.material.Brick=砖
@@ -2210,6 +2227,8 @@ languagefile {
     S:gt.material.Caesium=铯
     S:gt.material.Calcite=方解石
     S:gt.material.Calcium=钙
+    S:gt.material.CalciumSulfate=Calcium Sulfate
+    S:gt.material.CalciumSulphate=CalciumSulphate
     S:gt.material.Californium=锎
     S:gt.material.Carbide=碳化物
     S:gt.material.Carbon=碳
@@ -2437,6 +2456,7 @@ languagefile {
     S:gt.material.Grossular=钙铝榴石
     S:gt.material.Gunpowder=火药
     S:gt.material.Gypsum=石膏
+    S:gt.material.Gyubnera=Gyubnera
     S:gt.material.HOPGraphite=高氧压石墨
     S:gt.material.HSLA=HSLA
     S:gt.material.HSLASpringSteel=弹簧钢
@@ -2458,6 +2478,7 @@ languagefile {
     S:gt.material.HydrochloricAcid=盐酸
     S:gt.material.Hydrogen=氢
     S:gt.material.HydrogenBorate=硼酸氢盐
+    S:gt.material.HydrogenFluoride=氟化氢
     S:gt.material.HydrogenPeroxide=过氧化氢
     S:gt.material.Ice=冰
     S:gt.material.Ignatius=伊格内修斯
@@ -2504,7 +2525,7 @@ languagefile {
     S:gt.material.Kalium=钾
     S:gt.material.Kanthal=铁铬铝合金
     S:gt.material.Kaolinite=高岭石
-    S:gt.material.Kerosine=Kerosine
+    S:gt.material.Kerosine=煤油
     S:gt.material.Kesterite=锌黄锡矿
     S:gt.material.KnightMetal=骑士金属
     S:gt.material.Knightmetal=骑士金属
@@ -4148,6 +4169,20 @@ languagefile {
     S:gt.multiitem.food.2004.tooltip=就像一块普通的巧克力曲奇 >:D
     S:gt.multiitem.food.2005.name=曲奇
     S:gt.multiitem.food.2005.tooltip=
+    S:gt.multiitem.food.210.name=Apple
+    S:gt.multiitem.food.210.tooltip=
+    S:gt.multiitem.food.211.name=Apple Slice
+    S:gt.multiitem.food.211.tooltip=
+    S:gt.multiitem.food.220.name=Apple
+    S:gt.multiitem.food.220.tooltip=
+    S:gt.multiitem.food.221.name=Apple Slice
+    S:gt.multiitem.food.221.tooltip=
+    S:gt.multiitem.food.231.name=Apple Slice
+    S:gt.multiitem.food.231.tooltip=
+    S:gt.multiitem.food.240.name=Apple
+    S:gt.multiitem.food.240.tooltip=
+    S:gt.multiitem.food.241.name=Apple Slice
+    S:gt.multiitem.food.241.tooltip=
     S:gt.multiitem.food.30.name=洋葱
     S:gt.multiitem.food.30.tooltip=一发入魂
     S:gt.multiitem.food.3000.name=蛋糕底座（未烤制）
@@ -4463,6 +4498,10 @@ languagefile {
     S:gt.multiitem.randomtools.2004.tooltip=木馏油
     S:gt.multiitem.randomtools.2005.name=木桶
     S:gt.multiitem.randomtools.2005.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2006.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2006.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2007.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2007.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.2100.name=木桶
     S:gt.multiitem.randomtools.2100.tooltip=空
     S:gt.multiitem.randomtools.2101.name=木桶
@@ -4475,6 +4514,10 @@ languagefile {
     S:gt.multiitem.randomtools.2104.tooltip=杂酚油
     S:gt.multiitem.randomtools.2105.name=木桶
     S:gt.multiitem.randomtools.2105.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2106.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2106.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2107.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2107.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.2200.name=木桶
     S:gt.multiitem.randomtools.2200.tooltip=空
     S:gt.multiitem.randomtools.2201.name=木桶
@@ -4487,6 +4530,10 @@ languagefile {
     S:gt.multiitem.randomtools.2204.tooltip=木馏油
     S:gt.multiitem.randomtools.2205.name=木桶
     S:gt.multiitem.randomtools.2205.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2206.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2206.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2207.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2207.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.2300.name=木桶
     S:gt.multiitem.randomtools.2300.tooltip=空
     S:gt.multiitem.randomtools.2301.name=木桶
@@ -4499,6 +4546,10 @@ languagefile {
     S:gt.multiitem.randomtools.2304.tooltip=木馏油
     S:gt.multiitem.randomtools.2305.name=木桶
     S:gt.multiitem.randomtools.2305.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2306.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2306.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2307.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2307.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.2400.name=木桶
     S:gt.multiitem.randomtools.2400.tooltip=空
     S:gt.multiitem.randomtools.2401.name=木桶
@@ -4511,6 +4562,10 @@ languagefile {
     S:gt.multiitem.randomtools.2404.tooltip=木馏油
     S:gt.multiitem.randomtools.2405.name=木桶
     S:gt.multiitem.randomtools.2405.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2406.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2406.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2407.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2407.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.2500.name=木桶
     S:gt.multiitem.randomtools.2500.tooltip=空
     S:gt.multiitem.randomtools.2501.name=木桶
@@ -4523,6 +4578,10 @@ languagefile {
     S:gt.multiitem.randomtools.2504.tooltip=木馏油
     S:gt.multiitem.randomtools.2505.name=木桶
     S:gt.multiitem.randomtools.2505.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2506.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2506.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2507.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2507.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.2600.name=木桶
     S:gt.multiitem.randomtools.2600.tooltip=空
     S:gt.multiitem.randomtools.2601.name=木桶
@@ -4535,6 +4594,10 @@ languagefile {
     S:gt.multiitem.randomtools.2604.tooltip=木馏油
     S:gt.multiitem.randomtools.2605.name=木桶
     S:gt.multiitem.randomtools.2605.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2606.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2606.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2607.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2607.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.2700.name=木桶
     S:gt.multiitem.randomtools.2700.tooltip=空
     S:gt.multiitem.randomtools.2701.name=木桶
@@ -4547,6 +4610,10 @@ languagefile {
     S:gt.multiitem.randomtools.2704.tooltip=木馏油
     S:gt.multiitem.randomtools.2705.name=木桶
     S:gt.multiitem.randomtools.2705.tooltip=海水 (你不能放置它!)
+    S:gt.multiitem.randomtools.2706.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2706.tooltip=Rubber Tree Sap
+    S:gt.multiitem.randomtools.2707.name=Wooden Bucket
+    S:gt.multiitem.randomtools.2707.tooltip=Spruce Tree Resin
     S:gt.multiitem.randomtools.30000.name=铁钥匙
     S:gt.multiitem.randomtools.30000.tooltip=
     S:gt.multiitem.randomtools.30001.name=金钥匙
@@ -4786,6 +4853,10 @@ languagefile {
     S:gt.multiitem.technological.10904.tooltip=
     S:gt.multiitem.technological.10905.name=切片器刀片 (分割)
     S:gt.multiitem.technological.10905.tooltip=
+    S:gt.multiitem.technological.10906.name=Slicer Blades (Quarters)
+    S:gt.multiitem.technological.10906.tooltip=
+    S:gt.multiitem.technological.10907.name=Slicer Blades (Hollow Quarters)
+    S:gt.multiitem.technological.10907.tooltip=
     S:gt.multiitem.technological.11000.name=空的气体-激光镭射器
     S:gt.multiitem.technological.11000.tooltip=用于制造镭射器
     S:gt.multiitem.technological.11001.name=氦激光镭射器
@@ -5451,12 +5522,14 @@ languagefile {
     S:gt.multitileentity.1402.name=燃烧室 (液体, 青铜)
     S:gt.multitileentity.1403.name=燃烧室 (液体, 因瓦合金)
     S:gt.multitileentity.1404.name=燃烧室 (液体, 钢)
+    S:gt.multitileentity.1405.name=Burning Box (Liquid, Chromium)
     S:gt.multitileentity.1406.name=燃烧室 (液体, 钛)
     S:gt.multitileentity.1407.name=燃烧室 (液体, 钨)
     S:gt.multitileentity.1408.name=燃烧室 (液体, 钨钢)
     S:gt.multitileentity.1452.name=致密燃烧室 (液体, 青铜)
     S:gt.multitileentity.1453.name=致密燃烧室 (液体, 因瓦合金)
     S:gt.multitileentity.1454.name=致密燃烧室 (液体, 钢)
+    S:gt.multitileentity.1455.name=Dense Burning Box (Liquid, Chromium)
     S:gt.multitileentity.1456.name=致密燃烧室 (液体, 钛)
     S:gt.multitileentity.1457.name=致密燃烧室 (液体, 钨)
     S:gt.multitileentity.1458.name=致密燃烧室 (液体, 钨钢)
@@ -5489,12 +5562,14 @@ languagefile {
     S:gt.multitileentity.1602.name=燃烧室 (气体, 青铜)
     S:gt.multitileentity.1603.name=燃烧室 (气体, 因瓦合金)
     S:gt.multitileentity.1604.name=燃烧室 (气体, 钢)
+    S:gt.multitileentity.1605.name=Burning Box (Gas, Chromium)
     S:gt.multitileentity.1606.name=燃烧室 (气体, 钛)
     S:gt.multitileentity.1607.name=燃烧室 (气体, 钨)
     S:gt.multitileentity.1608.name=燃烧室 (气体, 钨钢)
     S:gt.multitileentity.1652.name=致密燃烧室 (气体, 青铜)
     S:gt.multitileentity.1653.name=致密燃烧室 (气体, 因瓦合金)
     S:gt.multitileentity.1654.name=致密燃烧室 (气体, 钢)
+    S:gt.multitileentity.1655.name=Dense Burning Box (Gas, Chromium)
     S:gt.multitileentity.1656.name=致密燃烧室 (气体, 钛)
     S:gt.multitileentity.1657.name=致密燃烧室 (气体, 钨)
     S:gt.multitileentity.1658.name=致密燃烧室 (气体, 钨钢)
@@ -5919,6 +5994,13 @@ languagefile {
     S:gt.multitileentity.26264.name=巨型镀锌钢流体管道
     S:gt.multitileentity.26265.name=四合一镀锌钢流体管道
     S:gt.multitileentity.26266.name=九合一镀锌钢流体管道
+    S:gt.multitileentity.26280.name=Tiny Chromium Fluid Pipe
+    S:gt.multitileentity.26281.name=Small Chromium Fluid Pipe
+    S:gt.multitileentity.26282.name=Chromium Fluid Pipe
+    S:gt.multitileentity.26283.name=Large Chromium Fluid Pipe
+    S:gt.multitileentity.26284.name=Huge Chromium Fluid Pipe
+    S:gt.multitileentity.26285.name=Quadruple Chromium Fluid Pipe
+    S:gt.multitileentity.26286.name=Nonuple Chromium Fluid Pipe
     S:gt.multitileentity.26300.name=微型艾德曼合金流体管道
     S:gt.multitileentity.26301.name=小型艾德曼合金流体管道
     S:gt.multitileentity.26302.name=艾德曼合金流体管道
@@ -6335,6 +6417,7 @@ languagefile {
     S:gt.multitileentity.32732.name=埃德曼合金Tap
     S:gt.multitileentity.32733.name=Wooden Barrel (Cheap)
     S:gt.multitileentity.32734.name=Ironwood Barrel
+    S:gt.multitileentity.32735.name=Mortar
     S:gt.multitileentity.32763.name=液体泉
     S:gt.multitileentity.32764.name=Supporter Certificate
     S:gt.multitileentity.32765.name=脚手架建筑泡沫方块
@@ -6688,6 +6771,7 @@ languagefile {
     S:gt.recipe.metalbender=卷板机
     S:gt.recipe.microwave=微波炉
     S:gt.recipe.mixer=搅拌机
+    S:gt.recipe.mortar=Mortar
     S:gt.recipe.packager=打包器
     S:gt.recipe.plasmaarcfurnace=等离子电弧炉
     S:gt.recipe.plasmageneratorfuels=等离子发电机燃料
@@ -7576,6 +7660,7 @@ languagefile {
     S:itemGroup.wireFine=优良线缆
     S:mc.recipe.furnace=熔炉
     S:mc.recipe.furnacefuel=熔炉燃料 (熔炼一次等于5000单位)
+    S:oredict.arrowGtPlasticAdamantine.name=Light Adamantine Arrow
     S:oredict.arrowGtPlasticAdamantium.name=轻质艾德曼合金箭
     S:oredict.arrowGtPlasticAlmandine.name=轻铁铝箭
     S:oredict.arrowGtPlasticAluminium.name=轻质铝箭
@@ -7813,6 +7898,7 @@ languagefile {
     S:oredict.arrowGtPlasticredSteel.name=轻质红钢箭
     S:oredict.arrowGtPlasticredrock.name=轻质redrock箭
     S:oredict.arrowGtPlasticyellowSapphire.name=轻质黄色蓝宝石箭
+    S:oredict.arrowGtWoodAdamantine.name=Adamantine Arrow
     S:oredict.arrowGtWoodAdamantium.name=艾德曼合金箭
     S:oredict.arrowGtWoodAlmandine.name=铁铝榴石箭
     S:oredict.arrowGtWoodAluminium.name=铝箭
@@ -8051,6 +8137,7 @@ languagefile {
     S:oredict.arrowGtWoodredrock.name=红岩箭
     S:oredict.arrowGtWoodyellowSapphire.name=黄色蓝宝石箭
     S:oredict.blockDustActinium.name=锕粉块
+    S:oredict.blockDustAdamantine.name=Block of Adamantine Dust
     S:oredict.blockDustAdamantium.name=艾德曼合金粉块
     S:oredict.blockDustAerotheum.name=和谐之和谐之空气块
     S:oredict.blockDustAlduorite.name=神秘蓝金粉块
@@ -8203,10 +8290,11 @@ languagefile {
     S:oredict.blockDustApatite.name=磷灰石粉块
     S:oredict.blockDustAquamarine.name=海蓝宝石粉块
     S:oredict.blockDustArcaneAshes.name=奥术灰 块
-    S:oredict.blockDustArcaneCompound.name=Arcane Compound 块
+    S:oredict.blockDustArcaneCompound.name=压缩奥术灰 块
     S:oredict.blockDustArdite.name=阿迪特 粉块
     S:oredict.blockDustAredrite.name=阿迪特粉块
     S:oredict.blockDustArsenic.name=砷粉块
+    S:oredict.blockDustArsenopyrite.name=Block of Arsenopyrite Dust
     S:oredict.blockDustAsbestos.name=石棉粉块
     S:oredict.blockDustAshes.name=灰烬块
     S:oredict.blockDustAsphalt.name=沥青块
@@ -8260,6 +8348,7 @@ languagefile {
     S:oredict.blockDustCaesium.name=铯粉块
     S:oredict.blockDustCalcite.name=方解石粉块
     S:oredict.blockDustCalcium.name=钙粉块
+    S:oredict.blockDustCalciumSulfate.name=Block of Calcium Sulfate Dust
     S:oredict.blockDustCalifornium.name=锎粉块
     S:oredict.blockDustCarbon.name=碳粉块
     S:oredict.blockDustCarbon13.name=碳-13粉块
@@ -8381,6 +8470,7 @@ languagefile {
     S:oredict.blockDustFlerovium298.name=𫓧-298粉块
     S:oredict.blockDustFlint.name=燧石粉块
     S:oredict.blockDustFluorine.name=氟粉块
+    S:oredict.blockDustFluorite.name=Block of Fluorite Dust
     S:oredict.blockDustFoolsRuby.name=红宝石粉块
     S:oredict.blockDustForce.name=力量粉块
     S:oredict.blockDustForcicium.name=力场粉块
@@ -8897,6 +8987,7 @@ languagefile {
     S:oredict.blockGemorangeSapphire.name=橙色蓝宝石块
     S:oredict.blockGemyellowSapphire.name=黄色蓝宝石块
     S:oredict.blockIngotActinium.name=锕锭块
+    S:oredict.blockIngotAdamantine.name=Block of Adamantine Ingot
     S:oredict.blockIngotAdamantium.name=艾德曼合金锭块
     S:oredict.blockIngotAlduorite.name=神秘蓝金锭块
     S:oredict.blockIngotAluminium.name=铝锭块
@@ -9285,6 +9376,7 @@ languagefile {
     S:oredict.blockIngotmeatRaw.name=生肉锭块
     S:oredict.blockIngotplatinum.name=铂锭块
     S:oredict.blockPlateActinium.name=锕板块
+    S:oredict.blockPlateAdamantine.name=Block of Adamantine Plate
     S:oredict.blockPlateAdamantium.name=艾德曼合金板块
     S:oredict.blockPlateAlduorite.name=神秘蓝金板块
     S:oredict.blockPlateAluminium.name=铝板块
@@ -9792,6 +9884,7 @@ languagefile {
     S:oredict.blockPlatelead.name=铅板块
     S:oredict.blockPlateplatinum.name=铂板块
     S:oredict.blockSolidActinium.name=锕块
+    S:oredict.blockSolidAdamantine.name=Block of solid Adamantine
     S:oredict.blockSolidAdamantium.name=艾德曼合金块
     S:oredict.blockSolidAlduorite.name=神秘蓝金块
     S:oredict.blockSolidAluminium.name=铝块
@@ -10179,6 +10272,7 @@ languagefile {
     S:oredict.blockSolidmeatCooked.name=熟肉块
     S:oredict.blockSolidmeatRaw.name=生肉块
     S:oredict.blockSolidplatinum.name=铂块
+    S:oredict.boltAdamantine.name=Adamantine Bolt
     S:oredict.boltAdamantium.name=艾德曼合金螺栓
     S:oredict.boltAlmandine.name=铁铝榴石 螺栓
     S:oredict.boltAluminium.name=铝螺栓
@@ -10441,6 +10535,7 @@ languagefile {
     S:oredict.bouleEmpty.name=空 Boule
     S:oredict.bouleRedstoneAlloy.name=人造单晶红硅
     S:oredict.bouleSilicon.name=单晶硅
+    S:oredict.casingMachineAdamantine.name=Adamantine Machine Casing
     S:oredict.casingMachineAdamantium.name=艾德曼合金机器外壳
     S:oredict.casingMachineAluminium.name=铝 机器外壳
     S:oredict.casingMachineAluminiumAlloy.name=铝合金 机器外壳
@@ -10483,6 +10578,7 @@ languagefile {
     S:oredict.casingMachineDarkSteel.name=玄钢 机器外壳
     S:oredict.casingMachineDarkThaumium.name=黑暗神秘锭 机器外壳
     S:oredict.casingMachineDeepIron.name=深渊铁 机器外壳
+    S:oredict.casingMachineDenseAdamantine.name=Dense Adamantine Machine Casing
     S:oredict.casingMachineDenseAdamantium.name=Dense艾德曼合金 机器外壳
     S:oredict.casingMachineDenseAluminium.name=致密 铝机器外壳
     S:oredict.casingMachineDenseAluminiumAlloy.name=致密 铝合金 机器外壳
@@ -10643,6 +10739,7 @@ languagefile {
     S:oredict.casingMachineDenseplatinum.name=致密 铂 机器外壳
     S:oredict.casingMachineDesh.name=戴斯 机器外壳
     S:oredict.casingMachineDesichalkos.name=虚空之魂石 机器外壳
+    S:oredict.casingMachineDoubleAdamantine.name=Robust Adamantine Machine Casing
     S:oredict.casingMachineDoubleAdamantium.name=加强艾德曼合金 机器外壳
     S:oredict.casingMachineDoubleAluminium.name=加强 铝机器外壳
     S:oredict.casingMachineDoubleAluminiumAlloy.name=加强 铝合金 机器外壳
@@ -10795,13 +10892,13 @@ languagefile {
     S:oredict.casingMachineDoubleVyroxeres.name=加强 Vyroxeres 机器外壳
     S:oredict.casingMachineDoubleWroughtIron.name=加强 熟铁 机器外壳
     S:oredict.casingMachineDoubleZirconium.name=加强 锆 机器外壳
+    S:oredict.casingMachineDoubleadamantium.name=加强艾德曼合金 机器外壳
     S:oredict.casingMachineDoubleblackBronze.name=加强 黑色 青铜 机器外壳
     S:oredict.casingMachineDoubleblackSteel.name=加强 碳钢 机器外壳
     S:oredict.casingMachineDoublegold.name=加强 金 机器外壳
     S:oredict.casingMachineDoublegoldInductive.name=加强 感应合金 机器外壳
     S:oredict.casingMachineDoublelead.name=加强 铅机器外壳
     S:oredict.casingMachineDoubleplatinum.name=加强 铂 机器外壳
-    S:oredict.casingMachineDoubleadamantium.name=加强艾德曼合金 机器外壳
     S:oredict.casingMachineDraconium.name=龙锭 机器外壳
     S:oredict.casingMachineDraconiumAwakened.name=觉醒龙锭 机器外壳
     S:oredict.casingMachineDuranium.name=钍瑞铌 机器外壳
@@ -10867,6 +10964,7 @@ languagefile {
     S:oredict.casingMachinePlutonium243.name=钚-243 机器外壳
     S:oredict.casingMachinePrometheum.name=Prometheum 机器外壳
     S:oredict.casingMachinePulsatingIron.name=脉冲铁 机器外壳
+    S:oredict.casingMachineQuadrupleAdamantine.name=Reinforced Adamantine Machine Casing
     S:oredict.casingMachineQuadrupleAdamantium.name=Reinforced艾德曼合金 机器外壳
     S:oredict.casingMachineQuadrupleAluminium.name=高强度 铝机器外壳
     S:oredict.casingMachineQuadrupleAluminiumAlloy.name=高强度 铝合金 机器外壳
@@ -11075,6 +11173,7 @@ languagefile {
     S:oredict.casingMachinegoldInductive.name=感应合金 机器外壳
     S:oredict.casingMachinelead.name=铅机器外壳
     S:oredict.casingMachineplatinum.name=铂 机器外壳
+    S:oredict.casingSmallAdamantine.name=Adamantine Item Casing
     S:oredict.casingSmallAdamantium.name=艾德曼合金外壳
     S:oredict.casingSmallAlmandine.name=铁铝榴石 外壳
     S:oredict.casingSmallAluminium.name=铝外壳
@@ -11390,9 +11489,10 @@ languagefile {
     S:oredict.cellHoneydew.name=甘露单元
     S:oredict.cellHydrochloricAcid.name=盐酸单元
     S:oredict.cellHydrogen.name=Hydrogen单元
+    S:oredict.cellHydrogenFluoride.name=氟化氢 Cell
     S:oredict.cellHydrogenPeroxide.name=过氧化氢 Cell
     S:oredict.cellIce.name=冰单元
-    S:oredict.cellKerosine.name=Kerosine 单元
+    S:oredict.cellKerosine.name=煤油 单元
     S:oredict.cellKrypton.name=氪单元
     S:oredict.cellLatex.name=天然胶液单元
     S:oredict.cellLubricant.name=润滑剂 单元
@@ -11472,7 +11572,7 @@ languagefile {
     S:oredict.cellRadon.name=Radon单元
     S:oredict.cellRedVitriol.name=红色硫酸盐 单元
     S:oredict.cellSaltWater.name=盐水 单元
-    S:oredict.cellSeawater.name=海水 Cell
+    S:oredict.cellSeaWater.name=Sea Water Cell
     S:oredict.cellSeawater.name=海水 Cell
     S:oredict.cellSeedOil.name=种子油 单元
     S:oredict.cellSeedOilHemp.name=Hemp 种子 油 单元
@@ -11494,6 +11594,7 @@ languagefile {
     S:oredict.cellpinkVitriol.name=粉色硫酸盐 单元
     S:oredict.cellwhiteVitriol.name=白色硫酸盐 单元
     S:oredict.chemtubeActinium.name=锕 试管
+    S:oredict.chemtubeAdamantine.name=Glass Tube containing Adamantine
     S:oredict.chemtubeAdamantium.name=艾德曼合金 试管
     S:oredict.chemtubeAerotheum.name=和谐之空气 试管
     S:oredict.chemtubeAir.name=空气 试管
@@ -11940,11 +12041,12 @@ languagefile {
     S:oredict.chemtubeAquaRegia.name=Aqua Regia 试管
     S:oredict.chemtubeAquamarine.name=Aquamarine 试管
     S:oredict.chemtubeArcaneAshes.name=奥术灰 试管
-    S:oredict.chemtubeArcaneCompound.name=Arcane Compound 试管
+    S:oredict.chemtubeArcaneCompound.name=压缩奥术灰 试管
     S:oredict.chemtubeArdite.name=Ardite 试管
     S:oredict.chemtubeAredrite.name=阿迪特 试管
     S:oredict.chemtubeArgon.name=氩 试管
     S:oredict.chemtubeArsenic.name=砷 试管
+    S:oredict.chemtubeArsenopyrite.name=Glass Tube containing Arsenopyrite
     S:oredict.chemtubeAsbestos.name=石棉 试管
     S:oredict.chemtubeAshes.name=灰烬 试管
     S:oredict.chemtubeAsphalt.name=Glass Tube containing 沥青 试管
@@ -12101,6 +12203,7 @@ languagefile {
     S:oredict.chemtubeCaesium.name=铯 试管
     S:oredict.chemtubeCalcite.name=方解石 试管
     S:oredict.chemtubeCalcium.name=钙 试管
+    S:oredict.chemtubeCalciumSulfate.name=Glass Tube containing Calcium Sulfate
     S:oredict.chemtubeCalifornium.name=锎 试管
     S:oredict.chemtubeCarbon.name=碳 试管
     S:oredict.chemtubeCarbon13.name=碳-13 试管
@@ -12234,6 +12337,7 @@ languagefile {
     S:oredict.chemtubeFlerovium298.name=𫓧-298 试管
     S:oredict.chemtubeFlint.name=燧石 试管
     S:oredict.chemtubeFluorine.name=氟 试管
+    S:oredict.chemtubeFluorite.name=Glass Tube containing Fluorite
     S:oredict.chemtubeFoolsRuby.name=红宝石 试管
     S:oredict.chemtubeForce.name=力量 试管
     S:oredict.chemtubeForcicium.name=力场 试管
@@ -12302,6 +12406,7 @@ languagefile {
     S:oredict.chemtubeHydrochloricAcid.name=Hydrochloric 酸 试管
     S:oredict.chemtubeHydrogen.name=Hydrogen 试管
     S:oredict.chemtubeHydrogenBorate.name=Glass Tube containing 硼酸氢盐
+    S:oredict.chemtubeHydrogenFluoride.name=Glass Tube containing 氟化氢
     S:oredict.chemtubeHydrogenPeroxide.name=Glass Tube containing 过氧化氢
     S:oredict.chemtubeIce.name=冰 试管
     S:oredict.chemtubeIgnatius.name=伊格内修斯 试管
@@ -12331,7 +12436,7 @@ languagefile {
     S:oredict.chemtubeKalendrite.name=幽冥魂石 试管
     S:oredict.chemtubeKanthal.name=铁铬铝合金 试管
     S:oredict.chemtubeKaolinite.name=高岭石 试管
-    S:oredict.chemtubeKerosine.name=Kerosine 试管
+    S:oredict.chemtubeKerosine.name=煤油 试管
     S:oredict.chemtubeKesterite.name=锌黄锡矿 试管
     S:oredict.chemtubeKnightmetal.name=骑士金属 试管
     S:oredict.chemtubeKomatiite.name=科马提岩 试管
@@ -12898,6 +13003,7 @@ languagefile {
     S:oredict.chemtubeyellowLimonite.name=黄色褐铁矿试管
     S:oredict.chemtubeyellowSapphire.name=黄色蓝宝石试管
     S:oredict.chunkGtActinium.name=锕小块
+    S:oredict.chunkGtAdamantine.name=Adamantine Chunk
     S:oredict.chunkGtAdamantium.name=艾德曼合金小块
     S:oredict.chunkGtAlduorite.name=神秘蓝金小块
     S:oredict.chunkGtAluminium.name=铝小块
@@ -13286,6 +13392,7 @@ languagefile {
     S:oredict.chunkGtmeatRaw.name=粗糙的肉小块
     S:oredict.chunkGtplatinum.name=铂小块
     S:oredict.crateGtDustActinium.name=锕粉板条箱
+    S:oredict.crateGtDustAdamantine.name=Crate of Adamantine Dust
     S:oredict.crateGtDustAdamantium.name=艾德曼合金粉板条箱
     S:oredict.crateGtDustAerotheum.name=和谐之和谐之空气板条箱
     S:oredict.crateGtDustAlduorite.name=神秘蓝金粉板条箱
@@ -13438,10 +13545,11 @@ languagefile {
     S:oredict.crateGtDustApatite.name=磷灰石粉板条箱
     S:oredict.crateGtDustAquamarine.name=Aquamarine粉板条箱
     S:oredict.crateGtDustArcaneAshes.name=奥术灰板条箱
-    S:oredict.crateGtDustArcaneCompound.name=Arcane Compound板条箱
+    S:oredict.crateGtDustArcaneCompound.name=压缩奥术灰板条箱
     S:oredict.crateGtDustArdite.name=Ardite粉板条箱
     S:oredict.crateGtDustAredrite.name=阿迪特粉板条箱
     S:oredict.crateGtDustArsenic.name=砷粉板条箱
+    S:oredict.crateGtDustArsenopyrite.name=Crate of Arsenopyrite Dust
     S:oredict.crateGtDustAsbestos.name=石棉粉板条箱
     S:oredict.crateGtDustAshes.name=灰烬板条箱
     S:oredict.crateGtDustAsphalt.name=沥青板条箱
@@ -13495,6 +13603,7 @@ languagefile {
     S:oredict.crateGtDustCaesium.name=铯粉板条箱
     S:oredict.crateGtDustCalcite.name=方解石粉板条箱
     S:oredict.crateGtDustCalcium.name=钙粉板条箱
+    S:oredict.crateGtDustCalciumSulfate.name=Crate of Calcium Sulfate Dust
     S:oredict.crateGtDustCalifornium.name=锎粉板条箱
     S:oredict.crateGtDustCarbon.name=碳粉板条箱
     S:oredict.crateGtDustCarbon13.name=碳-13粉板条箱
@@ -13616,6 +13725,7 @@ languagefile {
     S:oredict.crateGtDustFlerovium298.name=𫓧-298粉板条箱
     S:oredict.crateGtDustFlint.name=燧石粉板条箱
     S:oredict.crateGtDustFluorine.name=氟粉板条箱
+    S:oredict.crateGtDustFluorite.name=Crate of Fluorite Dust
     S:oredict.crateGtDustFoolsRuby.name=红宝石粉板条箱
     S:oredict.crateGtDustForce.name=力量粉板条箱
     S:oredict.crateGtDustForcicium.name=力场粉板条箱
@@ -14131,6 +14241,7 @@ languagefile {
     S:oredict.crateGtGemorangeSapphire.name=橙色蓝宝石板条箱
     S:oredict.crateGtGemyellowSapphire.name=黄色蓝宝石板条箱
     S:oredict.crateGtIngotActinium.name=锕锭板条箱
+    S:oredict.crateGtIngotAdamantine.name=Crate of Adamantine Ingot
     S:oredict.crateGtIngotAdamantium.name=艾德曼合金锭板条箱
     S:oredict.crateGtIngotAlduorite.name=神秘蓝金锭板条箱
     S:oredict.crateGtIngotAluminium.name=铝锭板条箱
@@ -14519,6 +14630,7 @@ languagefile {
     S:oredict.crateGtIngotmeatRaw.name=生肉锭板条箱
     S:oredict.crateGtIngotplatinum.name=铂锭板条箱
     S:oredict.crateGtPlateActinium.name=锕板板条箱
+    S:oredict.crateGtPlateAdamantine.name=Crate of Adamantine Plate
     S:oredict.crateGtPlateAdamantium.name=艾德曼合金板板条箱
     S:oredict.crateGtPlateAlduorite.name=神秘蓝金板板条箱
     S:oredict.crateGtPlateAluminium.name=铝板板条箱
@@ -15026,6 +15138,7 @@ languagefile {
     S:oredict.crateGtPlatelead.name=铅板板条箱
     S:oredict.crateGtPlateplatinum.name=铂板板条箱
     S:oredict.crushedActinium.name=粉碎锕矿
+    S:oredict.crushedAdamantine.name=Crushed Adamantine Ore
     S:oredict.crushedAdamantium.name=粉碎艾德曼合金矿
     S:oredict.crushedAlduorite.name=粉碎神秘蓝金矿
     S:oredict.crushedAlmandine.name=粉碎铁铝榴石矿
@@ -15172,6 +15285,7 @@ languagefile {
     S:oredict.crushedArdite.name=粉碎 Ardite 矿
     S:oredict.crushedAredrite.name=粉碎阿迪特 矿
     S:oredict.crushedArsenic.name=粉碎砷 矿
+    S:oredict.crushedArsenopyrite.name=Crushed Arsenopyrite Ore
     S:oredict.crushedAsbestos.name=粉碎石棉 矿
     S:oredict.crushedAstatine.name=粉碎砹 矿
     S:oredict.crushedAstralSilver.name=粉碎星辰银 矿
@@ -15211,6 +15325,7 @@ languagefile {
     S:oredict.crushedCassiteriteSand.name=粉碎锡石沙子
     S:oredict.crushedCelestine.name=粉碎天青石 矿
     S:oredict.crushedCentrifugedActinium.name=离心过的锕 矿
+    S:oredict.crushedCentrifugedAdamantine.name=Refined Adamantine Ore
     S:oredict.crushedCentrifugedAdamantium.name=离心过的艾德曼合金 矿
     S:oredict.crushedCentrifugedAlduorite.name=离心过的神秘蓝金 矿
     S:oredict.crushedCentrifugedAlmandine.name=离心过的铁铝榴石 矿
@@ -15357,6 +15472,7 @@ languagefile {
     S:oredict.crushedCentrifugedArdite.name=离心过的 Ardite 矿
     S:oredict.crushedCentrifugedAredrite.name=离心过的阿迪特 矿
     S:oredict.crushedCentrifugedArsenic.name=离心过的砷 矿
+    S:oredict.crushedCentrifugedArsenopyrite.name=Refined Arsenopyrite Ore
     S:oredict.crushedCentrifugedAsbestos.name=离心过的石棉 矿
     S:oredict.crushedCentrifugedAstatine.name=离心过的砹 矿
     S:oredict.crushedCentrifugedAstralSilver.name=离心过的星辰银 矿
@@ -15457,6 +15573,7 @@ languagefile {
     S:oredict.crushedCentrifugedFlerovium.name=离心过的𫓧 矿
     S:oredict.crushedCentrifugedFlerovium298.name=离心过的𫓧-298 矿
     S:oredict.crushedCentrifugedFluorine.name=离心过的氟 矿
+    S:oredict.crushedCentrifugedFluorite.name=Refined Fluorite Ore
     S:oredict.crushedCentrifugedFoolsRuby.name=离心过的红宝石 矿
     S:oredict.crushedCentrifugedForce.name=离心过的力量 矿
     S:oredict.crushedCentrifugedForcicium.name=离心过的力场 矿
@@ -15648,6 +15765,7 @@ languagefile {
     S:oredict.crushedCentrifugedThulium.name=离心过的铥 矿
     S:oredict.crushedCentrifugedTin.name=离心过的锡 矿
     S:oredict.crushedCentrifugedTinyActinium.name=小撮离心过的 锕 矿
+    S:oredict.crushedCentrifugedTinyAdamantine.name=Tiny Refined Adamantine Ore
     S:oredict.crushedCentrifugedTinyAdamantium.name=小撮离心过的艾德曼合金 矿
     S:oredict.crushedCentrifugedTinyAlduorite.name=小撮离心过的 Alduorite 矿
     S:oredict.crushedCentrifugedTinyAlmandine.name=小撮离心过的 Almandine 矿
@@ -15794,6 +15912,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyArdite.name=小撮离心过的Ardite 矿
     S:oredict.crushedCentrifugedTinyAredrite.name=小撮离心过的Aredrite 矿
     S:oredict.crushedCentrifugedTinyArsenic.name=小撮离心过的Arsenic 矿
+    S:oredict.crushedCentrifugedTinyArsenopyrite.name=Tiny Refined Arsenopyrite Ore
     S:oredict.crushedCentrifugedTinyAsbestos.name=小撮离心过的Asbestos 矿
     S:oredict.crushedCentrifugedTinyAstatine.name=小撮离心过的Astatine 矿
     S:oredict.crushedCentrifugedTinyAstralSilver.name=小撮离心过的星辰银 矿
@@ -15844,7 +15963,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyChromium.name=小撮离心过的Chromium 矿
     S:oredict.crushedCentrifugedTinyChrysotile.name=小撮离心过的Chrysotile 矿
     S:oredict.crushedCentrifugedTinyCinnabar.name=小撮离心过的Cinnabar 矿
-    S:oredict.crushedCentrifugedTinyCoal.name=小撮离心过的Coal 矿
+    S:oredict.crushedCentrifugedTinyCoal.name=小撮离心过的煤矿
     S:oredict.crushedCentrifugedTinyCoalCoke.name=Tiny Refined 焦煤 矿
     S:oredict.crushedCentrifugedTinyCobalt.name=小撮离心过的Cobalt 矿
     S:oredict.crushedCentrifugedTinyCobalt60.name=小撮离心过的钴-60 矿
@@ -15894,6 +16013,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyFlerovium.name=小撮离心过的𫓧 矿
     S:oredict.crushedCentrifugedTinyFlerovium298.name=小撮离心过的𫓧-298 矿
     S:oredict.crushedCentrifugedTinyFluorine.name=小撮离心过的氟 矿
+    S:oredict.crushedCentrifugedTinyFluorite.name=Tiny Refined Fluorite Ore
     S:oredict.crushedCentrifugedTinyFoolsRuby.name=小撮离心过的红宝石 矿
     S:oredict.crushedCentrifugedTinyForce.name=小撮离心过的Force 矿
     S:oredict.crushedCentrifugedTinyForcicium.name=小撮离心过的力场 矿
@@ -16248,6 +16368,7 @@ languagefile {
     S:oredict.crushedFlerovium.name=粉碎𫓧 矿
     S:oredict.crushedFlerovium298.name=粉碎𫓧-298 矿
     S:oredict.crushedFluorine.name=粉碎氟 矿
+    S:oredict.crushedFluorite.name=Crushed Fluorite Ore
     S:oredict.crushedFoolsRuby.name=粉碎红宝石 矿
     S:oredict.crushedForce.name=粉碎力量 矿
     S:oredict.crushedForcicium.name=粉碎力场 矿
@@ -16378,6 +16499,7 @@ languagefile {
     S:oredict.crushedProtactinium.name=粉碎镤 矿
     S:oredict.crushedPumice.name=粉碎Pumice 矿
     S:oredict.crushedPurifiedActinium.name=纯净锕 矿
+    S:oredict.crushedPurifiedAdamantine.name=Purified Adamantine Ore
     S:oredict.crushedPurifiedAdamantium.name=纯净艾德曼合金 矿
     S:oredict.crushedPurifiedAlduorite.name=纯净神秘蓝金 矿
     S:oredict.crushedPurifiedAlmandine.name=纯净铁铝榴石 矿
@@ -16524,6 +16646,7 @@ languagefile {
     S:oredict.crushedPurifiedArdite.name=纯净 Ardite 矿
     S:oredict.crushedPurifiedAredrite.name=纯净阿迪特 矿
     S:oredict.crushedPurifiedArsenic.name=纯净砷 矿
+    S:oredict.crushedPurifiedArsenopyrite.name=Purified Arsenopyrite Ore
     S:oredict.crushedPurifiedAsbestos.name=纯净石棉 矿
     S:oredict.crushedPurifiedAstatine.name=纯净砹 矿
     S:oredict.crushedPurifiedAstralSilver.name=纯净星辰银 矿
@@ -16624,6 +16747,7 @@ languagefile {
     S:oredict.crushedPurifiedFlerovium.name=纯净𫓧 矿
     S:oredict.crushedPurifiedFlerovium298.name=纯净𫓧-298 矿
     S:oredict.crushedPurifiedFluorine.name=纯净氟 矿
+    S:oredict.crushedPurifiedFluorite.name=Purified Fluorite Ore
     S:oredict.crushedPurifiedFoolsRuby.name=纯净红宝石 矿
     S:oredict.crushedPurifiedForce.name=纯净力量 矿
     S:oredict.crushedPurifiedForcicium.name=纯净力场 矿
@@ -16815,6 +16939,7 @@ languagefile {
     S:oredict.crushedPurifiedThulium.name=纯净铥 矿
     S:oredict.crushedPurifiedTin.name=纯净锡 矿
     S:oredict.crushedPurifiedTinyActinium.name=小撮纯净锕 矿
+    S:oredict.crushedPurifiedTinyAdamantine.name=Tiny Purified Adamantine Ore
     S:oredict.crushedPurifiedTinyAdamantium.name=小撮纯净艾德曼合金 矿
     S:oredict.crushedPurifiedTinyAlduorite.name=小撮纯净Alduorite 矿
     S:oredict.crushedPurifiedTinyAlmandine.name=小撮纯净Almandine 矿
@@ -16961,6 +17086,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyArdite.name=小撮纯净Ardite 矿
     S:oredict.crushedPurifiedTinyAredrite.name=小撮纯净Aredrite 矿
     S:oredict.crushedPurifiedTinyArsenic.name=小撮纯净Arsenic 矿
+    S:oredict.crushedPurifiedTinyArsenopyrite.name=Tiny Purified Arsenopyrite Ore
     S:oredict.crushedPurifiedTinyAsbestos.name=小撮纯净Asbestos 矿
     S:oredict.crushedPurifiedTinyAstatine.name=小撮纯净Astatine 矿
     S:oredict.crushedPurifiedTinyAstralSilver.name=小撮纯净星辰银 矿
@@ -17011,7 +17137,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyChromium.name=小撮纯净铬 矿
     S:oredict.crushedPurifiedTinyChrysotile.name=小撮纯净Chrysotile 矿
     S:oredict.crushedPurifiedTinyCinnabar.name=小撮纯净Cinnabar 矿
-    S:oredict.crushedPurifiedTinyCoal.name=小撮纯净Coal 矿
+    S:oredict.crushedPurifiedTinyCoal.name=小撮纯净煤矿
     S:oredict.crushedPurifiedTinyCoalCoke.name=小撮纯净焦煤 矿
     S:oredict.crushedPurifiedTinyCobalt.name=小撮纯净Cobalt 矿
     S:oredict.crushedPurifiedTinyCobalt60.name=小撮纯净钴-60 矿
@@ -17061,6 +17187,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyFlerovium.name=小撮纯净𫓧 矿
     S:oredict.crushedPurifiedTinyFlerovium298.name=小撮纯净𫓧-298 矿
     S:oredict.crushedPurifiedTinyFluorine.name=小撮纯净氟 矿
+    S:oredict.crushedPurifiedTinyFluorite.name=Tiny Purified Fluorite Ore
     S:oredict.crushedPurifiedTinyFoolsRuby.name=小撮纯净红宝石 矿
     S:oredict.crushedPurifiedTinyForce.name=小撮纯净Force 矿
     S:oredict.crushedPurifiedTinyForcicium.name=小撮纯净力场 矿
@@ -17416,6 +17543,7 @@ languagefile {
     S:oredict.crushedThulium.name=粉碎铥 矿
     S:oredict.crushedTin.name=粉碎锡 矿
     S:oredict.crushedTinyActinium.name=小搓粉碎锕 矿
+    S:oredict.crushedTinyAdamantine.name=Tiny Crushed Adamantine Ore
     S:oredict.crushedTinyAdamantium.name=小搓粉碎Adamantium 矿
     S:oredict.crushedTinyAlduorite.name=小搓粉碎Alduorite 矿
     S:oredict.crushedTinyAlmandine.name=小搓粉碎Almandine 矿
@@ -17562,6 +17690,7 @@ languagefile {
     S:oredict.crushedTinyArdite.name=小搓粉碎Ardite 矿
     S:oredict.crushedTinyAredrite.name=小搓粉碎Aredrite 矿
     S:oredict.crushedTinyArsenic.name=小搓粉碎Arsenic 矿
+    S:oredict.crushedTinyArsenopyrite.name=Tiny Crushed Arsenopyrite Ore
     S:oredict.crushedTinyAsbestos.name=小搓粉碎Asbestos 矿
     S:oredict.crushedTinyAstatine.name=小搓粉碎Astatine 矿
     S:oredict.crushedTinyAstralSilver.name=小搓粉碎星辰银 矿
@@ -17612,7 +17741,7 @@ languagefile {
     S:oredict.crushedTinyChromium.name=小搓粉碎Chromium 矿
     S:oredict.crushedTinyChrysotile.name=小搓粉碎Chrysotile 矿
     S:oredict.crushedTinyCinnabar.name=小搓粉碎Cinnabar 矿
-    S:oredict.crushedTinyCoal.name=小搓粉碎Coal 矿
+    S:oredict.crushedTinyCoal.name=小搓粉碎煤矿
     S:oredict.crushedTinyCoalCoke.name=小撮粉碎 焦煤 矿
     S:oredict.crushedTinyCobalt.name=小搓粉碎Cobalt 矿
     S:oredict.crushedTinyCobalt60.name=小搓粉碎钴-60 矿
@@ -17662,6 +17791,7 @@ languagefile {
     S:oredict.crushedTinyFlerovium.name=小搓粉碎𫓧 矿
     S:oredict.crushedTinyFlerovium298.name=小搓粉碎𫓧-298 矿
     S:oredict.crushedTinyFluorine.name=小搓粉碎氟 矿
+    S:oredict.crushedTinyFluorite.name=Tiny Crushed Fluorite Ore
     S:oredict.crushedTinyFoolsRuby.name=小搓粉碎红宝石 矿
     S:oredict.crushedTinyForce.name=小搓粉碎Force 矿
     S:oredict.crushedTinyForcicium.name=小搓粉碎力场 矿
@@ -17955,6 +18085,7 @@ languagefile {
     S:oredict.crushedyellowLimonite.name=粉碎黄色褐铁 矿
     S:oredict.crushedyellowSapphire.name=粉碎 黄色蓝宝石矿
     S:oredict.dustActinium.name=锕粉
+    S:oredict.dustAdamantine.name=Adamantine Dust
     S:oredict.dustAdamantium.name=艾德曼合金粉
     S:oredict.dustAerotheum.name=和谐之和谐之空气
     S:oredict.dustAlduorite.name=神秘蓝金粉
@@ -18107,10 +18238,11 @@ languagefile {
     S:oredict.dustApatite.name=磷灰石粉
     S:oredict.dustAquamarine.name=海蓝宝石粉
     S:oredict.dustArcaneAshes.name=奥术灰
-    S:oredict.dustArcaneCompound.name=Arcane Compound
+    S:oredict.dustArcaneCompound.name=压缩奥术灰
     S:oredict.dustArdite.name=阿迪特粉
     S:oredict.dustAredrite.name=阿迪特粉
     S:oredict.dustArsenic.name=砷粉
+    S:oredict.dustArsenopyrite.name=Arsenopyrite Dust
     S:oredict.dustAsbestos.name=石棉粉
     S:oredict.dustAshes.name=灰烬
     S:oredict.dustAsphalt.name=沥青
@@ -18162,6 +18294,7 @@ languagefile {
     S:oredict.dustCaesium.name=铯粉
     S:oredict.dustCalcite.name=方解石粉
     S:oredict.dustCalcium.name=钙粉
+    S:oredict.dustCalciumSulfate.name=Calcium Sulfate Dust
     S:oredict.dustCalifornium.name=锎粉
     S:oredict.dustCarbon.name=碳粉
     S:oredict.dustCarbon13.name=碳-13粉
@@ -18236,6 +18369,7 @@ languagefile {
     S:oredict.dustDioptase.name=翠铜石粉
     S:oredict.dustDiorite.name=闪长岩粉
     S:oredict.dustDiv72Actinium.name=1/72份 锕 粉
+    S:oredict.dustDiv72Adamantine.name=1/72nd of a Pile of Adamantine Dust
     S:oredict.dustDiv72Adamantium.name=1/72份艾德曼合金 粉
     S:oredict.dustDiv72Aerotheum.name=1/72份 和谐之空气 粉
     S:oredict.dustDiv72Alduorite.name=1/72份 Alduorite 粉
@@ -18384,10 +18518,11 @@ languagefile {
     S:oredict.dustDiv72Apatite.name=1/72份 Apatite 粉
     S:oredict.dustDiv72Aquamarine.name=1/72份 Aquamarine 粉
     S:oredict.dustDiv72ArcaneAshes.name=1/72份 奥术灰
-    S:oredict.dustDiv72ArcaneCompound.name=1/72份 Arcane Compound
+    S:oredict.dustDiv72ArcaneCompound.name=1/72份 压缩奥术灰
     S:oredict.dustDiv72Ardite.name=1/72份 Ardite 粉
     S:oredict.dustDiv72Aredrite.name=1/72份 Aredrite 粉
     S:oredict.dustDiv72Arsenic.name=1/72份 Arsenic 粉
+    S:oredict.dustDiv72Arsenopyrite.name=1/72nd of a Pile of Arsenopyrite Dust
     S:oredict.dustDiv72Asbestos.name=1/72份 Asbestos 粉
     S:oredict.dustDiv72Ashes.name=1/72份 Ashes
     S:oredict.dustDiv72Asphalt.name=1/72份沥青
@@ -18440,6 +18575,7 @@ languagefile {
     S:oredict.dustDiv72Caesium.name=1/72份 Caesium 粉
     S:oredict.dustDiv72Calcite.name=1/72份 Calcite 粉
     S:oredict.dustDiv72Calcium.name=1/72份 Calcium 粉
+    S:oredict.dustDiv72CalciumSulfate.name=1/72nd of a Pile of Calcium Sulfate Dust
     S:oredict.dustDiv72Californium.name=1/72份 Californium 粉
     S:oredict.dustDiv72Carbon.name=1/72份 碳粉
     S:oredict.dustDiv72Carbon13.name=1/72份碳-13 粉
@@ -18457,11 +18593,11 @@ languagefile {
     S:oredict.dustDiv72Ceruclase.name=1/72份 Ceruclase 粉
     S:oredict.dustDiv72Chalcopyrite.name=1/72份 Chalcopyrite 粉
     S:oredict.dustDiv72Chalk.name=1/72份 Chalk 粉
-    S:oredict.dustDiv72Charcoal.name=1/72份 Charcoal 粉
+    S:oredict.dustDiv72Charcoal.name=1/72份 Char煤粉
     S:oredict.dustDiv72ChargedCertusQuartz.name=1/72份 充能 赛特斯石英 粉
     S:oredict.dustDiv72Cheese.name=1/72份 Cheese Powder
     S:oredict.dustDiv72Chert.name=1/72份 Chert 粉
-    S:oredict.dustDiv72Chili.name=1/72份 Chili Powder
+    S:oredict.dustDiv72Chili.name=1/72份 辣椒 Powder
     S:oredict.dustDiv72Chlorine.name=1/72份 Chlorine 粉
     S:oredict.dustDiv72Chocolate.name=1/72份 Chocolate Powder
     S:oredict.dustDiv72Chromite.name=1/72份 Chromite 粉
@@ -18471,7 +18607,7 @@ languagefile {
     S:oredict.dustDiv72Cinnabar.name=1/72份 Cinnabar 粉
     S:oredict.dustDiv72Cinnamon.name=1/72份 Ground Cinnamon
     S:oredict.dustDiv72Clay.name=1/72份 粘土 粉
-    S:oredict.dustDiv72Coal.name=1/72份 Coal 粉
+    S:oredict.dustDiv72Coal.name=1/72份 煤粉
     S:oredict.dustDiv72CoalCoke.name=1/72份 焦煤 粉
     S:oredict.dustDiv72Cobalt.name=1/72份 钴 粉
     S:oredict.dustDiv72Cobalt60.name=1/72份 钴-60 粉
@@ -18483,7 +18619,7 @@ languagefile {
     S:oredict.dustDiv72Concrete.name=1/72份 混凝土 粉
     S:oredict.dustDiv72ConductiveIron.name=1/72份 导体铁 粉
     S:oredict.dustDiv72Constantan.name=1/72份 康铜 粉
-    S:oredict.dustDiv72ConstructionFoam.name=1/72份 泡沫 Powder
+    S:oredict.dustDiv72ConstructionFoam.name=1/72份泡沫 Powder
     S:oredict.dustDiv72Cooperite.name=1/72份 Sheldonite 粉
     S:oredict.dustDiv72Copernicium.name=1/72份 鎶 粉
     S:oredict.dustDiv72Copper.name=1/72份 Copper 粉
@@ -18561,6 +18697,7 @@ languagefile {
     S:oredict.dustDiv72Flerovium298.name=1/72份 𫓧-298 粉
     S:oredict.dustDiv72Flint.name=1/72份 Flint 粉
     S:oredict.dustDiv72Fluorine.name=1/72份 氟 粉
+    S:oredict.dustDiv72Fluorite.name=1/72nd of a Pile of Fluorite Dust
     S:oredict.dustDiv72Force.name=1/72份 Force 粉
     S:oredict.dustDiv72Forcicium.name=1/72份 力场 粉
     S:oredict.dustDiv72Forcillium.name=1/72份 力场 粉
@@ -18608,7 +18745,7 @@ languagefile {
     S:oredict.dustDiv72Honey.name=1/72份 Honey 粉
     S:oredict.dustDiv72Honeydew.name=1/72份 Honeydew 粉
     S:oredict.dustDiv72Huebnerite.name=1/72份 Huebnerite 粉
-    S:oredict.dustDiv72HydratedCoal.name=1/72份 Hydrated Coal 粉
+    S:oredict.dustDiv72HydratedCoal.name=1/72份 Hydrated 煤粉
     S:oredict.dustDiv72HydrogenBorate.name=1/72份 硼酸氢盐 粉
     S:oredict.dustDiv72Ice.name=1/72份 Crushed Ice
     S:oredict.dustDiv72Ignatius.name=1/72份 Ignatius 粉
@@ -18986,6 +19123,7 @@ languagefile {
     S:oredict.dustFlerovium298.name=𫓧-298粉
     S:oredict.dustFlint.name=燧石粉
     S:oredict.dustFluorine.name=氟粉
+    S:oredict.dustFluorite.name=Fluorite Dust
     S:oredict.dustFoolsRuby.name=红宝石粉
     S:oredict.dustForce.name=力量粉
     S:oredict.dustForcicium.name=力场粉
@@ -19039,6 +19177,7 @@ languagefile {
     S:oredict.dustIgnatius.name=伊格内修斯粉
     S:oredict.dustIlmenite.name=钛铁矿粉
     S:oredict.dustImpureActinium.name=含杂锕粉
+    S:oredict.dustImpureAdamantine.name=Impure Pile of Adamantine Dust
     S:oredict.dustImpureAdamantium.name=含杂艾德曼合金粉
     S:oredict.dustImpureAlduorite.name=含杂神秘蓝金粉
     S:oredict.dustImpureAlmandine.name=含杂铁铝榴石粉
@@ -19186,6 +19325,7 @@ languagefile {
     S:oredict.dustImpureArdite.name=含杂 Ardite粉
     S:oredict.dustImpureAredrite.name=含杂阿迪特粉
     S:oredict.dustImpureArsenic.name=含杂砷粉
+    S:oredict.dustImpureArsenopyrite.name=Impure Pile of Arsenopyrite Dust
     S:oredict.dustImpureAsbestos.name=含杂石棉粉
     S:oredict.dustImpureAstatine.name=含杂砹粉
     S:oredict.dustImpureAstralSilver.name=含杂星辰银粉
@@ -19298,6 +19438,7 @@ languagefile {
     S:oredict.dustImpureFlerovium298.name=含杂𫓧-298粉
     S:oredict.dustImpureFlint.name=含杂燧石粉
     S:oredict.dustImpureFluorine.name=含杂氟粉
+    S:oredict.dustImpureFluorite.name=Impure Pile of Fluorite Dust
     S:oredict.dustImpureFoolsRuby.name=含杂红宝石粉
     S:oredict.dustImpureForce.name=含杂力量粉
     S:oredict.dustImpureForcicium.name=含杂力场粉
@@ -19720,6 +19861,7 @@ languagefile {
     S:oredict.dustPulsatingIron.name=脉冲铁粉
     S:oredict.dustPumice.name=Pumice粉
     S:oredict.dustPureActinium.name=纯净锕粉
+    S:oredict.dustPureAdamantine.name=Purified Pile of Adamantine Dust
     S:oredict.dustPureAdamantium.name=纯净艾德曼合金粉
     S:oredict.dustPureAlduorite.name=纯净神秘蓝金粉
     S:oredict.dustPureAlmandine.name=纯净铁铝榴石粉
@@ -19867,6 +20009,7 @@ languagefile {
     S:oredict.dustPureArdite.name=纯净Ardite粉
     S:oredict.dustPureAredrite.name=纯净阿迪特粉
     S:oredict.dustPureArsenic.name=纯净砷粉
+    S:oredict.dustPureArsenopyrite.name=Purified Pile of Arsenopyrite Dust
     S:oredict.dustPureAsbestos.name=纯净石棉粉
     S:oredict.dustPureAstatine.name=纯净砹粉
     S:oredict.dustPureAstralSilver.name=纯净星辰银粉
@@ -19979,6 +20122,7 @@ languagefile {
     S:oredict.dustPureFlerovium298.name=纯净𫓧-298粉
     S:oredict.dustPureFlint.name=纯净燧石粉
     S:oredict.dustPureFluorine.name=纯净氟粉
+    S:oredict.dustPureFluorite.name=Purified Pile of Fluorite Dust
     S:oredict.dustPureFoolsRuby.name=纯净红宝石粉
     S:oredict.dustPureForce.name=纯净力量粉
     S:oredict.dustPureForcicium.name=纯净力场粉
@@ -20291,6 +20435,7 @@ languagefile {
     S:oredict.dustSilverIodide.name=碘化银粉
     S:oredict.dustSluiceSand.name=矿物杂质沙
     S:oredict.dustSmallActinium.name=小堆锕粉
+    S:oredict.dustSmallAdamantine.name=Small Pile of Adamantine Dust
     S:oredict.dustSmallAdamantium.name=小堆艾德曼合金粉
     S:oredict.dustSmallAerotheum.name=小撮和谐之和谐之空气
     S:oredict.dustSmallAlduorite.name=小堆神秘蓝金粉
@@ -20443,10 +20588,11 @@ languagefile {
     S:oredict.dustSmallApatite.name=小堆磷灰石粉
     S:oredict.dustSmallAquamarine.name=小堆Aquamarine粉
     S:oredict.dustSmallArcaneAshes.name=小堆 奥术灰
-    S:oredict.dustSmallArcaneCompound.name=小堆 Arcane Compound
+    S:oredict.dustSmallArcaneCompound.name=小堆 压缩奥术灰
     S:oredict.dustSmallArdite.name=小堆Ardite粉
     S:oredict.dustSmallAredrite.name=小堆阿迪特粉
     S:oredict.dustSmallArsenic.name=小堆砷粉
+    S:oredict.dustSmallArsenopyrite.name=Small Pile of Arsenopyrite Dust
     S:oredict.dustSmallAsbestos.name=小堆石棉粉
     S:oredict.dustSmallAshes.name=小堆灰烬
     S:oredict.dustSmallAsphalt.name=小堆沥青
@@ -20500,6 +20646,7 @@ languagefile {
     S:oredict.dustSmallCaesium.name=小堆铯粉
     S:oredict.dustSmallCalcite.name=小堆方解石粉
     S:oredict.dustSmallCalcium.name=小堆钙粉
+    S:oredict.dustSmallCalciumSulfate.name=Small Pile of Calcium Sulfate Dust
     S:oredict.dustSmallCalifornium.name=小堆锎粉
     S:oredict.dustSmallCarbon.name=小堆碳粉
     S:oredict.dustSmallCarbon13.name=小堆碳-13粉
@@ -20521,7 +20668,7 @@ languagefile {
     S:oredict.dustSmallChargedCertusQuartz.name=小堆充能的赛特斯石英粉
     S:oredict.dustSmallCheese.name=小堆奶酪粉块
     S:oredict.dustSmallChert.name=小堆Chert粉
-    S:oredict.dustSmallChili.name=小堆Chili粉块
+    S:oredict.dustSmallChili.name=小堆辣椒粉块
     S:oredict.dustSmallChlorine.name=小堆氯粉
     S:oredict.dustSmallChocolate.name=小堆巧克力Powder
     S:oredict.dustSmallChromite.name=小堆铬铁矿粉
@@ -20621,6 +20768,7 @@ languagefile {
     S:oredict.dustSmallFlerovium298.name=小堆𫓧-298粉
     S:oredict.dustSmallFlint.name=小堆燧石粉
     S:oredict.dustSmallFluorine.name=小堆氟粉
+    S:oredict.dustSmallFluorite.name=Small Pile of Fluorite Dust
     S:oredict.dustSmallFoolsRuby.name=小堆红宝石粉
     S:oredict.dustSmallForce.name=小堆力量粉
     S:oredict.dustSmallForcicium.name=小堆力场粉
@@ -21088,6 +21236,7 @@ languagefile {
     S:oredict.dustTin.name=锡粉
     S:oredict.dustTinAlloy.name=锡合金粉
     S:oredict.dustTinyActinium.name=小撮锕粉
+    S:oredict.dustTinyAdamantine.name=Tiny Pile of Adamantine Dust
     S:oredict.dustTinyAdamantium.name=小撮艾德曼合金粉
     S:oredict.dustTinyAerotheum.name=小撮 和谐之和谐之空气
     S:oredict.dustTinyAlduorite.name=小撮神秘蓝金粉
@@ -21240,10 +21389,11 @@ languagefile {
     S:oredict.dustTinyApatite.name=小撮磷灰石粉
     S:oredict.dustTinyAquamarine.name=小撮Aquamarine粉
     S:oredict.dustTinyArcaneAshes.name=小撮 奥术灰
-    S:oredict.dustTinyArcaneCompound.name=小撮 Arcane Compound
+    S:oredict.dustTinyArcaneCompound.name=小撮 压缩奥术灰
     S:oredict.dustTinyArdite.name=小撮Ardite粉
     S:oredict.dustTinyAredrite.name=小撮希尔金粉
     S:oredict.dustTinyArsenic.name=小撮砷粉
+    S:oredict.dustTinyArsenopyrite.name=Tiny Pile of Arsenopyrite Dust
     S:oredict.dustTinyAsbestos.name=小撮石棉粉
     S:oredict.dustTinyAshes.name=小撮灰烬
     S:oredict.dustTinyAsphalt.name=小撮沥青
@@ -21297,6 +21447,7 @@ languagefile {
     S:oredict.dustTinyCaesium.name=小撮铯粉
     S:oredict.dustTinyCalcite.name=小撮方解石粉
     S:oredict.dustTinyCalcium.name=小撮钙粉
+    S:oredict.dustTinyCalciumSulfate.name=Tiny Pile of Calcium Sulfate Dust
     S:oredict.dustTinyCalifornium.name=小撮锎粉
     S:oredict.dustTinyCarbon.name=小撮碳粉
     S:oredict.dustTinyCarbon13.name=小撮碳-13粉
@@ -21318,7 +21469,7 @@ languagefile {
     S:oredict.dustTinyChargedCertusQuartz.name=小撮充能的赛特斯石英粉
     S:oredict.dustTinyCheese.name=小撮奶酪粉块
     S:oredict.dustTinyChert.name=小撮Chert粉
-    S:oredict.dustTinyChili.name=小撮Chili粉块
+    S:oredict.dustTinyChili.name=小撮辣椒粉块
     S:oredict.dustTinyChlorine.name=小撮Chlorine粉
     S:oredict.dustTinyChocolate.name=小撮巧克力Powder
     S:oredict.dustTinyChromite.name=小撮铬铁矿粉
@@ -21418,6 +21569,7 @@ languagefile {
     S:oredict.dustTinyFlerovium298.name=小撮𫓧-298粉
     S:oredict.dustTinyFlint.name=小撮Flint粉
     S:oredict.dustTinyFluorine.name=小撮氟粉
+    S:oredict.dustTinyFluorite.name=Tiny Pile of Fluorite Dust
     S:oredict.dustTinyFoolsRuby.name=小撮红宝石粉
     S:oredict.dustTinyForce.name=小撮Force粉
     S:oredict.dustTinyForcicium.name=小撮力场粉
@@ -21927,6 +22079,7 @@ languagefile {
     S:oredict.dustyellowLimonite.name=黄色褐铁矿粉
     S:oredict.dustyellowSapphire.name=黄色蓝宝石小撮
     S:oredict.foilActinium.name=锕箔
+    S:oredict.foilAdamantine.name=Adamantine Foil
     S:oredict.foilAdamantium.name=艾德曼合金箔
     S:oredict.foilAlduorite.name=神秘蓝金箔
     S:oredict.foilAluminium.name=铝箔
@@ -22310,6 +22463,7 @@ languagefile {
     S:oredict.foilgoldInductive.name=感应合金箔
     S:oredict.foillead.name=铅箔
     S:oredict.foilplatinum.name=铂箔
+    S:oredict.gearGtAdamantine.name=Adamantine Gear
     S:oredict.gearGtAdamantium.name=艾德曼合金齿轮
     S:oredict.gearGtAlmandine.name=铁铝榴石齿轮
     S:oredict.gearGtAluminium.name=铝齿轮
@@ -22509,6 +22663,7 @@ languagefile {
     S:oredict.gearGtSignalum.name=信素齿轮
     S:oredict.gearGtSiltstone.name=粉砂岩齿轮
     S:oredict.gearGtSilver.name=银齿轮
+    S:oredict.gearGtSmallAdamantine.name=Small Adamantine Gear
     S:oredict.gearGtSmallAdamantium.name=小型艾德曼合金齿轮
     S:oredict.gearGtSmallAlmandine.name=小型Almandine齿轮
     S:oredict.gearGtSmallAluminium.name=小型铝齿轮
@@ -22897,6 +23052,7 @@ languagefile {
     S:oredict.gemChippedTopaz.name=碎裂的黄玉
     S:oredict.gemChippedUvarovite.name=碎裂的Uvarovite
     S:oredict.gemChippedYellowSapphire.name=碎裂的黄色蓝宝石
+    S:oredict.gemChippedZirconium.name=Chipped Zirconium
     S:oredict.gemChippedgreenSapphire.name=碎裂的绿色蓝宝石
     S:oredict.gemChippedorangeSapphire.name=碎裂的橙色蓝宝石
     S:oredict.gemChippedyellowSapphire.name=碎裂的黄色蓝宝石
@@ -22944,6 +23100,7 @@ languagefile {
     S:oredict.gemExquisiteTopaz.name=精美的黄玉
     S:oredict.gemExquisiteUvarovite.name=精美的Uvarovite
     S:oredict.gemExquisiteYellowSapphire.name=Exquisite 黄色蓝宝石
+    S:oredict.gemExquisiteZirconium.name=Exquisite Zirconium
     S:oredict.gemExquisitegreenSapphire.name=精美的绿色蓝宝石
     S:oredict.gemExquisiteorangeSapphire.name=Exquisite 橙色蓝宝石
     S:oredict.gemExquisiteyellowSapphire.name=Exquisite 黄色蓝宝石
@@ -22990,6 +23147,7 @@ languagefile {
     S:oredict.gemFlawedTopaz.name=有瑕疵的黄玉
     S:oredict.gemFlawedUvarovite.name=有瑕疵的Uvarovite
     S:oredict.gemFlawedYellowSapphire.name=有瑕疵的黄色蓝宝石
+    S:oredict.gemFlawedZirconium.name=Flawed Zirconium
     S:oredict.gemFlawedgreenSapphire.name=有瑕疵的绿色蓝宝石
     S:oredict.gemFlawedorangeSapphire.name=有瑕疵的橙色蓝宝石
     S:oredict.gemFlawedyellowSapphire.name=有瑕疵的黄色蓝宝石
@@ -23031,6 +23189,7 @@ languagefile {
     S:oredict.gemFlawlessTopaz.name=无瑕的黄玉
     S:oredict.gemFlawlessUvarovite.name=无暇的Uvarovite
     S:oredict.gemFlawlessYellowSapphire.name=无瑕的黄色蓝宝石
+    S:oredict.gemFlawlessZirconium.name=Flawless Zirconium
     S:oredict.gemFlawlessgreenSapphire.name=无瑕的绿色蓝宝石
     S:oredict.gemFlawlessorangeSapphire.name=无暇的橙色蓝宝石
     S:oredict.gemFlawlessyellowSapphire.name=无暇的黄色蓝宝石
@@ -23092,6 +23251,7 @@ languagefile {
     S:oredict.gemLegendaryTopaz.name=传奇 Topaz
     S:oredict.gemLegendaryUvarovite.name=传奇 钙铬榴石
     S:oredict.gemLegendaryYellowSapphire.name=传奇 黄色蓝宝石
+    S:oredict.gemLegendaryZirconium.name=Legendary Zirconium
     S:oredict.gemLegendarygreenSapphire.name=传奇 绿色蓝宝石
     S:oredict.gemLegendaryorangeSapphire.name=传奇 橙色蓝宝石
     S:oredict.gemLegendaryyellowSapphire.name=传奇 黄色蓝宝石
@@ -23134,6 +23294,7 @@ languagefile {
     S:oredict.gemorangeSapphire.name=橙色蓝宝石
     S:oredict.gemyellowSapphire.name=黄色蓝宝石
     S:oredict.ingotActinium.name=锕锭
+    S:oredict.ingotAdamantine.name=Adamantine Ingot
     S:oredict.ingotAdamantium.name=艾德曼合金锭
     S:oredict.ingotAlduorite.name=神秘蓝金锭
     S:oredict.ingotAluminium.name=铝锭
@@ -23310,6 +23471,7 @@ languagefile {
     S:oredict.ingotDesh.name=戴斯锭
     S:oredict.ingotDesichalkos.name=虚空之魂石锭
     S:oredict.ingotDoubleActinium.name=两重锕锭
+    S:oredict.ingotDoubleAdamantine.name=Double Adamantine Ingot
     S:oredict.ingotDoubleAdamantium.name=两重艾德曼合金锭
     S:oredict.ingotDoubleAlduorite.name=两重神秘蓝金锭
     S:oredict.ingotDoubleAluminium.name=两重铝锭
@@ -23726,6 +23888,7 @@ languagefile {
     S:oredict.ingotHepatizon.name=幽魂结晶锭
     S:oredict.ingotHolmium.name=钬锭
     S:oredict.ingotHotActinium.name=热锕锭
+    S:oredict.ingotHotAdamantine.name=Hot Adamantine Ingot
     S:oredict.ingotHotAdamantium.name=热艾德曼合金锭
     S:oredict.ingotHotAlduorite.name=热神秘蓝金锭
     S:oredict.ingotHotAluminium.name=热铝锭
@@ -24171,6 +24334,7 @@ languagefile {
     S:oredict.ingotProtactinium.name=镤锭
     S:oredict.ingotPulsatingIron.name=脉冲铁锭
     S:oredict.ingotQuadrupleActinium.name=四重锕锭
+    S:oredict.ingotQuadrupleAdamantine.name=Quadruple Adamantine Ingot
     S:oredict.ingotQuadrupleAdamantium.name=四重艾德曼合金锭
     S:oredict.ingotQuadrupleAlduorite.name=四重神秘蓝金锭
     S:oredict.ingotQuadrupleAluminium.name=四重铝锭
@@ -24546,6 +24710,7 @@ languagefile {
     S:oredict.ingotQuadrupleplatinum.name=四重铂锭
     S:oredict.ingotQuadruple金Inductive.name=四重 感应合金锭
     S:oredict.ingotQuintupleActinium.name=五重锕锭
+    S:oredict.ingotQuintupleAdamantine.name=Quintuple Adamantine Ingot
     S:oredict.ingotQuintupleAdamantium.name=五重艾德曼合金锭
     S:oredict.ingotQuintupleAlduorite.name=五重神秘蓝金锭
     S:oredict.ingotQuintupleAluminium.name=五重铝锭
@@ -24969,6 +25134,7 @@ languagefile {
     S:oredict.ingotTrinitanium.name=三钛锭
     S:oredict.ingotTrinium.name=Trinium 锭
     S:oredict.ingotTripleActinium.name=三重锕锭
+    S:oredict.ingotTripleAdamantine.name=Triple Adamantine Ingot
     S:oredict.ingotTripleAdamantium.name=三重艾德曼合金锭
     S:oredict.ingotTripleAlduorite.name=三重神秘蓝金锭
     S:oredict.ingotTripleAluminium.name=三重铝锭
@@ -25426,6 +25592,7 @@ languagefile {
     S:oredict.lensgreenSapphire.name=绿色蓝宝石透镜
     S:oredict.lensorangeSapphire.name=橙色蓝宝石透镜
     S:oredict.lensyellowSapphire.name=黄色蓝宝石透镜
+    S:oredict.minecartWheelsAdamantine.name=Adamantine Cart Wheels
     S:oredict.minecartWheelsAdamantium.name=艾德曼合金车轮
     S:oredict.minecartWheelsAlmandine.name=铁铝榴石车轮
     S:oredict.minecartWheelsAluminium.name=铝车轮
@@ -25587,6 +25754,7 @@ languagefile {
     S:oredict.minecartWheelsplatinum.name=铂车轮
     S:oredict.minecartWheels金Inductive.name=感应合金车轮
     S:oredict.nuggetActinium.name=锕粒
+    S:oredict.nuggetAdamantine.name=Adamantine Nugget
     S:oredict.nuggetAdamantium.name=艾德曼合金粒
     S:oredict.nuggetAlduorite.name=神秘蓝金粒
     S:oredict.nuggetAluminium.name=铝粒
@@ -25973,6 +26141,7 @@ languagefile {
     S:oredict.nuggetplatinum.name=铂粒
     S:oredict.nugget金Inductive.name=感应合金粒
     S:oredict.oreActinium.name=锕 矿
+    S:oredict.oreAdamantine.name=Adamantine Ore
     S:oredict.oreAdamantium.name=艾德曼合金 矿
     S:oredict.oreAlduorite.name=神秘蓝金 矿
     S:oredict.oreAlmandine.name=铁铝榴石 矿
@@ -26119,6 +26288,7 @@ languagefile {
     S:oredict.oreArdite.name=阿迪特 矿
     S:oredict.oreAredrite.name=阿迪特 矿
     S:oredict.oreArsenic.name=砷 矿
+    S:oredict.oreArsenopyrite.name=Arsenopyrite Ore
     S:oredict.oreAsbestos.name=石棉 矿
     S:oredict.oreAstatine.name=砹 矿
     S:oredict.oreAstralSilver.name=星辰银 矿
@@ -26128,6 +26298,7 @@ languagefile {
     S:oredict.oreBarite.name=重晶石 矿
     S:oredict.oreBarium.name=钡 矿
     S:oredict.oreBasaltActinium.name=玄武岩锕 矿
+    S:oredict.oreBasaltAdamantine.name=Basalt Adamantine Ore
     S:oredict.oreBasaltAdamantium.name=玄武岩艾德曼合金 矿
     S:oredict.oreBasaltAlduorite.name=玄武岩神秘蓝金 矿
     S:oredict.oreBasaltAlmandine.name=玄武岩铁铝榴石 矿
@@ -26274,6 +26445,7 @@ languagefile {
     S:oredict.oreBasaltArdite.name=玄武岩Ardite 矿
     S:oredict.oreBasaltAredrite.name=玄武岩阿迪特 矿
     S:oredict.oreBasaltArsenic.name=玄武岩砷 矿
+    S:oredict.oreBasaltArsenopyrite.name=Basalt Arsenopyrite Ore
     S:oredict.oreBasaltAsbestos.name=玄武岩石棉 矿
     S:oredict.oreBasaltAstatine.name=玄武岩砹 矿
     S:oredict.oreBasaltAstralSilver.name=玄武岩星辰银 矿
@@ -26374,6 +26546,7 @@ languagefile {
     S:oredict.oreBasaltFlerovium.name=玄武岩𫓧 矿
     S:oredict.oreBasaltFlerovium298.name=玄武岩𫓧-298 矿
     S:oredict.oreBasaltFluorine.name=玄武岩氟 矿
+    S:oredict.oreBasaltFluorite.name=Basalt Fluorite Ore
     S:oredict.oreBasaltFoolsRuby.name=玄武岩红宝石 矿
     S:oredict.oreBasaltForce.name=玄武岩力量 矿
     S:oredict.oreBasaltForcicium.name=玄武岩力场 矿
@@ -26620,6 +26793,7 @@ languagefile {
     S:oredict.oreBastnasite.name=氟碳铈 矿
     S:oredict.oreBauxite.name=铝土 矿
     S:oredict.oreBedrockActinium.name=基岩锕 矿
+    S:oredict.oreBedrockAdamantine.name=Bedrock Adamantine Ore
     S:oredict.oreBedrockAdamantium.name=基岩艾德曼合金Ore
     S:oredict.oreBedrockAlduorite.name=基岩Alduorite 矿
     S:oredict.oreBedrockAlmandine.name=基岩Almandine 矿
@@ -26766,6 +26940,7 @@ languagefile {
     S:oredict.oreBedrockArdite.name=基岩Ardite 矿
     S:oredict.oreBedrockAredrite.name=基岩Aredrite 矿
     S:oredict.oreBedrockArsenic.name=基岩Arsenic 矿
+    S:oredict.oreBedrockArsenopyrite.name=Bedrock Arsenopyrite Ore
     S:oredict.oreBedrockAsbestos.name=基岩Asbestos 矿
     S:oredict.oreBedrockAstatine.name=基岩Astatine 矿
     S:oredict.oreBedrockAstralSilver.name=基岩星辰银 矿
@@ -26815,7 +26990,7 @@ languagefile {
     S:oredict.oreBedrockChromium.name=基岩铬Ore
     S:oredict.oreBedrockChrysotile.name=基岩Chrysotile 矿
     S:oredict.oreBedrockCinnabar.name=基岩Cinnabar 矿
-    S:oredict.oreBedrockCoal.name=基岩Coal 矿
+    S:oredict.oreBedrockCoal.name=基岩煤矿
     S:oredict.oreBedrockCoalCoke.name=基岩焦煤 矿
     S:oredict.oreBedrockCobalt.name=基岩钴 矿
     S:oredict.oreBedrockCobalt60.name=基岩钴-60 矿
@@ -26864,6 +27039,7 @@ languagefile {
     S:oredict.oreBedrockFlerovium.name=基岩𫓧 矿
     S:oredict.oreBedrockFlerovium298.name=基岩𫓧-298 矿
     S:oredict.oreBedrockFluorine.name=基岩氟 矿
+    S:oredict.oreBedrockFluorite.name=Bedrock Fluorite Ore
     S:oredict.oreBedrockForce.name=基岩Force 矿
     S:oredict.oreBedrockForcicium.name=基岩力场 矿
     S:oredict.oreBedrockForcillium.name=基岩力场 矿
@@ -27108,6 +27284,7 @@ languagefile {
     S:oredict.oreBiotite.name=黑云母 矿
     S:oredict.oreBismuth.name=铋 矿
     S:oredict.oreBlackgraniteActinium.name=黑色花岗岩锕 矿
+    S:oredict.oreBlackgraniteAdamantine.name=Granite Adamantine Ore
     S:oredict.oreBlackgraniteAdamantium.name=黑色花岗岩艾德曼合金 矿
     S:oredict.oreBlackgraniteAlduorite.name=黑色花岗岩神秘蓝金 矿
     S:oredict.oreBlackgraniteAlmandine.name=黑色花岗岩铁铝榴石 矿
@@ -27251,6 +27428,7 @@ languagefile {
     S:oredict.oreBlackgraniteArdite.name=黑色花岗岩 Ardite 矿
     S:oredict.oreBlackgraniteAredrite.name=黑色花岗岩阿迪特 矿
     S:oredict.oreBlackgraniteArsenic.name=黑色花岗岩砷 矿
+    S:oredict.oreBlackgraniteArsenopyrite.name=Granite Arsenopyrite Ore
     S:oredict.oreBlackgraniteAsbestos.name=黑色花岗岩石棉 矿
     S:oredict.oreBlackgraniteAstatine.name=黑色花岗岩砹 矿
     S:oredict.oreBlackgraniteAstralSilver.name=黑色花岗岩星辰银 矿
@@ -27349,6 +27527,7 @@ languagefile {
     S:oredict.oreBlackgraniteFlerovium.name=黑色花岗岩𫓧 矿
     S:oredict.oreBlackgraniteFlerovium298.name=黑色花岗岩𫓧-298 矿
     S:oredict.oreBlackgraniteFluorine.name=黑色花岗岩氟 矿
+    S:oredict.oreBlackgraniteFluorite.name=Granite Fluorite Ore
     S:oredict.oreBlackgraniteForce.name=黑色花岗岩力量 矿
     S:oredict.oreBlackgraniteForcicium.name=黑色花岗岩力场 矿
     S:oredict.oreBlackgraniteForcillium.name=黑色花岗岩力场 矿
@@ -27652,6 +27831,7 @@ languagefile {
     S:oredict.oreEmery.name=金刚砂 矿
     S:oredict.oreEmpty.name=空 矿
     S:oredict.oreEndstoneActinium.name=末地锕 矿
+    S:oredict.oreEndstoneAdamantine.name=End Adamantine Ore
     S:oredict.oreEndstoneAdamantium.name=末地艾德曼合金 矿
     S:oredict.oreEndstoneAlduorite.name=末地神秘蓝金 矿
     S:oredict.oreEndstoneAlmandine.name=末地铁铝榴石 矿
@@ -27798,6 +27978,7 @@ languagefile {
     S:oredict.oreEndstoneArdite.name=End Ardite 矿
     S:oredict.oreEndstoneAredrite.name=末地阿迪特 矿
     S:oredict.oreEndstoneArsenic.name=末地砷 矿
+    S:oredict.oreEndstoneArsenopyrite.name=End Arsenopyrite Ore
     S:oredict.oreEndstoneAsbestos.name=末地石棉 矿
     S:oredict.oreEndstoneAstatine.name=末地砹 矿
     S:oredict.oreEndstoneAstralSilver.name=末地星辰银 矿
@@ -27898,6 +28079,7 @@ languagefile {
     S:oredict.oreEndstoneFlerovium.name=末地𫓧 矿
     S:oredict.oreEndstoneFlerovium298.name=末地𫓧-298 矿
     S:oredict.oreEndstoneFluorine.name=末地氟 矿
+    S:oredict.oreEndstoneFluorite.name=End Fluorite Ore
     S:oredict.oreEndstoneFoolsRuby.name=末地红宝石 矿
     S:oredict.oreEndstoneForce.name=末地力量 矿
     S:oredict.oreEndstoneForcicium.name=末地力场 矿
@@ -28150,6 +28332,7 @@ languagefile {
     S:oredict.oreFlerovium.name=𫓧 矿
     S:oredict.oreFlerovium298.name=𫓧-298 矿
     S:oredict.oreFluorine.name=氟 矿
+    S:oredict.oreFluorite.name=Fluorite Ore
     S:oredict.oreFoolsRuby.name=红宝石 矿
     S:oredict.oreForce.name=力量 矿
     S:oredict.oreForcicium.name=力场 矿
@@ -28169,6 +28352,7 @@ languagefile {
     S:oredict.oreGraniticMineralSand.name=花岗岩类矿砂
     S:oredict.oreGraphite.name=石墨 矿
     S:oredict.oreGravelActinium.name=沙砾锕 矿
+    S:oredict.oreGravelAdamantine.name=Gravel Adamantine Ore
     S:oredict.oreGravelAdamantium.name=沙砾艾德曼合金 矿
     S:oredict.oreGravelAlduorite.name=沙砾神秘蓝金 矿
     S:oredict.oreGravelAlmandine.name=沙砾铁铝榴石 矿
@@ -28315,6 +28499,7 @@ languagefile {
     S:oredict.oreGravelArdite.name=沙砾 Ardite 矿
     S:oredict.oreGravelAredrite.name=沙砾阿迪特 矿
     S:oredict.oreGravelArsenic.name=沙砾砷 矿
+    S:oredict.oreGravelArsenopyrite.name=Gravel Arsenopyrite Ore
     S:oredict.oreGravelAsbestos.name=沙砾石棉 矿
     S:oredict.oreGravelAstatine.name=沙砾砹 矿
     S:oredict.oreGravelAstralSilver.name=沙砾星辰银 矿
@@ -28415,6 +28600,7 @@ languagefile {
     S:oredict.oreGravelFlerovium.name=沙砾𫓧 矿
     S:oredict.oreGravelFlerovium298.name=沙砾𫓧-298 矿
     S:oredict.oreGravelFluorine.name=沙砾氟 矿
+    S:oredict.oreGravelFluorite.name=Gravel Fluorite Ore
     S:oredict.oreGravelFoolsRuby.name=沙砾红宝石 矿
     S:oredict.oreGravelForce.name=沙砾力量 矿
     S:oredict.oreGravelForcicium.name=沙砾力场 矿
@@ -28887,7 +29073,7 @@ languagefile {
     S:oredict.oreLimestoneChromium.name=石灰岩铬 矿
     S:oredict.oreLimestoneChrysotile.name=石灰岩 Chrysotile 矿
     S:oredict.oreLimestoneCinnabar.name=石灰岩 Cinnabar 矿
-    S:oredict.oreLimestoneCoal.name=石灰岩 Coal 矿
+    S:oredict.oreLimestoneCoal.name=石灰岩 煤矿
     S:oredict.oreLimestoneCoalCoke.name=石灰岩 焦煤 矿
     S:oredict.oreLimestoneCobalt.name=石灰岩 钴 矿
     S:oredict.oreLimestoneCobalt60.name=石灰岩 钴-60 矿
@@ -29178,6 +29364,7 @@ languagefile {
     S:oredict.oreMalachite.name=孔雀石 矿
     S:oredict.oreManganese.name=锰 矿
     S:oredict.oreMarbleActinium.name=大理石锕 矿
+    S:oredict.oreMarbleAdamantine.name=Marble Adamantine Ore
     S:oredict.oreMarbleAdamantium.name=大理石艾德曼合金 矿
     S:oredict.oreMarbleAlduorite.name=大理石神秘蓝金 矿
     S:oredict.oreMarbleAlmandine.name=大理石铁铝榴石 矿
@@ -29324,6 +29511,7 @@ languagefile {
     S:oredict.oreMarbleArdite.name=大理石 Ardite 矿
     S:oredict.oreMarbleAredrite.name=大理石阿迪特 矿
     S:oredict.oreMarbleArsenic.name=大理石砷 矿
+    S:oredict.oreMarbleArsenopyrite.name=Marble Arsenopyrite Ore
     S:oredict.oreMarbleAsbestos.name=大理石石棉 矿
     S:oredict.oreMarbleAstatine.name=大理石砹 矿
     S:oredict.oreMarbleAstralSilver.name=大理石星辰银 矿
@@ -29424,6 +29612,7 @@ languagefile {
     S:oredict.oreMarbleFlerovium.name=大理石𫓧 矿
     S:oredict.oreMarbleFlerovium298.name=大理石𫓧-298 矿
     S:oredict.oreMarbleFluorine.name=大理石氟 矿
+    S:oredict.oreMarbleFluorite.name=Marble Fluorite Ore
     S:oredict.oreMarbleFoolsRuby.name=大理石红宝石 矿
     S:oredict.oreMarbleForce.name=大理石力量 矿
     S:oredict.oreMarbleForcicium.name=大理石力场 矿
@@ -29687,6 +29876,7 @@ languagefile {
     S:oredict.oreNeptunium.name=镎 矿
     S:oredict.oreNetherQuartz.name=地狱石英 矿
     S:oredict.oreNetherrackActinium.name=地狱锕 矿
+    S:oredict.oreNetherrackAdamantine.name=Nether Adamantine Ore
     S:oredict.oreNetherrackAdamantium.name=地狱艾德曼合金 矿
     S:oredict.oreNetherrackAlduorite.name=地狱Alduorite 矿
     S:oredict.oreNetherrackAlmandine.name=地狱铁铝榴石 矿
@@ -29833,6 +30023,7 @@ languagefile {
     S:oredict.oreNetherrackArdite.name=地狱Ardite 矿
     S:oredict.oreNetherrackAredrite.name=地狱Aredrite 矿
     S:oredict.oreNetherrackArsenic.name=地狱Arsenic 矿
+    S:oredict.oreNetherrackArsenopyrite.name=Nether Arsenopyrite Ore
     S:oredict.oreNetherrackAsbestos.name=地狱Asbestos 矿
     S:oredict.oreNetherrackAstatine.name=地狱Astatine 矿
     S:oredict.oreNetherrackAstralSilver.name=地狱星辰银 矿
@@ -29933,6 +30124,7 @@ languagefile {
     S:oredict.oreNetherrackFlerovium.name=地狱𫓧 矿
     S:oredict.oreNetherrackFlerovium298.name=地狱𫓧-298 矿
     S:oredict.oreNetherrackFluorine.name=地狱氟 矿
+    S:oredict.oreNetherrackFluorite.name=Nether Fluorite Ore
     S:oredict.oreNetherrackFoolsRuby.name=地狱红宝石 矿
     S:oredict.oreNetherrackForce.name=地狱Force 矿
     S:oredict.oreNetherrackForcicium.name=地狱力场 矿
@@ -30223,6 +30415,7 @@ languagefile {
     S:oredict.oreRadium.name=镭 矿
     S:oredict.oreRareEarth.name=稀土 矿
     S:oredict.oreRedSandActinium.name=红沙锕 矿
+    S:oredict.oreRedSandAdamantine.name=Sand Adamantine Ore
     S:oredict.oreRedSandAdamantium.name=红沙艾德曼合金 矿
     S:oredict.oreRedSandAlduorite.name=红沙神秘蓝金 矿
     S:oredict.oreRedSandAlmandine.name=红沙铁铝榴石 矿
@@ -30369,6 +30562,7 @@ languagefile {
     S:oredict.oreRedSandArdite.name=红沙 Ardite 矿
     S:oredict.oreRedSandAredrite.name=红沙阿迪特 矿
     S:oredict.oreRedSandArsenic.name=红沙砷 矿
+    S:oredict.oreRedSandArsenopyrite.name=Sand Arsenopyrite Ore
     S:oredict.oreRedSandAsbestos.name=红沙石棉 矿
     S:oredict.oreRedSandAstatine.name=红沙砹 矿
     S:oredict.oreRedSandAstralSilver.name=红沙星辰银 矿
@@ -30469,6 +30663,7 @@ languagefile {
     S:oredict.oreRedSandFlerovium.name=红沙𫓧 矿
     S:oredict.oreRedSandFlerovium298.name=红沙𫓧-298 矿
     S:oredict.oreRedSandFluorine.name=红沙氟 矿
+    S:oredict.oreRedSandFluorite.name=Sand Fluorite Ore
     S:oredict.oreRedSandFoolsRuby.name=红沙红宝石 矿
     S:oredict.oreRedSandForce.name=红沙力量 矿
     S:oredict.oreRedSandForcicium.name=红沙力场 矿
@@ -30710,6 +30905,7 @@ languagefile {
     S:oredict.oreRedSandyellowLimonite.name=红沙黄色褐铁 矿
     S:oredict.oreRedSandyellowSapphire.name=红沙 黄色蓝宝石矿
     S:oredict.oreRedgraniteActinium.name=红花岗岩锕 矿
+    S:oredict.oreRedgraniteAdamantine.name=Granite Adamantine Ore
     S:oredict.oreRedgraniteAdamantium.name=红花岗岩艾德曼合金 矿
     S:oredict.oreRedgraniteAlduorite.name=红花岗岩神秘蓝金 矿
     S:oredict.oreRedgraniteAlmandine.name=红花岗岩铁铝榴石 矿
@@ -30856,6 +31052,7 @@ languagefile {
     S:oredict.oreRedgraniteArdite.name=红花岗岩Ardite 矿
     S:oredict.oreRedgraniteAredrite.name=红花岗岩阿迪特 矿
     S:oredict.oreRedgraniteArsenic.name=红花岗岩砷 矿
+    S:oredict.oreRedgraniteArsenopyrite.name=Granite Arsenopyrite Ore
     S:oredict.oreRedgraniteAsbestos.name=红花岗岩石棉 矿
     S:oredict.oreRedgraniteAstatine.name=红花岗岩砹 矿
     S:oredict.oreRedgraniteAstralSilver.name=红花岗岩星辰银 矿
@@ -30956,6 +31153,7 @@ languagefile {
     S:oredict.oreRedgraniteFlerovium.name=红花岗岩𫓧 矿
     S:oredict.oreRedgraniteFlerovium298.name=红花岗岩𫓧-298 矿
     S:oredict.oreRedgraniteFluorine.name=红花岗岩氟 矿
+    S:oredict.oreRedgraniteFluorite.name=Granite Fluorite Ore
     S:oredict.oreRedgraniteFoolsRuby.name=红花岗岩红宝石 矿
     S:oredict.oreRedgraniteForce.name=红花岗岩力量 矿
     S:oredict.oreRedgraniteForcicium.name=红花岗岩力场 矿
@@ -31213,6 +31411,7 @@ languagefile {
     S:oredict.oreSaltpeter.name=硝酸钾 矿
     S:oredict.oreSamarium.name=钐 矿
     S:oredict.oreSandActinium.name=锕矿沙
+    S:oredict.oreSandAdamantine.name=Sand Adamantine Ore
     S:oredict.oreSandAdamantium.name=艾德曼合金矿沙
     S:oredict.oreSandAlduorite.name=神秘蓝金矿沙
     S:oredict.oreSandAlmandine.name=铁铝榴石矿沙
@@ -31359,6 +31558,7 @@ languagefile {
     S:oredict.oreSandArdite.name=Ardite 矿沙
     S:oredict.oreSandAredrite.name=阿迪特矿沙
     S:oredict.oreSandArsenic.name=砷矿沙
+    S:oredict.oreSandArsenopyrite.name=Sand Arsenopyrite Ore
     S:oredict.oreSandAsbestos.name=石棉矿沙
     S:oredict.oreSandAstatine.name=砹矿沙
     S:oredict.oreSandAstralSilver.name=星辰银矿沙
@@ -31459,6 +31659,7 @@ languagefile {
     S:oredict.oreSandFlerovium.name=𫓧矿沙
     S:oredict.oreSandFlerovium298.name=𫓧-298矿沙
     S:oredict.oreSandFluorine.name=氟矿沙
+    S:oredict.oreSandFluorite.name=Sand Fluorite Ore
     S:oredict.oreSandFoolsRuby.name=红宝石矿沙
     S:oredict.oreSandForce.name=力量矿沙
     S:oredict.oreSandForcicium.name=力场矿沙
@@ -31698,6 +31899,7 @@ languagefile {
     S:oredict.oreSandplatinum.name=铂矿砂
     S:oredict.oreSandplatinumGroupSludge.name=Sand 铂族泥矿沙
     S:oredict.oreSandstoneActinium.name=沙石锕 矿
+    S:oredict.oreSandstoneAdamantine.name=Sandstone Adamantine Ore
     S:oredict.oreSandstoneAdamantium.name=沙石艾德曼合金 矿
     S:oredict.oreSandstoneAlduorite.name=沙石神秘蓝金 矿
     S:oredict.oreSandstoneAlmandine.name=沙石铁铝榴石 矿
@@ -31844,6 +32046,7 @@ languagefile {
     S:oredict.oreSandstoneArdite.name=沙石Ardite 矿
     S:oredict.oreSandstoneAredrite.name=沙石阿迪特 矿
     S:oredict.oreSandstoneArsenic.name=沙石砷 矿
+    S:oredict.oreSandstoneArsenopyrite.name=Sandstone Arsenopyrite Ore
     S:oredict.oreSandstoneAsbestos.name=沙石石棉 矿
     S:oredict.oreSandstoneAstatine.name=沙石砹 矿
     S:oredict.oreSandstoneAstralSilver.name=沙石星辰银 矿
@@ -31944,6 +32147,7 @@ languagefile {
     S:oredict.oreSandstoneFlerovium.name=沙石𫓧 矿
     S:oredict.oreSandstoneFlerovium298.name=沙石𫓧-298 矿
     S:oredict.oreSandstoneFluorine.name=沙石氟 矿
+    S:oredict.oreSandstoneFluorite.name=Sandstone Fluorite Ore
     S:oredict.oreSandstoneFoolsRuby.name=沙石红宝石 矿
     S:oredict.oreSandstoneForce.name=沙石力量 矿
     S:oredict.oreSandstoneForcicium.name=沙石力场 矿
@@ -32199,6 +32403,7 @@ languagefile {
     S:oredict.oreSilverIodide.name=碘化银 矿
     S:oredict.oreSluiceSand.name=矿物杂质沙
     S:oredict.oreSmallActinium.name=贫瘠锕 矿
+    S:oredict.oreSmallAdamantine.name=Small Adamantine Ore
     S:oredict.oreSmallAdamantium.name=贫瘠艾德曼合金 矿
     S:oredict.oreSmallAlduorite.name=贫瘠神秘蓝金 矿
     S:oredict.oreSmallAlmandine.name=贫瘠铁铝榴石 矿
@@ -32345,6 +32550,7 @@ languagefile {
     S:oredict.oreSmallArdite.name=小型Ardite 矿
     S:oredict.oreSmallAredrite.name=贫瘠阿迪特 矿
     S:oredict.oreSmallArsenic.name=贫瘠砷 矿
+    S:oredict.oreSmallArsenopyrite.name=Small Arsenopyrite Ore
     S:oredict.oreSmallAsbestos.name=贫瘠石棉 矿
     S:oredict.oreSmallAstatine.name=贫瘠砹 矿
     S:oredict.oreSmallAstralSilver.name=贫瘠星辰银 矿
@@ -32445,6 +32651,7 @@ languagefile {
     S:oredict.oreSmallFlerovium.name=贫瘠𫓧 矿
     S:oredict.oreSmallFlerovium298.name=贫瘠𫓧-298 矿
     S:oredict.oreSmallFluorine.name=贫瘠氟 矿
+    S:oredict.oreSmallFluorite.name=Small Fluorite Ore
     S:oredict.oreSmallFoolsRuby.name=贫瘠红宝石 矿
     S:oredict.oreSmallForce.name=贫瘠力量 矿
     S:oredict.oreSmallForcicium.name=贫瘠力场 矿
@@ -33229,6 +33436,7 @@ languagefile {
     S:oredict.oreyellowLimonite.name=黄色褐铁 矿
     S:oredict.oreyellowSapphire.name=黄色蓝宝石矿
     S:oredict.plantGtBerryActinium.name=锕梅
+    S:oredict.plantGtBerryAdamantine.name=Adamantine Berry
     S:oredict.plantGtBerryAdamantium.name=艾德曼合金梅
     S:oredict.plantGtBerryAerotheum.name=和谐之空气梅
     S:oredict.plantGtBerryAir.name=空气梅
@@ -33383,10 +33591,11 @@ languagefile {
     S:oredict.plantGtBerryAquaRegia.name=王水梅
     S:oredict.plantGtBerryAquamarine.name=海蓝宝石梅
     S:oredict.plantGtBerryArcaneAshes.name=奥术灰梅
-    S:oredict.plantGtBerryArcaneCompound.name=Arcane Compound梅
+    S:oredict.plantGtBerryArcaneCompound.name=压缩奥术灰梅
     S:oredict.plantGtBerryArdite.name=阿迪特梅
     S:oredict.plantGtBerryAredrite.name=希尔金梅
     S:oredict.plantGtBerryArsenic.name=砷梅
+    S:oredict.plantGtBerryArsenopyrite.name=Arsenopyrite Berry
     S:oredict.plantGtBerryAsbestos.name=石棉梅
     S:oredict.plantGtBerryAshes.name=灰烬梅
     S:oredict.plantGtBerryAsphalt.name=沥青梅
@@ -33445,6 +33654,7 @@ languagefile {
     S:oredict.plantGtBerryCaesium.name=铯梅
     S:oredict.plantGtBerryCalcite.name=方解石梅
     S:oredict.plantGtBerryCalcium.name=钙梅
+    S:oredict.plantGtBerryCalciumSulfate.name=Calcium Sulfate Berry
     S:oredict.plantGtBerryCalifornium.name=锎梅
     S:oredict.plantGtBerryCarbon.name=碳梅
     S:oredict.plantGtBerryCarbon13.name=碳-13梅
@@ -33576,6 +33786,7 @@ languagefile {
     S:oredict.plantGtBerryFlerovium298.name=𫓧-298梅
     S:oredict.plantGtBerryFlint.name=燧石梅
     S:oredict.plantGtBerryFluorine.name=氟梅
+    S:oredict.plantGtBerryFluorite.name=Fluorite Berry
     S:oredict.plantGtBerryFoolsRuby.name=红宝石梅
     S:oredict.plantGtBerryForce.name=力场梅
     S:oredict.plantGtBerryForcicium.name=力场梅
@@ -33639,6 +33850,7 @@ languagefile {
     S:oredict.plantGtBerryHydratedCoal.name=水合煤梅
     S:oredict.plantGtBerryHydrochloricAcid.name=盐酸梅
     S:oredict.plantGtBerryHydrogenBorate.name=硼酸氢盐 梅
+    S:oredict.plantGtBerryHydrogenFluoride.name=氟化氢 Berry
     S:oredict.plantGtBerryHydrogenPeroxide.name=过氧化氢 梅
     S:oredict.plantGtBerryIce.name=Ice梅
     S:oredict.plantGtBerryIgnatius.name=Ignatius梅
@@ -33668,7 +33880,7 @@ languagefile {
     S:oredict.plantGtBerryKalendrite.name=幽冥魂石梅
     S:oredict.plantGtBerryKanthal.name=铁铬铝合金梅
     S:oredict.plantGtBerryKaolinite.name=高岭石梅
-    S:oredict.plantGtBerryKerosine.name=Kerosine梅
+    S:oredict.plantGtBerryKerosine.name=煤油梅
     S:oredict.plantGtBerryKesterite.name=锌黄锡矿梅
     S:oredict.plantGtBerryKnightmetal.name=Knightmetal梅
     S:oredict.plantGtBerryKomatiite.name=科马提岩梅
@@ -34042,6 +34254,7 @@ languagefile {
     S:oredict.plantGtBerryyellowSapphire.name=黄色蓝宝石Berry
     S:oredict.plantGtBerry金Inductive.name=感应合金梅
     S:oredict.plantGtBlossomActinium.name=锕花
+    S:oredict.plantGtBlossomAdamantine.name=Adamantine Blossom
     S:oredict.plantGtBlossomAdamantium.name=艾德曼合金花
     S:oredict.plantGtBlossomAerotheum.name=和谐之空气 花
     S:oredict.plantGtBlossomAir.name=空气花
@@ -34196,10 +34409,11 @@ languagefile {
     S:oredict.plantGtBlossomAquaRegia.name=王水 花
     S:oredict.plantGtBlossomAquamarine.name=海蓝宝石花
     S:oredict.plantGtBlossomArcaneAshes.name=奥术灰 花
-    S:oredict.plantGtBlossomArcaneCompound.name=Arcane Compound 花
+    S:oredict.plantGtBlossomArcaneCompound.name=压缩奥术灰 花
     S:oredict.plantGtBlossomArdite.name=阿迪特花
     S:oredict.plantGtBlossomAredrite.name=希尔金花
     S:oredict.plantGtBlossomArsenic.name=砷花
+    S:oredict.plantGtBlossomArsenopyrite.name=Arsenopyrite Blossom
     S:oredict.plantGtBlossomAsbestos.name=石棉花
     S:oredict.plantGtBlossomAshes.name=灰烬花
     S:oredict.plantGtBlossomAsphalt.name=沥青 花
@@ -34258,6 +34472,7 @@ languagefile {
     S:oredict.plantGtBlossomCaesium.name=铯花
     S:oredict.plantGtBlossomCalcite.name=方解石花
     S:oredict.plantGtBlossomCalcium.name=钙花
+    S:oredict.plantGtBlossomCalciumSulfate.name=Calcium Sulfate Blossom
     S:oredict.plantGtBlossomCalifornium.name=锎花
     S:oredict.plantGtBlossomCarbon.name=碳花
     S:oredict.plantGtBlossomCarbon13.name=碳-13花
@@ -34389,6 +34604,7 @@ languagefile {
     S:oredict.plantGtBlossomFlerovium298.name=𫓧-298花
     S:oredict.plantGtBlossomFlint.name=燧石花
     S:oredict.plantGtBlossomFluorine.name=氟花
+    S:oredict.plantGtBlossomFluorite.name=Fluorite Blossom
     S:oredict.plantGtBlossomFoolsRuby.name=红宝石花
     S:oredict.plantGtBlossomForce.name=力场花
     S:oredict.plantGtBlossomForcicium.name=力场花
@@ -34452,6 +34668,7 @@ languagefile {
     S:oredict.plantGtBlossomHydratedCoal.name=水合煤花
     S:oredict.plantGtBlossomHydrochloricAcid.name=盐酸花
     S:oredict.plantGtBlossomHydrogenBorate.name=硼酸氢盐 Blossom
+    S:oredict.plantGtBlossomHydrogenFluoride.name=氟化氢 Blossom
     S:oredict.plantGtBlossomHydrogenPeroxide.name=过氧化氢 Blossom
     S:oredict.plantGtBlossomIce.name=Ice花
     S:oredict.plantGtBlossomIgnatius.name=Ignatius花
@@ -34481,7 +34698,7 @@ languagefile {
     S:oredict.plantGtBlossomKalendrite.name=幽冥魂石花
     S:oredict.plantGtBlossomKanthal.name=铁铬铝合金花
     S:oredict.plantGtBlossomKaolinite.name=高岭石花
-    S:oredict.plantGtBlossomKerosine.name=Kerosine 花
+    S:oredict.plantGtBlossomKerosine.name=煤油 花
     S:oredict.plantGtBlossomKesterite.name=锌黄锡矿 花
     S:oredict.plantGtBlossomKnightmetal.name=Knightmetal花
     S:oredict.plantGtBlossomKomatiite.name=科马提岩花
@@ -34855,6 +35072,7 @@ languagefile {
     S:oredict.plantGtBlossomyellowSapphire.name=黄色蓝宝石Blossom
     S:oredict.plantGtBlossom金Inductive.name=感应合金花
     S:oredict.plantGtFiberActinium.name=粗糙的锕纤维
+    S:oredict.plantGtFiberAdamantine.name=Raw Adamantine Fiber
     S:oredict.plantGtFiberAdamantium.name=粗糙的Adamantium纤维
     S:oredict.plantGtFiberAerotheum.name=粗糙的 和谐之空气纤维
     S:oredict.plantGtFiberAir.name=粗糙的Air纤维
@@ -35009,10 +35227,11 @@ languagefile {
     S:oredict.plantGtFiberAquaRegia.name=粗糙的 Aqua Regia纤维
     S:oredict.plantGtFiberAquamarine.name=粗糙的Aquamarine纤维
     S:oredict.plantGtFiberArcaneAshes.name=粗糙的 奥术灰 纤维
-    S:oredict.plantGtFiberArcaneCompound.name=粗糙的 Arcane Compound 纤维
+    S:oredict.plantGtFiberArcaneCompound.name=粗糙的 压缩奥术灰 纤维
     S:oredict.plantGtFiberArdite.name=粗糙的Ardite纤维
     S:oredict.plantGtFiberAredrite.name=粗糙的Aredrite纤维
     S:oredict.plantGtFiberArsenic.name=粗糙的Arsenic纤维
+    S:oredict.plantGtFiberArsenopyrite.name=Raw Arsenopyrite Fiber
     S:oredict.plantGtFiberAsbestos.name=粗糙的Asbestos纤维
     S:oredict.plantGtFiberAshes.name=粗糙的Ashes纤维
     S:oredict.plantGtFiberAsphalt.name=粗糙的沥青纤维
@@ -35071,6 +35290,7 @@ languagefile {
     S:oredict.plantGtFiberCaesium.name=粗糙的Caesium纤维
     S:oredict.plantGtFiberCalcite.name=粗糙的Calcite纤维
     S:oredict.plantGtFiberCalcium.name=粗糙的Calcium纤维
+    S:oredict.plantGtFiberCalciumSulfate.name=Raw Calcium Sulfate Fiber
     S:oredict.plantGtFiberCalifornium.name=粗糙的Californium纤维
     S:oredict.plantGtFiberCarbon.name=粗糙的Carbon纤维
     S:oredict.plantGtFiberCarbon13.name=粗糙的碳-13纤维
@@ -35094,7 +35314,7 @@ languagefile {
     S:oredict.plantGtFiberChargedCertusQuartz.name=粗糙的充能 赛特斯石英 纤维
     S:oredict.plantGtFiberCheese.name=粗糙的Cheese 纤维
     S:oredict.plantGtFiberChert.name=粗糙的Chert 纤维
-    S:oredict.plantGtFiberChili.name=粗糙的Chili 纤维
+    S:oredict.plantGtFiberChili.name=粗糙的辣椒 纤维
     S:oredict.plantGtFiberChlorine.name=粗糙的Chlorine 纤维
     S:oredict.plantGtFiberChloroauricAcid.name=粗糙的 氯金酸 纤维
     S:oredict.plantGtFiberChloroplatinicAcid.name=粗糙的 氯铂酸 纤维
@@ -35106,7 +35326,7 @@ languagefile {
     S:oredict.plantGtFiberCinnabar.name=粗糙的Cinnabar 纤维
     S:oredict.plantGtFiberCinnamon.name=粗糙的Cinnamon 纤维
     S:oredict.plantGtFiberClay.name=粗糙的粘土 纤维
-    S:oredict.plantGtFiberCoal.name=粗糙的Coal 纤维
+    S:oredict.plantGtFiberCoal.name=粗糙的煤纤维
     S:oredict.plantGtFiberCoalCoke.name=粗糙的焦煤纤维
     S:oredict.plantGtFiberCobalt.name=粗糙的钴纤维
     S:oredict.plantGtFiberCobalt60.name=粗糙的钴-60纤维
@@ -35202,6 +35422,7 @@ languagefile {
     S:oredict.plantGtFiberFlerovium298.name=粗糙的𫓧-298 纤维
     S:oredict.plantGtFiberFlint.name=粗糙的Flint 纤维
     S:oredict.plantGtFiberFluorine.name=粗糙的氟 纤维
+    S:oredict.plantGtFiberFluorite.name=Raw Fluorite Fiber
     S:oredict.plantGtFiberFoolsRuby.name=粗糙的红宝石 纤维
     S:oredict.plantGtFiberForce.name=粗糙的Force 纤维
     S:oredict.plantGtFiberForcicium.name=粗糙的力场纤维
@@ -35265,6 +35486,7 @@ languagefile {
     S:oredict.plantGtFiberHydratedCoal.name=粗糙的Hydrated Coal纤维
     S:oredict.plantGtFiberHydrochloricAcid.name=粗糙的Hydrochloric 酸纤维
     S:oredict.plantGtFiberHydrogenBorate.name=Raw 硼酸氢盐 纤维
+    S:oredict.plantGtFiberHydrogenFluoride.name=Raw 氟化氢 Fiber
     S:oredict.plantGtFiberHydrogenPeroxide.name=Raw 过氧化氢 纤维
     S:oredict.plantGtFiberIce.name=粗糙的Ice纤维
     S:oredict.plantGtFiberIgnatius.name=粗糙的Ignatius纤维
@@ -35294,7 +35516,7 @@ languagefile {
     S:oredict.plantGtFiberKalendrite.name=粗糙的Kalendrite纤维
     S:oredict.plantGtFiberKanthal.name=粗糙的Kanthal纤维
     S:oredict.plantGtFiberKaolinite.name=粗糙的Kaolinite纤维
-    S:oredict.plantGtFiberKerosine.name=粗糙的 Kerosine纤维
+    S:oredict.plantGtFiberKerosine.name=粗糙的 煤油纤维
     S:oredict.plantGtFiberKesterite.name=粗糙的锌黄锡矿纤维
     S:oredict.plantGtFiberKnightmetal.name=粗糙的Knightmetal纤维
     S:oredict.plantGtFiberKomatiite.name=粗糙的科马提岩纤维
@@ -35667,6 +35889,7 @@ languagefile {
     S:oredict.plantGtFiberyellowLimonite.name=粗糙的黄色褐铁矿纤维
     S:oredict.plantGtFiberyellowSapphire.name=粗糙的黄色蓝宝石纤维
     S:oredict.plantGtTwigActinium.name=锕细枝
+    S:oredict.plantGtTwigAdamantine.name=Adamantine Twig
     S:oredict.plantGtTwigAdamantium.name=艾德曼合金细枝
     S:oredict.plantGtTwigAerotheum.name=和谐之空气细枝
     S:oredict.plantGtTwigAir.name=空气细枝
@@ -35821,10 +36044,11 @@ languagefile {
     S:oredict.plantGtTwigAquaRegia.name=王水细枝
     S:oredict.plantGtTwigAquamarine.name=海蓝宝石细枝
     S:oredict.plantGtTwigArcaneAshes.name=奥术灰 细枝
-    S:oredict.plantGtTwigArcaneCompound.name=Arcane Compound 细枝
+    S:oredict.plantGtTwigArcaneCompound.name=压缩奥术灰 细枝
     S:oredict.plantGtTwigArdite.name=阿迪特细枝
     S:oredict.plantGtTwigAredrite.name=希尔金细枝
     S:oredict.plantGtTwigArsenic.name=砷细枝
+    S:oredict.plantGtTwigArsenopyrite.name=Arsenopyrite Twig
     S:oredict.plantGtTwigAsbestos.name=石棉细枝
     S:oredict.plantGtTwigAshes.name=灰烬细枝
     S:oredict.plantGtTwigAsphalt.name=沥青细枝
@@ -35883,6 +36107,7 @@ languagefile {
     S:oredict.plantGtTwigCaesium.name=铯细枝
     S:oredict.plantGtTwigCalcite.name=方解石细枝
     S:oredict.plantGtTwigCalcium.name=钙细枝
+    S:oredict.plantGtTwigCalciumSulfate.name=Calcium Sulfate Twig
     S:oredict.plantGtTwigCalifornium.name=锎细枝
     S:oredict.plantGtTwigCarbon.name=碳细枝
     S:oredict.plantGtTwigCarbon13.name=碳-13细枝
@@ -36014,6 +36239,7 @@ languagefile {
     S:oredict.plantGtTwigFlerovium298.name=𫓧-298细枝
     S:oredict.plantGtTwigFlint.name=燧石细枝
     S:oredict.plantGtTwigFluorine.name=氟细枝
+    S:oredict.plantGtTwigFluorite.name=Fluorite Twig
     S:oredict.plantGtTwigFoolsRuby.name=红宝石细枝
     S:oredict.plantGtTwigForce.name=力场细枝
     S:oredict.plantGtTwigForcicium.name=力场细枝
@@ -36077,6 +36303,7 @@ languagefile {
     S:oredict.plantGtTwigHydratedCoal.name=水合煤细枝
     S:oredict.plantGtTwigHydrochloricAcid.name=盐酸细枝
     S:oredict.plantGtTwigHydrogenBorate.name=硼酸氢盐 细枝
+    S:oredict.plantGtTwigHydrogenFluoride.name=氟化氢 Twig
     S:oredict.plantGtTwigHydrogenPeroxide.name=过氧化氢 细枝
     S:oredict.plantGtTwigIce.name=Ice细枝
     S:oredict.plantGtTwigIgnatius.name=Ignatius细枝
@@ -36106,7 +36333,7 @@ languagefile {
     S:oredict.plantGtTwigKalendrite.name=幽冥魂石细枝
     S:oredict.plantGtTwigKanthal.name=铁铬铝合金细枝
     S:oredict.plantGtTwigKaolinite.name=高岭石细枝
-    S:oredict.plantGtTwigKerosine.name=Kerosine细枝
+    S:oredict.plantGtTwigKerosine.name=煤油细枝
     S:oredict.plantGtTwigKesterite.name=锌黄锡矿细枝
     S:oredict.plantGtTwigKnightmetal.name=Knightmetal细枝
     S:oredict.plantGtTwigKomatiite.name=科马提岩细枝
@@ -36480,6 +36707,7 @@ languagefile {
     S:oredict.plantGtTwigyellowSapphire.name=黄色蓝宝石细枝
     S:oredict.plantGtTwig金Inductive.name=感应合金细枝
     S:oredict.plantGtWartActinium.name=锕疣
+    S:oredict.plantGtWartAdamantine.name=Adamantine Wart
     S:oredict.plantGtWartAdamantium.name=艾德曼合金疣
     S:oredict.plantGtWartAerotheum.name=和谐之空气疣
     S:oredict.plantGtWartAir.name=空气疣
@@ -36634,10 +36862,11 @@ languagefile {
     S:oredict.plantGtWartAquaRegia.name=王水疣
     S:oredict.plantGtWartAquamarine.name=海蓝宝石疣
     S:oredict.plantGtWartArcaneAshes.name=奥术灰 疣
-    S:oredict.plantGtWartArcaneCompound.name=Arcane Compound 疣
+    S:oredict.plantGtWartArcaneCompound.name=压缩奥术灰 疣
     S:oredict.plantGtWartArdite.name=阿迪特疣
     S:oredict.plantGtWartAredrite.name=希尔金疣
     S:oredict.plantGtWartArsenic.name=砷疣
+    S:oredict.plantGtWartArsenopyrite.name=Arsenopyrite Wart
     S:oredict.plantGtWartAsbestos.name=石棉疣
     S:oredict.plantGtWartAshes.name=灰烬疣
     S:oredict.plantGtWartAsphalt.name=沥青疣
@@ -36696,6 +36925,7 @@ languagefile {
     S:oredict.plantGtWartCaesium.name=铯疣
     S:oredict.plantGtWartCalcite.name=方解石疣
     S:oredict.plantGtWartCalcium.name=钙疣
+    S:oredict.plantGtWartCalciumSulfate.name=Calcium Sulfate Wart
     S:oredict.plantGtWartCalifornium.name=锎疣
     S:oredict.plantGtWartCarbon.name=碳疣
     S:oredict.plantGtWartCarbon13.name=碳-13疣
@@ -36827,6 +37057,7 @@ languagefile {
     S:oredict.plantGtWartFlerovium298.name=𫓧-298疣
     S:oredict.plantGtWartFlint.name=燧石疣
     S:oredict.plantGtWartFluorine.name=氟疣
+    S:oredict.plantGtWartFluorite.name=Fluorite Wart
     S:oredict.plantGtWartFoolsRuby.name=红宝石疣
     S:oredict.plantGtWartForce.name=力场疣
     S:oredict.plantGtWartForcicium.name=力场疣
@@ -36890,6 +37121,7 @@ languagefile {
     S:oredict.plantGtWartHydratedCoal.name=水合煤疣
     S:oredict.plantGtWartHydrochloricAcid.name=盐酸疣
     S:oredict.plantGtWartHydrogenBorate.name=硼酸氢盐 疣
+    S:oredict.plantGtWartHydrogenFluoride.name=氟化氢 Wart
     S:oredict.plantGtWartHydrogenPeroxide.name=过氧化氢 疣
     S:oredict.plantGtWartIce.name=Ice疣
     S:oredict.plantGtWartIgnatius.name=Ignatius疣
@@ -36919,7 +37151,7 @@ languagefile {
     S:oredict.plantGtWartKalendrite.name=幽冥魂石疣
     S:oredict.plantGtWartKanthal.name=铁铬铝合金疣
     S:oredict.plantGtWartKaolinite.name=高岭石疣
-    S:oredict.plantGtWartKerosine.name=Kerosine 疣
+    S:oredict.plantGtWartKerosine.name=煤油 疣
     S:oredict.plantGtWartKesterite.name=锌黄锡矿疣
     S:oredict.plantGtWartKnightmetal.name=Knightmetal 疣
     S:oredict.plantGtWartKomatiite.name=科马提岩疣
@@ -37292,6 +37524,7 @@ languagefile {
     S:oredict.plantGtWartyellowLimonite.name=黄色褐铁矿疣
     S:oredict.plantGtWartyellowSapphire.name=黄色蓝宝石疣
     S:oredict.plateActinium.name=锕板
+    S:oredict.plateAdamantine.name=Adamantine Plate
     S:oredict.plateAdamantium.name=艾德曼合金板
     S:oredict.plateAlduorite.name=神秘蓝金板
     S:oredict.plateAluminium.name=铝板
@@ -37468,6 +37701,7 @@ languagefile {
     S:oredict.plateCupronickel.name=白铜板
     S:oredict.plateCurium.name=锔板
     S:oredict.plateCurvedActinium.name=弯曲的 锕 板
+    S:oredict.plateCurvedAdamantine.name=Curved Adamantine Plate
     S:oredict.plateCurvedAdamantium.name=弯曲的艾德曼合金 板
     S:oredict.plateCurvedAlduorite.name=弯曲的 Alduorite 板
     S:oredict.plateCurvedAluminium.name=弯曲的 铝板
@@ -37903,6 +38137,7 @@ languagefile {
     S:oredict.plateDarmstadtium.name=鐽板
     S:oredict.plateDeepIron.name=深渊铁板
     S:oredict.plateDenseActinium.name=致密锕板
+    S:oredict.plateDenseAdamantine.name=Dense Adamantine Plate
     S:oredict.plateDenseAdamantium.name=致密艾德曼合金板
     S:oredict.plateDenseAlduorite.name=致密神秘蓝金板
     S:oredict.plateDenseAluminium.name=致密铝板
@@ -38281,6 +38516,7 @@ languagefile {
     S:oredict.plateDesichalkos.name=虚空之魂石板
     S:oredict.plateDiorite.name=闪长岩 板
     S:oredict.plateDoubleActinium.name=两重锕板
+    S:oredict.plateDoubleAdamantine.name=Double Adamantine Plate
     S:oredict.plateDoubleAdamantium.name=两重艾德曼合金板
     S:oredict.plateDoubleAlduorite.name=两重神秘蓝金板
     S:oredict.plateDoubleAluminium.name=两重铝板
@@ -38951,6 +39187,7 @@ languagefile {
     S:oredict.plateProtactinium.name=镤板
     S:oredict.platePulsatingIron.name=脉冲铁 板
     S:oredict.plateQuadrupleActinium.name=四重锕板
+    S:oredict.plateQuadrupleAdamantine.name=Quadruple Adamantine Plate
     S:oredict.plateQuadrupleAdamantium.name=四重艾德曼合金板
     S:oredict.plateQuadrupleAlduorite.name=四重神秘蓝金板
     S:oredict.plateQuadrupleAluminium.name=四重铝板
@@ -39325,6 +39562,7 @@ languagefile {
     S:oredict.plateQuadrupleplatinum.name=四重铂板
     S:oredict.plateQuadruple金Inductive.name=四重 感应合金 板
     S:oredict.plateQuintupleActinium.name=五重锕板
+    S:oredict.plateQuintupleAdamantine.name=Quintuple Adamantine Plate
     S:oredict.plateQuintupleAdamantium.name=五重艾德曼合金板
     S:oredict.plateQuintupleAlduorite.name=五重神秘蓝金板
     S:oredict.plateQuintupleAluminium.name=五重铝板
@@ -39751,6 +39989,7 @@ languagefile {
     S:oredict.plateTin.name=锡板
     S:oredict.plateTinAlloy.name=锡合金板
     S:oredict.plateTinyActinium.name=小块锕板
+    S:oredict.plateTinyAdamantine.name=Tiny Adamantine Plate
     S:oredict.plateTinyAdamantium.name=小块艾德曼合金板
     S:oredict.plateTinyAlduorite.name=小块神秘蓝金板
     S:oredict.plateTinyAluminium.name=小块铝板
@@ -40182,6 +40421,7 @@ languagefile {
     S:oredict.plateTrinitanium.name=三钛板
     S:oredict.plateTrinium.name=Trinium 板
     S:oredict.plateTripleActinium.name=三重锕板
+    S:oredict.plateTripleAdamantine.name=Triple Adamantine Plate
     S:oredict.plateTripleAdamantium.name=三重艾德曼合金板
     S:oredict.plateTripleAlduorite.name=三重神秘蓝金板
     S:oredict.plateTripleAluminium.name=三重铝板
@@ -40622,6 +40862,7 @@ languagefile {
     S:oredict.railGtWroughtIron.name=熟铁导轨
     S:oredict.railGtgold.name=金导轨
     S:oredict.railGtplatinum.name=铂导轨
+    S:oredict.ringAdamantine.name=Adamantine Ring
     S:oredict.ringAdamantium.name=艾德曼合金环
     S:oredict.ringAlmandine.name=铁铝榴石环
     S:oredict.ringAluminium.name=铝环
@@ -40880,6 +41121,7 @@ languagefile {
     S:oredict.ringplatinum.name=铂环
     S:oredict.ringyellowSapphire.name=黄色蓝宝石Ring
     S:oredict.ring金Inductive.name=感应合金环
+    S:oredict.rotorAdamantine.name=Adamantine Rotor
     S:oredict.rotorAdamantium.name=艾德曼合金转子
     S:oredict.rotorAlmandine.name=铁铝榴石转子
     S:oredict.rotorAluminium.name=铝转子
@@ -41138,6 +41380,7 @@ languagefile {
     S:oredict.rotorplatinum.name=铂转子
     S:oredict.rotoryellowSapphire.name=黄色蓝宝石转子
     S:oredict.rotor金Inductive.name=感应合金转子
+    S:oredict.roundAdamantine.name=Adamantine Round
     S:oredict.roundAdamantium.name=艾德曼合金垫片
     S:oredict.roundAlmandine.name=铁铝榴石垫片
     S:oredict.roundAluminium.name=铝垫片
@@ -41398,6 +41641,7 @@ languagefile {
     S:oredict.roundyellowSapphire.name=黄色蓝宝石垫片
     S:oredict.round金Inductive.name=感应合金垫片
     S:oredict.scrapGtActinium.name=锕废料
+    S:oredict.scrapGtAdamantine.name=Adamantine Scrap
     S:oredict.scrapGtAdamantium.name=艾德曼合金废料
     S:oredict.scrapGtAerotheum.name=和谐之空气 废料
     S:oredict.scrapGtAlduorite.name=神秘蓝金废料
@@ -41550,10 +41794,11 @@ languagefile {
     S:oredict.scrapGtApatite.name=磷灰石废料
     S:oredict.scrapGtAquamarine.name=海蓝宝石废料
     S:oredict.scrapGtArcaneAshes.name=奥术灰 废料
-    S:oredict.scrapGtArcaneCompound.name=Arcane Compound 废料
+    S:oredict.scrapGtArcaneCompound.name=压缩奥术灰 废料
     S:oredict.scrapGtArdite.name=阿迪特废料
     S:oredict.scrapGtAredrite.name=阿迪特废料
     S:oredict.scrapGtArsenic.name=砷废料
+    S:oredict.scrapGtArsenopyrite.name=Arsenopyrite Scrap
     S:oredict.scrapGtAsbestos.name=石棉废料
     S:oredict.scrapGtAshes.name=灰烬废料
     S:oredict.scrapGtAsphalt.name=Asphalt 废料
@@ -41607,6 +41852,7 @@ languagefile {
     S:oredict.scrapGtCaesium.name=铯废料
     S:oredict.scrapGtCalcite.name=方解石废料
     S:oredict.scrapGtCalcium.name=钙废料
+    S:oredict.scrapGtCalciumSulfate.name=Calcium Sulfate Scrap
     S:oredict.scrapGtCalifornium.name=锎废料
     S:oredict.scrapGtCarbon.name=碳废料
     S:oredict.scrapGtCarbon13.name=碳-13废料
@@ -41728,6 +41974,7 @@ languagefile {
     S:oredict.scrapGtFlerovium298.name=𫓧-298废料
     S:oredict.scrapGtFlint.name=燧石废料
     S:oredict.scrapGtFluorine.name=氟废料
+    S:oredict.scrapGtFluorite.name=Fluorite Scrap
     S:oredict.scrapGtFoolsRuby.name=红宝石废料
     S:oredict.scrapGtForce.name=力量废料
     S:oredict.scrapGtForcicium.name=力场废料
@@ -42142,6 +42389,7 @@ languagefile {
     S:oredict.scrapGtyellowLimonite.name=黄色褐铁矿废料
     S:oredict.scrapGtyellowSapphire.name=黄色蓝宝石废料
     S:oredict.scrapGt金Inductive.name=感应合金废料
+    S:oredict.screwAdamantine.name=Adamantine Screw
     S:oredict.screwAdamantium.name=艾德曼合金螺丝
     S:oredict.screwAlmandine.name=铁铝榴石螺丝
     S:oredict.screwAluminium.name=铝螺丝
@@ -42401,6 +42649,7 @@ languagefile {
     S:oredict.screwplatinum.name=铂螺丝
     S:oredict.screwyellowSapphire.name=黄色蓝宝石螺丝
     S:oredict.screw金Inductive.name=感应合金螺丝
+    S:oredict.springAdamantine.name=Adamantine Spring
     S:oredict.springAdamantium.name=艾德曼合金弹簧
     S:oredict.springAluminium.name=铝弹簧
     S:oredict.springAluminiumAlloy.name=铝合金弹簧
@@ -42545,6 +42794,7 @@ languagefile {
     S:oredict.springSignalum.name=信素弹簧
     S:oredict.springSiltstone.name=粉砂岩弹簧
     S:oredict.springSilver.name=银弹簧
+    S:oredict.springSmallAdamantine.name=Small Adamantine Spring
     S:oredict.springSmallAdamantium.name=小型艾德曼合金弹簧
     S:oredict.springSmallAluminium.name=小型铝弹簧
     S:oredict.springSmallAluminiumAlloy.name=小型铝合金弹簧
@@ -42784,6 +43034,7 @@ languagefile {
     S:oredict.springplatinum.name=铂弹簧
     S:oredict.spring金Inductive.name=感应合金弹簧
     S:oredict.stickActinium.name=锕杆
+    S:oredict.stickAdamantine.name=Adamantine Rod
     S:oredict.stickAdamantium.name=艾德曼合金杆
     S:oredict.stickAlduorite.name=神秘蓝金杆
     S:oredict.stickAlmandine.name=铁铝榴石杆
@@ -43092,6 +43343,7 @@ languagefile {
     S:oredict.stickLimestone.name=石灰石杆
     S:oredict.stickLivermorium.name=Livermorium杆
     S:oredict.stickLongActinium.name=长锕杆
+    S:oredict.stickLongAdamantine.name=Long Adamantine Rod
     S:oredict.stickLongAdamantium.name=长艾德曼合金杆
     S:oredict.stickLongAlduorite.name=长神秘蓝金杆
     S:oredict.stickLongAlmandine.name=长 Almandine杆
@@ -43765,6 +44017,7 @@ languagefile {
     S:oredict.stickorangeSapphire.name=橙色蓝宝石 杆
     S:oredict.stickplatinum.name=铂杆
     S:oredict.stickyellowSapphire.name=黄色蓝宝石 杆
+    S:oredict.toolHeadArrowAdamantine.name=Adamantine Arrow Head
     S:oredict.toolHeadArrowAdamantium.name=艾德曼合金箭
     S:oredict.toolHeadArrowAlmandine.name=铁铝榴石箭头
     S:oredict.toolHeadArrowAluminium.name=铝箭头
@@ -43999,6 +44252,7 @@ languagefile {
     S:oredict.toolHeadArroworangeSapphire.name=橙色蓝宝石箭头
     S:oredict.toolHeadArrowplatinum.name=铂箭头
     S:oredict.toolHeadArrowyellowSapphire.name=黄色蓝宝石箭头
+    S:oredict.toolHeadAxeAdamantine.name=Adamantine Axe Head
     S:oredict.toolHeadAxeAdamantium.name=艾德曼合金斧头
     S:oredict.toolHeadAxeAlmandine.name=铁铝榴石 斧头
     S:oredict.toolHeadAxeAluminium.name=铝斧头
@@ -44066,6 +44320,7 @@ languagefile {
     S:oredict.toolHeadAxeDiamond.name=钻石斧头
     S:oredict.toolHeadAxeDioptase.name=翠铜石 斧头
     S:oredict.toolHeadAxeDiorite.name=闪长岩 斧头
+    S:oredict.toolHeadAxeDoubleAdamantine.name=Adamantine Double Axe Head
     S:oredict.toolHeadAxeDoubleAdamantium.name=艾德曼合金双刃斧头
     S:oredict.toolHeadAxeDoubleAlmandine.name=铁铝榴石 双刃斧
     S:oredict.toolHeadAxeDoubleAluminium.name=铝双刃斧头
@@ -44446,6 +44701,7 @@ languagefile {
     S:oredict.toolHeadAxeorangeSapphire.name=橙色蓝宝石斧头
     S:oredict.toolHeadAxeplatinum.name=铂斧头
     S:oredict.toolHeadAxeyellowSapphire.name=黄色蓝宝石斧头
+    S:oredict.toolHeadBuzzSawAdamantine.name=Adamantine Buzzsaw Blade
     S:oredict.toolHeadBuzzSawAdamantium.name=艾德曼合金圆锯片
     S:oredict.toolHeadBuzzSawAlmandine.name=铁铝榴石 圆锯片
     S:oredict.toolHeadBuzzSawAluminium.name=铝圆锯片
@@ -44654,6 +44910,7 @@ languagefile {
     S:oredict.toolHeadBuzzSaworangeSapphire.name=橙色蓝宝石Buzz锯片
     S:oredict.toolHeadBuzzSawplatinum.name=铂圆锯片
     S:oredict.toolHeadBuzzSawyellowSapphire.name=黄色蓝宝石Buzz锯片
+    S:oredict.toolHeadChainsawAdamantine.name=Adamantine Chainsaw Tip
     S:oredict.toolHeadChainsawAdamantium.name=艾德曼合金电锯头
     S:oredict.toolHeadChainsawAlmandine.name=铁铝榴石 电锯头
     S:oredict.toolHeadChainsawAluminium.name=铝电锯头
@@ -44862,6 +45119,7 @@ languagefile {
     S:oredict.toolHeadChainsaworangeSapphire.name=橙色蓝宝石电锯头
     S:oredict.toolHeadChainsawplatinum.name=铂电锯头
     S:oredict.toolHeadChainsawyellowSapphire.name=黄色蓝宝石电锯头
+    S:oredict.toolHeadChiselAdamantine.name=Adamantine Chisel Head
     S:oredict.toolHeadChiselAdamantium.name=艾德曼合金凿子头
     S:oredict.toolHeadChiselAlmandine.name=铁铝榴石 凿子头
     S:oredict.toolHeadChiselAluminium.name=铝凿子头
@@ -45070,6 +45328,7 @@ languagefile {
     S:oredict.toolHeadChiselorangeSapphire.name=橙色蓝宝石凿子头
     S:oredict.toolHeadChiselplatinum.name=铂凿子头
     S:oredict.toolHeadChiselyellowSapphire.name=黄色蓝宝石凿子头
+    S:oredict.toolHeadConstructionPickaxeAdamantine.name=Adamantine Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeAdamantium.name=艾德曼合金 建筑镐头
     S:oredict.toolHeadConstructionPickaxeAlmandine.name=铁铝榴石 建筑镐头
     S:oredict.toolHeadConstructionPickaxeAluminium.name=铝建筑镐头
@@ -45282,6 +45541,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeorangeSapphire.name=橙色蓝宝石建筑镐头
     S:oredict.toolHeadConstructionPickaxeplatinum.name=铂 建筑镐头
     S:oredict.toolHeadConstructionPickaxeyellowSapphire.name=黄色蓝宝石建筑镐头
+    S:oredict.toolHeadDrillAdamantine.name=Adamantine Drill Tip
     S:oredict.toolHeadDrillAdamantium.name=艾德曼合金钻头
     S:oredict.toolHeadDrillAlmandine.name=铁铝榴石 钻头
     S:oredict.toolHeadDrillAluminium.name=铝钻头
@@ -45490,6 +45750,7 @@ languagefile {
     S:oredict.toolHeadDrillorangeSapphire.name=橙色蓝宝石钻头
     S:oredict.toolHeadDrillplatinum.name=铂钻头
     S:oredict.toolHeadDrillyellowSapphire.name=黄色蓝宝石钻头
+    S:oredict.toolHeadFileAdamantine.name=Adamantine File Head
     S:oredict.toolHeadFileAdamantium.name=艾德曼合金锉刀头
     S:oredict.toolHeadFileAlmandine.name=铁铝榴石 锉刀头
     S:oredict.toolHeadFileAluminium.name=铝锉刀头
@@ -45699,6 +45960,7 @@ languagefile {
     S:oredict.toolHeadFileorangeSapphire.name=橙色蓝宝石锉刀头
     S:oredict.toolHeadFileplatinum.name=铂锉刀头
     S:oredict.toolHeadFileyellowSapphire.name=黄色蓝宝石锉刀头
+    S:oredict.toolHeadHammerAdamantine.name=Adamantine Hammer Head
     S:oredict.toolHeadHammerAdamantium.name=艾德曼合金锤头
     S:oredict.toolHeadHammerAlmandine.name=铁铝榴石锤头
     S:oredict.toolHeadHammerAluminium.name=铝锤头
@@ -45924,6 +46186,7 @@ languagefile {
     S:oredict.toolHeadHammerorangeSapphire.name=橙色蓝宝石锤头
     S:oredict.toolHeadHammerplatinum.name=铂锤头
     S:oredict.toolHeadHammeryellowSapphire.name=黄色蓝宝石锤头
+    S:oredict.toolHeadHoeAdamantine.name=Adamantine Hoe Head
     S:oredict.toolHeadHoeAdamantium.name=艾德曼合金锄头
     S:oredict.toolHeadHoeAlmandine.name=铁铝榴石 锄头
     S:oredict.toolHeadHoeAluminium.name=铝锄头
@@ -46158,6 +46421,7 @@ languagefile {
     S:oredict.toolHeadHoeorangeSapphire.name=橙色蓝宝石锄头
     S:oredict.toolHeadHoeplatinum.name=铂锄头
     S:oredict.toolHeadHoeyellowSapphire.name=黄色蓝宝石锄头
+    S:oredict.toolHeadPickaxeAdamantine.name=Adamantine Pickaxe Head
     S:oredict.toolHeadPickaxeAdamantium.name=艾德曼合金镐头
     S:oredict.toolHeadPickaxeAlmandine.name=铁铝榴石 镐头
     S:oredict.toolHeadPickaxeAluminium.name=铝镐头
@@ -46392,6 +46656,7 @@ languagefile {
     S:oredict.toolHeadPickaxeorangeSapphire.name=橙色蓝宝石镐头
     S:oredict.toolHeadPickaxeplatinum.name=铂镐头
     S:oredict.toolHeadPickaxeyellowSapphire.name=黄色蓝宝石镐头
+    S:oredict.toolHeadPlowAdamantine.name=Adamantine Plow Head
     S:oredict.toolHeadPlowAdamantium.name=艾德曼合金犁头
     S:oredict.toolHeadPlowAlmandine.name=铁铝榴石 犁头
     S:oredict.toolHeadPlowAluminium.name=铝犁头
@@ -46626,6 +46891,7 @@ languagefile {
     S:oredict.toolHeadPloworangeSapphire.name=橙色蓝宝石犁头
     S:oredict.toolHeadPlowplatinum.name=铂犁头
     S:oredict.toolHeadPlowyellowSapphire.name=黄色蓝宝石犁头
+    S:oredict.toolHeadRawArrowAdamantine.name=Raw Adamantine Arrow Head
     S:oredict.toolHeadRawArrowAdamantium.name=粗糙的艾德曼合金箭头
     S:oredict.toolHeadRawArrowAlmandine.name=粗糙的Almandine箭头
     S:oredict.toolHeadRawArrowAluminium.name=粗糙的铝箭头
@@ -46860,6 +47126,7 @@ languagefile {
     S:oredict.toolHeadRawArroworangeSapphire.name=粗糙的橙色蓝宝石箭头
     S:oredict.toolHeadRawArrowplatinum.name=粗糙的铂箭头
     S:oredict.toolHeadRawArrowyellowSapphire.name=粗糙的 黄色蓝宝石箭头
+    S:oredict.toolHeadRawAxeAdamantine.name=Raw Adamantine Axe Head
     S:oredict.toolHeadRawAxeAdamantium.name=粗糙的艾德曼合金斧头
     S:oredict.toolHeadRawAxeAlmandine.name=粗糙的Almandine 斧头
     S:oredict.toolHeadRawAxeAluminium.name=粗糙的铝斧头
@@ -46927,6 +47194,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDiamond.name=粗糙的钻石斧头
     S:oredict.toolHeadRawAxeDioptase.name=粗糙的翠铜石 斧头
     S:oredict.toolHeadRawAxeDiorite.name=粗糙的闪长岩 斧头
+    S:oredict.toolHeadRawAxeDoubleAdamantine.name=Raw Adamantine Double Axe Head
     S:oredict.toolHeadRawAxeDoubleAdamantium.name=粗糙的艾德曼合金 双刃斧头
     S:oredict.toolHeadRawAxeDoubleAlmandine.name=粗糙的Almandine 双刃斧
     S:oredict.toolHeadRawAxeDoubleAluminium.name=粗糙的铝双刃斧
@@ -47307,6 +47575,7 @@ languagefile {
     S:oredict.toolHeadRawAxeorangeSapphire.name=粗糙的橙色蓝宝石斧头
     S:oredict.toolHeadRawAxeplatinum.name=粗糙的铂斧头
     S:oredict.toolHeadRawAxeyellowSapphire.name=粗糙的黄色蓝宝石斧头
+    S:oredict.toolHeadRawChiselAdamantine.name=Raw Adamantine Chisel Head
     S:oredict.toolHeadRawChiselAdamantium.name=粗糙的艾德曼合金凿子头
     S:oredict.toolHeadRawChiselAlmandine.name=粗糙的Almandine 凿子头
     S:oredict.toolHeadRawChiselAluminium.name=粗糙的铝凿子头
@@ -47515,6 +47784,7 @@ languagefile {
     S:oredict.toolHeadRawChiselorangeSapphire.name=粗糙的橙色蓝宝石凿子头
     S:oredict.toolHeadRawChiselplatinum.name=粗糙的铂凿子头
     S:oredict.toolHeadRawChiselyellowSapphire.name=粗糙的 黄色蓝宝石凿子头
+    S:oredict.toolHeadRawHoeAdamantine.name=Raw Adamantine Hoe Head
     S:oredict.toolHeadRawHoeAdamantium.name=粗糙的Adamantium锄头
     S:oredict.toolHeadRawHoeAlmandine.name=粗糙的Almandine 锄头
     S:oredict.toolHeadRawHoeAluminium.name=粗糙的铝锄头
@@ -47749,6 +48019,7 @@ languagefile {
     S:oredict.toolHeadRawHoeorangeSapphire.name=粗糙的橙色蓝宝石锄头
     S:oredict.toolHeadRawHoeplatinum.name=粗糙的铂锄头
     S:oredict.toolHeadRawHoeyellowSapphire.name=粗糙的黄色蓝宝石锄头
+    S:oredict.toolHeadRawPickaxeAdamantine.name=Raw Adamantine Pickaxe Head
     S:oredict.toolHeadRawPickaxeAdamantium.name=粗糙的艾德曼合金镐头
     S:oredict.toolHeadRawPickaxeAlmandine.name=粗糙的Almandine 镐头
     S:oredict.toolHeadRawPickaxeAluminium.name=粗糙的铝镐头
@@ -47983,6 +48254,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeorangeSapphire.name=粗糙的橙色蓝宝石镐头
     S:oredict.toolHeadRawPickaxeplatinum.name=粗糙的铂镐头
     S:oredict.toolHeadRawPickaxeyellowSapphire.name=粗糙的黄色蓝宝石镐头
+    S:oredict.toolHeadRawPlowAdamantine.name=Raw Adamantine Plow Head
     S:oredict.toolHeadRawPlowAdamantium.name=粗糙的艾德曼合金犁头
     S:oredict.toolHeadRawPlowAlmandine.name=粗糙的Almandine 犁头
     S:oredict.toolHeadRawPlowAluminium.name=粗糙的铝犁头
@@ -48217,6 +48489,7 @@ languagefile {
     S:oredict.toolHeadRawPloworangeSapphire.name=粗糙的橙色蓝宝石犁头
     S:oredict.toolHeadRawPlowplatinum.name=粗糙的铂犁头
     S:oredict.toolHeadRawPlowyellowSapphire.name=粗糙的黄色蓝宝石犁头
+    S:oredict.toolHeadRawSawAdamantine.name=Raw Adamantine Saw Blade
     S:oredict.toolHeadRawSawAdamantium.name=粗糙的艾德曼合金锯片
     S:oredict.toolHeadRawSawAlmandine.name=粗糙的Almandine 圆锯片
     S:oredict.toolHeadRawSawAluminium.name=粗糙的铝锯片
@@ -48425,6 +48698,7 @@ languagefile {
     S:oredict.toolHeadRawSaworangeSapphire.name=粗糙的橙色蓝宝石锯片
     S:oredict.toolHeadRawSawplatinum.name=粗糙的铂锯片
     S:oredict.toolHeadRawSawyellowSapphire.name=粗糙的黄色蓝宝石锯片
+    S:oredict.toolHeadRawSenseAdamantine.name=Raw Adamantine Sense Blade
     S:oredict.toolHeadRawSenseAdamantium.name=粗糙的艾德曼合金镰刀片
     S:oredict.toolHeadRawSenseAlmandine.name=粗糙的Almandine 镰刀片
     S:oredict.toolHeadRawSenseAluminium.name=粗糙的Aluminium镰刀片
@@ -48659,6 +48933,7 @@ languagefile {
     S:oredict.toolHeadRawSenseorangeSapphire.name=粗糙的橙色蓝宝石镰刀片
     S:oredict.toolHeadRawSenseplatinum.name=粗糙的铂镰刀片
     S:oredict.toolHeadRawSenseyellowSapphire.name=粗糙的黄色蓝宝石镰刀片
+    S:oredict.toolHeadRawShovelAdamantine.name=Raw Adamantine Shovel Head
     S:oredict.toolHeadRawShovelAdamantium.name=粗糙的艾德曼合金锹头
     S:oredict.toolHeadRawShovelAlmandine.name=粗糙的Almandine锹头
     S:oredict.toolHeadRawShovelAluminium.name=粗糙的铝锹头
@@ -48893,6 +49168,7 @@ languagefile {
     S:oredict.toolHeadRawShovelorangeSapphire.name=粗糙的橙色蓝宝石锹头
     S:oredict.toolHeadRawShovelplatinum.name=粗糙的铂锹头
     S:oredict.toolHeadRawShovelyellowSapphire.name=粗糙的黄色蓝宝石锹头
+    S:oredict.toolHeadRawSwordAdamantine.name=Raw Adamantine Sword Blade
     S:oredict.toolHeadRawSwordAdamantium.name=粗糙的艾德曼合金剑身
     S:oredict.toolHeadRawSwordAlmandine.name=粗糙的Almandine 剑身
     S:oredict.toolHeadRawSwordAluminium.name=粗糙的铝剑身
@@ -49127,6 +49403,7 @@ languagefile {
     S:oredict.toolHeadRawSwordorangeSapphire.name=粗糙的橙色蓝宝石剑身
     S:oredict.toolHeadRawSwordplatinum.name=粗糙的铂剑身
     S:oredict.toolHeadRawSwordyellowSapphire.name=粗糙的黄色蓝宝石剑身
+    S:oredict.toolHeadRawUniversalSpadeAdamantine.name=Raw Adamantine Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeAdamantium.name=粗糙的艾德曼合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeAlmandine.name=粗糙的Almandine 万用铲头
     S:oredict.toolHeadRawUniversalSpadeAluminium.name=粗糙的铝万用铲头
@@ -49156,7 +49433,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeBismuth.name=粗糙的铋万用铲头
     S:oredict.toolHeadRawUniversalSpadeBismuthBronze.name=粗糙的铋青铜万用铲头
     S:oredict.toolHeadRawUniversalSpadeBlackBronze.name=粗糙的 乌铜 万用铲头
-    S:oredict.toolHeadRawUniversalSpadeBlackSteel.name=粗糙的 碳钢 万用铲头
+    S:oredict.toolHeadRawUniversalSpadeBlackSteel.name=粗糙的碳钢万用铲头
     S:oredict.toolHeadRawUniversalSpadeBlueSapphire.name=粗糙的蓝宝石万用铲头
     S:oredict.toolHeadRawUniversalSpadeBlueSteel.name=粗糙的蓝钢万用铲头
     S:oredict.toolHeadRawUniversalSpadeBlueTopaz.name=粗糙的蓝色黄玉万用铲头
@@ -49334,7 +49611,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeorangeSapphire.name=粗糙的橙色蓝宝石万用铲头
     S:oredict.toolHeadRawUniversalSpadeplatinum.name=粗糙的铂万用铲头
     S:oredict.toolHeadRawUniversalSpadeyellowSapphire.name=粗糙的黄色蓝宝石万用铲头
-    S:oredict.toolHeadRawUniversalSpadeBlackSteel.name=粗糙的碳钢万用铲头
+    S:oredict.toolHeadSawAdamantine.name=Adamantine Saw Blade
     S:oredict.toolHeadSawAdamantium.name=艾德曼合金锯片锯片
     S:oredict.toolHeadSawAlmandine.name=铁铝榴石锯片
     S:oredict.toolHeadSawAluminium.name=铝锯片
@@ -49543,6 +49820,7 @@ languagefile {
     S:oredict.toolHeadSaworangeSapphire.name=橙色蓝宝石锯片
     S:oredict.toolHeadSawplatinum.name=铂锯片
     S:oredict.toolHeadSawyellowSapphire.name=黄色蓝宝石锯片
+    S:oredict.toolHeadScrewdriverAdamantine.name=Adamantine Screwdriver Tip
     S:oredict.toolHeadScrewdriverAdamantium.name=艾德曼合金螺丝刀头
     S:oredict.toolHeadScrewdriverAlmandine.name=铁铝榴石螺丝刀头
     S:oredict.toolHeadScrewdriverAluminium.name=铝螺丝刀头
@@ -49755,6 +50033,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverorangeSapphire.name=橙色蓝宝石螺丝刀头
     S:oredict.toolHeadScrewdriverplatinum.name=铂螺丝刀头
     S:oredict.toolHeadScrewdriveryellowSapphire.name=黄色蓝宝石螺丝刀头
+    S:oredict.toolHeadSenseAdamantine.name=Adamantine Sense Blade
     S:oredict.toolHeadSenseAdamantium.name=艾德曼合金镰刀片
     S:oredict.toolHeadSenseAlmandine.name=铁铝榴石 镰刀片
     S:oredict.toolHeadSenseAluminium.name=铝镰刀片
@@ -49989,6 +50268,7 @@ languagefile {
     S:oredict.toolHeadSenseorangeSapphire.name=橙色蓝宝石镰刀片
     S:oredict.toolHeadSenseplatinum.name=铂镰刀片
     S:oredict.toolHeadSenseyellowSapphire.name=黄色蓝宝石镰刀片
+    S:oredict.toolHeadShovelAdamantine.name=Adamantine Shovel Head
     S:oredict.toolHeadShovelAdamantium.name=艾德曼合金锹头
     S:oredict.toolHeadShovelAlmandine.name=铁铝榴石锹头
     S:oredict.toolHeadShovelAluminium.name=铝锹头
@@ -50223,6 +50503,7 @@ languagefile {
     S:oredict.toolHeadShovelorangeSapphire.name=橙色蓝宝石锹头
     S:oredict.toolHeadShovelplatinum.name=铂锹头
     S:oredict.toolHeadShovelyellowSapphire.name=黄色蓝宝石锹头
+    S:oredict.toolHeadSwordAdamantine.name=Adamantine Sword Blade
     S:oredict.toolHeadSwordAdamantium.name=艾德曼合金剑身
     S:oredict.toolHeadSwordAlmandine.name=铁铝榴石 剑身
     S:oredict.toolHeadSwordAluminium.name=铝剑身
@@ -50457,6 +50738,7 @@ languagefile {
     S:oredict.toolHeadSwordorangeSapphire.name=橙色蓝宝石剑身
     S:oredict.toolHeadSwordplatinum.name=铂剑身
     S:oredict.toolHeadSwordyellowSapphire.name=黄色蓝宝石剑身
+    S:oredict.toolHeadUniversalSpadeAdamantine.name=Adamantine Universal Spade Head
     S:oredict.toolHeadUniversalSpadeAdamantium.name=艾德曼合金万用铲头
     S:oredict.toolHeadUniversalSpadeAlmandine.name=铁铝榴石 万用铲头
     S:oredict.toolHeadUniversalSpadeAluminium.name=铝万用铲头
@@ -50665,6 +50947,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeorangeSapphire.name=橙色蓝宝石万用铲头
     S:oredict.toolHeadUniversalSpadeplatinum.name=铂万用铲头
     S:oredict.toolHeadUniversalSpadeyellowSapphire.name=黄色蓝宝石万用铲头
+    S:oredict.toolHeadWrenchAdamantine.name=Adamantine Wrench Tip
     S:oredict.toolHeadWrenchAdamantium.name=艾德曼合金扳手头
     S:oredict.toolHeadWrenchAlmandine.name=铁铝榴石 扳手头
     S:oredict.toolHeadWrenchAluminium.name=铝扳手头
@@ -50873,6 +51156,7 @@ languagefile {
     S:oredict.toolHeadWrenchorangeSapphire.name=橙色蓝宝石扳手头
     S:oredict.toolHeadWrenchplatinum.name=铂扳手头
     S:oredict.toolHeadWrenchyellowSapphire.name=黄色蓝宝石扳手头
+    S:oredict.wireFineAdamantine.name=Fine Adamantine Wire
     S:oredict.wireFineAdamantium.name=优良艾德曼合金线缆
     S:oredict.wireFineAluminium.name=优良铝线缆
     S:oredict.wireFineAluminiumAlloy.name=优良铝合金线缆
