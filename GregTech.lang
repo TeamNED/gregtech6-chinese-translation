@@ -133,7 +133,7 @@ languagefile {
     S:fluid.cfoam.green=绿色泡沫
     S:fluid.cfoam.lightblue=淡蓝色泡沫
     S:fluid.cfoam.lightgray=淡灰色泡沫
-    S:fluid.cfoam.lime=青柠色泡沫
+    S:fluid.cfoam.lime=黄绿色泡沫
     S:fluid.cfoam.magenta=品红泡沫
     S:fluid.cfoam.orange=橙色泡沫
     S:fluid.cfoam.pink=粉色泡沫
@@ -165,7 +165,7 @@ languagefile {
     S:fluid.dye.chemical.dyegreen=化学绿色染料
     S:fluid.dye.chemical.dyelightblue=化学淡蓝色染料
     S:fluid.dye.chemical.dyelightgray=化学淡灰色染料
-    S:fluid.dye.chemical.dyelime=化学青柠色染料
+    S:fluid.dye.chemical.dyelime=化学黄绿色染料
     S:fluid.dye.chemical.dyemagenta=化学品红染料
     S:fluid.dye.chemical.dyeorange=化学橙色染料
     S:fluid.dye.chemical.dyepink=化学粉色染料
@@ -177,7 +177,7 @@ languagefile {
     S:fluid.dye.chemical.green=化学绿色染料
     S:fluid.dye.chemical.lightblue=化学淡蓝色染料
     S:fluid.dye.chemical.lightgray=化学淡灰色染料
-    S:fluid.dye.chemical.lime=化学青柠色染料
+    S:fluid.dye.chemical.lime=化学黄绿色染料
     S:fluid.dye.chemical.magenta=化学品红染料
     S:fluid.dye.chemical.orange=化学橙色染料
     S:fluid.dye.chemical.pink=化学粉色染料
@@ -197,7 +197,7 @@ languagefile {
     S:fluid.dye.flower.dyegreen=绿色植物染料
     S:fluid.dye.flower.dyelightblue=淡蓝色植物染料
     S:fluid.dye.flower.dyelightgray=浅灰色植物染料
-    S:fluid.dye.flower.dyelime=青柠色植物染料
+    S:fluid.dye.flower.dyelime=黄绿色植物染料
     S:fluid.dye.flower.dyemagenta=品红植物染料
     S:fluid.dye.flower.dyeorange=橙色植物染料
     S:fluid.dye.flower.dyepink=粉色植物染料
@@ -209,7 +209,7 @@ languagefile {
     S:fluid.dye.flower.green=绿色 植物染料
     S:fluid.dye.flower.lightblue=淡蓝色植物染料
     S:fluid.dye.flower.lightgray=淡灰色 植物染料
-    S:fluid.dye.flower.lime=青柠色 植物染料
+    S:fluid.dye.flower.lime=黄绿色 植物染料
     S:fluid.dye.flower.magenta=品红 植物染料
     S:fluid.dye.flower.orange=橙色植物染料
     S:fluid.dye.flower.pink=粉色 植物染料
@@ -229,7 +229,7 @@ languagefile {
     S:fluid.dye.watermixed.dyegreen=水性绿色染料
     S:fluid.dye.watermixed.dyelightblue=水性淡蓝色染料
     S:fluid.dye.watermixed.dyelightgray=水性淡灰色染料
-    S:fluid.dye.watermixed.dyelime=水性青柠色染料
+    S:fluid.dye.watermixed.dyelime=水性黄绿色染料
     S:fluid.dye.watermixed.dyemagenta=水性品红染料
     S:fluid.dye.watermixed.dyeorange=水性橙色染料
     S:fluid.dye.watermixed.dyepink=水性粉色染料
@@ -241,7 +241,7 @@ languagefile {
     S:fluid.dye.watermixed.green=水性绿色染料
     S:fluid.dye.watermixed.lightblue=水性淡蓝色染料
     S:fluid.dye.watermixed.lightgray=水性淡灰色染料
-    S:fluid.dye.watermixed.lime=水性青柠色染料
+    S:fluid.dye.watermixed.lime=水性黄绿色染料
     S:fluid.dye.watermixed.magenta=水性品红染料
     S:fluid.dye.watermixed.orange=水性橙色染料
     S:fluid.dye.watermixed.pink=水性粉色染料
@@ -564,7 +564,7 @@ languagefile {
     S:gt.behaviour.foamremoverspray.tooltip=可以清除泡沫
     S:gt.behaviour.foamspray.0.tooltip=可以喷射黑色泡沫
     S:gt.behaviour.foamspray.1.tooltip=可以喷射红色泡沫
-    S:gt.behaviour.foamspray.10.tooltip=可以喷射青柠色泡沫
+    S:gt.behaviour.foamspray.10.tooltip=可以喷射黄绿色泡沫
     S:gt.behaviour.foamspray.11.tooltip=可以喷射黄色泡沫
     S:gt.behaviour.foamspray.12.tooltip=可以喷射淡蓝色泡沫
     S:gt.behaviour.foamspray.13.tooltip=可以喷射品红泡沫
@@ -589,7 +589,7 @@ languagefile {
     S:gt.behaviour.paintremoverspray.uses=剩余使用次数:
     S:gt.behaviour.paintspray.0.tooltip=可以把东西染成黑色
     S:gt.behaviour.paintspray.1.tooltip=可以把东西染成红色
-    S:gt.behaviour.paintspray.10.tooltip=可以把东西染成青柠色
+    S:gt.behaviour.paintspray.10.tooltip=可以把东西染成黄绿色
     S:gt.behaviour.paintspray.11.tooltip=可以把东西染成黄色
     S:gt.behaviour.paintspray.12.tooltip=可以把东西染成淡蓝色
     S:gt.behaviour.paintspray.13.tooltip=可以把东西染成品红
@@ -619,7 +619,7 @@ languagefile {
     S:gt.behaviour.washing=投入炼药锅以清洗
     S:gt.block.asphalt.0.name=黑色沥青
     S:gt.block.asphalt.1.name=红色沥青
-    S:gt.block.asphalt.10.name=青柠色沥青
+    S:gt.block.asphalt.10.name=黄绿色沥青
     S:gt.block.asphalt.11.name=黄色沥青
     S:gt.block.asphalt.12.name=淡蓝色沥青
     S:gt.block.asphalt.13.name=品红沥青
@@ -636,7 +636,7 @@ languagefile {
     S:gt.block.asphalt.9.name=粉色沥青
     S:gt.block.asphalt.slab.0.0.name=黑色沥青半砖
     S:gt.block.asphalt.slab.0.1.name=红色沥青半砖
-    S:gt.block.asphalt.slab.0.10.name=青柠色沥青半砖
+    S:gt.block.asphalt.slab.0.10.name=黄绿色沥青半砖
     S:gt.block.asphalt.slab.0.11.name=黄色沥青半砖
     S:gt.block.asphalt.slab.0.12.name=淡蓝色沥青半砖
     S:gt.block.asphalt.slab.0.13.name=品红沥青半砖
@@ -653,7 +653,7 @@ languagefile {
     S:gt.block.asphalt.slab.0.9.name=粉色沥青半砖
     S:gt.block.asphalt.slab.1.0.name=黑色沥青半砖
     S:gt.block.asphalt.slab.1.1.name=红色沥青半砖
-    S:gt.block.asphalt.slab.1.10.name=青柠色沥青半砖
+    S:gt.block.asphalt.slab.1.10.name=黄绿色沥青半砖
     S:gt.block.asphalt.slab.1.11.name=黄色沥青半砖
     S:gt.block.asphalt.slab.1.12.name=淡蓝色沥青半砖
     S:gt.block.asphalt.slab.1.13.name=品红沥青半砖
@@ -670,7 +670,7 @@ languagefile {
     S:gt.block.asphalt.slab.1.9.name=粉色沥青半砖
     S:gt.block.asphalt.slab.2.0.name=黑色沥青半砖
     S:gt.block.asphalt.slab.2.1.name=红色沥青半砖
-    S:gt.block.asphalt.slab.2.10.name=青柠色沥青半砖
+    S:gt.block.asphalt.slab.2.10.name=黄绿色沥青半砖
     S:gt.block.asphalt.slab.2.11.name=黄色沥青半砖
     S:gt.block.asphalt.slab.2.12.name=淡蓝色沥青半砖
     S:gt.block.asphalt.slab.2.13.name=品红沥青半砖
@@ -687,7 +687,7 @@ languagefile {
     S:gt.block.asphalt.slab.2.9.name=粉色沥青半砖
     S:gt.block.asphalt.slab.3.0.name=黑色沥青半砖
     S:gt.block.asphalt.slab.3.1.name=红色沥青半砖
-    S:gt.block.asphalt.slab.3.10.name=青柠色沥青半砖
+    S:gt.block.asphalt.slab.3.10.name=黄绿色沥青半砖
     S:gt.block.asphalt.slab.3.11.name=黄色沥青半砖
     S:gt.block.asphalt.slab.3.12.name=淡蓝色沥青半砖
     S:gt.block.asphalt.slab.3.13.name=品红沥青半砖
@@ -704,7 +704,7 @@ languagefile {
     S:gt.block.asphalt.slab.3.9.name=粉色沥青半砖
     S:gt.block.asphalt.slab.4.0.name=黑色沥青半砖
     S:gt.block.asphalt.slab.4.1.name=红色沥青半砖
-    S:gt.block.asphalt.slab.4.10.name=青柠色沥青半砖
+    S:gt.block.asphalt.slab.4.10.name=黄绿色沥青半砖
     S:gt.block.asphalt.slab.4.11.name=黄色沥青半砖
     S:gt.block.asphalt.slab.4.12.name=淡蓝色沥青半砖
     S:gt.block.asphalt.slab.4.13.name=品红沥青半砖
@@ -721,7 +721,7 @@ languagefile {
     S:gt.block.asphalt.slab.4.9.name=粉色沥青半砖
     S:gt.block.asphalt.slab.5.0.name=黑色沥青半砖
     S:gt.block.asphalt.slab.5.1.name=红色沥青半砖
-    S:gt.block.asphalt.slab.5.10.name=青柠色沥青半砖
+    S:gt.block.asphalt.slab.5.10.name=黄绿色沥青半砖
     S:gt.block.asphalt.slab.5.11.name=黄色沥青半砖
     S:gt.block.asphalt.slab.5.12.name=淡蓝色沥青半砖
     S:gt.block.asphalt.slab.5.13.name=品红沥青半砖
@@ -738,7 +738,7 @@ languagefile {
     S:gt.block.asphalt.slab.5.9.name=粉色沥青半砖
     S:gt.block.cfoam.0.name=黑色泡沫
     S:gt.block.cfoam.1.name=红色泡沫
-    S:gt.block.cfoam.10.name=青柠色泡沫
+    S:gt.block.cfoam.10.name=黄绿色泡沫
     S:gt.block.cfoam.11.name=黄色泡沫
     S:gt.block.cfoam.12.name=淡蓝色泡沫
     S:gt.block.cfoam.13.name=品红泡沫
@@ -755,7 +755,7 @@ languagefile {
     S:gt.block.cfoam.9.name=粉色泡沫
     S:gt.block.cfoam.fresh.0.name=黑色湿泡沫
     S:gt.block.cfoam.fresh.1.name=红色湿泡沫
-    S:gt.block.cfoam.fresh.10.name=青柠色湿泡沫
+    S:gt.block.cfoam.fresh.10.name=黄绿色湿泡沫
     S:gt.block.cfoam.fresh.11.name=黄色湿泡沫
     S:gt.block.cfoam.fresh.12.name=淡蓝色湿泡沫
     S:gt.block.cfoam.fresh.13.name=品红湿泡沫
@@ -772,7 +772,7 @@ languagefile {
     S:gt.block.cfoam.fresh.9.name=粉色湿泡沫
     S:gt.block.cfoam.fresh.slab.0.0.name=黑色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.0.1.name=红色湿泡沫半砖
-    S:gt.block.cfoam.fresh.slab.0.10.name=青柠色湿泡沫半砖
+    S:gt.block.cfoam.fresh.slab.0.10.name=黄绿色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.0.11.name=黄色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.0.12.name=淡蓝色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.0.13.name=品红湿泡沫半砖
@@ -789,7 +789,7 @@ languagefile {
     S:gt.block.cfoam.fresh.slab.0.9.name=粉色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.1.0.name=黑色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.1.1.name=红色湿泡沫半砖
-    S:gt.block.cfoam.fresh.slab.1.10.name=青柠色湿泡沫半砖
+    S:gt.block.cfoam.fresh.slab.1.10.name=黄绿色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.1.11.name=黄色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.1.12.name=淡蓝色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.1.13.name=品红湿泡沫半砖
@@ -806,7 +806,7 @@ languagefile {
     S:gt.block.cfoam.fresh.slab.1.9.name=粉色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.2.0.name=黑色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.2.1.name=红色湿泡沫半砖
-    S:gt.block.cfoam.fresh.slab.2.10.name=青柠色湿泡沫半砖
+    S:gt.block.cfoam.fresh.slab.2.10.name=黄绿色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.2.11.name=黄色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.2.12.name=淡蓝色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.2.13.name=品红湿泡沫半砖
@@ -823,7 +823,7 @@ languagefile {
     S:gt.block.cfoam.fresh.slab.2.9.name=粉色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.3.0.name=黑色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.3.1.name=红色湿泡沫半砖
-    S:gt.block.cfoam.fresh.slab.3.10.name=青柠色湿泡沫半砖
+    S:gt.block.cfoam.fresh.slab.3.10.name=黄绿色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.3.11.name=黄色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.3.12.name=淡蓝色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.3.13.name=品红湿泡沫半砖
@@ -840,7 +840,7 @@ languagefile {
     S:gt.block.cfoam.fresh.slab.3.9.name=粉色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.4.0.name=黑色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.4.1.name=红色湿泡沫半砖
-    S:gt.block.cfoam.fresh.slab.4.10.name=青柠色湿泡沫半砖
+    S:gt.block.cfoam.fresh.slab.4.10.name=黄绿色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.4.11.name=黄色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.4.12.name=淡蓝色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.4.13.name=品红湿泡沫半砖
@@ -857,7 +857,7 @@ languagefile {
     S:gt.block.cfoam.fresh.slab.4.9.name=粉色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.5.0.name=黑色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.5.1.name=红色湿泡沫半砖
-    S:gt.block.cfoam.fresh.slab.5.10.name=青柠色湿泡沫半砖
+    S:gt.block.cfoam.fresh.slab.5.10.name=黄绿色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.5.11.name=黄色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.5.12.name=淡蓝色湿泡沫半砖
     S:gt.block.cfoam.fresh.slab.5.13.name=品红湿泡沫半砖
@@ -874,7 +874,7 @@ languagefile {
     S:gt.block.cfoam.fresh.slab.5.9.name=粉色湿泡沫半砖
     S:gt.block.cfoam.slab.0.0.name=黑色泡沫半砖
     S:gt.block.cfoam.slab.0.1.name=红色泡沫半砖
-    S:gt.block.cfoam.slab.0.10.name=青柠色泡沫半砖
+    S:gt.block.cfoam.slab.0.10.name=黄绿色泡沫半砖
     S:gt.block.cfoam.slab.0.11.name=黄色泡沫半砖
     S:gt.block.cfoam.slab.0.12.name=淡蓝色泡沫半砖
     S:gt.block.cfoam.slab.0.13.name=品红泡沫半砖
@@ -891,7 +891,7 @@ languagefile {
     S:gt.block.cfoam.slab.0.9.name=粉色泡沫半砖
     S:gt.block.cfoam.slab.1.0.name=黑色泡沫半砖
     S:gt.block.cfoam.slab.1.1.name=红色泡沫半砖
-    S:gt.block.cfoam.slab.1.10.name=青柠色泡沫半砖
+    S:gt.block.cfoam.slab.1.10.name=黄绿色泡沫半砖
     S:gt.block.cfoam.slab.1.11.name=黄色泡沫半砖
     S:gt.block.cfoam.slab.1.12.name=淡蓝色泡沫半砖
     S:gt.block.cfoam.slab.1.13.name=品红泡沫半砖
@@ -908,7 +908,7 @@ languagefile {
     S:gt.block.cfoam.slab.1.9.name=粉色泡沫半砖
     S:gt.block.cfoam.slab.2.0.name=黑色泡沫半砖
     S:gt.block.cfoam.slab.2.1.name=红色泡沫半砖
-    S:gt.block.cfoam.slab.2.10.name=青柠色泡沫半砖
+    S:gt.block.cfoam.slab.2.10.name=黄绿色泡沫半砖
     S:gt.block.cfoam.slab.2.11.name=黄色泡沫半砖
     S:gt.block.cfoam.slab.2.12.name=淡蓝色泡沫半砖
     S:gt.block.cfoam.slab.2.13.name=品红泡沫半砖
@@ -925,7 +925,7 @@ languagefile {
     S:gt.block.cfoam.slab.2.9.name=粉色泡沫半砖
     S:gt.block.cfoam.slab.3.0.name=黑色泡沫半砖
     S:gt.block.cfoam.slab.3.1.name=红色泡沫半砖
-    S:gt.block.cfoam.slab.3.10.name=青柠色泡沫半砖
+    S:gt.block.cfoam.slab.3.10.name=黄绿色泡沫半砖
     S:gt.block.cfoam.slab.3.11.name=黄色泡沫半砖
     S:gt.block.cfoam.slab.3.12.name=淡蓝色泡沫半砖
     S:gt.block.cfoam.slab.3.13.name=品红泡沫半砖
@@ -942,7 +942,7 @@ languagefile {
     S:gt.block.cfoam.slab.3.9.name=粉色泡沫半砖
     S:gt.block.cfoam.slab.4.0.name=黑色泡沫半砖
     S:gt.block.cfoam.slab.4.1.name=红色泡沫半砖
-    S:gt.block.cfoam.slab.4.10.name=青柠色泡沫半砖
+    S:gt.block.cfoam.slab.4.10.name=黄绿色泡沫半砖
     S:gt.block.cfoam.slab.4.11.name=黄色泡沫半砖
     S:gt.block.cfoam.slab.4.12.name=淡蓝色泡沫半砖
     S:gt.block.cfoam.slab.4.13.name=品红泡沫半砖
@@ -959,7 +959,7 @@ languagefile {
     S:gt.block.cfoam.slab.4.9.name=粉色泡沫半砖
     S:gt.block.cfoam.slab.5.0.name=黑色泡沫半砖
     S:gt.block.cfoam.slab.5.1.name=红色泡沫半砖
-    S:gt.block.cfoam.slab.5.10.name=青柠色泡沫半砖
+    S:gt.block.cfoam.slab.5.10.name=黄绿色泡沫半砖
     S:gt.block.cfoam.slab.5.11.name=黄色泡沫半砖
     S:gt.block.cfoam.slab.5.12.name=淡蓝色泡沫半砖
     S:gt.block.cfoam.slab.5.13.name=品红泡沫半砖
@@ -976,7 +976,7 @@ languagefile {
     S:gt.block.cfoam.slab.5.9.name=粉色泡沫半砖
     S:gt.block.glass.0.name=黑色玻璃
     S:gt.block.glass.1.name=红色玻璃
-    S:gt.block.glass.10.name=青柠色玻璃
+    S:gt.block.glass.10.name=黄绿色玻璃
     S:gt.block.glass.11.name=黄色玻璃
     S:gt.block.glass.12.name=淡蓝色玻璃
     S:gt.block.glass.13.name=品红玻璃
@@ -993,7 +993,7 @@ languagefile {
     S:gt.block.glass.9.name=粉色玻璃
     S:gt.block.glass.slab.0.0.name=黑色玻璃半砖
     S:gt.block.glass.slab.0.1.name=红色玻璃半砖
-    S:gt.block.glass.slab.0.10.name=青柠色玻璃半砖
+    S:gt.block.glass.slab.0.10.name=黄绿色玻璃半砖
     S:gt.block.glass.slab.0.11.name=黄色玻璃半砖
     S:gt.block.glass.slab.0.12.name=淡蓝色玻璃半砖
     S:gt.block.glass.slab.0.13.name=品红玻璃半砖
@@ -1010,7 +1010,7 @@ languagefile {
     S:gt.block.glass.slab.0.9.name=粉色玻璃半砖
     S:gt.block.glass.slab.1.0.name=黑色玻璃半砖
     S:gt.block.glass.slab.1.1.name=红色玻璃半砖
-    S:gt.block.glass.slab.1.10.name=青柠色玻璃半砖
+    S:gt.block.glass.slab.1.10.name=黄绿色玻璃半砖
     S:gt.block.glass.slab.1.11.name=黄色玻璃半砖
     S:gt.block.glass.slab.1.12.name=淡蓝色玻璃半砖
     S:gt.block.glass.slab.1.13.name=品红玻璃半砖
@@ -1027,7 +1027,7 @@ languagefile {
     S:gt.block.glass.slab.1.9.name=粉色玻璃半砖
     S:gt.block.glass.slab.2.0.name=黑色玻璃半砖
     S:gt.block.glass.slab.2.1.name=红色玻璃半砖
-    S:gt.block.glass.slab.2.10.name=青柠色玻璃半砖
+    S:gt.block.glass.slab.2.10.name=黄绿色玻璃半砖
     S:gt.block.glass.slab.2.11.name=黄色玻璃半砖
     S:gt.block.glass.slab.2.12.name=淡蓝色玻璃半砖
     S:gt.block.glass.slab.2.13.name=品红玻璃半砖
@@ -1044,7 +1044,7 @@ languagefile {
     S:gt.block.glass.slab.2.9.name=粉色玻璃半砖
     S:gt.block.glass.slab.3.0.name=黑色玻璃半砖
     S:gt.block.glass.slab.3.1.name=红色玻璃半砖
-    S:gt.block.glass.slab.3.10.name=青柠色玻璃半砖
+    S:gt.block.glass.slab.3.10.name=黄绿色玻璃半砖
     S:gt.block.glass.slab.3.11.name=黄色玻璃半砖
     S:gt.block.glass.slab.3.12.name=淡蓝色玻璃半砖
     S:gt.block.glass.slab.3.13.name=品红玻璃半砖
@@ -1061,7 +1061,7 @@ languagefile {
     S:gt.block.glass.slab.3.9.name=粉色玻璃半砖
     S:gt.block.glass.slab.4.0.name=黑色玻璃半砖
     S:gt.block.glass.slab.4.1.name=红色玻璃半砖
-    S:gt.block.glass.slab.4.10.name=青柠色玻璃半砖
+    S:gt.block.glass.slab.4.10.name=黄绿色玻璃半砖
     S:gt.block.glass.slab.4.11.name=黄色玻璃半砖
     S:gt.block.glass.slab.4.12.name=淡蓝色玻璃半砖
     S:gt.block.glass.slab.4.13.name=品红玻璃半砖
@@ -1078,7 +1078,7 @@ languagefile {
     S:gt.block.glass.slab.4.9.name=粉色玻璃半砖
     S:gt.block.glass.slab.5.0.name=黑色玻璃半砖
     S:gt.block.glass.slab.5.1.name=红色玻璃半砖
-    S:gt.block.glass.slab.5.10.name=青柠色玻璃半砖
+    S:gt.block.glass.slab.5.10.name=黄绿色玻璃半砖
     S:gt.block.glass.slab.5.11.name=黄色玻璃半砖
     S:gt.block.glass.slab.5.12.name=淡蓝色玻璃半砖
     S:gt.block.glass.slab.5.13.name=品红玻璃半砖
@@ -3848,7 +3848,7 @@ languagefile {
     S:gt.multiitem.bottles.32109.name=罐装水性染料
     S:gt.multiitem.bottles.32109.tooltip=颜色: 粉色
     S:gt.multiitem.bottles.32110.name=罐装水性染料
-    S:gt.multiitem.bottles.32110.tooltip=颜色:青柠色
+    S:gt.multiitem.bottles.32110.tooltip=颜色:黄绿色
     S:gt.multiitem.bottles.32111.name=罐装水性染料
     S:gt.multiitem.bottles.32111.tooltip=颜色:黄色
     S:gt.multiitem.bottles.32112.name=罐装水性染料
@@ -3880,7 +3880,7 @@ languagefile {
     S:gt.multiitem.bottles.32125.name=罐装化学染料
     S:gt.multiitem.bottles.32125.tooltip=颜色: 粉色
     S:gt.multiitem.bottles.32126.name=罐装化学染料
-    S:gt.multiitem.bottles.32126.tooltip=颜色:青柠色
+    S:gt.multiitem.bottles.32126.tooltip=颜色:黄绿色
     S:gt.multiitem.bottles.32127.name=罐装化学染料
     S:gt.multiitem.bottles.32127.tooltip=颜色:黄色
     S:gt.multiitem.bottles.32128.name=罐装化学染料
@@ -8567,7 +8567,7 @@ languagefile {
     S:oredict.blockDustLightgray.name=淡灰色染料块
     S:oredict.blockDustLignite.name=褐煤粉块
     S:oredict.blockDustLigniteCoke.name=焦化褐煤 粉块
-    S:oredict.blockDustLime.name=青柠色染料块
+    S:oredict.blockDustLime.name=黄绿色染料块
     S:oredict.blockDustLimestone.name=石灰石粉块
     S:oredict.blockDustLithium.name=锂粉块
     S:oredict.blockDustLithium6.name=锂-6粉块
@@ -12457,7 +12457,7 @@ languagefile {
     S:oredict.chemtubeLightgray.name=淡灰色 试管
     S:oredict.chemtubeLignite.name=褐煤 试管
     S:oredict.chemtubeLigniteCoke.name=焦化褐煤 试管
-    S:oredict.chemtubeLime.name=青柠色 试管
+    S:oredict.chemtubeLime.name=黄绿色 试管
     S:oredict.chemtubeLimestone.name=石灰石 试管
     S:oredict.chemtubeLithium.name=锂 试管
     S:oredict.chemtubeLithium6.name=锂-6 试管
@@ -13821,7 +13821,7 @@ languagefile {
     S:oredict.crateGtDustLightgray.name=淡灰色染料板条箱
     S:oredict.crateGtDustLignite.name=褐煤粉板条箱
     S:oredict.crateGtDustLigniteCoke.name=焦化褐煤 粉板条箱
-    S:oredict.crateGtDustLime.name=青柠色染料板条箱
+    S:oredict.crateGtDustLime.name=黄绿色染料板条箱
     S:oredict.crateGtDustLimestone.name=石灰石粉板条箱
     S:oredict.crateGtDustLithium.name=锂粉板条箱
     S:oredict.crateGtDustLithium6.name=锂-6粉板条箱
@@ -18787,7 +18787,7 @@ languagefile {
     S:oredict.dustDiv72LightGray.name=1/72份 淡灰色染料
     S:oredict.dustDiv72Lignite.name=1/72份 褐煤 粉
     S:oredict.dustDiv72LigniteCoke.name=1/72份 焦化褐煤 粉
-    S:oredict.dustDiv72Lime.name=1/72份 青柠色染料
+    S:oredict.dustDiv72Lime.name=1/72份 黄绿色染料
     S:oredict.dustDiv72Limestone.name=1/72份 石灰石 粉
     S:oredict.dustDiv72Lithium.name=1/72份 锂 粉
     S:oredict.dustDiv72Lithium6.name=1/72份 锂-6 粉
@@ -19742,7 +19742,7 @@ languagefile {
     S:oredict.dustLightgray.name=淡灰色染料
     S:oredict.dustLignite.name=褐煤粉
     S:oredict.dustLigniteCoke.name=焦化褐煤 粉
-    S:oredict.dustLime.name=青柠色染料
+    S:oredict.dustLime.name=黄绿色染料
     S:oredict.dustLimestone.name=石灰石粉
     S:oredict.dustLithium.name=锂粉
     S:oredict.dustLithium6.name=锂-6粉
@@ -20864,7 +20864,7 @@ languagefile {
     S:oredict.dustSmallLightgray.name=小堆淡灰色染料
     S:oredict.dustSmallLignite.name=小堆褐煤粉
     S:oredict.dustSmallLigniteCoke.name=小堆 焦化褐煤 粉
-    S:oredict.dustSmallLime.name=小型Pile of青柠色染料
+    S:oredict.dustSmallLime.name=小型Pile of黄绿色染料
     S:oredict.dustSmallLimestone.name=小堆石灰石粉
     S:oredict.dustSmallLithium.name=小堆锂粉
     S:oredict.dustSmallLithium6.name=小堆锂-6粉
@@ -21665,7 +21665,7 @@ languagefile {
     S:oredict.dustTinyLightgray.name=小撮淡灰色染料
     S:oredict.dustTinyLignite.name=小撮褐煤粉
     S:oredict.dustTinyLigniteCoke.name=小撮 焦化褐煤 粉
-    S:oredict.dustTinyLime.name=小撮青柠色染料
+    S:oredict.dustTinyLime.name=小撮黄绿色染料
     S:oredict.dustTinyLimestone.name=小撮石灰石粉
     S:oredict.dustTinyLithium.name=小撮锂粉
     S:oredict.dustTinyLithium6.name=小撮锂-6粉
@@ -33899,7 +33899,7 @@ languagefile {
     S:oredict.plantGtBerryLight灰色.name=淡灰色梅
     S:oredict.plantGtBerryLignite.name=褐煤梅
     S:oredict.plantGtBerryLigniteCoke.name=焦化褐煤梅
-    S:oredict.plantGtBerryLime.name=青柠色梅
+    S:oredict.plantGtBerryLime.name=黄绿色梅
     S:oredict.plantGtBerryLimestone.name=石灰石梅
     S:oredict.plantGtBerryLithium.name=锂梅
     S:oredict.plantGtBerryLithium6.name=锂-6梅
@@ -34717,7 +34717,7 @@ languagefile {
     S:oredict.plantGtBlossomLightgray.name=淡灰色花
     S:oredict.plantGtBlossomLignite.name=褐煤花
     S:oredict.plantGtBlossomLigniteCoke.name=焦化褐煤 花
-    S:oredict.plantGtBlossomLime.name=青柠色花
+    S:oredict.plantGtBlossomLime.name=黄绿色花
     S:oredict.plantGtBlossomLimestone.name=石灰石花
     S:oredict.plantGtBlossomLithium.name=锂花
     S:oredict.plantGtBlossomLithium6.name=锂-6花
@@ -35535,7 +35535,7 @@ languagefile {
     S:oredict.plantGtFiberLightgray.name=淡灰色 纤维
     S:oredict.plantGtFiberLignite.name=粗糙的褐煤纤维
     S:oredict.plantGtFiberLigniteCoke.name=粗糙的 焦化褐煤纤维
-    S:oredict.plantGtFiberLime.name=青柠色 纤维
+    S:oredict.plantGtFiberLime.name=黄绿色 纤维
     S:oredict.plantGtFiberLimestone.name=粗糙的石灰石纤维
     S:oredict.plantGtFiberLithium.name=粗糙的锂纤维
     S:oredict.plantGtFiberLithium6.name=粗糙的锂-6纤维
@@ -36352,7 +36352,7 @@ languagefile {
     S:oredict.plantGtTwigLightgray.name=淡灰色细枝
     S:oredict.plantGtTwigLignite.name=褐煤细枝
     S:oredict.plantGtTwigLigniteCoke.name=焦化褐煤细枝
-    S:oredict.plantGtTwigLime.name=青柠色细枝
+    S:oredict.plantGtTwigLime.name=黄绿色细枝
     S:oredict.plantGtTwigLimestone.name=石灰石细枝
     S:oredict.plantGtTwigLithium.name=锂细枝
     S:oredict.plantGtTwigLithium6.name=锂-6细枝
@@ -37170,7 +37170,7 @@ languagefile {
     S:oredict.plantGtWartLightgray.name=淡灰色疣
     S:oredict.plantGtWartLignite.name=褐煤疣
     S:oredict.plantGtWartLigniteCoke.name=焦化褐煤疣
-    S:oredict.plantGtWartLime.name=青柠色疣
+    S:oredict.plantGtWartLime.name=黄绿色疣
     S:oredict.plantGtWartLimestone.name=石灰石疣
     S:oredict.plantGtWartLithium.name=锂疣
     S:oredict.plantGtWartLithium6.name=锂-6疣
@@ -42070,7 +42070,7 @@ languagefile {
     S:oredict.scrapGtLightgray.name=淡灰色废料
     S:oredict.scrapGtLignite.name=褐煤废料
     S:oredict.scrapGtLigniteCoke.name=焦化褐煤 废料
-    S:oredict.scrapGtLime.name=青柠色废料
+    S:oredict.scrapGtLime.name=黄绿色废料
     S:oredict.scrapGtLimestone.name=石灰石废料
     S:oredict.scrapGtLithium.name=锂废料
     S:oredict.scrapGtLithium6.name=锂-6废料
