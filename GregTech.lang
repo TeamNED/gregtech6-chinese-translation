@@ -4456,7 +4456,7 @@ languagefile {
     S:gt.multiitem.randomtools.2003.name=木桶
     S:gt.multiitem.randomtools.2003.tooltip=天然胶液
     S:gt.multiitem.randomtools.2004.name=木桶
-    S:gt.multiitem.randomtools.2004.tooltip=木馏油
+    S:gt.multiitem.randomtools.2004.tooltip=杂酚油
     S:gt.multiitem.randomtools.2005.name=木桶
     S:gt.multiitem.randomtools.2005.tooltip=海水 (你不能放置它!)
     S:gt.multiitem.randomtools.2006.name=木桶
@@ -4488,7 +4488,7 @@ languagefile {
     S:gt.multiitem.randomtools.2203.name=木桶
     S:gt.multiitem.randomtools.2203.tooltip=天然胶液
     S:gt.multiitem.randomtools.2204.name=木桶
-    S:gt.multiitem.randomtools.2204.tooltip=木馏油
+    S:gt.multiitem.randomtools.2204.tooltip=杂酚油
     S:gt.multiitem.randomtools.2205.name=木桶
     S:gt.multiitem.randomtools.2205.tooltip=海水 (你不能放置它!)
     S:gt.multiitem.randomtools.2206.name=木桶
@@ -4504,7 +4504,7 @@ languagefile {
     S:gt.multiitem.randomtools.2303.name=木桶
     S:gt.multiitem.randomtools.2303.tooltip=天然胶液
     S:gt.multiitem.randomtools.2304.name=木桶
-    S:gt.multiitem.randomtools.2304.tooltip=木馏油
+    S:gt.multiitem.randomtools.2304.tooltip=杂酚油
     S:gt.multiitem.randomtools.2305.name=木桶
     S:gt.multiitem.randomtools.2305.tooltip=海水 (你不能放置它!)
     S:gt.multiitem.randomtools.2306.name=木桶
@@ -4520,7 +4520,7 @@ languagefile {
     S:gt.multiitem.randomtools.2403.name=木桶
     S:gt.multiitem.randomtools.2403.tooltip=天然胶液
     S:gt.multiitem.randomtools.2404.name=木桶
-    S:gt.multiitem.randomtools.2404.tooltip=木馏油
+    S:gt.multiitem.randomtools.2404.tooltip=杂酚油
     S:gt.multiitem.randomtools.2405.name=木桶
     S:gt.multiitem.randomtools.2405.tooltip=海水 (你不能放置它!)
     S:gt.multiitem.randomtools.2406.name=木桶
@@ -4536,7 +4536,7 @@ languagefile {
     S:gt.multiitem.randomtools.2503.name=木桶
     S:gt.multiitem.randomtools.2503.tooltip=天然胶液
     S:gt.multiitem.randomtools.2504.name=木桶
-    S:gt.multiitem.randomtools.2504.tooltip=木馏油
+    S:gt.multiitem.randomtools.2504.tooltip=杂酚油
     S:gt.multiitem.randomtools.2505.name=木桶
     S:gt.multiitem.randomtools.2505.tooltip=海水 (你不能放置它!)
     S:gt.multiitem.randomtools.2506.name=木桶
@@ -4552,7 +4552,7 @@ languagefile {
     S:gt.multiitem.randomtools.2603.name=木桶
     S:gt.multiitem.randomtools.2603.tooltip=天然胶液
     S:gt.multiitem.randomtools.2604.name=木桶
-    S:gt.multiitem.randomtools.2604.tooltip=木馏油
+    S:gt.multiitem.randomtools.2604.tooltip=杂酚油
     S:gt.multiitem.randomtools.2605.name=木桶
     S:gt.multiitem.randomtools.2605.tooltip=海水 (你不能放置它!)
     S:gt.multiitem.randomtools.2606.name=木桶
@@ -4568,7 +4568,7 @@ languagefile {
     S:gt.multiitem.randomtools.2703.name=木桶
     S:gt.multiitem.randomtools.2703.tooltip=天然胶液
     S:gt.multiitem.randomtools.2704.name=木桶
-    S:gt.multiitem.randomtools.2704.tooltip=木馏油
+    S:gt.multiitem.randomtools.2704.tooltip=杂酚油
     S:gt.multiitem.randomtools.2705.name=木桶
     S:gt.multiitem.randomtools.2705.tooltip=海水 (你不能放置它!)
     S:gt.multiitem.randomtools.2706.name=木桶
@@ -11669,7 +11669,7 @@ languagefile {
     S:oredict.cellAntiHydrogen.name=反物质氢单元
     S:oredict.cellAntiKrypton.name=反物质Krypton单元
     S:oredict.cellAntiMacGuffium.name=反物质乌有岩单元
-    S:oredict.cellAntiNeon.name=反物质Neon单元
+    S:oredict.cellAntiNeon.name=反物质氖单元
     S:oredict.cellAntiNitrogen.name=反物质氮单元
     S:oredict.cellAntiOxygen.name=反物质Oxygen单元
     S:oredict.cellAntiRadon.name=反物质Radon单元
@@ -11688,8 +11688,8 @@ languagefile {
     S:oredict.cellChlorine.name=氯单元
     S:oredict.cellChloroauricAcid.name=氯金酸单元
     S:oredict.cellChloroplatinicAcid.name=氯铂酸单元
-    S:oredict.cellCreosote.name=Creosote单元
-    S:oredict.cellCreosoteOil.name=木馏 油单元
+    S:oredict.cellCreosote.name=单元
+    S:oredict.cellCreosoteOil.name=杂酚油单元
     S:oredict.cellCrudeOil.name=原油单元
     S:oredict.cellCryotheum.name=凛冰单元
     S:oredict.cellCyanVitriol.name=青色硫酸盐单元
@@ -11727,7 +11727,7 @@ languagefile {
     S:oredict.cellMethane.name=甲烷单元
     S:oredict.cellMethaneIce.name=甲烷冰单元
     S:oredict.cellMilk.name=牛奶单元
-    S:oredict.cellNeon.name=Neon单元
+    S:oredict.cellNeon.name=氖单元
     S:oredict.cellNitricAcid.name=硝酸单元
     S:oredict.cellNitroCarbon.name=氮化碳单元
     S:oredict.cellNitroFuel.name=硝基柴油单元
@@ -11748,7 +11748,7 @@ languagefile {
     S:oredict.cellPlasmaBiomass.name=生物质等离子单元
     S:oredict.cellPlasmaCarbonDioxide.name=二氧化碳等离子单元
     S:oredict.cellPlasmaConstructionFoam.name=建筑泡沫等离子单元
-    S:oredict.cellPlasmaCreosoteOil.name=木馏 油等离子单元
+    S:oredict.cellPlasmaCreosoteOil.name=杂酚油等离子单元
     S:oredict.cellPlasmaCrudeOil.name=原油等离子单元
     S:oredict.cellPlasmaCryotheum.name=凛冰等离子单元
     S:oredict.cellPlasmaEmpty.name=空等离子单元
@@ -12018,10 +12018,10 @@ languagefile {
     S:oredict.chemtubeAntiNaquadahEnriched.name=浓缩反物质硅岩金属试管
     S:oredict.chemtubeAntiNaquadria.name=反物质硅岩金属化合物试管
     S:oredict.chemtubeAntiNeodymium.name=反物质钕试管
-    S:oredict.chemtubeAntiNeon.name=反物质Neon试管
+    S:oredict.chemtubeAntiNeon.name=反物质氖试管
     S:oredict.chemtubeAntiNeptunium.name=反物质镎试管
-    S:oredict.chemtubeAntiNeutrino.name=反物质Neutrino 试管
-    S:oredict.chemtubeAntiNeutron.name=反物质Neutron 试管
+    S:oredict.chemtubeAntiNeutrino.name=反物质中微子 试管
+    S:oredict.chemtubeAntiNeutron.name=反物质中子 试管
     S:oredict.chemtubeAntiNickel.name=反物质镍试管
     S:oredict.chemtubeAntiNiobium.name=反物质铌试管
     S:oredict.chemtubeAntiNitrogen.name=反物质氮 试管
@@ -12114,7 +12114,7 @@ languagefile {
     S:oredict.chemtubeAntiTrioctoctium.name=反物质Trioctoctium 试管
     S:oredict.chemtubeAntiTrioctpentium.name=反物质Trioctpentium 试管
     S:oredict.chemtubeAntiTrioctquadium.name=反物质Trioctquadium 试管
-    S:oredict.chemtubeAntiTrioctseptium.name=反物质Trioctseptium 试管
+    S:oredict.chemtubeAntiTrioctseptium.name=反物质387号元素(Tos) 试管
     S:oredict.chemtubeAntiTriocttrium.name=反物质Triocttrium 试管
     S:oredict.chemtubeAntiTrioctunium.name=反物质Trioctunium 试管
     S:oredict.chemtubeAntiTripentbium.name=反物质Tripentbium 试管
@@ -12483,8 +12483,8 @@ languagefile {
     S:oredict.chemtubeCopper.name=铜试管
     S:oredict.chemtubeCorn.name=玉米 试管
     S:oredict.chemtubeCraponite.name=Craponite 试管
-    S:oredict.chemtubeCreosote.name=Creosote试管
-    S:oredict.chemtubeCreosoteOil.name=木馏 油试管
+    S:oredict.chemtubeCreosote.name=试管
+    S:oredict.chemtubeCreosoteOil.name=杂酚油试管
     S:oredict.chemtubeCrudeOil.name=原油试管
     S:oredict.chemtubeCryotheum.name=凛冰试管
     S:oredict.chemtubeCupronickel.name=白铜试管
@@ -12736,14 +12736,14 @@ languagefile {
     S:oredict.chemtubeNaquadria.name=硅岩金属化合物试管
     S:oredict.chemtubeNeodymium.name=钕试管
     S:oredict.chemtubeNeodymiumMagnetic.name=磁化钕试管
-    S:oredict.chemtubeNeon.name=Neon 试管
+    S:oredict.chemtubeNeon.name=氖 试管
     S:oredict.chemtubeNeptunium.name=镎试管
     S:oredict.chemtubeNetherBrick.name=地狱砖试管
     S:oredict.chemtubeNetherQuartz.name=地狱石英试管
     S:oredict.chemtubeNetherStar.name=下界之星试管
     S:oredict.chemtubeNetherrack.name=地狱石试管
-    S:oredict.chemtubeNeutrino.name=Neutrino 试管
-    S:oredict.chemtubeNeutron.name=Neutron 试管
+    S:oredict.chemtubeNeutrino.name=中微子 试管
+    S:oredict.chemtubeNeutron.name=中子 试管
     S:oredict.chemtubeNichrome.name=镍铬合金试管
     S:oredict.chemtubeNickel.name=镍试管
     S:oredict.chemtubeNihonium.name=113号元素(Nh)试管
@@ -12998,7 +12998,7 @@ languagefile {
     S:oredict.chemtubeTrioctoctium.name=Trioctoctium 试管
     S:oredict.chemtubeTrioctpentium.name=Trioctpentium 试管
     S:oredict.chemtubeTrioctquadium.name=Trioctquadium 试管
-    S:oredict.chemtubeTrioctseptium.name=Trioctseptium 试管
+    S:oredict.chemtubeTrioctseptium.name=387号元素(Tos) 试管
     S:oredict.chemtubeTriocttrium.name=Triocttrium 试管
     S:oredict.chemtubeTrioctunium.name=Trioctunium 试管
     S:oredict.chemtubeTripentbium.name=Tripentbium 试管
@@ -33934,8 +33934,8 @@ languagefile {
     S:oredict.plantGtBerryCopper.name=铜梅
     S:oredict.plantGtBerryCorn.name=玉米梅
     S:oredict.plantGtBerryCraponite.name=Craponite梅
-    S:oredict.plantGtBerryCreosote.name=木馏油 梅
-    S:oredict.plantGtBerryCreosoteOil.name=木馏 油梅
+    S:oredict.plantGtBerryCreosote.name=杂酚油 梅
+    S:oredict.plantGtBerryCreosoteOil.name=杂酚油梅
     S:oredict.plantGtBerryCrudeOil.name=原油梅
     S:oredict.plantGtBerryCryotheum.name=凛冰梅
     S:oredict.plantGtBerryCupronickel.name=白铜梅
@@ -34752,8 +34752,8 @@ languagefile {
     S:oredict.plantGtBlossomCopper.name=铜花
     S:oredict.plantGtBlossomCorn.name=玉米花
     S:oredict.plantGtBlossomCraponite.name=Craponite花
-    S:oredict.plantGtBlossomCreosote.name=木馏油 Blossom
-    S:oredict.plantGtBlossomCreosoteOil.name=木馏 油花
+    S:oredict.plantGtBlossomCreosote.name=杂酚油 Blossom
+    S:oredict.plantGtBlossomCreosoteOil.name=杂酚油花
     S:oredict.plantGtBlossomCrudeOil.name=原油花
     S:oredict.plantGtBlossomCryotheum.name=凛冰花
     S:oredict.plantGtBlossomCupronickel.name=白铜花
@@ -35570,8 +35570,8 @@ languagefile {
     S:oredict.plantGtFiberCopper.name=铜棉纤维
     S:oredict.plantGtFiberCorn.name=粗糙的玉米 纤维
     S:oredict.plantGtFiberCraponite.name=粗糙的Craponite 纤维
-    S:oredict.plantGtFiberCreosote.name=粗糙的木馏油 纤维
-    S:oredict.plantGtFiberCreosoteOil.name=粗糙的木馏油 油纤维
+    S:oredict.plantGtFiberCreosote.name=粗糙的杂酚油 纤维
+    S:oredict.plantGtFiberCreosoteOil.name=粗糙的杂酚油 油纤维
     S:oredict.plantGtFiberCrudeOil.name=粗糙的原油纤维
     S:oredict.plantGtFiberCryotheum.name=粗糙的凛冰纤维
     S:oredict.plantGtFiberCupronickel.name=粗糙的白铜 纤维
@@ -36387,8 +36387,8 @@ languagefile {
     S:oredict.plantGtTwigCopper.name=铜细枝
     S:oredict.plantGtTwigCorn.name=玉米细枝
     S:oredict.plantGtTwigCraponite.name=Craponite细枝
-    S:oredict.plantGtTwigCreosote.name=木馏油 细枝
-    S:oredict.plantGtTwigCreosoteOil.name=木馏 油细枝
+    S:oredict.plantGtTwigCreosote.name=杂酚油 细枝
+    S:oredict.plantGtTwigCreosoteOil.name=杂酚油细枝
     S:oredict.plantGtTwigCrudeOil.name=原油细枝
     S:oredict.plantGtTwigCryotheum.name=凛冰细枝
     S:oredict.plantGtTwigCupronickel.name=白铜细枝
@@ -37205,8 +37205,8 @@ languagefile {
     S:oredict.plantGtWartCopper.name=铜疣
     S:oredict.plantGtWartCorn.name=玉米疣
     S:oredict.plantGtWartCraponite.name=Craponite疣
-    S:oredict.plantGtWartCreosote.name=木馏油疣
-    S:oredict.plantGtWartCreosoteOil.name=木馏 油疣
+    S:oredict.plantGtWartCreosote.name=杂酚油疣
+    S:oredict.plantGtWartCreosoteOil.name=杂酚油疣
     S:oredict.plantGtWartCrudeOil.name=原油疣
     S:oredict.plantGtWartCryotheum.name=凛冰疣
     S:oredict.plantGtWartCupronickel.name=白铜疣
@@ -44264,8 +44264,8 @@ languagefile {
     S:oredict.stickLongVulcanite.name=长熔岩结晶杆
     S:oredict.stickLongVyroxeres.name=长幽冥剧毒结晶杆
     S:oredict.stickLongWood.name=长木棍
-    S:oredict.stickLongWoodPolished.name=长抛光木 棍
-    S:oredict.stickLongWoodRubber.name=长橡胶木 棍
+    S:oredict.stickLongWoodPolished.name=长抛光木棍
+    S:oredict.stickLongWoodRubber.name=长橡胶木棍
     S:oredict.stickLongWoodSealed.name=长防腐木棍
     S:oredict.stickLongWroughtIron.name=长熟铁杆
     S:oredict.stickLongYellorium.name=长黄铀杆
@@ -44446,8 +44446,8 @@ languagefile {
     S:oredict.stickVoidMetal.name=虚空金属杆
     S:oredict.stickVulcanite.name=熔岩结晶杆
     S:oredict.stickVyroxeres.name=幽冥剧毒结晶杆
-    S:oredict.stickWoodPolished.name=抛光木 棍
-    S:oredict.stickWoodRubber.name=橡胶木 棍
+    S:oredict.stickWoodPolished.name=抛光木棍
+    S:oredict.stickWoodRubber.name=橡胶木棍
     S:oredict.stickWoodSealed.name=防腐木棍
     S:oredict.stickWroughtIron.name=熟铁杆
     S:oredict.stickYellorium.name=黄铀杆
@@ -44703,7 +44703,7 @@ languagefile {
     S:oredict.toolHeadArroworangeSapphire.name=橙色蓝宝石箭头
     S:oredict.toolHeadArrowplatinum.name=铂箭头
     S:oredict.toolHeadArrowyellowSapphire.name=黄色蓝宝石箭头
-    S:oredict.toolHeadAxeAdamantine.name=血石 Axe Head
+    S:oredict.toolHeadAxeAdamantine.name=血石斧头
     S:oredict.toolHeadAxeAdamantium.name=艾德曼合金斧头
     S:oredict.toolHeadAxeAlmandine.name=铁铝榴石斧头
     S:oredict.toolHeadAxeAluminium.name=铝斧头
@@ -47577,7 +47577,7 @@ languagefile {
     S:oredict.toolHeadRawArroworangeSapphire.name=粗糙的橙色蓝宝石箭头
     S:oredict.toolHeadRawArrowplatinum.name=粗糙的铂箭头
     S:oredict.toolHeadRawArrowyellowSapphire.name=粗糙的黄色蓝宝石箭头
-    S:oredict.toolHeadRawAxeAdamantine.name=粗糙的血石 Axe Head
+    S:oredict.toolHeadRawAxeAdamantine.name=粗糙的血石斧头
     S:oredict.toolHeadRawAxeAdamantium.name=粗糙的艾德曼合金斧头
     S:oredict.toolHeadRawAxeAlmandine.name=粗糙的铁铝榴石斧头
     S:oredict.toolHeadRawAxeAluminium.name=粗糙的铝斧头
