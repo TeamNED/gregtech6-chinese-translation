@@ -7999,7 +7999,7 @@ languagefile {
     S:oredict.arrowGtPlasticBismuthBronze.name=轻质铋青铜箭
     S:oredict.arrowGtPlasticBlackBronze.name=轻质乌铜箭
     S:oredict.arrowGtPlasticBlackSteel.name=轻质碳钢箭
-    S:oredict.arrowGtPlasticBlaze.name=轻质烈焰粉箭
+    S:oredict.arrowGtPlasticBlaze.name=轻质烈焰箭
     S:oredict.arrowGtPlasticBlueSapphire.name=轻质蓝宝石箭
     S:oredict.arrowGtPlasticBlueSteel.name=轻质蓝钢箭
     S:oredict.arrowGtPlasticBlueTopaz.name=轻质蓝色黄玉箭
@@ -8237,7 +8237,7 @@ languagefile {
     S:oredict.arrowGtWoodBismuthBronze.name=铋青铜箭
     S:oredict.arrowGtWoodBlackBronze.name=乌铜箭
     S:oredict.arrowGtWoodBlackSteel.name=碳钢箭
-    S:oredict.arrowGtWoodBlaze.name=烈焰粉箭
+    S:oredict.arrowGtWoodBlaze.name=烈焰箭
     S:oredict.arrowGtWoodBlueSapphire.name=蓝宝石箭
     S:oredict.arrowGtWoodBlueSteel.name=蓝钢箭
     S:oredict.arrowGtWoodBlueTopaz.name=蓝色黄玉箭
@@ -10731,7 +10731,7 @@ languagefile {
     S:oredict.boltBismuthBronze.name=铋青铜螺栓
     S:oredict.boltBlackBronze.name=乌铜螺丝
     S:oredict.boltBlackSteel.name=碳钢螺丝
-    S:oredict.boltBlaze.name=烈焰粉螺栓
+    S:oredict.boltBlaze.name=烈焰螺栓
     S:oredict.boltBlitz.name=Blitz 螺栓
     S:oredict.boltBlizz.name=Blizz 螺栓
     S:oredict.boltBlueAlloy.name=蓝石合金 螺栓
@@ -11746,7 +11746,7 @@ languagefile {
     S:oredict.casingSmallBismuthBronze.name=铋青铜外壳
     S:oredict.casingSmallBlackBronze.name=乌铜外壳
     S:oredict.casingSmallBlackSteel.name=碳钢外壳
-    S:oredict.casingSmallBlaze.name=烈焰棒外壳
+    S:oredict.casingSmallBlaze.name=烈焰外壳
     S:oredict.casingSmallBlueSapphire.name=蓝宝石外壳
     S:oredict.casingSmallBlueSteel.name=蓝钢外壳
     S:oredict.casingSmallBlueTopaz.name=蓝色黄玉外壳
@@ -14112,7 +14112,7 @@ languagefile {
     S:oredict.crateGtDustBlack.name=黑色染料板条箱
     S:oredict.crateGtDustBlackBronze.name=乌铜粉板条箱
     S:oredict.crateGtDustBlackSteel.name=碳钢粉板条箱
-    S:oredict.crateGtDustBlaze.name=烈焰粉粉块板条箱
+    S:oredict.crateGtDustBlaze.name=烈焰块板条箱
     S:oredict.crateGtDustBlitz.name=狂风粉板条箱
     S:oredict.crateGtDustBlizz.name=暴雪粉板条箱
     S:oredict.crateGtDustBlue.name=蓝色染料板条箱
@@ -14157,9 +14157,9 @@ languagefile {
     S:oredict.crateGtDustChalk.name=白垩粉板条箱
     S:oredict.crateGtDustCharcoal.name=木炭粉板条箱
     S:oredict.crateGtDustChargedCertusQuartz.name=充能的赛特斯石英粉板条箱
-    S:oredict.crateGtDustCheese.name=奶酪粉块板条箱
+    S:oredict.crateGtDustCheese.name=奶酪粉板条箱
     S:oredict.crateGtDustChert.name=燧石粉板条箱
-    S:oredict.crateGtDustChili.name=辣椒粉块板条箱
+    S:oredict.crateGtDustChili.name=辣椒粉板条箱
     S:oredict.crateGtDustChlorine.name=氯粉板条箱
     S:oredict.crateGtDustChocolate.name=巧克力粉板条箱
     S:oredict.crateGtDustChromite.name=铬铁矿粉板条箱
@@ -14176,12 +14176,12 @@ languagefile {
     S:oredict.crateGtDustCobaltBrass.name=钴黄铜粉板条箱
     S:oredict.crateGtDustCobaltHexahydrate.name=六水合钴粉板条箱
     S:oredict.crateGtDustCobaltite.name=辉砷钴粉板条箱
-    S:oredict.crateGtDustCocoa.name=可可粉块板条箱
-    S:oredict.crateGtDustCoffee.name=咖啡粉块板条箱
+    S:oredict.crateGtDustCocoa.name=可可粉板条箱
+    S:oredict.crateGtDustCoffee.name=咖啡粉板条箱
     S:oredict.crateGtDustConcrete.name=混凝土粉板条箱
     S:oredict.crateGtDustConductiveIron.name=导体铁粉板条箱
     S:oredict.crateGtDustConstantan.name=康铜粉板条箱
-    S:oredict.crateGtDustConstructionFoam.name=泡沫粉块板条箱
+    S:oredict.crateGtDustConstructionFoam.name=泡沫粉板条箱
     S:oredict.crateGtDustCooperite.name=硫砷铂粉板条箱
     S:oredict.crateGtDustCopernicium.name=鎶粉板条箱
     S:oredict.crateGtDustCopper.name=铜粉板条箱
@@ -14191,7 +14191,7 @@ languagefile {
     S:oredict.crateGtDustCryotheum.name=凛冰粉板条箱
     S:oredict.crateGtDustCupronickel.name=白铜粉板条箱
     S:oredict.crateGtDustCurium.name=锔粉板条箱
-    S:oredict.crateGtDustCurry.name=咖喱粉块板条箱
+    S:oredict.crateGtDustCurry.name=咖喱粉板条箱
     S:oredict.crateGtDustCyan.name=青色染料板条箱
     S:oredict.crateGtDustCyanite.name=蓝晶石粉板条箱
     S:oredict.crateGtDustDacite.name=英安岩粉板条箱
@@ -14388,8 +14388,8 @@ languagefile {
     S:oredict.crateGtDustMica.name=云母粉板条箱
     S:oredict.crateGtDustMidasium.name=溶火金粉板条箱
     S:oredict.crateGtDustMigmatite.name=混合岩粉板条箱
-    S:oredict.crateGtDustMilk.name=牛奶粉块板条箱
-    S:oredict.crateGtDustMint.name=薄荷粉块板条箱
+    S:oredict.crateGtDustMilk.name=牛奶粉板条箱
+    S:oredict.crateGtDustMint.name=薄荷粉板条箱
     S:oredict.crateGtDustMirabilite.name=芒硝粉板条箱
     S:oredict.crateGtDustMithril.name=秘银粉板条箱
     S:oredict.crateGtDustMolybdenite.name=辉钼矿粉板条箱
@@ -14526,7 +14526,7 @@ languagefile {
     S:oredict.crateGtDustSilverIodide.name=碘化银粉板条箱
     S:oredict.crateGtDustSluiceSand.name=矿物杂质沙板条箱
     S:oredict.crateGtDustSmithsonite.name=菱锌矿粉板条箱
-    S:oredict.crateGtDustSnow.name=雪粉块板条箱
+    S:oredict.crateGtDustSnow.name=雪粉板条箱
     S:oredict.crateGtDustSoapstone.name=皂石粉板条箱
     S:oredict.crateGtDustSodalite.name=方钠石粉板条箱
     S:oredict.crateGtDustSodium.name=钠粉板条箱
@@ -14566,7 +14566,7 @@ languagefile {
     S:oredict.crateGtDustTantalum.name=钽粉板条箱
     S:oredict.crateGtDustTanzanite.name=坦桑石粉板条箱
     S:oredict.crateGtDustTartarite.name=溶火之石粉板条箱
-    S:oredict.crateGtDustTea.name=茶粉块板条箱
+    S:oredict.crateGtDustTea.name=茶粉板条箱
     S:oredict.crateGtDustTechnetium.name=锝粉板条箱
     S:oredict.crateGtDustTellurium.name=碲粉板条箱
     S:oredict.crateGtDustTerbium.name=铽粉板条箱
@@ -21158,7 +21158,7 @@ languagefile {
     S:oredict.dustSmallBlack.name=小堆黑色染料
     S:oredict.dustSmallBlackBronze.name=小堆乌铜粉
     S:oredict.dustSmallBlackSteel.name=小堆碳钢粉
-    S:oredict.dustSmallBlaze.name=小堆烈焰粉粉块
+    S:oredict.dustSmallBlaze.name=小堆烈焰粉
     S:oredict.dustSmallBlitz.name=小撮狂风粉
     S:oredict.dustSmallBlizz.name=小堆暴雪粉
     S:oredict.dustSmallBlue.name=小堆蓝色染料
@@ -23042,7 +23042,7 @@ languagefile {
     S:oredict.gearGtBismuthBronze.name=铋青铜齿轮
     S:oredict.gearGtBlackBronze.name=乌铜齿轮
     S:oredict.gearGtBlackSteel.name=碳钢齿轮
-    S:oredict.gearGtBlaze.name=烈焰粉齿轮
+    S:oredict.gearGtBlaze.name=烈焰齿轮
     S:oredict.gearGtBlueSapphire.name=蓝宝石齿轮
     S:oredict.gearGtBlueSteel.name=蓝钢齿轮
     S:oredict.gearGtBlueTopaz.name=蓝色黄玉齿轮
@@ -23242,7 +23242,7 @@ languagefile {
     S:oredict.gearGtSmallBismuthBronze.name=小型铋青铜齿轮
     S:oredict.gearGtSmallBlackBronze.name=小型乌铜齿轮
     S:oredict.gearGtSmallBlackSteel.name=小型碳钢齿轮
-    S:oredict.gearGtSmallBlaze.name=小型烈焰粉齿轮
+    S:oredict.gearGtSmallBlaze.name=小型烈焰齿轮
     S:oredict.gearGtSmallBlueSapphire.name=小型蓝宝石齿轮
     S:oredict.gearGtSmallBlueSteel.name=小型蓝钢齿轮
     S:oredict.gearGtSmallBlueTopaz.name=小型蓝色黄玉齿轮
@@ -38211,7 +38211,7 @@ languagefile {
     S:oredict.plateBismuthBronze.name=铋青铜板
     S:oredict.plateBlackBronze.name=乌铜板
     S:oredict.plateBlackSteel.name=碳钢板
-    S:oredict.plateBlaze.name=烈焰棒板
+    S:oredict.plateBlaze.name=烈焰板
     S:oredict.plateBlueAlloy.name=蓝石合金板
     S:oredict.plateBlueSteel.name=蓝钢板
     S:oredict.plateBlueschist.name=蓝片岩板
@@ -41446,7 +41446,7 @@ languagefile {
     S:oredict.ringBismuthBronze.name=铋青铜环
     S:oredict.ringBlackBronze.name=乌铜环
     S:oredict.ringBlackSteel.name=碳钢环
-    S:oredict.ringBlaze.name=烈焰粉环
+    S:oredict.ringBlaze.name=烈焰环
     S:oredict.ringBlueSapphire.name=蓝宝石Ring
     S:oredict.ringBlueSteel.name=蓝钢环
     S:oredict.ringBlueTopaz.name=蓝色黄玉环
@@ -41705,7 +41705,7 @@ languagefile {
     S:oredict.rotorBismuthBronze.name=铋青铜转子
     S:oredict.rotorBlackBronze.name=乌铜 转子
     S:oredict.rotorBlackSteel.name=碳钢 转子
-    S:oredict.rotorBlaze.name=烈焰粉转子
+    S:oredict.rotorBlaze.name=烈焰转子
     S:oredict.rotorBlueSapphire.name=蓝宝石转子
     S:oredict.rotorBlueSteel.name=蓝钢转子
     S:oredict.rotorBlueTopaz.name=蓝色黄玉转子
@@ -41964,7 +41964,7 @@ languagefile {
     S:oredict.roundBismuthBronze.name=铋青铜垫片
     S:oredict.roundBlackBronze.name=乌铜垫片
     S:oredict.roundBlackSteel.name=碳钢垫片
-    S:oredict.roundBlaze.name=烈焰粉垫片
+    S:oredict.roundBlaze.name=烈焰垫片
     S:oredict.roundBlueSapphire.name=蓝宝石转子
     S:oredict.roundBlueSteel.name=蓝钢垫片
     S:oredict.roundBlueTopaz.name=蓝色黄玉垫片
@@ -42371,7 +42371,7 @@ languagefile {
     S:oredict.scrapGtBlack.name=黑色废料
     S:oredict.scrapGtBlackBronze.name=乌铜废料
     S:oredict.scrapGtBlackSteel.name=碳钢废料
-    S:oredict.scrapGtBlaze.name=烈焰粉废料
+    S:oredict.scrapGtBlaze.name=烈焰废料
     S:oredict.scrapGtBlitz.name=狂风废料
     S:oredict.scrapGtBlizz.name=暴雪废料
     S:oredict.scrapGtBlue.name=蓝色废料
@@ -43085,7 +43085,7 @@ languagefile {
     S:oredict.screwBismuthBronze.name=铋青铜螺丝
     S:oredict.screwBlackBronze.name=乌铜螺丝
     S:oredict.screwBlackSteel.name=碳钢螺丝
-    S:oredict.screwBlaze.name=烈焰粉螺丝
+    S:oredict.screwBlaze.name=烈焰螺丝
     S:oredict.screwBlitz.name=Blitz 螺丝
     S:oredict.screwBlizz.name=Blizz 螺丝
     S:oredict.screwBlueAlloy.name=蓝石合金 螺丝
@@ -44267,7 +44267,7 @@ languagefile {
     S:oredict.stickLongBismuthBronze.name=长铋青铜杆
     S:oredict.stickLongBlackBronze.name=长乌铜杆
     S:oredict.stickLongBlackSteel.name=长碳钢杆
-    S:oredict.stickLongBlaze.name=长烈焰粉杆
+    S:oredict.stickLongBlaze.name=长烈焰杆
     S:oredict.stickLongBlitz.name=长狂风杆
     S:oredict.stickLongBlizz.name=长暴雪杆
     S:oredict.stickLongBlueAlloy.name=长蓝石合金杆
@@ -44820,7 +44820,7 @@ languagefile {
     S:oredict.toolHeadArrowBismuthBronze.name=铋青铜箭头
     S:oredict.toolHeadArrowBlackBronze.name=乌铜箭头
     S:oredict.toolHeadArrowBlackSteel.name=碳钢箭头
-    S:oredict.toolHeadArrowBlaze.name=烈焰粉箭头
+    S:oredict.toolHeadArrowBlaze.name=烈焰箭头
     S:oredict.toolHeadArrowBlueSapphire.name=蓝宝石箭头
     S:oredict.toolHeadArrowBlueSteel.name=蓝钢箭头
     S:oredict.toolHeadArrowBlueTopaz.name=蓝色黄玉箭头
@@ -45055,7 +45055,7 @@ languagefile {
     S:oredict.toolHeadAxeBismuthBronze.name=铋青铜斧头
     S:oredict.toolHeadAxeBlackBronze.name=乌铜斧头
     S:oredict.toolHeadAxeBlackSteel.name=碳钢斧头
-    S:oredict.toolHeadAxeBlaze.name=烈焰粉斧头
+    S:oredict.toolHeadAxeBlaze.name=烈焰斧头
     S:oredict.toolHeadAxeBlueSapphire.name=蓝宝石斧头
     S:oredict.toolHeadAxeBlueSteel.name=蓝钢斧头
     S:oredict.toolHeadAxeBlueTopaz.name=蓝色黄玉斧头
@@ -46761,7 +46761,7 @@ languagefile {
     S:oredict.toolHeadHammerBismuthBronze.name=铋青铜锤头
     S:oredict.toolHeadHammerBlackBronze.name=乌铜锤头
     S:oredict.toolHeadHammerBlackSteel.name=碳钢锤头
-    S:oredict.toolHeadHammerBlaze.name=烈焰粉锤头
+    S:oredict.toolHeadHammerBlaze.name=烈焰锤头
     S:oredict.toolHeadHammerBlueSapphire.name=蓝宝石锤头
     S:oredict.toolHeadHammerBlueSteel.name=蓝钢锤头
     S:oredict.toolHeadHammerBlueTopaz.name=蓝色黄玉锤头
@@ -46989,7 +46989,7 @@ languagefile {
     S:oredict.toolHeadHoeBismuthBronze.name=铋青铜锄头
     S:oredict.toolHeadHoeBlackBronze.name=乌铜锄头
     S:oredict.toolHeadHoeBlackSteel.name=碳钢锄头
-    S:oredict.toolHeadHoeBlaze.name=烈焰粉锄头
+    S:oredict.toolHeadHoeBlaze.name=烈焰锄头
     S:oredict.toolHeadHoeBlueSapphire.name=蓝宝石锄头
     S:oredict.toolHeadHoeBlueSteel.name=蓝钢锄头
     S:oredict.toolHeadHoeBlueTopaz.name=蓝色黄玉锄头
@@ -47224,7 +47224,7 @@ languagefile {
     S:oredict.toolHeadPickaxeBismuthBronze.name=铋青铜镐头
     S:oredict.toolHeadPickaxeBlackBronze.name=乌铜镐头
     S:oredict.toolHeadPickaxeBlackSteel.name=碳钢镐头
-    S:oredict.toolHeadPickaxeBlaze.name=烈焰粉镐头
+    S:oredict.toolHeadPickaxeBlaze.name=烈焰镐头
     S:oredict.toolHeadPickaxeBlueSapphire.name=蓝宝石镐头
     S:oredict.toolHeadPickaxeBlueSteel.name=蓝钢镐头
     S:oredict.toolHeadPickaxeBlueTopaz.name=蓝色黄玉镐头
@@ -47459,7 +47459,7 @@ languagefile {
     S:oredict.toolHeadPlowBismuthBronze.name=铋青铜犁头
     S:oredict.toolHeadPlowBlackBronze.name=乌铜犁头
     S:oredict.toolHeadPlowBlackSteel.name=碳钢犁头
-    S:oredict.toolHeadPlowBlaze.name=烈焰粉犁头
+    S:oredict.toolHeadPlowBlaze.name=烈焰犁头
     S:oredict.toolHeadPlowBlueSapphire.name=蓝宝石犁头
     S:oredict.toolHeadPlowBlueSteel.name=蓝钢犁头
     S:oredict.toolHeadPlowBlueTopaz.name=蓝色黄玉犁头
@@ -47694,7 +47694,7 @@ languagefile {
     S:oredict.toolHeadRawArrowBismuthBronze.name=粗糙的铋青铜箭头
     S:oredict.toolHeadRawArrowBlackBronze.name=粗糙的乌铜箭头
     S:oredict.toolHeadRawArrowBlackSteel.name=粗糙的碳钢箭头
-    S:oredict.toolHeadRawArrowBlaze.name=粗糙的烈焰粉箭头
+    S:oredict.toolHeadRawArrowBlaze.name=粗糙的烈焰箭头
     S:oredict.toolHeadRawArrowBlueSapphire.name=粗糙的蓝宝石箭头
     S:oredict.toolHeadRawArrowBlueSteel.name=粗糙的蓝钢箭头
     S:oredict.toolHeadRawArrowBlueTopaz.name=粗糙的蓝色黄玉箭头
@@ -47929,7 +47929,7 @@ languagefile {
     S:oredict.toolHeadRawAxeBismuthBronze.name=粗糙的铋青铜斧头
     S:oredict.toolHeadRawAxeBlackBronze.name=粗糙的乌铜斧头
     S:oredict.toolHeadRawAxeBlackSteel.name=粗糙的碳钢斧头
-    S:oredict.toolHeadRawAxeBlaze.name=粗糙的烈焰粉斧头
+    S:oredict.toolHeadRawAxeBlaze.name=粗糙的烈焰斧头
     S:oredict.toolHeadRawAxeBlueSapphire.name=粗糙的蓝宝石斧头
     S:oredict.toolHeadRawAxeBlueSteel.name=粗糙的蓝钢斧头
     S:oredict.toolHeadRawAxeBlueTopaz.name=粗糙的蓝色黄玉斧头
@@ -48587,7 +48587,7 @@ languagefile {
     S:oredict.toolHeadRawHoeBismuthBronze.name=粗糙的铋青铜锄头
     S:oredict.toolHeadRawHoeBlackBronze.name=粗糙的乌铜锄头
     S:oredict.toolHeadRawHoeBlackSteel.name=粗糙的碳钢锄头
-    S:oredict.toolHeadRawHoeBlaze.name=粗糙的烈焰粉锄头
+    S:oredict.toolHeadRawHoeBlaze.name=粗糙的烈焰锄头
     S:oredict.toolHeadRawHoeBlueSapphire.name=粗糙的蓝宝石锄头
     S:oredict.toolHeadRawHoeBlueSteel.name=粗糙的蓝钢锄头
     S:oredict.toolHeadRawHoeBlueTopaz.name=粗糙的蓝色黄玉锄头
@@ -48822,7 +48822,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeBismuthBronze.name=粗糙的铋青铜镐头
     S:oredict.toolHeadRawPickaxeBlackBronze.name=粗糙的乌铜镐头
     S:oredict.toolHeadRawPickaxeBlackSteel.name=粗糙的碳钢镐头
-    S:oredict.toolHeadRawPickaxeBlaze.name=粗糙的烈焰粉镐头
+    S:oredict.toolHeadRawPickaxeBlaze.name=粗糙的烈焰镐头
     S:oredict.toolHeadRawPickaxeBlueSapphire.name=粗糙的蓝宝石镐头
     S:oredict.toolHeadRawPickaxeBlueSteel.name=粗糙的蓝钢镐头
     S:oredict.toolHeadRawPickaxeBlueTopaz.name=粗糙的蓝色黄玉镐头
@@ -49057,7 +49057,7 @@ languagefile {
     S:oredict.toolHeadRawPlowBismuthBronze.name=粗糙的铋青铜犁头
     S:oredict.toolHeadRawPlowBlackBronze.name=粗糙的乌铜犁头
     S:oredict.toolHeadRawPlowBlackSteel.name=粗糙的碳钢犁头
-    S:oredict.toolHeadRawPlowBlaze.name=粗糙的烈焰粉犁头
+    S:oredict.toolHeadRawPlowBlaze.name=粗糙的烈焰犁头
     S:oredict.toolHeadRawPlowBlueSapphire.name=粗糙的蓝宝石犁头
     S:oredict.toolHeadRawPlowBlueSteel.name=粗糙的蓝钢犁头
     S:oredict.toolHeadRawPlowBlueTopaz.name=粗糙的蓝色黄玉犁头
@@ -49736,7 +49736,7 @@ languagefile {
     S:oredict.toolHeadRawShovelBismuthBronze.name=粗糙的铋青铜锹头
     S:oredict.toolHeadRawShovelBlackBronze.name=粗糙的乌铜锹头
     S:oredict.toolHeadRawShovelBlackSteel.name=粗糙的碳钢锹头
-    S:oredict.toolHeadRawShovelBlaze.name=粗糙的烈焰粉锹头
+    S:oredict.toolHeadRawShovelBlaze.name=粗糙的烈焰锹头
     S:oredict.toolHeadRawShovelBlueSapphire.name=粗糙的蓝宝石锹头
     S:oredict.toolHeadRawShovelBlueSteel.name=粗糙的蓝钢锹头
     S:oredict.toolHeadRawShovelBlueTopaz.name=粗糙的蓝色黄玉锹头
@@ -49971,7 +49971,7 @@ languagefile {
     S:oredict.toolHeadRawSwordBismuthBronze.name=粗糙的铋青铜剑身
     S:oredict.toolHeadRawSwordBlackBronze.name=粗糙的乌铜剑身
     S:oredict.toolHeadRawSwordBlackSteel.name=粗糙的碳钢剑身
-    S:oredict.toolHeadRawSwordBlaze.name=粗糙的烈焰粉剑身
+    S:oredict.toolHeadRawSwordBlaze.name=粗糙的烈焰剑身
     S:oredict.toolHeadRawSwordBlueSapphire.name=粗糙的蓝宝石剑身
     S:oredict.toolHeadRawSwordBlueSteel.name=粗糙的蓝钢剑身
     S:oredict.toolHeadRawSwordBlueTopaz.name=粗糙的蓝色黄玉剑身
@@ -50836,7 +50836,7 @@ languagefile {
     S:oredict.toolHeadSenseBismuthBronze.name=铋青铜镰刀片
     S:oredict.toolHeadSenseBlackBronze.name=乌铜镰刀片
     S:oredict.toolHeadSenseBlackSteel.name=碳钢镰刀片
-    S:oredict.toolHeadSenseBlaze.name=烈焰棒镰刀片
+    S:oredict.toolHeadSenseBlaze.name=烈焰镰刀片
     S:oredict.toolHeadSenseBlueSapphire.name=蓝宝石镰刀片
     S:oredict.toolHeadSenseBlueSteel.name=蓝钢镰刀片
     S:oredict.toolHeadSenseBlueTopaz.name=蓝色黄玉镰刀片
@@ -51071,7 +51071,7 @@ languagefile {
     S:oredict.toolHeadShovelBismuthBronze.name=铋青铜锹头
     S:oredict.toolHeadShovelBlackBronze.name=乌铜锹头
     S:oredict.toolHeadShovelBlackSteel.name=碳钢锹头
-    S:oredict.toolHeadShovelBlaze.name=烈焰粉锹头
+    S:oredict.toolHeadShovelBlaze.name=烈焰锹头
     S:oredict.toolHeadShovelBlueSapphire.name=蓝宝石锹头
     S:oredict.toolHeadShovelBlueSteel.name=蓝钢锹头
     S:oredict.toolHeadShovelBlueTopaz.name=蓝色黄玉锹头
@@ -51306,7 +51306,7 @@ languagefile {
     S:oredict.toolHeadSwordBismuthBronze.name=铋青铜剑身
     S:oredict.toolHeadSwordBlackBronze.name=乌铜剑身
     S:oredict.toolHeadSwordBlackSteel.name=碳钢剑身
-    S:oredict.toolHeadSwordBlaze.name=烈焰粉剑身
+    S:oredict.toolHeadSwordBlaze.name=烈焰剑身
     S:oredict.toolHeadSwordBlueSapphire.name=蓝宝石剑身
     S:oredict.toolHeadSwordBlueSteel.name=蓝钢剑身
     S:oredict.toolHeadSwordBlueTopaz.name=蓝色黄玉剑身
