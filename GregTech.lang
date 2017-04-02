@@ -1051,13 +1051,13 @@ languagefile {
     S:gt.block.glass.slab.5.9.name=粉色玻璃半砖
     S:gt.block.leaves.0.name=橡胶树叶
     S:gt.block.leaves.1.name=枫树叶
-    S:gt.block.leaves.10.name=树叶
+    S:gt.block.leaves.10.name=柳树叶
     S:gt.block.leaves.11.name=树叶
     S:gt.block.leaves.12.name=树叶
     S:gt.block.leaves.13.name=树叶
     S:gt.block.leaves.14.name=树叶
     S:gt.block.leaves.15.name=树叶
-    S:gt.block.leaves.2.name=树叶
+    S:gt.block.leaves.2.name=柳树叶
     S:gt.block.leaves.3.name=树叶
     S:gt.block.leaves.32767.name=Any Sub-Block of this one
     S:gt.block.leaves.4.name=树叶
@@ -1074,7 +1074,7 @@ languagefile {
     S:gt.block.log.a.13.name=枫树原木
     S:gt.block.log.a.14.name=原木
     S:gt.block.log.a.15.name=原木
-    S:gt.block.log.a.2.name=原木
+    S:gt.block.log.a.2.name=柳树原木
     S:gt.block.log.a.3.name=原木
     S:gt.block.log.a.32767.name=Any Sub-Block of this one
     S:gt.block.log.a.4.name=橡胶树原木
@@ -1155,7 +1155,7 @@ languagefile {
     S:gt.block.planks.1.name=枫树木板
     S:gt.block.planks.10.name=压缩木板
     S:gt.block.planks.11.name=压缩木板
-    S:gt.block.planks.2.name=木板
+    S:gt.block.planks.2.name=柳树木板
     S:gt.block.planks.3.name=木板
     S:gt.block.planks.32767.name=Any Sub-Block of this one
     S:gt.block.planks.4.name=木板
@@ -1383,13 +1383,13 @@ languagefile {
     S:gt.block.rail.tungstensteel.name=钨钢轨道
     S:gt.block.sapling.0.name=橡胶树苗
     S:gt.block.sapling.1.name=枫树苗
-    S:gt.block.sapling.10.name=树苗
+    S:gt.block.sapling.10.name=柳树苗
     S:gt.block.sapling.11.name=树苗
     S:gt.block.sapling.12.name=树苗
     S:gt.block.sapling.13.name=树苗
     S:gt.block.sapling.14.name=树苗
     S:gt.block.sapling.15.name=树苗
-    S:gt.block.sapling.2.name=树苗
+    S:gt.block.sapling.2.name=柳树苗
     S:gt.block.sapling.3.name=树苗
     S:gt.block.sapling.32767.name=Any Sub-Block of this one
     S:gt.block.sapling.4.name=树苗
@@ -6688,7 +6688,7 @@ languagefile {
     S:gt.multitileentity.32703.name=打磨石
     S:gt.multitileentity.32704.name=筛粉漏斗
     S:gt.multitileentity.32705.name=搅拌桌
-    S:gt.multitileentity.32706.name=搅拌碗
+    S:gt.multitileentity.32706.name=搅拌盆
     S:gt.multitileentity.32707.name=浸洗桌
     S:gt.multitileentity.32708.name=浸洗盆
     S:gt.multitileentity.32709.name=末影垃圾桶
@@ -6717,7 +6717,7 @@ languagefile {
     S:gt.multitileentity.32732.name=艾德曼合金龙头
     S:gt.multitileentity.32733.name=廉价木桶
     S:gt.multitileentity.32734.name=铁木桶
-    S:gt.multitileentity.32735.name=研磨台
+    S:gt.multitileentity.32735.name=研钵
     S:gt.multitileentity.32736.name=树液/乳胶收集袋
     S:gt.multitileentity.32761.name=开孔的枫树原木
     S:gt.multitileentity.32762.name=橡胶产出口
@@ -26993,7 +26993,7 @@ languagefile {
     S:oredict.oreBasaltBandedIron.name=玄武岩带状铁矿石
     S:oredict.oreBasaltBarite.name=玄武岩重晶石矿石
     S:oredict.oreBasaltBarium.name=玄武岩钡矿石
-    S:oredict.oreBasaltBasalticMineralSand.name=玄武岩玄武岩类矿石砂矿石
+    S:oredict.oreBasaltBasalticMineralSand.name=玄武岩玄武岩类矿砂矿石
     S:oredict.oreBasaltBastnasite.name=玄武岩氟碳铈矿石
     S:oredict.oreBasaltBauxite.name=玄武岩铝土矿石
     S:oredict.oreBasaltBentonite.name=玄武岩膨润土矿石
@@ -27103,7 +27103,7 @@ languagefile {
     S:oredict.oreBasaltGlauconiteSand.name=玄武岩海绿石沙矿石
     S:oredict.oreBasaltGlowstone.name=玄武岩萤石矿石
     S:oredict.oreBasaltGold.name=玄武岩 金矿石
-    S:oredict.oreBasaltGraniticMineralSand.name=玄武岩花岗岩类矿石砂矿石
+    S:oredict.oreBasaltGraniticMineralSand.name=玄武岩花岗岩类矿砂矿石
     S:oredict.oreBasaltGraphite.name=玄武岩石墨矿石
     S:oredict.oreBasaltGreenSapphire.name=玄武岩 绿色蓝宝石矿石
     S:oredict.oreBasaltGrossular.name=玄武岩钙铝榴石矿石
@@ -27322,7 +27322,7 @@ languagefile {
     S:oredict.oreBasaltZirconium.name=玄武岩锆矿石
     S:oredict.oreBasaltgold.name=玄武岩金矿石
     S:oredict.oreBasaltgreenSapphire.name=玄武岩绿色蓝宝石矿石
-    S:oredict.oreBasalticMineralSand.name=玄武岩类矿石砂矿石
+    S:oredict.oreBasalticMineralSand.name=玄武岩类矿砂矿石
     S:oredict.oreBasaltlead.name=玄武岩铅矿石
     S:oredict.oreBasaltorangeSapphire.name=玄武岩 橙色蓝宝石矿石
     S:oredict.oreBasaltplatinum.name=玄武岩铂矿石
@@ -27487,7 +27487,7 @@ languagefile {
     S:oredict.oreBedrockBalasRuby.name=基岩红宝石矿石
     S:oredict.oreBedrockBarite.name=基岩重晶石矿石
     S:oredict.oreBedrockBarium.name=基岩钡矿石
-    S:oredict.oreBedrockBasalticMineralSand.name=基岩玄武岩矿石砂矿石
+    S:oredict.oreBedrockBasalticMineralSand.name=基岩玄武岩矿砂石
     S:oredict.oreBedrockBastnasite.name=基岩氟碳铈矿石
     S:oredict.oreBedrockBauxite.name=基岩铝土矿石
     S:oredict.oreBedrockBentonite.name=基岩膨润土矿石
@@ -27594,7 +27594,7 @@ languagefile {
     S:oredict.oreBedrockGlauconiteSand.name=基岩海绿石沙矿石
     S:oredict.oreBedrockGlowstone.name=基岩萤石矿石
     S:oredict.oreBedrockGold.name=基岩金矿石
-    S:oredict.oreBedrockGraniticMineralSand.name=基岩花岗岩类矿石砂矿石
+    S:oredict.oreBedrockGraniticMineralSand.name=基岩花岗岩类矿砂矿石
     S:oredict.oreBedrockGraphite.name=基岩石墨矿石
     S:oredict.oreBedrockGreenSapphire.name=基岩绿色蓝宝石矿石
     S:oredict.oreBedrockGrossular.name=基岩Grossular矿石
@@ -27975,7 +27975,7 @@ languagefile {
     S:oredict.oreBlackgraniteBalasRuby.name=黑色花岗岩红宝石矿石
     S:oredict.oreBlackgraniteBarite.name=黑色花岗岩重晶石矿石
     S:oredict.oreBlackgraniteBarium.name=黑色花岗岩钡矿石
-    S:oredict.oreBlackgraniteBasalticMineralSand.name=黑色花岗岩玄武岩类矿石砂矿石
+    S:oredict.oreBlackgraniteBasalticMineralSand.name=黑色花岗岩玄武岩类矿砂矿石
     S:oredict.oreBlackgraniteBastnasite.name=黑色花岗岩氟碳铈矿石
     S:oredict.oreBlackgraniteBauxite.name=黑色花岗岩铝土矿石
     S:oredict.oreBlackgraniteBentonite.name=黑色花岗岩膨润土矿石
@@ -28082,7 +28082,7 @@ languagefile {
     S:oredict.oreBlackgraniteGlauconiteSand.name=黑色花岗岩海绿石沙矿石
     S:oredict.oreBlackgraniteGlowstone.name=黑色花岗岩萤石矿石
     S:oredict.oreBlackgraniteGold.name=黑色花岗岩金矿石
-    S:oredict.oreBlackgraniteGraniticMineralSand.name=黑色花岗岩花岗岩类矿石砂矿石
+    S:oredict.oreBlackgraniteGraniticMineralSand.name=黑色花岗岩花岗岩类矿砂矿石
     S:oredict.oreBlackgraniteGraphite.name=黑色花岗岩石墨矿石
     S:oredict.oreBlackgraniteGreenSapphire.name=黑色花岗岩绿色蓝宝石矿石
     S:oredict.oreBlackgraniteGrossular.name=黑色花岗岩钙铝榴石矿石
@@ -28526,7 +28526,7 @@ languagefile {
     S:oredict.oreEndstoneBandedIron.name=末地带状铁矿石
     S:oredict.oreEndstoneBarite.name=末地重晶石矿石
     S:oredict.oreEndstoneBarium.name=末地钡矿石
-    S:oredict.oreEndstoneBasalticMineralSand.name=末地玄武岩类矿石砂矿石
+    S:oredict.oreEndstoneBasalticMineralSand.name=末地玄武岩类矿砂矿石
     S:oredict.oreEndstoneBastnasite.name=末地氟碳铈矿石
     S:oredict.oreEndstoneBauxite.name=末地铝土矿石
     S:oredict.oreEndstoneBentonite.name=末地膨润土矿石
@@ -28635,7 +28635,7 @@ languagefile {
     S:oredict.oreEndstoneGlauconiteSand.name=末地海绿石沙矿石
     S:oredict.oreEndstoneGlowstone.name=末地萤石矿石
     S:oredict.oreEndstoneGold.name=末地金矿石
-    S:oredict.oreEndstoneGraniticMineralSand.name=末地花岗岩类矿石砂矿石
+    S:oredict.oreEndstoneGraniticMineralSand.name=末地花岗岩类矿砂矿石
     S:oredict.oreEndstoneGraphite.name=末地石墨矿石
     S:oredict.oreEndstoneGreenSapphire.name=末地绿色蓝宝石矿石
     S:oredict.oreEndstoneGrossular.name=末地钙铝榴石矿石
@@ -28888,7 +28888,7 @@ languagefile {
     S:oredict.oreGlauconiteSand.name=海绿石沙矿石
     S:oredict.oreGlowstone.name=萤石矿石
     S:oredict.oreGold.name=金矿石
-    S:oredict.oreGraniticMineralSand.name=花岗岩类矿石砂矿石
+    S:oredict.oreGraniticMineralSand.name=花岗岩类矿砂矿石
     S:oredict.oreGraphite.name=石墨矿石
     S:oredict.oreGravelActinium.name=锕沙砾
     S:oredict.oreGravelAdamantine.name=血石沙砾
@@ -29047,7 +29047,7 @@ languagefile {
     S:oredict.oreGravelBandedIron.name=带状铁沙砾
     S:oredict.oreGravelBarite.name=重晶石沙砾
     S:oredict.oreGravelBarium.name=钡沙砾
-    S:oredict.oreGravelBasalticMineralSand.name=玄武岩类矿石砂沙砾
+    S:oredict.oreGravelBasalticMineralSand.name=玄武岩类矿砂沙砾
     S:oredict.oreGravelBastnasite.name=氟碳铈沙砾
     S:oredict.oreGravelBauxite.name=铝土沙砾
     S:oredict.oreGravelBentonite.name=膨润土沙砾
@@ -29156,7 +29156,7 @@ languagefile {
     S:oredict.oreGravelGlauconiteSand.name=海绿石沙沙砾
     S:oredict.oreGravelGlowstone.name=萤石沙砾
     S:oredict.oreGravelGold.name=金沙砾
-    S:oredict.oreGravelGraniticMineralSand.name=花岗岩类矿石砂沙砾
+    S:oredict.oreGravelGraniticMineralSand.name=花岗岩类矿砂沙砾
     S:oredict.oreGravelGraphite.name=石墨沙砾
     S:oredict.oreGravelGreenSapphire.name=绿色蓝宝石沙砾
     S:oredict.oreGravelGrossular.name=钙铝榴石沙砾
@@ -29675,7 +29675,7 @@ languagefile {
     S:oredict.oreLimestoneGlauconiteSand.name=石灰岩海绿石沙矿石
     S:oredict.oreLimestoneGlowstone.name=石灰岩萤石矿石
     S:oredict.oreLimestoneGold.name=石灰岩金矿石
-    S:oredict.oreLimestoneGraniticMineralSand.name=石灰岩花岗岩类矿石砂矿石
+    S:oredict.oreLimestoneGraniticMineralSand.name=石灰岩花岗岩类矿砂矿石
     S:oredict.oreLimestoneGraphite.name=石灰岩石墨矿石
     S:oredict.oreLimestoneGreenSapphire.name=石灰岩绿色蓝宝石矿石
     S:oredict.oreLimestoneGrossular.name=石灰岩钙铝榴石矿石
@@ -30059,7 +30059,7 @@ languagefile {
     S:oredict.oreMarbleBandedIron.name=大理石带状铁矿石
     S:oredict.oreMarbleBarite.name=大理石重晶石矿石
     S:oredict.oreMarbleBarium.name=大理石钡矿石
-    S:oredict.oreMarbleBasalticMineralSand.name=大理石玄武岩类矿石砂矿石
+    S:oredict.oreMarbleBasalticMineralSand.name=大理石玄武岩类矿砂矿石
     S:oredict.oreMarbleBastnasite.name=大理石氟碳铈矿石
     S:oredict.oreMarbleBauxite.name=大理石铝土矿石
     S:oredict.oreMarbleBentonite.name=大理石膨润土矿石
@@ -30168,7 +30168,7 @@ languagefile {
     S:oredict.oreMarbleGlauconiteSand.name=大理石海绿石沙矿石
     S:oredict.oreMarbleGlowstone.name=大理石萤石矿石
     S:oredict.oreMarbleGold.name=大理石金矿石
-    S:oredict.oreMarbleGraniticMineralSand.name=大理石花岗岩类矿石砂矿石
+    S:oredict.oreMarbleGraniticMineralSand.name=大理石花岗岩类矿砂矿石
     S:oredict.oreMarbleGraphite.name=大理石石墨矿石
     S:oredict.oreMarbleGreenSapphire.name=大理石绿色蓝宝石矿石
     S:oredict.oreMarbleGrossular.name=大理石钙铝榴石矿石
@@ -30571,7 +30571,7 @@ languagefile {
     S:oredict.oreNetherrackBandedIron.name=地狱Banded 铁矿石
     S:oredict.oreNetherrackBarite.name=地狱重晶石矿石
     S:oredict.oreNetherrackBarium.name=地狱钡矿石
-    S:oredict.oreNetherrackBasalticMineralSand.name=地狱玄武岩类矿石砂矿石
+    S:oredict.oreNetherrackBasalticMineralSand.name=地狱玄武岩类矿砂矿石
     S:oredict.oreNetherrackBastnasite.name=地狱氟碳铈矿石
     S:oredict.oreNetherrackBauxite.name=地狱铝土矿石
     S:oredict.oreNetherrackBentonite.name=地狱膨润土矿石
@@ -30680,7 +30680,7 @@ languagefile {
     S:oredict.oreNetherrackGlauconiteSand.name=地狱海绿石沙矿石
     S:oredict.oreNetherrackGlowstone.name=地狱萤石矿石
     S:oredict.oreNetherrackGold.name=地狱金矿石
-    S:oredict.oreNetherrackGraniticMineralSand.name=地狱花岗岩类矿石砂矿石
+    S:oredict.oreNetherrackGraniticMineralSand.name=地狱花岗岩类矿砂矿石
     S:oredict.oreNetherrackGraphite.name=地狱石墨矿石
     S:oredict.oreNetherrackGreenSapphire.name=地狱绿色蓝宝石矿石
     S:oredict.oreNetherrackGrossular.name=地狱钙铝榴石矿石
@@ -31110,7 +31110,7 @@ languagefile {
     S:oredict.oreRedSandBandedIron.name=带状铁红矿沙
     S:oredict.oreRedSandBarite.name=重晶石红矿沙
     S:oredict.oreRedSandBarium.name=钡红矿沙
-    S:oredict.oreRedSandBasalticMineralSand.name=玄武岩类矿石砂红矿沙
+    S:oredict.oreRedSandBasalticMineralSand.name=玄武岩类矿砂红矿沙
     S:oredict.oreRedSandBastnasite.name=氟碳铈红矿沙
     S:oredict.oreRedSandBauxite.name=铝土红矿沙
     S:oredict.oreRedSandBentonite.name=膨润土红矿沙
@@ -31219,7 +31219,7 @@ languagefile {
     S:oredict.oreRedSandGlauconiteSand.name=海绿石红矿沙
     S:oredict.oreRedSandGlowstone.name=萤石红矿沙
     S:oredict.oreRedSandGold.name=金红矿沙
-    S:oredict.oreRedSandGraniticMineralSand.name=花岗岩类矿石砂红矿沙
+    S:oredict.oreRedSandGraniticMineralSand.name=花岗岩类矿砂红矿沙
     S:oredict.oreRedSandGraphite.name=石墨红矿沙
     S:oredict.oreRedSandGreenSapphire.name=绿色蓝宝石红矿沙
     S:oredict.oreRedSandGrossular.name=钙铝榴石红矿沙
@@ -31600,7 +31600,7 @@ languagefile {
     S:oredict.oreRedgraniteBandedIron.name=红色花岗岩带状铁矿石
     S:oredict.oreRedgraniteBarite.name=红色花岗岩重晶石矿石
     S:oredict.oreRedgraniteBarium.name=红色花岗岩钡矿石
-    S:oredict.oreRedgraniteBasalticMineralSand.name=红色花岗岩玄武岩类矿石砂矿石
+    S:oredict.oreRedgraniteBasalticMineralSand.name=红色花岗岩玄武岩类矿砂矿石
     S:oredict.oreRedgraniteBastnasite.name=红色花岗岩氟碳铈矿石
     S:oredict.oreRedgraniteBauxite.name=红色花岗岩铝土矿石
     S:oredict.oreRedgraniteBentonite.name=红色花岗岩膨润土矿石
@@ -31710,7 +31710,7 @@ languagefile {
     S:oredict.oreRedgraniteGlauconiteSand.name=红色花岗岩海绿石沙矿石
     S:oredict.oreRedgraniteGlowstone.name=红色花岗岩萤石矿石
     S:oredict.oreRedgraniteGold.name=红色花岗岩金矿石
-    S:oredict.oreRedgraniteGraniticMineralSand.name=红色花岗岩花岗岩类矿石砂矿石
+    S:oredict.oreRedgraniteGraniticMineralSand.name=红色花岗岩花岗岩类矿砂矿石
     S:oredict.oreRedgraniteGraphite.name=红色花岗岩石墨矿石
     S:oredict.oreRedgraniteGreenSapphire.name=红色花岗岩绿色蓝宝石矿石
     S:oredict.oreRedgraniteGrossular.name=红色花岗岩钙铝榴石矿石
@@ -32167,12 +32167,12 @@ languagefile {
     S:oredict.oreSandDiamond.name=钻石矿沙
     S:oredict.oreSandDiatomite.name=硅藻土矿沙
     S:oredict.oreSandDiduraniumTrioxide.name=三氧化二钍瑞铌沙矿石
-    S:oredict.oreSandDilithium.name=双锂矿石砂矿石
+    S:oredict.oreSandDilithium.name=双锂矿砂
     S:oredict.oreSandDioptase.name=翠铜石矿沙
     S:oredict.oreSandDolamide.name=Dolamide沙矿石
-    S:oredict.oreSandDolomite.name=白云岩矿石砂矿石
+    S:oredict.oreSandDolomite.name=白云岩矿砂
     S:oredict.oreSandDraconium.name=龙矿沙
-    S:oredict.oreSandDubnium.name=𬭊矿石砂矿石
+    S:oredict.oreSandDubnium.name=𬭊矿砂
     S:oredict.oreSandDuranium.name=钍瑞铌矿沙
     S:oredict.oreSandDuraniumElemental.name=钍瑞铌矿沙
     S:oredict.oreSandDuraniumHexaastatide.name=六酰化钍瑞铌矿沙
@@ -32371,10 +32371,10 @@ languagefile {
     S:oredict.oreSandSpodumene.name=锂辉矿沙
     S:oredict.oreSandStannite.name=黄锡矿沙
     S:oredict.oreSandSteel.name=Steel矿沙
-    S:oredict.oreSandStibnite.name=辉锑矿石砂矿石
-    S:oredict.oreSandStolzite.name=钨铅矿石砂矿石
-    S:oredict.oreSandStrontium.name=锶矿石砂矿石
-    S:oredict.oreSandSulfur.name=硫矿石砂矿石
+    S:oredict.oreSandStibnite.name=辉锑矿砂
+    S:oredict.oreSandStolzite.name=钨铅矿砂
+    S:oredict.oreSandStrontium.name=锶矿砂
+    S:oredict.oreSandSulfur.name=硫矿砂
     S:oredict.oreSandTalc.name=滑石矿石
     S:oredict.oreSandTantalite.name=钽铁矿沙
     S:oredict.oreSandTantalum.name=钽矿沙
@@ -32431,11 +32431,11 @@ languagefile {
     S:oredict.oreSandZeolite.name=沸石矿沙
     S:oredict.oreSandZinc.name=锌矿沙
     S:oredict.oreSandZirconium.name=锆矿沙
-    S:oredict.oreSandgold.name=金矿石砂矿石
-    S:oredict.oreSandgreenSapphire.name=绿色蓝宝石矿石砂矿石
-    S:oredict.oreSandlead.name=铅矿石砂矿石
-    S:oredict.oreSandorangeSapphire.name=橙色蓝宝石矿石砂矿石
-    S:oredict.oreSandplatinum.name=铂矿石砂矿石
+    S:oredict.oreSandgold.name=金矿砂
+    S:oredict.oreSandgreenSapphire.name=绿色蓝宝石矿砂
+    S:oredict.oreSandlead.name=铅矿砂
+    S:oredict.oreSandorangeSapphire.name=橙色蓝宝石矿砂
+    S:oredict.oreSandplatinum.name=铂矿砂
     S:oredict.oreSandplatinumGroupSludge.name=铂族泥矿沙
     S:oredict.oreSandstoneActinium.name=沙石锕矿石
     S:oredict.oreSandstoneAdamantine.name=沙石 血石矿石
@@ -32594,7 +32594,7 @@ languagefile {
     S:oredict.oreSandstoneBandedIron.name=沙石带状铁矿石
     S:oredict.oreSandstoneBarite.name=沙石重晶石矿石
     S:oredict.oreSandstoneBarium.name=沙石钡矿石
-    S:oredict.oreSandstoneBasalticMineralSand.name=沙石玄武岩类矿石砂矿石
+    S:oredict.oreSandstoneBasalticMineralSand.name=沙石玄武岩类矿砂矿石
     S:oredict.oreSandstoneBastnasite.name=沙石氟碳铈矿石
     S:oredict.oreSandstoneBauxite.name=沙石铝土矿石
     S:oredict.oreSandstoneBentonite.name=沙石膨润土矿石
@@ -32703,7 +32703,7 @@ languagefile {
     S:oredict.oreSandstoneGlauconiteSand.name=沙石海绿石沙矿石
     S:oredict.oreSandstoneGlowstone.name=沙石萤石矿石
     S:oredict.oreSandstoneGold.name=沙石金矿石
-    S:oredict.oreSandstoneGraniticMineralSand.name=沙石花岗岩类矿石砂矿石
+    S:oredict.oreSandstoneGraniticMineralSand.name=沙石花岗岩类矿砂矿石
     S:oredict.oreSandstoneGraphite.name=沙石石墨矿石
     S:oredict.oreSandstoneGreenSapphire.name=沙石绿色蓝宝石矿石
     S:oredict.oreSandstoneGrossular.name=沙石钙铝榴石矿石
@@ -32927,7 +32927,7 @@ languagefile {
     S:oredict.oreSandstoneyellowLimonite.name=沙石黄色褐铁矿石
     S:oredict.oreSandstoneyellowSapphire.name=沙石黄色蓝宝石矿石
     S:oredict.oreSandstone铂GroupSludge.name=沙石铂族泥矿石
-    S:oredict.oreSandyellowLimonite.name=黄色褐铁矿石砂矿石
+    S:oredict.oreSandyellowLimonite.name=黄色褐铁矿砂
     S:oredict.oreSandyellowSapphire.name= 黄色蓝宝石矿沙
     S:oredict.oreSanguinite.name=狱炎石矿石
     S:oredict.oreSapphire.name=蓝宝石矿石
@@ -33098,7 +33098,7 @@ languagefile {
     S:oredict.oreSmallBandedIron.name=贫瘠带状铁矿石
     S:oredict.oreSmallBarite.name=贫瘠重晶石矿石
     S:oredict.oreSmallBarium.name=贫瘠钡矿石
-    S:oredict.oreSmallBasalticMineralSand.name=贫瘠玄武岩类矿石砂矿石
+    S:oredict.oreSmallBasalticMineralSand.name=贫瘠玄武岩类矿砂矿石
     S:oredict.oreSmallBastnasite.name=贫瘠氟碳铈矿石
     S:oredict.oreSmallBauxite.name=贫瘠铝土矿石
     S:oredict.oreSmallBentonite.name=贫瘠膨润土矿石
@@ -33207,7 +33207,7 @@ languagefile {
     S:oredict.oreSmallGlauconiteSand.name=贫瘠海绿石沙矿石
     S:oredict.oreSmallGlowstone.name=贫瘠萤石矿石
     S:oredict.oreSmallGold.name=贫瘠金矿石
-    S:oredict.oreSmallGraniticMineralSand.name=贫瘠花岗岩类矿石砂矿石
+    S:oredict.oreSmallGraniticMineralSand.name=贫瘠花岗岩类矿砂矿石
     S:oredict.oreSmallGraphite.name=贫瘠石墨矿石
     S:oredict.oreSmallGreenSapphire.name=贫瘠绿色蓝宝石矿石
     S:oredict.oreSmallGrossular.name=贫瘠钙铝榴石矿石
@@ -33653,7 +33653,7 @@ languagefile {
     S:oredict.oreblackgraniteBandedIron.name=黑色花岗岩带状铁矿石
     S:oredict.oreblackgraniteBarite.name=黑色花岗岩重晶石矿石
     S:oredict.oreblackgraniteBarium.name=黑色花岗岩钡矿石
-    S:oredict.oreblackgraniteBasalticMineralSand.name=黑色花岗岩玄武岩类矿石砂矿石
+    S:oredict.oreblackgraniteBasalticMineralSand.name=黑色花岗岩玄武岩类矿砂矿石
     S:oredict.oreblackgraniteBastnasite.name=黑色花岗岩氟碳铈矿石
     S:oredict.oreblackgraniteBauxite.name=黑色花岗岩铝土矿石
     S:oredict.oreblackgraniteBentonite.name=黑色花岗岩膨润土矿石
@@ -33757,7 +33757,7 @@ languagefile {
     S:oredict.oreblackgraniteGlauconite.name=黑色花岗岩海绿石矿石
     S:oredict.oreblackgraniteGlauconiteSand.name=黑色花岗岩海绿石沙矿石
     S:oredict.oreblackgraniteGlowstone.name=黑色花岗岩萤石矿石
-    S:oredict.oreblackgraniteGraniticMineralSand.name=黑色花岗岩花岗岩类矿石砂矿石
+    S:oredict.oreblackgraniteGraniticMineralSand.name=黑色花岗岩花岗岩类矿砂矿石
     S:oredict.oreblackgraniteGraphite.name=黑色花岗岩石墨矿石
     S:oredict.oreblackgraniteGrossular.name=黑色花岗岩钙铝榴石矿石
     S:oredict.oreblackgraniteGypsum.name=黑色花岗岩石膏矿石
