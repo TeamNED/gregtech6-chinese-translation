@@ -7063,7 +7063,7 @@ languagefile {
     S:gt.recipe.fluidnaquadahreactor=液态硅岩金属反应堆
     S:gt.recipe.fluidsolidifier=液体固化器
     S:gt.recipe.fuels.burn=可燃流体
-    S:gt.recipe.fuels.engine=发动机燃料
+    S:gt.recipe.fuels.engine=流体燃料
     S:gt.recipe.fuels.gas=气体燃料
     S:gt.recipe.fuels.hot=热燃料
     S:gt.recipe.fuels.magic=魔法燃料
@@ -7801,7 +7801,7 @@ languagefile {
     S:itemGroup.blockSolid=铸造金属块
     S:itemGroup.bolt=螺栓
     S:itemGroup.boule=人造宝石
-    S:itemGroup.bouleGt=Boules
+    S:itemGroup.bouleGt=人造宝石
     S:itemGroup.casingMachine=机器外壳
     S:itemGroup.casingMachineDense=密致机器外壳
     S:itemGroup.casingMachineDouble=坚固机器外壳
@@ -10708,7 +10708,7 @@ languagefile {
     S:oredict.boltAntiSamarium.name=反物质Samarium 螺栓
     S:oredict.boltAntiScandium.name=反物质Scandium 螺栓
     S:oredict.boltAntiSeaborgium.name=反物质Seaborgium 螺栓
-    S:oredict.boltAntiSilicon.name=反物质硅 螺栓
+    S:oredict.boltAntiSilicon.name=反物质硅螺栓
     S:oredict.boltAntiSilver.name=反物质银螺栓
     S:oredict.boltAntiStrontium.name=反物质Strontium 螺栓
     S:oredict.boltAntiTantalum.name=反物质Tantalum 螺栓
@@ -20766,7 +20766,7 @@ languagefile {
     S:oredict.dustPureJasper.name=纯净碧玉粉
     S:oredict.dustPureKalendrite.name=纯净幽冥魂石粉
     S:oredict.dustPureKaolinite.name=纯净高岭石
-    S:oredict.dustPureKesterite.name=纯净Kesterite粉
+    S:oredict.dustPureKesterite.name=纯净锌黄锡矿粉
     S:oredict.dustPureKomatiite.name=纯净科马提岩粉
     S:oredict.dustPureKyanite.name=纯净蓝晶石粉
     S:oredict.dustPureLantanium.name=纯净镧粉
@@ -21437,7 +21437,7 @@ languagefile {
     S:oredict.dustSmallKalendrite.name=小堆幽冥魂石粉
     S:oredict.dustSmallKanthal.name=小堆铁铬铝合金粉
     S:oredict.dustSmallKaolinite.name=小堆高岭石
-    S:oredict.dustSmallKesterite.name=小撮Kesterite粉
+    S:oredict.dustSmallKesterite.name=小撮锌黄锡矿粉
     S:oredict.dustSmallKnightmetal.name=小堆骑士金属粉
     S:oredict.dustSmallKomatiite.name=小堆科马提岩粉
     S:oredict.dustSmallKyanite.name=小堆蓝晶石粉
