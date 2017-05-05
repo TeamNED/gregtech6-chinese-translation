@@ -2944,7 +2944,7 @@ languagefile {
     S:gt.material.Pinalite=氯钨铅矿
     S:gt.material.Pink=粉色
     S:gt.material.PinkVitriol=硫酸镁
-    S:gt.material.Pistachio=Pistachio
+    S:gt.material.Pistachio=开心果
     S:gt.material.Pitchblende=沥青铀矿
     S:gt.material.Plastic=塑料
     S:gt.material.Platinum=铂
@@ -4451,7 +4451,7 @@ languagefile {
     S:gt.multiitem.food.13018.tooltip=Sour Yellow Gelato
     S:gt.multiitem.food.13019.name=Maple 冰淇淋
     S:gt.multiitem.food.13019.tooltip=Maple flavoured Gelato
-    S:gt.multiitem.food.13020.name=Pistachio 冰淇淋
+    S:gt.multiitem.food.13020.name=开心果冰淇淋
     S:gt.multiitem.food.13020.tooltip=Nut flavoured Gelato
     S:gt.multiitem.food.13021.name=Bacon 冰淇淋
     S:gt.multiitem.food.13021.tooltip=Manly Gelato
@@ -4476,9 +4476,9 @@ languagefile {
     S:gt.multiitem.food.13995.name=Neapolitan 冰淇淋
     S:gt.multiitem.food.13995.tooltip=Gelato mix of Strawberry, Vanilla and Chocolate
     S:gt.multiitem.food.13996.name=Spumoni Chocolate 冰淇淋
-    S:gt.multiitem.food.13996.tooltip=Gelato mix of 樱桃, Pistachio and Chocolate
+    S:gt.multiitem.food.13996.tooltip=Gelato mix of 樱桃, 开心果 and Chocolate
     S:gt.multiitem.food.13997.name=Spumoni Vanilla 冰淇淋
-    S:gt.multiitem.food.13997.tooltip=Gelato mix of 樱桃, Pistachio and Vanilla
+    S:gt.multiitem.food.13997.tooltip=Gelato mix of 樱桃, 开心果 and Vanilla
     S:gt.multiitem.food.13998.name=Superman 冰淇淋
     S:gt.multiitem.food.13998.tooltip=Gelato that saves the Day!
     S:gt.multiitem.food.13999.name=Rainbow 冰淇淋
@@ -8622,7 +8622,7 @@ languagefile {
     S:oredict.arrowGtWoodyellowSapphire.name=黄色蓝宝石箭
     S:oredict.blockDustActinium.name=锕粉块
     S:oredict.blockDustAdamantine.name=血石粉块
-    S:oredict.blockDustAdamantite.name=Block of 精金粉
+    S:oredict.blockDustAdamantite.name=精金粉块
     S:oredict.blockDustAdamantium.name=艾德曼合金粉块
     S:oredict.blockDustAerotheum.name=和谐之和谐之空气块
     S:oredict.blockDustAlduorite.name=神秘蓝金粉块
@@ -8912,7 +8912,7 @@ languagefile {
     S:oredict.blockDustDraconium.name=龙粉块
     S:oredict.blockDustDraconiumAwakened.name=觉醒龙粉块
     S:oredict.blockDustDubnium.name=𬭊粉块
-    S:oredict.blockDustDuralumin.name=Block of 硬铝合金粉
+    S:oredict.blockDustDuralumin.name=硬铝合金粉块
     S:oredict.blockDustDuranium.name=钍瑞铌粉块
     S:oredict.blockDustDuraniumElemental.name=钍瑞铌粉块
     S:oredict.blockDustDuraniumHexaastatide.name=六酰化钍瑞铌粉块
@@ -8975,11 +8975,11 @@ languagefile {
     S:oredict.blockDustGlauconite.name=海绿石粉块
     S:oredict.blockDustGlauconiteSand.name=海绿石沙块
     S:oredict.blockDustGlowstone.name=萤石粉块
-    S:oredict.blockDustGlowstoneCeres.name=Block of 谷神星萤石粉
-    S:oredict.blockDustGlowstoneEnceladus.name=Block of 土卫二萤石粉
-    S:oredict.blockDustGlowstoneIo.name=Block of 木卫一萤石粉
-    S:oredict.blockDustGlowstonePluto.name=Block of 冥王星萤石粉
-    S:oredict.blockDustGlowstoneProteus.name=Block of 海卫八萤石粉
+    S:oredict.blockDustGlowstoneCeres.name=谷神星萤石粉块
+    S:oredict.blockDustGlowstoneEnceladus.name=土卫二萤石粉块
+    S:oredict.blockDustGlowstoneIo.name=木卫一萤石粉块
+    S:oredict.blockDustGlowstonePluto.name=冥王星萤石粉块
+    S:oredict.blockDustGlowstoneProteus.name=海卫八萤石粉块
     S:oredict.blockDustGlowstoneRefined.name=精致萤石粉块
     S:oredict.blockDustGneiss.name=片麻岩粉块
     S:oredict.blockDustGold.name=金粉块
@@ -9006,7 +9006,7 @@ languagefile {
     S:oredict.blockDustHaderoth.name=幻之铜粉块
     S:oredict.blockDustHafnium.name=铪粉块
     S:oredict.blockDustHassium.name=𬭶粉块
-    S:oredict.blockDustHazelnut.name=Block of Ground 榛子
+    S:oredict.blockDustHazelnut.name=榛子碎块
     S:oredict.blockDustHematite.name=赤铁矿粉块
     S:oredict.blockDustHepatizon.name=幽魂结晶粉块
     S:oredict.blockDustHolmium.name=钬粉块
@@ -9132,7 +9132,7 @@ languagefile {
     S:oredict.blockDustOrange.name=橙色染料块
     S:oredict.blockDustOrangeSapphire.name=橙色蓝宝石粉块
     S:oredict.blockDustOrichalcum.name=自然之石粉块
-    S:oredict.blockDustOriharukon.name=Block of 山铜粉
+    S:oredict.blockDustOriharukon.name=山铜粉块
     S:oredict.blockDustOsmiridium.name=铱锇合金粉块
     S:oredict.blockDustOsmium.name=锇粉块
     S:oredict.blockDustOsmiumElemental.name=锇粉块
@@ -9154,8 +9154,8 @@ languagefile {
     S:oredict.blockDustPigIron.name=生铁粉块
     S:oredict.blockDustPinalite.name=氯钨铅粉块
     S:oredict.blockDustPink.name=粉色染料块
-    S:oredict.blockDustPistachio.name=Block of Ground Pistachio
-    S:oredict.blockDustPitchblende.name=沥青铀块
+    S:oredict.blockDustPistachio.name=开心果碎块
+    S:oredict.blockDustPitchblende.name=沥青铀粉块
     S:oredict.blockDustPlastic.name=塑料浆块
     S:oredict.blockDustPlatinum.name=铂粉块
     S:oredict.blockDustPlatinumGroupSludge.name=铂族泥粉块
@@ -9485,7 +9485,7 @@ languagefile {
     S:oredict.blockGemyellowSapphire.name=黄色蓝宝石块
     S:oredict.blockIngotActinium.name=锕锭块
     S:oredict.blockIngotAdamantine.name=血石锭块
-    S:oredict.blockIngotAdamantite.name=Block of 精金锭
+    S:oredict.blockIngotAdamantite.name=精金锭块
     S:oredict.blockIngotAdamantium.name=艾德曼合金锭块
     S:oredict.blockIngotAlduorite.name=神秘蓝金锭块
     S:oredict.blockIngotAluminium.name=铝锭块
@@ -9666,7 +9666,7 @@ languagefile {
     S:oredict.blockIngotDraconium.name=龙锭块
     S:oredict.blockIngotDraconiumAwakened.name=觉醒龙锭块
     S:oredict.blockIngotDubnium.name=𬭊锭块
-    S:oredict.blockIngotDuralumin.name=Block of 硬铝合金锭
+    S:oredict.blockIngotDuralumin.name=硬铝合金锭块
     S:oredict.blockIngotDuranium.name=钍瑞铌锭块
     S:oredict.blockIngotDysprosium.name=镝锭块
     S:oredict.blockIngotEinsteinium.name=锿锭块
@@ -9765,7 +9765,7 @@ languagefile {
     S:oredict.blockIngotObsidianRefined.name=精致黑曜石锭块
     S:oredict.blockIngotOganesson.name=118号元素(Og)锭块
     S:oredict.blockIngotOrichalcum.name=自然之石锭块
-    S:oredict.blockIngotOriharukon.name=Block of 山铜锭
+    S:oredict.blockIngotOriharukon.name=山铜锭块
     S:oredict.blockIngotOsmiridium.name=铱锇合金锭块
     S:oredict.blockIngotOsmium.name=锇锭块
     S:oredict.blockIngotOsmiumElemental.name=锇锭块
@@ -9879,7 +9879,7 @@ languagefile {
     S:oredict.blockIngotplatinum.name=铂锭块
     S:oredict.blockPlateActinium.name=锕板块
     S:oredict.blockPlateAdamantine.name=血石板块
-    S:oredict.blockPlateAdamantite.name=Block of 精金 板
+    S:oredict.blockPlateAdamantite.name=精金板块
     S:oredict.blockPlateAdamantium.name=艾德曼合金板块
     S:oredict.blockPlateAlduorite.name=神秘蓝金板块
     S:oredict.blockPlateAluminium.name=铝板块
@@ -10069,7 +10069,7 @@ languagefile {
     S:oredict.blockPlateDraconium.name=龙板块
     S:oredict.blockPlateDraconiumAwakened.name=觉醒龙板块
     S:oredict.blockPlateDubnium.name=𬭊板块
-    S:oredict.blockPlateDuralumin.name=Block of 硬铝合金 板
+    S:oredict.blockPlateDuralumin.name=硬铝合金板块
     S:oredict.blockPlateDuranium.name=钍瑞铌板块
     S:oredict.blockPlateDysprosium.name=镝板块
     S:oredict.blockPlateEclogite.name=榴辉岩板块
@@ -10183,11 +10183,11 @@ languagefile {
     S:oredict.blockPlateGermanium.name=锗板块
     S:oredict.blockPlateGildedIron.name=镀金铁板块
     S:oredict.blockPlateGlowstone.name=萤石板块
-    S:oredict.blockPlateGlowstoneCeres.name=Block of 谷神星萤石 板
-    S:oredict.blockPlateGlowstoneEnceladus.name=Block of 土卫二萤石 板
-    S:oredict.blockPlateGlowstoneIo.name=Block of 木卫一萤石 板
-    S:oredict.blockPlateGlowstonePluto.name=Block of 冥王星萤石 板
-    S:oredict.blockPlateGlowstoneProteus.name=Block of 海卫八萤石 板
+    S:oredict.blockPlateGlowstoneCeres.name=谷神星萤石板块
+    S:oredict.blockPlateGlowstoneEnceladus.name=土卫二萤石板块
+    S:oredict.blockPlateGlowstoneIo.name=木卫一萤石板块
+    S:oredict.blockPlateGlowstonePluto.name=冥王星萤石板块
+    S:oredict.blockPlateGlowstoneProteus.name=海卫八萤石板块
     S:oredict.blockPlateGlowstoneRefined.name=精致萤石板块
     S:oredict.blockPlateGneiss.name=片麻岩板块
     S:oredict.blockPlateGold.name=金板块
@@ -10270,7 +10270,7 @@ languagefile {
     S:oredict.blockPlateObsidianRefined.name=精致黑曜石板块
     S:oredict.blockPlateOganesson.name=118号元素(Og)板块
     S:oredict.blockPlateOrichalcum.name=自然之石板块
-    S:oredict.blockPlateOriharukon.name=Block of 山铜 板
+    S:oredict.blockPlateOriharukon.name=山铜板块
     S:oredict.blockPlateOsmiridium.name=铱锇合金板块
     S:oredict.blockPlateOsmium.name=锇板块
     S:oredict.blockPlateOsmiumElemental.name=锇板块
@@ -10397,7 +10397,7 @@ languagefile {
     S:oredict.blockPlateplatinum.name=铂板块
     S:oredict.blockSolidActinium.name=锕块
     S:oredict.blockSolidAdamantine.name=血石块
-    S:oredict.blockSolidAdamantite.name=Block of solid 精金
+    S:oredict.blockSolidAdamantite.name=精金块
     S:oredict.blockSolidAdamantium.name=艾德曼合金块
     S:oredict.blockSolidAlduorite.name=神秘蓝金块
     S:oredict.blockSolidAluminium.name=铝块
@@ -10578,7 +10578,7 @@ languagefile {
     S:oredict.blockSolidDraconium.name=龙块
     S:oredict.blockSolidDraconiumAwakened.name=觉醒龙 块
     S:oredict.blockSolidDubnium.name=𬭊块
-    S:oredict.blockSolidDuralumin.name=Block of solid 硬铝合金
+    S:oredict.blockSolidDuralumin.name=硬铝合金块
     S:oredict.blockSolidDuranium.name=钍瑞铌块
     S:oredict.blockSolidDysprosium.name=镝块
     S:oredict.blockSolidEinsteinium.name=锿块
@@ -10677,7 +10677,7 @@ languagefile {
     S:oredict.blockSolidObsidianRefined.name=精致黑曜石块
     S:oredict.blockSolidOganesson.name=118号元素(Og)块
     S:oredict.blockSolidOrichalcum.name=自然之石块
-    S:oredict.blockSolidOriharukon.name=Block of solid 山铜
+    S:oredict.blockSolidOriharukon.name=山铜块
     S:oredict.blockSolidOsmiridium.name=铱锇合金块
     S:oredict.blockSolidOsmium.name=锇块
     S:oredict.blockSolidOsmiumElemental.name=锇块
@@ -14186,7 +14186,7 @@ languagefile {
     S:oredict.chunkGtplatinum.name=铂小块
     S:oredict.crateGtDustActinium.name=锕粉板条箱
     S:oredict.crateGtDustAdamantine.name=血石粉板条箱
-    S:oredict.crateGtDustAdamantite.name=Crate of 精金粉
+    S:oredict.crateGtDustAdamantite.name=精金粉板条箱
     S:oredict.crateGtDustAdamantium.name=艾德曼合金粉板条箱
     S:oredict.crateGtDustAerotheum.name=和谐之和谐之空气板条箱
     S:oredict.crateGtDustAlduorite.name=神秘蓝金粉板条箱
@@ -14476,7 +14476,7 @@ languagefile {
     S:oredict.crateGtDustDraconium.name=龙粉板条箱
     S:oredict.crateGtDustDraconiumAwakened.name=觉醒龙粉板条箱
     S:oredict.crateGtDustDubnium.name=𬭊粉板条箱
-    S:oredict.crateGtDustDuralumin.name=Crate of 硬铝合金粉
+    S:oredict.crateGtDustDuralumin.name=硬铝合金粉板条箱
     S:oredict.crateGtDustDuranium.name=钍瑞铌粉板条箱
     S:oredict.crateGtDustDuraniumElemental.name=钍瑞铌粉板条箱
     S:oredict.crateGtDustDuraniumHexaastatide.name=六酰化钍瑞铌粉板条箱
@@ -14539,11 +14539,11 @@ languagefile {
     S:oredict.crateGtDustGlauconite.name=海绿石粉板条箱
     S:oredict.crateGtDustGlauconiteSand.name=海绿石沙板条箱
     S:oredict.crateGtDustGlowstone.name=萤石粉板条箱
-    S:oredict.crateGtDustGlowstoneCeres.name=Crate of 谷神星萤石粉
-    S:oredict.crateGtDustGlowstoneEnceladus.name=Crate of 土卫二萤石粉
-    S:oredict.crateGtDustGlowstoneIo.name=Crate of 木卫一萤石粉
-    S:oredict.crateGtDustGlowstonePluto.name=Crate of 冥王星萤石粉
-    S:oredict.crateGtDustGlowstoneProteus.name=Crate of 海卫八萤石粉
+    S:oredict.crateGtDustGlowstoneCeres.name=谷神星萤石粉板条箱
+    S:oredict.crateGtDustGlowstoneEnceladus.name=土卫二萤石粉板条箱
+    S:oredict.crateGtDustGlowstoneIo.name=木卫一萤石粉板条箱
+    S:oredict.crateGtDustGlowstonePluto.name=冥王星萤石粉板条箱
+    S:oredict.crateGtDustGlowstoneProteus.name=海卫八萤石粉板条箱
     S:oredict.crateGtDustGlowstoneRefined.name=精致萤石粉板条箱
     S:oredict.crateGtDustGneiss.name=片麻岩粉板条箱
     S:oredict.crateGtDustGold.name=金粉板条箱
@@ -14569,7 +14569,7 @@ languagefile {
     S:oredict.crateGtDustHaderoth.name=幻之铜粉板条箱
     S:oredict.crateGtDustHafnium.name=铪粉板条箱
     S:oredict.crateGtDustHassium.name=𬭶粉板条箱
-    S:oredict.crateGtDustHazelnut.name=Crate of Ground 榛子
+    S:oredict.crateGtDustHazelnut.name=榛子碎板条箱
     S:oredict.crateGtDustHematite.name=赤铁矿粉板条箱
     S:oredict.crateGtDustHepatizon.name=幽魂结晶粉板条箱
     S:oredict.crateGtDustHolmium.name=钬粉板条箱
@@ -14695,7 +14695,7 @@ languagefile {
     S:oredict.crateGtDustOrange.name=橙色染料板条箱
     S:oredict.crateGtDustOrangeSapphire.name=橙色蓝宝石粉板条箱
     S:oredict.crateGtDustOrichalcum.name=自然之石粉板条箱
-    S:oredict.crateGtDustOriharukon.name=Crate of 山铜粉
+    S:oredict.crateGtDustOriharukon.name=山铜粉板条箱
     S:oredict.crateGtDustOsmiridium.name=铱锇合金粉板条箱
     S:oredict.crateGtDustOsmium.name=锇粉板条箱
     S:oredict.crateGtDustOsmiumElemental.name=锇粉板条箱
@@ -14717,8 +14717,8 @@ languagefile {
     S:oredict.crateGtDustPigIron.name=生铁粉板条箱
     S:oredict.crateGtDustPinalite.name=氯钨铅粉板条箱
     S:oredict.crateGtDustPink.name=粉色染料板条箱
-    S:oredict.crateGtDustPistachio.name=Crate of Ground Pistachio
-    S:oredict.crateGtDustPitchblende.name=沥青铀板条箱
+    S:oredict.crateGtDustPistachio.name=开心果碎板条箱
+    S:oredict.crateGtDustPitchblende.name=沥青铀粉板条箱
     S:oredict.crateGtDustPlastic.name=塑料浆板条箱
     S:oredict.crateGtDustPlatinum.name=铂粉板条箱
     S:oredict.crateGtDustPlatinumGroupSludge.name=铂族泥粉板条箱
@@ -15048,7 +15048,7 @@ languagefile {
     S:oredict.crateGtGemyellowSapphire.name=黄色蓝宝石板条箱
     S:oredict.crateGtIngotActinium.name=锕锭板条箱
     S:oredict.crateGtIngotAdamantine.name=血石锭板条箱
-    S:oredict.crateGtIngotAdamantite.name=Crate of 精金锭
+    S:oredict.crateGtIngotAdamantite.name=精金锭板条箱
     S:oredict.crateGtIngotAdamantium.name=艾德曼合金锭板条箱
     S:oredict.crateGtIngotAlduorite.name=神秘蓝金锭板条箱
     S:oredict.crateGtIngotAluminium.name=铝锭板条箱
@@ -15229,7 +15229,7 @@ languagefile {
     S:oredict.crateGtIngotDraconium.name=龙锭板条箱
     S:oredict.crateGtIngotDraconiumAwakened.name=觉醒龙锭板条箱
     S:oredict.crateGtIngotDubnium.name=𬭊锭板条箱
-    S:oredict.crateGtIngotDuralumin.name=Crate of 硬铝合金锭
+    S:oredict.crateGtIngotDuralumin.name=硬铝合金锭板条箱
     S:oredict.crateGtIngotDuranium.name=钍瑞铌锭板条箱
     S:oredict.crateGtIngotDysprosium.name=镝锭板条箱
     S:oredict.crateGtIngotEinsteinium.name=锿锭板条箱
@@ -15328,7 +15328,7 @@ languagefile {
     S:oredict.crateGtIngotObsidianRefined.name=精致黑曜石锭板条箱
     S:oredict.crateGtIngotOganesson.name=118号元素(Og)锭板条箱
     S:oredict.crateGtIngotOrichalcum.name=自然之石锭板条箱
-    S:oredict.crateGtIngotOriharukon.name=Crate of 山铜锭
+    S:oredict.crateGtIngotOriharukon.name=山铜锭板条箱
     S:oredict.crateGtIngotOsmiridium.name=铱锇合金锭板条箱
     S:oredict.crateGtIngotOsmium.name=锇锭板条箱
     S:oredict.crateGtIngotOsmiumElemental.name=锇锭板条箱
@@ -15442,7 +15442,7 @@ languagefile {
     S:oredict.crateGtIngotplatinum.name=铂锭板条箱
     S:oredict.crateGtPlateActinium.name=锕板板条箱
     S:oredict.crateGtPlateAdamantine.name=血石板板条箱
-    S:oredict.crateGtPlateAdamantite.name=Crate of 精金 板
+    S:oredict.crateGtPlateAdamantite.name=精金板板条箱
     S:oredict.crateGtPlateAdamantium.name=艾德曼合金板板条箱
     S:oredict.crateGtPlateAlduorite.name=神秘蓝金板板条箱
     S:oredict.crateGtPlateAluminium.name=铝板板条箱
@@ -15632,7 +15632,7 @@ languagefile {
     S:oredict.crateGtPlateDraconium.name=龙Plate板条箱
     S:oredict.crateGtPlateDraconiumAwakened.name=觉醒龙板板条箱
     S:oredict.crateGtPlateDubnium.name=𬭊板板条箱
-    S:oredict.crateGtPlateDuralumin.name=Crate of 硬铝合金 板
+    S:oredict.crateGtPlateDuralumin.name=硬铝合金板板条箱
     S:oredict.crateGtPlateDuranium.name=钍瑞铌板板条箱
     S:oredict.crateGtPlateDysprosium.name=镝板板条箱
     S:oredict.crateGtPlateEclogite.name=榴辉岩板板条箱
@@ -15745,12 +15745,12 @@ languagefile {
     S:oredict.crateGtPlateGemyellowSapphire.name=黄色蓝宝石板板条箱
     S:oredict.crateGtPlateGermanium.name=锗板板条箱
     S:oredict.crateGtPlateGildedIron.name=镀金铁板板条箱
-    S:oredict.crateGtPlateGlowstone.name=Glowstone 板板条箱
-    S:oredict.crateGtPlateGlowstoneCeres.name=Crate of 谷神星萤石 板
-    S:oredict.crateGtPlateGlowstoneEnceladus.name=Crate of 土卫二萤石 板
-    S:oredict.crateGtPlateGlowstoneIo.name=Crate of 木卫一萤石 板
-    S:oredict.crateGtPlateGlowstonePluto.name=Crate of 冥王星萤石 板
-    S:oredict.crateGtPlateGlowstoneProteus.name=Crate of 海卫八萤石 板
+    S:oredict.crateGtPlateGlowstone.name=Glowstone板板条箱
+    S:oredict.crateGtPlateGlowstoneCeres.name=谷神星萤石板板条箱
+    S:oredict.crateGtPlateGlowstoneEnceladus.name=土卫二萤石板板条箱
+    S:oredict.crateGtPlateGlowstoneIo.name=木卫一萤石板板条箱
+    S:oredict.crateGtPlateGlowstonePluto.name=冥王星萤石板板条箱
+    S:oredict.crateGtPlateGlowstoneProteus.name=海卫八萤石板板条箱
     S:oredict.crateGtPlateGlowstoneRefined.name=精致萤石板板条箱
     S:oredict.crateGtPlateGneiss.name=片麻岩板板条箱
     S:oredict.crateGtPlateGold.name=金板板条箱
@@ -15833,7 +15833,7 @@ languagefile {
     S:oredict.crateGtPlateObsidianRefined.name=精致黑曜石板板条箱
     S:oredict.crateGtPlateOganesson.name=118号元素(Og)板板条箱
     S:oredict.crateGtPlateOrichalcum.name=自然之石板板条箱
-    S:oredict.crateGtPlateOriharukon.name=Crate of 山铜 板
+    S:oredict.crateGtPlateOriharukon.name=山铜板板条箱
     S:oredict.crateGtPlateOsmiridium.name=铱锇合金板板条箱
     S:oredict.crateGtPlateOsmium.name=锇板板条箱
     S:oredict.crateGtPlateOsmiumElemental.name=锇板板条箱
@@ -19234,7 +19234,7 @@ languagefile {
     S:oredict.dustDiorite.name=闪长岩粉
     S:oredict.dustDiv72Actinium.name=1/72份锕粉
     S:oredict.dustDiv72Adamantine.name=1/72份血石粉
-    S:oredict.dustDiv72Adamantite.name=1/72nd of a Pile of 精金粉
+    S:oredict.dustDiv72Adamantite.name=1/72份精金粉
     S:oredict.dustDiv72Adamantium.name=1/72份艾德曼合金粉
     S:oredict.dustDiv72Aerotheum.name=1/72份和谐之空气粉
     S:oredict.dustDiv72Alduorite.name=1/72份神秘蓝金粉
@@ -19255,7 +19255,7 @@ languagefile {
     S:oredict.dustDiv72Angmallen.name=1/72份神圣之金粉
     S:oredict.dustDiv72Anthracite.name=1/72份无烟煤粉
     S:oredict.dustDiv72AntiActinium.name=1/72份反物质锕粉
-    S:oredict.dustDiv72AntiAdamantium.name=1/72份反物质艾德曼合金Dust
+    S:oredict.dustDiv72AntiAdamantium.name=1/72份反物质艾德曼合金粉
     S:oredict.dustDiv72AntiAluminium.name=1/72份反物质铝粉
     S:oredict.dustDiv72AntiAmericium.name=1/72份反物质镅粉
     S:oredict.dustDiv72AntiAmericium241.name=1/72份反物质镅-241粉
@@ -19459,12 +19459,12 @@ languagefile {
     S:oredict.dustDiv72Chalcopyrite.name=1/72份黄铜矿粉
     S:oredict.dustDiv72Chalk.name=1/72份白垩粉
     S:oredict.dustDiv72Charcoal.name=1/72份Char煤粉
-    S:oredict.dustDiv72ChargedCertusQuartz.name=1/72份充能 赛特斯石英粉
+    S:oredict.dustDiv72ChargedCertusQuartz.name=1/72份充能赛特斯石英粉
     S:oredict.dustDiv72Cheese.name=1/72份奶酪粉
     S:oredict.dustDiv72Chert.name=1/72份燧石粉
     S:oredict.dustDiv72Chili.name=1/72份辣椒粉
     S:oredict.dustDiv72Chlorine.name=1/72份氯粉
-    S:oredict.dustDiv72Chocolate.name=1/72份Chocolate Powder
+    S:oredict.dustDiv72Chocolate.name=1/72份巧克力粉
     S:oredict.dustDiv72Chromite.name=1/72份铬铁矿粉
     S:oredict.dustDiv72Chromium.name=1/72份铬粉
     S:oredict.dustDiv72ChromiumDioxide.name=1/72份二氧化铬粉
@@ -19479,8 +19479,8 @@ languagefile {
     S:oredict.dustDiv72CobaltBrass.name=1/72份钴 黄铜粉
     S:oredict.dustDiv72CobaltHexahydrate.name=1/72份六水合钴粉
     S:oredict.dustDiv72Cobaltite.name=1/72份辉砷钴粉
-    S:oredict.dustDiv72Cocoa.name=1/72份可可 Powder
-    S:oredict.dustDiv72Coffee.name=1/72份咖啡 Powder
+    S:oredict.dustDiv72Cocoa.name=1/72份可可粉
+    S:oredict.dustDiv72Coffee.name=1/72份咖啡粉
     S:oredict.dustDiv72Concrete.name=1/72份混凝土粉
     S:oredict.dustDiv72ConductiveIron.name=1/72份导体铁粉
     S:oredict.dustDiv72Constantan.name=1/72份康铜粉
@@ -19519,7 +19519,7 @@ languagefile {
     S:oredict.dustDiv72Draconium.name=1/72份龙粉
     S:oredict.dustDiv72DraconiumAwakened.name=1/72份觉醒龙粉
     S:oredict.dustDiv72Dubnium.name=1/72份𬭊粉
-    S:oredict.dustDiv72Duralumin.name=1/72nd of a Pile of 硬铝合金粉
+    S:oredict.dustDiv72Duralumin.name=1/72份硬铝合金粉
     S:oredict.dustDiv72Duranium.name=1/72份钍瑞铌合金粉
     S:oredict.dustDiv72DuraniumElemental.name=1/72份钍瑞铌粉
     S:oredict.dustDiv72DuraniumHexaastatide.name=1/72份六酰化钍瑞铌粉
@@ -19581,11 +19581,11 @@ languagefile {
     S:oredict.dustDiv72Glauconite.name=1/72份海绿石粉
     S:oredict.dustDiv72GlauconiteSand.name=1/72份海绿石沙
     S:oredict.dustDiv72Glowstone.name=1/72份萤石粉
-    S:oredict.dustDiv72GlowstoneCeres.name=1/72nd of a Pile of 谷神星萤石粉
-    S:oredict.dustDiv72GlowstoneEnceladus.name=1/72nd of a Pile of 土卫二萤石粉
-    S:oredict.dustDiv72GlowstoneIo.name=1/72nd of a Pile of 木卫一萤石粉
-    S:oredict.dustDiv72GlowstonePluto.name=1/72nd of a Pile of 冥王星萤石粉
-    S:oredict.dustDiv72GlowstoneProteus.name=1/72nd of a Pile of 海卫八萤石粉
+    S:oredict.dustDiv72GlowstoneCeres.name=1/72份谷神星萤石粉
+    S:oredict.dustDiv72GlowstoneEnceladus.name=1/72份土卫二萤石粉
+    S:oredict.dustDiv72GlowstoneIo.name=1/72份木卫一萤石粉
+    S:oredict.dustDiv72GlowstonePluto.name=1/72份冥王星萤石粉
+    S:oredict.dustDiv72GlowstoneProteus.name=1/72份海卫八萤石粉
     S:oredict.dustDiv72GlowstoneRefined.name=1/72份精致萤石粉
     S:oredict.dustDiv72Gneiss.name=1/72份片麻岩粉
     S:oredict.dustDiv72Gold.name=1/72份金粉
@@ -19610,7 +19610,7 @@ languagefile {
     S:oredict.dustDiv72Haderoth.name=1/72份幻之铜粉
     S:oredict.dustDiv72Hafnium.name=1/72份铪粉
     S:oredict.dustDiv72Hassium.name=1/72份𬭶粉
-    S:oredict.dustDiv72Hazelnut.name=1/72nd of a Pile of Ground 榛子
+    S:oredict.dustDiv72Hazelnut.name=1/72份榛子碎
     S:oredict.dustDiv72Hematite.name=1/72份赤铁粉
     S:oredict.dustDiv72Hepatizon.name=1/72份幽魂结晶粉
     S:oredict.dustDiv72Holmium.name=1/72份钬粉
@@ -19730,7 +19730,7 @@ languagefile {
     S:oredict.dustDiv72Orange.name=1/72份Orange染料
     S:oredict.dustDiv72OrangeSapphire.name=1/72份橙色蓝宝石粉
     S:oredict.dustDiv72Orichalcum.name=1/72份自然之石粉
-    S:oredict.dustDiv72Oriharukon.name=1/72nd of a Pile of 山铜粉
+    S:oredict.dustDiv72Oriharukon.name=1/72份山铜粉
     S:oredict.dustDiv72Osmiridium.name=1/72份铱锇合金粉
     S:oredict.dustDiv72Osmium.name=1/72份锇粉
     S:oredict.dustDiv72OsmiumElemental.name=1/72份锇粉
@@ -19751,8 +19751,8 @@ languagefile {
     S:oredict.dustDiv72PigIron.name=1/72份生铁粉
     S:oredict.dustDiv72Pinalite.name=1/72份氯钨铅粉
     S:oredict.dustDiv72Pink.name=1/72份Pink染料
-    S:oredict.dustDiv72Pistachio.name=1/72nd of a Pile of Ground Pistachio
-    S:oredict.dustDiv72Pitchblende.name=1/72份沥青铀
+    S:oredict.dustDiv72Pistachio.name=1/72份开心果碎
+    S:oredict.dustDiv72Pitchblende.name=1/72份沥青铀粉
     S:oredict.dustDiv72Plastic.name=1/72份塑料浆
     S:oredict.dustDiv72Platinum.name=1/72份铂粉
     S:oredict.dustDiv72PlatinumGroupSludge.name=1/72份铂族泥粉
@@ -20048,7 +20048,7 @@ languagefile {
     S:oredict.dustHaderoth.name=幻之铜粉
     S:oredict.dustHafnium.name=铪粉
     S:oredict.dustHassium.name=𬭶粉
-    S:oredict.dustHazelnut.name=Ground 榛子
+    S:oredict.dustHazelnut.name=榛子碎
     S:oredict.dustHematite.name=赤铁矿粉
     S:oredict.dustHepatizon.name=幽魂结晶粉
     S:oredict.dustHolmium.name=钬粉
@@ -20455,7 +20455,7 @@ languagefile {
     S:oredict.dustImpurePhosphorus.name=含杂磷粉
     S:oredict.dustImpurePigIron.name=含杂生铁粉
     S:oredict.dustImpurePinalite.name=含杂氯钨铅粉
-    S:oredict.dustImpurePitchblende.name=含杂沥青铀
+    S:oredict.dustImpurePitchblende.name=含杂沥青铀粉
     S:oredict.dustImpurePlatinum.name=含杂铂粉
     S:oredict.dustImpurePlatinumGroupSludge.name=含杂族泥粉
     S:oredict.dustImpurePlutonium.name=含杂钚粉
@@ -20728,8 +20728,8 @@ languagefile {
     S:oredict.dustPigIron.name=生铁粉
     S:oredict.dustPinalite.name=氯钨铅粉
     S:oredict.dustPink.name=粉色染料
-    S:oredict.dustPistachio.name=Ground Pistachio
-    S:oredict.dustPitchblende.name=沥青铀
+    S:oredict.dustPistachio.name=开心果碎
+    S:oredict.dustPitchblende.name=沥青铀粉
     S:oredict.dustPlastic.name=塑料浆
     S:oredict.dustPlatinum.name=铂粉
     S:oredict.dustPlatinumGroupSludge.name=铂族泥粉
@@ -21149,7 +21149,7 @@ languagefile {
     S:oredict.dustPurePhosphorus.name=纯净磷粉
     S:oredict.dustPurePigIron.name=纯净生铁粉
     S:oredict.dustPurePinalite.name=纯净氯钨铅粉
-    S:oredict.dustPurePitchblende.name=纯净沥青铀
+    S:oredict.dustPurePitchblende.name=纯净沥青铀粉
     S:oredict.dustPurePlatinum.name=纯净铂粉
     S:oredict.dustPurePlatinumGroupSludge.name=纯净铂族泥粉
     S:oredict.dustPurePlutonium.name=纯净钚粉
@@ -21720,7 +21720,7 @@ languagefile {
     S:oredict.dustSmallHaderoth.name=小堆幻之铜粉
     S:oredict.dustSmallHafnium.name=小堆铪粉
     S:oredict.dustSmallHassium.name=小堆𬭶粉
-    S:oredict.dustSmallHazelnut.name=小堆Ground 榛子
+    S:oredict.dustSmallHazelnut.name=小堆榛子碎
     S:oredict.dustSmallHematite.name=小撮Hematite粉
     S:oredict.dustSmallHepatizon.name=小堆幽魂结晶粉
     S:oredict.dustSmallHolmium.name=小堆钬粉
@@ -21868,8 +21868,8 @@ languagefile {
     S:oredict.dustSmallPigIron.name=小堆生铁粉
     S:oredict.dustSmallPinalite.name=小堆氯钨铅粉
     S:oredict.dustSmallPink.name=小堆Pink染料
-    S:oredict.dustSmallPistachio.name=小堆Ground Pistachio
-    S:oredict.dustSmallPitchblende.name=小堆沥青铀
+    S:oredict.dustSmallPistachio.name=小堆开心果碎
+    S:oredict.dustSmallPitchblende.name=小堆沥青铀粉
     S:oredict.dustSmallPlastic.name=小堆塑料浆
     S:oredict.dustSmallPlatinum.name=小堆铂粉
     S:oredict.dustSmallPlatinumGroupSludge.name=小堆铂族泥粉
@@ -22682,8 +22682,8 @@ languagefile {
     S:oredict.dustTinyPigIron.name=小撮生铁粉
     S:oredict.dustTinyPinalite.name=小撮氯钨铅粉
     S:oredict.dustTinyPink.name=小撮粉色染料
-    S:oredict.dustTinyPistachio.name=小撮Ground Pistachio
-    S:oredict.dustTinyPitchblende.name=小撮沥青铀
+    S:oredict.dustTinyPistachio.name=小撮开心果碎
+    S:oredict.dustTinyPitchblende.name=小撮沥青铀粉
     S:oredict.dustTinyPlastic.name=小撮塑料浆
     S:oredict.dustTinyPlatinum.name=小撮铂粉
     S:oredict.dustTinyPlatinumGroupSludge.name=小撮铂族泥粉
@@ -24415,7 +24415,7 @@ languagefile {
     S:oredict.ingotDesichalkos.name=虚空之魂石锭
     S:oredict.ingotDoubleActinium.name=两重锕锭
     S:oredict.ingotDoubleAdamantine.name=两重血石锭
-    S:oredict.ingotDoubleAdamantite.name=Double 精金锭
+    S:oredict.ingotDoubleAdamantite.name=两重精金锭
     S:oredict.ingotDoubleAdamantium.name=两重艾德曼合金锭
     S:oredict.ingotDoubleAlduorite.name=两重神秘蓝金锭
     S:oredict.ingotDoubleAluminium.name=两重铝锭
@@ -24594,7 +24594,7 @@ languagefile {
     S:oredict.ingotDoubleDraconium.name=两重龙锭
     S:oredict.ingotDoubleDraconiumAwakened.name=两重觉醒龙锭
     S:oredict.ingotDoubleDubnium.name=两重𬭊锭
-    S:oredict.ingotDoubleDuralumin.name=Double 硬铝合金锭
+    S:oredict.ingotDoubleDuralumin.name=两重硬铝合金锭
     S:oredict.ingotDoubleDuranium.name=两重钍瑞铌锭
     S:oredict.ingotDoubleDysprosium.name=两重镝锭
     S:oredict.ingotDoubleEinsteinium.name=两重锿锭
@@ -24686,7 +24686,7 @@ languagefile {
     S:oredict.ingotDoubleObsidianRefined.name=两重精致黑曜石锭
     S:oredict.ingotDoubleOganesson.name=两重118号元素(Og)锭
     S:oredict.ingotDoubleOrichalcum.name=两重自然之石锭
-    S:oredict.ingotDoubleOriharukon.name=Double 山铜锭
+    S:oredict.ingotDoubleOriharukon.name=两重山铜锭
     S:oredict.ingotDoubleOsmiridium.name=两重铱锇合金锭
     S:oredict.ingotDoubleOsmium.name=两重锇锭
     S:oredict.ingotDoubleOsmiumElemental.name=两重锇锭
@@ -24752,8 +24752,8 @@ languagefile {
     S:oredict.ingotDoubleTin.name=两重锡锭
     S:oredict.ingotDoubleTinAlloy.name=两重锡合金锭
     S:oredict.ingotDoubleTitanium.name=两重钛锭
-    S:oredict.ingotDoubleTitaniumAluminide.name=双重钛铝合金锭
-    S:oredict.ingotDoubleTitaniumIridium.name=双重钛铱合金锭
+    S:oredict.ingotDoubleTitaniumAluminide.name=两重钛铝合金锭
+    S:oredict.ingotDoubleTitaniumIridium.name=两重钛铱合金锭
     S:oredict.ingotDoubleTrinaquadalloy.name=两重碳化氪金钍瑞铌锭
     S:oredict.ingotDoubleTrinitanium.name=两重氪金钛锭
     S:oredict.ingotDoubleTrinium.name=两重氪金锭
@@ -25288,7 +25288,7 @@ languagefile {
     S:oredict.ingotPulsatingIron.name=脉冲铁锭
     S:oredict.ingotQuadrupleActinium.name=四重锕锭
     S:oredict.ingotQuadrupleAdamantine.name=四重血石锭
-    S:oredict.ingotQuadrupleAdamantite.name=Quadruple 精金锭
+    S:oredict.ingotQuadrupleAdamantite.name=四重精金锭
     S:oredict.ingotQuadrupleAdamantium.name=四重艾德曼合金锭
     S:oredict.ingotQuadrupleAlduorite.name=四重神秘蓝金锭
     S:oredict.ingotQuadrupleAluminium.name=四重铝锭
@@ -25467,7 +25467,7 @@ languagefile {
     S:oredict.ingotQuadrupleDraconium.name=四重龙锭
     S:oredict.ingotQuadrupleDraconiumAwakened.name=四重觉醒龙锭
     S:oredict.ingotQuadrupleDubnium.name=四重𬭊锭
-    S:oredict.ingotQuadrupleDuralumin.name=Quadruple 硬铝合金锭
+    S:oredict.ingotQuadrupleDuralumin.name=四重硬铝合金锭
     S:oredict.ingotQuadrupleDuranium.name=四重钍瑞铌锭
     S:oredict.ingotQuadrupleDysprosium.name=四重镝锭
     S:oredict.ingotQuadrupleEinsteinium.name=四重锿锭
@@ -25559,7 +25559,7 @@ languagefile {
     S:oredict.ingotQuadrupleObsidianRefined.name=四重精致黑曜石锭
     S:oredict.ingotQuadrupleOganesson.name=四重 118号元素(Og)锭
     S:oredict.ingotQuadrupleOrichalcum.name=四重自然之石锭
-    S:oredict.ingotQuadrupleOriharukon.name=Quadruple 山铜锭
+    S:oredict.ingotQuadrupleOriharukon.name=四重山铜锭
     S:oredict.ingotQuadrupleOsmiridium.name=四重铱锇合金锭
     S:oredict.ingotQuadrupleOsmium.name=四重锇锭
     S:oredict.ingotQuadrupleOsmiumElemental.name=四重锇锭
@@ -25625,8 +25625,8 @@ languagefile {
     S:oredict.ingotQuadrupleTin.name=四重锡锭
     S:oredict.ingotQuadrupleTinAlloy.name=四重锡合金锭
     S:oredict.ingotQuadrupleTitanium.name=四重钛锭
-    S:oredict.ingotQuadrupleTitaniumAluminide.name=Quadruple 钛铝合金锭
-    S:oredict.ingotQuadrupleTitaniumIridium.name=Quadruple 钛铱合金锭
+    S:oredict.ingotQuadrupleTitaniumAluminide.name=四重钛铝合金锭
+    S:oredict.ingotQuadrupleTitaniumIridium.name=四重钛铱合金锭
     S:oredict.ingotQuadrupleTrinaquadalloy.name=四重碳化氪金钍瑞铌锭
     S:oredict.ingotQuadrupleTrinitanium.name=四重氪金钛锭
     S:oredict.ingotQuadrupleTrinium.name=四重 氪金锭
@@ -25668,7 +25668,7 @@ languagefile {
     S:oredict.ingotQuadrupleplatinum.name=四重铂锭
     S:oredict.ingotQuintupleActinium.name=五重锕锭
     S:oredict.ingotQuintupleAdamantine.name=五重血石锭
-    S:oredict.ingotQuintupleAdamantite.name=Quintuple 精金锭
+    S:oredict.ingotQuintupleAdamantite.name=五重精金锭
     S:oredict.ingotQuintupleAdamantium.name=五重艾德曼合金锭
     S:oredict.ingotQuintupleAlduorite.name=五重神秘蓝金锭
     S:oredict.ingotQuintupleAluminium.name=五重铝锭
@@ -25847,7 +25847,7 @@ languagefile {
     S:oredict.ingotQuintupleDraconium.name=五重龙锭
     S:oredict.ingotQuintupleDraconiumAwakened.name=五重觉醒龙锭
     S:oredict.ingotQuintupleDubnium.name=五重𬭊锭
-    S:oredict.ingotQuintupleDuralumin.name=Quintuple 硬铝合金锭
+    S:oredict.ingotQuintupleDuralumin.name=五重硬铝合金锭
     S:oredict.ingotQuintupleDuranium.name=五重钍瑞铌锭
     S:oredict.ingotQuintupleDysprosium.name=五重镝锭
     S:oredict.ingotQuintupleEinsteinium.name=五重锿锭
@@ -25939,7 +25939,7 @@ languagefile {
     S:oredict.ingotQuintupleObsidianRefined.name=五重精致黑曜石锭
     S:oredict.ingotQuintupleOganesson.name=五重118号元素(Og)锭
     S:oredict.ingotQuintupleOrichalcum.name=五重自然之石锭
-    S:oredict.ingotQuintupleOriharukon.name=Quintuple 山铜锭
+    S:oredict.ingotQuintupleOriharukon.name=五重山铜锭
     S:oredict.ingotQuintupleOsmiridium.name=五重铱锇合金锭
     S:oredict.ingotQuintupleOsmium.name=五重锇锭
     S:oredict.ingotQuintupleOsmiumElemental.name=五重锇锭
@@ -26004,8 +26004,8 @@ languagefile {
     S:oredict.ingotQuintupleTin.name=五重锡锭
     S:oredict.ingotQuintupleTinAlloy.name=五重锡合金锭
     S:oredict.ingotQuintupleTitanium.name=五重钛锭
-    S:oredict.ingotQuintupleTitaniumAluminide.name=Quintuple 钛铝合金锭
-    S:oredict.ingotQuintupleTitaniumIridium.name=Quintuple 钛铱合金锭
+    S:oredict.ingotQuintupleTitaniumAluminide.name=五重钛铝合金锭
+    S:oredict.ingotQuintupleTitaniumIridium.name=五重钛铱合金锭
     S:oredict.ingotQuintupleTrinaquadalloy.name=五重碳化氪金钍瑞铌锭
     S:oredict.ingotQuintupleTrinitanium.name=五重氪金钛锭
     S:oredict.ingotQuintupleTrinium.name=五重氪金锭
@@ -26098,7 +26098,7 @@ languagefile {
     S:oredict.ingotTrinium.name=氪金锭
     S:oredict.ingotTripleActinium.name=三重锕锭
     S:oredict.ingotTripleAdamantine.name=三重血石锭
-    S:oredict.ingotTripleAdamantite.name=Triple 精金锭
+    S:oredict.ingotTripleAdamantite.name=三重精金锭
     S:oredict.ingotTripleAdamantium.name=三重艾德曼合金锭
     S:oredict.ingotTripleAlduorite.name=三重神秘蓝金锭
     S:oredict.ingotTripleAluminium.name=三重铝锭
@@ -26277,7 +26277,7 @@ languagefile {
     S:oredict.ingotTripleDraconium.name=三重龙锭
     S:oredict.ingotTripleDraconiumAwakened.name=三重觉醒龙锭
     S:oredict.ingotTripleDubnium.name=三重𬭊锭
-    S:oredict.ingotTripleDuralumin.name=Triple 硬铝合金锭
+    S:oredict.ingotTripleDuralumin.name=三重硬铝合金锭
     S:oredict.ingotTripleDuranium.name=三重钍瑞铌锭
     S:oredict.ingotTripleDysprosium.name=三重镝锭
     S:oredict.ingotTripleEinsteinium.name=三重锿锭
@@ -26369,7 +26369,7 @@ languagefile {
     S:oredict.ingotTripleObsidianRefined.name=三重精致黑曜石锭
     S:oredict.ingotTripleOganesson.name=三重118号元素(Og)锭
     S:oredict.ingotTripleOrichalcum.name=三重自然之石锭
-    S:oredict.ingotTripleOriharukon.name=Triple 山铜锭
+    S:oredict.ingotTripleOriharukon.name=三重山铜锭
     S:oredict.ingotTripleOsmiridium.name=三重铱锇合金锭
     S:oredict.ingotTripleOsmium.name=三重锇锭
     S:oredict.ingotTripleOsmiumElemental.name=三重锇锭
@@ -35081,7 +35081,7 @@ languagefile {
     S:oredict.plantGtBerryPinalite.name=氯钨铅梅
     S:oredict.plantGtBerryPink.name=粉色梅
     S:oredict.plantGtBerryPinkVitriol.name=硫酸镁梅
-    S:oredict.plantGtBerryPistachio.name=Pistachio Berry
+    S:oredict.plantGtBerryPistachio.name=开心果 Berry
     S:oredict.plantGtBerryPitchblende.name=沥青铀梅
     S:oredict.plantGtBerryPlastic.name=塑料梅
     S:oredict.plantGtBerryPlatinum.name=铂梅
@@ -35332,7 +35332,7 @@ languagefile {
     S:oredict.plantGtBerryyellowSapphire.name=黄色蓝宝石Berry
     S:oredict.plantGtBlossomActinium.name=锕花
     S:oredict.plantGtBlossomAdamantine.name=血石 花
-    S:oredict.plantGtBlossomAdamantite.name=精金 Blossom
+    S:oredict.plantGtBlossomAdamantite.name=精金花
     S:oredict.plantGtBlossomAdamantium.name=艾德曼合金花
     S:oredict.plantGtBlossomAerotheum.name=和谐之空气 花
     S:oredict.plantGtBlossomAir.name=空气花
@@ -35637,7 +35637,7 @@ languagefile {
     S:oredict.plantGtBlossomDraconium.name=龙锭 花
     S:oredict.plantGtBlossomDraconiumAwakened.name=觉醒龙锭 花
     S:oredict.plantGtBlossomDubnium.name=𬭊花
-    S:oredict.plantGtBlossomDuralumin.name=硬铝合金 Blossom
+    S:oredict.plantGtBlossomDuralumin.name=硬铝合金花
     S:oredict.plantGtBlossomDuranium.name=钍瑞铌花
     S:oredict.plantGtBlossomDuraniumElemental.name=钍瑞铌 花
     S:oredict.plantGtBlossomDuraniumHexaastatide.name=六酰化钍瑞铌 花
@@ -35705,11 +35705,11 @@ languagefile {
     S:oredict.plantGtBlossomGlauconite.name=海绿石花
     S:oredict.plantGtBlossomGlauconiteSand.name=海绿石沙花
     S:oredict.plantGtBlossomGlowstone.name=萤石花
-    S:oredict.plantGtBlossomGlowstoneCeres.name=谷神星萤石 Blossom
-    S:oredict.plantGtBlossomGlowstoneEnceladus.name=土卫二萤石 Blossom
-    S:oredict.plantGtBlossomGlowstoneIo.name=木卫一萤石 Blossom
-    S:oredict.plantGtBlossomGlowstonePluto.name=冥王星萤石 Blossom
-    S:oredict.plantGtBlossomGlowstoneProteus.name=海卫八萤石 Blossom
+    S:oredict.plantGtBlossomGlowstoneCeres.name=谷神星萤石花
+    S:oredict.plantGtBlossomGlowstoneEnceladus.name=土卫二萤石花
+    S:oredict.plantGtBlossomGlowstoneIo.name=木卫一萤石花
+    S:oredict.plantGtBlossomGlowstonePluto.name=冥王星萤石花
+    S:oredict.plantGtBlossomGlowstoneProteus.name=海卫八萤石花
     S:oredict.plantGtBlossomGlowstoneRefined.name=精致萤石花
     S:oredict.plantGtBlossomGlue.name=胶水花
     S:oredict.plantGtBlossomGlycerol.name=丙三醇 花
@@ -35741,7 +35741,7 @@ languagefile {
     S:oredict.plantGtBlossomHaderoth.name=幻之铜花
     S:oredict.plantGtBlossomHafnium.name=铪花
     S:oredict.plantGtBlossomHassium.name=𬭶花
-    S:oredict.plantGtBlossomHazelnut.name=榛子 Blossom
+    S:oredict.plantGtBlossomHazelnut.name=榛子花
     S:oredict.plantGtBlossomHeliumNeon.name=氦-氖 花
     S:oredict.plantGtBlossomHematite.name=赤铁矿 花
     S:oredict.plantGtBlossomHepatizon.name=幽魂结晶花
@@ -35887,7 +35887,7 @@ languagefile {
     S:oredict.plantGtBlossomOrange.name=橙色花
     S:oredict.plantGtBlossomOrangeSapphire.name=橙色蓝宝石 花
     S:oredict.plantGtBlossomOrichalcum.name=自然之石花
-    S:oredict.plantGtBlossomOriharukon.name=山铜 Blossom
+    S:oredict.plantGtBlossomOriharukon.name=山铜花
     S:oredict.plantGtBlossomOsmiridium.name=铱锇合金花
     S:oredict.plantGtBlossomOsmium.name=锇花
     S:oredict.plantGtBlossomOsmiumElemental.name=锇 花
@@ -35911,7 +35911,7 @@ languagefile {
     S:oredict.plantGtBlossomPinalite.name=氯钨铅花
     S:oredict.plantGtBlossomPink.name=粉色 花
     S:oredict.plantGtBlossomPinkVitriol.name=硫酸镁 花
-    S:oredict.plantGtBlossomPistachio.name=Pistachio Blossom
+    S:oredict.plantGtBlossomPistachio.name=Pistachio花
     S:oredict.plantGtBlossomPitchblende.name=沥青铀花
     S:oredict.plantGtBlossomPlastic.name=塑料花
     S:oredict.plantGtBlossomPlatinum.name=铂花
@@ -36162,7 +36162,7 @@ languagefile {
     S:oredict.plantGtBlossomyellowSapphire.name=黄色蓝宝石Blossom
     S:oredict.plantGtFiberActinium.name=粗糙的锕纤维
     S:oredict.plantGtFiberAdamantine.name=粗糙的血石纤维
-    S:oredict.plantGtFiberAdamantite.name=粗糙的精金 Fiber
+    S:oredict.plantGtFiberAdamantite.name=粗糙的精金纤维
     S:oredict.plantGtFiberAdamantium.name=粗糙的艾德曼合金 纤维
     S:oredict.plantGtFiberAerotheum.name=粗糙的和谐之空气纤维
     S:oredict.plantGtFiberAir.name=粗糙的Air纤维
@@ -36467,7 +36467,7 @@ languagefile {
     S:oredict.plantGtFiberDraconium.name=粗糙的龙 纤维
     S:oredict.plantGtFiberDraconiumAwakened.name=粗糙的觉醒龙 纤维
     S:oredict.plantGtFiberDubnium.name=粗糙的𬭊 纤维
-    S:oredict.plantGtFiberDuralumin.name=粗糙的硬铝合金 Fiber
+    S:oredict.plantGtFiberDuralumin.name=粗糙的硬铝合金纤维
     S:oredict.plantGtFiberDuranium.name=粗糙的钍瑞铌 纤维
     S:oredict.plantGtFiberDuraniumElemental.name=粗糙的钍瑞铌 纤维
     S:oredict.plantGtFiberDuraniumHexaastatide.name=粗糙的六酰化钍瑞铌纤维
@@ -36535,11 +36535,11 @@ languagefile {
     S:oredict.plantGtFiberGlauconite.name=粗糙的海绿石纤维
     S:oredict.plantGtFiberGlauconiteSand.name=粗糙的海绿石沙纤维
     S:oredict.plantGtFiberGlowstone.name=粗糙的萤石 纤维
-    S:oredict.plantGtFiberGlowstoneCeres.name=粗糙的谷神星萤石 Fiber
-    S:oredict.plantGtFiberGlowstoneEnceladus.name=粗糙的土卫二萤石 Fiber
-    S:oredict.plantGtFiberGlowstoneIo.name=粗糙的木卫一萤石 Fiber
-    S:oredict.plantGtFiberGlowstonePluto.name=粗糙的冥王星萤石 Fiber
-    S:oredict.plantGtFiberGlowstoneProteus.name=粗糙的海卫八萤石 Fiber
+    S:oredict.plantGtFiberGlowstoneCeres.name=粗糙的谷神星萤石纤维
+    S:oredict.plantGtFiberGlowstoneEnceladus.name=粗糙的土卫二萤石纤维
+    S:oredict.plantGtFiberGlowstoneIo.name=粗糙的木卫一萤石纤维
+    S:oredict.plantGtFiberGlowstonePluto.name=粗糙的冥王星萤石纤维
+    S:oredict.plantGtFiberGlowstoneProteus.name=粗糙的海卫八萤石纤维
     S:oredict.plantGtFiberGlowstoneRefined.name=粗糙的精致萤石纤维
     S:oredict.plantGtFiberGlue.name=粗糙的Glue纤维
     S:oredict.plantGtFiberGlycerol.name=粗糙的丙三醇纤维
@@ -36571,7 +36571,7 @@ languagefile {
     S:oredict.plantGtFiberHaderoth.name=粗糙的幻之铜纤维
     S:oredict.plantGtFiberHafnium.name=粗糙的铪纤维
     S:oredict.plantGtFiberHassium.name=粗糙的𬭶纤维
-    S:oredict.plantGtFiberHazelnut.name=粗糙的榛子 Fiber
+    S:oredict.plantGtFiberHazelnut.name=粗糙的榛子纤维
     S:oredict.plantGtFiberHeliumNeon.name=粗糙的氦-氖纤维
     S:oredict.plantGtFiberHematite.name=粗糙的赤铁矿纤维
     S:oredict.plantGtFiberHepatizon.name=粗糙的幽魂结晶纤维
@@ -36717,7 +36717,7 @@ languagefile {
     S:oredict.plantGtFiberOrange.name=橙色 纤维
     S:oredict.plantGtFiberOrangeSapphire.name=粗糙的橙色蓝宝石纤维
     S:oredict.plantGtFiberOrichalcum.name=粗糙的自然之石纤维
-    S:oredict.plantGtFiberOriharukon.name=粗糙的山铜 Fiber
+    S:oredict.plantGtFiberOriharukon.name=粗糙的山铜纤维
     S:oredict.plantGtFiberOsmiridium.name=粗糙的铱锇合金纤维
     S:oredict.plantGtFiberOsmium.name=粗糙的锇纤维
     S:oredict.plantGtFiberOsmiumElemental.name=粗糙的锇 纤维
@@ -36741,7 +36741,7 @@ languagefile {
     S:oredict.plantGtFiberPinalite.name=粗糙的氯钨铅纤维
     S:oredict.plantGtFiberPink.name=粉色 纤维
     S:oredict.plantGtFiberPinkVitriol.name=粗糙的硫酸镁纤维
-    S:oredict.plantGtFiberPistachio.name=粗糙的Pistachio Fiber
+    S:oredict.plantGtFiberPistachio.name=粗糙的Pistachio纤维
     S:oredict.plantGtFiberPitchblende.name=粗糙的沥青铀纤维
     S:oredict.plantGtFiberPlastic.name=粗糙的塑料纤维
     S:oredict.plantGtFiberPlatinum.name=粗糙的铂纤维
@@ -37571,7 +37571,7 @@ languagefile {
     S:oredict.plantGtTwigPinalite.name=氯钨铅细枝
     S:oredict.plantGtTwigPink.name=粉色细枝
     S:oredict.plantGtTwigPinkVitriol.name=硫酸镁细枝
-    S:oredict.plantGtTwigPistachio.name=Pistachio Twig
+    S:oredict.plantGtTwigPistachio.name=开心果 Twig
     S:oredict.plantGtTwigPitchblende.name=沥青铀细枝
     S:oredict.plantGtTwigPlastic.name=塑料细枝
     S:oredict.plantGtTwigPlatinum.name=铂细枝
@@ -37822,7 +37822,7 @@ languagefile {
     S:oredict.plantGtTwigyellowSapphire.name=黄色蓝宝石细枝
     S:oredict.plantGtWartActinium.name=锕疣
     S:oredict.plantGtWartAdamantine.name=血石疣
-    S:oredict.plantGtWartAdamantite.name=精金 Wart
+    S:oredict.plantGtWartAdamantite.name=精金疣
     S:oredict.plantGtWartAdamantium.name=艾德曼合金疣
     S:oredict.plantGtWartAerotheum.name=和谐之空气疣
     S:oredict.plantGtWartAir.name=空气疣
@@ -38127,7 +38127,7 @@ languagefile {
     S:oredict.plantGtWartDraconium.name=龙锭疣
     S:oredict.plantGtWartDraconiumAwakened.name=觉醒龙锭疣
     S:oredict.plantGtWartDubnium.name=𬭊疣
-    S:oredict.plantGtWartDuralumin.name=硬铝合金 Wart
+    S:oredict.plantGtWartDuralumin.name=硬铝合金疣
     S:oredict.plantGtWartDuranium.name=钍瑞铌疣
     S:oredict.plantGtWartDuraniumElemental.name=钍瑞铌疣
     S:oredict.plantGtWartDuraniumHexaastatide.name=六酰化钍瑞铌疣
@@ -38195,11 +38195,11 @@ languagefile {
     S:oredict.plantGtWartGlauconite.name=海绿石疣
     S:oredict.plantGtWartGlauconiteSand.name=海绿石沙疣
     S:oredict.plantGtWartGlowstone.name=萤石疣
-    S:oredict.plantGtWartGlowstoneCeres.name=谷神星萤石 Wart
-    S:oredict.plantGtWartGlowstoneEnceladus.name=土卫二萤石 Wart
-    S:oredict.plantGtWartGlowstoneIo.name=木卫一萤石 Wart
-    S:oredict.plantGtWartGlowstonePluto.name=冥王星萤石 Wart
-    S:oredict.plantGtWartGlowstoneProteus.name=海卫八萤石 Wart
+    S:oredict.plantGtWartGlowstoneCeres.name=谷神星萤石疣
+    S:oredict.plantGtWartGlowstoneEnceladus.name=土卫二萤石疣
+    S:oredict.plantGtWartGlowstoneIo.name=木卫一萤石疣
+    S:oredict.plantGtWartGlowstonePluto.name=冥王星萤石疣
+    S:oredict.plantGtWartGlowstoneProteus.name=海卫八萤石疣
     S:oredict.plantGtWartGlowstoneRefined.name=精致萤石疣
     S:oredict.plantGtWartGlue.name=胶水疣
     S:oredict.plantGtWartGlycerol.name=丙三醇疣
@@ -38231,7 +38231,7 @@ languagefile {
     S:oredict.plantGtWartHaderoth.name=幻之铜疣
     S:oredict.plantGtWartHafnium.name=铪疣
     S:oredict.plantGtWartHassium.name=𬭶疣
-    S:oredict.plantGtWartHazelnut.name=榛子 Wart
+    S:oredict.plantGtWartHazelnut.name=榛子疣
     S:oredict.plantGtWartHeliumNeon.name=氦-氖疣
     S:oredict.plantGtWartHematite.name=赤铁矿疣
     S:oredict.plantGtWartHepatizon.name=幽魂结晶疣
@@ -38377,7 +38377,7 @@ languagefile {
     S:oredict.plantGtWartOrange.name=橙色疣
     S:oredict.plantGtWartOrangeSapphire.name=橙色蓝宝石疣
     S:oredict.plantGtWartOrichalcum.name=自然之石疣
-    S:oredict.plantGtWartOriharukon.name=山铜 Wart
+    S:oredict.plantGtWartOriharukon.name=山铜疣
     S:oredict.plantGtWartOsmiridium.name=铱锇合金疣
     S:oredict.plantGtWartOsmium.name=锇疣
     S:oredict.plantGtWartOsmiumElemental.name=锇疣
@@ -38401,7 +38401,7 @@ languagefile {
     S:oredict.plantGtWartPinalite.name=氯钨铅疣
     S:oredict.plantGtWartPink.name=粉色疣
     S:oredict.plantGtWartPinkVitriol.name=硫酸镁疣
-    S:oredict.plantGtWartPistachio.name=Pistachio Wart
+    S:oredict.plantGtWartPistachio.name=Pistachio疣
     S:oredict.plantGtWartPitchblende.name=沥青铀疣
     S:oredict.plantGtWartPlastic.name=塑料疣
     S:oredict.plantGtWartPlatinum.name=铂疣
@@ -38652,7 +38652,7 @@ languagefile {
     S:oredict.plantGtWartyellowSapphire.name=黄色蓝宝石疣
     S:oredict.plateActinium.name=锕板
     S:oredict.plateAdamantine.name=血石板
-    S:oredict.plateAdamantite.name=精金 板
+    S:oredict.plateAdamantite.name=精金板
     S:oredict.plateAdamantium.name=艾德曼合金板
     S:oredict.plateAlduorite.name=神秘蓝金板
     S:oredict.plateAluminium.name=铝板
@@ -38830,7 +38830,7 @@ languagefile {
     S:oredict.plateCurium.name=锔板
     S:oredict.plateCurvedActinium.name=弯曲锕板
     S:oredict.plateCurvedAdamantine.name=弯曲血石板
-    S:oredict.plateCurvedAdamantite.name=Curved 精金 板
+    S:oredict.plateCurvedAdamantite.name=弯曲精金板
     S:oredict.plateCurvedAdamantium.name=弯曲艾德曼合金板
     S:oredict.plateCurvedAlduorite.name=弯曲神秘蓝金板
     S:oredict.plateCurvedAluminium.name=弯曲铝板
@@ -38947,7 +38947,7 @@ languagefile {
     S:oredict.plateCurvedAntiUnuntrium.name=弯曲反物质113号元素(Uup)板
     S:oredict.plateCurvedAntiUranium.name=弯曲反物质铀板
     S:oredict.plateCurvedAntiUranium235.name=弯曲反物质铀-235板
-    S:oredict.plateCurvedAntiVanadium.name=弯曲反物质钒 板
+    S:oredict.plateCurvedAntiVanadium.name=弯曲反物质钒板
     S:oredict.plateCurvedAntiYtterbium.name=弯曲反物质镱板
     S:oredict.plateCurvedAntiYttrium.name=弯曲反物质钇板
     S:oredict.plateCurvedAntiZinc.name=弯曲反物质锌板
@@ -39020,7 +39020,7 @@ languagefile {
     S:oredict.plateCurvedDraconium.name=弯曲龙板
     S:oredict.plateCurvedDraconiumAwakened.name=弯曲觉醒龙板
     S:oredict.plateCurvedDubnium.name=弯曲𬭊板
-    S:oredict.plateCurvedDuralumin.name=Curved 硬铝合金 板
+    S:oredict.plateCurvedDuralumin.name=弯曲硬铝合金板
     S:oredict.plateCurvedDuranium.name=弯曲钍瑞铌板
     S:oredict.plateCurvedDysprosium.name=弯曲镝板
     S:oredict.plateCurvedEclogite.name=弯曲榴辉岩板
@@ -39054,11 +39054,11 @@ languagefile {
     S:oredict.plateCurvedGermanium.name=弯曲锗板
     S:oredict.plateCurvedGildedIron.name=弯曲镀金铁板
     S:oredict.plateCurvedGlowstone.name=弯曲萤石板
-    S:oredict.plateCurvedGlowstoneCeres.name=Curved 谷神星萤石 板
-    S:oredict.plateCurvedGlowstoneEnceladus.name=Curved 土卫二萤石 板
-    S:oredict.plateCurvedGlowstoneIo.name=Curved 木卫一萤石 板
-    S:oredict.plateCurvedGlowstonePluto.name=Curved 冥王星萤石 板
-    S:oredict.plateCurvedGlowstoneProteus.name=Curved 海卫八萤石 板
+    S:oredict.plateCurvedGlowstoneCeres.name=弯曲谷神星萤石板
+    S:oredict.plateCurvedGlowstoneEnceladus.name=弯曲土卫二萤石板
+    S:oredict.plateCurvedGlowstoneIo.name=弯曲木卫一萤石板
+    S:oredict.plateCurvedGlowstonePluto.name=弯曲冥王星萤石板
+    S:oredict.plateCurvedGlowstoneProteus.name=弯曲海卫八萤石板
     S:oredict.plateCurvedGlowstoneRefined.name=弯曲精致萤石板
     S:oredict.plateCurvedGneiss.name=弯曲片麻岩板
     S:oredict.plateCurvedGold.name=弯曲金板
@@ -39141,7 +39141,7 @@ languagefile {
     S:oredict.plateCurvedObsidianRefined.name=弯曲精致黑曜石板
     S:oredict.plateCurvedOganesson.name=弯曲118号元素(Og)板
     S:oredict.plateCurvedOrichalcum.name=弯曲自然之石板
-    S:oredict.plateCurvedOriharukon.name=Curved 山铜 板
+    S:oredict.plateCurvedOriharukon.name=弯曲山铜板
     S:oredict.plateCurvedOsmiridium.name=弯曲铱锇合金板
     S:oredict.plateCurvedOsmium.name=弯曲锇板
     S:oredict.plateCurvedOsmiumElemental.name=弯曲锇板
@@ -39196,7 +39196,7 @@ languagefile {
     S:oredict.plateCurvedSteelMagnetic.name=弯曲磁化钢板
     S:oredict.plateCurvedSteeleaf.name=弯曲钢叶板
     S:oredict.plateCurvedSterlingSilver.name=弯曲标准银板
-    S:oredict.plateCurvedStone.name=弯曲Stone 板
+    S:oredict.plateCurvedStone.name=弯曲石板
     S:oredict.plateCurvedStrontium.name=弯曲锶板
     S:oredict.plateCurvedSunnarium.name=弯曲太阳合金板
     S:oredict.plateCurvedTantalum.name=弯曲钽板
@@ -39231,7 +39231,7 @@ languagefile {
     S:oredict.plateCurvedUnuntrium.name=弯曲113号元素(Uup)板
     S:oredict.plateCurvedUranium.name=弯曲铀板
     S:oredict.plateCurvedUranium235.name=弯曲铀-235板
-    S:oredict.plateCurvedVanadium.name=弯曲钒 板
+    S:oredict.plateCurvedVanadium.name=弯曲钒板
     S:oredict.plateCurvedVanadiumGallium.name=弯曲钒镓合金板
     S:oredict.plateCurvedVanadiumSteel.name=弯曲钒钢板
     S:oredict.plateCurvedVibramantium.name=弯曲Vibramantium 板
@@ -39275,7 +39275,7 @@ languagefile {
     S:oredict.plateDeepIron.name=深渊铁板
     S:oredict.plateDenseActinium.name=致密锕板
     S:oredict.plateDenseAdamantine.name=致密血石板
-    S:oredict.plateDenseAdamantite.name=致密精金 板
+    S:oredict.plateDenseAdamantite.name=致密精金板
     S:oredict.plateDenseAdamantium.name=致密艾德曼合金板
     S:oredict.plateDenseAlduorite.name=致密神秘蓝金板
     S:oredict.plateDenseAluminium.name=致密铝板
@@ -39454,7 +39454,7 @@ languagefile {
     S:oredict.plateDenseDraconium.name=致密龙板
     S:oredict.plateDenseDraconiumAwakened.name=致密觉醒龙板
     S:oredict.plateDenseDubnium.name=致密𬭊板
-    S:oredict.plateDenseDuralumin.name=致密硬铝合金 板
+    S:oredict.plateDenseDuralumin.name=致密硬铝合金板
     S:oredict.plateDenseDuranium.name=致密钍瑞铌板
     S:oredict.plateDenseDysprosium.name=致密镝板
     S:oredict.plateDenseEinsteinium.name=致密锿板
@@ -39548,7 +39548,7 @@ languagefile {
     S:oredict.plateDenseObsidianRefined.name=致密精致黑曜石板
     S:oredict.plateDenseOganesson.name=致密118号元素(Og)板
     S:oredict.plateDenseOrichalcum.name=致密自然之石板
-    S:oredict.plateDenseOriharukon.name=致密山铜 板
+    S:oredict.plateDenseOriharukon.name=致密山铜板
     S:oredict.plateDenseOsmiridium.name=致密铱锇合金板
     S:oredict.plateDenseOsmium.name=致密锇板
     S:oredict.plateDenseOsmiumElemental.name=致密锇板
@@ -39658,7 +39658,7 @@ languagefile {
     S:oredict.plateDiorite.name=闪长岩板
     S:oredict.plateDoubleActinium.name=两重锕板
     S:oredict.plateDoubleAdamantine.name=两重血石板
-    S:oredict.plateDoubleAdamantite.name=Double 精金 板
+    S:oredict.plateDoubleAdamantite.name=两重精金板
     S:oredict.plateDoubleAdamantium.name=两重艾德曼合金板
     S:oredict.plateDoubleAlduorite.name=两重神秘蓝金板
     S:oredict.plateDoubleAluminium.name=两重铝板
@@ -39837,7 +39837,7 @@ languagefile {
     S:oredict.plateDoubleDraconium.name=两重龙板
     S:oredict.plateDoubleDraconiumAwakened.name=两重觉醒龙板
     S:oredict.plateDoubleDubnium.name=两重𬭊板
-    S:oredict.plateDoubleDuralumin.name=Double 硬铝合金 板
+    S:oredict.plateDoubleDuralumin.name=两重硬铝合金板
     S:oredict.plateDoubleDuranium.name=两重钍瑞铌板
     S:oredict.plateDoubleDysprosium.name=两重镝板
     S:oredict.plateDoubleEinsteinium.name=两重锿板
@@ -39929,13 +39929,13 @@ languagefile {
     S:oredict.plateDoubleObsidianRefined.name=两重精致黑曜石板
     S:oredict.plateDoubleOganesson.name=两重118号元素(Og)板
     S:oredict.plateDoubleOrichalcum.name=两重自然之石板
-    S:oredict.plateDoubleOriharukon.name=Double 山铜 板
+    S:oredict.plateDoubleOriharukon.name=两重山铜板
     S:oredict.plateDoubleOsmiridium.name=两重铱锇合金板
     S:oredict.plateDoubleOsmium.name=两重锇板
     S:oredict.plateDoubleOsmiumElemental.name=两重锇板
     S:oredict.plateDoubleOureclase.name=两重大地结晶板
     S:oredict.plateDoublePalladium.name=两重钯板
-    S:oredict.plateDoublePaper.name=双重纸板
+    S:oredict.plateDoublePaper.name=两重纸板
     S:oredict.plateDoublePigIron.name=两重生铁板
     S:oredict.plateDoublePlastic.name=两重塑料板
     S:oredict.plateDoublePlatinum.name=两重铂板
@@ -39994,8 +39994,8 @@ languagefile {
     S:oredict.plateDoubleTin.name=两重锡板
     S:oredict.plateDoubleTinAlloy.name=两重锡合金板
     S:oredict.plateDoubleTitanium.name=两重钛板
-    S:oredict.plateDoubleTitaniumAluminide.name=双重钛铝合金板
-    S:oredict.plateDoubleTitaniumIridium.name=双重钛铱合金板
+    S:oredict.plateDoubleTitaniumAluminide.name=两重钛铝合金板
+    S:oredict.plateDoubleTitaniumIridium.name=两重钛铱合金板
     S:oredict.plateDoubleTrinaquadalloy.name=两重碳化氪金钍瑞铌板
     S:oredict.plateDoubleTrinitanium.name=两重氪金钛板
     S:oredict.plateDoubleTrinium.name=两重氪金板
@@ -40038,7 +40038,7 @@ languagefile {
     S:oredict.plateDraconium.name=龙锭板
     S:oredict.plateDraconiumAwakened.name=觉醒龙锭板
     S:oredict.plateDubnium.name=𬭊板
-    S:oredict.plateDuralumin.name=硬铝合金 板
+    S:oredict.plateDuralumin.name=硬铝合金板
     S:oredict.plateDuranium.name=钍瑞铌板
     S:oredict.plateDysprosium.name=镝板
     S:oredict.plateEclogite.name=榴辉岩板
@@ -40232,11 +40232,11 @@ languagefile {
     S:oredict.plateGermanium.name=锗板
     S:oredict.plateGildedIron.name=镀金铁板
     S:oredict.plateGlowstone.name=萤石板
-    S:oredict.plateGlowstoneCeres.name=谷神星萤石 板
-    S:oredict.plateGlowstoneEnceladus.name=土卫二萤石 板
-    S:oredict.plateGlowstoneIo.name=木卫一萤石 板
-    S:oredict.plateGlowstonePluto.name=冥王星萤石 板
-    S:oredict.plateGlowstoneProteus.name=海卫八萤石 板
+    S:oredict.plateGlowstoneCeres.name=谷神星萤石板
+    S:oredict.plateGlowstoneEnceladus.name=土卫二萤石板
+    S:oredict.plateGlowstoneIo.name=木卫一萤石板
+    S:oredict.plateGlowstonePluto.name=冥王星萤石板
+    S:oredict.plateGlowstoneProteus.name=海卫八萤石板
     S:oredict.plateGlowstoneRefined.name=精致萤石板
     S:oredict.plateGneiss.name=片麻岩板
     S:oredict.plateGold.name=金板
@@ -40319,7 +40319,7 @@ languagefile {
     S:oredict.plateObsidianRefined.name=精致黑曜石板
     S:oredict.plateOganesson.name=118号元素(Og)板
     S:oredict.plateOrichalcum.name=自然之石板
-    S:oredict.plateOriharukon.name=山铜 板
+    S:oredict.plateOriharukon.name=山铜板
     S:oredict.plateOsmiridium.name=铱锇合金板
     S:oredict.plateOsmium.name=锇板
     S:oredict.plateOsmiumElemental.name=锇板
@@ -40340,7 +40340,7 @@ languagefile {
     S:oredict.platePulsatingIron.name=脉冲铁板
     S:oredict.plateQuadrupleActinium.name=四重锕板
     S:oredict.plateQuadrupleAdamantine.name=四重血石板
-    S:oredict.plateQuadrupleAdamantite.name=Quadruple 精金 板
+    S:oredict.plateQuadrupleAdamantite.name=四重精金板
     S:oredict.plateQuadrupleAdamantium.name=四重艾德曼合金板
     S:oredict.plateQuadrupleAlduorite.name=四重神秘蓝金板
     S:oredict.plateQuadrupleAluminium.name=四重铝板
@@ -40519,7 +40519,7 @@ languagefile {
     S:oredict.plateQuadrupleDraconium.name=四重龙板
     S:oredict.plateQuadrupleDraconiumAwakened.name=四重觉醒龙板
     S:oredict.plateQuadrupleDubnium.name=四重𬭊板
-    S:oredict.plateQuadrupleDuralumin.name=Quadruple 硬铝合金 板
+    S:oredict.plateQuadrupleDuralumin.name=四重硬铝合金板
     S:oredict.plateQuadrupleDuranium.name=四重钍瑞铌板
     S:oredict.plateQuadrupleDysprosium.name=四重镝板
     S:oredict.plateQuadrupleEinsteinium.name=四重锿板
@@ -40611,7 +40611,7 @@ languagefile {
     S:oredict.plateQuadrupleObsidianRefined.name=四重精致黑曜石板
     S:oredict.plateQuadrupleOganesson.name=四重 118号元素(Og)板
     S:oredict.plateQuadrupleOrichalcum.name=四重自然之石板
-    S:oredict.plateQuadrupleOriharukon.name=Quadruple 山铜 板
+    S:oredict.plateQuadrupleOriharukon.name=四重山铜板
     S:oredict.plateQuadrupleOsmiridium.name=四重铱锇合金板
     S:oredict.plateQuadrupleOsmium.name=四重锇板
     S:oredict.plateQuadrupleOsmiumElemental.name=四重锇板
@@ -40676,8 +40676,8 @@ languagefile {
     S:oredict.plateQuadrupleTin.name=四重锡板
     S:oredict.plateQuadrupleTinAlloy.name=四重锡合金板
     S:oredict.plateQuadrupleTitanium.name=四重钛板
-    S:oredict.plateQuadrupleTitaniumAluminide.name=Quadruple 钛铝合金板
-    S:oredict.plateQuadrupleTitaniumIridium.name=Quadruple 钛铱合金板
+    S:oredict.plateQuadrupleTitaniumAluminide.name=四重钛铝合金板
+    S:oredict.plateQuadrupleTitaniumIridium.name=四重钛铱合金板
     S:oredict.plateQuadrupleTrinaquadalloy.name=四重碳化氪金钍瑞铌板
     S:oredict.plateQuadrupleTrinitanium.name=四重氪金钛板
     S:oredict.plateQuadrupleTrinium.name=四重 氪金板
@@ -40719,7 +40719,7 @@ languagefile {
     S:oredict.plateQuadrupleplatinum.name=四重铂板
     S:oredict.plateQuintupleActinium.name=五重锕板
     S:oredict.plateQuintupleAdamantine.name=五重血石板
-    S:oredict.plateQuintupleAdamantite.name=Quintuple 精金 板
+    S:oredict.plateQuintupleAdamantite.name=五重精金板
     S:oredict.plateQuintupleAdamantium.name=五重艾德曼合金板
     S:oredict.plateQuintupleAlduorite.name=五重神秘蓝金板
     S:oredict.plateQuintupleAluminium.name=五重铝板
@@ -40898,7 +40898,7 @@ languagefile {
     S:oredict.plateQuintupleDraconium.name=五重龙板
     S:oredict.plateQuintupleDraconiumAwakened.name=五重觉醒龙板
     S:oredict.plateQuintupleDubnium.name=五重𬭊板
-    S:oredict.plateQuintupleDuralumin.name=Quintuple 硬铝合金 板
+    S:oredict.plateQuintupleDuralumin.name=五重硬铝合金板
     S:oredict.plateQuintupleDuranium.name=五重钍瑞铌板
     S:oredict.plateQuintupleDysprosium.name=五重镝板
     S:oredict.plateQuintupleEinsteinium.name=五重锿板
@@ -40990,7 +40990,7 @@ languagefile {
     S:oredict.plateQuintupleObsidianRefined.name=五重精致黑曜石板
     S:oredict.plateQuintupleOganesson.name=五重118号元素(Og)板
     S:oredict.plateQuintupleOrichalcum.name=五重自然之石板
-    S:oredict.plateQuintupleOriharukon.name=Quintuple 山铜 板
+    S:oredict.plateQuintupleOriharukon.name=五重山铜板
     S:oredict.plateQuintupleOsmiridium.name=五重铱锇合金板
     S:oredict.plateQuintupleOsmium.name=五重锇板
     S:oredict.plateQuintupleOsmiumElemental.name=五重锇板
@@ -41055,8 +41055,8 @@ languagefile {
     S:oredict.plateQuintupleTin.name=五重锡板
     S:oredict.plateQuintupleTinAlloy.name=五重锡合金板
     S:oredict.plateQuintupleTitanium.name=五重钛板
-    S:oredict.plateQuintupleTitaniumAluminide.name=Quintuple 钛铝合金板
-    S:oredict.plateQuintupleTitaniumIridium.name=Quintuple 钛铱合金板
+    S:oredict.plateQuintupleTitaniumAluminide.name=五重钛铝合金板
+    S:oredict.plateQuintupleTitaniumIridium.name=五重钛铱合金板
     S:oredict.plateQuintupleTrinaquadalloy.name=五重碳化氪金钍瑞铌板
     S:oredict.plateQuintupleTrinitanium.name=五重氪金钛板
     S:oredict.plateQuintupleTrinium.name=五重氪金板
@@ -41150,7 +41150,7 @@ languagefile {
     S:oredict.plateTinAlloy.name=锡合金板
     S:oredict.plateTinyActinium.name=小块锕板
     S:oredict.plateTinyAdamantine.name=小块血石板
-    S:oredict.plateTinyAdamantite.name=小撮精金 板
+    S:oredict.plateTinyAdamantite.name=小撮精金板
     S:oredict.plateTinyAdamantium.name=小块艾德曼合金板
     S:oredict.plateTinyAlduorite.name=小块神秘蓝金板
     S:oredict.plateTinyAluminium.name=小块铝板
@@ -41340,7 +41340,7 @@ languagefile {
     S:oredict.plateTinyDraconium.name=小块龙板
     S:oredict.plateTinyDraconiumAwakened.name=小块觉醒龙板
     S:oredict.plateTinyDubnium.name=小块𬭊板
-    S:oredict.plateTinyDuralumin.name=小撮硬铝合金 板
+    S:oredict.plateTinyDuralumin.name=小撮硬铝合金板
     S:oredict.plateTinyDuranium.name=小块钍瑞铌板
     S:oredict.plateTinyDysprosium.name=小块镝板
     S:oredict.plateTinyEclogite.name=小撮榴辉岩板
@@ -41374,13 +41374,13 @@ languagefile {
     S:oredict.plateTinyGermanium.name=小块锗板
     S:oredict.plateTinyGildedIron.name=小撮镀金铁板
     S:oredict.plateTinyGlowstone.name=小撮萤石板
-    S:oredict.plateTinyGlowstoneCeres.name=小撮谷神星萤石 板
-    S:oredict.plateTinyGlowstoneEnceladus.name=小撮土卫二萤石 板
-    S:oredict.plateTinyGlowstoneIo.name=小撮木卫一萤石 板
-    S:oredict.plateTinyGlowstonePluto.name=小撮冥王星萤石 板
-    S:oredict.plateTinyGlowstoneProteus.name=小撮海卫八萤石 板
+    S:oredict.plateTinyGlowstoneCeres.name=小撮谷神星萤石板
+    S:oredict.plateTinyGlowstoneEnceladus.name=小撮土卫二萤石板
+    S:oredict.plateTinyGlowstoneIo.name=小撮木卫一萤石板
+    S:oredict.plateTinyGlowstonePluto.name=小撮冥王星萤石板
+    S:oredict.plateTinyGlowstoneProteus.name=小撮海卫八萤石板
     S:oredict.plateTinyGlowstoneRefined.name=小块精致萤石板
-    S:oredict.plateTinyGneiss.name=小撮片麻岩 板
+    S:oredict.plateTinyGneiss.name=小撮片麻岩板
     S:oredict.plateTinyGold.name=小块金板
     S:oredict.plateTinyGoldInductive.name=小块感应合金板
     S:oredict.plateTinyGraniteBlack.name=小块黑色花岗岩板
@@ -41461,7 +41461,7 @@ languagefile {
     S:oredict.plateTinyObsidianRefined.name=小块精致黑曜石板
     S:oredict.plateTinyOganesson.name=小块118号元素(Og)板
     S:oredict.plateTinyOrichalcum.name=小块自然之石板
-    S:oredict.plateTinyOriharukon.name=小撮山铜 板
+    S:oredict.plateTinyOriharukon.name=小撮山铜板
     S:oredict.plateTinyOsmiridium.name=小块铱锇合金板
     S:oredict.plateTinyOsmium.name=小块锇板
     S:oredict.plateTinyOsmiumElemental.name=小块锇板
@@ -41593,7 +41593,7 @@ languagefile {
     S:oredict.plateTrinium.name=氪金板
     S:oredict.plateTripleActinium.name=三重锕板
     S:oredict.plateTripleAdamantine.name=三重血石板
-    S:oredict.plateTripleAdamantite.name=Triple 精金 板
+    S:oredict.plateTripleAdamantite.name=三重精金板
     S:oredict.plateTripleAdamantium.name=三重艾德曼合金板
     S:oredict.plateTripleAlduorite.name=三重神秘蓝金板
     S:oredict.plateTripleAluminium.name=三重铝板
@@ -41772,7 +41772,7 @@ languagefile {
     S:oredict.plateTripleDraconium.name=三重龙板
     S:oredict.plateTripleDraconiumAwakened.name=三重觉醒龙板
     S:oredict.plateTripleDubnium.name=三重𬭊板
-    S:oredict.plateTripleDuralumin.name=Triple 硬铝合金 板
+    S:oredict.plateTripleDuralumin.name=三重硬铝合金板
     S:oredict.plateTripleDuranium.name=三重钍瑞铌板
     S:oredict.plateTripleDysprosium.name=三重镝板
     S:oredict.plateTripleEinsteinium.name=三重锿板
@@ -41864,7 +41864,7 @@ languagefile {
     S:oredict.plateTripleObsidianRefined.name=三重精致黑曜石板
     S:oredict.plateTripleOganesson.name=三重118号元素(Og)板
     S:oredict.plateTripleOrichalcum.name=三重自然之石板
-    S:oredict.plateTripleOriharukon.name=Triple 山铜 板
+    S:oredict.plateTripleOriharukon.name=三重山铜板
     S:oredict.plateTripleOsmiridium.name=三重铱锇合金板
     S:oredict.plateTripleOsmium.name=三重锇板
     S:oredict.plateTripleOsmiumElemental.name=三重锇板
@@ -42037,8 +42037,8 @@ languagefile {
     S:oredict.railGtWroughtIron.name=熟铁导轨
     S:oredict.railGtgold.name=金导轨
     S:oredict.railGtplatinum.name=铂导轨
-    S:oredict.ringAdamantine.name=血石 Ring
-    S:oredict.ringAdamantite.name=精金 Ring
+    S:oredict.ringAdamantine.name=血石环
+    S:oredict.ringAdamantite.name=精金环
     S:oredict.ringAdamantium.name=艾德曼合金环
     S:oredict.ringAlmandine.name=铁铝榴石环
     S:oredict.ringAluminium.name=铝环
@@ -42116,7 +42116,7 @@ languagefile {
     S:oredict.ringDiorite.name=闪长岩环
     S:oredict.ringDraconium.name=龙锭 环
     S:oredict.ringDraconiumAwakened.name=觉醒龙锭 环
-    S:oredict.ringDuralumin.name=硬铝合金 Ring
+    S:oredict.ringDuralumin.name=硬铝合金环
     S:oredict.ringDuranium.name=钍瑞铌环
     S:oredict.ringEclogite.name=榴辉岩环
     S:oredict.ringElectricalSteel.name=电钢环
@@ -42208,7 +42208,7 @@ languagefile {
     S:oredict.ringOpal.name=猫眼石环
     S:oredict.ringOrangeSapphire.name=橙色蓝宝石 环
     S:oredict.ringOrichalcum.name=自然之石环
-    S:oredict.ringOriharukon.name=山铜 Ring
+    S:oredict.ringOriharukon.name=山铜环
     S:oredict.ringOsmiridium.name=铱锇合金环
     S:oredict.ringOsmium.name=锇环
     S:oredict.ringOsmiumElemental.name=锇 环
@@ -42258,8 +42258,8 @@ languagefile {
     S:oredict.ringTin.name=锡 环
     S:oredict.ringTinAlloy.name=锡合金环
     S:oredict.ringTitanium.name=钛环
-    S:oredict.ringTitaniumAluminide.name=钛铝合金 Ring
-    S:oredict.ringTitaniumIridium.name=钛铱合金 Ring
+    S:oredict.ringTitaniumAluminide.name=钛铝合金环
+    S:oredict.ringTitaniumIridium.name=钛铱合金环
     S:oredict.ringTopaz.name=黄玉环
     S:oredict.ringTrinaquadalloy.name=碳化氪金钍瑞铌环
     S:oredict.ringTrinitanium.name=氪金钛环
@@ -42301,7 +42301,7 @@ languagefile {
     S:oredict.ringplatinum.name=铂环
     S:oredict.ringyellowSapphire.name=黄色蓝宝石Ring
     S:oredict.rotorAdamantine.name=血石转子
-    S:oredict.rotorAdamantite.name=精金 Rotor
+    S:oredict.rotorAdamantite.name=精金转子
     S:oredict.rotorAdamantium.name=艾德曼合金转子
     S:oredict.rotorAlmandine.name=铁铝榴石转子
     S:oredict.rotorAluminium.name=铝转子
@@ -42379,7 +42379,7 @@ languagefile {
     S:oredict.rotorDiorite.name=闪长岩转子
     S:oredict.rotorDraconium.name=龙锭 转子
     S:oredict.rotorDraconiumAwakened.name=觉醒龙锭 转子
-    S:oredict.rotorDuralumin.name=硬铝合金 Rotor
+    S:oredict.rotorDuralumin.name=硬铝合金转子
     S:oredict.rotorDuranium.name=钍瑞铌转子
     S:oredict.rotorEclogite.name=榴辉岩转子
     S:oredict.rotorElectricalSteel.name=电钢转子
@@ -42471,7 +42471,7 @@ languagefile {
     S:oredict.rotorOpal.name=猫眼石转子
     S:oredict.rotorOrangeSapphire.name=橙色蓝宝石 转子
     S:oredict.rotorOrichalcum.name=自然之石转子
-    S:oredict.rotorOriharukon.name=山铜 Rotor
+    S:oredict.rotorOriharukon.name=山铜转子
     S:oredict.rotorOsmiridium.name=铱锇合金转子
     S:oredict.rotorOsmium.name=锇转子
     S:oredict.rotorOsmiumElemental.name=锇转子
@@ -42521,8 +42521,8 @@ languagefile {
     S:oredict.rotorTin.name=锡 转子
     S:oredict.rotorTinAlloy.name=锡合金转子
     S:oredict.rotorTitanium.name=钛转子
-    S:oredict.rotorTitaniumAluminide.name=钛铝合金 Rotor
-    S:oredict.rotorTitaniumIridium.name=钛铱合金 Rotor
+    S:oredict.rotorTitaniumAluminide.name=钛铝合金转子
+    S:oredict.rotorTitaniumIridium.name=钛铱合金转子
     S:oredict.rotorTopaz.name=黄玉转子
     S:oredict.rotorTrinaquadalloy.name=碳化氪金钍瑞铌转子
     S:oredict.rotorTrinitanium.name=氪金钛转子
@@ -42564,7 +42564,7 @@ languagefile {
     S:oredict.rotorplatinum.name=铂转子
     S:oredict.rotoryellowSapphire.name=黄色蓝宝石转子
     S:oredict.roundAdamantine.name=血石转子
-    S:oredict.roundAdamantite.name=精金 Round
+    S:oredict.roundAdamantite.name=精金垫片
     S:oredict.roundAdamantium.name=艾德曼合金垫片
     S:oredict.roundAlmandine.name=铁铝榴石垫片
     S:oredict.roundAluminium.name=铝垫片
@@ -42642,7 +42642,7 @@ languagefile {
     S:oredict.roundDiorite.name=闪长岩垫片
     S:oredict.roundDraconium.name=龙锭垫片
     S:oredict.roundDraconiumAwakened.name=觉醒龙锭垫片
-    S:oredict.roundDuralumin.name=硬铝合金 Round
+    S:oredict.roundDuralumin.name=硬铝合金垫片
     S:oredict.roundDuranium.name=钍瑞铌垫片
     S:oredict.roundEclogite.name=榴辉岩垫片
     S:oredict.roundElectricalSteel.name=电钢垫片
@@ -42735,7 +42735,7 @@ languagefile {
     S:oredict.roundOpal.name=猫眼石垫片
     S:oredict.roundOrangeSapphire.name=橙色蓝宝石垫片
     S:oredict.roundOrichalcum.name=自然之石垫片
-    S:oredict.roundOriharukon.name=山铜 Round
+    S:oredict.roundOriharukon.name=山铜垫片
     S:oredict.roundOsmiridium.name=铱锇合金垫片
     S:oredict.roundOsmium.name=锇垫片
     S:oredict.roundOsmiumElemental.name=锇转子
@@ -42785,8 +42785,8 @@ languagefile {
     S:oredict.roundTin.name=锡垫片
     S:oredict.roundTinAlloy.name=锡合金垫片
     S:oredict.roundTitanium.name=钛垫片
-    S:oredict.roundTitaniumAluminide.name=钛铝合金 Round
-    S:oredict.roundTitaniumIridium.name=钛铱合金 Round
+    S:oredict.roundTitaniumAluminide.name=钛铝合金垫片
+    S:oredict.roundTitaniumIridium.name=钛铱合金垫片
     S:oredict.roundTopaz.name=黄玉垫片
     S:oredict.roundTrinaquadalloy.name=碳化氪金钍瑞铌垫片
     S:oredict.roundTrinitanium.name=氪金钛垫片
@@ -42829,7 +42829,7 @@ languagefile {
     S:oredict.roundyellowSapphire.name=黄色蓝宝石垫片
     S:oredict.scrapGtActinium.name=锕废料
     S:oredict.scrapGtAdamantine.name=血石废料
-    S:oredict.scrapGtAdamantite.name=精金 Scrap
+    S:oredict.scrapGtAdamantite.name=精金废料
     S:oredict.scrapGtAdamantium.name=艾德曼合金废料
     S:oredict.scrapGtAerotheum.name=和谐之空气废料
     S:oredict.scrapGtAlduorite.name=神秘蓝金废料
@@ -43119,7 +43119,7 @@ languagefile {
     S:oredict.scrapGtDraconium.name=龙锭废料
     S:oredict.scrapGtDraconiumAwakened.name=觉醒龙锭废料
     S:oredict.scrapGtDubnium.name=𬭊废料
-    S:oredict.scrapGtDuralumin.name=硬铝合金 Scrap
+    S:oredict.scrapGtDuralumin.name=硬铝合金废料
     S:oredict.scrapGtDuranium.name=钍瑞铌废料
     S:oredict.scrapGtDuraniumElemental.name=钍瑞铌废料
     S:oredict.scrapGtDuraniumHexaastatide.name=六酰化钍瑞铌废料
@@ -43182,11 +43182,11 @@ languagefile {
     S:oredict.scrapGtGlauconite.name=海绿石废料
     S:oredict.scrapGtGlauconiteSand.name=海绿石沙废料
     S:oredict.scrapGtGlowstone.name=萤石废料
-    S:oredict.scrapGtGlowstoneCeres.name=谷神星萤石 Scrap
-    S:oredict.scrapGtGlowstoneEnceladus.name=土卫二萤石 Scrap
-    S:oredict.scrapGtGlowstoneIo.name=木卫一萤石 Scrap
-    S:oredict.scrapGtGlowstonePluto.name=冥王星萤石 Scrap
-    S:oredict.scrapGtGlowstoneProteus.name=海卫八萤石 Scrap
+    S:oredict.scrapGtGlowstoneCeres.name=谷神星萤石废料
+    S:oredict.scrapGtGlowstoneEnceladus.name=土卫二萤石废料
+    S:oredict.scrapGtGlowstoneIo.name=木卫一萤石废料
+    S:oredict.scrapGtGlowstonePluto.name=冥王星萤石废料
+    S:oredict.scrapGtGlowstoneProteus.name=海卫八萤石废料
     S:oredict.scrapGtGlowstoneRefined.name=精致萤石废料
     S:oredict.scrapGtGneiss.name=片麻岩废料
     S:oredict.scrapGtGold.name=金废料
@@ -43212,7 +43212,7 @@ languagefile {
     S:oredict.scrapGtHaderoth.name=幻之铜废料
     S:oredict.scrapGtHafnium.name=铪废料
     S:oredict.scrapGtHassium.name=𬭶废料
-    S:oredict.scrapGtHazelnut.name=榛子 Scrap
+    S:oredict.scrapGtHazelnut.name=榛子废料
     S:oredict.scrapGtHematite.name=赤铁矿废料
     S:oredict.scrapGtHepatizon.name=幽魂结晶废料
     S:oredict.scrapGtHolmium.name=钬废料
@@ -43338,7 +43338,7 @@ languagefile {
     S:oredict.scrapGtOrange.name=橙色废料
     S:oredict.scrapGtOrangeSapphire.name=橙色蓝宝石废料
     S:oredict.scrapGtOrichalcum.name=自然之石废料
-    S:oredict.scrapGtOriharukon.name=山铜 Scrap
+    S:oredict.scrapGtOriharukon.name=山铜废料
     S:oredict.scrapGtOsmiridium.name=铱锇合金废料
     S:oredict.scrapGtOsmium.name=锇废料
     S:oredict.scrapGtOsmiumElemental.name=锇废料
@@ -43360,7 +43360,7 @@ languagefile {
     S:oredict.scrapGtPigIron.name=生铁废料
     S:oredict.scrapGtPinalite.name=氯钨铅废料
     S:oredict.scrapGtPink.name=粉色废料
-    S:oredict.scrapGtPistachio.name=Pistachio Scrap
+    S:oredict.scrapGtPistachio.name=Pistachio废料
     S:oredict.scrapGtPitchblende.name=沥青铀废料
     S:oredict.scrapGtPlastic.name=塑料废料
     S:oredict.scrapGtPlatinum.name=铂废料
@@ -44472,7 +44472,7 @@ languagefile {
     S:oredict.springplatinum.name=铂弹簧
     S:oredict.stickActinium.name=锕杆
     S:oredict.stickAdamantine.name=血石杆
-    S:oredict.stickAdamantite.name=精金 Rod
+    S:oredict.stickAdamantite.name=精金杆
     S:oredict.stickAdamantium.name=艾德曼合金杆
     S:oredict.stickAlduorite.name=神秘蓝金杆
     S:oredict.stickAlmandine.name=铁铝榴石杆
@@ -44684,7 +44684,7 @@ languagefile {
     S:oredict.stickDraconium.name=龙锭杆
     S:oredict.stickDraconiumAwakened.name=觉醒龙锭杆
     S:oredict.stickDubnium.name=𬭊杆
-    S:oredict.stickDuralumin.name=硬铝合金 Rod
+    S:oredict.stickDuralumin.name=硬铝合金杆
     S:oredict.stickDuranium.name=钍瑞铌杆
     S:oredict.stickDysprosium.name=镝杆
     S:oredict.stickEclogite.name=榴辉岩杆
@@ -44782,8 +44782,8 @@ languagefile {
     S:oredict.stickLimestone.name=石灰石杆
     S:oredict.stickLivermorium.name=鉝杆
     S:oredict.stickLongActinium.name=长锕杆
-    S:oredict.stickLongAdamantine.name=Long 血石杆
-    S:oredict.stickLongAdamantite.name=Long 精金 Rod
+    S:oredict.stickLongAdamantine.name=长血石杆
+    S:oredict.stickLongAdamantite.name=长精金杆
     S:oredict.stickLongAdamantium.name=长艾德曼合金杆
     S:oredict.stickLongAlduorite.name=长神秘蓝金杆
     S:oredict.stickLongAlmandine.name=长铁铝榴石杆
@@ -44996,7 +44996,7 @@ languagefile {
     S:oredict.stickLongDraconium.name=长龙杆
     S:oredict.stickLongDraconiumAwakened.name=长觉醒龙杆
     S:oredict.stickLongDubnium.name=长𬭊杆
-    S:oredict.stickLongDuralumin.name=Long 硬铝合金 Rod
+    S:oredict.stickLongDuralumin.name=长硬铝合金杆
     S:oredict.stickLongDuranium.name=长钍瑞铌杆
     S:oredict.stickLongDysprosium.name=长镝杆
     S:oredict.stickLongEclogite.name=长榴辉岩杆
@@ -45143,7 +45143,7 @@ languagefile {
     S:oredict.stickLongOpal.name=长猫眼石杆
     S:oredict.stickLongOrangeSapphire.name=长橙色蓝宝石杆
     S:oredict.stickLongOrichalcum.name=长自然之石杆
-    S:oredict.stickLongOriharukon.name=Long 山铜 Rod
+    S:oredict.stickLongOriharukon.name=长山铜杆
     S:oredict.stickLongOsmiridium.name=长铱锇合金杆
     S:oredict.stickLongOsmium.name=长锇杆
     S:oredict.stickLongOsmiumElemental.name=长锇杆
@@ -45223,8 +45223,8 @@ languagefile {
     S:oredict.stickLongTin.name=长锡杆
     S:oredict.stickLongTinAlloy.name=长锡合金杆
     S:oredict.stickLongTitanium.name=长钛杆
-    S:oredict.stickLongTitaniumAluminide.name=Long 钛铝合金 Rod
-    S:oredict.stickLongTitaniumIridium.name=Long 钛铱合金 Rod
+    S:oredict.stickLongTitaniumAluminide.name=长钛铝合金杆
+    S:oredict.stickLongTitaniumIridium.name=长钛铱合金杆
     S:oredict.stickLongTopaz.name=长黄玉杆
     S:oredict.stickLongTrinaquadalloy.name=长碳化氪金钍瑞铌杆
     S:oredict.stickLongTrinitanium.name=长氪金钛杆
@@ -45328,7 +45328,7 @@ languagefile {
     S:oredict.stickOpal.name=猫眼石杆
     S:oredict.stickOrangeSapphire.name=橙色蓝宝石杆
     S:oredict.stickOrichalcum.name=自然之石杆
-    S:oredict.stickOriharukon.name=山铜 Rod
+    S:oredict.stickOriharukon.name=山铜杆
     S:oredict.stickOsmiridium.name=铱锇合金杆
     S:oredict.stickOsmium.name=锇杆
     S:oredict.stickOsmiumElemental.name=锇杆
@@ -45408,8 +45408,8 @@ languagefile {
     S:oredict.stickTin.name=锡杆
     S:oredict.stickTinAlloy.name=锡合金杆
     S:oredict.stickTitanium.name=钛杆
-    S:oredict.stickTitaniumAluminide.name=钛铝合金 Rod
-    S:oredict.stickTitaniumIridium.name=钛铱合金 Rod
+    S:oredict.stickTitaniumAluminide.name=钛铝合金杆
+    S:oredict.stickTitaniumIridium.name=钛铱合金杆
     S:oredict.stickTopaz.name=黄玉杆
     S:oredict.stickTrinaquadalloy.name=碳化氪金钍瑞铌杆
     S:oredict.stickTrinitanium.name=氪金钛杆
@@ -45464,7 +45464,7 @@ languagefile {
     S:oredict.stickplatinum.name=铂杆
     S:oredict.stickyellowSapphire.name=黄色蓝宝石杆
     S:oredict.toolHeadArrowAdamantine.name=血石箭头
-    S:oredict.toolHeadArrowAdamantite.name=精金箭 Head
+    S:oredict.toolHeadArrowAdamantite.name=精金箭头
     S:oredict.toolHeadArrowAdamantium.name=艾德曼合金箭
     S:oredict.toolHeadArrowAlmandine.name=铁铝榴石箭头
     S:oredict.toolHeadArrowAluminium.name=铝箭头
@@ -45532,7 +45532,7 @@ languagefile {
     S:oredict.toolHeadArrowDiamond.name=钻石箭头
     S:oredict.toolHeadArrowDioptase.name=翠铜石箭头
     S:oredict.toolHeadArrowDiorite.name=闪长岩箭头
-    S:oredict.toolHeadArrowDuralumin.name=硬铝合金箭 Head
+    S:oredict.toolHeadArrowDuralumin.name=硬铝合金箭头
     S:oredict.toolHeadArrowDuranium.name=钍瑞铌箭头
     S:oredict.toolHeadArrowEclogite.name=榴辉岩箭头
     S:oredict.toolHeadArrowElectricalSteel.name=电钢箭头
@@ -45615,7 +45615,7 @@ languagefile {
     S:oredict.toolHeadArrowOpal.name=猫眼石箭头
     S:oredict.toolHeadArrowOrangeSapphire.name=橙色蓝宝石箭头
     S:oredict.toolHeadArrowOrichalcum.name=自然之石箭头
-    S:oredict.toolHeadArrowOriharukon.name=山铜箭 Head
+    S:oredict.toolHeadArrowOriharukon.name=山铜箭头
     S:oredict.toolHeadArrowOsmiridium.name=铱锇合金箭头
     S:oredict.toolHeadArrowOsmium.name=锇箭头
     S:oredict.toolHeadArrowOsmiumElemental.name=锇箭头
@@ -45704,7 +45704,7 @@ languagefile {
     S:oredict.toolHeadArrowplatinum.name=铂箭头
     S:oredict.toolHeadArrowyellowSapphire.name=黄色蓝宝石箭头
     S:oredict.toolHeadAxeAdamantine.name=血石斧头
-    S:oredict.toolHeadAxeAdamantite.name=精金 Axe Head
+    S:oredict.toolHeadAxeAdamantite.name=精金斧头
     S:oredict.toolHeadAxeAdamantium.name=艾德曼合金斧头
     S:oredict.toolHeadAxeAlmandine.name=铁铝榴石斧头
     S:oredict.toolHeadAxeAluminium.name=铝斧头
@@ -45773,7 +45773,7 @@ languagefile {
     S:oredict.toolHeadAxeDioptase.name=翠铜石斧头
     S:oredict.toolHeadAxeDiorite.name=闪长岩斧头
     S:oredict.toolHeadAxeDoubleAdamantine.name=血石双刃斧头
-    S:oredict.toolHeadAxeDoubleAdamantite.name=精金 Double Axe Head
+    S:oredict.toolHeadAxeDoubleAdamantite.name=精金双刃斧头
     S:oredict.toolHeadAxeDoubleAdamantium.name=艾德曼合金双刃斧头
     S:oredict.toolHeadAxeDoubleAlmandine.name=铁铝榴石双刃斧头
     S:oredict.toolHeadAxeDoubleAluminium.name=铝双刃斧头
@@ -45836,7 +45836,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleDesichalkos.name=虚空之魂石双刃斧头
     S:oredict.toolHeadAxeDoubleDiamond.name=钻石双刃斧头
     S:oredict.toolHeadAxeDoubleDioptase.name=翠铜石双刃斧头
-    S:oredict.toolHeadAxeDoubleDuralumin.name=硬铝合金 Double Axe Head
+    S:oredict.toolHeadAxeDoubleDuralumin.name=硬铝合金双刃斧头
     S:oredict.toolHeadAxeDoubleDuranium.name=钍瑞铌双刃斧头
     S:oredict.toolHeadAxeDoubleEclogite.name=榴辉岩双刃斧头
     S:oredict.toolHeadAxeDoubleElectricalSteel.name=电钢双刃斧头
@@ -45908,7 +45908,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleOpal.name=猫眼石双刃斧头
     S:oredict.toolHeadAxeDoubleOrangeSapphire.name=橙色蓝宝石双刃斧头
     S:oredict.toolHeadAxeDoubleOrichalcum.name=自然之石双刃斧头
-    S:oredict.toolHeadAxeDoubleOriharukon.name=山铜 Double Axe Head
+    S:oredict.toolHeadAxeDoubleOriharukon.name=山铜双刃斧头
     S:oredict.toolHeadAxeDoubleOsmiridium.name=铱锇合金双刃斧头
     S:oredict.toolHeadAxeDoubleOsmium.name=锇双刃斧头
     S:oredict.toolHeadAxeDoubleOsmiumElemental.name=锇双刃斧头
@@ -45991,7 +45991,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleorangeSapphire.name=橙色蓝宝石双刃斧头
     S:oredict.toolHeadAxeDoubleplatinum.name=铂双刃斧头
     S:oredict.toolHeadAxeDoubleyellowSapphire.name=黄色蓝宝石双刃斧头
-    S:oredict.toolHeadAxeDuralumin.name=硬铝合金 Axe Head
+    S:oredict.toolHeadAxeDuralumin.name=硬铝合金斧头
     S:oredict.toolHeadAxeDuranium.name=钍瑞铌斧头
     S:oredict.toolHeadAxeEclogite.name=榴辉岩斧头
     S:oredict.toolHeadAxeElectricalSteel.name=电钢斧头
@@ -46074,7 +46074,7 @@ languagefile {
     S:oredict.toolHeadAxeOpal.name=猫眼石斧头
     S:oredict.toolHeadAxeOrangeSapphire.name=橙色蓝宝石斧头
     S:oredict.toolHeadAxeOrichalcum.name=自然之石斧头
-    S:oredict.toolHeadAxeOriharukon.name=山铜 Axe Head
+    S:oredict.toolHeadAxeOriharukon.name=山铜斧头
     S:oredict.toolHeadAxeOsmiridium.name=铱锇合金斧头
     S:oredict.toolHeadAxeOsmium.name=锇斧头
     S:oredict.toolHeadAxeOsmiumElemental.name=锇斧头
@@ -46163,7 +46163,7 @@ languagefile {
     S:oredict.toolHeadAxeplatinum.name=铂斧头
     S:oredict.toolHeadAxeyellowSapphire.name=黄色蓝宝石斧头
     S:oredict.toolHeadBuzzSawAdamantine.name=血石圆锯片
-    S:oredict.toolHeadBuzzSawAdamantite.name=精金 Buzzsaw Blade
+    S:oredict.toolHeadBuzzSawAdamantite.name=精金圆锯片
     S:oredict.toolHeadBuzzSawAdamantium.name=艾德曼合金圆锯片
     S:oredict.toolHeadBuzzSawAlmandine.name=铁铝榴石圆锯片
     S:oredict.toolHeadBuzzSawAluminium.name=铝圆锯片
@@ -46226,7 +46226,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawDesichalkos.name=虚空之魂石圆锯片
     S:oredict.toolHeadBuzzSawDiamond.name=钻石圆锯片
     S:oredict.toolHeadBuzzSawDioptase.name=翠铜石圆锯片
-    S:oredict.toolHeadBuzzSawDuralumin.name=硬铝合金 Buzzsaw Blade
+    S:oredict.toolHeadBuzzSawDuralumin.name=硬铝合金圆锯片
     S:oredict.toolHeadBuzzSawDuranium.name=钍瑞铌圆锯片
     S:oredict.toolHeadBuzzSawEclogite.name=榴辉岩圆锯片
     S:oredict.toolHeadBuzzSawElectricalSteel.name=电钢圆锯片
@@ -46297,7 +46297,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawOpal.name=猫眼石圆锯片
     S:oredict.toolHeadBuzzSawOrangeSapphire.name=橙色蓝宝石圆锯片
     S:oredict.toolHeadBuzzSawOrichalcum.name=自然之石圆锯片
-    S:oredict.toolHeadBuzzSawOriharukon.name=山铜 Buzzsaw Blade
+    S:oredict.toolHeadBuzzSawOriharukon.name=山铜圆锯片
     S:oredict.toolHeadBuzzSawOsmiridium.name=铱锇合金圆锯片
     S:oredict.toolHeadBuzzSawOsmium.name=锇圆锯片
     S:oredict.toolHeadBuzzSawOsmiumElemental.name=锇圆锯片
@@ -46377,7 +46377,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawplatinum.name=铂圆锯片
     S:oredict.toolHeadBuzzSawyellowSapphire.name=黄色蓝宝石圆锯片
     S:oredict.toolHeadChainsawAdamantine.name=血石电锯头
-    S:oredict.toolHeadChainsawAdamantite.name=精金 Chainsaw Tip
+    S:oredict.toolHeadChainsawAdamantite.name=精金电锯头
     S:oredict.toolHeadChainsawAdamantium.name=艾德曼合金电锯头
     S:oredict.toolHeadChainsawAlmandine.name=铁铝榴石电锯头
     S:oredict.toolHeadChainsawAluminium.name=铝电锯头
@@ -46440,7 +46440,7 @@ languagefile {
     S:oredict.toolHeadChainsawDesichalkos.name=虚空之魂石电锯头
     S:oredict.toolHeadChainsawDiamond.name=钻石电锯头
     S:oredict.toolHeadChainsawDioptase.name=翠铜石电锯头
-    S:oredict.toolHeadChainsawDuralumin.name=硬铝合金 Chainsaw Tip
+    S:oredict.toolHeadChainsawDuralumin.name=硬铝合金电锯头
     S:oredict.toolHeadChainsawDuranium.name=钍瑞铌电锯头
     S:oredict.toolHeadChainsawEclogite.name=榴辉岩电锯头
     S:oredict.toolHeadChainsawElectricalSteel.name=电钢电锯头
@@ -46511,7 +46511,7 @@ languagefile {
     S:oredict.toolHeadChainsawOpal.name=猫眼石电锯头
     S:oredict.toolHeadChainsawOrangeSapphire.name=橙色蓝宝石电锯头
     S:oredict.toolHeadChainsawOrichalcum.name=自然之石电锯头
-    S:oredict.toolHeadChainsawOriharukon.name=山铜 Chainsaw Tip
+    S:oredict.toolHeadChainsawOriharukon.name=山铜电锯头
     S:oredict.toolHeadChainsawOsmiridium.name=铱锇合金电锯头
     S:oredict.toolHeadChainsawOsmium.name=锇电锯头
     S:oredict.toolHeadChainsawOsmiumElemental.name=锇电锯头
@@ -46591,7 +46591,7 @@ languagefile {
     S:oredict.toolHeadChainsawplatinum.name=铂电锯头
     S:oredict.toolHeadChainsawyellowSapphire.name=黄色蓝宝石电锯头
     S:oredict.toolHeadChiselAdamantine.name=血石凿子头
-    S:oredict.toolHeadChiselAdamantite.name=精金 Chisel Head
+    S:oredict.toolHeadChiselAdamantite.name=精金凿子头
     S:oredict.toolHeadChiselAdamantium.name=艾德曼合金凿子头
     S:oredict.toolHeadChiselAlmandine.name=铁铝榴石凿子头
     S:oredict.toolHeadChiselAluminium.name=铝凿子头
@@ -46654,7 +46654,7 @@ languagefile {
     S:oredict.toolHeadChiselDesichalkos.name=虚空之魂石凿子头
     S:oredict.toolHeadChiselDiamond.name=钻石凿子头
     S:oredict.toolHeadChiselDioptase.name=翠铜石凿子头
-    S:oredict.toolHeadChiselDuralumin.name=硬铝合金 Chisel Head
+    S:oredict.toolHeadChiselDuralumin.name=硬铝合金凿子头
     S:oredict.toolHeadChiselDuranium.name=钍瑞铌凿子头
     S:oredict.toolHeadChiselEclogite.name=榴辉岩凿子头
     S:oredict.toolHeadChiselElectricalSteel.name=电钢凿子头
@@ -46725,7 +46725,7 @@ languagefile {
     S:oredict.toolHeadChiselOpal.name=猫眼石凿子头
     S:oredict.toolHeadChiselOrangeSapphire.name=橙色蓝宝石凿子头
     S:oredict.toolHeadChiselOrichalcum.name=自然之石凿子头
-    S:oredict.toolHeadChiselOriharukon.name=山铜 Chisel Head
+    S:oredict.toolHeadChiselOriharukon.name=山铜凿子头
     S:oredict.toolHeadChiselOsmiridium.name=铱锇合金凿子头
     S:oredict.toolHeadChiselOsmium.name=锇凿子头
     S:oredict.toolHeadChiselOsmiumElemental.name=锇凿子头
@@ -46805,7 +46805,7 @@ languagefile {
     S:oredict.toolHeadChiselplatinum.name=铂凿子头
     S:oredict.toolHeadChiselyellowSapphire.name=黄色蓝宝石凿子头
     S:oredict.toolHeadConstructionPickaxeAdamantine.name=血石建筑镐头
-    S:oredict.toolHeadConstructionPickaxeAdamantite.name=精金 Construction Pickaxe Head
+    S:oredict.toolHeadConstructionPickaxeAdamantite.name=精金建筑镐头
     S:oredict.toolHeadConstructionPickaxeAdamantium.name=艾德曼合金建筑镐头
     S:oredict.toolHeadConstructionPickaxeAlmandine.name=铁铝榴石建筑镐头
     S:oredict.toolHeadConstructionPickaxeAluminium.name=铝建筑镐头
@@ -46868,7 +46868,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeDesichalkos.name=虚空之魂石建筑镐头
     S:oredict.toolHeadConstructionPickaxeDiamond.name=钻石建筑镐头
     S:oredict.toolHeadConstructionPickaxeDioptase.name=翠铜石建筑镐头
-    S:oredict.toolHeadConstructionPickaxeDuralumin.name=硬铝合金 Construction Pickaxe Head
+    S:oredict.toolHeadConstructionPickaxeDuralumin.name=硬铝合金建筑镐头
     S:oredict.toolHeadConstructionPickaxeDuranium.name=钍瑞铌建筑镐头
     S:oredict.toolHeadConstructionPickaxeEclogite.name=榴辉岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeElectricalSteel.name=电钢建筑镐头
@@ -46940,7 +46940,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeOpal.name=猫眼石建筑镐头
     S:oredict.toolHeadConstructionPickaxeOrangeSapphire.name=橙色蓝宝石建筑镐头
     S:oredict.toolHeadConstructionPickaxeOrichalcum.name=自然之石建筑镐头
-    S:oredict.toolHeadConstructionPickaxeOriharukon.name=山铜 Construction Pickaxe Head
+    S:oredict.toolHeadConstructionPickaxeOriharukon.name=山铜建筑镐头
     S:oredict.toolHeadConstructionPickaxeOsmiridium.name=铱锇合金建筑镐头
     S:oredict.toolHeadConstructionPickaxeOsmium.name=锇建筑镐头
     S:oredict.toolHeadConstructionPickaxeOsmiumElemental.name=锇建筑镐头
@@ -47023,7 +47023,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeplatinum.name=铂建筑镐头
     S:oredict.toolHeadConstructionPickaxeyellowSapphire.name=黄色蓝宝石建筑镐头
     S:oredict.toolHeadDrillAdamantine.name=血石钻头
-    S:oredict.toolHeadDrillAdamantite.name=精金 Drill Tip
+    S:oredict.toolHeadDrillAdamantite.name=精金钻头
     S:oredict.toolHeadDrillAdamantium.name=艾德曼合金钻头
     S:oredict.toolHeadDrillAlmandine.name=铁铝榴石钻头
     S:oredict.toolHeadDrillAluminium.name=铝钻头
@@ -47086,7 +47086,7 @@ languagefile {
     S:oredict.toolHeadDrillDesichalkos.name=虚空之魂石钻头
     S:oredict.toolHeadDrillDiamond.name=钻石钻头
     S:oredict.toolHeadDrillDioptase.name=翠铜石钻头
-    S:oredict.toolHeadDrillDuralumin.name=硬铝合金 Drill Tip
+    S:oredict.toolHeadDrillDuralumin.name=硬铝合金钻头
     S:oredict.toolHeadDrillDuranium.name=钍瑞铌钻头
     S:oredict.toolHeadDrillEclogite.name=榴辉岩钻头
     S:oredict.toolHeadDrillElectricalSteel.name=电钢钻头
@@ -47157,7 +47157,7 @@ languagefile {
     S:oredict.toolHeadDrillOpal.name=猫眼石钻头
     S:oredict.toolHeadDrillOrangeSapphire.name=橙色蓝宝石钻头
     S:oredict.toolHeadDrillOrichalcum.name=自然之石钻头
-    S:oredict.toolHeadDrillOriharukon.name=山铜 Drill Tip
+    S:oredict.toolHeadDrillOriharukon.name=山铜钻头
     S:oredict.toolHeadDrillOsmiridium.name=铱锇合金钻头
     S:oredict.toolHeadDrillOsmium.name=锇钻头
     S:oredict.toolHeadDrillOsmiumElemental.name=锇钻头
@@ -47198,8 +47198,8 @@ languagefile {
     S:oredict.toolHeadDrillThorium.name=钍钻头
     S:oredict.toolHeadDrillTinAlloy.name=锡合金钻头
     S:oredict.toolHeadDrillTitanium.name=钛钻头
-    S:oredict.toolHeadDrillTitaniumAluminide.name=钛铝合金 Drill Tip
-    S:oredict.toolHeadDrillTitaniumIridium.name=钛铱合金 Drill Tip
+    S:oredict.toolHeadDrillTitaniumAluminide.name=钛铝合金钻头
+    S:oredict.toolHeadDrillTitaniumIridium.name=钛铱合金钻头
     S:oredict.toolHeadDrillTopaz.name=黄玉钻头
     S:oredict.toolHeadDrillTrinaquadalloy.name=碳化氪金钍瑞铌钻头
     S:oredict.toolHeadDrillTrinitanium.name=氪金钛钻头
@@ -47237,7 +47237,7 @@ languagefile {
     S:oredict.toolHeadDrillplatinum.name=铂钻头
     S:oredict.toolHeadDrillyellowSapphire.name=黄色蓝宝石钻头
     S:oredict.toolHeadFileAdamantine.name=血石锉刀头
-    S:oredict.toolHeadFileAdamantite.name=精金 File Head
+    S:oredict.toolHeadFileAdamantite.name=精金锉刀头
     S:oredict.toolHeadFileAdamantium.name=艾德曼合金锉刀头
     S:oredict.toolHeadFileAlmandine.name=铁铝榴石锉刀头
     S:oredict.toolHeadFileAluminium.name=铝锉刀头
@@ -47300,7 +47300,7 @@ languagefile {
     S:oredict.toolHeadFileDesichalkos.name=虚空之魂石锉刀头
     S:oredict.toolHeadFileDiamond.name=钻石锉刀头
     S:oredict.toolHeadFileDioptase.name=翠铜石锉刀头
-    S:oredict.toolHeadFileDuralumin.name=硬铝合金 File Head
+    S:oredict.toolHeadFileDuralumin.name=硬铝合金锉刀头
     S:oredict.toolHeadFileDuranium.name=钍瑞铌锉刀头
     S:oredict.toolHeadFileEclogite.name=榴辉岩锉刀头
     S:oredict.toolHeadFileElectricalSteel.name=电钢锉刀头
@@ -47371,7 +47371,7 @@ languagefile {
     S:oredict.toolHeadFileOpal.name=猫眼石锉刀头
     S:oredict.toolHeadFileOrangeSapphire.name=橙色蓝宝石锉刀头
     S:oredict.toolHeadFileOrichalcum.name=自然之石锉刀头
-    S:oredict.toolHeadFileOriharukon.name=山铜 File Head
+    S:oredict.toolHeadFileOriharukon.name=山铜锉刀头
     S:oredict.toolHeadFileOsmiridium.name=铱锇合金锉刀头
     S:oredict.toolHeadFileOsmium.name=锇锉刀头
     S:oredict.toolHeadFileOsmiumElemental.name=锇锉刀头
@@ -47452,7 +47452,7 @@ languagefile {
     S:oredict.toolHeadFileplatinum.name=铂锉刀头
     S:oredict.toolHeadFileyellowSapphire.name=黄色蓝宝石锉刀头
     S:oredict.toolHeadHammerAdamantine.name=血石锤头
-    S:oredict.toolHeadHammerAdamantite.name=精金 Hammer Head
+    S:oredict.toolHeadHammerAdamantite.name=精金锤头
     S:oredict.toolHeadHammerAdamantium.name=艾德曼合金锤头
     S:oredict.toolHeadHammerAlmandine.name=铁铝榴石锤头
     S:oredict.toolHeadHammerAluminium.name=铝锤头
@@ -47515,7 +47515,7 @@ languagefile {
     S:oredict.toolHeadHammerDiamond.name=钻石锤头
     S:oredict.toolHeadHammerDioptase.name=翠铜石锤头
     S:oredict.toolHeadHammerDiorite.name=闪长岩锤头
-    S:oredict.toolHeadHammerDuralumin.name=硬铝合金 Hammer Head
+    S:oredict.toolHeadHammerDuralumin.name=硬铝合金锤头
     S:oredict.toolHeadHammerDuranium.name=钍瑞铌锤头
     S:oredict.toolHeadHammerEclogite.name=榴辉岩锤头
     S:oredict.toolHeadHammerElectricalSteel.name=电钢锤头
@@ -47596,7 +47596,7 @@ languagefile {
     S:oredict.toolHeadHammerOpal.name=猫眼石锤头
     S:oredict.toolHeadHammerOrangeSapphire.name=橙色蓝宝石锤头
     S:oredict.toolHeadHammerOrichalcum.name=自然之石锤头
-    S:oredict.toolHeadHammerOriharukon.name=山铜 Hammer Head
+    S:oredict.toolHeadHammerOriharukon.name=山铜锤头
     S:oredict.toolHeadHammerOsmiridium.name=铱锇合金锤头
     S:oredict.toolHeadHammerOsmium.name=锇锤头
     S:oredict.toolHeadHammerOsmiumElemental.name=锇锤头
@@ -47683,7 +47683,7 @@ languagefile {
     S:oredict.toolHeadHammerplatinum.name=铂锤头
     S:oredict.toolHeadHammeryellowSapphire.name=黄色蓝宝石锤头
     S:oredict.toolHeadHoeAdamantine.name=血石锄头
-    S:oredict.toolHeadHoeAdamantite.name=精金 Hoe Head
+    S:oredict.toolHeadHoeAdamantite.name=精金锄头
     S:oredict.toolHeadHoeAdamantium.name=艾德曼合金锄头
     S:oredict.toolHeadHoeAlmandine.name=铁铝榴石锄头
     S:oredict.toolHeadHoeAluminium.name=铝锄头
@@ -47751,7 +47751,7 @@ languagefile {
     S:oredict.toolHeadHoeDiamond.name=钻石锄头
     S:oredict.toolHeadHoeDioptase.name=翠铜石锄头
     S:oredict.toolHeadHoeDiorite.name=闪长岩锄头
-    S:oredict.toolHeadHoeDuralumin.name=硬铝合金 Hoe Head
+    S:oredict.toolHeadHoeDuralumin.name=硬铝合金锄头
     S:oredict.toolHeadHoeDuranium.name=钍瑞铌锄头
     S:oredict.toolHeadHoeEclogite.name=榴辉岩锄头
     S:oredict.toolHeadHoeElectricalSteel.name=电钢锄头
@@ -47834,7 +47834,7 @@ languagefile {
     S:oredict.toolHeadHoeOpal.name=猫眼石锄头
     S:oredict.toolHeadHoeOrangeSapphire.name=橙色蓝宝石锄头
     S:oredict.toolHeadHoeOrichalcum.name=自然之石锄头
-    S:oredict.toolHeadHoeOriharukon.name=山铜 Hoe Head
+    S:oredict.toolHeadHoeOriharukon.name=山铜锄头
     S:oredict.toolHeadHoeOsmiridium.name=铱锇合金锄头
     S:oredict.toolHeadHoeOsmium.name=锇锄头
     S:oredict.toolHeadHoeOsmiumElemental.name=锇锄头
@@ -47923,7 +47923,7 @@ languagefile {
     S:oredict.toolHeadHoeplatinum.name=铂锄头
     S:oredict.toolHeadHoeyellowSapphire.name=黄色蓝宝石锄头
     S:oredict.toolHeadPickaxeAdamantine.name=血石镐头
-    S:oredict.toolHeadPickaxeAdamantite.name=精金 Pickaxe Head
+    S:oredict.toolHeadPickaxeAdamantite.name=精金稿头
     S:oredict.toolHeadPickaxeAdamantium.name=艾德曼合金镐头
     S:oredict.toolHeadPickaxeAlmandine.name=铁铝榴石镐头
     S:oredict.toolHeadPickaxeAluminium.name=铝镐头
@@ -47991,7 +47991,7 @@ languagefile {
     S:oredict.toolHeadPickaxeDiamond.name=钻石镐头
     S:oredict.toolHeadPickaxeDioptase.name=翠铜石镐头
     S:oredict.toolHeadPickaxeDiorite.name=闪长岩镐头
-    S:oredict.toolHeadPickaxeDuralumin.name=硬铝合金 Pickaxe Head
+    S:oredict.toolHeadPickaxeDuralumin.name=硬铝合金稿头
     S:oredict.toolHeadPickaxeDuranium.name=钍瑞铌镐头
     S:oredict.toolHeadPickaxeEclogite.name=榴辉岩镐头
     S:oredict.toolHeadPickaxeElectricalSteel.name=电钢镐头
@@ -48074,7 +48074,7 @@ languagefile {
     S:oredict.toolHeadPickaxeOpal.name=猫眼石镐头
     S:oredict.toolHeadPickaxeOrangeSapphire.name=橙色蓝宝石镐头
     S:oredict.toolHeadPickaxeOrichalcum.name=自然之石镐头
-    S:oredict.toolHeadPickaxeOriharukon.name=山铜 Pickaxe Head
+    S:oredict.toolHeadPickaxeOriharukon.name=山铜稿头
     S:oredict.toolHeadPickaxeOsmiridium.name=铱锇合金镐头
     S:oredict.toolHeadPickaxeOsmium.name=锇镐头
     S:oredict.toolHeadPickaxeOsmiumElemental.name=锇镐头
@@ -48163,7 +48163,7 @@ languagefile {
     S:oredict.toolHeadPickaxeplatinum.name=铂镐头
     S:oredict.toolHeadPickaxeyellowSapphire.name=黄色蓝宝石镐头
     S:oredict.toolHeadPlowAdamantine.name=血石 犁头
-    S:oredict.toolHeadPlowAdamantite.name=精金 Plow Head
+    S:oredict.toolHeadPlowAdamantite.name=精金犁头
     S:oredict.toolHeadPlowAdamantium.name=艾德曼合金犁头
     S:oredict.toolHeadPlowAlmandine.name=铁铝榴石犁头
     S:oredict.toolHeadPlowAluminium.name=铝犁头
@@ -48231,7 +48231,7 @@ languagefile {
     S:oredict.toolHeadPlowDiamond.name=钻石犁头
     S:oredict.toolHeadPlowDioptase.name=翠铜石犁头
     S:oredict.toolHeadPlowDiorite.name=闪长岩犁头
-    S:oredict.toolHeadPlowDuralumin.name=硬铝合金 Plow Head
+    S:oredict.toolHeadPlowDuralumin.name=硬铝合金犁头
     S:oredict.toolHeadPlowDuranium.name=钍瑞铌犁头
     S:oredict.toolHeadPlowEclogite.name=榴辉岩犁头
     S:oredict.toolHeadPlowElectricalSteel.name=电钢犁头
@@ -48314,7 +48314,7 @@ languagefile {
     S:oredict.toolHeadPlowOpal.name=猫眼石犁头
     S:oredict.toolHeadPlowOrangeSapphire.name=橙色蓝宝石犁头
     S:oredict.toolHeadPlowOrichalcum.name=自然之石犁头
-    S:oredict.toolHeadPlowOriharukon.name=山铜 Plow Head
+    S:oredict.toolHeadPlowOriharukon.name=山铜犁头
     S:oredict.toolHeadPlowOsmiridium.name=铱锇合金犁头
     S:oredict.toolHeadPlowOsmium.name=锇犁头
     S:oredict.toolHeadPlowOsmiumElemental.name=锇犁头
@@ -48403,7 +48403,7 @@ languagefile {
     S:oredict.toolHeadPlowplatinum.name=铂犁头
     S:oredict.toolHeadPlowyellowSapphire.name=黄色蓝宝石犁头
     S:oredict.toolHeadRawArrowAdamantine.name=粗糙的血石箭头
-    S:oredict.toolHeadRawArrowAdamantite.name=粗糙的精金箭 Head
+    S:oredict.toolHeadRawArrowAdamantite.name=粗糙的精金箭头
     S:oredict.toolHeadRawArrowAdamantium.name=粗糙的艾德曼合金箭头
     S:oredict.toolHeadRawArrowAlmandine.name=粗糙的铁铝榴石箭头
     S:oredict.toolHeadRawArrowAluminium.name=粗糙的铝箭头
@@ -48471,7 +48471,7 @@ languagefile {
     S:oredict.toolHeadRawArrowDiamond.name=粗糙的钻石箭头
     S:oredict.toolHeadRawArrowDioptase.name=粗糙的翠铜石箭头
     S:oredict.toolHeadRawArrowDiorite.name=粗糙的闪长岩箭头
-    S:oredict.toolHeadRawArrowDuralumin.name=粗糙的硬铝合金箭 Head
+    S:oredict.toolHeadRawArrowDuralumin.name=粗糙的硬铝合金箭头
     S:oredict.toolHeadRawArrowDuranium.name=粗糙的钍瑞铌箭头
     S:oredict.toolHeadRawArrowEclogite.name=粗糙的榴辉岩箭头
     S:oredict.toolHeadRawArrowElectricalSteel.name=粗糙的电钢箭头
@@ -48554,7 +48554,7 @@ languagefile {
     S:oredict.toolHeadRawArrowOpal.name=粗糙的猫眼石箭头
     S:oredict.toolHeadRawArrowOrangeSapphire.name=粗糙的橙色蓝宝石箭头
     S:oredict.toolHeadRawArrowOrichalcum.name=粗糙的自然之石箭头
-    S:oredict.toolHeadRawArrowOriharukon.name=粗糙的山铜箭 Head
+    S:oredict.toolHeadRawArrowOriharukon.name=粗糙的山铜箭头
     S:oredict.toolHeadRawArrowOsmiridium.name=粗糙的铱锇合金箭头
     S:oredict.toolHeadRawArrowOsmium.name=粗糙的锇箭头
     S:oredict.toolHeadRawArrowOsmiumElemental.name=粗糙的锇箭头
@@ -48643,7 +48643,7 @@ languagefile {
     S:oredict.toolHeadRawArrowplatinum.name=粗糙的铂箭头
     S:oredict.toolHeadRawArrowyellowSapphire.name=粗糙的黄色蓝宝石箭头
     S:oredict.toolHeadRawAxeAdamantine.name=粗糙的血石斧头
-    S:oredict.toolHeadRawAxeAdamantite.name=粗糙的精金 Axe Head
+    S:oredict.toolHeadRawAxeAdamantite.name=粗糙的精金斧头
     S:oredict.toolHeadRawAxeAdamantium.name=粗糙的艾德曼合金斧头
     S:oredict.toolHeadRawAxeAlmandine.name=粗糙的铁铝榴石斧头
     S:oredict.toolHeadRawAxeAluminium.name=粗糙的铝斧头
@@ -48712,7 +48712,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDioptase.name=粗糙的翠铜石斧头
     S:oredict.toolHeadRawAxeDiorite.name=粗糙的闪长岩斧头
     S:oredict.toolHeadRawAxeDoubleAdamantine.name=粗糙的血石双刃斧头
-    S:oredict.toolHeadRawAxeDoubleAdamantite.name=粗糙的精金 Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleAdamantite.name=粗糙的精金双刃斧头
     S:oredict.toolHeadRawAxeDoubleAdamantium.name=粗糙的艾德曼合金双刃斧头
     S:oredict.toolHeadRawAxeDoubleAlmandine.name=粗糙的铁铝榴石双刃斧头
     S:oredict.toolHeadRawAxeDoubleAluminium.name=粗糙的铝双刃斧头
@@ -48775,7 +48775,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleDesichalkos.name=粗糙的虚空之魂石双刃斧头
     S:oredict.toolHeadRawAxeDoubleDiamond.name=粗糙的钻石双刃斧头
     S:oredict.toolHeadRawAxeDoubleDioptase.name=粗糙的翠铜石双刃斧头
-    S:oredict.toolHeadRawAxeDoubleDuralumin.name=粗糙的硬铝合金 Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleDuralumin.name=粗糙的硬铝合金双刃斧头
     S:oredict.toolHeadRawAxeDoubleDuranium.name=粗糙的钍瑞铌双刃斧头
     S:oredict.toolHeadRawAxeDoubleEclogite.name=粗糙的榴辉岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleElectricalSteel.name=粗糙的电钢双刃斧头
@@ -48847,7 +48847,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleOpal.name=粗糙的猫眼石双刃斧头
     S:oredict.toolHeadRawAxeDoubleOrangeSapphire.name=粗糙的橙色蓝宝石双刃斧头
     S:oredict.toolHeadRawAxeDoubleOrichalcum.name=粗糙的自然之石双刃斧头
-    S:oredict.toolHeadRawAxeDoubleOriharukon.name=粗糙的山铜 Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleOriharukon.name=粗糙的山铜双刃斧头
     S:oredict.toolHeadRawAxeDoubleOsmiridium.name=粗糙的铱锇合金双刃斧头
     S:oredict.toolHeadRawAxeDoubleOsmium.name=粗糙的锇双刃斧头
     S:oredict.toolHeadRawAxeDoubleOsmiumElemental.name=粗糙的锇双刃斧头
@@ -48930,7 +48930,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleorangeSapphire.name=粗糙的橙色蓝宝石双刃斧头
     S:oredict.toolHeadRawAxeDoubleplatinum.name=粗糙的铂双刃斧头
     S:oredict.toolHeadRawAxeDoubleyellowSapphire.name=粗糙的黄色蓝宝石双刃斧头
-    S:oredict.toolHeadRawAxeDuralumin.name=粗糙的硬铝合金 Axe Head
+    S:oredict.toolHeadRawAxeDuralumin.name=粗糙的硬铝合金斧头
     S:oredict.toolHeadRawAxeDuranium.name=粗糙的钍瑞铌斧头
     S:oredict.toolHeadRawAxeEclogite.name=粗糙的榴辉岩斧头
     S:oredict.toolHeadRawAxeElectricalSteel.name=粗糙的电钢斧头
@@ -49013,7 +49013,7 @@ languagefile {
     S:oredict.toolHeadRawAxeOpal.name=粗糙的猫眼石斧头
     S:oredict.toolHeadRawAxeOrangeSapphire.name=粗糙的橙色蓝宝石斧头
     S:oredict.toolHeadRawAxeOrichalcum.name=粗糙的自然之石斧头
-    S:oredict.toolHeadRawAxeOriharukon.name=粗糙的山铜 Axe Head
+    S:oredict.toolHeadRawAxeOriharukon.name=粗糙的山铜斧头
     S:oredict.toolHeadRawAxeOsmiridium.name=粗糙的铱锇合金斧头
     S:oredict.toolHeadRawAxeOsmium.name=粗糙的锇斧头
     S:oredict.toolHeadRawAxeOsmiumElemental.name=粗糙的锇斧头
@@ -49102,7 +49102,7 @@ languagefile {
     S:oredict.toolHeadRawAxeplatinum.name=粗糙的铂斧头
     S:oredict.toolHeadRawAxeyellowSapphire.name=粗糙的黄色蓝宝石斧头
     S:oredict.toolHeadRawChiselAdamantine.name=粗糙的血石凿子头
-    S:oredict.toolHeadRawChiselAdamantite.name=粗糙的精金 Chisel Head
+    S:oredict.toolHeadRawChiselAdamantite.name=粗糙的精金凿子头
     S:oredict.toolHeadRawChiselAdamantium.name=粗糙的艾德曼合金凿子头
     S:oredict.toolHeadRawChiselAlmandine.name=粗糙的铁铝榴石凿子头
     S:oredict.toolHeadRawChiselAluminium.name=粗糙的铝凿子头
@@ -49165,7 +49165,7 @@ languagefile {
     S:oredict.toolHeadRawChiselDesichalkos.name=粗糙的虚空之魂石凿子头
     S:oredict.toolHeadRawChiselDiamond.name=粗糙的钻石凿子头
     S:oredict.toolHeadRawChiselDioptase.name=粗糙的翠铜石凿子头
-    S:oredict.toolHeadRawChiselDuralumin.name=粗糙的硬铝合金 Chisel Head
+    S:oredict.toolHeadRawChiselDuralumin.name=粗糙的硬铝合金凿子头
     S:oredict.toolHeadRawChiselDuranium.name=粗糙的钍瑞铌凿子头
     S:oredict.toolHeadRawChiselEclogite.name=粗糙的榴辉岩凿子头
     S:oredict.toolHeadRawChiselElectricalSteel.name=粗糙的电钢凿子头
@@ -49236,7 +49236,7 @@ languagefile {
     S:oredict.toolHeadRawChiselOpal.name=粗糙的猫眼石凿子头
     S:oredict.toolHeadRawChiselOrangeSapphire.name=粗糙的橙色蓝宝石凿子头
     S:oredict.toolHeadRawChiselOrichalcum.name=粗糙的自然之石凿子头
-    S:oredict.toolHeadRawChiselOriharukon.name=粗糙的山铜 Chisel Head
+    S:oredict.toolHeadRawChiselOriharukon.name=粗糙的山铜凿子头
     S:oredict.toolHeadRawChiselOsmiridium.name=粗糙的铱锇合金凿子头
     S:oredict.toolHeadRawChiselOsmium.name=粗糙的锇凿子头
     S:oredict.toolHeadRawChiselOsmiumElemental.name=粗糙的锇凿子头
@@ -49316,7 +49316,7 @@ languagefile {
     S:oredict.toolHeadRawChiselplatinum.name=粗糙的铂凿子头
     S:oredict.toolHeadRawChiselyellowSapphire.name=粗糙的黄色蓝宝石凿子头
     S:oredict.toolHeadRawHoeAdamantine.name=粗糙的血石锄头
-    S:oredict.toolHeadRawHoeAdamantite.name=粗糙的精金 Hoe Head
+    S:oredict.toolHeadRawHoeAdamantite.name=粗糙的精金锄头
     S:oredict.toolHeadRawHoeAdamantium.name=粗糙的艾德曼合金锄头
     S:oredict.toolHeadRawHoeAlmandine.name=粗糙的铁铝榴石锄头
     S:oredict.toolHeadRawHoeAluminium.name=粗糙的铝锄头
@@ -49384,7 +49384,7 @@ languagefile {
     S:oredict.toolHeadRawHoeDiamond.name=粗糙的钻石锄头
     S:oredict.toolHeadRawHoeDioptase.name=粗糙的翠铜石锄头
     S:oredict.toolHeadRawHoeDiorite.name=粗糙的闪长岩锄头
-    S:oredict.toolHeadRawHoeDuralumin.name=粗糙的硬铝合金 Hoe Head
+    S:oredict.toolHeadRawHoeDuralumin.name=粗糙的硬铝合金锄头
     S:oredict.toolHeadRawHoeDuranium.name=粗糙的钍瑞铌锄头
     S:oredict.toolHeadRawHoeEclogite.name=粗糙的榴辉岩锄头
     S:oredict.toolHeadRawHoeElectricalSteel.name=粗糙的电钢锄头
@@ -49467,7 +49467,7 @@ languagefile {
     S:oredict.toolHeadRawHoeOpal.name=粗糙的猫眼石锄头
     S:oredict.toolHeadRawHoeOrangeSapphire.name=粗糙的橙色蓝宝石锄头
     S:oredict.toolHeadRawHoeOrichalcum.name=粗糙的自然之石锄头
-    S:oredict.toolHeadRawHoeOriharukon.name=粗糙的山铜 Hoe Head
+    S:oredict.toolHeadRawHoeOriharukon.name=粗糙的山铜锄头
     S:oredict.toolHeadRawHoeOsmiridium.name=粗糙的铱锇合金锄头
     S:oredict.toolHeadRawHoeOsmium.name=粗糙的锇锄头
     S:oredict.toolHeadRawHoeOsmiumElemental.name=粗糙的锇锄头
@@ -49556,7 +49556,7 @@ languagefile {
     S:oredict.toolHeadRawHoeplatinum.name=粗糙的铂锄头
     S:oredict.toolHeadRawHoeyellowSapphire.name=粗糙的黄色蓝宝石锄头
     S:oredict.toolHeadRawPickaxeAdamantine.name=粗糙的血石镐头
-    S:oredict.toolHeadRawPickaxeAdamantite.name=粗糙的精金 Pickaxe Head
+    S:oredict.toolHeadRawPickaxeAdamantite.name=粗糙的精金稿头
     S:oredict.toolHeadRawPickaxeAdamantium.name=粗糙的艾德曼合金镐头
     S:oredict.toolHeadRawPickaxeAlmandine.name=粗糙的铁铝榴石镐头
     S:oredict.toolHeadRawPickaxeAluminium.name=粗糙的铝镐头
@@ -49624,7 +49624,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeDiamond.name=粗糙的钻石镐头
     S:oredict.toolHeadRawPickaxeDioptase.name=粗糙的翠铜石镐头
     S:oredict.toolHeadRawPickaxeDiorite.name=粗糙的闪长岩镐头
-    S:oredict.toolHeadRawPickaxeDuralumin.name=粗糙的硬铝合金 Pickaxe Head
+    S:oredict.toolHeadRawPickaxeDuralumin.name=粗糙的硬铝合金稿头
     S:oredict.toolHeadRawPickaxeDuranium.name=粗糙的钍瑞铌镐头
     S:oredict.toolHeadRawPickaxeEclogite.name=粗糙的榴辉岩镐头
     S:oredict.toolHeadRawPickaxeElectricalSteel.name=粗糙的电钢镐头
@@ -49707,7 +49707,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeOpal.name=粗糙的猫眼石镐头
     S:oredict.toolHeadRawPickaxeOrangeSapphire.name=粗糙的橙色蓝宝石镐头
     S:oredict.toolHeadRawPickaxeOrichalcum.name=粗糙的自然之石镐头
-    S:oredict.toolHeadRawPickaxeOriharukon.name=粗糙的山铜 Pickaxe Head
+    S:oredict.toolHeadRawPickaxeOriharukon.name=粗糙的山铜稿头
     S:oredict.toolHeadRawPickaxeOsmiridium.name=粗糙的铱锇合金镐头
     S:oredict.toolHeadRawPickaxeOsmium.name=粗糙的锇镐头
     S:oredict.toolHeadRawPickaxeOsmiumElemental.name=粗糙的锇镐头
@@ -49796,7 +49796,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeplatinum.name=粗糙的铂镐头
     S:oredict.toolHeadRawPickaxeyellowSapphire.name=粗糙的黄色蓝宝石镐头
     S:oredict.toolHeadRawPlowAdamantine.name=粗糙的血石 犁头
-    S:oredict.toolHeadRawPlowAdamantite.name=粗糙的精金 Plow Head
+    S:oredict.toolHeadRawPlowAdamantite.name=粗糙的精金犁头
     S:oredict.toolHeadRawPlowAdamantium.name=粗糙的艾德曼合金犁头
     S:oredict.toolHeadRawPlowAlmandine.name=粗糙的铁铝榴石犁头
     S:oredict.toolHeadRawPlowAluminium.name=粗糙的铝犁头
@@ -49864,7 +49864,7 @@ languagefile {
     S:oredict.toolHeadRawPlowDiamond.name=粗糙的钻石犁头
     S:oredict.toolHeadRawPlowDioptase.name=粗糙的翠铜石犁头
     S:oredict.toolHeadRawPlowDiorite.name=粗糙的闪长岩犁头
-    S:oredict.toolHeadRawPlowDuralumin.name=粗糙的硬铝合金 Plow Head
+    S:oredict.toolHeadRawPlowDuralumin.name=粗糙的硬铝合金犁头
     S:oredict.toolHeadRawPlowDuranium.name=粗糙的钍瑞铌犁头
     S:oredict.toolHeadRawPlowEclogite.name=粗糙的榴辉岩犁头
     S:oredict.toolHeadRawPlowElectricalSteel.name=粗糙的电钢犁头
@@ -49947,7 +49947,7 @@ languagefile {
     S:oredict.toolHeadRawPlowOpal.name=粗糙的猫眼石犁头
     S:oredict.toolHeadRawPlowOrangeSapphire.name=粗糙的橙色蓝宝石犁头
     S:oredict.toolHeadRawPlowOrichalcum.name=粗糙的自然之石犁头
-    S:oredict.toolHeadRawPlowOriharukon.name=粗糙的山铜 Plow Head
+    S:oredict.toolHeadRawPlowOriharukon.name=粗糙的山铜犁头
     S:oredict.toolHeadRawPlowOsmiridium.name=粗糙的铱锇合金犁头
     S:oredict.toolHeadRawPlowOsmium.name=粗糙的锇犁头
     S:oredict.toolHeadRawPlowOsmiumElemental.name=粗糙的锇犁头
@@ -50490,7 +50490,7 @@ languagefile {
     S:oredict.toolHeadRawSenseplatinum.name=粗糙的铂镰刀片
     S:oredict.toolHeadRawSenseyellowSapphire.name=粗糙的黄色蓝宝石镰刀片
     S:oredict.toolHeadRawShovelAdamantine.name=粗糙的血石镰刀片
-    S:oredict.toolHeadRawShovelAdamantite.name=粗糙的精金 Shovel Head
+    S:oredict.toolHeadRawShovelAdamantite.name=粗糙的精金铲头
     S:oredict.toolHeadRawShovelAdamantium.name=粗糙的艾德曼合金锹头
     S:oredict.toolHeadRawShovelAlmandine.name=粗糙的铁铝榴石锹头
     S:oredict.toolHeadRawShovelAluminium.name=粗糙的铝锹头
@@ -50558,7 +50558,7 @@ languagefile {
     S:oredict.toolHeadRawShovelDiamond.name=粗糙的钻石锹头
     S:oredict.toolHeadRawShovelDioptase.name=粗糙的翠铜石锹头
     S:oredict.toolHeadRawShovelDiorite.name=粗糙的闪长岩锹头
-    S:oredict.toolHeadRawShovelDuralumin.name=粗糙的硬铝合金 Shovel Head
+    S:oredict.toolHeadRawShovelDuralumin.name=粗糙的硬铝合金铲头
     S:oredict.toolHeadRawShovelDuranium.name=粗糙的钍瑞铌锹头
     S:oredict.toolHeadRawShovelEclogite.name=粗糙的榴辉岩锹头
     S:oredict.toolHeadRawShovelElectricalSteel.name=粗糙的电钢锹头
@@ -50641,7 +50641,7 @@ languagefile {
     S:oredict.toolHeadRawShovelOpal.name=粗糙的猫眼石锹头
     S:oredict.toolHeadRawShovelOrangeSapphire.name=粗糙的橙色蓝宝石锹头
     S:oredict.toolHeadRawShovelOrichalcum.name=粗糙的自然之石锹头
-    S:oredict.toolHeadRawShovelOriharukon.name=粗糙的山铜 Shovel Head
+    S:oredict.toolHeadRawShovelOriharukon.name=粗糙的山铜铲头
     S:oredict.toolHeadRawShovelOsmiridium.name=粗糙的铱锇合金锹头
     S:oredict.toolHeadRawShovelOsmium.name=粗糙的锇锹头
     S:oredict.toolHeadRawShovelOsmiumElemental.name=粗糙的锇锹头
@@ -50730,7 +50730,7 @@ languagefile {
     S:oredict.toolHeadRawShovelplatinum.name=粗糙的铂锹头
     S:oredict.toolHeadRawShovelyellowSapphire.name=粗糙的黄色蓝宝石锹头
     S:oredict.toolHeadRawSwordAdamantine.name=粗糙的血石剑身
-    S:oredict.toolHeadRawSwordAdamantite.name=粗糙的精金 Sword Blade
+    S:oredict.toolHeadRawSwordAdamantite.name=粗糙的精金剑 Blade
     S:oredict.toolHeadRawSwordAdamantium.name=粗糙的艾德曼合金剑身
     S:oredict.toolHeadRawSwordAlmandine.name=粗糙的铁铝榴石剑身
     S:oredict.toolHeadRawSwordAluminium.name=粗糙的铝剑身
@@ -50798,7 +50798,7 @@ languagefile {
     S:oredict.toolHeadRawSwordDiamond.name=粗糙的钻石剑身
     S:oredict.toolHeadRawSwordDioptase.name=粗糙的翠铜石剑身
     S:oredict.toolHeadRawSwordDiorite.name=粗糙的闪长岩剑身
-    S:oredict.toolHeadRawSwordDuralumin.name=粗糙的硬铝合金 Sword Blade
+    S:oredict.toolHeadRawSwordDuralumin.name=粗糙的硬铝合金剑 Blade
     S:oredict.toolHeadRawSwordDuranium.name=粗糙的钍瑞铌剑身
     S:oredict.toolHeadRawSwordEclogite.name=粗糙的榴辉岩剑身
     S:oredict.toolHeadRawSwordElectricalSteel.name=粗糙的电钢剑身
@@ -50881,7 +50881,7 @@ languagefile {
     S:oredict.toolHeadRawSwordOpal.name=粗糙的猫眼石剑身
     S:oredict.toolHeadRawSwordOrangeSapphire.name=粗糙的橙色蓝宝石剑身
     S:oredict.toolHeadRawSwordOrichalcum.name=粗糙的自然之石剑身
-    S:oredict.toolHeadRawSwordOriharukon.name=粗糙的山铜 Sword Blade
+    S:oredict.toolHeadRawSwordOriharukon.name=粗糙的山铜剑 Blade
     S:oredict.toolHeadRawSwordOsmiridium.name=粗糙的铱锇合金剑身
     S:oredict.toolHeadRawSwordOsmium.name=粗糙的锇剑身
     S:oredict.toolHeadRawSwordOsmiumElemental.name=粗糙的锇剑身
@@ -50970,7 +50970,7 @@ languagefile {
     S:oredict.toolHeadRawSwordplatinum.name=粗糙的铂剑身
     S:oredict.toolHeadRawSwordyellowSapphire.name=粗糙的黄色蓝宝石剑身
     S:oredict.toolHeadRawUniversalSpadeAdamantine.name=粗糙的血石万用铲头
-    S:oredict.toolHeadRawUniversalSpadeAdamantite.name=粗糙的精金 Universal Spade Head
+    S:oredict.toolHeadRawUniversalSpadeAdamantite.name=粗糙的精金万能铲头
     S:oredict.toolHeadRawUniversalSpadeAdamantium.name=粗糙的艾德曼合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeAlmandine.name=粗糙的铁铝榴石万用铲头
     S:oredict.toolHeadRawUniversalSpadeAluminium.name=粗糙的铝万用铲头
@@ -51033,7 +51033,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeDesichalkos.name=粗糙的虚空之魂石万用铲头
     S:oredict.toolHeadRawUniversalSpadeDiamond.name=粗糙的钻石万用铲头
     S:oredict.toolHeadRawUniversalSpadeDioptase.name=粗糙的翠铜石万用铲头
-    S:oredict.toolHeadRawUniversalSpadeDuralumin.name=粗糙的硬铝合金 Universal Spade Head
+    S:oredict.toolHeadRawUniversalSpadeDuralumin.name=粗糙的硬铝合金万能铲头
     S:oredict.toolHeadRawUniversalSpadeDuranium.name=粗糙的钍瑞铌万用铲头
     S:oredict.toolHeadRawUniversalSpadeEclogite.name=粗糙的榴辉岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeElectricalSteel.name=粗糙的电钢万用铲头
@@ -51104,7 +51104,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeOpal.name=粗糙的猫眼石万用铲头
     S:oredict.toolHeadRawUniversalSpadeOrangeSapphire.name=粗糙的橙色蓝宝石万用铲头
     S:oredict.toolHeadRawUniversalSpadeOrichalcum.name=粗糙的自然之石万用铲头
-    S:oredict.toolHeadRawUniversalSpadeOriharukon.name=粗糙的山铜 Universal Spade Head
+    S:oredict.toolHeadRawUniversalSpadeOriharukon.name=粗糙的山铜万能铲头
     S:oredict.toolHeadRawUniversalSpadeOsmiridium.name=粗糙的铱锇合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeOsmium.name=粗糙的锇万用铲头
     S:oredict.toolHeadRawUniversalSpadeOsmiumElemental.name=粗糙的锇万用铲头
@@ -51855,7 +51855,7 @@ languagefile {
     S:oredict.toolHeadSenseplatinum.name=铂镰刀片
     S:oredict.toolHeadSenseyellowSapphire.name=黄色蓝宝石镰刀片
     S:oredict.toolHeadShovelAdamantine.name=血石锹头
-    S:oredict.toolHeadShovelAdamantite.name=精金 Shovel Head
+    S:oredict.toolHeadShovelAdamantite.name=精金铲头
     S:oredict.toolHeadShovelAdamantium.name=艾德曼合金锹头
     S:oredict.toolHeadShovelAlmandine.name=铁铝榴石锹头
     S:oredict.toolHeadShovelAluminium.name=铝锹头
@@ -51923,7 +51923,7 @@ languagefile {
     S:oredict.toolHeadShovelDiamond.name=钻石锹头
     S:oredict.toolHeadShovelDioptase.name=翠铜石锹头
     S:oredict.toolHeadShovelDiorite.name=闪长岩锹头
-    S:oredict.toolHeadShovelDuralumin.name=硬铝合金 Shovel Head
+    S:oredict.toolHeadShovelDuralumin.name=硬铝合金铲头
     S:oredict.toolHeadShovelDuranium.name=钍瑞铌锹头
     S:oredict.toolHeadShovelEclogite.name=榴辉岩锹头
     S:oredict.toolHeadShovelElectricalSteel.name=电钢锹头
@@ -52006,7 +52006,7 @@ languagefile {
     S:oredict.toolHeadShovelOpal.name=猫眼石锹头
     S:oredict.toolHeadShovelOrangeSapphire.name=橙色蓝宝石锹头
     S:oredict.toolHeadShovelOrichalcum.name=自然之石锹头
-    S:oredict.toolHeadShovelOriharukon.name=山铜 Shovel Head
+    S:oredict.toolHeadShovelOriharukon.name=山铜铲头
     S:oredict.toolHeadShovelOsmiridium.name=铱锇合金锹头
     S:oredict.toolHeadShovelOsmium.name=锇锹头
     S:oredict.toolHeadShovelOsmiumElemental.name=锇锹头
@@ -52095,7 +52095,7 @@ languagefile {
     S:oredict.toolHeadShovelplatinum.name=铂锹头
     S:oredict.toolHeadShovelyellowSapphire.name=黄色蓝宝石锹头
     S:oredict.toolHeadSwordAdamantine.name=血石剑身
-    S:oredict.toolHeadSwordAdamantite.name=精金 Sword Blade
+    S:oredict.toolHeadSwordAdamantite.name=精金剑 Blade
     S:oredict.toolHeadSwordAdamantium.name=艾德曼合金剑身
     S:oredict.toolHeadSwordAlmandine.name=铁铝榴石剑身
     S:oredict.toolHeadSwordAluminium.name=铝剑身
@@ -52163,7 +52163,7 @@ languagefile {
     S:oredict.toolHeadSwordDiamond.name=钻石剑身
     S:oredict.toolHeadSwordDioptase.name=翠铜石剑身
     S:oredict.toolHeadSwordDiorite.name=闪长岩剑身
-    S:oredict.toolHeadSwordDuralumin.name=硬铝合金 Sword Blade
+    S:oredict.toolHeadSwordDuralumin.name=硬铝合金剑 Blade
     S:oredict.toolHeadSwordDuranium.name=钍瑞铌剑身
     S:oredict.toolHeadSwordEclogite.name=榴辉岩剑身
     S:oredict.toolHeadSwordElectricalSteel.name=电钢剑身
@@ -52246,7 +52246,7 @@ languagefile {
     S:oredict.toolHeadSwordOpal.name=猫眼石剑身
     S:oredict.toolHeadSwordOrangeSapphire.name=橙色蓝宝石剑身
     S:oredict.toolHeadSwordOrichalcum.name=自然之石剑身
-    S:oredict.toolHeadSwordOriharukon.name=山铜 Sword Blade
+    S:oredict.toolHeadSwordOriharukon.name=山铜剑 Blade
     S:oredict.toolHeadSwordOsmiridium.name=铱锇合金剑身
     S:oredict.toolHeadSwordOsmium.name=锇剑身
     S:oredict.toolHeadSwordOsmiumElemental.name=锇剑身
@@ -52335,7 +52335,7 @@ languagefile {
     S:oredict.toolHeadSwordplatinum.name=铂剑身
     S:oredict.toolHeadSwordyellowSapphire.name=黄色蓝宝石剑身
     S:oredict.toolHeadUniversalSpadeAdamantine.name=血石万用铲头
-    S:oredict.toolHeadUniversalSpadeAdamantite.name=精金 Universal Spade Head
+    S:oredict.toolHeadUniversalSpadeAdamantite.name=精金万能铲头
     S:oredict.toolHeadUniversalSpadeAdamantium.name=艾德曼合金万用铲头
     S:oredict.toolHeadUniversalSpadeAlmandine.name=铁铝榴石万用铲头
     S:oredict.toolHeadUniversalSpadeAluminium.name=铝万用铲头
@@ -52398,7 +52398,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeDesichalkos.name=虚空之魂石万用铲头
     S:oredict.toolHeadUniversalSpadeDiamond.name=钻石万用铲头
     S:oredict.toolHeadUniversalSpadeDioptase.name=翠铜石万用铲头
-    S:oredict.toolHeadUniversalSpadeDuralumin.name=硬铝合金 Universal Spade Head
+    S:oredict.toolHeadUniversalSpadeDuralumin.name=硬铝合金万能铲头
     S:oredict.toolHeadUniversalSpadeDuranium.name=钍瑞铌万用铲头
     S:oredict.toolHeadUniversalSpadeEclogite.name=榴辉岩万用铲头
     S:oredict.toolHeadUniversalSpadeElectricalSteel.name=电钢万用铲头
@@ -52469,7 +52469,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeOpal.name=猫眼石万用铲头
     S:oredict.toolHeadUniversalSpadeOrangeSapphire.name=橙色蓝宝石万用铲头
     S:oredict.toolHeadUniversalSpadeOrichalcum.name=自然之石万用铲头
-    S:oredict.toolHeadUniversalSpadeOriharukon.name=山铜 Universal Spade Head
+    S:oredict.toolHeadUniversalSpadeOriharukon.name=山铜万能铲头
     S:oredict.toolHeadUniversalSpadeOsmiridium.name=铱锇合金万用铲头
     S:oredict.toolHeadUniversalSpadeOsmium.name=锇万用铲头
     S:oredict.toolHeadUniversalSpadeOsmiumElemental.name=锇万用铲头
@@ -52549,7 +52549,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeplatinum.name=铂万用铲头
     S:oredict.toolHeadUniversalSpadeyellowSapphire.name=黄色蓝宝石万用铲头
     S:oredict.toolHeadWrenchAdamantine.name=血石扳手头
-    S:oredict.toolHeadWrenchAdamantite.name=精金 Wrench Tip
+    S:oredict.toolHeadWrenchAdamantite.name=精金扳手头
     S:oredict.toolHeadWrenchAdamantium.name=艾德曼合金扳手头
     S:oredict.toolHeadWrenchAlmandine.name=铁铝榴石扳手头
     S:oredict.toolHeadWrenchAluminium.name=铝扳手头
@@ -52612,7 +52612,7 @@ languagefile {
     S:oredict.toolHeadWrenchDesichalkos.name=虚空之魂石扳手头
     S:oredict.toolHeadWrenchDiamond.name=钻石扳手头
     S:oredict.toolHeadWrenchDioptase.name=翠铜石扳手头
-    S:oredict.toolHeadWrenchDuralumin.name=硬铝合金 Wrench Tip
+    S:oredict.toolHeadWrenchDuralumin.name=硬铝合金扳手头
     S:oredict.toolHeadWrenchDuranium.name=钍瑞铌扳手头
     S:oredict.toolHeadWrenchEclogite.name=榴辉岩扳手头
     S:oredict.toolHeadWrenchElectricalSteel.name=电钢扳手头
@@ -52683,7 +52683,7 @@ languagefile {
     S:oredict.toolHeadWrenchOpal.name=猫眼石扳手头
     S:oredict.toolHeadWrenchOrangeSapphire.name=橙色蓝宝石扳手头
     S:oredict.toolHeadWrenchOrichalcum.name=自然之石扳手头
-    S:oredict.toolHeadWrenchOriharukon.name=山铜 Wrench Tip
+    S:oredict.toolHeadWrenchOriharukon.name=山铜扳手头
     S:oredict.toolHeadWrenchOsmiridium.name=铱锇合金扳手头
     S:oredict.toolHeadWrenchOsmium.name=锇扳手头
     S:oredict.toolHeadWrenchOsmiumElemental.name=锇扳手头
@@ -52763,7 +52763,7 @@ languagefile {
     S:oredict.toolHeadWrenchplatinum.name=铂扳手头
     S:oredict.toolHeadWrenchyellowSapphire.name=黄色蓝宝石扳手头
     S:oredict.wireFineAdamantine.name=优良血石线缆
-    S:oredict.wireFineAdamantite.name=Fine 精金 Wire
+    S:oredict.wireFineAdamantite.name=优良精金线缆
     S:oredict.wireFineAdamantium.name=优良艾德曼合金线缆
     S:oredict.wireFineAluminium.name=优良铝线缆
     S:oredict.wireFineAluminiumAlloy.name=优良铝合金线缆
@@ -52811,7 +52811,7 @@ languagefile {
     S:oredict.wireFineDesichalkos.name=优良虚空之魂石线缆
     S:oredict.wireFineDraconium.name=优良龙线缆
     S:oredict.wireFineDraconiumAwakened.name=优良觉醒龙线缆
-    S:oredict.wireFineDuralumin.name=Fine 硬铝合金 Wire
+    S:oredict.wireFineDuralumin.name=优良硬铝合金线缆
     S:oredict.wireFineDuranium.name=优良钍瑞铌线缆
     S:oredict.wireFineElectricalSteel.name=优良电钢线缆
     S:oredict.wireFineElectrotineAlloy.name=优良蓝石合金线缆
@@ -52864,7 +52864,7 @@ languagefile {
     S:oredict.wireFineNichrome.name=优良镍铬合金线缆
     S:oredict.wireFineNickel.name=优良镍线缆
     S:oredict.wireFineOrichalcum.name=优良自然之石线缆
-    S:oredict.wireFineOriharukon.name=Fine 山铜 Wire
+    S:oredict.wireFineOriharukon.name=优良山铜线缆
     S:oredict.wireFineOsmiridium.name=优良铱锇合金线缆
     S:oredict.wireFineOsmium.name=优良锇线缆
     S:oredict.wireFineOsmiumElemental.name=优良锇线缆
