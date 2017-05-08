@@ -3,9 +3,6 @@ Gregtech6汉化
 欢迎加入
 原始文件源自Amamiya组
 
-# 警告！这一段必须阅读！
-在gregtech进行6.05.03更新后出现了一个bug，lang文件会失效。修复方法为下载汉化文件后直接改为只读，让GT无法更改汉化文件。其他不影响。
-
 ## Notes from Gordon
 I'm so buzy these days, so i may update it after I've done all works >_<
 ## 机器的汉化来自空集
