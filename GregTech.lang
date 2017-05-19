@@ -93,30 +93,49 @@ languagefile {
     S:fluid.Chlorine=氯
     S:fluid.Mercury=汞
     S:fluid.air=空气
+    S:fluid.applesmoothie=Apple Smoothie
     S:fluid.applevinegar=苹果醋
+    S:fluid.apricotsmoothie=Apricot Smoothie
     S:fluid.aquaregia=王水
     S:fluid.argon=氩
+    S:fluid.bananasmoothie=Banana Smoothie
     S:fluid.binnie.ciderApple=Cider
     S:fluid.binnie.ciderapple=Cider
     S:fluid.binnie.juiceApple=Apple Juice
+    S:fluid.binnie.juiceApricot=Apricot Juice
     S:fluid.binnie.juiceBanana=Banana Juice
     S:fluid.binnie.juiceCarrot=Carrot Juice
     S:fluid.binnie.juiceCherry=Cherry Juice
     S:fluid.binnie.juiceCranberry=Cranberry Juice
+    S:fluid.binnie.juiceElderberry=Elderberry Juice
+    S:fluid.binnie.juiceGrapefruit=Grapefruit Juice
     S:fluid.binnie.juiceLemon=Lemon Juice
+    S:fluid.binnie.juiceLime=Lime Juice
     S:fluid.binnie.juiceOlive=Olive Oil
+    S:fluid.binnie.juiceOrange=Orange Juice
+    S:fluid.binnie.juicePeach=Peach Juice
+    S:fluid.binnie.juicePear=Pear Juice
     S:fluid.binnie.juicePineapple=Ananas Juice
+    S:fluid.binnie.juicePlum=Plum Juice
     S:fluid.binnie.juiceRedGrape=Grape Juice
     S:fluid.binnie.juiceTomato=Tomato Juice
     S:fluid.binnie.juiceWhiteGrape=Grape Juice
     S:fluid.binnie.juiceapple=Apple Juice
+    S:fluid.binnie.juiceapricot=Apricot Juice
     S:fluid.binnie.juicebanana=Banana Juice
     S:fluid.binnie.juicecarrot=Carrot Juice
     S:fluid.binnie.juicecherry=Cherry Juice
     S:fluid.binnie.juicecranberry=Cranberry Juice
+    S:fluid.binnie.juiceelderberry=Elderberry Juice
+    S:fluid.binnie.juicegrapefruit=Grapefruit Juice
     S:fluid.binnie.juicelemon=Lemon Juice
+    S:fluid.binnie.juicelime=Lime Juice
     S:fluid.binnie.juiceolive=Olive Oil
+    S:fluid.binnie.juiceorange=Orange Juice
+    S:fluid.binnie.juicepeach=Peach Juice
+    S:fluid.binnie.juicepear=Pear Juice
     S:fluid.binnie.juicepineapple=Ananas Juice
+    S:fluid.binnie.juiceplum=Plum Juice
     S:fluid.binnie.juiceredgrape=Grape Juice
     S:fluid.binnie.juicetomato=Tomato Juice
     S:fluid.binnie.juicewhitegrape=Grape Juice
@@ -142,9 +161,11 @@ languagefile {
     S:fluid.bioethanol=生物乙醇
     S:fluid.biomass=生物质
     S:fluid.blackberryjuice=黑莓汁
+    S:fluid.blackberrysmoothie=Blackberry Smoothie
     S:fluid.blackvitriol=硫酸铁
     S:fluid.blaze=Blazing Goo
     S:fluid.blueberryjuice=蓝莓汁
+    S:fluid.blueberrysmoothie=Blueberry Smoothie
     S:fluid.bluevitriol=五水合硫酸铜
     S:fluid.bromine=溴 
     S:fluid.butane=丁烷
@@ -171,6 +192,7 @@ languagefile {
     S:fluid.cfoam.yellow=黄色泡沫
     S:fluid.chargedmatter=充能物质
     S:fluid.cherryjuice=樱桃汁
+    S:fluid.cherrysmoothie=Cherry Smoothie
     S:fluid.chlorine=氯
     S:fluid.chloroauricacid=氯金酸
     S:fluid.chloroplatinicacid=氯铂酸
@@ -178,9 +200,11 @@ languagefile {
     S:fluid.chocolatemilk=巧克力牛奶
     S:fluid.concrete=Wet Concrete
     S:fluid.cranberryjuice=蔓越莓汁
+    S:fluid.cranberrysmoothie=Cranberry Smoothie
     S:fluid.cream=鲜奶油
     S:fluid.creosote=木榴油
     S:fluid.currantjuice=Currant Juice
+    S:fluid.currantsmoothie=Currant Smoothie
     S:fluid.cyanvitriol=硫酸镍
     S:fluid.deuterium=氘
     S:fluid.diesel=柴油
@@ -248,12 +272,15 @@ languagefile {
     S:fluid.dye.watermixed.red=水性红色染料
     S:fluid.dye.watermixed.white=水性白色染料
     S:fluid.dye.watermixed.yellow=水性黄色染料
+    S:fluid.ectoplasm=Ectoplasm
+    S:fluid.elderberrysmoothie=Elderberry Smoothie
     S:fluid.error=Liquid Error
     S:fluid.fieryblood=炙热的血
     S:fluid.fishoil=鱼油
     S:fluid.fluorine=氟
     S:fluid.for.honey=蜂蜜
     S:fluid.for.honeydew=蜂蜜滴
+    S:fluid.fruitsmoothie=Froot Smoothie
     S:fluid.fuel=柴油
     S:fluid.gas_natural_gas=天然气
     S:fluid.glass=熔融玻璃
@@ -263,6 +290,8 @@ languagefile {
     S:fluid.glyceryl=硝化甘油
     S:fluid.goldencarrotjuice=金胡萝卜汁
     S:fluid.gooseberryjuice=鹅莓汁
+    S:fluid.gooseberrysmoothie=Gooseberry Smoothie
+    S:fluid.grapefruitsmoothie=Grapefruit Smoothie
     S:fluid.grayvitriol=硫酸锰
     S:fluid.greenvitriol=硫酸亚铁
     S:fluid.helium=氦
@@ -292,7 +321,11 @@ languagefile {
     S:fluid.kerosine=煤油
     S:fluid.ketchup=番茄酱
     S:fluid.kiwijuice=猕猴桃汁
+    S:fluid.kiwismoothie=Kiwi Smoothie
     S:fluid.krypton=氪
+    S:fluid.latex=Latex
+    S:fluid.lemonsmoothie=Lemon Smoothie
+    S:fluid.limesmoothie=Lime Smoothie
     S:fluid.linoil=Lin Oil
     S:fluid.linseedoil=亚麻籽油
     S:fluid.liquid_extra_heavy_oil=超重油
@@ -310,6 +343,7 @@ languagefile {
     S:fluid.mayo=蛋黄酱
     S:fluid.mcguffium=乌有岩(迷)
     S:fluid.melonjuice=西瓜汁
+    S:fluid.melonsmoothie=Melon Smoothie
     S:fluid.mercury=水银 (汞)
     S:fluid.methane=甲烷
     S:fluid.milk=牛奶
@@ -324,6 +358,7 @@ languagefile {
     S:fluid.molten.antimony=熔融锑
     S:fluid.molten.aredrite=熔融希尔金
     S:fluid.molten.asphalt=熔融沥青
+    S:fluid.molten.astralsilver=Molten Astral Silver
     S:fluid.molten.batteryalloy=熔融电池合金
     S:fluid.molten.bismuth=熔融铋
     S:fluid.molten.blaze=熔化的烈焰棒
@@ -363,10 +398,13 @@ languagefile {
     S:fluid.molten.manyullyn=熔融玛玉灵
     S:fluid.molten.meteoriciron=熔融陨铁
     S:fluid.molten.meteoricsteel=熔融陨钢
+    S:fluid.molten.midasium=Molten Midasium
+    S:fluid.molten.mithril=Molten Mithril
     S:fluid.molten.neodymium=熔融钕
     S:fluid.molten.nickel=熔融镍
     S:fluid.molten.osmium=熔融锇
     S:fluid.molten.osmiumelemental=熔融锇
+    S:fluid.molten.pigiron=Molten Pig Iron
     S:fluid.molten.plastic=熔融塑料
     S:fluid.molten.platinum=熔融铂
     S:fluid.molten.redalloy=熔融红色合金
@@ -378,6 +416,7 @@ languagefile {
     S:fluid.molten.silicon=熔融硅
     S:fluid.molten.silver=熔融银
     S:fluid.molten.solderingalloy=熔融钎焊合金
+    S:fluid.molten.spectreiron=Molten Spectre Iron
     S:fluid.molten.stainlesssteel=熔融不锈钢
     S:fluid.molten.steel=熔融钢
     S:fluid.molten.stone=熔融石头
@@ -413,12 +452,17 @@ languagefile {
     S:fluid.nutoil=果仁油
     S:fluid.oil=油
     S:fluid.oliveoil=橄榄油
+    S:fluid.orangesmoothie=Orange Smoothie
     S:fluid.oxygen=氧
+    S:fluid.peachsmoothie=Peach Smoothie
     S:fluid.peanutbutter=花生酱
+    S:fluid.pearsmoothie=Pear Smoothie
     S:fluid.petrol=汽油
     S:fluid.pineapplejuice=菠萝汁
+    S:fluid.pineapplesmoothie=Ananas Smoothie
     S:fluid.pinkvitriol=硫酸镁
     S:fluid.plastic=熔融塑料
+    S:fluid.plumsmoothie=Plum Smoothie
     S:fluid.potatojuice=Potato Juice
     S:fluid.potion.alcopops=波普甜酒
     S:fluid.potion.ambrosia=神的食物
@@ -535,6 +579,8 @@ languagefile {
     S:fluid.radon=氡
     S:fluid.rainbowsap=彩虹树汁
     S:fluid.raspberryjuice=树莓汁
+    S:fluid.raspberrysmoothie=Raspberry Smoothie
+    S:fluid.redgrapesmoothie=Grape Smoothie
     S:fluid.redvitriol=硫酸钴
     S:fluid.reedwater=Reedwater
     S:fluid.ricevinegar=米醋
@@ -552,6 +598,7 @@ languagefile {
     S:fluid.stannicchloride=四氯化锡
     S:fluid.steam=蒸气
     S:fluid.strawberryjuice=Strawberry Juice
+    S:fluid.strawberrysmoothie=Strawberry Smoothie
     S:fluid.sulfurdioxide=二氧化硫
     S:fluid.sulfuricacid=硫酸
     S:fluid.sulfurtrioxide=三氧化硫
@@ -564,6 +611,7 @@ languagefile {
     S:fluid.vinegar=Grape Vinegar
     S:fluid.vitriolofclay=硫酸铝
     S:fluid.wheathopsmash=Wheat-Hops Mash
+    S:fluid.whitegrapesmoothie=Grape Smoothie
     S:fluid.whitevitriol=硫酸锌
     S:fluid.xenon=氙
     S:gt.advcrafting.automation.access=允许自动填充合成表
@@ -1496,7 +1544,10 @@ languagefile {
     S:gt.crop.withereed=凋零者之花
     S:gt.crop.yellowappletree=黄苹果树
     S:gt.display.fluid.name=流体显示器
+    S:gt.drink.applesmoothie=
     S:gt.drink.applevinegar=
+    S:gt.drink.apricotsmoothie=
+    S:gt.drink.bananasmoothie=
     S:gt.drink.binnie.beerale=
     S:gt.drink.binnie.beercorn=
     S:gt.drink.binnie.beerlager=
@@ -1589,23 +1640,32 @@ languagefile {
     S:gt.drink.binnie.winetomato=
     S:gt.drink.binnie.winewhite=
     S:gt.drink.blackberryjuice=此产品由智能手机制造!
+    S:gt.drink.blackberrysmoothie=
     S:gt.drink.blueberryjuice=不要沾到衣服上，它会把所有东西染成蓝色!
+    S:gt.drink.blueberrysmoothie=
     S:gt.drink.cactuswater=
     S:gt.drink.canevinegar=
     S:gt.drink.carrotjuice=虽然它有益视力的说法并没有经过科学的证明……
+    S:gt.drink.cherrysmoothie=
     S:gt.drink.chocolatecream=
     S:gt.drink.chocolatemilk=香甜可口
     S:gt.drink.cranberryjuice=Made of real Cranes!
+    S:gt.drink.cranberrysmoothie=
     S:gt.drink.cream=
     S:gt.drink.currantjuice=Runs electric Currant
+    S:gt.drink.currantsmoothie=
+    S:gt.drink.elderberrysmoothie=
     S:gt.drink.error=Do not drink!
     S:gt.drink.fishoil=
     S:gt.drink.for.honey=蜜蜂们的食物
     S:gt.drink.for.honeydew=甜甜的蜂蜜滴
+    S:gt.drink.fruitsmoothie=
     S:gt.drink.glenmckenner=Don't hand to easily surprised people, they will shatter it.
     S:gt.drink.glue=不要尝试喝它!
     S:gt.drink.goldencarrotjuice=一份液化金胡萝卜
     S:gt.drink.gooseberryjuice=用鹅做的！
+    S:gt.drink.gooseberrysmoothie=
+    S:gt.drink.grapefruitsmoothie=
     S:gt.drink.hempoil=
     S:gt.drink.holywater=让神圣与你同在
     S:gt.drink.honey=蜜蜂们的食物
@@ -1617,11 +1677,15 @@ languagefile {
     S:gt.drink.juice=来自一个水果
     S:gt.drink.ketchup=This Tooltip doesn't make Sans
     S:gt.drink.kiwijuice=用小Kiwi鸟榨出来的汁液！
+    S:gt.drink.kiwismoothie=
+    S:gt.drink.lemonsmoothie=
+    S:gt.drink.limesmoothie=
     S:gt.drink.linoil=
     S:gt.drink.maplesap=May or may not be Canadian
     S:gt.drink.maplesyrup=Etho paused to look at a vintage Beef, and then unpaused
     S:gt.drink.mayo=喝起来和纸板差不多
     S:gt.drink.melonjuice=Yoshis 最爱的果汁
+    S:gt.drink.melonsmoothie=
     S:gt.drink.mercury=Liquid Metal
     S:gt.drink.milk=获得了不明的白色液体哦～
     S:gt.drink.mineralsoda=让你维持健康的最好饮品
@@ -1629,9 +1693,14 @@ languagefile {
     S:gt.drink.nutella=For Germans: It is 'die' Nutella, not 'der' nor 'das'
     S:gt.drink.nutoil=
     S:gt.drink.oliveoil=
+    S:gt.drink.orangesmoothie=
+    S:gt.drink.peachsmoothie=
     S:gt.drink.peanutbutter=This is NUTS!!!
+    S:gt.drink.pearsmoothie=
     S:gt.drink.pineapplejuice=Made of Trees!
+    S:gt.drink.pineapplesmoothie=
     S:gt.drink.pinkslime=史莱姆肉汁！！！
+    S:gt.drink.plumsmoothie=
     S:gt.drink.potatojuice=Ever seen Potato Juice in stores? No? That has a reason.
     S:gt.drink.potion.alcopops=不要让你的孩子喝这种垃圾！
     S:gt.drink.potion.ambrosia=神的食物
@@ -1746,6 +1815,8 @@ languagefile {
     S:gt.drink.potion.wine=Ordinary
     S:gt.drink.rainbowsap=是基情之力，还是膜法? 只是魔法。
     S:gt.drink.raspberryjuice=以多台微型计算机集合而成!
+    S:gt.drink.raspberrysmoothie=
+    S:gt.drink.redgrapesmoothie=
     S:gt.drink.reedwater=I guess this tastes better when fermented
     S:gt.drink.ricevinegar=
     S:gt.drink.ricewater=
@@ -1756,6 +1827,7 @@ languagefile {
     S:gt.drink.soda=普通的二氧化碳水溶物
     S:gt.drink.soymilk=Milk Substitute
     S:gt.drink.strawberryjuice=Where is the Straw for that Berry Juice?
+    S:gt.drink.strawberrysmoothie=
     S:gt.drink.sunfloweroil=
     S:gt.drink.sweettea=How about a Tea Party? In Boston?
     S:gt.drink.tea=Keep calm and carry on
@@ -1763,6 +1835,7 @@ languagefile {
     S:gt.drink.vinegar=
     S:gt.drink.water=这只是普通的一氧化二氢啊……
     S:gt.drink.wheathopsmash=Also known as 'Duff-Lite'
+    S:gt.drink.whitegrapesmoothie=
     S:gt.integrated_circuit.configuration=配置:
     S:gt.integrated_circuit.name=集成电路
     S:gt.lang.accepts.redstoneflux.lossless=可以无损地接收红石通量(RF)
@@ -1813,9 +1886,12 @@ languagefile {
     S:gt.lang.item.input=物品输入
     S:gt.lang.item.output=物品输出
     S:gt.lang.key.controlled=这个方块只能用钥匙开启!
+    S:gt.lang.nogui.funnel.tank=No GUI. Use Tiny Funnels to interact!
+    S:gt.lang.nogui.funnel.tap.tank=No GUI. Use Tiny Funnels and Taps to interact!
     S:gt.lang.nogui.rightclick.interact=没有界面，右键以放入/取出物品！
     S:gt.lang.nogui.rightclick.inventory=没有界面，右键以放入/取出物品！
     S:gt.lang.nogui.rightclick.tank=没有界面，手持流体容器右键进行交互。
+    S:gt.lang.nogui.tap.tank=No GUI. Use Taps to interact!
     S:gt.lang.owner.controlled=这个方块只能被拥有者操作
     S:gt.lang.pipe.stats.bandwidth=流量: 
     S:gt.lang.pipe.stats.capacity=效率: 
@@ -1938,6 +2014,7 @@ languagefile {
     S:gt.lang.tool.tooltip.wrench=右键旋转方块方向，拆除IC2的机器
     S:gt.lang.use.chisel.to.decalcify=使用凿子除去钙化残留物
     S:gt.lang.use.chisel.to.switch.design=使用凿子改变表面纹理图案
+    S:gt.lang.use.crowbar.to.open=Use Crowbar to open this
     S:gt.lang.use.cutter.to.toggle=使用切割工具切换模式
     S:gt.lang.use.magnifyingglass.to.detail=使用放大镜观察细节
     S:gt.lang.use.monkey.wrench.to.set.input.side=使用活动扳手调整输入(探测)面
@@ -3268,6 +3345,7 @@ languagefile {
     S:gt.material.Soulium=灵魂
     S:gt.material.Soulsand=灵魂沙
     S:gt.material.SoylentGreen=绿色绿宝石
+    S:gt.material.SpectreIron=Spectre Iron
     S:gt.material.Sperrylite=砷铂矿
     S:gt.material.Spessartine=锰铝榴石
     S:gt.material.Sphalerite=闪锌矿
@@ -3995,6 +4073,18 @@ languagefile {
     S:gt.metatool.01.171.tooltip=你需要为其充电
     S:gt.metatool.01.18.name=锉刀
     S:gt.metatool.01.18.tooltip=
+    S:gt.metatool.01.180.name=Monkeywrench (LV)
+    S:gt.metatool.01.180.tooltip=Sneak Rightclick to switch to Wrench
+    S:gt.metatool.01.181.name=Monkeywrench (LV) (Empty)
+    S:gt.metatool.01.181.tooltip=You need to recharge it
+    S:gt.metatool.01.182.name=Monkeywrench (MV)
+    S:gt.metatool.01.182.tooltip=Sneak Rightclick to switch to Wrench
+    S:gt.metatool.01.183.name=Monkeywrench (MV) (Empty)
+    S:gt.metatool.01.183.tooltip=You need to recharge it
+    S:gt.metatool.01.184.name=Monkeywrench (HV)
+    S:gt.metatool.01.184.tooltip=Sneak Rightclick to switch to Wrench
+    S:gt.metatool.01.185.name=Monkeywrench (HV) (Empty)
+    S:gt.metatool.01.185.tooltip=You need to recharge it
     S:gt.metatool.01.19.name=锉刀(空)
     S:gt.metatool.01.19.tooltip=你需要为其充电
     S:gt.metatool.01.2.name=镐
@@ -4179,6 +4269,10 @@ languagefile {
     S:gt.multiitem.bottles.103.tooltip=
     S:gt.multiitem.bottles.104.name=Red Wine
     S:gt.multiitem.bottles.104.tooltip=
+    S:gt.multiitem.bottles.105.name=Grape Smoothie
+    S:gt.multiitem.bottles.105.tooltip=
+    S:gt.multiitem.bottles.106.name=Grape Smoothie
+    S:gt.multiitem.bottles.106.tooltip=
     S:gt.multiitem.bottles.1100.name=牛奶
     S:gt.multiitem.bottles.1100.tooltip=你需要牛奶♂吗？
     S:gt.multiitem.bottles.1101.name=鲜奶油
@@ -4221,6 +4315,8 @@ languagefile {
     S:gt.multiitem.bottles.200.tooltip=加点糖就不会那么酸了
     S:gt.multiitem.bottles.2000.name=草莓汁
     S:gt.multiitem.bottles.2000.tooltip=嘿嘿嘿，草莓汁~♂
+    S:gt.multiitem.bottles.2005.name=Strawberry Smoothie
+    S:gt.multiitem.bottles.2005.tooltip=
     S:gt.multiitem.bottles.201.name=柠檬水
     S:gt.multiitem.bottles.201.tooltip=冰冰凉，透心凉！
     S:gt.multiitem.bottles.202.name=柠檬酒
@@ -4229,30 +4325,50 @@ languagefile {
     S:gt.multiitem.bottles.203.tooltip=不要让小孩子喝这种辣鸡饮料!
     S:gt.multiitem.bottles.204.name=Cave Johnson的炸弹柠檬汁
     S:gt.multiitem.bottles.204.tooltip=当生活给你一个柠檬, 我会叫我的秘书叫生活把柠檬带回去！(此处为传送门2的一个梗)
+    S:gt.multiitem.bottles.205.name=Lemon Smoothie
+    S:gt.multiitem.bottles.205.tooltip=
     S:gt.multiitem.bottles.2100.name=香蕉汁
     S:gt.multiitem.bottles.2100.tooltip=又大又多汁的大香蕉
+    S:gt.multiitem.bottles.2105.name=Banana Smoothie
+    S:gt.multiitem.bottles.2105.tooltip=
     S:gt.multiitem.bottles.2201.name=粉色粘液瓶
     S:gt.multiitem.bottles.2201.tooltip=也可以用来做胶水
     S:gt.multiitem.bottles.2300.name=西瓜汁
     S:gt.multiitem.bottles.2300.tooltip=
+    S:gt.multiitem.bottles.2305.name=Melon Smoothie
+    S:gt.multiitem.bottles.2305.tooltip=
     S:gt.multiitem.bottles.2400.name=果汁
     S:gt.multiitem.bottles.2400.tooltip=
+    S:gt.multiitem.bottles.2405.name=Froot Smoothie
+    S:gt.multiitem.bottles.2405.tooltip=
     S:gt.multiitem.bottles.2500.name=猕猴桃汁
     S:gt.multiitem.bottles.2500.tooltip=
+    S:gt.multiitem.bottles.2505.name=Kiwi Smoothie
+    S:gt.multiitem.bottles.2505.tooltip=
     S:gt.multiitem.bottles.2600.name=树莓汁
     S:gt.multiitem.bottles.2600.tooltip=
+    S:gt.multiitem.bottles.2605.name=Raspberry Smoothie
+    S:gt.multiitem.bottles.2605.tooltip=
     S:gt.multiitem.bottles.2700.name=黑莓汁
     S:gt.multiitem.bottles.2700.tooltip=
+    S:gt.multiitem.bottles.2705.name=Blackberry Smoothie
+    S:gt.multiitem.bottles.2705.tooltip=
     S:gt.multiitem.bottles.2800.name=蓝莓汁
     S:gt.multiitem.bottles.2800.tooltip=
+    S:gt.multiitem.bottles.2805.name=Blueberry Smoothie
+    S:gt.multiitem.bottles.2805.tooltip=
     S:gt.multiitem.bottles.2900.name=蔓越桔汁
     S:gt.multiitem.bottles.2900.tooltip=
+    S:gt.multiitem.bottles.2905.name=Cranberry Smoothie
+    S:gt.multiitem.bottles.2905.tooltip=
     S:gt.multiitem.bottles.3.name=含汽矿泉水
     S:gt.multiitem.bottles.3.tooltip=这才是保持健康的最佳饮料！
     S:gt.multiitem.bottles.300.name=土豆汁
     S:gt.multiitem.bottles.300.tooltip=你之前见过商店卖土豆汁吗? 没有? 这一定有什么见不得人的阴谋！
     S:gt.multiitem.bottles.3000.name=鹅莓汁
     S:gt.multiitem.bottles.3000.tooltip=
+    S:gt.multiitem.bottles.3005.name=Gooseberry Smoothie
+    S:gt.multiitem.bottles.3005.tooltip=
     S:gt.multiitem.bottles.301.name=伏特加
     S:gt.multiitem.bottles.301.tooltip=不要和水弄混了！
     S:gt.multiitem.bottles.302.name=列宁柠檬水
@@ -4381,20 +4497,58 @@ languagefile {
     S:gt.multiitem.bottles.3700.tooltip=一瓶基情, 很明显不是一棵树的血
     S:gt.multiitem.bottles.3800.name=樱桃汁
     S:gt.multiitem.bottles.3800.tooltip=
+    S:gt.multiitem.bottles.3805.name=Cherry Smoothie
+    S:gt.multiitem.bottles.3805.tooltip=
     S:gt.multiitem.bottles.3900.name=菠萝汁
     S:gt.multiitem.bottles.3900.tooltip=
+    S:gt.multiitem.bottles.3905.name=Ananas Smoothie
+    S:gt.multiitem.bottles.3905.tooltip=
     S:gt.multiitem.bottles.4.name=冰水
     S:gt.multiitem.bottles.4.tooltip=一杯冰凉的水
     S:gt.multiitem.bottles.400.name=甘蔗汁
     S:gt.multiitem.bottles.400.tooltip=我猜这个比发酵过的好喝
     S:gt.multiitem.bottles.4000.name=Currant Juice
     S:gt.multiitem.bottles.4000.tooltip=
+    S:gt.multiitem.bottles.4005.name=Currant Smoothie
+    S:gt.multiitem.bottles.4005.tooltip=
     S:gt.multiitem.bottles.401.name=朗姆酒
     S:gt.multiitem.bottles.401.tooltip=一瓶朗姆酒
     S:gt.multiitem.bottles.402.name=海盗啤酒
     S:gt.multiitem.bottles.402.tooltip=扬帆起航，我们去Torrentuga!
     S:gt.multiitem.bottles.403.name=甘蔗醋
     S:gt.multiitem.bottles.403.tooltip=
+    S:gt.multiitem.bottles.4100.name=Plum Juice
+    S:gt.multiitem.bottles.4100.tooltip=
+    S:gt.multiitem.bottles.4105.name=Plum Smoothie
+    S:gt.multiitem.bottles.4105.tooltip=
+    S:gt.multiitem.bottles.4200.name=Peach Juice
+    S:gt.multiitem.bottles.4200.tooltip=
+    S:gt.multiitem.bottles.4205.name=Peach Smoothie
+    S:gt.multiitem.bottles.4205.tooltip=
+    S:gt.multiitem.bottles.4300.name=Elderberry Juice
+    S:gt.multiitem.bottles.4300.tooltip=
+    S:gt.multiitem.bottles.4305.name=Elderberry Smoothie
+    S:gt.multiitem.bottles.4305.tooltip=
+    S:gt.multiitem.bottles.4400.name=Grapefruit Juice
+    S:gt.multiitem.bottles.4400.tooltip=
+    S:gt.multiitem.bottles.4405.name=Grapefruit Smoothie
+    S:gt.multiitem.bottles.4405.tooltip=
+    S:gt.multiitem.bottles.4500.name=Lime Juice
+    S:gt.multiitem.bottles.4500.tooltip=
+    S:gt.multiitem.bottles.4505.name=Lime Smoothie
+    S:gt.multiitem.bottles.4505.tooltip=
+    S:gt.multiitem.bottles.4600.name=Orange Juice
+    S:gt.multiitem.bottles.4600.tooltip=
+    S:gt.multiitem.bottles.4605.name=Orange Smoothie
+    S:gt.multiitem.bottles.4605.tooltip=
+    S:gt.multiitem.bottles.4700.name=Apricot Juice
+    S:gt.multiitem.bottles.4700.tooltip=
+    S:gt.multiitem.bottles.4705.name=Apricot Smoothie
+    S:gt.multiitem.bottles.4705.tooltip=
+    S:gt.multiitem.bottles.4800.name=Pear Juice
+    S:gt.multiitem.bottles.4800.tooltip=
+    S:gt.multiitem.bottles.4805.name=Pear Smoothie
+    S:gt.multiitem.bottles.4805.tooltip=
     S:gt.multiitem.bottles.500.name=啤酒花汁
     S:gt.multiitem.bottles.500.tooltip=每一种啤酒，都有一个开端……
     S:gt.multiitem.bottles.501.name=黑啤
@@ -4427,6 +4581,8 @@ languagefile {
     S:gt.multiitem.bottles.901.tooltip=如果你实在想不出什么办法来对付你的苹果，就把它们做成酒吧
     S:gt.multiitem.bottles.902.name=苹果醋
     S:gt.multiitem.bottles.902.tooltip=
+    S:gt.multiitem.bottles.905.name=Apple Smoothie
+    S:gt.multiitem.bottles.905.tooltip=
     S:gt.multiitem.bottles.name=地牢生成物品
     S:gt.multiitem.cans.1.name=迷你食物罐头 (未知)
     S:gt.multiitem.cans.1.tooltip=
@@ -8517,6 +8673,7 @@ languagefile {
     S:oredict.arrowGtPlasticSiltstone.name=轻质粉砂岩箭
     S:oredict.arrowGtPlasticSilver.name=轻质银箭
     S:oredict.arrowGtPlasticSoularium.name=轻质魂金箭
+    S:oredict.arrowGtPlasticSpectreIron.name=Light Spectre Iron Arrow
     S:oredict.arrowGtPlasticSpessartine.name=轻质锰铝榴石箭
     S:oredict.arrowGtPlasticSpinel.name=轻质尖晶石箭
     S:oredict.arrowGtPlasticStainlessSteel.name=轻质不锈钢箭
@@ -8760,6 +8917,7 @@ languagefile {
     S:oredict.arrowGtWoodSiltstone.name=粉砂岩箭
     S:oredict.arrowGtWoodSilver.name=银箭
     S:oredict.arrowGtWoodSoularium.name=魂金箭
+    S:oredict.arrowGtWoodSpectreIron.name=Spectre Iron Arrow
     S:oredict.arrowGtWoodSpessartine.name=锰铝榴石箭
     S:oredict.arrowGtWoodSpinel.name=尖晶石箭
     S:oredict.arrowGtWoodStainlessSteel.name=不锈钢箭
@@ -9122,6 +9280,7 @@ languagefile {
     S:oredict.blockDustDynamite.name=Dynamite粉块
     S:oredict.blockDustDysprosium.name=镝粉块
     S:oredict.blockDustEclogite.name=榴辉岩粉块
+    S:oredict.blockDustEctoplasm.name=Block of Ectoplasm
     S:oredict.blockDustEinsteinium.name=锿粉块
     S:oredict.blockDustElectricalSteel.name=电钢粉块
     S:oredict.blockDustElectrotine.name=蓝石粉块
@@ -9446,6 +9605,7 @@ languagefile {
     S:oredict.blockDustSoularium.name=魂金粉块
     S:oredict.blockDustSoylentGreen.name=绿宝石块
     S:oredict.blockDustSoylentgreen.name=绿宝石块
+    S:oredict.blockDustSpectreIron.name=Block of Spectre Iron Dust
     S:oredict.blockDustSperrylite.name=砷铂矿粉块
     S:oredict.blockDustSpessartine.name=锰铝榴石粉块
     S:oredict.blockDustSphalerite.name=闪锌矿粉块
@@ -10011,6 +10171,7 @@ languagefile {
     S:oredict.blockIngotSoularium.name=魂金锭块
     S:oredict.blockIngotSoylentGreen.name=绿宝石 绿宝石锭块
     S:oredict.blockIngotSoylentgreen.name=绿色绿宝石锭块
+    S:oredict.blockIngotSpectreIron.name=Block of Spectre Iron Ingot
     S:oredict.blockIngotStainlessSteel.name=不锈钢锭块
     S:oredict.blockIngotSteel.name=钢锭块
     S:oredict.blockIngotSteelGalvanized.name=镀锌钢锭块
@@ -10518,6 +10679,7 @@ languagefile {
     S:oredict.blockPlateSilver.name=银板块
     S:oredict.blockPlateSolderingAlloy.name=钎焊合金板块
     S:oredict.blockPlateSoularium.name=魂金板块
+    S:oredict.blockPlateSpectreIron.name=Block of Spectre Iron Plate
     S:oredict.blockPlateStainlessSteel.name=不锈钢板块
     S:oredict.blockPlateSteel.name=钢板块
     S:oredict.blockPlateSteelGalvanized.name=镀锌钢板块
@@ -10923,6 +11085,7 @@ languagefile {
     S:oredict.blockSolidSoularium.name=魂金块
     S:oredict.blockSolidSoylentGreen.name=绿宝石块
     S:oredict.blockSolidSoylentgreen.name=绿宝石块
+    S:oredict.blockSolidSpectreIron.name=Block of solid Spectre Iron
     S:oredict.blockSolidStainlessSteel.name=不锈钢块
     S:oredict.blockSolidSteel.name=钢块
     S:oredict.blockSolidSteelGalvanized.name=镀锌钢块
@@ -11402,6 +11565,7 @@ languagefile {
     S:oredict.boltSodalite.name=Sodalite 螺栓
     S:oredict.boltSolderingAlloy.name=钎焊合金 螺栓
     S:oredict.boltSoularium.name=魂金螺栓
+    S:oredict.boltSpectreIron.name=Spectre Iron Bolt
     S:oredict.boltSpessartine.name=锰铝榴石螺栓
     S:oredict.boltSpinel.name=尖晶石螺丝
     S:oredict.boltStainlessSteel.name=不锈钢螺栓
@@ -11651,6 +11815,7 @@ languagefile {
     S:oredict.casingMachineDenseSignalum.name=致密信素 机械外壳
     S:oredict.casingMachineDenseSilver.name=致密银机械外壳
     S:oredict.casingMachineDenseSoularium.name=致密魂金 机械外壳
+    S:oredict.casingMachineDenseSpectreIron.name=Dense Spectre Iron Machine Casing
     S:oredict.casingMachineDenseStainlessSteel.name=致密不锈钢 机械外壳
     S:oredict.casingMachineDenseSteel.name=致密钢机械外壳
     S:oredict.casingMachineDenseSteelGalvanized.name=致密镀锌钢机械外壳
@@ -11817,6 +11982,7 @@ languagefile {
     S:oredict.casingMachineDoubleSignalum.name=加强信素机械外壳
     S:oredict.casingMachineDoubleSilver.name=加强银机械外壳
     S:oredict.casingMachineDoubleSoularium.name=加强魂金 机械外壳
+    S:oredict.casingMachineDoubleSpectreIron.name=Robust Spectre Iron Machine Casing
     S:oredict.casingMachineDoubleStainlessSteel.name=加强不锈钢 机械外壳
     S:oredict.casingMachineDoubleSteel.name=加强钢机械外壳
     S:oredict.casingMachineDoubleSteelGalvanized.name=加强镀锌钢机械外壳
@@ -12049,6 +12215,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleSignalum.name=高强度信素机械外壳
     S:oredict.casingMachineQuadrupleSilver.name=高强度银机械外壳
     S:oredict.casingMachineQuadrupleSoularium.name=高强度魂金机械外壳
+    S:oredict.casingMachineQuadrupleSpectreIron.name=Reinforced Spectre Iron Machine Casing
     S:oredict.casingMachineQuadrupleStainlessSteel.name=高强度不锈钢机械外壳
     S:oredict.casingMachineQuadrupleSteel.name=高强度钢机械外壳
     S:oredict.casingMachineQuadrupleSteelGalvanized.name=高强度镀锌钢机械外壳
@@ -12101,6 +12268,7 @@ languagefile {
     S:oredict.casingMachineSignalum.name=信素机械外壳
     S:oredict.casingMachineSilver.name=银机械外壳
     S:oredict.casingMachineSoularium.name=魂金机械外壳
+    S:oredict.casingMachineSpectreIron.name=Spectre Iron Machine Casing
     S:oredict.casingMachineStainlessSteel.name=不锈钢机械外壳
     S:oredict.casingMachineSteel.name=钢机械外壳
     S:oredict.casingMachineSteelGalvanized.name=镀锌钢机械外壳
@@ -12347,6 +12515,7 @@ languagefile {
     S:oredict.casingSmallSiltstone.name=粉砂岩外壳
     S:oredict.casingSmallSilver.name=银外壳
     S:oredict.casingSmallSoularium.name=魂金外壳
+    S:oredict.casingSmallSpectreIron.name=Spectre Iron Item Casing
     S:oredict.casingSmallSpessartine.name=锰铝榴石外壳
     S:oredict.casingSmallSpinel.name=尖晶石外壳
     S:oredict.casingSmallStainlessSteel.name=不锈钢外壳
@@ -13279,6 +13448,7 @@ languagefile {
     S:oredict.chemtubeDynamite.name=Dynamite试管
     S:oredict.chemtubeDysprosium.name=镝试管
     S:oredict.chemtubeEclogite.name=榴辉岩试管
+    S:oredict.chemtubeEctoplasm.name=Glass Tube containing Ectoplasm
     S:oredict.chemtubeEinsteinium.name=锿试管
     S:oredict.chemtubeElectricalSteel.name=电钢试管
     S:oredict.chemtubeElectron.name=电子试管
@@ -13665,6 +13835,7 @@ languagefile {
     S:oredict.chemtubeSoulsand.name=Soulsand 试管
     S:oredict.chemtubeSoylentGreen.name=绿宝石试管
     S:oredict.chemtubeSoylentgreen.name=绿宝石试管
+    S:oredict.chemtubeSpectreIron.name=Glass Tube containing Spectre Iron
     S:oredict.chemtubeSperrylite.name=砷铂试管
     S:oredict.chemtubeSpessartine.name=锰铝榴石试管
     S:oredict.chemtubeSphalerite.name=闪锌矿试管
@@ -14322,6 +14493,7 @@ languagefile {
     S:oredict.chunkGtSoularium.name=魂金小块
     S:oredict.chunkGtSoylentGreen.name=绿色绿宝石 小块
     S:oredict.chunkGtSoylentgreen.name=绿色绿宝石小块
+    S:oredict.chunkGtSpectreIron.name=Spectre Iron Chunk
     S:oredict.chunkGtStainlessSteel.name=不锈钢小块
     S:oredict.chunkGtSteel.name=钢小块
     S:oredict.chunkGtSteelGalvanized.name=镀锌钢小块
@@ -14690,6 +14862,7 @@ languagefile {
     S:oredict.crateGtDustDynamite.name=Dynamite粉板条箱
     S:oredict.crateGtDustDysprosium.name=镝粉板条箱
     S:oredict.crateGtDustEclogite.name=榴辉岩粉板条箱
+    S:oredict.crateGtDustEctoplasm.name=Crate of Ectoplasm
     S:oredict.crateGtDustEinsteinium.name=锿粉板条箱
     S:oredict.crateGtDustElectricalSteel.name=电钢粉板条箱
     S:oredict.crateGtDustElectrotine.name=蓝石粉板条箱
@@ -15013,6 +15186,7 @@ languagefile {
     S:oredict.crateGtDustSoularium.name=魂金粉板条箱
     S:oredict.crateGtDustSoylentGreen.name=绿宝石板条箱
     S:oredict.crateGtDustSoylentgreen.name=绿宝石板条箱
+    S:oredict.crateGtDustSpectreIron.name=Crate of Spectre Iron Dust
     S:oredict.crateGtDustSperrylite.name=Sperrylite粉板条箱
     S:oredict.crateGtDustSpessartine.name=锰铝榴石粉板条箱
     S:oredict.crateGtDustSphalerite.name=闪锌矿粉板条箱
@@ -15578,6 +15752,7 @@ languagefile {
     S:oredict.crateGtIngotSoularium.name=魂金锭板条箱
     S:oredict.crateGtIngotSoylentGreen.name=绿宝石锭板条箱
     S:oredict.crateGtIngotSoylentgreen.name=绿宝石锭板条箱
+    S:oredict.crateGtIngotSpectreIron.name=Crate of Spectre Iron Ingot
     S:oredict.crateGtIngotStainlessSteel.name=不锈钢锭板条箱
     S:oredict.crateGtIngotSteel.name=钢锭板条箱
     S:oredict.crateGtIngotSteelGalvanized.name=镀锌钢锭板条箱
@@ -16085,6 +16260,7 @@ languagefile {
     S:oredict.crateGtPlateSilver.name=银板板条箱
     S:oredict.crateGtPlateSolderingAlloy.name=钎焊合金板板条箱
     S:oredict.crateGtPlateSoularium.name=魂金板板条箱
+    S:oredict.crateGtPlateSpectreIron.name=Crate of Spectre Iron Plate
     S:oredict.crateGtPlateStainlessSteel.name=不锈钢板板条箱
     S:oredict.crateGtPlateSteel.name=钢板板条箱
     S:oredict.crateGtPlateSteelGalvanized.name=镀锌钢板板条箱
@@ -19733,6 +19909,7 @@ languagefile {
     S:oredict.dustDiv72Dynamite.name=1/72份Dynamite粉
     S:oredict.dustDiv72Dysprosium.name=1/72份镝粉
     S:oredict.dustDiv72Eclogite.name=1/72份榴辉岩粉
+    S:oredict.dustDiv72Ectoplasm.name=1/72nd of a Pile of Ectoplasm
     S:oredict.dustDiv72Einsteinium.name=1/72份锿粉
     S:oredict.dustDiv72ElectricalSteel.name=1/72份电钢粉
     S:oredict.dustDiv72Electrotine.name=1/72份蓝石粉
@@ -20045,6 +20222,7 @@ languagefile {
     S:oredict.dustDiv72SolderingAlloy.name=1/72份钎焊合金粉
     S:oredict.dustDiv72Soularium.name=1/72份魂金粉
     S:oredict.dustDiv72SoylentGreen.name=1/72份绿宝石
+    S:oredict.dustDiv72SpectreIron.name=1/72nd of a Pile of Spectre Iron Dust
     S:oredict.dustDiv72Sperrylite.name=1/72份砷铂粉
     S:oredict.dustDiv72Spessartine.name=1/72份锰铝榴石粉
     S:oredict.dustDiv72Sphalerite.name=1/72份闪锌矿粉
@@ -20171,6 +20349,7 @@ languagefile {
     S:oredict.dustDynamite.name=锯末炸药粉
     S:oredict.dustDysprosium.name=镝粉
     S:oredict.dustEclogite.name=榴辉岩粉
+    S:oredict.dustEctoplasm.name=Ectoplasm
     S:oredict.dustEinsteinium.name=锿粉
     S:oredict.dustElectricalSteel.name=电钢粉
     S:oredict.dustElectrotine.name=电子粉
@@ -21841,6 +22020,7 @@ languagefile {
     S:oredict.dustSmallDynamite.name=小堆Dynamite粉
     S:oredict.dustSmallDysprosium.name=小堆镝粉
     S:oredict.dustSmallEclogite.name=小堆榴辉岩粉
+    S:oredict.dustSmallEctoplasm.name=Small Pile of Ectoplasm
     S:oredict.dustSmallEinsteinium.name=小堆锿粉
     S:oredict.dustSmallElectricalSteel.name=小堆电钢粉
     S:oredict.dustSmallElectrotine.name=小堆蓝石粉
@@ -22164,6 +22344,7 @@ languagefile {
     S:oredict.dustSmallSoularium.name=小堆魂金粉
     S:oredict.dustSmallSoylentGreen.name=小堆绿宝石
     S:oredict.dustSmallSoylentgreen.name=小堆绿宝石
+    S:oredict.dustSmallSpectreIron.name=Small Pile of Spectre Iron Dust
     S:oredict.dustSmallSperrylite.name=小撮砷铂矿粉
     S:oredict.dustSmallSpessartine.name=小堆锰铝榴石粉
     S:oredict.dustSmallSphalerite.name=小堆闪锌矿粉
@@ -22315,6 +22496,7 @@ languagefile {
     S:oredict.dustSoularium.name=魂金粉
     S:oredict.dustSoylentGreen.name=绿色绿宝石
     S:oredict.dustSoylentgreen.name=绿色绿宝石
+    S:oredict.dustSpectreIron.name=Spectre Iron Dust
     S:oredict.dustSperrylite.name=砷铂矿粉
     S:oredict.dustSpessartine.name=锰铝榴石粉
     S:oredict.dustSphalerite.name=闪锌矿粉
@@ -22655,6 +22837,7 @@ languagefile {
     S:oredict.dustTinyDynamite.name=小撮Dynamite粉
     S:oredict.dustTinyDysprosium.name=小撮Dysprosium粉
     S:oredict.dustTinyEclogite.name=小撮榴辉岩粉
+    S:oredict.dustTinyEctoplasm.name=Tiny Pile of Ectoplasm
     S:oredict.dustTinyEinsteinium.name=小撮锿粉
     S:oredict.dustTinyElectricalSteel.name=小撮电钢粉
     S:oredict.dustTinyElectrotine.name=小撮蓝石粉
@@ -22978,6 +23161,7 @@ languagefile {
     S:oredict.dustTinySoularium.name=小撮魂金粉
     S:oredict.dustTinySoylentGreen.name=小撮绿宝石
     S:oredict.dustTinySoylentgreen.name=小撮绿宝石
+    S:oredict.dustTinySpectreIron.name=Tiny Pile of Spectre Iron Dust
     S:oredict.dustTinySperrylite.name=小撮砷铂矿粉
     S:oredict.dustTinySpessartine.name=小撮锰铝榴石粉
     S:oredict.dustTinySphalerite.name=小撮闪锌矿粉
@@ -23528,6 +23712,7 @@ languagefile {
     S:oredict.foilSilver.name=银箔
     S:oredict.foilSolderingAlloy.name=钎焊合金箔
     S:oredict.foilSoularium.name=魂金箔
+    S:oredict.foilSpectreIron.name=Spectre Iron Foil
     S:oredict.foilStainlessSteel.name=不锈钢箔
     S:oredict.foilSteel.name=钢箔
     S:oredict.foilSteelGalvanized.name=镀锌钢箔
@@ -24007,6 +24192,7 @@ languagefile {
     S:oredict.gearGtSmallSiltstone.name=小型粉砂岩齿轮
     S:oredict.gearGtSmallSilver.name=小型银齿轮
     S:oredict.gearGtSmallSoularium.name=小型魂金齿轮
+    S:oredict.gearGtSmallSpectreIron.name=Small Spectre Iron Gear
     S:oredict.gearGtSmallSpessartine.name=小型锰铝榴石齿轮
     S:oredict.gearGtSmallSpinel.name=小型尖晶石齿轮
     S:oredict.gearGtSmallStainlessSteel.name=小型不锈钢齿轮
@@ -24068,6 +24254,7 @@ languagefile {
     S:oredict.gearGtSmallplatinum.name=小型铂齿轮
     S:oredict.gearGtSmallyellowSapphire.name=小型黄色蓝宝石齿轮
     S:oredict.gearGtSoularium.name=魂金齿轮
+    S:oredict.gearGtSpectreIron.name=Spectre Iron Gear
     S:oredict.gearGtSpessartine.name=锰铝榴石齿轮
     S:oredict.gearGtSpinel.name=尖晶石齿轮
     S:oredict.gearGtStainlessSteel.name=不锈钢齿轮
@@ -24934,6 +25121,7 @@ languagefile {
     S:oredict.ingotDoubleSilver.name=两重银锭
     S:oredict.ingotDoubleSolderingAlloy.name=两重钎焊合金锭
     S:oredict.ingotDoubleSoularium.name=两重魂金锭
+    S:oredict.ingotDoubleSpectreIron.name=Double Spectre Iron Ingot
     S:oredict.ingotDoubleStainlessSteel.name=两重不锈钢锭
     S:oredict.ingotDoubleSteel.name=两重钢锭
     S:oredict.ingotDoubleSteelGalvanized.name=两重镀锌钢锭
@@ -25354,6 +25542,7 @@ languagefile {
     S:oredict.ingotHotSilver.name=热银锭
     S:oredict.ingotHotSolderingAlloy.name=热钎焊合金锭
     S:oredict.ingotHotSoularium.name=热魂金锭
+    S:oredict.ingotHotSpectreIron.name=Hot Spectre Iron Ingot
     S:oredict.ingotHotStainlessSteel.name=热不锈钢锭
     S:oredict.ingotHotSteel.name=热钢锭
     S:oredict.ingotHotSteelGalvanized.name=热镀锌钢锭
@@ -25807,6 +25996,7 @@ languagefile {
     S:oredict.ingotQuadrupleSilver.name=四重银锭
     S:oredict.ingotQuadrupleSolderingAlloy.name=四重钎焊合金锭
     S:oredict.ingotQuadrupleSoularium.name=四重魂金锭
+    S:oredict.ingotQuadrupleSpectreIron.name=Quadruple Spectre Iron Ingot
     S:oredict.ingotQuadrupleStainlessSteel.name=四重不锈钢锭
     S:oredict.ingotQuadrupleSteel.name=四重钢锭
     S:oredict.ingotQuadrupleSteelGalvanized.name=四重镀锌钢锭
@@ -26186,6 +26376,7 @@ languagefile {
     S:oredict.ingotQuintupleSilver.name=五重银锭
     S:oredict.ingotQuintupleSolderingAlloy.name=五重钎焊合金锭
     S:oredict.ingotQuintupleSoularium.name=五重魂金锭
+    S:oredict.ingotQuintupleSpectreIron.name=Quintuple Spectre Iron Ingot
     S:oredict.ingotQuintupleStainlessSteel.name=五重不锈钢锭
     S:oredict.ingotQuintupleSteel.name=五重钢锭
     S:oredict.ingotQuintupleSteelGalvanized.name=五重镀锌钢锭
@@ -26273,6 +26464,7 @@ languagefile {
     S:oredict.ingotSilver.name=银锭
     S:oredict.ingotSolderingAlloy.name=钎焊合金锭
     S:oredict.ingotSoularium.name=魂金锭
+    S:oredict.ingotSpectreIron.name=Spectre Iron Ingot
     S:oredict.ingotStainlessSteel.name=不锈钢锭
     S:oredict.ingotSteel.name=钢锭
     S:oredict.ingotSteelGalvanized.name=镀锌钢锭
@@ -26617,6 +26809,7 @@ languagefile {
     S:oredict.ingotTripleSilver.name=三重银锭
     S:oredict.ingotTripleSolderingAlloy.name=三重钎焊合金锭
     S:oredict.ingotTripleSoularium.name=三重魂金锭
+    S:oredict.ingotTripleSpectreIron.name=Triple Spectre Iron Ingot
     S:oredict.ingotTripleStainlessSteel.name=三重不锈钢锭
     S:oredict.ingotTripleSteel.name=三重钢锭
     S:oredict.ingotTripleSteelGalvanized.name=三重镀锌钢锭
@@ -26885,6 +27078,7 @@ languagefile {
     S:oredict.minecartWheelsSignalum.name=信素Cart Wheels
     S:oredict.minecartWheelsSilver.name=银车轮
     S:oredict.minecartWheelsSoularium.name=魂金车轮
+    S:oredict.minecartWheelsSpectreIron.name=Spectre Iron Cart Wheels
     S:oredict.minecartWheelsStainlessSteel.name=不锈钢车轮
     S:oredict.minecartWheelsSteel.name=Steel车轮
     S:oredict.minecartWheelsSteelGalvanized.name=镀锌钢车轮
@@ -27254,6 +27448,7 @@ languagefile {
     S:oredict.nuggetSoularium.name=魂金粒
     S:oredict.nuggetSoylentGreen.name=绿色绿宝石粒
     S:oredict.nuggetSoylentgreen.name=绿色绿宝石粒
+    S:oredict.nuggetSpectreIron.name=Spectre Iron Nugget
     S:oredict.nuggetStainlessSteel.name=不锈钢粒
     S:oredict.nuggetSteel.name=钢粒
     S:oredict.nuggetSteelGalvanized.name=镀锌钢粒
@@ -35021,6 +35216,7 @@ languagefile {
     S:oredict.plantGtBerryDynamite.name=锯末炸药梅
     S:oredict.plantGtBerryDysprosium.name=镝梅
     S:oredict.plantGtBerryEclogite.name=榴辉岩梅
+    S:oredict.plantGtBerryEctoplasm.name=Ectoplasm Berry
     S:oredict.plantGtBerryEinsteinium.name=锿梅
     S:oredict.plantGtBerryElectricalSteel.name=电钢梅
     S:oredict.plantGtBerryElectrotine.name=电子梅
@@ -35387,6 +35583,7 @@ languagefile {
     S:oredict.plantGtBerrySoularium.name=魂金梅
     S:oredict.plantGtBerrySoylentGreen.name=绿色绿宝石梅
     S:oredict.plantGtBerrySoylentgreen.name=绿色绿宝石梅
+    S:oredict.plantGtBerrySpectreIron.name=Spectre Iron Berry
     S:oredict.plantGtBerrySperrylite.name=砷铂矿梅
     S:oredict.plantGtBerrySpessartine.name=锰铝榴石梅
     S:oredict.plantGtBerrySphalerite.name=闪锌矿梅
@@ -35853,6 +36050,7 @@ languagefile {
     S:oredict.plantGtBlossomDynamite.name=锯末炸药 花
     S:oredict.plantGtBlossomDysprosium.name=镝花
     S:oredict.plantGtBlossomEclogite.name=榴辉岩花
+    S:oredict.plantGtBlossomEctoplasm.name=Ectoplasm Blossom
     S:oredict.plantGtBlossomEinsteinium.name=锿花
     S:oredict.plantGtBlossomElectricalSteel.name=电钢花
     S:oredict.plantGtBlossomElectrotine.name=电子花
@@ -36219,6 +36417,7 @@ languagefile {
     S:oredict.plantGtBlossomSoularium.name=魂金花
     S:oredict.plantGtBlossomSoylentGreen.name=绿色绿宝石 花
     S:oredict.plantGtBlossomSoylentgreen.name=绿色绿宝石花
+    S:oredict.plantGtBlossomSpectreIron.name=Spectre Iron Blossom
     S:oredict.plantGtBlossomSperrylite.name=砷铂花
     S:oredict.plantGtBlossomSpessartine.name=锰铝榴石花
     S:oredict.plantGtBlossomSphalerite.name=闪锌矿花
@@ -36685,6 +36884,7 @@ languagefile {
     S:oredict.plantGtFiberDynamite.name=粗糙的Dynamite 纤维
     S:oredict.plantGtFiberDysprosium.name=粗糙的镝纤维
     S:oredict.plantGtFiberEclogite.name=粗糙的榴辉岩 纤维
+    S:oredict.plantGtFiberEctoplasm.name=Raw Ectoplasm Fiber
     S:oredict.plantGtFiberEinsteinium.name=粗糙的锿纤维
     S:oredict.plantGtFiberElectricalSteel.name=粗糙的电钢纤维
     S:oredict.plantGtFiberElectrotine.name=粗糙的蓝石 纤维
@@ -37051,6 +37251,7 @@ languagefile {
     S:oredict.plantGtFiberSoularium.name=粗糙的魂金纤维
     S:oredict.plantGtFiberSoylentGreen.name=粗糙的绿宝石纤维
     S:oredict.plantGtFiberSoylentgreen.name=粗糙的绿宝石纤维
+    S:oredict.plantGtFiberSpectreIron.name=Raw Spectre Iron Fiber
     S:oredict.plantGtFiberSperrylite.name=粗糙的砷铂矿纤维
     S:oredict.plantGtFiberSpessartine.name=粗糙的锰铝榴石纤维
     S:oredict.plantGtFiberSphalerite.name=粗糙的闪锌矿纤维
@@ -37517,6 +37718,7 @@ languagefile {
     S:oredict.plantGtTwigDynamite.name=锯末炸药细枝
     S:oredict.plantGtTwigDysprosium.name=镝细枝
     S:oredict.plantGtTwigEclogite.name=榴辉岩细枝
+    S:oredict.plantGtTwigEctoplasm.name=Ectoplasm Twig
     S:oredict.plantGtTwigEinsteinium.name=锿细枝
     S:oredict.plantGtTwigElectricalSteel.name=电钢细枝
     S:oredict.plantGtTwigElectrotine.name=电子细枝
@@ -37883,6 +38085,7 @@ languagefile {
     S:oredict.plantGtTwigSoularium.name=魂金细枝
     S:oredict.plantGtTwigSoylentGreen.name=绿色绿宝石细枝
     S:oredict.plantGtTwigSoylentgreen.name=绿色绿宝石细枝
+    S:oredict.plantGtTwigSpectreIron.name=Spectre Iron Twig
     S:oredict.plantGtTwigSperrylite.name=砷铂矿细枝
     S:oredict.plantGtTwigSpessartine.name=锰铝榴石细枝
     S:oredict.plantGtTwigSphalerite.name=闪锌矿细枝
@@ -38349,6 +38552,7 @@ languagefile {
     S:oredict.plantGtWartDynamite.name=锯末炸药疣
     S:oredict.plantGtWartDysprosium.name=镝疣
     S:oredict.plantGtWartEclogite.name=榴辉岩疣
+    S:oredict.plantGtWartEctoplasm.name=Ectoplasm Wart
     S:oredict.plantGtWartEinsteinium.name=锿疣
     S:oredict.plantGtWartElectricalSteel.name=电钢疣
     S:oredict.plantGtWartElectrotine.name=电子疣
@@ -38715,6 +38919,7 @@ languagefile {
     S:oredict.plantGtWartSoularium.name=魂金疣
     S:oredict.plantGtWartSoylentGreen.name=绿色绿宝石疣
     S:oredict.plantGtWartSoylentgreen.name=绿色绿宝石疣
+    S:oredict.plantGtWartSpectreIron.name=Spectre Iron Wart
     S:oredict.plantGtWartSperrylite.name=砷铂矿疣
     S:oredict.plantGtWartSpessartine.name=锰铝榴石疣
     S:oredict.plantGtWartSphalerite.name=闪锌矿疣
@@ -39403,6 +39608,7 @@ languagefile {
     S:oredict.plateCurvedSilver.name=弯曲银板
     S:oredict.plateCurvedSolderingAlloy.name=弯曲钎焊合金板
     S:oredict.plateCurvedSoularium.name=弯曲魂金板
+    S:oredict.plateCurvedSpectreIron.name=Curved Spectre Iron Plate
     S:oredict.plateCurvedStainlessSteel.name=弯曲不锈钢板
     S:oredict.plateCurvedSteel.name=弯曲钢板
     S:oredict.plateCurvedSteelGalvanized.name=弯曲镀锌钢板
@@ -39805,6 +40011,7 @@ languagefile {
     S:oredict.plateDenseSodalite.name=致密方钠石板
     S:oredict.plateDenseSolderingAlloy.name=致密钎焊合金板
     S:oredict.plateDenseSoularium.name=致密魂金板
+    S:oredict.plateDenseSpectreIron.name=Dense Spectre Iron Plate
     S:oredict.plateDenseStainlessSteel.name=致密不锈钢板
     S:oredict.plateDenseSteel.name=致密钢板
     S:oredict.plateDenseSteelGalvanized.name=致密镀锌钢板
@@ -40186,6 +40393,7 @@ languagefile {
     S:oredict.plateDoubleSilver.name=两重银板
     S:oredict.plateDoubleSolderingAlloy.name=两重钎焊合金板
     S:oredict.plateDoubleSoularium.name=两重魂金板
+    S:oredict.plateDoubleSpectreIron.name=Double Spectre Iron Plate
     S:oredict.plateDoubleStainlessSteel.name=两重不锈钢板
     S:oredict.plateDoubleSteel.name=两重钢板
     S:oredict.plateDoubleSteelGalvanized.name=两重镀锌钢板
@@ -40868,6 +41076,7 @@ languagefile {
     S:oredict.plateQuadrupleSilver.name=四重银板
     S:oredict.plateQuadrupleSolderingAlloy.name=四重钎焊合金板
     S:oredict.plateQuadrupleSoularium.name=四重魂金板
+    S:oredict.plateQuadrupleSpectreIron.name=Quadruple Spectre Iron Plate
     S:oredict.plateQuadrupleStainlessSteel.name=四重不锈钢板
     S:oredict.plateQuadrupleSteel.name=四重钢板
     S:oredict.plateQuadrupleSteelGalvanized.name=四重镀锌钢板
@@ -41247,6 +41456,7 @@ languagefile {
     S:oredict.plateQuintupleSilver.name=五重银板
     S:oredict.plateQuintupleSolderingAlloy.name=五重钎焊合金板
     S:oredict.plateQuintupleSoularium.name=五重魂金板
+    S:oredict.plateQuintupleSpectreIron.name=Quintuple Spectre Iron Plate
     S:oredict.plateQuintupleStainlessSteel.name=五重不锈钢板
     S:oredict.plateQuintupleSteel.name=五重钢板
     S:oredict.plateQuintupleSteelGalvanized.name=五重镀锌钢板
@@ -41339,6 +41549,7 @@ languagefile {
     S:oredict.plateSilver.name=银板
     S:oredict.plateSolderingAlloy.name=钎焊合金板
     S:oredict.plateSoularium.name=魂金板
+    S:oredict.plateSpectreIron.name=Spectre Iron Plate
     S:oredict.plateStainlessSteel.name=不锈钢板
     S:oredict.plateSteel.name=钢板
     S:oredict.plateSteelGalvanized.name=镀锌钢板
@@ -41723,6 +41934,7 @@ languagefile {
     S:oredict.plateTinySilver.name=小块银板
     S:oredict.plateTinySolderingAlloy.name=小块钎焊合金板
     S:oredict.plateTinySoularium.name=小撮魂金板
+    S:oredict.plateTinySpectreIron.name=Tiny Spectre Iron Plate
     S:oredict.plateTinyStainlessSteel.name=小块不锈钢板
     S:oredict.plateTinySteel.name=小块钢板
     S:oredict.plateTinySteelGalvanized.name=小撮镀锌钢板
@@ -42121,6 +42333,7 @@ languagefile {
     S:oredict.plateTripleSilver.name=三重银板
     S:oredict.plateTripleSolderingAlloy.name=三重钎焊合金板
     S:oredict.plateTripleSoularium.name=三重魂金板
+    S:oredict.plateTripleSpectreIron.name=Triple Spectre Iron Plate
     S:oredict.plateTripleStainlessSteel.name=三重不锈钢板
     S:oredict.plateTripleSteel.name=三重钢板
     S:oredict.plateTripleSteelGalvanized.name=三重镀锌钢板
@@ -42453,6 +42666,7 @@ languagefile {
     S:oredict.ringSiltstone.name=粉砂岩环
     S:oredict.ringSilver.name=银环
     S:oredict.ringSoularium.name=魂金环
+    S:oredict.ringSpectreIron.name=Spectre Iron Ring
     S:oredict.ringSpessartine.name=锰铝榴石环
     S:oredict.ringSpinel.name=尖晶石 环
     S:oredict.ringStainlessSteel.name=不锈钢环
@@ -42716,6 +42930,7 @@ languagefile {
     S:oredict.rotorSiltstone.name=粉砂岩转子
     S:oredict.rotorSilver.name=银转子
     S:oredict.rotorSoularium.name=魂金转子
+    S:oredict.rotorSpectreIron.name=Spectre Iron Rotor
     S:oredict.rotorSpessartine.name=锰铝榴石转子
     S:oredict.rotorSpinel.name=尖晶石 转子
     S:oredict.rotorStainlessSteel.name=不锈钢转子
@@ -42980,6 +43195,7 @@ languagefile {
     S:oredict.roundSiltstone.name=粉砂岩垫片
     S:oredict.roundSilver.name=银垫片
     S:oredict.roundSoularium.name=魂金垫片
+    S:oredict.roundSpectreIron.name=Spectre Iron Round
     S:oredict.roundSpessartine.name=锰铝榴石垫片
     S:oredict.roundSpinel.name=尖晶石垫片
     S:oredict.roundStainlessSteel.name=不锈钢垫片
@@ -43343,6 +43559,7 @@ languagefile {
     S:oredict.scrapGtDynamite.name=锯末炸药废料
     S:oredict.scrapGtDysprosium.name=镝废料
     S:oredict.scrapGtEclogite.name=榴辉岩废料
+    S:oredict.scrapGtEctoplasm.name=Ectoplasm Scrap
     S:oredict.scrapGtEinsteinium.name=锿废料
     S:oredict.scrapGtElectricalSteel.name=电钢废料
     S:oredict.scrapGtElectrotine.name=电子废料
@@ -43666,6 +43883,7 @@ languagefile {
     S:oredict.scrapGtSoularium.name=魂金废料
     S:oredict.scrapGtSoylentGreen.name=绿色绿宝石废料
     S:oredict.scrapGtSoylentgreen.name=绿色绿宝石废料
+    S:oredict.scrapGtSpectreIron.name=Spectre Iron Scrap
     S:oredict.scrapGtSperrylite.name=砷铂废料
     S:oredict.scrapGtSpessartine.name=锰铝榴石废料
     S:oredict.scrapGtSphalerite.name=闪锌矿废料
@@ -44215,6 +44433,7 @@ languagefile {
     S:oredict.screwSodalite.name=Sodalite 螺丝
     S:oredict.screwSolderingAlloy.name=钎焊合金 螺丝
     S:oredict.screwSoularium.name=魂金螺丝
+    S:oredict.screwSpectreIron.name=Spectre Iron Screw
     S:oredict.screwSpessartine.name=锰铝榴石螺丝
     S:oredict.screwSpinel.name=尖晶石螺丝
     S:oredict.screwStainlessSteel.name=不锈钢螺丝
@@ -44588,6 +44807,7 @@ languagefile {
     S:oredict.springSmallSiltstone.name=小型粉砂岩弹簧
     S:oredict.springSmallSilver.name=小型银弹簧
     S:oredict.springSmallSoularium.name=小型魂金弹簧
+    S:oredict.springSmallSpectreIron.name=Small Spectre Iron Spring
     S:oredict.springSmallStainlessSteel.name=小型不锈钢弹簧
     S:oredict.springSmallSteel.name=小型钢弹簧
     S:oredict.springSmallSteelGalvanized.name=小型镀锌钢弹簧
@@ -44636,6 +44856,7 @@ languagefile {
     S:oredict.springSmalllead.name=小型铅弹簧
     S:oredict.springSmallplatinum.name=小型铂弹簧
     S:oredict.springSoularium.name=魂金弹簧
+    S:oredict.springSpectreIron.name=Spectre Iron Spring
     S:oredict.springStainlessSteel.name=不锈钢弹簧
     S:oredict.springSteel.name=钢弹簧
     S:oredict.springSteelGalvanized.name=镀锌钢弹簧
@@ -45411,6 +45632,7 @@ languagefile {
     S:oredict.stickLongSodalite.name=长方钠石杆
     S:oredict.stickLongSolderingAlloy.name=长钎焊合金杆
     S:oredict.stickLongSoularium.name=长魂金杆
+    S:oredict.stickLongSpectreIron.name=Long Spectre Iron Rod
     S:oredict.stickLongSpessartine.name=长锰铝榴石杆
     S:oredict.stickLongSpinel.name=长尖晶石杆
     S:oredict.stickLongStainlessSteel.name=长不锈钢杆
@@ -45596,6 +45818,7 @@ languagefile {
     S:oredict.stickSodalite.name=方钠石杆
     S:oredict.stickSolderingAlloy.name=钎焊合金杆
     S:oredict.stickSoularium.name=魂金杆
+    S:oredict.stickSpectreIron.name=Spectre Iron Rod
     S:oredict.stickSpessartine.name=锰铝榴石杆
     S:oredict.stickSpinel.name=尖晶石杆
     S:oredict.stickStainlessSteel.name=不锈钢杆
@@ -45859,6 +46082,7 @@ languagefile {
     S:oredict.toolHeadArrowSiltstone.name=粉砂岩箭头
     S:oredict.toolHeadArrowSilver.name=银箭头
     S:oredict.toolHeadArrowSoularium.name=魂金箭头
+    S:oredict.toolHeadArrowSpectreIron.name=Spectre Iron Arrow Head
     S:oredict.toolHeadArrowSpessartine.name=锰铝榴石箭头
     S:oredict.toolHeadArrowSpinel.name=尖晶石箭头
     S:oredict.toolHeadArrowStainlessSteel.name=不锈钢箭头
@@ -46151,6 +46375,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleSiltstone.name=粉砂岩双刃斧头
     S:oredict.toolHeadAxeDoubleSilver.name=银双刃斧头
     S:oredict.toolHeadAxeDoubleSoularium.name=魂金双刃斧头
+    S:oredict.toolHeadAxeDoubleSpectreIron.name=Spectre Iron Double Axe Head
     S:oredict.toolHeadAxeDoubleSpessartine.name=锰铝榴石双刃斧头
     S:oredict.toolHeadAxeDoubleSpinel.name=尖晶石双刃斧头
     S:oredict.toolHeadAxeDoubleStainlessSteel.name=不锈钢双刃斧头
@@ -46318,6 +46543,7 @@ languagefile {
     S:oredict.toolHeadAxeSiltstone.name=粉砂岩斧头
     S:oredict.toolHeadAxeSilver.name=银斧头
     S:oredict.toolHeadAxeSoularium.name=魂金斧头
+    S:oredict.toolHeadAxeSpectreIron.name=Spectre Iron Axe Head
     S:oredict.toolHeadAxeSpessartine.name=锰铝榴石斧头
     S:oredict.toolHeadAxeSpinel.name=尖晶石斧头
     S:oredict.toolHeadAxeStainlessSteel.name=不锈钢斧头
@@ -46538,6 +46764,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawSiltstone.name=粉砂岩圆锯片
     S:oredict.toolHeadBuzzSawSilver.name=银圆锯片
     S:oredict.toolHeadBuzzSawSoularium.name=魂金圆锯片
+    S:oredict.toolHeadBuzzSawSpectreIron.name=Spectre Iron Buzzsaw Blade
     S:oredict.toolHeadBuzzSawSpessartine.name=锰铝榴石圆锯片
     S:oredict.toolHeadBuzzSawSpinel.name=尖晶石圆锯片
     S:oredict.toolHeadBuzzSawStainlessSteel.name=不锈钢圆锯片
@@ -46752,6 +46979,7 @@ languagefile {
     S:oredict.toolHeadChainsawSiltstone.name=粉砂岩电锯头
     S:oredict.toolHeadChainsawSilver.name=银电锯头
     S:oredict.toolHeadChainsawSoularium.name=魂金电锯头
+    S:oredict.toolHeadChainsawSpectreIron.name=Spectre Iron Chainsaw Tip
     S:oredict.toolHeadChainsawSpessartine.name=锰铝榴石电锯头
     S:oredict.toolHeadChainsawSpinel.name=尖晶石电锯头
     S:oredict.toolHeadChainsawStainlessSteel.name=不锈钢电锯头
@@ -46966,6 +47194,7 @@ languagefile {
     S:oredict.toolHeadChiselSiltstone.name=粉砂岩凿子头
     S:oredict.toolHeadChiselSilver.name=银凿子头
     S:oredict.toolHeadChiselSoularium.name=魂金凿子头
+    S:oredict.toolHeadChiselSpectreIron.name=Spectre Iron Chisel Head
     S:oredict.toolHeadChiselSpessartine.name=锰铝榴石凿子头
     S:oredict.toolHeadChiselSpinel.name=尖晶石凿子头
     S:oredict.toolHeadChiselStainlessSteel.name=不锈钢凿子头
@@ -47183,6 +47412,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeSiltstone.name=粉砂岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeSilver.name=银建筑镐头
     S:oredict.toolHeadConstructionPickaxeSoularium.name=魂金建筑镐头
+    S:oredict.toolHeadConstructionPickaxeSpectreIron.name=Spectre Iron Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeSpessartine.name=锰铝榴石建筑镐头
     S:oredict.toolHeadConstructionPickaxeSpinel.name=尖晶石建筑镐头
     S:oredict.toolHeadConstructionPickaxeStainlessSteel.name=不锈钢建筑镐头
@@ -47398,6 +47628,7 @@ languagefile {
     S:oredict.toolHeadDrillSiltstone.name=粉砂岩钻头
     S:oredict.toolHeadDrillSilver.name=银钻头
     S:oredict.toolHeadDrillSoularium.name=魂金钻头
+    S:oredict.toolHeadDrillSpectreIron.name=Spectre Iron Drill Tip
     S:oredict.toolHeadDrillSpessartine.name=锰铝榴石钻头
     S:oredict.toolHeadDrillSpinel.name=尖晶石钻头
     S:oredict.toolHeadDrillStainlessSteel.name=不锈钢钻头
@@ -47612,6 +47843,7 @@ languagefile {
     S:oredict.toolHeadFileSiltstone.name=粉砂岩锉刀头
     S:oredict.toolHeadFileSilver.name=银锉刀头
     S:oredict.toolHeadFileSoularium.name=魂金锉刀头
+    S:oredict.toolHeadFileSpectreIron.name=Spectre Iron File Head
     S:oredict.toolHeadFileSpessartine.name=锰铝榴石锉刀头
     S:oredict.toolHeadFileSpinel.name=尖晶石锉刀头
     S:oredict.toolHeadFileStainlessSteel.name=不锈钢锉刀头
@@ -47838,6 +48070,7 @@ languagefile {
     S:oredict.toolHeadHammerShadowSteel.name=暗影钢锤头
     S:oredict.toolHeadHammerSilver.name=银锤头
     S:oredict.toolHeadHammerSoularium.name=魂金锤头
+    S:oredict.toolHeadHammerSpectreIron.name=Spectre Iron Hammer Head
     S:oredict.toolHeadHammerSpessartine.name=锰铝榴石锤头
     S:oredict.toolHeadHammerSpinel.name=尖晶石锤头
     S:oredict.toolHeadHammerStainlessSteel.name=不锈钢锤头
@@ -48078,6 +48311,7 @@ languagefile {
     S:oredict.toolHeadHoeSiltstone.name=粉砂岩锄头
     S:oredict.toolHeadHoeSilver.name=银锄头
     S:oredict.toolHeadHoeSoularium.name=魂金锄头
+    S:oredict.toolHeadHoeSpectreIron.name=Spectre Iron Hoe Head
     S:oredict.toolHeadHoeSpessartine.name=锰铝榴石锄头
     S:oredict.toolHeadHoeSpinel.name=尖晶石锄头
     S:oredict.toolHeadHoeStainlessSteel.name=不锈钢锄头
@@ -48318,6 +48552,7 @@ languagefile {
     S:oredict.toolHeadPickaxeSiltstone.name=粉砂岩镐头
     S:oredict.toolHeadPickaxeSilver.name=银镐头
     S:oredict.toolHeadPickaxeSoularium.name=魂金镐头
+    S:oredict.toolHeadPickaxeSpectreIron.name=Spectre Iron Pickaxe Head
     S:oredict.toolHeadPickaxeSpessartine.name=锰铝榴石镐头
     S:oredict.toolHeadPickaxeSpinel.name=尖晶石镐头
     S:oredict.toolHeadPickaxeStainlessSteel.name=不锈钢镐头
@@ -48558,6 +48793,7 @@ languagefile {
     S:oredict.toolHeadPlowSiltstone.name=粉砂岩犁头
     S:oredict.toolHeadPlowSilver.name=银犁头
     S:oredict.toolHeadPlowSoularium.name=魂金犁头
+    S:oredict.toolHeadPlowSpectreIron.name=Spectre Iron Plow Head
     S:oredict.toolHeadPlowSpessartine.name=锰铝榴石犁头
     S:oredict.toolHeadPlowSpinel.name=尖晶石犁头
     S:oredict.toolHeadPlowStainlessSteel.name=不锈钢犁头
@@ -48798,6 +49034,7 @@ languagefile {
     S:oredict.toolHeadRawArrowSiltstone.name=粗糙的粉砂岩箭头
     S:oredict.toolHeadRawArrowSilver.name=粗糙的银箭头
     S:oredict.toolHeadRawArrowSoularium.name=粗糙的魂金箭头
+    S:oredict.toolHeadRawArrowSpectreIron.name=Raw Spectre Iron Arrow Head
     S:oredict.toolHeadRawArrowSpessartine.name=粗糙的锰铝榴石箭头
     S:oredict.toolHeadRawArrowSpinel.name=粗糙的尖晶石箭头
     S:oredict.toolHeadRawArrowStainlessSteel.name=粗糙的不锈钢箭头
@@ -49090,6 +49327,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleSiltstone.name=粗糙的粉砂岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleSilver.name=粗糙的银双刃斧头
     S:oredict.toolHeadRawAxeDoubleSoularium.name=粗糙的魂金双刃斧头
+    S:oredict.toolHeadRawAxeDoubleSpectreIron.name=Raw Spectre Iron Double Axe Head
     S:oredict.toolHeadRawAxeDoubleSpessartine.name=粗糙的锰铝榴石双刃斧头
     S:oredict.toolHeadRawAxeDoubleSpinel.name=粗糙的尖晶石双刃斧头
     S:oredict.toolHeadRawAxeDoubleStainlessSteel.name=粗糙的不锈钢双刃斧头
@@ -49257,6 +49495,7 @@ languagefile {
     S:oredict.toolHeadRawAxeSiltstone.name=粗糙的粉砂岩斧头
     S:oredict.toolHeadRawAxeSilver.name=粗糙的银斧头
     S:oredict.toolHeadRawAxeSoularium.name=粗糙的魂金斧头
+    S:oredict.toolHeadRawAxeSpectreIron.name=Raw Spectre Iron Axe Head
     S:oredict.toolHeadRawAxeSpessartine.name=粗糙的锰铝榴石斧头
     S:oredict.toolHeadRawAxeSpinel.name=粗糙的尖晶石斧头
     S:oredict.toolHeadRawAxeStainlessSteel.name=粗糙的不锈钢斧头
@@ -49477,6 +49716,7 @@ languagefile {
     S:oredict.toolHeadRawChiselSiltstone.name=粗糙的粉砂岩凿子头
     S:oredict.toolHeadRawChiselSilver.name=粗糙的银凿子头
     S:oredict.toolHeadRawChiselSoularium.name=粗糙的魂金凿子头
+    S:oredict.toolHeadRawChiselSpectreIron.name=Raw Spectre Iron Chisel Head
     S:oredict.toolHeadRawChiselSpessartine.name=粗糙的锰铝榴石凿子头
     S:oredict.toolHeadRawChiselSpinel.name=粗糙的尖晶石凿子头
     S:oredict.toolHeadRawChiselStainlessSteel.name=粗糙的不锈钢凿子头
@@ -49711,6 +49951,7 @@ languagefile {
     S:oredict.toolHeadRawHoeSiltstone.name=粗糙的粉砂岩锄头
     S:oredict.toolHeadRawHoeSilver.name=粗糙的银锄头
     S:oredict.toolHeadRawHoeSoularium.name=粗糙的魂金锄头
+    S:oredict.toolHeadRawHoeSpectreIron.name=Raw Spectre Iron Hoe Head
     S:oredict.toolHeadRawHoeSpessartine.name=粗糙的锰铝榴石锄头
     S:oredict.toolHeadRawHoeSpinel.name=粗糙的尖晶石锄头
     S:oredict.toolHeadRawHoeStainlessSteel.name=粗糙的不锈钢锄头
@@ -49951,6 +50192,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeSiltstone.name=粗糙的粉砂岩镐头
     S:oredict.toolHeadRawPickaxeSilver.name=粗糙的银镐头
     S:oredict.toolHeadRawPickaxeSoularium.name=粗糙的魂金镐头
+    S:oredict.toolHeadRawPickaxeSpectreIron.name=Raw Spectre Iron Pickaxe Head
     S:oredict.toolHeadRawPickaxeSpessartine.name=粗糙的锰铝榴石镐头
     S:oredict.toolHeadRawPickaxeSpinel.name=粗糙的尖晶石镐头
     S:oredict.toolHeadRawPickaxeStainlessSteel.name=粗糙的不锈钢镐头
@@ -50191,6 +50433,7 @@ languagefile {
     S:oredict.toolHeadRawPlowSiltstone.name=粗糙的粉砂岩犁头
     S:oredict.toolHeadRawPlowSilver.name=粗糙的银犁头
     S:oredict.toolHeadRawPlowSoularium.name=粗糙的魂金犁头
+    S:oredict.toolHeadRawPlowSpectreIron.name=Raw Spectre Iron Plow Head
     S:oredict.toolHeadRawPlowSpessartine.name=粗糙的锰铝榴石犁头
     S:oredict.toolHeadRawPlowSpinel.name=粗糙的尖晶石犁头
     S:oredict.toolHeadRawPlowStainlessSteel.name=粗糙的不锈钢犁头
@@ -50411,6 +50654,7 @@ languagefile {
     S:oredict.toolHeadRawSawSiltstone.name=粗糙的粉砂岩圆锯片
     S:oredict.toolHeadRawSawSilver.name=粗糙的银锯片
     S:oredict.toolHeadRawSawSoularium.name=粗糙的魂金圆锯片
+    S:oredict.toolHeadRawSawSpectreIron.name=Raw Spectre Iron Saw Blade
     S:oredict.toolHeadRawSawSpessartine.name=粗糙的锰铝榴石圆锯片
     S:oredict.toolHeadRawSawSpinel.name=粗糙的尖晶石锯片
     S:oredict.toolHeadRawSawStainlessSteel.name=粗糙的不锈钢锯片
@@ -50645,6 +50889,7 @@ languagefile {
     S:oredict.toolHeadRawSenseSiltstone.name=粗糙的粉砂岩镰刀片
     S:oredict.toolHeadRawSenseSilver.name=粗糙的银镰刀片
     S:oredict.toolHeadRawSenseSoularium.name=粗糙的魂金镰刀片
+    S:oredict.toolHeadRawSenseSpectreIron.name=Raw Spectre Iron Sense Blade
     S:oredict.toolHeadRawSenseSpessartine.name=粗糙的锰铝榴石镰刀片
     S:oredict.toolHeadRawSenseSpinel.name=粗糙的尖晶石镰刀片
     S:oredict.toolHeadRawSenseStainlessSteel.name=粗糙的不锈钢镰刀片
@@ -50885,6 +51130,7 @@ languagefile {
     S:oredict.toolHeadRawShovelSiltstone.name=粗糙的粉砂岩锹头
     S:oredict.toolHeadRawShovelSilver.name=粗糙的银锹头
     S:oredict.toolHeadRawShovelSoularium.name=粗糙的魂金锹头
+    S:oredict.toolHeadRawShovelSpectreIron.name=Raw Spectre Iron Shovel Head
     S:oredict.toolHeadRawShovelSpessartine.name=粗糙的锰铝榴石锹头
     S:oredict.toolHeadRawShovelSpinel.name=粗糙的尖晶石锹头
     S:oredict.toolHeadRawShovelStainlessSteel.name=粗糙的不锈钢锹头
@@ -51125,6 +51371,7 @@ languagefile {
     S:oredict.toolHeadRawSwordSiltstone.name=粗糙的粉砂岩剑身
     S:oredict.toolHeadRawSwordSilver.name=粗糙的银剑身
     S:oredict.toolHeadRawSwordSoularium.name=粗糙的魂金剑身
+    S:oredict.toolHeadRawSwordSpectreIron.name=Raw Spectre Iron Sword Blade
     S:oredict.toolHeadRawSwordSpessartine.name=粗糙的锰铝榴石剑身
     S:oredict.toolHeadRawSwordSpinel.name=粗糙的尖晶石剑身
     S:oredict.toolHeadRawSwordStainlessSteel.name=粗糙的不锈钢剑身
@@ -51345,6 +51592,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeSiltstone.name=粗糙的粉砂岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeSilver.name=粗糙的银万用铲头
     S:oredict.toolHeadRawUniversalSpadeSoularium.name=粗糙的魂金万用铲头
+    S:oredict.toolHeadRawUniversalSpadeSpectreIron.name=Raw Spectre Iron Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeSpessartine.name=粗糙的锰铝榴石万用铲头
     S:oredict.toolHeadRawUniversalSpadeSpinel.name=粗糙的尖晶石万用铲头
     S:oredict.toolHeadRawUniversalSpadeStainlessSteel.name=粗糙的不锈钢万用铲头
@@ -51558,6 +51806,7 @@ languagefile {
     S:oredict.toolHeadSawSiltstone.name=粉砂岩锯片
     S:oredict.toolHeadSawSilver.name=银锯片
     S:oredict.toolHeadSawSoularium.name=魂金锯片
+    S:oredict.toolHeadSawSpectreIron.name=Spectre Iron Saw Blade
     S:oredict.toolHeadSawSpessartine.name=锰铝榴石锯片
     S:oredict.toolHeadSawSpinel.name=尖晶石锯片
     S:oredict.toolHeadSawStainlessSteel.name=不锈钢锯片
@@ -51775,6 +52024,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverSiltstone.name=粉砂岩螺丝刀头
     S:oredict.toolHeadScrewdriverSilver.name=银螺丝刀头
     S:oredict.toolHeadScrewdriverSoularium.name=魂金螺丝刀头
+    S:oredict.toolHeadScrewdriverSpectreIron.name=Spectre Iron Screwdriver Tip
     S:oredict.toolHeadScrewdriverSpessartine.name=锰铝榴石螺丝刀头
     S:oredict.toolHeadScrewdriverSpinel.name=尖晶石螺丝刀头
     S:oredict.toolHeadScrewdriverStainlessSteel.name=不锈钢螺丝刀头
@@ -52010,6 +52260,7 @@ languagefile {
     S:oredict.toolHeadSenseSiltstone.name=粉砂岩镰刀片
     S:oredict.toolHeadSenseSilver.name=银镰刀片
     S:oredict.toolHeadSenseSoularium.name=魂金镰刀片
+    S:oredict.toolHeadSenseSpectreIron.name=Spectre Iron Sense Blade
     S:oredict.toolHeadSenseSpessartine.name=锰铝榴石镰刀片
     S:oredict.toolHeadSenseSpinel.name=尖晶石镰刀片
     S:oredict.toolHeadSenseStainlessSteel.name=不锈钢镰刀片
@@ -52250,6 +52501,7 @@ languagefile {
     S:oredict.toolHeadShovelSiltstone.name=粉砂岩锹头
     S:oredict.toolHeadShovelSilver.name=银锹头
     S:oredict.toolHeadShovelSoularium.name=魂金锹头
+    S:oredict.toolHeadShovelSpectreIron.name=Spectre Iron Shovel Head
     S:oredict.toolHeadShovelSpessartine.name=锰铝榴石锹头
     S:oredict.toolHeadShovelSpinel.name=尖晶石锹头
     S:oredict.toolHeadShovelStainlessSteel.name=不锈钢锹头
@@ -52490,6 +52742,7 @@ languagefile {
     S:oredict.toolHeadSwordSiltstone.name=粉砂岩剑身
     S:oredict.toolHeadSwordSilver.name=银剑身
     S:oredict.toolHeadSwordSoularium.name=魂金剑身
+    S:oredict.toolHeadSwordSpectreIron.name=Spectre Iron Sword Blade
     S:oredict.toolHeadSwordSpessartine.name=锰铝榴石剑身
     S:oredict.toolHeadSwordSpinel.name=尖晶石剑身
     S:oredict.toolHeadSwordStainlessSteel.name=不锈钢剑身
@@ -52710,6 +52963,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeSiltstone.name=粉砂岩万用铲头
     S:oredict.toolHeadUniversalSpadeSilver.name=银万用铲头
     S:oredict.toolHeadUniversalSpadeSoularium.name=魂金万用铲头
+    S:oredict.toolHeadUniversalSpadeSpectreIron.name=Spectre Iron Universal Spade Head
     S:oredict.toolHeadUniversalSpadeSpessartine.name=锰铝榴石万用铲头
     S:oredict.toolHeadUniversalSpadeSpinel.name=尖晶石万用铲头
     S:oredict.toolHeadUniversalSpadeStainlessSteel.name=不锈钢万用铲头
@@ -52924,6 +53178,7 @@ languagefile {
     S:oredict.toolHeadWrenchSiltstone.name=粉砂岩扳手头
     S:oredict.toolHeadWrenchSilver.name=银扳手头
     S:oredict.toolHeadWrenchSoularium.name=魂金扳手头
+    S:oredict.toolHeadWrenchSpectreIron.name=Spectre Iron Wrench Tip
     S:oredict.toolHeadWrenchSpessartine.name=锰铝榴石扳手头
     S:oredict.toolHeadWrenchSpinel.name=尖晶石扳手头
     S:oredict.toolHeadWrenchStainlessSteel.name=不锈钢扳手头
@@ -53101,6 +53356,7 @@ languagefile {
     S:oredict.wireFineSilver.name=优良银线缆
     S:oredict.wireFineSolderingAlloy.name=优良钎焊合金线缆
     S:oredict.wireFineSoularium.name=优良魂金线缆
+    S:oredict.wireFineSpectreIron.name=Fine Spectre Iron Wire
     S:oredict.wireFineStainlessSteel.name=优良不锈钢线缆
     S:oredict.wireFineSteel.name=优良钢线缆
     S:oredict.wireFineSteelGalvanized.name=优良镀锌钢线缆
