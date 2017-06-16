@@ -8511,7 +8511,7 @@ languagefile {
     S:itemGroup.cell=单元
     S:itemGroup.cellPlasma=离子单元
     S:itemGroup.chemtube=试管
-    S:itemGroup.chunkGt=Chunks
+    S:itemGroup.chunkGt=小块矿物
     S:itemGroup.crateGtDust=板条箱:粉末
     S:itemGroup.crateGtGem=板条箱:宝石
     S:itemGroup.crateGtIngot=板条箱:锭
@@ -8523,13 +8523,13 @@ languagefile {
     S:itemGroup.crushedPurified=纯净矿石
     S:itemGroup.crushedPurifiedTiny=纯净小撮矿石
     S:itemGroup.crushedTiny=粉碎小撮矿石
-    S:itemGroup.dust=粉
+    S:itemGroup.dust=矿粉
     S:itemGroup.dustDiv72=七十二分之一小撮粉末
     S:itemGroup.dustImpure=含杂粉末
     S:itemGroup.dustPure=纯净粉末
     S:itemGroup.dustSmall=小堆粉末
     S:itemGroup.dustTiny=小撮粉末
-    S:itemGroup.foil=Foils
+    S:itemGroup.foil=箔
     S:itemGroup.gearGt=齿轮
     S:itemGroup.gearGtSmall=小型齿轮
     S:itemGroup.gem=宝石原石
@@ -8603,7 +8603,7 @@ languagefile {
     S:itemGroup.ingotTriple=3x锭
     S:itemGroup.lens=透镜
     S:itemGroup.minecartWheels=车轮
-    S:itemGroup.nugget=小块
+    S:itemGroup.nugget=粒
     S:itemGroup.ore=矿石
     S:itemGroup.oreBasalt=玄武岩矿石
     S:itemGroup.oreBedrock=基岩矿石
@@ -8669,7 +8669,7 @@ languagefile {
     S:itemGroup.toolHeadRawSaw=粗糙的锯刃
     S:itemGroup.toolHeadRawSense=粗糙的大镰刀刀刃
     S:itemGroup.toolHeadRawShovel=粗糙的铲头
-    S:itemGroup.toolHeadRawSpade=粗糙的尖头铲头s
+    S:itemGroup.toolHeadRawSpade=粗糙的尖头铲头
     S:itemGroup.toolHeadRawSword=粗糙的剑刃
     S:itemGroup.toolHeadRawUniversalSpade=粗糙的万用铲头
     S:itemGroup.toolHeadSaw=锯刃
