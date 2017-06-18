@@ -7,6 +7,8 @@ Gregtech6汉化
 I'm so buzy these days, so i may update it after I've done all works >_<
 ## 机器的汉化来自空集
 
+## 感谢Tanimodori的更新与对一堆奇葩问题的修复
+
 ## Current Works:
   - Translate all english description into Chinese
   - Make the translations make sense
