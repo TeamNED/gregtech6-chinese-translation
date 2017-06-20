@@ -616,7 +616,7 @@ languagefile {
     S:fluid.potion.wheatyjuice=小麦汁
     S:fluid.potion.wine=葡萄酒
     S:fluid.propane=丙烷
-    S:fluid.pumpkinjuice=Pumpkin Juice
+    S:fluid.pumpkinjuice=南瓜汁
     S:fluid.purpledrink=Purple Drink
     S:fluid.radon=氡
     S:fluid.rainbowsap=彩虹树汁
@@ -3203,7 +3203,7 @@ languagefile {
     S:gt.material.Lodestone=天然磁石
     S:gt.material.Lonsdaleite=六方碳
     S:gt.material.Lubricant=润滑剂
-    S:gt.material.Ludicrite=纯Ludicrite
+    S:gt.material.Ludicrite=纯镥
     S:gt.material.Luminite=流明
     S:gt.material.Lumium=流明
     S:gt.material.Lutetium=镥
@@ -4374,7 +4374,7 @@ languagefile {
     S:gt.multiitem.bottles.1004.tooltip=
     S:gt.multiitem.bottles.1005.name=亚麻籽油
     S:gt.multiitem.bottles.1005.tooltip=
-    S:gt.multiitem.bottles.1006.name=Fish Oil
+    S:gt.multiitem.bottles.1006.name=鱼油
     S:gt.multiitem.bottles.1006.tooltip=
     S:gt.multiitem.bottles.101.name=葡萄酒
     S:gt.multiitem.bottles.101.tooltip=日常饮料
@@ -4668,7 +4668,7 @@ languagefile {
     S:gt.multiitem.bottles.4800.tooltip=
     S:gt.multiitem.bottles.4805.name=梨冰沙
     S:gt.multiitem.bottles.4805.tooltip=
-    S:gt.multiitem.bottles.4900.name=Pumpkin Juice
+    S:gt.multiitem.bottles.4900.name=南瓜汁
     S:gt.multiitem.bottles.4900.tooltip=
     S:gt.multiitem.bottles.500.name=啤酒花汁
     S:gt.multiitem.bottles.500.tooltip=每一种啤酒，都有一个开端……
@@ -9594,7 +9594,7 @@ languagefile {
     S:oredict.blockDustLiveRoot.name=活根粉块
     S:oredict.blockDustLivermorium.name=鉝粉块
     S:oredict.blockDustLonsdaleite.name=六方碳粉块
-    S:oredict.blockDustLudicrite.name=Ludicrite粉块
+    S:oredict.blockDustLudicrite.name=纯镥粉块
     S:oredict.blockDustLumium.name=流明粉块
     S:oredict.blockDustLutetium.name=镥粉块
     S:oredict.blockDustMagenta.name=品红染料块
@@ -10230,7 +10230,7 @@ languagefile {
     S:oredict.blockIngotLead.name=铅锭块
     S:oredict.blockIngotLemurite.name=利莫里亚锭块
     S:oredict.blockIngotLivermorium.name=鉝锭块
-    S:oredict.blockIngotLudicrite.name=Ludicrite锭块
+    S:oredict.blockIngotLudicrite.name=纯镥锭块
     S:oredict.blockIngotLumium.name=流明锭块
     S:oredict.blockIngotLutetium.name=镥锭块
     S:oredict.blockIngotMagnalium.name=镁铝合金锭块
@@ -10722,7 +10722,7 @@ languagefile {
     S:oredict.blockPlateLemurite.name=利莫里亚板块
     S:oredict.blockPlateLimestone.name=石灰石板块
     S:oredict.blockPlateLivermorium.name=鉝板块
-    S:oredict.blockPlateLudicrite.name=Ludicrite板块
+    S:oredict.blockPlateLudicrite.name=纯镥板块
     S:oredict.blockPlateLumium.name=流明板块
     S:oredict.blockPlateLutetium.name=镥板块
     S:oredict.blockPlateMagic.name=魔法板块
@@ -11121,7 +11121,7 @@ languagefile {
     S:oredict.blockSolidLead.name=铅块
     S:oredict.blockSolidLemurite.name=利莫里亚块
     S:oredict.blockSolidLivermorium.name=鉝块
-    S:oredict.blockSolidLudicrite.name=Ludicrite块
+    S:oredict.blockSolidLudicrite.name=纯镥块
     S:oredict.blockSolidLumium.name=流明块
     S:oredict.blockSolidLutetium.name=镥块
     S:oredict.blockSolidMagnalium.name=镁铝合金块
@@ -11573,7 +11573,7 @@ languagefile {
     S:oredict.boltLimestone.name=石灰石螺栓
     S:oredict.boltLivermorium.name=鉝螺栓
     S:oredict.boltLonsdaleite.name=Lonsdaleite螺栓
-    S:oredict.boltLudicrite.name=Ludicrite螺栓
+    S:oredict.boltLudicrite.name=纯镥螺栓
     S:oredict.boltLumium.name=流明螺栓
     S:oredict.boltLutetium.name=Lutetium螺栓
     S:oredict.boltMagic.name=魔法螺栓
@@ -13673,7 +13673,7 @@ languagefile {
     S:oredict.chemtubeLivermorium.name=鉝试管
     S:oredict.chemtubeLonsdaleite.name=六方碳试管
     S:oredict.chemtubeLubricant.name=润滑剂试管
-    S:oredict.chemtubeLudicrite.name=Ludicrite试管
+    S:oredict.chemtubeLudicrite.name=纯镥试管
     S:oredict.chemtubeLumium.name=流明试管
     S:oredict.chemtubeLutetium.name=镥试管
     S:oredict.chemtubeMacGuffium.name=乌有岩试管
@@ -14428,7 +14428,7 @@ languagefile {
     S:oredict.chunkGtLead.name=铅小块
     S:oredict.chunkGtLemurite.name=利莫里亚小块
     S:oredict.chunkGtLivermorium.name=鉝小块
-    S:oredict.chunkGtLudicrite.name=Ludicrite小块
+    S:oredict.chunkGtLudicrite.name=纯镥小块
     S:oredict.chunkGtLumium.name=流明小块
     S:oredict.chunkGtLutetium.name=镥小块
     S:oredict.chunkGtMagnalium.name=镁铝合金小块
@@ -15013,7 +15013,7 @@ languagefile {
     S:oredict.crateGtDustLiveRoot.name=活根粉板条箱
     S:oredict.crateGtDustLivermorium.name=鉝粉板条箱
     S:oredict.crateGtDustLonsdaleite.name=六方碳粉板条箱
-    S:oredict.crateGtDustLudicrite.name=Ludicrite粉板条箱
+    S:oredict.crateGtDustLudicrite.name=纯镥粉板条箱
     S:oredict.crateGtDustLumium.name=流明粉板条箱
     S:oredict.crateGtDustLutetium.name=镥粉板条箱
     S:oredict.crateGtDustMagenta.name=品红染料板条箱
@@ -15649,7 +15649,7 @@ languagefile {
     S:oredict.crateGtIngotLead.name=铅锭板条箱
     S:oredict.crateGtIngotLemurite.name=利莫里亚锭板条箱
     S:oredict.crateGtIngotLivermorium.name=鉝锭板条箱
-    S:oredict.crateGtIngotLudicrite.name=Ludicrite锭板条箱
+    S:oredict.crateGtIngotLudicrite.name=纯镥锭板条箱
     S:oredict.crateGtIngotLumium.name=流明锭板条箱
     S:oredict.crateGtIngotLutetium.name=镥锭板条箱
     S:oredict.crateGtIngotMagnalium.name=镁铝合金锭板条箱
@@ -15977,7 +15977,7 @@ languagefile {
     S:oredict.crateGtPlateDesh.name=戴斯板板条箱
     S:oredict.crateGtPlateDesichalkos.name=虚空之魂石板板条箱
     S:oredict.crateGtPlateDiorite.name=闪长岩板板条箱
-    S:oredict.crateGtPlateDraconium.name=龙Plate板条箱
+    S:oredict.crateGtPlateDraconium.name=龙板板条箱
     S:oredict.crateGtPlateDraconiumAwakened.name=觉醒龙板板条箱
     S:oredict.crateGtPlateDubnium.name=𬭊板板条箱
     S:oredict.crateGtPlateDuralumin.name=硬铝合金板板条箱
@@ -16140,7 +16140,7 @@ languagefile {
     S:oredict.crateGtPlateLemurite.name=利莫里亚板板条箱
     S:oredict.crateGtPlateLimestone.name=石灰石板板条箱
     S:oredict.crateGtPlateLivermorium.name=鉝板板条箱
-    S:oredict.crateGtPlateLudicrite.name=Ludicrite板板条箱
+    S:oredict.crateGtPlateLudicrite.name=纯镥板板条箱
     S:oredict.crateGtPlateLumium.name=流明板板条箱
     S:oredict.crateGtPlateLutetium.name=镥板板条箱
     S:oredict.crateGtPlateMagic.name=魔法板板条箱
@@ -16801,7 +16801,7 @@ languagefile {
     S:oredict.crushedCentrifugedLithium6.name=离心锂-6矿
     S:oredict.crushedCentrifugedLivermorium.name=离心鉝矿
     S:oredict.crushedCentrifugedLonsdaleite.name=离心六方碳矿
-    S:oredict.crushedCentrifugedLudicrite.name=离心Ludicrite矿
+    S:oredict.crushedCentrifugedLudicrite.name=离心纯镥矿
     S:oredict.crushedCentrifugedLutetium.name=离心镥矿
     S:oredict.crushedCentrifugedMagnesite.name=离心菱镁矿
     S:oredict.crushedCentrifugedMagnesium.name=离心镁矿
@@ -17247,7 +17247,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyLithium6.name=小撮离心锂-6矿
     S:oredict.crushedCentrifugedTinyLivermorium.name=小撮离心鉝矿
     S:oredict.crushedCentrifugedTinyLonsdaleite.name=小撮离心六方碳矿
-    S:oredict.crushedCentrifugedTinyLudicrite.name=小撮离心Ludicrite矿
+    S:oredict.crushedCentrifugedTinyLudicrite.name=小撮离心纯镥矿
     S:oredict.crushedCentrifugedTinyLutetium.name=小撮离心镥矿
     S:oredict.crushedCentrifugedTinyMagnesite.name=小撮离心菱镁矿
     S:oredict.crushedCentrifugedTinyMagnesium.name=小撮离心镁矿
@@ -17597,7 +17597,7 @@ languagefile {
     S:oredict.crushedLithium6.name=粉碎锂-6矿
     S:oredict.crushedLivermorium.name=粉碎鉝矿
     S:oredict.crushedLonsdaleite.name=粉碎六方碳矿
-    S:oredict.crushedLudicrite.name=粉碎Ludicrite矿
+    S:oredict.crushedLudicrite.name=粉碎纯镥矿
     S:oredict.crushedLutetium.name=粉碎镥矿
     S:oredict.crushedMagnesite.name=粉碎菱镁矿
     S:oredict.crushedMagnesium.name=粉碎镁矿
@@ -17980,7 +17980,7 @@ languagefile {
     S:oredict.crushedPurifiedLithium6.name=纯净粉碎锂-6矿
     S:oredict.crushedPurifiedLivermorium.name=纯净粉碎鉝矿
     S:oredict.crushedPurifiedLonsdaleite.name=纯净粉碎六方碳矿
-    S:oredict.crushedPurifiedLudicrite.name=纯净Ludicrite矿
+    S:oredict.crushedPurifiedLudicrite.name=纯净纯镥矿
     S:oredict.crushedPurifiedLutetium.name=纯净粉碎镥矿
     S:oredict.crushedPurifiedMagnesite.name=纯净粉碎菱镁矿
     S:oredict.crushedPurifiedMagnesium.name=纯净粉碎镁矿
@@ -18426,7 +18426,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyLithium6.name=小撮纯净粉碎锂-6矿
     S:oredict.crushedPurifiedTinyLivermorium.name=小撮纯净粉碎鉝矿
     S:oredict.crushedPurifiedTinyLonsdaleite.name=小撮纯净粉碎六方碳矿
-    S:oredict.crushedPurifiedTinyLudicrite.name=小撮纯净Ludicrite矿
+    S:oredict.crushedPurifiedTinyLudicrite.name=小撮纯净纯镥矿
     S:oredict.crushedPurifiedTinyLutetium.name=小撮纯净粉碎镥矿
     S:oredict.crushedPurifiedTinyMagnesite.name=小撮纯净粉碎菱镁矿
     S:oredict.crushedPurifiedTinyMagnesium.name=小撮纯净粉碎镁矿
@@ -19023,7 +19023,7 @@ languagefile {
     S:oredict.crushedTinyLithium6.name=小撮粉碎锂-6矿
     S:oredict.crushedTinyLivermorium.name=小撮粉碎鉝矿
     S:oredict.crushedTinyLonsdaleite.name=小撮粉碎六方碳矿
-    S:oredict.crushedTinyLudicrite.name=小撮粉碎Ludicrite矿
+    S:oredict.crushedTinyLudicrite.name=小撮粉碎纯镥矿
     S:oredict.crushedTinyLutetium.name=小撮粉碎镥矿
     S:oredict.crushedTinyMagnesite.name=小撮粉碎菱镁矿
     S:oredict.crushedTinyMagnesium.name=小撮粉碎镁矿
@@ -19969,7 +19969,7 @@ languagefile {
     S:oredict.dustDiv72LiveRoot.name=1/72份活根粉
     S:oredict.dustDiv72Livermorium.name=1/72份鉝粉
     S:oredict.dustDiv72Lonsdaleite.name=1/72份六方碳粉
-    S:oredict.dustDiv72Ludicrite.name=1/72份Ludicrite粉
+    S:oredict.dustDiv72Ludicrite.name=1/72份纯镥粉
     S:oredict.dustDiv72Lumium.name=1/72份流明粉
     S:oredict.dustDiv72Lutetium.name=1/72份镥粉
     S:oredict.dustDiv72Magenta.name=1/72份品红染料
@@ -20704,7 +20704,7 @@ languagefile {
     S:oredict.dustImpureLithium6.name=含杂锂-6粉
     S:oredict.dustImpureLivermorium.name=含杂鉝粉
     S:oredict.dustImpureLonsdaleite.name=含杂六方碳粉
-    S:oredict.dustImpureLudicrite.name=含杂Ludicrite粉
+    S:oredict.dustImpureLudicrite.name=含杂纯镥粉
     S:oredict.dustImpureLutetium.name=含杂镥粉
     S:oredict.dustImpureMagnesite.name=含杂菱镁矿粉
     S:oredict.dustImpureMagnesium.name=含杂镁粉
@@ -20937,7 +20937,7 @@ languagefile {
     S:oredict.dustLiveRoot.name=活根粉
     S:oredict.dustLivermorium.name=鉝粉
     S:oredict.dustLonsdaleite.name=六方碳粉
-    S:oredict.dustLudicrite.name=Ludicrite粉
+    S:oredict.dustLudicrite.name=纯镥粉
     S:oredict.dustLumium.name=流明粉
     S:oredict.dustLutetium.name=镥粉
     S:oredict.dustMagenta.name=品红染料
@@ -21387,7 +21387,7 @@ languagefile {
     S:oredict.dustPureLithium6.name=纯净锂-6粉
     S:oredict.dustPureLivermorium.name=纯净鉝粉
     S:oredict.dustPureLonsdaleite.name=纯净六方碳粉
-    S:oredict.dustPureLudicrite.name=纯净Ludicrite粉
+    S:oredict.dustPureLudicrite.name=纯净纯镥粉
     S:oredict.dustPureLutetium.name=纯净镥粉
     S:oredict.dustPureMagnesite.name=纯净菱镁矿粉
     S:oredict.dustPureMagnesium.name=纯净镁粉
@@ -22065,7 +22065,7 @@ languagefile {
     S:oredict.dustSmallLiveRoot.name=小堆活根粉
     S:oredict.dustSmallLivermorium.name=小堆鉝粉
     S:oredict.dustSmallLonsdaleite.name=小堆六方碳粉
-    S:oredict.dustSmallLudicrite.name=小堆Ludicrite粉
+    S:oredict.dustSmallLudicrite.name=小堆纯镥粉
     S:oredict.dustSmallLumium.name=小堆流明粉
     S:oredict.dustSmallLutetium.name=小堆镥粉
     S:oredict.dustSmallMagenta.name=小堆品红染料
@@ -22855,7 +22855,7 @@ languagefile {
     S:oredict.dustTinyLiveRoot.name=小撮活根粉
     S:oredict.dustTinyLivermorium.name=小撮鉝粉
     S:oredict.dustTinyLonsdaleite.name=小撮六方碳粉
-    S:oredict.dustTinyLudicrite.name=小撮Ludicrite粉
+    S:oredict.dustTinyLudicrite.name=小撮纯镥粉
     S:oredict.dustTinyLumium.name=小撮流明粉
     S:oredict.dustTinyLutetium.name=小撮镥粉
     S:oredict.dustTinyMagenta.name=小撮品红染料
@@ -23461,7 +23461,7 @@ languagefile {
     S:oredict.foilLead.name=铅箔
     S:oredict.foilLemurite.name=利莫里亚箔
     S:oredict.foilLivermorium.name=鉝箔
-    S:oredict.foilLudicrite.name=Ludicrite箔
+    S:oredict.foilLudicrite.name=纯镥箔
     S:oredict.foilLumium.name=流明箔
     S:oredict.foilLutetium.name=镥箔
     S:oredict.foilMagnalium.name=镁铝合金箔
@@ -24827,7 +24827,7 @@ languagefile {
     S:oredict.ingotDoubleLead.name=两重铅锭
     S:oredict.ingotDoubleLemurite.name=两重利莫里亚锭
     S:oredict.ingotDoubleLivermorium.name=两重鉝锭
-    S:oredict.ingotDoubleLudicrite.name=两重Ludicrite锭
+    S:oredict.ingotDoubleLudicrite.name=两重纯镥锭
     S:oredict.ingotDoubleLumium.name=两重流明锭
     S:oredict.ingotDoubleLutetium.name=两重镥锭
     S:oredict.ingotDoubleMagnalium.name=两重镁铝合金锭
@@ -25239,7 +25239,7 @@ languagefile {
     S:oredict.ingotHotLead.name=热铅锭
     S:oredict.ingotHotLemurite.name=热利莫里亚锭
     S:oredict.ingotHotLivermorium.name=热鉝锭
-    S:oredict.ingotHotLudicrite.name=热Ludicrite锭
+    S:oredict.ingotHotLudicrite.name=热纯镥锭
     S:oredict.ingotHotLumium.name=热流明锭
     S:oredict.ingotHotLutetium.name=热镥锭
     S:oredict.ingotHotMagnalium.name=热镁铝合金锭
@@ -25391,7 +25391,7 @@ languagefile {
     S:oredict.ingotLead.name=铅锭
     S:oredict.ingotLemurite.name=利莫里亚锭
     S:oredict.ingotLivermorium.name=鉝锭
-    S:oredict.ingotLudicrite.name=Ludicrite锭
+    S:oredict.ingotLudicrite.name=纯镥锭
     S:oredict.ingotLumium.name=流明锭
     S:oredict.ingotLutetium.name=镥锭
     S:oredict.ingotMagnalium.name=镁铝合金锭
@@ -25682,7 +25682,7 @@ languagefile {
     S:oredict.ingotQuadrupleLead.name=四重铅锭
     S:oredict.ingotQuadrupleLemurite.name=四重利莫里亚锭
     S:oredict.ingotQuadrupleLivermorium.name=四重鉝锭
-    S:oredict.ingotQuadrupleLudicrite.name=四重Ludicrite锭
+    S:oredict.ingotQuadrupleLudicrite.name=四重纯镥锭
     S:oredict.ingotQuadrupleLumium.name=四重流明锭
     S:oredict.ingotQuadrupleLutetium.name=四重镥锭
     S:oredict.ingotQuadrupleMagnalium.name=四重镁铝合金锭
@@ -26053,7 +26053,7 @@ languagefile {
     S:oredict.ingotQuintupleLead.name=五重铅锭
     S:oredict.ingotQuintupleLemurite.name=五重利莫里亚锭
     S:oredict.ingotQuintupleLivermorium.name=五重鉝锭
-    S:oredict.ingotQuintupleLudicrite.name=五重Ludicrite锭
+    S:oredict.ingotQuintupleLudicrite.name=五重纯镥锭
     S:oredict.ingotQuintupleLumium.name=五重流明锭
     S:oredict.ingotQuintupleLutetium.name=五重镥锭
     S:oredict.ingotQuintupleMagnalium.name=五重镁铝合金锭
@@ -26475,7 +26475,7 @@ languagefile {
     S:oredict.ingotTripleLead.name=三重铅锭
     S:oredict.ingotTripleLemurite.name=三重利莫里亚锭
     S:oredict.ingotTripleLivermorium.name=三重鉝锭
-    S:oredict.ingotTripleLudicrite.name=三重Ludicrite锭
+    S:oredict.ingotTripleLudicrite.name=三重纯镥锭
     S:oredict.ingotTripleLumium.name=三重流明锭
     S:oredict.ingotTripleLutetium.name=三重镥锭
     S:oredict.ingotTripleMagnalium.name=三重镁铝合金锭
@@ -27084,7 +27084,7 @@ languagefile {
     S:oredict.nuggetLead.name=铅粒
     S:oredict.nuggetLemurite.name=利莫里亚粒
     S:oredict.nuggetLivermorium.name=鉝粒
-    S:oredict.nuggetLudicrite.name=Ludicrite粒
+    S:oredict.nuggetLudicrite.name=纯镥粒
     S:oredict.nuggetLumium.name=流明粒
     S:oredict.nuggetLutetium.name=镥粒
     S:oredict.nuggetMagnalium.name=镁铝合金粒
@@ -27696,7 +27696,7 @@ languagefile {
     S:oredict.oreBasaltLithium6.name=玄武岩锂-6矿石
     S:oredict.oreBasaltLivermorium.name=玄武岩鉝矿石
     S:oredict.oreBasaltLonsdaleite.name=玄武岩六方碳矿石
-    S:oredict.oreBasaltLudicrite.name=玄武岩Ludicrite矿石
+    S:oredict.oreBasaltLudicrite.name=玄武岩纯镥矿石
     S:oredict.oreBasaltLutetium.name=玄武岩镥矿石
     S:oredict.oreBasaltMagnesite.name=玄武岩菱镁矿石
     S:oredict.oreBasaltMagnesium.name=玄武岩镁矿石
@@ -28186,7 +28186,7 @@ languagefile {
     S:oredict.oreBedrockLithium6.name=基岩Lithium-6矿石
     S:oredict.oreBedrockLivermorium.name=基岩鉝矿石
     S:oredict.oreBedrockLonsdaleite.name=基岩六方碳矿石
-    S:oredict.oreBedrockLudicrite.name=基岩Ludicrite矿石
+    S:oredict.oreBedrockLudicrite.name=基岩纯镥矿石
     S:oredict.oreBedrockLutetium.name=基岩镥矿石
     S:oredict.oreBedrockMagnesite.name=基岩菱镁矿石
     S:oredict.oreBedrockMagnesium.name=基岩镁矿石
@@ -28675,7 +28675,7 @@ languagefile {
     S:oredict.oreBlackgraniteLithium6.name=黑色花岗岩锂-6矿石
     S:oredict.oreBlackgraniteLivermorium.name=黑色花岗岩鉝矿石
     S:oredict.oreBlackgraniteLonsdaleite.name=黑色花岗岩六方碳矿石
-    S:oredict.oreBlackgraniteLudicrite.name=黑色花岗岩Ludicrite矿石
+    S:oredict.oreBlackgraniteLudicrite.name=黑色花岗岩纯镥矿石
     S:oredict.oreBlackgraniteLutetium.name=黑色花岗岩镥矿石
     S:oredict.oreBlackgraniteMagnesite.name=黑色花岗岩菱镁矿石
     S:oredict.oreBlackgraniteMagnesium.name=黑色花岗岩镁矿石
@@ -29236,7 +29236,7 @@ languagefile {
     S:oredict.oreEndstoneLithium6.name=末地锂-6矿石
     S:oredict.oreEndstoneLivermorium.name=末地鉝矿石
     S:oredict.oreEndstoneLonsdaleite.name=末地六方碳矿石
-    S:oredict.oreEndstoneLudicrite.name=末地Ludicrite矿石
+    S:oredict.oreEndstoneLudicrite.name=末地纯镥矿石
     S:oredict.oreEndstoneLutetium.name=末地镥矿石
     S:oredict.oreEndstoneMagnesite.name=末地菱镁矿石
     S:oredict.oreEndstoneMagnesium.name=末地镁矿石
@@ -29760,7 +29760,7 @@ languagefile {
     S:oredict.oreGravelLithium6.name=锂-6沙砾
     S:oredict.oreGravelLivermorium.name=鉝沙砾
     S:oredict.oreGravelLonsdaleite.name=六方碳沙砾
-    S:oredict.oreGravelLudicrite.name=Ludicrite沙砾
+    S:oredict.oreGravelLudicrite.name=纯镥沙砾
     S:oredict.oreGravelLutetium.name=镥沙砾
     S:oredict.oreGravelMagnesite.name=菱镁沙砾
     S:oredict.oreGravelMagnesium.name=镁沙砾
@@ -30441,7 +30441,7 @@ languagefile {
     S:oredict.oreLithium6.name=锂-6矿石
     S:oredict.oreLivermorium.name=鉝矿石
     S:oredict.oreLonsdaleite.name=六方碳矿石
-    S:oredict.oreLudicrite.name=Ludicrite矿石
+    S:oredict.oreLudicrite.name=纯镥矿石
     S:oredict.oreLutetium.name=镥矿石
     S:oredict.oreMagnesite.name=菱镁矿石
     S:oredict.oreMagnesium.name=镁矿石
@@ -30762,7 +30762,7 @@ languagefile {
     S:oredict.oreMarbleLithium6.name=大理石锂-6矿石
     S:oredict.oreMarbleLivermorium.name=大理石鉝矿石
     S:oredict.oreMarbleLonsdaleite.name=大理石六方碳矿石
-    S:oredict.oreMarbleLudicrite.name=大理石Ludicrite矿石
+    S:oredict.oreMarbleLudicrite.name=大理石纯镥矿石
     S:oredict.oreMarbleLutetium.name=大理石镥矿石
     S:oredict.oreMarbleMagnesite.name=大理石菱镁矿石
     S:oredict.oreMarbleMagnesium.name=大理石镁矿石
@@ -31272,7 +31272,7 @@ languagefile {
     S:oredict.oreNetherrackLithium6.name=地狱锂-6矿石
     S:oredict.oreNetherrackLivermorium.name=地狱鉝矿石
     S:oredict.oreNetherrackLonsdaleite.name=地狱六方碳矿石
-    S:oredict.oreNetherrackLudicrite.name=地狱Ludicrite矿石
+    S:oredict.oreNetherrackLudicrite.name=地狱纯镥矿石
     S:oredict.oreNetherrackLutetium.name=地狱镥矿石
     S:oredict.oreNetherrackMagnesite.name=地狱菱镁矿石
     S:oredict.oreNetherrackMagnesium.name=地狱镁矿石
@@ -31811,7 +31811,7 @@ languagefile {
     S:oredict.oreRedSandLithium6.name=红矿沙锂-6矿石
     S:oredict.oreRedSandLivermorium.name=鉝红矿沙
     S:oredict.oreRedSandLonsdaleite.name=六方碳红矿沙
-    S:oredict.oreRedSandLudicrite.name=Sand Ludicrite矿石
+    S:oredict.oreRedSandLudicrite.name=Sand 纯镥矿石
     S:oredict.oreRedSandLutetium.name=镥红矿沙
     S:oredict.oreRedSandMagnesite.name=菱镁红矿沙
     S:oredict.oreRedSandMagnesium.name=镁红矿沙
@@ -32301,7 +32301,7 @@ languagefile {
     S:oredict.oreRedgraniteLithium6.name=红色花岗岩锂-6矿石
     S:oredict.oreRedgraniteLivermorium.name=红色花岗岩鉝矿石
     S:oredict.oreRedgraniteLonsdaleite.name=红色花岗岩六方碳矿石
-    S:oredict.oreRedgraniteLudicrite.name=红色花岗岩Ludicrite矿石
+    S:oredict.oreRedgraniteLudicrite.name=红色花岗岩纯镥矿石
     S:oredict.oreRedgraniteLutetium.name=红色花岗岩镥矿石
     S:oredict.oreRedgraniteMagnesite.name=红色花岗岩菱镁矿石
     S:oredict.oreRedgraniteMagnesium.name=红色花岗岩镁矿石
@@ -32805,7 +32805,7 @@ languagefile {
     S:oredict.oreSandLithium6.name=锂-6矿沙
     S:oredict.oreSandLivermorium.name=鉝矿沙
     S:oredict.oreSandLonsdaleite.name= 六方碳矿沙
-    S:oredict.oreSandLudicrite.name=Sand Ludicrite矿石
+    S:oredict.oreSandLudicrite.name=Sand 纯镥矿石
     S:oredict.oreSandLutetium.name=镥矿沙
     S:oredict.oreSandMagnesite.name=菱镁矿沙
     S:oredict.oreSandMagnesium.name=镁矿沙
@@ -33294,7 +33294,7 @@ languagefile {
     S:oredict.oreSandstoneLithium6.name=沙石锂-6矿石
     S:oredict.oreSandstoneLivermorium.name=沙石鉝矿石
     S:oredict.oreSandstoneLonsdaleite.name=沙石六方碳矿石
-    S:oredict.oreSandstoneLudicrite.name=Sandstone Ludicrite矿石
+    S:oredict.oreSandstoneLudicrite.name=Sandstone 纯镥矿石
     S:oredict.oreSandstoneLutetium.name=沙石镥矿石
     S:oredict.oreSandstoneMagnesite.name=沙石菱镁矿石
     S:oredict.oreSandstoneMagnesium.name=沙石镁矿石
@@ -33795,7 +33795,7 @@ languagefile {
     S:oredict.oreSmallLithium6.name=贫瘠锂-6矿石
     S:oredict.oreSmallLivermorium.name=贫瘠鉝矿石
     S:oredict.oreSmallLonsdaleite.name=贫瘠六方碳矿石
-    S:oredict.oreSmallLudicrite.name=贫瘠Ludicrite矿石
+    S:oredict.oreSmallLudicrite.name=贫瘠纯镥矿石
     S:oredict.oreSmallLutetium.name=贫瘠镥矿石
     S:oredict.oreSmallMagnesite.name=贫瘠菱镁矿石
     S:oredict.oreSmallMagnesium.name=贫瘠镁矿石
@@ -34977,7 +34977,7 @@ languagefile {
     S:oredict.plantGtBerryLivermorium.name=鉝梅
     S:oredict.plantGtBerryLonsdaleite.name=六方碳梅
     S:oredict.plantGtBerryLubricant.name=润滑剂梅
-    S:oredict.plantGtBerryLudicrite.name=Ludicrite梅
+    S:oredict.plantGtBerryLudicrite.name=纯镥梅
     S:oredict.plantGtBerryLumium.name=流明梅
     S:oredict.plantGtBerryLutetium.name=镥梅
     S:oredict.plantGtBerryMacGuffium.name=乌有岩梅
@@ -35765,7 +35765,7 @@ languagefile {
     S:oredict.plantGtBlossomLava.name=岩浆花
     S:oredict.plantGtBlossomLawrencium.name=铹花
     S:oredict.plantGtBlossomLazurite.name=天青石花
-    S:oredict.plantGtBlossomLead.name=Plumbilia Leaf
+    S:oredict.plantGtBlossomLead.name=铅叶子
     S:oredict.plantGtBlossomLemurite.name=利莫里亚花
     S:oredict.plantGtBlossomLepidolite.name=锂云母花
     S:oredict.plantGtBlossomLightBlue.name=淡蓝色花
@@ -35782,7 +35782,7 @@ languagefile {
     S:oredict.plantGtBlossomLivermorium.name=鉝花
     S:oredict.plantGtBlossomLonsdaleite.name=六方碳花
     S:oredict.plantGtBlossomLubricant.name=润滑剂花
-    S:oredict.plantGtBlossomLudicrite.name=Ludicrite花
+    S:oredict.plantGtBlossomLudicrite.name=纯镥花
     S:oredict.plantGtBlossomLumium.name=流明花
     S:oredict.plantGtBlossomLutetium.name=镥花
     S:oredict.plantGtBlossomMacGuffium.name=乌有岩花
@@ -35812,7 +35812,7 @@ languagefile {
     S:oredict.plantGtBlossomMidasium.name=溶火金花
     S:oredict.plantGtBlossomMigmatite.name=混合岩花
     S:oredict.plantGtBlossomMilk.name=牛奶花
-    S:oredict.plantGtBlossomMint.name=薄荷 Leaf
+    S:oredict.plantGtBlossomMint.name=薄荷叶
     S:oredict.plantGtBlossomMirabilite.name=芒硝花
     S:oredict.plantGtBlossomMithril.name=秘银花
     S:oredict.plantGtBlossomMolybdenite.name=辉钼矿花
@@ -36587,7 +36587,7 @@ languagefile {
     S:oredict.plantGtFiberLivermorium.name=粗糙的鉝纤维
     S:oredict.plantGtFiberLonsdaleite.name=粗糙的六方碳纤维
     S:oredict.plantGtFiberLubricant.name=粗糙的润滑剂纤维
-    S:oredict.plantGtFiberLudicrite.name=粗糙的Ludicrite纤维
+    S:oredict.plantGtFiberLudicrite.name=粗糙的纯镥纤维
     S:oredict.plantGtFiberLumium.name=粗糙的流明纤维
     S:oredict.plantGtFiberLutetium.name=粗糙的镥纤维
     S:oredict.plantGtFiberMacGuffium.name=粗糙的乌有岩纤维
@@ -37392,7 +37392,7 @@ languagefile {
     S:oredict.plantGtTwigLivermorium.name=鉝细枝
     S:oredict.plantGtTwigLonsdaleite.name=六方碳细枝
     S:oredict.plantGtTwigLubricant.name=润滑剂细枝
-    S:oredict.plantGtTwigLudicrite.name=Ludicrite细枝
+    S:oredict.plantGtTwigLudicrite.name=纯镥细枝
     S:oredict.plantGtTwigLumium.name=流明细枝
     S:oredict.plantGtTwigLutetium.name=镥细枝
     S:oredict.plantGtTwigMacGuffium.name=乌有岩细枝
@@ -38200,7 +38200,7 @@ languagefile {
     S:oredict.plantGtWartLivermorium.name=鉝疣
     S:oredict.plantGtWartLonsdaleite.name=六方碳疣
     S:oredict.plantGtWartLubricant.name=润滑剂疣
-    S:oredict.plantGtWartLudicrite.name=Ludicrite疣
+    S:oredict.plantGtWartLudicrite.name=纯镥疣
     S:oredict.plantGtWartLumium.name=流明疣
     S:oredict.plantGtWartLutetium.name=镥疣
     S:oredict.plantGtWartMacGuffium.name=乌有岩疣
@@ -38971,7 +38971,7 @@ languagefile {
     S:oredict.plateCurvedLemurite.name=弯曲利莫里亚板
     S:oredict.plateCurvedLimestone.name=弯曲石灰石板
     S:oredict.plateCurvedLivermorium.name=弯曲鉝板
-    S:oredict.plateCurvedLudicrite.name=弯曲Ludicrite板
+    S:oredict.plateCurvedLudicrite.name=弯曲纯镥板
     S:oredict.plateCurvedLumium.name=弯曲流明板
     S:oredict.plateCurvedLutetium.name=弯曲镥板
     S:oredict.plateCurvedMagic.name=弯曲魔法板
@@ -39375,7 +39375,7 @@ languagefile {
     S:oredict.plateDenseLead.name=致密铅板
     S:oredict.plateDenseLemurite.name=致密利莫里亚板
     S:oredict.plateDenseLivermorium.name=致密鉝板
-    S:oredict.plateDenseLudicrite.name=致密Ludicrite板
+    S:oredict.plateDenseLudicrite.name=致密纯镥板
     S:oredict.plateDenseLumium.name=致密流明板
     S:oredict.plateDenseLutetium.name=致密镥板
     S:oredict.plateDenseMagnalium.name=致密镁铝合金板
@@ -39753,7 +39753,7 @@ languagefile {
     S:oredict.plateDoubleLead.name=两重铅板
     S:oredict.plateDoubleLemurite.name=两重利莫里亚板
     S:oredict.plateDoubleLivermorium.name=两重鉝板
-    S:oredict.plateDoubleLudicrite.name=两重Ludicrite板
+    S:oredict.plateDoubleLudicrite.name=两重纯镥板
     S:oredict.plateDoubleLumium.name=两重流明板
     S:oredict.plateDoubleLutetium.name=两重镥板
     S:oredict.plateDoubleMagnalium.name=两重镁铝合金板
@@ -40129,7 +40129,7 @@ languagefile {
     S:oredict.plateLemurite.name=利莫里亚板
     S:oredict.plateLimestone.name=石灰石板
     S:oredict.plateLivermorium.name=鉝板
-    S:oredict.plateLudicrite.name=Ludicrite板
+    S:oredict.plateLudicrite.name=纯镥板
     S:oredict.plateLumium.name=流明板
     S:oredict.plateLutetium.name=镥板
     S:oredict.plateMagic.name=魔法板
@@ -40428,7 +40428,7 @@ languagefile {
     S:oredict.plateQuadrupleLead.name=四重铅板
     S:oredict.plateQuadrupleLemurite.name=四重利莫里亚板
     S:oredict.plateQuadrupleLivermorium.name=四重鉝板
-    S:oredict.plateQuadrupleLudicrite.name=四重Ludicrite板
+    S:oredict.plateQuadrupleLudicrite.name=四重纯镥板
     S:oredict.plateQuadrupleLumium.name=四重流明板
     S:oredict.plateQuadrupleLutetium.name=四重镥板
     S:oredict.plateQuadrupleMagnalium.name=四重镁铝合金板
@@ -40801,7 +40801,7 @@ languagefile {
     S:oredict.plateQuintupleLead.name=五重铅板
     S:oredict.plateQuintupleLemurite.name=五重利莫里亚板
     S:oredict.plateQuintupleLivermorium.name=五重鉝板
-    S:oredict.plateQuintupleLudicrite.name=五重Ludicrite板
+    S:oredict.plateQuintupleLudicrite.name=五重纯镥板
     S:oredict.plateQuintupleLumium.name=五重流明板
     S:oredict.plateQuintupleLutetium.name=五重镥板
     S:oredict.plateQuintupleMagnalium.name=五重镁铝合金板
@@ -41256,7 +41256,7 @@ languagefile {
     S:oredict.plateTinyLemurite.name=小块利莫里亚板
     S:oredict.plateTinyLimestone.name=小块石灰石板
     S:oredict.plateTinyLivermorium.name=小块鉝板
-    S:oredict.plateTinyLudicrite.name=小块Ludicrite板
+    S:oredict.plateTinyLudicrite.name=小块纯镥板
     S:oredict.plateTinyLumium.name=小块流明板
     S:oredict.plateTinyLutetium.name=小块镥板
     S:oredict.plateTinyMagic.name=小撮魔法板
@@ -41656,7 +41656,7 @@ languagefile {
     S:oredict.plateTripleLead.name=三重铅板
     S:oredict.plateTripleLemurite.name=三重利莫里亚板
     S:oredict.plateTripleLivermorium.name=三重鉝板
-    S:oredict.plateTripleLudicrite.name=三重Ludicrite板
+    S:oredict.plateTripleLudicrite.name=三重纯镥板
     S:oredict.plateTripleLumium.name=三重流明板
     S:oredict.plateTripleLutetium.name=三重镥板
     S:oredict.plateTripleMagnalium.name=三重镁铝合金板
@@ -43068,7 +43068,7 @@ languagefile {
     S:oredict.scrapGtLiveRoot.name=活根废料
     S:oredict.scrapGtLivermorium.name=鉝废料
     S:oredict.scrapGtLonsdaleite.name=六方碳废料
-    S:oredict.scrapGtLudicrite.name=Ludicrite废料
+    S:oredict.scrapGtLudicrite.name=纯镥废料
     S:oredict.scrapGtLumium.name=流明废料
     S:oredict.scrapGtLutetium.name=镥废料
     S:oredict.scrapGtMagenta.name=品红废料
@@ -43673,7 +43673,7 @@ languagefile {
     S:oredict.screwLimestone.name=石灰石螺丝
     S:oredict.screwLivermorium.name=鉝螺丝
     S:oredict.screwLonsdaleite.name=六方碳螺丝
-    S:oredict.screwLudicrite.name=Ludicrite螺丝
+    S:oredict.screwLudicrite.name=纯镥螺丝
     S:oredict.screwLumium.name=流明螺丝
     S:oredict.screwLutetium.name=镥螺丝
     S:oredict.screwMagic.name=魔法螺丝
@@ -44852,7 +44852,7 @@ languagefile {
     S:oredict.stickLongLimestone.name=长石灰石杆
     S:oredict.stickLongLivermorium.name=长鉝杆
     S:oredict.stickLongLonsdaleite.name=长六方碳杆
-    S:oredict.stickLongLudicrite.name=长Ludicrite杆
+    S:oredict.stickLongLudicrite.name=长纯镥杆
     S:oredict.stickLongLumium.name=长流明杆
     S:oredict.stickLongLutetium.name=长镥杆
     S:oredict.stickLongMagic.name=长魔法杆
@@ -45029,7 +45029,7 @@ languagefile {
     S:oredict.stickLongZinc.name=长锌杆
     S:oredict.stickLongZirconium.name=长锆杆
     S:oredict.stickLonsdaleite.name=六方碳杆
-    S:oredict.stickLudicrite.name=Ludicrite杆
+    S:oredict.stickLudicrite.name=纯镥杆
     S:oredict.stickLumium.name=流明杆
     S:oredict.stickLutetium.name=镥杆
     S:oredict.stickMagic.name=魔法杆
