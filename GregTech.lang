@@ -469,7 +469,7 @@ languagefile {
     S:fluid.plumsmoothie=李子冰沙
     S:fluid.pomegranatejuice=石榴汁
     S:fluid.pomegranatesmoothie=石榴冰沙
-    S:fluid.potatojuice=Potato 汁
+    S:fluid.potatojuice=马铃薯汁
     S:fluid.potion.alcopops=波普甜酒
     S:fluid.potion.ambrosia=神的食物
     S:fluid.potion.applejuice=苹果汁
@@ -2071,7 +2071,7 @@ languagefile {
     S:gt.lang.owner.controlled=这个方块只能被拥有者操作
     S:gt.lang.pipe.stats.amount=Amount of Pipes: 
     S:gt.lang.pipe.stats.bandwidth=流量: 
-    S:gt.lang.pipe.stats.capacity=效率: 
+    S:gt.lang.pipe.stats.capacity=容量: 
     S:gt.lang.pipe.stats.loss=损耗: 
     S:gt.lang.pipe.stats.range=范围: 
     S:gt.lang.pipe.stats.stepsize=Stepsize:
@@ -2154,7 +2154,7 @@ languagefile {
     S:gt.lang.tool.name.whacker=除草机
     S:gt.lang.tool.name.wrench=扳手
     S:gt.lang.tool.to.harvest=采集工具
-    S:gt.lang.tool.tooltip.axe=超能gt斧
+    S:gt.lang.tool.tooltip.axe=超能GT斧
     S:gt.lang.tool.tooltip.chisel=凿刻可被凿刻的方块
     S:gt.lang.tool.tooltip.crowbar=拆卸覆盖版和旋转铁轨
     S:gt.lang.tool.tooltip.cutter=切割鸡
@@ -5229,7 +5229,7 @@ languagefile {
     S:gt.multiitem.food.8011.name=薯条
     S:gt.multiitem.food.8011.tooltip=没有番茄酱
     S:gt.multiitem.food.81.name=胡萝卜片
-    S:gt.multiitem.food.81.tooltip=切片的Goku
+    S:gt.multiitem.food.81.tooltip=切片的胡萝卜
     S:gt.multiitem.food.90.name=香蕉
     S:gt.multiitem.food.90.tooltip=也可以用来当枪使
     S:gt.multiitem.food.9000.name=生马铃薯片
