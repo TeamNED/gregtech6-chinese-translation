@@ -99,6 +99,7 @@ languagefile {
     S:fluid.aquaregia=王水
     S:fluid.argon=氩
     S:fluid.bananasmoothie=香蕉冰沙
+    S:fluid.beetjuice=甜菜汁
     S:fluid.binnie.ciderapple=苹果酒
     S:fluid.binnie.juiceApple=苹果汁
     S:fluid.binnie.juiceApricot=杏子汁
@@ -146,6 +147,7 @@ languagefile {
     S:fluid.binnie.rumwhite=朗姆酒
     S:fluid.binnie.vodka=伏特加
     S:fluid.binnie.whiskeywheat=苏格兰威士忌
+    S:fluid.binnie.winepineapple=菠萝酒
     S:fluid.binnie.winered=红葡萄酒
     S:fluid.binnie.winewhite=绿葡萄酒
     S:fluid.bioethanol=生物乙醇
@@ -153,7 +155,7 @@ languagefile {
     S:fluid.blackberryjuice=黑莓汁
     S:fluid.blackberrysmoothie=黑莓冰沙
     S:fluid.blackvitriol=硫酸铁
-    S:fluid.blaze=Blazing Goo
+    S:fluid.blaze=烈焰粘浆
     S:fluid.blueberryjuice=蓝莓汁
     S:fluid.blueberrysmoothie=蓝莓冰沙
     S:fluid.bluevitriol=五水合硫酸铜
@@ -290,6 +292,10 @@ languagefile {
     S:fluid.gooseberrysmoothie=鹅莓冰沙
     S:fluid.grapefruitsmoothie=葡萄柚冰沙
     S:fluid.grayvitriol=硫酸锰
+    S:fluid.grc.grapewine0=紫葡萄汁
+    S:fluid.grc.honey=蜂蜜 (生长工艺)
+    S:fluid.grcmilk.cream=生奶油
+    S:fluid.grcmilk.milk=牛奶
     S:fluid.greenvitriol=硫酸亚铁
     S:fluid.helium=氦
     S:fluid.helium-3=氦-3
@@ -300,7 +306,7 @@ languagefile {
     S:fluid.holywater=圣水
     S:fluid.honey=蜂蜜
     S:fluid.honeydew=蜂蜜滴
-    S:fluid.hopsmash=Hops Mash
+    S:fluid.hopsmash=啤酒花浆
     S:fluid.hotfryingoil=热食用油
     S:fluid.hydrochloricacid=盐酸
     S:fluid.hydrogen=氢
@@ -617,7 +623,8 @@ languagefile {
     S:fluid.potion.wine=葡萄酒
     S:fluid.propane=丙烷
     S:fluid.pumpkinjuice=南瓜汁
-    S:fluid.purpledrink=Purple Drink
+    S:fluid.purpledrink=紫色饮料
+    S:fluid.purplegrapesmoothie=葡萄冰沙
     S:fluid.radon=氡
     S:fluid.rainbowsap=彩虹树汁
     S:fluid.raspberryjuice=树莓汁
@@ -625,6 +632,7 @@ languagefile {
     S:fluid.redgrapesmoothie=红葡萄冰沙
     S:fluid.redvitriol=硫酸钴
     S:fluid.reedwater=甘蔗汁
+    S:fluid.ricardosanchez=里卡多·桑切斯
     S:fluid.ricevinegar=米醋
     S:fluid.ricewater=米汤
     S:fluid.saltwater=咸水
@@ -657,6 +665,7 @@ languagefile {
     S:fluid.wheathopsmash=麦芽浆
     S:fluid.whitegrapesmoothie=绿葡萄冰沙
     S:fluid.whitevitriol=硫酸锌
+    S:fluid.wine=葡萄酒
     S:fluid.xenon=氙
     S:gt.advcrafting.automation.access=允许自动填充合成表
     S:gt.advcrafting.drop.slot=自动提取你放在这个槽里的物品
@@ -664,13 +673,14 @@ languagefile {
     S:gt.advcrafting.neutral.slot=临时暂存处
     S:gt.advcrafting.put.to.storage=将合成栏里的物品返回到储存栏
     S:gt.autocrafting.insert.blueprint=把自动合成表蓝图放在这里
-    S:gt.behaviour.cropnalyzer=Can scan Crops in World
+    S:gt.behaviour.cropnalyzer=能扫描世界中的作物
     S:gt.behaviour.cure.zombie=可以治愈僵尸村民
     S:gt.behaviour.cure.zombie.strong=可以治愈强壮的僵尸村民
     S:gt.behaviour.cure.zombie.weak=可以治愈虚弱的僵尸村民
     S:gt.behaviour.extinguisher.tooltip=熄灭火
     S:gt.behaviour.extinguisher.uses=剩余使用次数:
     S:gt.behaviour.feed.cat=可以当做猫粮
+    S:gt.behaviour.feed.chocolate=不要把这玩意喂给宠物！
     S:gt.behaviour.feed.dog=可以当做狗粮
     S:gt.behaviour.feed.grass=可用作牛，羊和马食品
     S:gt.behaviour.flintandtinder=燃起一团火焰，概率：
@@ -699,6 +709,7 @@ languagefile {
     S:gt.behaviour.lighter.chance=几率:
     S:gt.behaviour.lighter.tooltip=能使东西着火
     S:gt.behaviour.lighter.uses=剩余使用次数:
+    S:gt.behaviour.paddy=Creates Paddies on Farmland on Rightclick
     S:gt.behaviour.paintremoverspray.tooltip=可以漂白东西
     S:gt.behaviour.paintremoverspray.uses=剩余使用次数:
     S:gt.behaviour.paintspray.0.tooltip=可以把东西染成黑色
@@ -1647,10 +1658,11 @@ languagefile {
     S:gt.crop.onion=洋葱
     S:gt.crop.peanuts=花生
     S:gt.crop.plumbilia=铅莓灌木
-    S:gt.crop.purplegrapes=紫色葡萄
+    S:gt.crop.purplegrapes=紫葡萄
     S:gt.crop.raspberries=树莓灌木
     S:gt.crop.redappletree=红苹果树
     S:gt.crop.redcurrants=红醋栗
+    S:gt.crop.redgrapes=红葡萄
     S:gt.crop.rice=水稻
     S:gt.crop.rye=黑麦
     S:gt.crop.shimmerleaf=微光叶
@@ -1663,6 +1675,7 @@ languagefile {
     S:gt.crop.tine=锡叶藤
     S:gt.crop.tomatoplant=番茄
     S:gt.crop.whitecurrants=白醋栗
+    S:gt.crop.whitegrapes=白葡萄
     S:gt.crop.withereed=凋零者之花
     S:gt.crop.yellowappletree=黄苹果树
     S:gt.display.fluid.name=流体显示器
@@ -1670,6 +1683,7 @@ languagefile {
     S:gt.drink.applevinegar=
     S:gt.drink.apricotsmoothie=
     S:gt.drink.bananasmoothie=
+    S:gt.drink.beetjuice=满足(Beet)我了
     S:gt.drink.binnie.beerale=
     S:gt.drink.binnie.beercorn=
     S:gt.drink.binnie.beerlager=
@@ -1794,11 +1808,17 @@ languagefile {
     S:gt.drink.gooseberryjuice=用鹅做的！
     S:gt.drink.gooseberrysmoothie=
     S:gt.drink.grapefruitsmoothie=
+    S:gt.drink.grapejuice=可以让你神清气爽
+    S:gt.drink.grapesmoothie=
+    S:gt.drink.grc.grapewine0=可以让你神清气爽
+    S:gt.drink.grc.honey=小心对待！
+    S:gt.drink.grcmilk.cream=
+    S:gt.drink.grcmilk.milk=得到牛奶了？
     S:gt.drink.hempoil=
     S:gt.drink.holywater=让神圣与你同在
     S:gt.drink.honey=蜜蜂们的食物
     S:gt.drink.honeydew=甜甜的蜂蜜滴
-    S:gt.drink.hopsmash=Every Beer has a start
+    S:gt.drink.hopsmash=每一杯啤酒的起点
     S:gt.drink.ic2distilledwater=蒸馏水
     S:gt.drink.ice=几乎冻结的水
     S:gt.drink.icetea=Ice 'T'
@@ -1967,7 +1987,7 @@ languagefile {
     S:gt.drink.potion.sweettea=来一场茶会? 在波士顿?
     S:gt.drink.potion.tea=Keep calm and carry on
     S:gt.drink.potion.thick=thick and gooey
-    S:gt.drink.potion.vinegar=Exquisite
+    S:gt.drink.potion.vinegar=品质上乘
     S:gt.drink.potion.vodka=Not to confuse with Water
     S:gt.drink.potion.waterbreathing=水下呼吸 (3:00)
     S:gt.drink.potion.waterbreathing.lingering=§bWater Breathing (0:45)
@@ -1986,11 +2006,13 @@ languagefile {
     S:gt.drink.potion.wine=Ordinary
     S:gt.drink.pumpkinjuice=Perfect for Halloween
     S:gt.drink.purpledrink=How about Lemonade? Or some Ice Tea? I got Purple Drink!
+    S:gt.drink.purplegrapesmoothie=
     S:gt.drink.rainbowsap=是基情之力，还是膜法? 只是魔法。
     S:gt.drink.raspberryjuice=以多台微型计算机集合而成!
     S:gt.drink.raspberrysmoothie=
     S:gt.drink.redgrapesmoothie=
     S:gt.drink.reedwater=I guess this tastes better when fermented
+    S:gt.drink.ricardosanchez=呜吧噜吧嘟吧噜吧嘟吧
     S:gt.drink.ricevinegar=
     S:gt.drink.ricewater=
     S:gt.drink.saltwater=比海水咸7倍！
@@ -2011,6 +2033,7 @@ languagefile {
     S:gt.drink.water=这只是普通的一氧化二氢啊……
     S:gt.drink.wheathopsmash=Also known as 'Duff-Lite'
     S:gt.drink.whitegrapesmoothie=
+    S:gt.drink.wine=品质上乘
     S:gt.integrated_circuit.configuration=配置:
     S:gt.integrated_circuit.name=集成电路
     S:gt.lang.accepts.redstoneflux.lossless=可以无损地接收红石通量(RF)
@@ -2393,8 +2416,8 @@ languagefile {
     S:gt.material.AntiEuropium=反物质铕
     S:gt.material.AntiFarnsium=反物质钫
     S:gt.material.AntiFermium=反物质镄
-    S:gt.material.AntiFlerovium=反物质𫓧
-    S:gt.material.AntiFlerovium298=反物质𫓧-298
+    S:gt.material.AntiFlerovium=反物质鈇
+    S:gt.material.AntiFlerovium298=反物质鈇-298
     S:gt.material.AntiFluorine=反物质氟
     S:gt.material.AntiFrancium=反物质钫
     S:gt.material.AntiGadolinium=反物质钆
@@ -2425,7 +2448,7 @@ languagefile {
     S:gt.material.AntiMacGuffium=反物质乌有岩
     S:gt.material.AntiMagnesium=反物质镁
     S:gt.material.AntiManganese=反物质锰
-    S:gt.material.AntiMeitnerium=反物质鿏
+    S:gt.material.AntiMeitnerium=反物质䥑
     S:gt.material.AntiMendelevium=反物质钔
     S:gt.material.AntiMercury=反物质汞
     S:gt.material.AntiMolybdenum=反物质钼
@@ -2464,7 +2487,7 @@ languagefile {
     S:gt.material.AntiRadon=反物质氡
     S:gt.material.AntiRhenium=反物质铼
     S:gt.material.AntiRhodium=反物质铑
-    S:gt.material.AntiRoentgenium=反物质𬬭
+    S:gt.material.AntiRoentgenium=反物质錀
     S:gt.material.AntiRubidium=反物质铷
     S:gt.material.AntiRuthenium=反物质钌
     S:gt.material.AntiRutherfordium=反物质鑪
@@ -2884,6 +2907,7 @@ languagefile {
     S:gt.material.Brown=褐色
     S:gt.material.BrownLimonite=褐铁矿
     S:gt.material.Butane=丁烷
+    S:gt.material.Butter=黄油
     S:gt.material.Cadmium=镉
     S:gt.material.Caesium=铯
     S:gt.material.Calcite=方解石
@@ -3055,8 +3079,8 @@ languagefile {
     S:gt.material.FishOil=鱼油
     S:gt.material.FishRaw=生鱼肉
     S:gt.material.FishRotten=烂鱼肉
-    S:gt.material.Flerovium=𫓧
-    S:gt.material.Flerovium298=𫓧-298
+    S:gt.material.Flerovium=鈇
+    S:gt.material.Flerovium298=鈇-298
     S:gt.material.Flint=燧石
     S:gt.material.Flour=面粉
     S:gt.material.Fluix=福鲁伊克斯
@@ -3256,7 +3280,7 @@ languagefile {
     S:gt.material.MeatCooked=熟肉
     S:gt.material.MeatRaw=生肉
     S:gt.material.MeatRotten=腐肉
-    S:gt.material.Meitnerium=鿏
+    S:gt.material.Meitnerium=䥑
     S:gt.material.Mendelevium=钔
     S:gt.material.Mercassium=Mercassium
     S:gt.material.Mercury=汞
@@ -3455,7 +3479,7 @@ languagefile {
     S:gt.material.Rhyolite=流纹岩
     S:gt.material.Rice=米
     S:gt.material.RockSalt=岩盐
-    S:gt.material.Roentgenium=𬬭
+    S:gt.material.Roentgenium=錀
     S:gt.material.RomanVitriol=硫酸铜
     S:gt.material.RoseGold=玫瑰金
     S:gt.material.Rubber=橡胶
@@ -3472,6 +3496,7 @@ languagefile {
     S:gt.material.RyuDragonRyder=RyuDragonRyder
     S:gt.material.Salt=盐
     S:gt.material.SaltWater=盐水
+    S:gt.material.SaltedButter=盐味黄油
     S:gt.material.Saltpeter=硝石
     S:gt.material.Samarium=钐
     S:gt.material.Sand=沙子
@@ -4428,10 +4453,22 @@ languagefile {
     S:gt.multiitem.bottles.105.tooltip=
     S:gt.multiitem.bottles.106.name=葡萄冰沙
     S:gt.multiitem.bottles.106.tooltip=
+    S:gt.multiitem.bottles.107.name=葡萄冰沙
+    S:gt.multiitem.bottles.107.tooltip=
+    S:gt.multiitem.bottles.108.name=葡萄冰沙
+    S:gt.multiitem.bottles.108.tooltip=
+    S:gt.multiitem.bottles.109.name=葡萄汁
+    S:gt.multiitem.bottles.109.tooltip=
+    S:gt.multiitem.bottles.110.name=葡萄汁
+    S:gt.multiitem.bottles.110.tooltip=
     S:gt.multiitem.bottles.1100.name=牛奶
     S:gt.multiitem.bottles.1100.tooltip=你需要牛奶♂吗？
     S:gt.multiitem.bottles.1101.name=鲜奶油
     S:gt.multiitem.bottles.1101.tooltip=
+    S:gt.multiitem.bottles.111.name=葡萄酒
+    S:gt.multiitem.bottles.111.tooltip=
+    S:gt.multiitem.bottles.112.name=里卡多·桑切斯
+    S:gt.multiitem.bottles.112.tooltip=一种葡萄酒
     S:gt.multiitem.bottles.1200.name=豆浆
     S:gt.multiitem.bottles.1200.tooltip=牛奶♂的替代者
     S:gt.multiitem.bottles.1300.name=蜂蜜
@@ -4440,7 +4477,7 @@ languagefile {
     S:gt.multiitem.bottles.1301.tooltip=甜甜的蜂蜜
     S:gt.multiitem.bottles.1303.name=圣餐
     S:gt.multiitem.bottles.1303.tooltip=上帝的酒
-    S:gt.multiitem.bottles.1304.name=Mead
+    S:gt.multiitem.bottles.1304.name=蜂蜜酒
     S:gt.multiitem.bottles.1304.tooltip=
     S:gt.multiitem.bottles.1400.name=金苹果汁
     S:gt.multiitem.bottles.1400.tooltip=一个液化了的金苹果 (土豪！)
@@ -4656,6 +4693,8 @@ languagefile {
     S:gt.multiitem.bottles.3805.tooltip=
     S:gt.multiitem.bottles.3900.name=菠萝汁
     S:gt.multiitem.bottles.3900.tooltip=
+    S:gt.multiitem.bottles.3901.name=菠萝酒
+    S:gt.multiitem.bottles.3901.tooltip=
     S:gt.multiitem.bottles.3905.name=菠萝冰沙
     S:gt.multiitem.bottles.3905.tooltip=
     S:gt.multiitem.bottles.4.name=冰水
@@ -4740,8 +4779,10 @@ languagefile {
     S:gt.multiitem.bottles.5600.tooltip=
     S:gt.multiitem.bottles.5604.name=Coconut Cream
     S:gt.multiitem.bottles.5604.tooltip=
-    S:gt.multiitem.bottles.5605.name=Coconut Smoothie
+    S:gt.multiitem.bottles.5605.name=椰奶冰沙
     S:gt.multiitem.bottles.5605.tooltip=
+    S:gt.multiitem.bottles.5700.name=甜菜汁
+    S:gt.multiitem.bottles.5700.tooltip=
     S:gt.multiitem.bottles.600.name=小麦提取液
     S:gt.multiitem.bottles.600.tooltip=这是液体面包还是啥子?
     S:gt.multiitem.bottles.601.name=威士忌
@@ -5123,13 +5164,17 @@ languagefile {
     S:gt.multiitem.food.32107.name=熟肉块
     S:gt.multiitem.food.32107.tooltip=压缩肉块
     S:gt.multiitem.food.32109.name=巧克力块
-    S:gt.multiitem.food.32109.tooltip=不要把它喂给喂猫或狗!
+    S:gt.multiitem.food.32109.tooltip=不要把它喂给猫或狗!
     S:gt.multiitem.food.32111.name=奶酪条
     S:gt.multiitem.food.32111.tooltip=压缩奶酪
     S:gt.multiitem.food.32113.name=生鱼肉块
     S:gt.multiitem.food.32113.tooltip=压缩鱼肉
     S:gt.multiitem.food.32115.name=熟鱼肉块
-    S:gt.multiitem.food.32115.tooltip=Like Fish Sticks? You're a gay Fish
+    S:gt.multiitem.food.32115.tooltip=像鱼条一样？你真是条快活的鱼。
+    S:gt.multiitem.food.32117.name=黄油
+    S:gt.multiitem.food.32117.tooltip=一块纯脂肪
+    S:gt.multiitem.food.32119.name=盐味黄油
+    S:gt.multiitem.food.32119.tooltip=好像它本来就不健康一样
     S:gt.multiitem.food.32700.name=棍上土豆
     S:gt.multiitem.food.32700.tooltip=就像一只螃蟹爪子
     S:gt.multiitem.food.32701.name=棍上熟土豆
@@ -5138,8 +5183,8 @@ languagefile {
     S:gt.multiitem.food.40.tooltip=这可不是根海参
     S:gt.multiitem.food.4000.name=摊平的面饼
     S:gt.multiitem.food.4000.tooltip=用来做披萨
-    S:gt.multiitem.food.4002.name=Flat Dough with Ketchup
-    S:gt.multiitem.food.4002.tooltip=For making Pizza
+    S:gt.multiitem.food.4002.name=撒着番茄酱的面饼
+    S:gt.multiitem.food.4002.tooltip=用以制作披萨
     S:gt.multiitem.food.4010.name=生的芝士披萨
     S:gt.multiitem.food.4010.tooltip=把它放进烤箱!
     S:gt.multiitem.food.4011.name=奶酪 披萨
@@ -5152,8 +5197,8 @@ languagefile {
     S:gt.multiitem.food.4014.tooltip=把它放进烤箱!
     S:gt.multiitem.food.4015.name=蔬菜披萨
     S:gt.multiitem.food.4015.tooltip=他们马上就会想要Gluten免费披萨了...
-    S:gt.multiitem.food.4016.name=粗糙的Pizza Hawaii
-    S:gt.multiitem.food.4016.tooltip=Did you seriously just put Pineapple on a Pizza?
+    S:gt.multiitem.food.4016.name=粗糙的喂给
+    S:gt.multiitem.food.4016.tooltip=你真的把菠萝放在披萨上了？
     S:gt.multiitem.food.4017.name=夏威夷披萨
     S:gt.multiitem.food.4017.tooltip=这什么鬼?! 谁把菠萝放披萨里了!?
     S:gt.multiitem.food.41.name=黄瓜片
@@ -5172,7 +5217,7 @@ languagefile {
     S:gt.multiitem.food.5010.tooltip=无论你叫它什么，它永远也不会带肉!
     S:gt.multiitem.food.5011.name=奶酪汉堡
     S:gt.multiitem.food.5011.tooltip=奶酪味十足!
-    S:gt.multiitem.food.5012.name=肉汉 (jia)堡 (mo)
+    S:gt.multiitem.food.5012.name=肉汉(jia)堡(mo)
     S:gt.multiitem.food.5012.tooltip=MC 汉堡女皇出品
     S:gt.multiitem.food.5013.name=好基友肉堡
     S:gt.multiitem.food.5013.tooltip=Fum is Chum!
@@ -5196,10 +5241,18 @@ languagefile {
     S:gt.multiitem.food.6011.tooltip=跟我一起喊：奶~~~~酪~~~~!
     S:gt.multiitem.food.6014.name=培根三明治
     S:gt.multiitem.food.6014.tooltip=史上最好三明治!
-    S:gt.multiitem.food.6015.name=牛排 (steak)三明治
+    S:gt.multiitem.food.6015.name=牛排(steak)三明治
     S:gt.multiitem.food.6015.tooltip=可不是'Steam 三明治'
     S:gt.multiitem.food.61.name=绿色葡萄干
     S:gt.multiitem.food.61.tooltip=脱水的葡萄
+    S:gt.multiitem.food.63.name=白葡萄
+    S:gt.multiitem.food.63.tooltip=葡萄酒原料
+    S:gt.multiitem.food.64.name=白葡萄干
+    S:gt.multiitem.food.64.tooltip=脱水的葡萄
+    S:gt.multiitem.food.66.name=红葡萄
+    S:gt.multiitem.food.66.tooltip=脱水的葡萄
+    S:gt.multiitem.food.67.name=红葡萄干
+    S:gt.multiitem.food.67.tooltip=脱水的葡萄
     S:gt.multiitem.food.70.name=紫葡萄
     S:gt.multiitem.food.70.tooltip=可以用来做葡萄酒
     S:gt.multiitem.food.7000.name=生面团 (法棍)
@@ -5218,7 +5271,7 @@ languagefile {
     S:gt.multiitem.food.7014.tooltip=只为真男人!(女汉子也行)
     S:gt.multiitem.food.7015.name=大型牛排三明治
     S:gt.multiitem.food.7015.tooltip=是的,我曾经不小心把这东西称之为蒸汽三明治！
-    S:gt.multiitem.food.71.name=紫色葡萄干
+    S:gt.multiitem.food.71.name=紫葡萄干
     S:gt.multiitem.food.71.tooltip=脱水的葡萄
     S:gt.multiitem.food.72.name=巧克力葡萄干
     S:gt.multiitem.food.72.tooltip=包在巧克力外壳里的葡萄干
@@ -9269,8 +9322,8 @@ languagefile {
     S:oredict.blockDustAntiEuropium.name=反物质铕粉块
     S:oredict.blockDustAntiFarnsium.name=反物质钫粉块
     S:oredict.blockDustAntiFermium.name=反物质镄粉块
-    S:oredict.blockDustAntiFlerovium.name=反物质𫓧粉块
-    S:oredict.blockDustAntiFlerovium298.name=反物质𫓧-298粉块
+    S:oredict.blockDustAntiFlerovium.name=反物质鈇粉块
+    S:oredict.blockDustAntiFlerovium298.name=反物质鈇-298粉块
     S:oredict.blockDustAntiFluorine.name=反物质氟粉块
     S:oredict.blockDustAntiFrancium.name=反物质钫粉块
     S:oredict.blockDustAntiGadolinium.name=反物质钆粉块
@@ -9293,7 +9346,7 @@ languagefile {
     S:oredict.blockDustAntiLutetium.name=反物质镥粉块
     S:oredict.blockDustAntiMagnesium.name=反物质镁粉块
     S:oredict.blockDustAntiManganese.name=反物质锰粉块
-    S:oredict.blockDustAntiMeitnerium.name=反物质鿏粉块
+    S:oredict.blockDustAntiMeitnerium.name=反物质䥑粉块
     S:oredict.blockDustAntiMendelevium.name=反物质钔粉块
     S:oredict.blockDustAntiMercury.name=反物质汞粉块
     S:oredict.blockDustAntiMolybdenum.name=反物质钼粉块
@@ -9320,7 +9373,7 @@ languagefile {
     S:oredict.blockDustAntiRadium.name=反物质镭粉块
     S:oredict.blockDustAntiRhenium.name=反物质铼粉块
     S:oredict.blockDustAntiRhodium.name=反物质铑粉块
-    S:oredict.blockDustAntiRoentgenium.name=反物质𬬭粉块
+    S:oredict.blockDustAntiRoentgenium.name=反物质錀粉块
     S:oredict.blockDustAntiRubidium.name=反物质铷粉块
     S:oredict.blockDustAntiRuthenium.name=反物质钌粉块
     S:oredict.blockDustAntiRutherfordium.name=反物质鑪粉块
@@ -9541,8 +9594,8 @@ languagefile {
     S:oredict.blockDustFishCooked.name=熟鱼肉块
     S:oredict.blockDustFishRaw.name=生鱼肉块
     S:oredict.blockDustFishRotten.name=烂鱼肉块
-    S:oredict.blockDustFlerovium.name=𫓧粉块
-    S:oredict.blockDustFlerovium298.name=𫓧-298粉块
+    S:oredict.blockDustFlerovium.name=鈇粉块
+    S:oredict.blockDustFlerovium298.name=鈇-298粉块
     S:oredict.blockDustFlint.name=燧石粉块
     S:oredict.blockDustFluorine.name=氟粉块
     S:oredict.blockDustFluorite.name=萤石粉块
@@ -9671,7 +9724,7 @@ languagefile {
     S:oredict.blockDustMeatCooked.name=熟肉沫块
     S:oredict.blockDustMeatRaw.name=肉沫块
     S:oredict.blockDustMeatRotten.name=烂肉沫块
-    S:oredict.blockDustMeitnerium.name=鿏粉块
+    S:oredict.blockDustMeitnerium.name=䥑粉块
     S:oredict.blockDustMendelevium.name=钔粉块
     S:oredict.blockDustMercury.name=汞粉块
     S:oredict.blockDustMeteoricIron.name=陨铁粉块
@@ -9791,7 +9844,7 @@ languagefile {
     S:oredict.blockDustRhyolite.name=流纹岩粉块
     S:oredict.blockDustRice.name=米粉块
     S:oredict.blockDustRockSalt.name=岩盐块
-    S:oredict.blockDustRoentgenium.name=𬬭粉块
+    S:oredict.blockDustRoentgenium.name=錀粉块
     S:oredict.blockDustRoseGold.name=玫瑰金粉块
     S:oredict.blockDustRubber.name=橡胶浆块
     S:oredict.blockDustRubidium.name=铷粉块
@@ -10106,8 +10159,8 @@ languagefile {
     S:oredict.blockIngotAntiEuropium.name=反物质铕锭块
     S:oredict.blockIngotAntiFarnsium.name=反物质钫锭块
     S:oredict.blockIngotAntiFermium.name=反物质镄锭块
-    S:oredict.blockIngotAntiFlerovium.name=反物质𫓧锭块
-    S:oredict.blockIngotAntiFlerovium298.name=反物质𫓧-298锭块
+    S:oredict.blockIngotAntiFlerovium.name=反物质鈇锭块
+    S:oredict.blockIngotAntiFlerovium298.name=反物质鈇-298锭块
     S:oredict.blockIngotAntiFrancium.name=反物质钫锭块
     S:oredict.blockIngotAntiGadolinium.name=反物质钆锭块
     S:oredict.blockIngotAntiGallium.name=反物质镓锭块
@@ -10126,7 +10179,7 @@ languagefile {
     S:oredict.blockIngotAntiLutetium.name=反物质镥锭块
     S:oredict.blockIngotAntiMagnesium.name=反物质镁锭块
     S:oredict.blockIngotAntiManganese.name=反物质锰锭块
-    S:oredict.blockIngotAntiMeitnerium.name=反物质鿏锭块
+    S:oredict.blockIngotAntiMeitnerium.name=反物质䥑锭块
     S:oredict.blockIngotAntiMendelevium.name=反物质钔锭块
     S:oredict.blockIngotAntiMercury.name=反物质汞锭块
     S:oredict.blockIngotAntiMolybdenum.name=反物质钼锭块
@@ -10151,7 +10204,7 @@ languagefile {
     S:oredict.blockIngotAntiRadium.name=反物质镭锭块
     S:oredict.blockIngotAntiRhenium.name=反物质铼锭块
     S:oredict.blockIngotAntiRhodium.name=反物质铑锭块
-    S:oredict.blockIngotAntiRoentgenium.name=反物质𬬭锭块
+    S:oredict.blockIngotAntiRoentgenium.name=反物质錀锭块
     S:oredict.blockIngotAntiRubidium.name=反物质铷锭块
     S:oredict.blockIngotAntiRuthenium.name=反物质钌锭块
     S:oredict.blockIngotAntiRutherfordium.name=反物质鑪锭块
@@ -10206,6 +10259,7 @@ languagefile {
     S:oredict.blockIngotBoron.name=硼锭块
     S:oredict.blockIngotBrass.name=黄铜锭块
     S:oredict.blockIngotBronze.name=青铜锭块
+    S:oredict.blockIngotButter.name=黄油块
     S:oredict.blockIngotCadmium.name=镉锭块
     S:oredict.blockIngotCaesium.name=铯锭块
     S:oredict.blockIngotCalifornium.name=锎锭块
@@ -10263,8 +10317,8 @@ languagefile {
     S:oredict.blockIngotFishCooked.name=熟鱼肉锭块
     S:oredict.blockIngotFishRaw.name=生鱼肉锭块
     S:oredict.blockIngotFishRotten.name=烂鱼肉锭块
-    S:oredict.blockIngotFlerovium.name=𫓧锭块
-    S:oredict.blockIngotFlerovium298.name=𫓧-298锭块
+    S:oredict.blockIngotFlerovium.name=鈇锭块
+    S:oredict.blockIngotFlerovium298.name=鈇-298锭块
     S:oredict.blockIngotForce.name=力量锭块
     S:oredict.blockIngotFrancium.name=钫锭块
     S:oredict.blockIngotGadolinium.name=钆锭块
@@ -10311,7 +10365,7 @@ languagefile {
     S:oredict.blockIngotMeatCooked.name=熟肉锭块
     S:oredict.blockIngotMeatRaw.name=生肉锭块
     S:oredict.blockIngotMeatRotten.name=腐肉锭块
-    S:oredict.blockIngotMeitnerium.name=鿏锭块
+    S:oredict.blockIngotMeitnerium.name=䥑锭块
     S:oredict.blockIngotMendelevium.name=钔锭块
     S:oredict.blockIngotMercury.name=汞锭块
     S:oredict.blockIngotMeteoricIron.name=陨铁锭块
@@ -10365,13 +10419,14 @@ languagefile {
     S:oredict.blockIngotRedstoneAlloy.name=红硅(红石合金)锭块
     S:oredict.blockIngotRhenium.name=铼锭块
     S:oredict.blockIngotRhodium.name=铑锭块
-    S:oredict.blockIngotRoentgenium.name=𬬭锭块
+    S:oredict.blockIngotRoentgenium.name=錀锭块
     S:oredict.blockIngotRoseGold.name=玫瑰金锭块
     S:oredict.blockIngotRubber.name=橡胶锭块
     S:oredict.blockIngotRubidium.name=铷锭块
     S:oredict.blockIngotRubracium.name=褐铜锭块
     S:oredict.blockIngotRuthenium.name=钌锭块
     S:oredict.blockIngotRutherfordium.name=鑪锭块
+    S:oredict.blockIngotSaltedButter.name=盐味黄油锭块
     S:oredict.blockIngotSamarium.name=钐锭块
     S:oredict.blockIngotSanguinite.name=狱炎石锭块
     S:oredict.blockIngotScandium.name=钪锭块
@@ -10436,6 +10491,12 @@ languagefile {
     S:oredict.blockIngotVoidMetal.name=虚空金属锭块
     S:oredict.blockIngotVulcanite.name=熔岩结晶锭块
     S:oredict.blockIngotVyroxeres.name=幽冥剧毒结晶锭块
+    S:oredict.blockIngotWax.name=蜡锭块
+    S:oredict.blockIngotWaxBee.name=蜂蜡锭块
+    S:oredict.blockIngotWaxMagic.name=魔力蜂蜡锭块
+    S:oredict.blockIngotWaxParaffin.name=石蜡锭块
+    S:oredict.blockIngotWaxPlant.name=植物蜡锭块
+    S:oredict.blockIngotWaxRefractory.name=耐高温蜡锭块
     S:oredict.blockIngotWroughtIron.name=熟铁锭块
     S:oredict.blockIngotYellorium.name=黄铀锭块
     S:oredict.blockIngotYtterbium.name=镱锭块
@@ -10490,8 +10551,8 @@ languagefile {
     S:oredict.blockPlateAntiEuropium.name=反物质铕板块
     S:oredict.blockPlateAntiFarnsium.name=反物质钫板块
     S:oredict.blockPlateAntiFermium.name=反物质镄板块
-    S:oredict.blockPlateAntiFlerovium.name=反物质𫓧板块
-    S:oredict.blockPlateAntiFlerovium298.name=反物质𫓧-298板块
+    S:oredict.blockPlateAntiFlerovium.name=反物质鈇板块
+    S:oredict.blockPlateAntiFlerovium298.name=反物质鈇-298板块
     S:oredict.blockPlateAntiFrancium.name=反物质钫板块
     S:oredict.blockPlateAntiGadolinium.name=反物质钆板块
     S:oredict.blockPlateAntiGallium.name=反物质镓板块
@@ -10510,7 +10571,7 @@ languagefile {
     S:oredict.blockPlateAntiLutetium.name=反物质镥板块
     S:oredict.blockPlateAntiMagnesium.name=反物质镁板块
     S:oredict.blockPlateAntiManganese.name=反物质锰板块
-    S:oredict.blockPlateAntiMeitnerium.name=反物质鿏板块
+    S:oredict.blockPlateAntiMeitnerium.name=反物质䥑板块
     S:oredict.blockPlateAntiMendelevium.name=反物质钔板块
     S:oredict.blockPlateAntiMercury.name=反物质汞板块
     S:oredict.blockPlateAntiMolybdenum.name=反物质钼板块
@@ -10535,7 +10596,7 @@ languagefile {
     S:oredict.blockPlateAntiRadium.name=反物质镭板块
     S:oredict.blockPlateAntiRhenium.name=反物质铼板块
     S:oredict.blockPlateAntiRhodium.name=反物质铑板块
-    S:oredict.blockPlateAntiRoentgenium.name=反物质𬬭板块
+    S:oredict.blockPlateAntiRoentgenium.name=反物质錀板块
     S:oredict.blockPlateAntiRubidium.name=反物质铷板块
     S:oredict.blockPlateAntiRuthenium.name=反物质钌板块
     S:oredict.blockPlateAntiRutherfordium.name=反物质鑪板块
@@ -10656,8 +10717,8 @@ languagefile {
     S:oredict.blockPlateFermium.name=镄板块
     S:oredict.blockPlateFerrite.name=铁氧体板块
     S:oredict.blockPlateFierySteel.name=炙热钢板块
-    S:oredict.blockPlateFlerovium.name=𫓧板块
-    S:oredict.blockPlateFlerovium298.name=𫓧-298板块
+    S:oredict.blockPlateFlerovium.name=鈇板块
+    S:oredict.blockPlateFlerovium298.name=鈇-298板块
     S:oredict.blockPlateForce.name=力量板块
     S:oredict.blockPlateFrancium.name=钫板块
     S:oredict.blockPlateGabbro.name=辉长岩板块
@@ -10808,7 +10869,7 @@ languagefile {
     S:oredict.blockPlateManganese.name=锰板块
     S:oredict.blockPlateManyullyn.name=玛玉灵板块
     S:oredict.blockPlateMarble.name=大理石板块
-    S:oredict.blockPlateMeitnerium.name=鿏板块
+    S:oredict.blockPlateMeitnerium.name=䥑板块
     S:oredict.blockPlateMendelevium.name=钔板块
     S:oredict.blockPlateMercury.name=汞板块
     S:oredict.blockPlateMeteoricIron.name=陨铁板块
@@ -10868,7 +10929,7 @@ languagefile {
     S:oredict.blockPlateRhenium.name=铼板块
     S:oredict.blockPlateRhodium.name=铑板块
     S:oredict.blockPlateRhyolite.name=流纹岩板块
-    S:oredict.blockPlateRoentgenium.name=𬬭板块
+    S:oredict.blockPlateRoentgenium.name=錀板块
     S:oredict.blockPlateRoseGold.name=玫瑰金板块
     S:oredict.blockPlateRubber.name=橡胶片块
     S:oredict.blockPlateRubidium.name=铷板块
@@ -11003,8 +11064,8 @@ languagefile {
     S:oredict.blockSolidAntiEuropium.name=反物质铕块
     S:oredict.blockSolidAntiFarnsium.name=反物质钫块
     S:oredict.blockSolidAntiFermium.name=反物质镄块
-    S:oredict.blockSolidAntiFlerovium.name=反物质𫓧块
-    S:oredict.blockSolidAntiFlerovium298.name=反物质𫓧-298块
+    S:oredict.blockSolidAntiFlerovium.name=反物质鈇块
+    S:oredict.blockSolidAntiFlerovium298.name=反物质鈇-298块
     S:oredict.blockSolidAntiFrancium.name=反物质钫块
     S:oredict.blockSolidAntiGadolinium.name=反物质钆块
     S:oredict.blockSolidAntiGallium.name=反物质镓块
@@ -11023,7 +11084,7 @@ languagefile {
     S:oredict.blockSolidAntiLutetium.name=反物质镥块
     S:oredict.blockSolidAntiMagnesium.name=反物质镁块
     S:oredict.blockSolidAntiManganese.name=反物质锰块
-    S:oredict.blockSolidAntiMeitnerium.name=反物质鿏块
+    S:oredict.blockSolidAntiMeitnerium.name=反物质䥑块
     S:oredict.blockSolidAntiMendelevium.name=反物质钔块
     S:oredict.blockSolidAntiMercury.name=反物质汞块
     S:oredict.blockSolidAntiMolybdenum.name=反物质钼块
@@ -11048,7 +11109,7 @@ languagefile {
     S:oredict.blockSolidAntiRadium.name=反物质镭块
     S:oredict.blockSolidAntiRhenium.name=反物质铼块
     S:oredict.blockSolidAntiRhodium.name=反物质铑块
-    S:oredict.blockSolidAntiRoentgenium.name=反物质𬬭块
+    S:oredict.blockSolidAntiRoentgenium.name=反物质錀块
     S:oredict.blockSolidAntiRubidium.name=反物质铷块
     S:oredict.blockSolidAntiRuthenium.name=反物质钌块
     S:oredict.blockSolidAntiRutherfordium.name=反物质鑪块
@@ -11103,6 +11164,7 @@ languagefile {
     S:oredict.blockSolidBoron.name=硼块
     S:oredict.blockSolidBrass.name=黄铜块
     S:oredict.blockSolidBronze.name=青铜块
+    S:oredict.blockSolidButter.name=固体黄油块
     S:oredict.blockSolidCadmium.name=镉块
     S:oredict.blockSolidCaesium.name=铯块
     S:oredict.blockSolidCalifornium.name=锎块
@@ -11160,8 +11222,8 @@ languagefile {
     S:oredict.blockSolidFishCooked.name=熟鱼肉块
     S:oredict.blockSolidFishRaw.name=生鱼肉块
     S:oredict.blockSolidFishRotten.name=烂鱼肉块
-    S:oredict.blockSolidFlerovium.name=𫓧块
-    S:oredict.blockSolidFlerovium298.name=𫓧-298块
+    S:oredict.blockSolidFlerovium.name=鈇块
+    S:oredict.blockSolidFlerovium298.name=鈇-298块
     S:oredict.blockSolidForce.name=力量块
     S:oredict.blockSolidFrancium.name=钫块
     S:oredict.blockSolidGadolinium.name=钆块
@@ -11208,7 +11270,7 @@ languagefile {
     S:oredict.blockSolidMeatCooked.name=熟肉块
     S:oredict.blockSolidMeatRaw.name=生肉块
     S:oredict.blockSolidMeatRotten.name=腐肉块
-    S:oredict.blockSolidMeitnerium.name=鿏块
+    S:oredict.blockSolidMeitnerium.name=䥑块
     S:oredict.blockSolidMendelevium.name=钔块
     S:oredict.blockSolidMercury.name=汞块
     S:oredict.blockSolidMeteoricIron.name=陨铁块
@@ -11262,13 +11324,14 @@ languagefile {
     S:oredict.blockSolidRedstoneAlloy.name=红硅(红石合金)块
     S:oredict.blockSolidRhenium.name=铼块
     S:oredict.blockSolidRhodium.name=铑块
-    S:oredict.blockSolidRoentgenium.name=𬬭块
+    S:oredict.blockSolidRoentgenium.name=錀块
     S:oredict.blockSolidRoseGold.name=玫瑰金块
     S:oredict.blockSolidRubber.name=橡胶块
     S:oredict.blockSolidRubidium.name=铷块
     S:oredict.blockSolidRubracium.name=褐铜块
     S:oredict.blockSolidRuthenium.name=钌块
     S:oredict.blockSolidRutherfordium.name=鑪块
+    S:oredict.blockSolidSaltedButter.name=固体盐味黄油块
     S:oredict.blockSolidSamarium.name=钐块
     S:oredict.blockSolidSanguinite.name=狱炎石块
     S:oredict.blockSolidScandium.name=钪块
@@ -11332,6 +11395,12 @@ languagefile {
     S:oredict.blockSolidVoidMetal.name=虚空金属块
     S:oredict.blockSolidVulcanite.name=熔岩结晶块
     S:oredict.blockSolidVyroxeres.name=幽冥剧毒结晶块
+    S:oredict.blockSolidWax.name=固体蜡块
+    S:oredict.blockSolidWaxBee.name=固体蜂蜡块
+    S:oredict.blockSolidWaxMagic.name=固体魔力蜂蜡块
+    S:oredict.blockSolidWaxParaffin.name=固体石蜡块
+    S:oredict.blockSolidWaxPlant.name=固体植物蜡块
+    S:oredict.blockSolidWaxRefractory.name=固体耐高温蜡块
     S:oredict.blockSolidWroughtIron.name=熟铁块
     S:oredict.blockSolidYellorium.name=黄铀块
     S:oredict.blockSolidYtterbium.name=镱块
@@ -11392,8 +11461,8 @@ languagefile {
     S:oredict.boltAntiEuropium.name=反物质铕螺栓
     S:oredict.boltAntiFarnsium.name=反物质钫螺栓
     S:oredict.boltAntiFermium.name=反物质镄螺栓
-    S:oredict.boltAntiFlerovium.name=反物质𫓧螺栓
-    S:oredict.boltAntiFlerovium298.name=反物质𫓧-298螺栓
+    S:oredict.boltAntiFlerovium.name=反物质鈇螺栓
+    S:oredict.boltAntiFlerovium298.name=反物质鈇-298螺栓
     S:oredict.boltAntiFrancium.name=反物质钫螺栓
     S:oredict.boltAntiGadolinium.name=反物质钆螺栓
     S:oredict.boltAntiGallium.name=反物质镓螺栓
@@ -11412,7 +11481,7 @@ languagefile {
     S:oredict.boltAntiLutetium.name=反物质镥螺栓
     S:oredict.boltAntiMagnesium.name=反物质镁螺栓
     S:oredict.boltAntiManganese.name=反物质锰螺栓
-    S:oredict.boltAntiMeitnerium.name=反物质鿏螺栓
+    S:oredict.boltAntiMeitnerium.name=反物质䥑螺栓
     S:oredict.boltAntiMendelevium.name=反物质钔螺栓
     S:oredict.boltAntiMercury.name=反物质汞螺栓
     S:oredict.boltAntiMolybdenum.name=反物质钼螺栓
@@ -11437,7 +11506,7 @@ languagefile {
     S:oredict.boltAntiRadium.name=反物质Radium螺栓
     S:oredict.boltAntiRhenium.name=反物质铼螺栓
     S:oredict.boltAntiRhodium.name=反物质铑螺栓
-    S:oredict.boltAntiRoentgenium.name=反物质𬬭螺栓
+    S:oredict.boltAntiRoentgenium.name=反物质錀螺栓
     S:oredict.boltAntiRubidium.name=反物质铷螺栓
     S:oredict.boltAntiRuthenium.name=反物质钌螺栓
     S:oredict.boltAntiRutherfordium.name=反物质鑪螺栓
@@ -11581,8 +11650,8 @@ languagefile {
     S:oredict.boltFerrite.name=Ferrite螺栓
     S:oredict.boltFierySteel.name=炙热钢螺栓
     S:oredict.boltFirestone.name=火石螺栓
-    S:oredict.boltFlerovium.name=𫓧螺栓
-    S:oredict.boltFlerovium298.name=𫓧-298螺栓
+    S:oredict.boltFlerovium.name=鈇螺栓
+    S:oredict.boltFlerovium298.name=鈇-298螺栓
     S:oredict.boltFlint.name=燧石螺栓
     S:oredict.boltFoolsRuby.name=红宝石螺栓
     S:oredict.boltForce.name=力量螺栓
@@ -11663,7 +11732,7 @@ languagefile {
     S:oredict.boltManganese.name=锰螺栓
     S:oredict.boltManyullyn.name=玛玉灵螺栓
     S:oredict.boltMarble.name=大理石螺栓
-    S:oredict.boltMeitnerium.name=鿏螺栓
+    S:oredict.boltMeitnerium.name=䥑螺栓
     S:oredict.boltMendelevium.name=钔螺栓
     S:oredict.boltMercury.name=汞螺栓
     S:oredict.boltMeteoricIron.name=陨铁螺栓
@@ -11736,7 +11805,7 @@ languagefile {
     S:oredict.boltRhenium.name=铼螺栓
     S:oredict.boltRhodium.name=铑螺栓
     S:oredict.boltRhyolite.name=流纹岩螺栓
-    S:oredict.boltRoentgenium.name=𬬭螺栓
+    S:oredict.boltRoentgenium.name=錀螺栓
     S:oredict.boltRoseGold.name=玫瑰金螺栓
     S:oredict.boltRosegold.name=玫瑰金螺栓
     S:oredict.boltRubber.name=橡胶螺栓
@@ -13043,8 +13112,8 @@ languagefile {
     S:oredict.chemtubeAntiEuropium.name=反物质铕试管
     S:oredict.chemtubeAntiFarnsium.name=反物质钫试管
     S:oredict.chemtubeAntiFermium.name=反物质镄试管
-    S:oredict.chemtubeAntiFlerovium.name=反物质𫓧试管
-    S:oredict.chemtubeAntiFlerovium298.name=反物质𫓧-298试管
+    S:oredict.chemtubeAntiFlerovium.name=反物质鈇试管
+    S:oredict.chemtubeAntiFlerovium298.name=反物质鈇-298试管
     S:oredict.chemtubeAntiFluorine.name=反物质氟试管
     S:oredict.chemtubeAntiFrancium.name=反物质钫试管
     S:oredict.chemtubeAntiGadolinium.name=反物质钆试管
@@ -13073,7 +13142,7 @@ languagefile {
     S:oredict.chemtubeAntiMacGuffium.name=反物质乌有岩试管
     S:oredict.chemtubeAntiMagnesium.name=反物质镁试管
     S:oredict.chemtubeAntiManganese.name=反物质锰试管
-    S:oredict.chemtubeAntiMeitnerium.name=反物质鿏试管
+    S:oredict.chemtubeAntiMeitnerium.name=反物质䥑试管
     S:oredict.chemtubeAntiMendelevium.name=反物质钔试管
     S:oredict.chemtubeAntiMercury.name=反物质汞试管
     S:oredict.chemtubeAntiMolybdenum.name=反物质钼试管
@@ -13108,7 +13177,7 @@ languagefile {
     S:oredict.chemtubeAntiRadon.name=反物质氡试管
     S:oredict.chemtubeAntiRhenium.name=反物质铼试管
     S:oredict.chemtubeAntiRhodium.name=反物质铑试管
-    S:oredict.chemtubeAntiRoentgenium.name=反物质𬬭试管
+    S:oredict.chemtubeAntiRoentgenium.name=反物质錀试管
     S:oredict.chemtubeAntiRubidium.name=反物质铷试管
     S:oredict.chemtubeAntiRuthenium.name=反物质钌试管
     S:oredict.chemtubeAntiRutherfordium.name=反物质鑪试管
@@ -13485,6 +13554,7 @@ languagefile {
     S:oredict.chemtubeBrown.name=褐色试管
     S:oredict.chemtubeBrownLimonite.name=褐铁矿试管
     S:oredict.chemtubeButane.name=丁烷试管
+    S:oredict.chemtubeButter.name=黄油试管
     S:oredict.chemtubeCadmium.name=镉试管
     S:oredict.chemtubeCaesium.name=铯试管
     S:oredict.chemtubeCalcite.name=方解石试管
@@ -13618,14 +13688,14 @@ languagefile {
     S:oredict.chemtubeFermium.name=镄试管
     S:oredict.chemtubeFerrite.name=铁氧体试管
     S:oredict.chemtubeFerrovanadium.name=钒磁铁矿试管
-    S:oredict.chemtubeFierySteel.name=炙热Blood试管
+    S:oredict.chemtubeFierySteel.name=炙热钢试管
     S:oredict.chemtubeFirestone.name=火石试管
     S:oredict.chemtubeFishCooked.name=熟鱼肉试管
     S:oredict.chemtubeFishOil.name=鱼油试管
     S:oredict.chemtubeFishRaw.name=生鱼肉试管
     S:oredict.chemtubeFishRotten.name=烂鱼肉试管
-    S:oredict.chemtubeFlerovium.name=𫓧试管
-    S:oredict.chemtubeFlerovium298.name=𫓧-298试管
+    S:oredict.chemtubeFlerovium.name=鈇试管
+    S:oredict.chemtubeFlerovium298.name=鈇-298试管
     S:oredict.chemtubeFlint.name=燧石试管
     S:oredict.chemtubeFluorine.name=氟试管
     S:oredict.chemtubeFluorite.name=萤石试管 
@@ -13783,7 +13853,7 @@ languagefile {
     S:oredict.chemtubeMeatCooked.name=熟肉试管
     S:oredict.chemtubeMeatRaw.name=生肉试管
     S:oredict.chemtubeMeatRotten.name=腐肉试管
-    S:oredict.chemtubeMeitnerium.name=鿏试管
+    S:oredict.chemtubeMeitnerium.name=䥑试管
     S:oredict.chemtubeMendelevium.name=钔试管
     S:oredict.chemtubeMercury.name=汞试管
     S:oredict.chemtubeMeteoricIron.name=陨铁试管
@@ -13925,7 +13995,7 @@ languagefile {
     S:oredict.chemtubeRhyolite.name=流纹岩试管
     S:oredict.chemtubeRice.name=米试管
     S:oredict.chemtubeRockSalt.name=岩盐试管
-    S:oredict.chemtubeRoentgenium.name=𬬭试管
+    S:oredict.chemtubeRoentgenium.name=錀试管
     S:oredict.chemtubeRoseGold.name=玫瑰金试管
     S:oredict.chemtubeRubber.name=橡胶试管
     S:oredict.chemtubeRubidium.name=铷试管
@@ -13938,6 +14008,7 @@ languagefile {
     S:oredict.chemtubeRye.name=黑麦试管
     S:oredict.chemtubeSalt.name=盐试管
     S:oredict.chemtubeSaltWater.name=盐水试管
+    S:oredict.chemtubeSaltedButter.name=盐味黄油试管
     S:oredict.chemtubeSaltpeter.name=硝酸钾试管
     S:oredict.chemtubeSamarium.name=钐试管
     S:oredict.chemtubeSand.name=沙试管
@@ -14328,8 +14399,8 @@ languagefile {
     S:oredict.chunkGtAntiEuropium.name=反物质铕小块
     S:oredict.chunkGtAntiFarnsium.name=反物质钫小块
     S:oredict.chunkGtAntiFermium.name=反物质镄小块
-    S:oredict.chunkGtAntiFlerovium.name=反物质𫓧小块
-    S:oredict.chunkGtAntiFlerovium298.name=反物质𫓧-298小块
+    S:oredict.chunkGtAntiFlerovium.name=反物质鈇小块
+    S:oredict.chunkGtAntiFlerovium298.name=反物质鈇-298小块
     S:oredict.chunkGtAntiFrancium.name=反物质钫小块
     S:oredict.chunkGtAntiGadolinium.name=反物质钆小块
     S:oredict.chunkGtAntiGallium.name=反物质镓小块
@@ -14348,7 +14419,7 @@ languagefile {
     S:oredict.chunkGtAntiLutetium.name=反物质镥小块
     S:oredict.chunkGtAntiMagnesium.name=反物质镁小块
     S:oredict.chunkGtAntiManganese.name=反物质锰小块
-    S:oredict.chunkGtAntiMeitnerium.name=反物质鿏小块
+    S:oredict.chunkGtAntiMeitnerium.name=反物质䥑小块
     S:oredict.chunkGtAntiMendelevium.name=反物质钔小块
     S:oredict.chunkGtAntiMercury.name=反物质汞小块
     S:oredict.chunkGtAntiMolybdenum.name=反物质钼小块
@@ -14373,7 +14444,7 @@ languagefile {
     S:oredict.chunkGtAntiRadium.name=反物质镭小块
     S:oredict.chunkGtAntiRhenium.name=反物质铼小块
     S:oredict.chunkGtAntiRhodium.name=反物质铑小块
-    S:oredict.chunkGtAntiRoentgenium.name=反物质𬬭小块
+    S:oredict.chunkGtAntiRoentgenium.name=反物质錀小块
     S:oredict.chunkGtAntiRubidium.name=反物质铷小块
     S:oredict.chunkGtAntiRuthenium.name=反物质钌小块
     S:oredict.chunkGtAntiRutherfordium.name=反物质鑪小块
@@ -14428,6 +14499,7 @@ languagefile {
     S:oredict.chunkGtBoron.name=硼小块
     S:oredict.chunkGtBrass.name=黄铜小块
     S:oredict.chunkGtBronze.name=青铜小块
+    S:oredict.chunkGtButter.name=黄油小块
     S:oredict.chunkGtCadmium.name=镉小块
     S:oredict.chunkGtCaesium.name=铯小块
     S:oredict.chunkGtCalifornium.name=锎小块
@@ -14485,8 +14557,8 @@ languagefile {
     S:oredict.chunkGtFishCooked.name=熟鱼肉小块
     S:oredict.chunkGtFishRaw.name=生鱼肉小块
     S:oredict.chunkGtFishRotten.name=烂鱼肉小块
-    S:oredict.chunkGtFlerovium.name=𫓧小块
-    S:oredict.chunkGtFlerovium298.name=𫓧-298小块
+    S:oredict.chunkGtFlerovium.name=鈇小块
+    S:oredict.chunkGtFlerovium298.name=鈇-298小块
     S:oredict.chunkGtForce.name=力量小块
     S:oredict.chunkGtFrancium.name=钫小块
     S:oredict.chunkGtGadolinium.name=钆小块
@@ -14533,7 +14605,7 @@ languagefile {
     S:oredict.chunkGtMeatCooked.name=熟肉小块
     S:oredict.chunkGtMeatRaw.name=生肉小块
     S:oredict.chunkGtMeatRotten.name=腐肉小块
-    S:oredict.chunkGtMeitnerium.name=鿏小块
+    S:oredict.chunkGtMeitnerium.name=䥑小块
     S:oredict.chunkGtMendelevium.name=钔小块
     S:oredict.chunkGtMercury.name=汞小块
     S:oredict.chunkGtMeteoricIron.name=陨铁小块
@@ -14587,13 +14659,14 @@ languagefile {
     S:oredict.chunkGtRedstoneAlloy.name=红硅(红石合金)小块
     S:oredict.chunkGtRhenium.name=铼小块
     S:oredict.chunkGtRhodium.name=铑小块
-    S:oredict.chunkGtRoentgenium.name=𬬭小块
+    S:oredict.chunkGtRoentgenium.name=錀小块
     S:oredict.chunkGtRoseGold.name=玫瑰金小块
     S:oredict.chunkGtRubber.name=橡胶小块
     S:oredict.chunkGtRubidium.name=铷小块
     S:oredict.chunkGtRubracium.name=褐铜小块
     S:oredict.chunkGtRuthenium.name=钌小块
     S:oredict.chunkGtRutherfordium.name=鑪小块
+    S:oredict.chunkGtSaltedButter.name=盐味黄油小块
     S:oredict.chunkGtSamarium.name=钐小块
     S:oredict.chunkGtSanguinite.name=狱炎石小块
     S:oredict.chunkGtScandium.name=钪小块
@@ -14657,6 +14730,12 @@ languagefile {
     S:oredict.chunkGtVoidMetal.name=虚空金属小块
     S:oredict.chunkGtVulcanite.name=熔岩结晶小块
     S:oredict.chunkGtVyroxeres.name=幽冥剧毒结晶小块
+    S:oredict.chunkGtWax.name=蜡小块
+    S:oredict.chunkGtWaxBee.name=蜂蜡小块
+    S:oredict.chunkGtWaxMagic.name=魔力蜂蜡小块
+    S:oredict.chunkGtWaxParaffin.name=石蜡小块
+    S:oredict.chunkGtWaxPlant.name=植物蜡小块
+    S:oredict.chunkGtWaxRefractory.name=耐高温蜡小块
     S:oredict.chunkGtWroughtIron.name=熟铁小块
     S:oredict.chunkGtYellorium.name=黄铀小块
     S:oredict.chunkGtYtterbium.name=镱小块
@@ -14725,8 +14804,8 @@ languagefile {
     S:oredict.crateGtDustAntiEuropium.name=反物质铕粉板条箱
     S:oredict.crateGtDustAntiFarnsium.name=反物质钫粉板条箱
     S:oredict.crateGtDustAntiFermium.name=反物质镄粉板条箱
-    S:oredict.crateGtDustAntiFlerovium.name=反物质𫓧粉板条箱
-    S:oredict.crateGtDustAntiFlerovium298.name=反物质𫓧-298粉板条箱
+    S:oredict.crateGtDustAntiFlerovium.name=反物质鈇粉板条箱
+    S:oredict.crateGtDustAntiFlerovium298.name=反物质鈇-298粉板条箱
     S:oredict.crateGtDustAntiFluorine.name=反物质氟粉板条箱
     S:oredict.crateGtDustAntiFrancium.name=反物质钫粉板条箱
     S:oredict.crateGtDustAntiGadolinium.name=反物质钆粉板条箱
@@ -14749,7 +14828,7 @@ languagefile {
     S:oredict.crateGtDustAntiLutetium.name=反物质镥粉板条箱
     S:oredict.crateGtDustAntiMagnesium.name=反物质镁粉板条箱
     S:oredict.crateGtDustAntiManganese.name=反物质锰粉板条箱
-    S:oredict.crateGtDustAntiMeitnerium.name=反物质鿏粉板条箱
+    S:oredict.crateGtDustAntiMeitnerium.name=反物质䥑粉板条箱
     S:oredict.crateGtDustAntiMendelevium.name=反物质钔粉板条箱
     S:oredict.crateGtDustAntiMercury.name=反物质汞粉板条箱
     S:oredict.crateGtDustAntiMolybdenum.name=反物质钼粉板条箱
@@ -14776,7 +14855,7 @@ languagefile {
     S:oredict.crateGtDustAntiRadium.name=反物质镭粉板条箱
     S:oredict.crateGtDustAntiRhenium.name=反物质铼粉板条箱
     S:oredict.crateGtDustAntiRhodium.name=反物质铑粉板条箱
-    S:oredict.crateGtDustAntiRoentgenium.name=反物质𬬭粉板条箱
+    S:oredict.crateGtDustAntiRoentgenium.name=反物质錀粉板条箱
     S:oredict.crateGtDustAntiRubidium.name=反物质铷粉板条箱
     S:oredict.crateGtDustAntiRuthenium.name=反物质钌粉板条箱
     S:oredict.crateGtDustAntiRutherfordium.name=反物质鑪粉板条箱
@@ -14997,8 +15076,8 @@ languagefile {
     S:oredict.crateGtDustFishCooked.name=熟鱼肉板条箱
     S:oredict.crateGtDustFishRaw.name=生鱼肉板条箱
     S:oredict.crateGtDustFishRotten.name=烂鱼肉板条箱
-    S:oredict.crateGtDustFlerovium.name=𫓧粉板条箱
-    S:oredict.crateGtDustFlerovium298.name=𫓧-298粉板条箱
+    S:oredict.crateGtDustFlerovium.name=鈇粉板条箱
+    S:oredict.crateGtDustFlerovium298.name=鈇-298粉板条箱
     S:oredict.crateGtDustFlint.name=燧石粉板条箱
     S:oredict.crateGtDustFluorine.name=氟粉板条箱
     S:oredict.crateGtDustFluorite.name=萤石粉板条箱
@@ -15126,7 +15205,7 @@ languagefile {
     S:oredict.crateGtDustMeatCooked.name=熟肉沫板条箱
     S:oredict.crateGtDustMeatRaw.name=肉沫板条箱
     S:oredict.crateGtDustMeatRotten.name=腐肉沫板条箱
-    S:oredict.crateGtDustMeitnerium.name=鿏粉板条箱
+    S:oredict.crateGtDustMeitnerium.name=䥑粉板条箱
     S:oredict.crateGtDustMendelevium.name=钔粉板条箱
     S:oredict.crateGtDustMercury.name=汞粉板条箱
     S:oredict.crateGtDustMeteoricIron.name=陨铁粉板条箱
@@ -15246,7 +15325,7 @@ languagefile {
     S:oredict.crateGtDustRhyolite.name=流纹岩粉板条箱
     S:oredict.crateGtDustRice.name=米板条箱
     S:oredict.crateGtDustRockSalt.name=岩盐板条箱
-    S:oredict.crateGtDustRoentgenium.name=𬬭粉板条箱
+    S:oredict.crateGtDustRoentgenium.name=錀粉板条箱
     S:oredict.crateGtDustRoseGold.name=玫瑰金粉板条箱
     S:oredict.crateGtDustRubber.name=橡胶浆板条箱
     S:oredict.crateGtDustRubidium.name=铷粉板条箱
@@ -15561,8 +15640,8 @@ languagefile {
     S:oredict.crateGtIngotAntiEuropium.name=反物质铕锭板条箱
     S:oredict.crateGtIngotAntiFarnsium.name=反物质钫锭板条箱
     S:oredict.crateGtIngotAntiFermium.name=反物质镄锭板条箱
-    S:oredict.crateGtIngotAntiFlerovium.name=反物质𫓧锭板条箱
-    S:oredict.crateGtIngotAntiFlerovium298.name=反物质𫓧-298锭板条箱
+    S:oredict.crateGtIngotAntiFlerovium.name=反物质鈇锭板条箱
+    S:oredict.crateGtIngotAntiFlerovium298.name=反物质鈇-298锭板条箱
     S:oredict.crateGtIngotAntiFrancium.name=反物质钫锭板条箱
     S:oredict.crateGtIngotAntiGadolinium.name=反物质钆锭板条箱
     S:oredict.crateGtIngotAntiGallium.name=反物质镓锭板条箱
@@ -15581,7 +15660,7 @@ languagefile {
     S:oredict.crateGtIngotAntiLutetium.name=反物质镥锭板条箱
     S:oredict.crateGtIngotAntiMagnesium.name=反物质镁锭板条箱
     S:oredict.crateGtIngotAntiManganese.name=反物质锰锭板条箱
-    S:oredict.crateGtIngotAntiMeitnerium.name=反物质鿏锭板条箱
+    S:oredict.crateGtIngotAntiMeitnerium.name=反物质䥑锭板条箱
     S:oredict.crateGtIngotAntiMendelevium.name=反物质钔锭板条箱
     S:oredict.crateGtIngotAntiMercury.name=反物质汞锭板条箱
     S:oredict.crateGtIngotAntiMolybdenum.name=反物质钼锭板条箱
@@ -15606,7 +15685,7 @@ languagefile {
     S:oredict.crateGtIngotAntiRadium.name=反物质镭锭板条箱
     S:oredict.crateGtIngotAntiRhenium.name=反物质铼锭板条箱
     S:oredict.crateGtIngotAntiRhodium.name=反物质铑锭板条箱
-    S:oredict.crateGtIngotAntiRoentgenium.name=反物质𬬭锭板条箱
+    S:oredict.crateGtIngotAntiRoentgenium.name=反物质錀锭板条箱
     S:oredict.crateGtIngotAntiRubidium.name=反物质铷锭板条箱
     S:oredict.crateGtIngotAntiRuthenium.name=反物质钌锭板条箱
     S:oredict.crateGtIngotAntiRutherfordium.name=反物质鑪锭板条箱
@@ -15661,6 +15740,7 @@ languagefile {
     S:oredict.crateGtIngotBoron.name=硼锭板条箱
     S:oredict.crateGtIngotBrass.name=黄铜锭板条箱
     S:oredict.crateGtIngotBronze.name=青铜锭板条箱
+    S:oredict.crateGtIngotButter.name=黄油板条箱
     S:oredict.crateGtIngotCadmium.name=镉锭板条箱
     S:oredict.crateGtIngotCaesium.name=铯锭板条箱
     S:oredict.crateGtIngotCalifornium.name=锎锭板条箱
@@ -15718,8 +15798,8 @@ languagefile {
     S:oredict.crateGtIngotFishCooked.name=熟鱼肉锭板条箱
     S:oredict.crateGtIngotFishRaw.name=生鱼肉锭板条箱
     S:oredict.crateGtIngotFishRotten.name=烂鱼肉锭板条箱
-    S:oredict.crateGtIngotFlerovium.name=𫓧锭板条箱
-    S:oredict.crateGtIngotFlerovium298.name=𫓧-298锭板条箱
+    S:oredict.crateGtIngotFlerovium.name=鈇锭板条箱
+    S:oredict.crateGtIngotFlerovium298.name=鈇-298锭板条箱
     S:oredict.crateGtIngotForce.name=力量锭板条箱
     S:oredict.crateGtIngotFrancium.name=钫锭板条箱
     S:oredict.crateGtIngotGadolinium.name=钆锭板条箱
@@ -15766,7 +15846,7 @@ languagefile {
     S:oredict.crateGtIngotMeatCooked.name=熟肉锭板条箱
     S:oredict.crateGtIngotMeatRaw.name=生肉锭板条箱
     S:oredict.crateGtIngotMeatRotten.name=腐肉锭板条箱
-    S:oredict.crateGtIngotMeitnerium.name=鿏锭板条箱
+    S:oredict.crateGtIngotMeitnerium.name=䥑锭板条箱
     S:oredict.crateGtIngotMendelevium.name=钔锭板条箱
     S:oredict.crateGtIngotMercury.name=汞锭板条箱
     S:oredict.crateGtIngotMeteoricIron.name=陨铁锭板条箱
@@ -15820,13 +15900,14 @@ languagefile {
     S:oredict.crateGtIngotRedstoneAlloy.name=红硅(红石合金)锭板条箱
     S:oredict.crateGtIngotRhenium.name=铼锭板条箱
     S:oredict.crateGtIngotRhodium.name=铑锭板条箱
-    S:oredict.crateGtIngotRoentgenium.name=𬬭锭板条箱
+    S:oredict.crateGtIngotRoentgenium.name=錀锭板条箱
     S:oredict.crateGtIngotRoseGold.name=玫瑰金锭板条箱
     S:oredict.crateGtIngotRubber.name=橡胶锭板条箱
     S:oredict.crateGtIngotRubidium.name=铷锭板条箱
     S:oredict.crateGtIngotRubracium.name=褐铜锭板条箱
     S:oredict.crateGtIngotRuthenium.name=钌锭板条箱
     S:oredict.crateGtIngotRutherfordium.name=鑪锭板条箱
+    S:oredict.crateGtIngotSaltedButter.name=盐味黄油板条箱
     S:oredict.crateGtIngotSamarium.name=钐锭板条箱
     S:oredict.crateGtIngotSanguinite.name=狱炎石锭板条箱
     S:oredict.crateGtIngotScandium.name=钪锭板条箱
@@ -15890,6 +15971,12 @@ languagefile {
     S:oredict.crateGtIngotVoidMetal.name=虚空金属锭板条箱
     S:oredict.crateGtIngotVulcanite.name=熔岩结晶锭板条箱
     S:oredict.crateGtIngotVyroxeres.name=幽冥剧毒结晶锭板条箱
+    S:oredict.crateGtIngotWax.name=蜡锭板条箱
+    S:oredict.crateGtIngotWaxBee.name=蜂蜡锭板条箱
+    S:oredict.crateGtIngotWaxMagic.name=魔力蜂蜡锭板条箱
+    S:oredict.crateGtIngotWaxParaffin.name=石蜡锭板条箱
+    S:oredict.crateGtIngotWaxPlant.name=植物蜡锭板条箱
+    S:oredict.crateGtIngotWaxRefractory.name=耐高温蜡锭板条箱
     S:oredict.crateGtIngotWroughtIron.name=熟铁锭板条箱
     S:oredict.crateGtIngotYellorium.name=黄铀锭板条箱
     S:oredict.crateGtIngotYtterbium.name=镱锭板条箱
@@ -15944,8 +16031,8 @@ languagefile {
     S:oredict.crateGtPlateAntiEuropium.name=反物质铕板板条箱
     S:oredict.crateGtPlateAntiFarnsium.name=反物质钫板板条箱
     S:oredict.crateGtPlateAntiFermium.name=反物质镄板板条箱
-    S:oredict.crateGtPlateAntiFlerovium.name=反物质𫓧板板条箱
-    S:oredict.crateGtPlateAntiFlerovium298.name=反物质𫓧-298板板条箱
+    S:oredict.crateGtPlateAntiFlerovium.name=反物质鈇板板条箱
+    S:oredict.crateGtPlateAntiFlerovium298.name=反物质鈇-298板板条箱
     S:oredict.crateGtPlateAntiFrancium.name=反物质钫板板条箱
     S:oredict.crateGtPlateAntiGadolinium.name=反物质钆板板条箱
     S:oredict.crateGtPlateAntiGallium.name=反物质镓板板条箱
@@ -15964,7 +16051,7 @@ languagefile {
     S:oredict.crateGtPlateAntiLutetium.name=反物质镥板板条箱
     S:oredict.crateGtPlateAntiMagnesium.name=反物质镁板板条箱
     S:oredict.crateGtPlateAntiManganese.name=反物质锰板板条箱
-    S:oredict.crateGtPlateAntiMeitnerium.name=反物质鿏板板条箱
+    S:oredict.crateGtPlateAntiMeitnerium.name=反物质䥑板板条箱
     S:oredict.crateGtPlateAntiMendelevium.name=反物质钔板板条箱
     S:oredict.crateGtPlateAntiMercury.name=反物质汞板板条箱
     S:oredict.crateGtPlateAntiMolybdenum.name=反物质钼板板条箱
@@ -15989,7 +16076,7 @@ languagefile {
     S:oredict.crateGtPlateAntiRadium.name=反物质镭板板条箱
     S:oredict.crateGtPlateAntiRhenium.name=反物质铼板板条箱
     S:oredict.crateGtPlateAntiRhodium.name=反物质铑板板条箱
-    S:oredict.crateGtPlateAntiRoentgenium.name=反物质𬬭板板条箱
+    S:oredict.crateGtPlateAntiRoentgenium.name=反物质錀板板条箱
     S:oredict.crateGtPlateAntiRubidium.name=反物质铷板板条箱
     S:oredict.crateGtPlateAntiRuthenium.name=反物质钌板板条箱
     S:oredict.crateGtPlateAntiRutherfordium.name=反物质鑪板板条箱
@@ -16110,8 +16197,8 @@ languagefile {
     S:oredict.crateGtPlateFermium.name=镄板板条箱
     S:oredict.crateGtPlateFerrite.name=铁氧体板板条箱
     S:oredict.crateGtPlateFierySteel.name=炙热钢板板条箱
-    S:oredict.crateGtPlateFlerovium.name=𫓧板板条箱
-    S:oredict.crateGtPlateFlerovium298.name=𫓧-298板板条箱
+    S:oredict.crateGtPlateFlerovium.name=鈇板板条箱
+    S:oredict.crateGtPlateFlerovium298.name=鈇-298板板条箱
     S:oredict.crateGtPlateForce.name=力量板板条箱
     S:oredict.crateGtPlateFrancium.name=钫板板条箱
     S:oredict.crateGtPlateGabbro.name=辉长岩板板条箱
@@ -16262,7 +16349,7 @@ languagefile {
     S:oredict.crateGtPlateManganese.name=锰板板条箱
     S:oredict.crateGtPlateManyullyn.name=玛玉灵板板条箱
     S:oredict.crateGtPlateMarble.name=大理石板板条箱
-    S:oredict.crateGtPlateMeitnerium.name=鿏板板条箱
+    S:oredict.crateGtPlateMeitnerium.name=䥑板板条箱
     S:oredict.crateGtPlateMendelevium.name=钔板板条箱
     S:oredict.crateGtPlateMercury.name=汞板板条箱
     S:oredict.crateGtPlateMeteoricIron.name=陨铁板板条箱
@@ -16322,7 +16409,7 @@ languagefile {
     S:oredict.crateGtPlateRhenium.name=铼板板条箱
     S:oredict.crateGtPlateRhodium.name=铑板板条箱
     S:oredict.crateGtPlateRhyolite.name=流纹岩板板条箱
-    S:oredict.crateGtPlateRoentgenium.name=𬬭板板条箱
+    S:oredict.crateGtPlateRoentgenium.name=錀板板条箱
     S:oredict.crateGtPlateRoseGold.name=玫瑰金板板条箱
     S:oredict.crateGtPlateRubber.name=橡胶片板条箱
     S:oredict.crateGtPlateRubidium.name=铷板板条箱
@@ -16464,8 +16551,8 @@ languagefile {
     S:oredict.crushedAntiEuropium.name=粉碎反物质铕矿
     S:oredict.crushedAntiFarnsium.name=粉碎反物质钫矿
     S:oredict.crushedAntiFermium.name=粉碎反物质镄矿
-    S:oredict.crushedAntiFlerovium.name=粉碎反物质𫓧矿
-    S:oredict.crushedAntiFlerovium298.name=粉碎反物质𫓧-298矿
+    S:oredict.crushedAntiFlerovium.name=粉碎反物质鈇矿
+    S:oredict.crushedAntiFlerovium298.name=粉碎反物质鈇-298矿
     S:oredict.crushedAntiFluorine.name=粉碎反物质氟矿
     S:oredict.crushedAntiFrancium.name=粉碎反物质钫矿
     S:oredict.crushedAntiGadolinium.name=粉碎反物质钆矿
@@ -16488,7 +16575,7 @@ languagefile {
     S:oredict.crushedAntiLutetium.name=粉碎反物质镥矿
     S:oredict.crushedAntiMagnesium.name=粉碎反物质镁矿
     S:oredict.crushedAntiManganese.name=粉碎反物质锰矿
-    S:oredict.crushedAntiMeitnerium.name=粉碎反物质鿏矿
+    S:oredict.crushedAntiMeitnerium.name=粉碎反物质䥑矿
     S:oredict.crushedAntiMendelevium.name=粉碎反物质钔矿
     S:oredict.crushedAntiMercury.name=粉碎反物质汞矿
     S:oredict.crushedAntiMolybdenum.name=粉碎反物质钼矿
@@ -16515,7 +16602,7 @@ languagefile {
     S:oredict.crushedAntiRadium.name=粉碎反物质镭矿
     S:oredict.crushedAntiRhenium.name=粉碎反物质铼矿
     S:oredict.crushedAntiRhodium.name=粉碎反物质铑矿
-    S:oredict.crushedAntiRoentgenium.name=粉碎反物质𬬭矿
+    S:oredict.crushedAntiRoentgenium.name=粉碎反物质錀矿
     S:oredict.crushedAntiRubidium.name=粉碎反物质铷矿
     S:oredict.crushedAntiRuthenium.name=粉碎反物质钌矿
     S:oredict.crushedAntiRutherfordium.name=粉碎反物质鑪矿
@@ -16652,8 +16739,8 @@ languagefile {
     S:oredict.crushedCentrifugedAntiEuropium.name=离心反物质铕矿
     S:oredict.crushedCentrifugedAntiFarnsium.name=离心反物质钫矿
     S:oredict.crushedCentrifugedAntiFermium.name=离心反物质镄矿
-    S:oredict.crushedCentrifugedAntiFlerovium.name=离心反物质𫓧矿
-    S:oredict.crushedCentrifugedAntiFlerovium298.name=离心反物质𫓧-298矿
+    S:oredict.crushedCentrifugedAntiFlerovium.name=离心反物质鈇矿
+    S:oredict.crushedCentrifugedAntiFlerovium298.name=离心反物质鈇-298矿
     S:oredict.crushedCentrifugedAntiFluorine.name=离心反物质氟矿
     S:oredict.crushedCentrifugedAntiFrancium.name=离心反物质钫矿
     S:oredict.crushedCentrifugedAntiGadolinium.name=离心反物质钆矿
@@ -16676,7 +16763,7 @@ languagefile {
     S:oredict.crushedCentrifugedAntiLutetium.name=离心反物质镥矿
     S:oredict.crushedCentrifugedAntiMagnesium.name=离心反物质镁矿
     S:oredict.crushedCentrifugedAntiManganese.name=离心反物质锰矿
-    S:oredict.crushedCentrifugedAntiMeitnerium.name=离心反物质鿏矿
+    S:oredict.crushedCentrifugedAntiMeitnerium.name=离心反物质䥑矿
     S:oredict.crushedCentrifugedAntiMendelevium.name=离心反物质钔矿
     S:oredict.crushedCentrifugedAntiMercury.name=离心反物质汞矿
     S:oredict.crushedCentrifugedAntiMolybdenum.name=离心反物质钼矿
@@ -16703,7 +16790,7 @@ languagefile {
     S:oredict.crushedCentrifugedAntiRadium.name=离心反物质镭矿
     S:oredict.crushedCentrifugedAntiRhenium.name=离心反物质铼矿
     S:oredict.crushedCentrifugedAntiRhodium.name=离心反物质铑矿
-    S:oredict.crushedCentrifugedAntiRoentgenium.name=离心反物质𬬭矿
+    S:oredict.crushedCentrifugedAntiRoentgenium.name=离心反物质錀矿
     S:oredict.crushedCentrifugedAntiRubidium.name=离心反物质铷矿
     S:oredict.crushedCentrifugedAntiRuthenium.name=离心反物质钌矿
     S:oredict.crushedCentrifugedAntiRutherfordium.name=离心反物质鑪矿
@@ -16843,8 +16930,8 @@ languagefile {
     S:oredict.crushedCentrifugedFerrite.name=离心铁氧体矿
     S:oredict.crushedCentrifugedFerrovanadium.name=离心钒磁铁矿
     S:oredict.crushedCentrifugedFirestone.name=离心火石矿
-    S:oredict.crushedCentrifugedFlerovium.name=离心𫓧矿
-    S:oredict.crushedCentrifugedFlerovium298.name=离心𫓧-298矿
+    S:oredict.crushedCentrifugedFlerovium.name=离心鈇矿
+    S:oredict.crushedCentrifugedFlerovium298.name=离心鈇-298矿
     S:oredict.crushedCentrifugedFluorine.name=离心氟矿
     S:oredict.crushedCentrifugedFluorite.name=离心萤石矿
     S:oredict.crushedCentrifugedFoolsRuby.name=离心红宝石矿
@@ -16920,7 +17007,7 @@ languagefile {
     S:oredict.crushedCentrifugedMagnetite.name=离心磁铁矿
     S:oredict.crushedCentrifugedMalachite.name=离心孔雀石矿
     S:oredict.crushedCentrifugedManganese.name=离心锰矿
-    S:oredict.crushedCentrifugedMeitnerium.name=离心鿏矿
+    S:oredict.crushedCentrifugedMeitnerium.name=离心䥑矿
     S:oredict.crushedCentrifugedMendelevium.name=离心钔矿
     S:oredict.crushedCentrifugedMercury.name=离心汞矿
     S:oredict.crushedCentrifugedMeteoricIron.name=离心陨铁矿
@@ -16994,7 +17081,7 @@ languagefile {
     S:oredict.crushedCentrifugedRhenium.name=离心铼矿
     S:oredict.crushedCentrifugedRhodium.name=离心铑矿
     S:oredict.crushedCentrifugedRockSalt.name=离心岩盐矿
-    S:oredict.crushedCentrifugedRoentgenium.name=离心𬬭矿
+    S:oredict.crushedCentrifugedRoentgenium.name=离心錀矿
     S:oredict.crushedCentrifugedRubidium.name=离心铷矿
     S:oredict.crushedCentrifugedRubracium.name=离心褐铜矿
     S:oredict.crushedCentrifugedRuby.name=离心红宝石矿
@@ -17098,8 +17185,8 @@ languagefile {
     S:oredict.crushedCentrifugedTinyAntiEuropium.name=小撮离心反物质铕矿
     S:oredict.crushedCentrifugedTinyAntiFarnsium.name=小撮离心反物质钫矿
     S:oredict.crushedCentrifugedTinyAntiFermium.name=小撮离心反物质镄矿
-    S:oredict.crushedCentrifugedTinyAntiFlerovium.name=小撮离心反物质𫓧矿
-    S:oredict.crushedCentrifugedTinyAntiFlerovium298.name=小撮离心反物质𫓧-298矿
+    S:oredict.crushedCentrifugedTinyAntiFlerovium.name=小撮离心反物质鈇矿
+    S:oredict.crushedCentrifugedTinyAntiFlerovium298.name=小撮离心反物质鈇-298矿
     S:oredict.crushedCentrifugedTinyAntiFluorine.name=小撮离心反物质氟矿
     S:oredict.crushedCentrifugedTinyAntiFrancium.name=小撮离心反物质钫矿
     S:oredict.crushedCentrifugedTinyAntiGadolinium.name=小撮离心反物质钆矿
@@ -17122,7 +17209,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyAntiLutetium.name=小撮离心反物质镥矿
     S:oredict.crushedCentrifugedTinyAntiMagnesium.name=小撮离心反物质镁矿
     S:oredict.crushedCentrifugedTinyAntiManganese.name=小撮离心反物质锰矿
-    S:oredict.crushedCentrifugedTinyAntiMeitnerium.name=小撮离心反物质鿏矿
+    S:oredict.crushedCentrifugedTinyAntiMeitnerium.name=小撮离心反物质䥑矿
     S:oredict.crushedCentrifugedTinyAntiMendelevium.name=小撮离心反物质钔矿
     S:oredict.crushedCentrifugedTinyAntiMercury.name=小撮离心反物质汞矿
     S:oredict.crushedCentrifugedTinyAntiMolybdenum.name=小撮离心反物质钼矿
@@ -17149,7 +17236,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyAntiRadium.name=小撮离心反物质镭矿
     S:oredict.crushedCentrifugedTinyAntiRhenium.name=小撮离心反物质铼矿
     S:oredict.crushedCentrifugedTinyAntiRhodium.name=小撮离心反物质铑矿
-    S:oredict.crushedCentrifugedTinyAntiRoentgenium.name=小撮离心反物质𬬭矿
+    S:oredict.crushedCentrifugedTinyAntiRoentgenium.name=小撮离心反物质錀矿
     S:oredict.crushedCentrifugedTinyAntiRubidium.name=小撮离心反物质铷矿
     S:oredict.crushedCentrifugedTinyAntiRuthenium.name=小撮离心反物质钌矿
     S:oredict.crushedCentrifugedTinyAntiRutherfordium.name=小撮离心反物质鑪矿
@@ -17289,8 +17376,8 @@ languagefile {
     S:oredict.crushedCentrifugedTinyFerrite.name=小撮离心铁氧体矿
     S:oredict.crushedCentrifugedTinyFerrovanadium.name=小撮离心钒磁铁矿
     S:oredict.crushedCentrifugedTinyFirestone.name=小撮离心火石矿
-    S:oredict.crushedCentrifugedTinyFlerovium.name=小撮离心𫓧矿
-    S:oredict.crushedCentrifugedTinyFlerovium298.name=小撮离心𫓧-298矿
+    S:oredict.crushedCentrifugedTinyFlerovium.name=小撮离心鈇矿
+    S:oredict.crushedCentrifugedTinyFlerovium298.name=小撮离心鈇-298矿
     S:oredict.crushedCentrifugedTinyFluorine.name=小撮离心氟矿
     S:oredict.crushedCentrifugedTinyFluorite.name=小撮离心萤石矿
     S:oredict.crushedCentrifugedTinyFoolsRuby.name=小撮离心红宝石矿
@@ -17366,7 +17453,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyMagnetite.name=小撮离心磁铁矿
     S:oredict.crushedCentrifugedTinyMalachite.name=小撮离心孔雀石矿
     S:oredict.crushedCentrifugedTinyManganese.name=小撮离心锰矿
-    S:oredict.crushedCentrifugedTinyMeitnerium.name=小撮离心鿏矿
+    S:oredict.crushedCentrifugedTinyMeitnerium.name=小撮离心䥑矿
     S:oredict.crushedCentrifugedTinyMendelevium.name=小撮离心钔矿
     S:oredict.crushedCentrifugedTinyMercury.name=小撮离心汞矿
     S:oredict.crushedCentrifugedTinyMeteoricIron.name=小撮离心陨铁矿
@@ -17440,7 +17527,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyRhenium.name=小撮离心铼矿
     S:oredict.crushedCentrifugedTinyRhodium.name=小撮离心铑矿
     S:oredict.crushedCentrifugedTinyRockSalt.name=小撮离心岩盐矿
-    S:oredict.crushedCentrifugedTinyRoentgenium.name=小撮离心𬬭矿
+    S:oredict.crushedCentrifugedTinyRoentgenium.name=小撮离心錀矿
     S:oredict.crushedCentrifugedTinyRubidium.name=小撮离心铷矿
     S:oredict.crushedCentrifugedTinyRubracium.name=小撮离心褐铜矿
     S:oredict.crushedCentrifugedTinyRuby.name=小撮离心红宝石矿
@@ -17638,8 +17725,8 @@ languagefile {
     S:oredict.crushedFerrite.name=粉碎铁氧体矿
     S:oredict.crushedFerrovanadium.name=粉碎钒磁铁矿
     S:oredict.crushedFirestone.name=粉碎火石矿
-    S:oredict.crushedFlerovium.name=粉碎𫓧矿
-    S:oredict.crushedFlerovium298.name=粉碎𫓧-298矿
+    S:oredict.crushedFlerovium.name=粉碎鈇矿
+    S:oredict.crushedFlerovium298.name=粉碎鈇-298矿
     S:oredict.crushedFluorine.name=粉碎氟矿
     S:oredict.crushedFluorite.name=粉碎萤石矿
     S:oredict.crushedFoolsRuby.name=粉碎红宝石矿
@@ -17716,7 +17803,7 @@ languagefile {
     S:oredict.crushedMagnetite.name=粉碎磁铁矿
     S:oredict.crushedMalachite.name=粉碎孔雀石矿
     S:oredict.crushedManganese.name=粉碎锰矿
-    S:oredict.crushedMeitnerium.name=粉碎鿏矿
+    S:oredict.crushedMeitnerium.name=粉碎䥑矿
     S:oredict.crushedMendelevium.name=粉碎钔矿
     S:oredict.crushedMercury.name=粉碎汞矿
     S:oredict.crushedMeteoricIron.name=粉碎陨铁矿
@@ -17831,8 +17918,8 @@ languagefile {
     S:oredict.crushedPurifiedAntiEuropium.name=纯净粉碎反物质铕矿
     S:oredict.crushedPurifiedAntiFarnsium.name=纯净粉碎反物质钫矿
     S:oredict.crushedPurifiedAntiFermium.name=纯净粉碎反物质镄矿
-    S:oredict.crushedPurifiedAntiFlerovium.name=纯净粉碎反物质𫓧矿
-    S:oredict.crushedPurifiedAntiFlerovium298.name=纯净粉碎反物质𫓧-298矿
+    S:oredict.crushedPurifiedAntiFlerovium.name=纯净粉碎反物质鈇矿
+    S:oredict.crushedPurifiedAntiFlerovium298.name=纯净粉碎反物质鈇-298矿
     S:oredict.crushedPurifiedAntiFluorine.name=纯净粉碎反物质氟矿
     S:oredict.crushedPurifiedAntiFrancium.name=纯净粉碎反物质钫矿
     S:oredict.crushedPurifiedAntiGadolinium.name=纯净粉碎反物质钆矿
@@ -17855,7 +17942,7 @@ languagefile {
     S:oredict.crushedPurifiedAntiLutetium.name=纯净粉碎反物质镥矿
     S:oredict.crushedPurifiedAntiMagnesium.name=纯净粉碎反物质镁矿
     S:oredict.crushedPurifiedAntiManganese.name=纯净粉碎反物质锰矿
-    S:oredict.crushedPurifiedAntiMeitnerium.name=纯净粉碎反物质鿏矿
+    S:oredict.crushedPurifiedAntiMeitnerium.name=纯净粉碎反物质䥑矿
     S:oredict.crushedPurifiedAntiMendelevium.name=纯净粉碎反物质钔矿
     S:oredict.crushedPurifiedAntiMercury.name=纯净粉碎反物质汞矿
     S:oredict.crushedPurifiedAntiMolybdenum.name=纯净粉碎反物质钼矿
@@ -17882,7 +17969,7 @@ languagefile {
     S:oredict.crushedPurifiedAntiRadium.name=纯净粉碎反物质镭矿
     S:oredict.crushedPurifiedAntiRhenium.name=纯净粉碎反物质铼矿
     S:oredict.crushedPurifiedAntiRhodium.name=纯净粉碎反物质铑矿
-    S:oredict.crushedPurifiedAntiRoentgenium.name=纯净粉碎反物质𬬭矿
+    S:oredict.crushedPurifiedAntiRoentgenium.name=纯净粉碎反物质錀矿
     S:oredict.crushedPurifiedAntiRubidium.name=纯净粉碎反物质铷矿
     S:oredict.crushedPurifiedAntiRuthenium.name=纯净粉碎反物质钌矿
     S:oredict.crushedPurifiedAntiRutherfordium.name=纯净粉碎反物质鑪矿
@@ -18022,8 +18109,8 @@ languagefile {
     S:oredict.crushedPurifiedFerrite.name=纯净粉碎铁氧体矿
     S:oredict.crushedPurifiedFerrovanadium.name=纯净粉碎钒磁铁矿
     S:oredict.crushedPurifiedFirestone.name=纯净粉碎火石矿
-    S:oredict.crushedPurifiedFlerovium.name=纯净粉碎𫓧矿
-    S:oredict.crushedPurifiedFlerovium298.name=纯净粉碎𫓧-298矿
+    S:oredict.crushedPurifiedFlerovium.name=纯净粉碎鈇矿
+    S:oredict.crushedPurifiedFlerovium298.name=纯净粉碎鈇-298矿
     S:oredict.crushedPurifiedFluorine.name=纯净粉碎氟矿
     S:oredict.crushedPurifiedFluorite.name=纯净粉碎萤石矿
     S:oredict.crushedPurifiedFoolsRuby.name=纯净粉碎红宝石矿
@@ -18099,7 +18186,7 @@ languagefile {
     S:oredict.crushedPurifiedMagnetite.name=纯净粉碎磁铁矿
     S:oredict.crushedPurifiedMalachite.name=纯净粉碎孔雀石矿
     S:oredict.crushedPurifiedManganese.name=纯净粉碎锰矿
-    S:oredict.crushedPurifiedMeitnerium.name=纯净粉碎鿏矿
+    S:oredict.crushedPurifiedMeitnerium.name=纯净粉碎䥑矿
     S:oredict.crushedPurifiedMendelevium.name=纯净粉碎钔矿
     S:oredict.crushedPurifiedMercury.name=纯净粉碎汞矿
     S:oredict.crushedPurifiedMeteoricIron.name=纯净粉碎陨铁矿
@@ -18173,7 +18260,7 @@ languagefile {
     S:oredict.crushedPurifiedRhenium.name=纯净粉碎铼矿
     S:oredict.crushedPurifiedRhodium.name=纯净粉碎铑矿
     S:oredict.crushedPurifiedRockSalt.name=纯净粉碎岩盐矿
-    S:oredict.crushedPurifiedRoentgenium.name=纯净粉碎𬬭矿
+    S:oredict.crushedPurifiedRoentgenium.name=纯净粉碎錀矿
     S:oredict.crushedPurifiedRubidium.name=纯净粉碎铷矿
     S:oredict.crushedPurifiedRubracium.name=纯净粉碎褐铜矿
     S:oredict.crushedPurifiedRuby.name=纯净粉碎红宝石矿
@@ -18277,8 +18364,8 @@ languagefile {
     S:oredict.crushedPurifiedTinyAntiEuropium.name=小撮纯净粉碎反物质铕矿
     S:oredict.crushedPurifiedTinyAntiFarnsium.name=小撮纯净粉碎反物质钫矿
     S:oredict.crushedPurifiedTinyAntiFermium.name=小撮纯净粉碎反物质镄矿
-    S:oredict.crushedPurifiedTinyAntiFlerovium.name=小撮纯净粉碎反物质𫓧矿
-    S:oredict.crushedPurifiedTinyAntiFlerovium298.name=小撮纯净粉碎反物质𫓧-298矿
+    S:oredict.crushedPurifiedTinyAntiFlerovium.name=小撮纯净粉碎反物质鈇矿
+    S:oredict.crushedPurifiedTinyAntiFlerovium298.name=小撮纯净粉碎反物质鈇-298矿
     S:oredict.crushedPurifiedTinyAntiFluorine.name=小撮纯净粉碎反物质氟矿
     S:oredict.crushedPurifiedTinyAntiFrancium.name=小撮纯净粉碎反物质钫矿
     S:oredict.crushedPurifiedTinyAntiGadolinium.name=小撮纯净粉碎反物质钆矿
@@ -18301,7 +18388,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyAntiLutetium.name=小撮纯净粉碎反物质镥矿
     S:oredict.crushedPurifiedTinyAntiMagnesium.name=小撮纯净粉碎反物质镁矿
     S:oredict.crushedPurifiedTinyAntiManganese.name=小撮纯净粉碎反物质锰矿
-    S:oredict.crushedPurifiedTinyAntiMeitnerium.name=小撮纯净粉碎反物质鿏矿
+    S:oredict.crushedPurifiedTinyAntiMeitnerium.name=小撮纯净粉碎反物质䥑矿
     S:oredict.crushedPurifiedTinyAntiMendelevium.name=小撮纯净粉碎反物质钔矿
     S:oredict.crushedPurifiedTinyAntiMercury.name=小撮纯净粉碎反物质汞矿
     S:oredict.crushedPurifiedTinyAntiMolybdenum.name=小撮纯净粉碎反物质钼矿
@@ -18328,7 +18415,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyAntiRadium.name=小撮纯净粉碎反物质镭矿
     S:oredict.crushedPurifiedTinyAntiRhenium.name=小撮纯净粉碎反物质铼矿
     S:oredict.crushedPurifiedTinyAntiRhodium.name=小撮纯净粉碎反物质铑矿
-    S:oredict.crushedPurifiedTinyAntiRoentgenium.name=小撮纯净粉碎反物质𬬭矿
+    S:oredict.crushedPurifiedTinyAntiRoentgenium.name=小撮纯净粉碎反物质錀矿
     S:oredict.crushedPurifiedTinyAntiRubidium.name=小撮纯净粉碎反物质铷矿
     S:oredict.crushedPurifiedTinyAntiRuthenium.name=小撮纯净粉碎反物质钌矿
     S:oredict.crushedPurifiedTinyAntiRutherfordium.name=小撮纯净粉碎反物质鑪矿
@@ -18468,8 +18555,8 @@ languagefile {
     S:oredict.crushedPurifiedTinyFerrite.name=小撮纯净粉碎铁氧体矿
     S:oredict.crushedPurifiedTinyFerrovanadium.name=小撮纯净粉碎钒磁铁矿
     S:oredict.crushedPurifiedTinyFirestone.name=小撮纯净粉碎火石矿
-    S:oredict.crushedPurifiedTinyFlerovium.name=小撮纯净粉碎𫓧矿
-    S:oredict.crushedPurifiedTinyFlerovium298.name=小撮纯净粉碎𫓧-298矿
+    S:oredict.crushedPurifiedTinyFlerovium.name=小撮纯净粉碎鈇矿
+    S:oredict.crushedPurifiedTinyFlerovium298.name=小撮纯净粉碎鈇-298矿
     S:oredict.crushedPurifiedTinyFluorine.name=小撮纯净粉碎氟矿
     S:oredict.crushedPurifiedTinyFluorite.name=小撮纯净粉碎萤石矿
     S:oredict.crushedPurifiedTinyFoolsRuby.name=小撮纯净粉碎红宝石矿
@@ -18545,7 +18632,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyMagnetite.name=小撮纯净粉碎磁铁矿
     S:oredict.crushedPurifiedTinyMalachite.name=小撮纯净粉碎孔雀石矿
     S:oredict.crushedPurifiedTinyManganese.name=小撮纯净粉碎锰矿
-    S:oredict.crushedPurifiedTinyMeitnerium.name=小撮纯净粉碎鿏矿
+    S:oredict.crushedPurifiedTinyMeitnerium.name=小撮纯净粉碎䥑矿
     S:oredict.crushedPurifiedTinyMendelevium.name=小撮纯净粉碎钔矿
     S:oredict.crushedPurifiedTinyMercury.name=小撮纯净粉碎汞矿
     S:oredict.crushedPurifiedTinyMeteoricIron.name=小撮纯净粉碎陨铁矿
@@ -18619,7 +18706,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyRhenium.name=小撮纯净粉碎铼矿
     S:oredict.crushedPurifiedTinyRhodium.name=小撮纯净粉碎铑矿
     S:oredict.crushedPurifiedTinyRockSalt.name=小撮纯净粉碎岩盐矿
-    S:oredict.crushedPurifiedTinyRoentgenium.name=小撮纯净粉碎𬬭矿
+    S:oredict.crushedPurifiedTinyRoentgenium.name=小撮纯净粉碎錀矿
     S:oredict.crushedPurifiedTinyRubidium.name=小撮纯净粉碎铷矿
     S:oredict.crushedPurifiedTinyRubracium.name=小撮纯净粉碎褐铜矿
     S:oredict.crushedPurifiedTinyRuby.name=小撮纯净粉碎红宝石矿
@@ -18770,7 +18857,7 @@ languagefile {
     S:oredict.crushedRhenium.name=粉碎铼矿
     S:oredict.crushedRhodium.name=粉碎铑矿
     S:oredict.crushedRockSalt.name=粉碎岩盐矿
-    S:oredict.crushedRoentgenium.name=粉碎𬬭矿
+    S:oredict.crushedRoentgenium.name=粉碎錀矿
     S:oredict.crushedRubidium.name=粉碎铷矿
     S:oredict.crushedRubracium.name=粉碎褐铜矿
     S:oredict.crushedRuby.name=粉碎红宝石矿
@@ -18874,8 +18961,8 @@ languagefile {
     S:oredict.crushedTinyAntiEuropium.name=小撮粉碎反物质铕矿
     S:oredict.crushedTinyAntiFarnsium.name=小撮粉碎反物质钫矿
     S:oredict.crushedTinyAntiFermium.name=小撮粉碎反物质镄矿
-    S:oredict.crushedTinyAntiFlerovium.name=小撮粉碎反物质𫓧矿
-    S:oredict.crushedTinyAntiFlerovium298.name=小撮粉碎反物质𫓧-298矿
+    S:oredict.crushedTinyAntiFlerovium.name=小撮粉碎反物质鈇矿
+    S:oredict.crushedTinyAntiFlerovium298.name=小撮粉碎反物质鈇-298矿
     S:oredict.crushedTinyAntiFluorine.name=小撮粉碎反物质氟矿
     S:oredict.crushedTinyAntiFrancium.name=小撮粉碎反物质钫矿
     S:oredict.crushedTinyAntiGadolinium.name=小撮粉碎反物质钆矿
@@ -18898,7 +18985,7 @@ languagefile {
     S:oredict.crushedTinyAntiLutetium.name=小撮粉碎反物质镥矿
     S:oredict.crushedTinyAntiMagnesium.name=小撮粉碎反物质镁矿
     S:oredict.crushedTinyAntiManganese.name=小撮粉碎反物质锰矿
-    S:oredict.crushedTinyAntiMeitnerium.name=小撮粉碎反物质鿏矿
+    S:oredict.crushedTinyAntiMeitnerium.name=小撮粉碎反物质䥑矿
     S:oredict.crushedTinyAntiMendelevium.name=小撮粉碎反物质钔矿
     S:oredict.crushedTinyAntiMercury.name=小撮粉碎反物质汞矿
     S:oredict.crushedTinyAntiMolybdenum.name=小撮粉碎反物质钼矿
@@ -18925,7 +19012,7 @@ languagefile {
     S:oredict.crushedTinyAntiRadium.name=小撮粉碎反物质镭矿
     S:oredict.crushedTinyAntiRhenium.name=小撮粉碎反物质铼矿
     S:oredict.crushedTinyAntiRhodium.name=小撮粉碎反物质铑矿
-    S:oredict.crushedTinyAntiRoentgenium.name=小撮粉碎反物质𬬭矿
+    S:oredict.crushedTinyAntiRoentgenium.name=小撮粉碎反物质錀矿
     S:oredict.crushedTinyAntiRubidium.name=小撮粉碎反物质铷矿
     S:oredict.crushedTinyAntiRuthenium.name=小撮粉碎反物质钌矿
     S:oredict.crushedTinyAntiRutherfordium.name=小撮粉碎反物质鑪矿
@@ -19065,8 +19152,8 @@ languagefile {
     S:oredict.crushedTinyFerrite.name=小撮粉碎铁氧体矿
     S:oredict.crushedTinyFerrovanadium.name=小撮粉碎钒磁铁矿
     S:oredict.crushedTinyFirestone.name=小撮粉碎火石矿
-    S:oredict.crushedTinyFlerovium.name=小撮粉碎𫓧矿
-    S:oredict.crushedTinyFlerovium298.name=小撮粉碎𫓧-298矿
+    S:oredict.crushedTinyFlerovium.name=小撮粉碎鈇矿
+    S:oredict.crushedTinyFlerovium298.name=小撮粉碎鈇-298矿
     S:oredict.crushedTinyFluorine.name=小撮粉碎氟矿
     S:oredict.crushedTinyFluorite.name=小撮粉碎萤石矿
     S:oredict.crushedTinyFoolsRuby.name=小撮粉碎红宝石矿
@@ -19142,7 +19229,7 @@ languagefile {
     S:oredict.crushedTinyMagnetite.name=小撮粉碎磁铁矿
     S:oredict.crushedTinyMalachite.name=小撮粉碎孔雀石矿
     S:oredict.crushedTinyManganese.name=小撮粉碎锰矿
-    S:oredict.crushedTinyMeitnerium.name=小撮粉碎鿏矿
+    S:oredict.crushedTinyMeitnerium.name=小撮粉碎䥑矿
     S:oredict.crushedTinyMendelevium.name=小撮粉碎钔矿
     S:oredict.crushedTinyMercury.name=小撮粉碎汞矿
     S:oredict.crushedTinyMeteoricIron.name=小撮粉碎陨铁矿
@@ -19216,7 +19303,7 @@ languagefile {
     S:oredict.crushedTinyRhenium.name=小撮粉碎铼矿
     S:oredict.crushedTinyRhodium.name=小撮粉碎铑矿
     S:oredict.crushedTinyRockSalt.name=小撮粉碎岩盐矿
-    S:oredict.crushedTinyRoentgenium.name=小撮粉碎𬬭矿
+    S:oredict.crushedTinyRoentgenium.name=小撮粉碎錀矿
     S:oredict.crushedTinyRubidium.name=小撮粉碎铷矿
     S:oredict.crushedTinyRubracium.name=小撮粉碎褐铜矿
     S:oredict.crushedTinyRuby.name=小撮粉碎红宝石矿
@@ -19424,8 +19511,8 @@ languagefile {
     S:oredict.dustAntiEuropium.name=反物质铕粉
     S:oredict.dustAntiFarnsium.name=反物质钫粉
     S:oredict.dustAntiFermium.name=反物质镄粉
-    S:oredict.dustAntiFlerovium.name=反物质𫓧粉
-    S:oredict.dustAntiFlerovium298.name=反物质𫓧-298粉
+    S:oredict.dustAntiFlerovium.name=反物质鈇粉
+    S:oredict.dustAntiFlerovium298.name=反物质鈇-298粉
     S:oredict.dustAntiFluorine.name=反物质氟粉
     S:oredict.dustAntiFrancium.name=反物质钫粉
     S:oredict.dustAntiGadolinium.name=反物质钆粉
@@ -19448,7 +19535,7 @@ languagefile {
     S:oredict.dustAntiLutetium.name=反物质镥粉
     S:oredict.dustAntiMagnesium.name=反物质镁粉
     S:oredict.dustAntiManganese.name=反物质锰粉
-    S:oredict.dustAntiMeitnerium.name=反物质鿏粉
+    S:oredict.dustAntiMeitnerium.name=反物质䥑粉
     S:oredict.dustAntiMendelevium.name=反物质钔粉
     S:oredict.dustAntiMercury.name=反物质汞粉
     S:oredict.dustAntiMolybdenum.name=反物质钼粉
@@ -19475,7 +19562,7 @@ languagefile {
     S:oredict.dustAntiRadium.name=反物质镭粉
     S:oredict.dustAntiRhenium.name=反物质铼粉
     S:oredict.dustAntiRhodium.name=反物质铑粉
-    S:oredict.dustAntiRoentgenium.name=反物质𬬭粉
+    S:oredict.dustAntiRoentgenium.name=反物质錀粉
     S:oredict.dustAntiRubidium.name=反物质铷粉
     S:oredict.dustAntiRuthenium.name=反物质钌粉
     S:oredict.dustAntiRutherfordium.name=反物质鑪粉
@@ -19706,8 +19793,8 @@ languagefile {
     S:oredict.dustDiv72AntiEuropium.name=1/72份反物质铕粉
     S:oredict.dustDiv72AntiFarnsium.name=1/72份反物质钫粉
     S:oredict.dustDiv72AntiFermium.name=1/72份反物质镄粉
-    S:oredict.dustDiv72AntiFlerovium.name=1/72份反物质𫓧粉
-    S:oredict.dustDiv72AntiFlerovium298.name=1/72份反物质𫓧-298粉
+    S:oredict.dustDiv72AntiFlerovium.name=1/72份反物质鈇粉
+    S:oredict.dustDiv72AntiFlerovium298.name=1/72份反物质鈇-298粉
     S:oredict.dustDiv72AntiFluorine.name=1/72份反物质氟粉
     S:oredict.dustDiv72AntiFrancium.name=1/72份反物质钫粉
     S:oredict.dustDiv72AntiGadolinium.name=1/72份反物质钆粉
@@ -19730,7 +19817,7 @@ languagefile {
     S:oredict.dustDiv72AntiLutetium.name=1/72份反物质镥粉
     S:oredict.dustDiv72AntiMagnesium.name=1/72份反物质镁粉
     S:oredict.dustDiv72AntiManganese.name=1/72份反物质锰粉
-    S:oredict.dustDiv72AntiMeitnerium.name=1/72份反物质鿏粉
+    S:oredict.dustDiv72AntiMeitnerium.name=1/72份反物质䥑粉
     S:oredict.dustDiv72AntiMendelevium.name=1/72份反物质钔粉
     S:oredict.dustDiv72AntiMercury.name=1/72份反物质汞粉
     S:oredict.dustDiv72AntiMolybdenum.name=1/72份反物质钼粉
@@ -19757,7 +19844,7 @@ languagefile {
     S:oredict.dustDiv72AntiRadium.name=1/72份反物质镭粉
     S:oredict.dustDiv72AntiRhenium.name=1/72份反物质铼粉
     S:oredict.dustDiv72AntiRhodium.name=1/72份反物质铑粉
-    S:oredict.dustDiv72AntiRoentgenium.name=1/72份反物质𬬭粉
+    S:oredict.dustDiv72AntiRoentgenium.name=1/72份反物质錀粉
     S:oredict.dustDiv72AntiRubidium.name=1/72份反物质铷粉
     S:oredict.dustDiv72AntiRuthenium.name=1/72份反物质钌粉
     S:oredict.dustDiv72AntiRutherfordium.name=1/72份反物质鑪粉
@@ -19977,8 +20064,8 @@ languagefile {
     S:oredict.dustDiv72FishCooked.name=1/72份熟鱼肉
     S:oredict.dustDiv72FishRaw.name=1/72份生鱼肉
     S:oredict.dustDiv72FishRotten.name=1/72份烂鱼肉
-    S:oredict.dustDiv72Flerovium.name=1/72份𫓧粉
-    S:oredict.dustDiv72Flerovium298.name=1/72份𫓧-298粉
+    S:oredict.dustDiv72Flerovium.name=1/72份鈇粉
+    S:oredict.dustDiv72Flerovium298.name=1/72份鈇-298粉
     S:oredict.dustDiv72Flint.name=1/72份燧石粉
     S:oredict.dustDiv72Fluorine.name=1/72份氟粉
     S:oredict.dustDiv72Fluorite.name=1/72份萤石粉
@@ -20101,7 +20188,7 @@ languagefile {
     S:oredict.dustDiv72MeatCooked.name=1/72份熟肉沫
     S:oredict.dustDiv72MeatRaw.name=1/72份肉沫
     S:oredict.dustDiv72MeatRotten.name=1/72份烂肉沫
-    S:oredict.dustDiv72Meitnerium.name=1/72份鿏粉
+    S:oredict.dustDiv72Meitnerium.name=1/72份䥑粉
     S:oredict.dustDiv72Mendelevium.name=1/72份钔粉
     S:oredict.dustDiv72Mercury.name=1/72份汞粉
     S:oredict.dustDiv72MeteoricIron.name=1/72份陨铁粉
@@ -20219,7 +20306,7 @@ languagefile {
     S:oredict.dustDiv72Rhyolite.name=1/72份流纹岩粉
     S:oredict.dustDiv72Rice.name=1/72份米
     S:oredict.dustDiv72RockSalt.name=1/72份岩盐
-    S:oredict.dustDiv72Roentgenium.name=1/72份𬬭粉
+    S:oredict.dustDiv72Roentgenium.name=1/72份錀粉
     S:oredict.dustDiv72RoseGold.name=1/72份玫瑰金粉
     S:oredict.dustDiv72Rubber.name=1/72份橡胶浆
     S:oredict.dustDiv72Rubidium.name=1/72份铷粉
@@ -20425,8 +20512,8 @@ languagefile {
     S:oredict.dustFishCooked.name=熟鱼肉
     S:oredict.dustFishRaw.name=生鱼肉
     S:oredict.dustFishRotten.name=烂鱼肉
-    S:oredict.dustFlerovium.name=𫓧粉
-    S:oredict.dustFlerovium298.name=𫓧-298粉
+    S:oredict.dustFlerovium.name=鈇粉
+    S:oredict.dustFlerovium298.name=鈇-298粉
     S:oredict.dustFlint.name=燧石粉
     S:oredict.dustFluorine.name=氟粉
     S:oredict.dustFluorite.name=萤石粉
@@ -20542,8 +20629,8 @@ languagefile {
     S:oredict.dustImpureAntiEuropium.name=含杂反物质铕粉
     S:oredict.dustImpureAntiFarnsium.name=含杂反物质钫粉
     S:oredict.dustImpureAntiFermium.name=含杂反物质镄粉
-    S:oredict.dustImpureAntiFlerovium.name=含杂反物质𫓧粉
-    S:oredict.dustImpureAntiFlerovium298.name=含杂反物质𫓧-298粉
+    S:oredict.dustImpureAntiFlerovium.name=含杂反物质鈇粉
+    S:oredict.dustImpureAntiFlerovium298.name=含杂反物质鈇-298粉
     S:oredict.dustImpureAntiFluorine.name=含杂反物质氟粉
     S:oredict.dustImpureAntiFrancium.name=含杂反物质钫粉
     S:oredict.dustImpureAntiGadolinium.name=含杂反物质钆粉
@@ -20566,7 +20653,7 @@ languagefile {
     S:oredict.dustImpureAntiLutetium.name=含杂反物质镥粉
     S:oredict.dustImpureAntiMagnesium.name=含杂反物质镁粉
     S:oredict.dustImpureAntiManganese.name=含杂反物质锰粉
-    S:oredict.dustImpureAntiMeitnerium.name=含杂反物质鿏粉
+    S:oredict.dustImpureAntiMeitnerium.name=含杂反物质䥑粉
     S:oredict.dustImpureAntiMendelevium.name=含杂反物质钔粉
     S:oredict.dustImpureAntiMercury.name=含杂反物质汞粉
     S:oredict.dustImpureAntiMolybdenum.name=含杂反物质钼粉
@@ -20593,7 +20680,7 @@ languagefile {
     S:oredict.dustImpureAntiRadium.name=含杂反物质镭粉
     S:oredict.dustImpureAntiRhenium.name=含杂反物质铼粉
     S:oredict.dustImpureAntiRhodium.name=含杂反物质铑粉
-    S:oredict.dustImpureAntiRoentgenium.name=含杂反物质𬬭粉
+    S:oredict.dustImpureAntiRoentgenium.name=含杂反物质錀粉
     S:oredict.dustImpureAntiRubidium.name=含杂反物质铷粉
     S:oredict.dustImpureAntiRuthenium.name=含杂反物质钌粉
     S:oredict.dustImpureAntiRutherfordium.name=含杂反物质鑪粉
@@ -20744,8 +20831,8 @@ languagefile {
     S:oredict.dustImpureFerrite.name=含杂铁氧体粉
     S:oredict.dustImpureFerrovanadium.name=含杂钒磁铁粉
     S:oredict.dustImpureFirestone.name=含杂火石粉
-    S:oredict.dustImpureFlerovium.name=含杂𫓧粉
-    S:oredict.dustImpureFlerovium298.name=含杂𫓧-298粉
+    S:oredict.dustImpureFlerovium.name=含杂鈇粉
+    S:oredict.dustImpureFlerovium298.name=含杂鈇-298粉
     S:oredict.dustImpureFlint.name=含杂燧石粉
     S:oredict.dustImpureFluorine.name=含杂氟粉
     S:oredict.dustImpureFluorite.name=Impure萤石粉
@@ -20833,7 +20920,7 @@ languagefile {
     S:oredict.dustImpureMalachite.name=含杂孔雀石粉
     S:oredict.dustImpureManganese.name=含杂锰粉
     S:oredict.dustImpureMarble.name=含杂大理石粉
-    S:oredict.dustImpureMeitnerium.name=含杂鿏粉
+    S:oredict.dustImpureMeitnerium.name=含杂䥑粉
     S:oredict.dustImpureMendelevium.name=含杂钔粉
     S:oredict.dustImpureMercury.name=含杂汞粉
     S:oredict.dustImpureMeteoricIron.name=含杂陨铁粉
@@ -20912,7 +20999,7 @@ languagefile {
     S:oredict.dustImpureRhodium.name=含杂铑粉
     S:oredict.dustImpureRhyolite.name=含杂流纹岩粉
     S:oredict.dustImpureRockSalt.name=含杂岩盐
-    S:oredict.dustImpureRoentgenium.name=含杂𬬭粉
+    S:oredict.dustImpureRoentgenium.name=含杂錀粉
     S:oredict.dustImpureRubidium.name=含杂铷粉
     S:oredict.dustImpureRubracium.name=含杂褐铜粉
     S:oredict.dustImpureRuby.name=含杂红宝石粉
@@ -21074,7 +21161,7 @@ languagefile {
     S:oredict.dustMeatCooked.name=熟肉沫
     S:oredict.dustMeatRaw.name=肉沫
     S:oredict.dustMeatRotten.name=烂肉沫
-    S:oredict.dustMeitnerium.name=鿏粉
+    S:oredict.dustMeitnerium.name=䥑粉
     S:oredict.dustMendelevium.name=钔粉
     S:oredict.dustMercury.name=汞粉
     S:oredict.dustMeteoricIron.name=陨铁粉
@@ -21226,8 +21313,8 @@ languagefile {
     S:oredict.dustPureAntiEuropium.name=纯净反物质铕粉
     S:oredict.dustPureAntiFarnsium.name=纯净反物质钫粉
     S:oredict.dustPureAntiFermium.name=纯净反物质镄粉
-    S:oredict.dustPureAntiFlerovium.name=纯净反物质𫓧粉
-    S:oredict.dustPureAntiFlerovium298.name=纯净反物质𫓧-298粉
+    S:oredict.dustPureAntiFlerovium.name=纯净反物质鈇粉
+    S:oredict.dustPureAntiFlerovium298.name=纯净反物质鈇-298粉
     S:oredict.dustPureAntiFluorine.name=纯净反物质氟粉
     S:oredict.dustPureAntiFrancium.name=纯净反物质钫粉
     S:oredict.dustPureAntiGadolinium.name=纯净反物质钆粉
@@ -21250,7 +21337,7 @@ languagefile {
     S:oredict.dustPureAntiLutetium.name=纯净反物质镥粉
     S:oredict.dustPureAntiMagnesium.name=纯净反物质镁粉
     S:oredict.dustPureAntiManganese.name=纯净反物质锰粉
-    S:oredict.dustPureAntiMeitnerium.name=纯净反物质鿏粉
+    S:oredict.dustPureAntiMeitnerium.name=纯净反物质䥑粉
     S:oredict.dustPureAntiMendelevium.name=纯净反物质钔粉
     S:oredict.dustPureAntiMercury.name=纯净反物质汞粉
     S:oredict.dustPureAntiMolybdenum.name=纯净反物质钼粉
@@ -21277,7 +21364,7 @@ languagefile {
     S:oredict.dustPureAntiRadium.name=纯净反物质镭粉
     S:oredict.dustPureAntiRhenium.name=纯净反物质铼粉
     S:oredict.dustPureAntiRhodium.name=纯净反物质铑粉
-    S:oredict.dustPureAntiRoentgenium.name=纯净反物质𬬭粉
+    S:oredict.dustPureAntiRoentgenium.name=纯净反物质錀粉
     S:oredict.dustPureAntiRubidium.name=纯净反物质铷粉
     S:oredict.dustPureAntiRuthenium.name=纯净反物质钌粉
     S:oredict.dustPureAntiRutherfordium.name=纯净反物质鑪粉
@@ -21428,8 +21515,8 @@ languagefile {
     S:oredict.dustPureFerrite.name=纯净铁氧体粉
     S:oredict.dustPureFerrovanadium.name=纯净钒磁铁粉
     S:oredict.dustPureFirestone.name=纯净火石粉
-    S:oredict.dustPureFlerovium.name=纯净𫓧粉
-    S:oredict.dustPureFlerovium298.name=纯净𫓧-298粉
+    S:oredict.dustPureFlerovium.name=纯净鈇粉
+    S:oredict.dustPureFlerovium298.name=纯净鈇-298粉
     S:oredict.dustPureFlint.name=纯净燧石粉
     S:oredict.dustPureFluorine.name=纯净氟粉
     S:oredict.dustPureFluorite.name=纯净萤石粉
@@ -21517,7 +21604,7 @@ languagefile {
     S:oredict.dustPureMalachite.name=纯净孔雀石粉
     S:oredict.dustPureManganese.name=纯净锰粉
     S:oredict.dustPureMarble.name=纯净大理石粉
-    S:oredict.dustPureMeitnerium.name=纯净鿏粉
+    S:oredict.dustPureMeitnerium.name=纯净䥑粉
     S:oredict.dustPureMendelevium.name=纯净钔粉
     S:oredict.dustPureMercury.name=纯净汞粉
     S:oredict.dustPureMeteoricIron.name=纯净陨铁粉
@@ -21596,7 +21683,7 @@ languagefile {
     S:oredict.dustPureRhodium.name=纯净铑粉
     S:oredict.dustPureRhyolite.name=纯净流纹岩粉
     S:oredict.dustPureRockSalt.name=纯净岩盐
-    S:oredict.dustPureRoentgenium.name=纯净𬬭粉
+    S:oredict.dustPureRoentgenium.name=纯净錀粉
     S:oredict.dustPureRubidium.name=纯净铷粉
     S:oredict.dustPureRubracium.name=纯净褐铜粉
     S:oredict.dustPureRuby.name=纯净红宝石粉
@@ -21715,7 +21802,7 @@ languagefile {
     S:oredict.dustRhyolite.name=流纹岩粉
     S:oredict.dustRice.name=米粒
     S:oredict.dustRockSalt.name=岩盐
-    S:oredict.dustRoentgenium.name=𬬭粉
+    S:oredict.dustRoentgenium.name=錀粉
     S:oredict.dustRoseGold.name=玫瑰金粉
     S:oredict.dustRubber.name=橡胶浆
     S:oredict.dustRubidium.name=铷粉
@@ -21806,8 +21893,8 @@ languagefile {
     S:oredict.dustSmallAntiEuropium.name=小堆反物质铕粉
     S:oredict.dustSmallAntiFarnsium.name=小堆反物质钫粉
     S:oredict.dustSmallAntiFermium.name=小堆反物质镄粉
-    S:oredict.dustSmallAntiFlerovium.name=小堆反物质𫓧粉
-    S:oredict.dustSmallAntiFlerovium298.name=小堆反物质𫓧-298粉
+    S:oredict.dustSmallAntiFlerovium.name=小堆反物质鈇粉
+    S:oredict.dustSmallAntiFlerovium298.name=小堆反物质鈇-298粉
     S:oredict.dustSmallAntiFluorine.name=小堆反物质氟粉
     S:oredict.dustSmallAntiFrancium.name=小堆反物质钫粉
     S:oredict.dustSmallAntiGadolinium.name=小堆反物质钆粉
@@ -21830,7 +21917,7 @@ languagefile {
     S:oredict.dustSmallAntiLutetium.name=小堆反物质镥粉
     S:oredict.dustSmallAntiMagnesium.name=小堆反物质镁粉
     S:oredict.dustSmallAntiManganese.name=小堆反物质锰粉
-    S:oredict.dustSmallAntiMeitnerium.name=小堆反物质鿏粉
+    S:oredict.dustSmallAntiMeitnerium.name=小堆反物质䥑粉
     S:oredict.dustSmallAntiMendelevium.name=小堆反物质钔粉
     S:oredict.dustSmallAntiMercury.name=小堆反物质汞粉
     S:oredict.dustSmallAntiMolybdenum.name=小堆反物质钼粉
@@ -21857,7 +21944,7 @@ languagefile {
     S:oredict.dustSmallAntiRadium.name=小堆反物质镭粉
     S:oredict.dustSmallAntiRhenium.name=小堆反物质铼粉
     S:oredict.dustSmallAntiRhodium.name=小堆反物质铑粉
-    S:oredict.dustSmallAntiRoentgenium.name=小堆反物质𬬭粉
+    S:oredict.dustSmallAntiRoentgenium.name=小堆反物质錀粉
     S:oredict.dustSmallAntiRubidium.name=小堆反物质铷粉
     S:oredict.dustSmallAntiRuthenium.name=小堆反物质钌粉
     S:oredict.dustSmallAntiRutherfordium.name=小堆反物质鑪粉
@@ -22078,8 +22165,8 @@ languagefile {
     S:oredict.dustSmallFishCooked.name=小堆熟鱼肉
     S:oredict.dustSmallFishRaw.name=小堆生鱼肉
     S:oredict.dustSmallFishRotten.name=小堆烂鱼肉
-    S:oredict.dustSmallFlerovium.name=小堆𫓧粉
-    S:oredict.dustSmallFlerovium298.name=小堆𫓧-298粉
+    S:oredict.dustSmallFlerovium.name=小堆鈇粉
+    S:oredict.dustSmallFlerovium298.name=小堆鈇-298粉
     S:oredict.dustSmallFlint.name=小堆燧石粉
     S:oredict.dustSmallFluorine.name=小堆氟粉
     S:oredict.dustSmallFluorite.name=小堆萤石粉
@@ -22207,7 +22294,7 @@ languagefile {
     S:oredict.dustSmallMeatCooked.name=小堆熟肉沫
     S:oredict.dustSmallMeatRaw.name=小堆肉沫
     S:oredict.dustSmallMeatRotten.name=小堆烂肉沫
-    S:oredict.dustSmallMeitnerium.name=小堆鿏粉
+    S:oredict.dustSmallMeitnerium.name=小堆䥑粉
     S:oredict.dustSmallMendelevium.name=小堆钔粉
     S:oredict.dustSmallMercury.name=小堆汞粉
     S:oredict.dustSmallMeteoricIron.name=小堆陨铁粉
@@ -22327,7 +22414,7 @@ languagefile {
     S:oredict.dustSmallRhyolite.name=小堆流纹岩粉
     S:oredict.dustSmallRice.name=小堆米粉
     S:oredict.dustSmallRockSalt.name=小堆岩盐
-    S:oredict.dustSmallRoentgenium.name=小堆𬬭粉
+    S:oredict.dustSmallRoentgenium.name=小堆錀粉
     S:oredict.dustSmallRoseGold.name=小堆玫瑰金粉
     S:oredict.dustSmallRubber.name=小堆橡胶浆
     S:oredict.dustSmallRubidium.name=小堆铷粉
@@ -22602,8 +22689,8 @@ languagefile {
     S:oredict.dustTinyAntiEuropium.name=小撮反物质铕粉
     S:oredict.dustTinyAntiFarnsium.name=小撮反物质钫粉
     S:oredict.dustTinyAntiFermium.name=小撮反物质镄粉
-    S:oredict.dustTinyAntiFlerovium.name=小撮反物质𫓧粉
-    S:oredict.dustTinyAntiFlerovium298.name=小撮反物质𫓧-298粉
+    S:oredict.dustTinyAntiFlerovium.name=小撮反物质鈇粉
+    S:oredict.dustTinyAntiFlerovium298.name=小撮反物质鈇-298粉
     S:oredict.dustTinyAntiFluorine.name=小撮反物质氟粉
     S:oredict.dustTinyAntiFrancium.name=小撮反物质钫粉
     S:oredict.dustTinyAntiGadolinium.name=小撮反物质钆粉
@@ -22626,7 +22713,7 @@ languagefile {
     S:oredict.dustTinyAntiLutetium.name=小撮反物质镥粉
     S:oredict.dustTinyAntiMagnesium.name=小撮反物质镁粉
     S:oredict.dustTinyAntiManganese.name=小撮反物质锰粉
-    S:oredict.dustTinyAntiMeitnerium.name=小撮反物质鿏粉
+    S:oredict.dustTinyAntiMeitnerium.name=小撮反物质䥑粉
     S:oredict.dustTinyAntiMendelevium.name=小撮反物质钔粉
     S:oredict.dustTinyAntiMercury.name=小撮反物质汞粉
     S:oredict.dustTinyAntiMolybdenum.name=小撮反物质钼粉
@@ -22653,7 +22740,7 @@ languagefile {
     S:oredict.dustTinyAntiRadium.name=小撮反物质镭粉
     S:oredict.dustTinyAntiRhenium.name=小撮反物质铼粉
     S:oredict.dustTinyAntiRhodium.name=小撮反物质铑粉
-    S:oredict.dustTinyAntiRoentgenium.name=小撮反物质𬬭粉
+    S:oredict.dustTinyAntiRoentgenium.name=小撮反物质錀粉
     S:oredict.dustTinyAntiRubidium.name=小撮反物质铷粉
     S:oredict.dustTinyAntiRuthenium.name=小撮反物质钌粉
     S:oredict.dustTinyAntiRutherfordium.name=小撮反物质鑪粉
@@ -22874,8 +22961,8 @@ languagefile {
     S:oredict.dustTinyFishCooked.name=小撮熟鱼肉
     S:oredict.dustTinyFishRaw.name=小撮生鱼肉
     S:oredict.dustTinyFishRotten.name=小撮烂鱼肉
-    S:oredict.dustTinyFlerovium.name=小撮𫓧粉
-    S:oredict.dustTinyFlerovium298.name=小撮𫓧-298粉
+    S:oredict.dustTinyFlerovium.name=小撮鈇粉
+    S:oredict.dustTinyFlerovium298.name=小撮鈇-298粉
     S:oredict.dustTinyFlint.name=小撮燧石粉
     S:oredict.dustTinyFluorine.name=小撮氟粉
     S:oredict.dustTinyFluorite.name=小撮萤石粉
@@ -23003,7 +23090,7 @@ languagefile {
     S:oredict.dustTinyMeatCooked.name=小撮熟肉沫
     S:oredict.dustTinyMeatRaw.name=小撮肉沫
     S:oredict.dustTinyMeatRotten.name=小撮烂肉沫
-    S:oredict.dustTinyMeitnerium.name=小撮鿏粉
+    S:oredict.dustTinyMeitnerium.name=小撮䥑粉
     S:oredict.dustTinyMendelevium.name=小撮钔粉
     S:oredict.dustTinyMercury.name=小撮汞粉
     S:oredict.dustTinyMeteoricIron.name=小撮陨铁粉
@@ -23123,7 +23210,7 @@ languagefile {
     S:oredict.dustTinyRhyolite.name=小撮流纹岩粉
     S:oredict.dustTinyRice.name=小撮米粉
     S:oredict.dustTinyRockSalt.name=小撮岩盐
-    S:oredict.dustTinyRoentgenium.name=小撮𬬭粉
+    S:oredict.dustTinyRoentgenium.name=小撮錀粉
     S:oredict.dustTinyRoseGold.name=小撮玫瑰金粉
     S:oredict.dustTinyRubber.name=小撮橡胶浆
     S:oredict.dustTinyRubidium.name=小撮铷粉
@@ -23407,8 +23494,8 @@ languagefile {
     S:oredict.foilAntiEuropium.name=反物质铕箔
     S:oredict.foilAntiFarnsium.name=反物质钫箔
     S:oredict.foilAntiFermium.name=反物质镄箔
-    S:oredict.foilAntiFlerovium.name=反物质𫓧箔
-    S:oredict.foilAntiFlerovium298.name=反物质𫓧-298箔
+    S:oredict.foilAntiFlerovium.name=反物质鈇箔
+    S:oredict.foilAntiFlerovium298.name=反物质鈇-298箔
     S:oredict.foilAntiFrancium.name=反物质钫箔
     S:oredict.foilAntiGadolinium.name=反物质钆箔
     S:oredict.foilAntiGallium.name=反物质镓箔
@@ -23427,7 +23514,7 @@ languagefile {
     S:oredict.foilAntiLutetium.name=反物质镥箔
     S:oredict.foilAntiMagnesium.name=反物质镁箔
     S:oredict.foilAntiManganese.name=反物质锰箔
-    S:oredict.foilAntiMeitnerium.name=反物质鿏箔
+    S:oredict.foilAntiMeitnerium.name=反物质䥑箔
     S:oredict.foilAntiMendelevium.name=反物质钔箔
     S:oredict.foilAntiMercury.name=反物质汞箔
     S:oredict.foilAntiMolybdenum.name=反物质钼箔
@@ -23452,7 +23539,7 @@ languagefile {
     S:oredict.foilAntiRadium.name=反物质镭箔
     S:oredict.foilAntiRhenium.name=反物质铼箔
     S:oredict.foilAntiRhodium.name=反物质铑箔
-    S:oredict.foilAntiRoentgenium.name=反物质𬬭箔
+    S:oredict.foilAntiRoentgenium.name=反物质錀箔
     S:oredict.foilAntiRubidium.name=反物质铷箔
     S:oredict.foilAntiRuthenium.name=反物质钌箔
     S:oredict.foilAntiRutherfordium.name=反物质鑪箔
@@ -23559,8 +23646,8 @@ languagefile {
     S:oredict.foilFermium.name=镄箔
     S:oredict.foilFerrite.name=铁氧体箔
     S:oredict.foilFierySteel.name=炙热钢箔
-    S:oredict.foilFlerovium.name=𫓧箔
-    S:oredict.foilFlerovium298.name=𫓧-298箔
+    S:oredict.foilFlerovium.name=鈇箔
+    S:oredict.foilFlerovium298.name=鈇-298箔
     S:oredict.foilForce.name=力量箔
     S:oredict.foilForcicium.name=力场箔
     S:oredict.foilFrancium.name=钫箔
@@ -23605,7 +23692,7 @@ languagefile {
     S:oredict.foilManasteel.name=魔力钢箔
     S:oredict.foilManganese.name=锰箔
     S:oredict.foilManyullyn.name=玛玉灵箔
-    S:oredict.foilMeitnerium.name=鿏箔
+    S:oredict.foilMeitnerium.name=䥑箔
     S:oredict.foilMendelevium.name=钔箔
     S:oredict.foilMercury.name=汞箔
     S:oredict.foilMeteoricIron.name=陨铁箔
@@ -23657,7 +23744,7 @@ languagefile {
     S:oredict.foilRedstoneAlloy.name=红硅(红石合金)箔
     S:oredict.foilRhenium.name=铼箔
     S:oredict.foilRhodium.name=铑箔
-    S:oredict.foilRoentgenium.name=𬬭箔
+    S:oredict.foilRoentgenium.name=錀箔
     S:oredict.foilRoseGold.name=玫瑰金箔
     S:oredict.foilRubber.name=Thin 橡胶片
     S:oredict.foilRubidium.name=铷箔
@@ -24647,8 +24734,8 @@ languagefile {
     S:oredict.ingotAntiEuropium.name=反物质铕锭
     S:oredict.ingotAntiFarnsium.name=反物质钫锭
     S:oredict.ingotAntiFermium.name=反物质镄锭
-    S:oredict.ingotAntiFlerovium.name=反物质𫓧锭
-    S:oredict.ingotAntiFlerovium298.name=反物质𫓧-298锭
+    S:oredict.ingotAntiFlerovium.name=反物质鈇锭
+    S:oredict.ingotAntiFlerovium298.name=反物质鈇-298锭
     S:oredict.ingotAntiFrancium.name=反物质钫锭
     S:oredict.ingotAntiGadolinium.name=反物质钆锭
     S:oredict.ingotAntiGallium.name=反物质镓锭
@@ -24667,7 +24754,7 @@ languagefile {
     S:oredict.ingotAntiLutetium.name=反物质镥锭
     S:oredict.ingotAntiMagnesium.name=反物质镁锭
     S:oredict.ingotAntiManganese.name=反物质锰锭
-    S:oredict.ingotAntiMeitnerium.name=反物质鿏锭
+    S:oredict.ingotAntiMeitnerium.name=反物质䥑锭
     S:oredict.ingotAntiMendelevium.name=反物质钔锭
     S:oredict.ingotAntiMercury.name=反物质汞锭
     S:oredict.ingotAntiMolybdenum.name=反物质钼锭
@@ -24692,7 +24779,7 @@ languagefile {
     S:oredict.ingotAntiRadium.name=反物质镭锭
     S:oredict.ingotAntiRhenium.name=反物质铼锭
     S:oredict.ingotAntiRhodium.name=反物质铑锭
-    S:oredict.ingotAntiRoentgenium.name=反物质𬬭锭
+    S:oredict.ingotAntiRoentgenium.name=反物质錀锭
     S:oredict.ingotAntiRubidium.name=反物质铷锭
     S:oredict.ingotAntiRuthenium.name=反物质钌锭
     S:oredict.ingotAntiRutherfordium.name=反物质鑪锭
@@ -24822,8 +24909,8 @@ languagefile {
     S:oredict.ingotDoubleAntiEuropium.name=两重反物质铕锭
     S:oredict.ingotDoubleAntiFarnsium.name=两重反物质钫锭
     S:oredict.ingotDoubleAntiFermium.name=两重反物质镄锭
-    S:oredict.ingotDoubleAntiFlerovium.name=两重反物质𫓧锭
-    S:oredict.ingotDoubleAntiFlerovium298.name=两重反物质𫓧-298锭
+    S:oredict.ingotDoubleAntiFlerovium.name=两重反物质鈇锭
+    S:oredict.ingotDoubleAntiFlerovium298.name=两重反物质鈇-298锭
     S:oredict.ingotDoubleAntiFrancium.name=两重反物质钫锭
     S:oredict.ingotDoubleAntiGadolinium.name=两重反物质钆锭
     S:oredict.ingotDoubleAntiGallium.name=两重反物质镓锭
@@ -24842,7 +24929,7 @@ languagefile {
     S:oredict.ingotDoubleAntiLutetium.name=两重反物质镥锭
     S:oredict.ingotDoubleAntiMagnesium.name=两重反物质镁锭
     S:oredict.ingotDoubleAntiManganese.name=两重反物质锰锭
-    S:oredict.ingotDoubleAntiMeitnerium.name=两重反物质鿏锭
+    S:oredict.ingotDoubleAntiMeitnerium.name=两重反物质䥑锭
     S:oredict.ingotDoubleAntiMendelevium.name=两重反物质钔锭
     S:oredict.ingotDoubleAntiMercury.name=两重反物质汞锭
     S:oredict.ingotDoubleAntiMolybdenum.name=两重反物质钼锭
@@ -24867,7 +24954,7 @@ languagefile {
     S:oredict.ingotDoubleAntiRadium.name=两重反物质镭锭
     S:oredict.ingotDoubleAntiRhenium.name=两重反物质铼锭
     S:oredict.ingotDoubleAntiRhodium.name=两重反物质铑锭
-    S:oredict.ingotDoubleAntiRoentgenium.name=两重反物质𬬭锭
+    S:oredict.ingotDoubleAntiRoentgenium.name=两重反物质錀锭
     S:oredict.ingotDoubleAntiRubidium.name=两重反物质铷锭
     S:oredict.ingotDoubleAntiRuthenium.name=两重反物质钌锭
     S:oredict.ingotDoubleAntiRutherfordium.name=两重反物质鑪锭
@@ -24974,8 +25061,8 @@ languagefile {
     S:oredict.ingotDoubleFermium.name=两重镄锭
     S:oredict.ingotDoubleFerrite.name=两重铁氧体锭
     S:oredict.ingotDoubleFierySteel.name=两重炙热钢锭
-    S:oredict.ingotDoubleFlerovium.name=两重𫓧锭
-    S:oredict.ingotDoubleFlerovium298.name=两重𫓧-298锭
+    S:oredict.ingotDoubleFlerovium.name=两重鈇锭
+    S:oredict.ingotDoubleFlerovium298.name=两重鈇-298锭
     S:oredict.ingotDoubleForce.name=两重力量锭
     S:oredict.ingotDoubleFrancium.name=两重钫锭
     S:oredict.ingotDoubleGadolinium.name=两重钆锭
@@ -25019,7 +25106,7 @@ languagefile {
     S:oredict.ingotDoubleManasteel.name=两重魔力钢锭
     S:oredict.ingotDoubleManganese.name=两重锰锭
     S:oredict.ingotDoubleManyullyn.name=两重玛玉灵锭
-    S:oredict.ingotDoubleMeitnerium.name=两重鿏锭
+    S:oredict.ingotDoubleMeitnerium.name=两重䥑锭
     S:oredict.ingotDoubleMendelevium.name=两重钔锭
     S:oredict.ingotDoubleMercury.name=两重汞锭
     S:oredict.ingotDoubleMeteoricIron.name=两重陨铁锭
@@ -25072,7 +25159,7 @@ languagefile {
     S:oredict.ingotDoubleRedstoneAlloy.name=两重红硅(红石合金)锭
     S:oredict.ingotDoubleRhenium.name=两重铼锭
     S:oredict.ingotDoubleRhodium.name=两重铑锭
-    S:oredict.ingotDoubleRoentgenium.name=两重𬬭锭
+    S:oredict.ingotDoubleRoentgenium.name=两重錀锭
     S:oredict.ingotDoubleRoseGold.name=两重玫瑰金锭
     S:oredict.ingotDoubleRubber.name=两重橡胶锭
     S:oredict.ingotDoubleRubidium.name=两重铷锭
@@ -25171,8 +25258,8 @@ languagefile {
     S:oredict.ingotFerrite.name=铁氧体锭
     S:oredict.ingotFierySteel.name=炙热钢锭
     S:oredict.ingotFishRotten.name=烂鱼肉锭
-    S:oredict.ingotFlerovium.name=𫓧锭
-    S:oredict.ingotFlerovium298.name=𫓧-298锭
+    S:oredict.ingotFlerovium.name=鈇锭
+    S:oredict.ingotFlerovium298.name=鈇-298锭
     S:oredict.ingotForce.name=力量锭
     S:oredict.ingotFrancium.name=钫锭
     S:oredict.ingotGadolinium.name=钆锭
@@ -25234,8 +25321,8 @@ languagefile {
     S:oredict.ingotHotAntiEuropium.name=热反物质铕锭
     S:oredict.ingotHotAntiFarnsium.name=热反物质钫锭
     S:oredict.ingotHotAntiFermium.name=热反物质镄锭
-    S:oredict.ingotHotAntiFlerovium.name=热反物质𫓧锭
-    S:oredict.ingotHotAntiFlerovium298.name=热反物质𫓧-298锭
+    S:oredict.ingotHotAntiFlerovium.name=热反物质鈇锭
+    S:oredict.ingotHotAntiFlerovium298.name=热反物质鈇-298锭
     S:oredict.ingotHotAntiFrancium.name=热反物质钫锭
     S:oredict.ingotHotAntiGadolinium.name=热反物质钆锭
     S:oredict.ingotHotAntiGallium.name=热反物质镓锭
@@ -25254,7 +25341,7 @@ languagefile {
     S:oredict.ingotHotAntiLutetium.name=热反物质镥锭
     S:oredict.ingotHotAntiMagnesium.name=热反物质镁锭
     S:oredict.ingotHotAntiManganese.name=热反物质锰锭
-    S:oredict.ingotHotAntiMeitnerium.name=热反物质鿏锭
+    S:oredict.ingotHotAntiMeitnerium.name=热反物质䥑锭
     S:oredict.ingotHotAntiMendelevium.name=热反物质钔锭
     S:oredict.ingotHotAntiMercury.name=热反物质汞锭
     S:oredict.ingotHotAntiMolybdenum.name=热反物质钼锭
@@ -25279,7 +25366,7 @@ languagefile {
     S:oredict.ingotHotAntiRadium.name=热反物质镭锭
     S:oredict.ingotHotAntiRhenium.name=热反物质铼锭
     S:oredict.ingotHotAntiRhodium.name=热反物质铑锭
-    S:oredict.ingotHotAntiRoentgenium.name=热反物质𬬭锭
+    S:oredict.ingotHotAntiRoentgenium.name=热反物质錀锭
     S:oredict.ingotHotAntiRubidium.name=热反物质铷锭
     S:oredict.ingotHotAntiRuthenium.name=热反物质钌锭
     S:oredict.ingotHotAntiRutherfordium.name=热反物质鑪锭
@@ -25386,8 +25473,8 @@ languagefile {
     S:oredict.ingotHotFermium.name=热镄锭
     S:oredict.ingotHotFerrite.name=热铁氧体锭
     S:oredict.ingotHotFierySteel.name=热炙热钢锭
-    S:oredict.ingotHotFlerovium.name=热𫓧锭
-    S:oredict.ingotHotFlerovium298.name=热𫓧-298锭
+    S:oredict.ingotHotFlerovium.name=热鈇锭
+    S:oredict.ingotHotFlerovium298.name=热鈇-298锭
     S:oredict.ingotHotForce.name=热力量锭
     S:oredict.ingotHotFrancium.name=热钫锭
     S:oredict.ingotHotGadolinium.name=热钆锭
@@ -25431,7 +25518,7 @@ languagefile {
     S:oredict.ingotHotManasteel.name=热魔力钢锭
     S:oredict.ingotHotManganese.name=热锰锭
     S:oredict.ingotHotManyullyn.name=热玛玉灵锭
-    S:oredict.ingotHotMeitnerium.name=热鿏锭
+    S:oredict.ingotHotMeitnerium.name=热䥑锭
     S:oredict.ingotHotMendelevium.name=热钔锭
     S:oredict.ingotHotMercury.name=热汞锭
     S:oredict.ingotHotMeteoricIron.name=热陨铁锭
@@ -25482,7 +25569,7 @@ languagefile {
     S:oredict.ingotHotRedstoneAlloy.name=热红硅(红石合金)锭
     S:oredict.ingotHotRhenium.name=热铼锭
     S:oredict.ingotHotRhodium.name=热铑锭
-    S:oredict.ingotHotRoentgenium.name=热𬬭锭
+    S:oredict.ingotHotRoentgenium.name=热錀锭
     S:oredict.ingotHotRoseGold.name=热玫瑰金锭
     S:oredict.ingotHotRubber.name=热橡胶锭
     S:oredict.ingotHotRubidium.name=热铷锭
@@ -25584,7 +25671,7 @@ languagefile {
     S:oredict.ingotManganese.name=锰锭
     S:oredict.ingotManyullyn.name=玛玉灵锭
     S:oredict.ingotMeatRotten.name=腐肉锭
-    S:oredict.ingotMeitnerium.name=鿏锭
+    S:oredict.ingotMeitnerium.name=䥑锭
     S:oredict.ingotMendelevium.name=钔锭
     S:oredict.ingotMercury.name=汞锭
     S:oredict.ingotMeteoricIron.name=陨铁锭
@@ -25677,8 +25764,8 @@ languagefile {
     S:oredict.ingotQuadrupleAntiEuropium.name=四重反物质铕锭
     S:oredict.ingotQuadrupleAntiFarnsium.name=四重反物质钫锭
     S:oredict.ingotQuadrupleAntiFermium.name=四重反物质镄锭
-    S:oredict.ingotQuadrupleAntiFlerovium.name=四重反物质𫓧锭
-    S:oredict.ingotQuadrupleAntiFlerovium298.name=四重反物质𫓧-298锭
+    S:oredict.ingotQuadrupleAntiFlerovium.name=四重反物质鈇锭
+    S:oredict.ingotQuadrupleAntiFlerovium298.name=四重反物质鈇-298锭
     S:oredict.ingotQuadrupleAntiFrancium.name=四重反物质钫锭
     S:oredict.ingotQuadrupleAntiGadolinium.name=四重反物质钆锭
     S:oredict.ingotQuadrupleAntiGallium.name=四重反物质镓锭
@@ -25697,7 +25784,7 @@ languagefile {
     S:oredict.ingotQuadrupleAntiLutetium.name=四重反物质镥锭
     S:oredict.ingotQuadrupleAntiMagnesium.name=四重反物质镁锭
     S:oredict.ingotQuadrupleAntiManganese.name=四重反物质锰锭
-    S:oredict.ingotQuadrupleAntiMeitnerium.name=四重反物质鿏锭
+    S:oredict.ingotQuadrupleAntiMeitnerium.name=四重反物质䥑锭
     S:oredict.ingotQuadrupleAntiMendelevium.name=四重反物质钔锭
     S:oredict.ingotQuadrupleAntiMercury.name=四重反物质汞锭
     S:oredict.ingotQuadrupleAntiMolybdenum.name=四重反物质钼锭
@@ -25722,7 +25809,7 @@ languagefile {
     S:oredict.ingotQuadrupleAntiRadium.name=四重反物质镭锭
     S:oredict.ingotQuadrupleAntiRhenium.name=四重反物质铼锭
     S:oredict.ingotQuadrupleAntiRhodium.name=四重反物质铑锭
-    S:oredict.ingotQuadrupleAntiRoentgenium.name=四重反物质𬬭锭
+    S:oredict.ingotQuadrupleAntiRoentgenium.name=四重反物质錀锭
     S:oredict.ingotQuadrupleAntiRubidium.name=四重反物质铷锭
     S:oredict.ingotQuadrupleAntiRuthenium.name=四重反物质钌锭
     S:oredict.ingotQuadrupleAntiRutherfordium.name=四重反物质鑪锭
@@ -25829,8 +25916,8 @@ languagefile {
     S:oredict.ingotQuadrupleFermium.name=四重镄锭
     S:oredict.ingotQuadrupleFerrite.name=四重铁氧体锭
     S:oredict.ingotQuadrupleFierySteel.name=四重炙热钢锭
-    S:oredict.ingotQuadrupleFlerovium.name=四重𫓧锭
-    S:oredict.ingotQuadrupleFlerovium298.name=四重𫓧-298锭
+    S:oredict.ingotQuadrupleFlerovium.name=四重鈇锭
+    S:oredict.ingotQuadrupleFlerovium298.name=四重鈇-298锭
     S:oredict.ingotQuadrupleForce.name=四重力量锭
     S:oredict.ingotQuadrupleFrancium.name=四重钫锭
     S:oredict.ingotQuadrupleGadolinium.name=四重钆锭
@@ -25874,7 +25961,7 @@ languagefile {
     S:oredict.ingotQuadrupleManasteel.name=四重魔力钢锭
     S:oredict.ingotQuadrupleManganese.name=四重锰锭
     S:oredict.ingotQuadrupleManyullyn.name=四重玛玉灵锭
-    S:oredict.ingotQuadrupleMeitnerium.name=四重鿏锭
+    S:oredict.ingotQuadrupleMeitnerium.name=四重䥑锭
     S:oredict.ingotQuadrupleMendelevium.name=四重钔锭
     S:oredict.ingotQuadrupleMercury.name=四重汞锭
     S:oredict.ingotQuadrupleMeteoricIron.name=四重陨铁锭
@@ -25927,7 +26014,7 @@ languagefile {
     S:oredict.ingotQuadrupleRedstoneAlloy.name=四重红硅(红石合金)锭
     S:oredict.ingotQuadrupleRhenium.name=四重铼锭
     S:oredict.ingotQuadrupleRhodium.name=四重铑锭
-    S:oredict.ingotQuadrupleRoentgenium.name=四重𬬭锭
+    S:oredict.ingotQuadrupleRoentgenium.name=四重錀锭
     S:oredict.ingotQuadrupleRoseGold.name=四重玫瑰金锭
     S:oredict.ingotQuadrupleRubber.name=四重橡胶锭
     S:oredict.ingotQuadrupleRubidium.name=四重铷锭
@@ -26048,8 +26135,8 @@ languagefile {
     S:oredict.ingotQuintupleAntiEuropium.name=五重反物质铕锭
     S:oredict.ingotQuintupleAntiFarnsium.name=五重反物质钫锭
     S:oredict.ingotQuintupleAntiFermium.name=五重反物质镄锭
-    S:oredict.ingotQuintupleAntiFlerovium.name=五重反物质𫓧锭
-    S:oredict.ingotQuintupleAntiFlerovium298.name=五重反物质𫓧-298锭
+    S:oredict.ingotQuintupleAntiFlerovium.name=五重反物质鈇锭
+    S:oredict.ingotQuintupleAntiFlerovium298.name=五重反物质鈇-298锭
     S:oredict.ingotQuintupleAntiFrancium.name=五重反物质钫锭
     S:oredict.ingotQuintupleAntiGadolinium.name=五重反物质钆锭
     S:oredict.ingotQuintupleAntiGallium.name=五重反物质镓锭
@@ -26068,7 +26155,7 @@ languagefile {
     S:oredict.ingotQuintupleAntiLutetium.name=五重反物质镥锭
     S:oredict.ingotQuintupleAntiMagnesium.name=五重反物质镁锭
     S:oredict.ingotQuintupleAntiManganese.name=五重反物质锰锭
-    S:oredict.ingotQuintupleAntiMeitnerium.name=五重反物质鿏锭
+    S:oredict.ingotQuintupleAntiMeitnerium.name=五重反物质䥑锭
     S:oredict.ingotQuintupleAntiMendelevium.name=五重反物质钔锭
     S:oredict.ingotQuintupleAntiMercury.name=五重反物质汞锭
     S:oredict.ingotQuintupleAntiMolybdenum.name=五重反物质钼锭
@@ -26093,7 +26180,7 @@ languagefile {
     S:oredict.ingotQuintupleAntiRadium.name=五重反物质镭锭
     S:oredict.ingotQuintupleAntiRhenium.name=五重反物质铼锭
     S:oredict.ingotQuintupleAntiRhodium.name=五重反物质铑锭
-    S:oredict.ingotQuintupleAntiRoentgenium.name=五重反物质𬬭锭
+    S:oredict.ingotQuintupleAntiRoentgenium.name=五重反物质錀锭
     S:oredict.ingotQuintupleAntiRubidium.name=五重反物质铷锭
     S:oredict.ingotQuintupleAntiRuthenium.name=五重反物质钌锭
     S:oredict.ingotQuintupleAntiRutherfordium.name=五重反物质鑪锭
@@ -26200,8 +26287,8 @@ languagefile {
     S:oredict.ingotQuintupleFermium.name=五重镄锭
     S:oredict.ingotQuintupleFerrite.name=五重铁氧体锭
     S:oredict.ingotQuintupleFierySteel.name=五重炙热钢锭
-    S:oredict.ingotQuintupleFlerovium.name=五重𫓧锭
-    S:oredict.ingotQuintupleFlerovium298.name=五重𫓧-298锭
+    S:oredict.ingotQuintupleFlerovium.name=五重鈇锭
+    S:oredict.ingotQuintupleFlerovium298.name=五重鈇-298锭
     S:oredict.ingotQuintupleForce.name=五重力量锭
     S:oredict.ingotQuintupleFrancium.name=五重钫锭
     S:oredict.ingotQuintupleGadolinium.name=五重钆锭
@@ -26245,7 +26332,7 @@ languagefile {
     S:oredict.ingotQuintupleManasteel.name=五重魔力钢锭
     S:oredict.ingotQuintupleManganese.name=五重锰锭
     S:oredict.ingotQuintupleManyullyn.name=五重玛玉灵锭
-    S:oredict.ingotQuintupleMeitnerium.name=五重鿏锭
+    S:oredict.ingotQuintupleMeitnerium.name=五重䥑锭
     S:oredict.ingotQuintupleMendelevium.name=五重钔锭
     S:oredict.ingotQuintupleMercury.name=五重汞锭
     S:oredict.ingotQuintupleMeteoricIron.name=五重陨铁锭
@@ -26298,7 +26385,7 @@ languagefile {
     S:oredict.ingotQuintupleRedstoneAlloy.name=五重硅锭
     S:oredict.ingotQuintupleRhenium.name=五重铼锭
     S:oredict.ingotQuintupleRhodium.name=五重铑锭
-    S:oredict.ingotQuintupleRoentgenium.name=五重𬬭锭
+    S:oredict.ingotQuintupleRoentgenium.name=五重錀锭
     S:oredict.ingotQuintupleRoseGold.name=五重玫瑰金锭
     S:oredict.ingotQuintupleRubber.name=五重橡胶锭
     S:oredict.ingotQuintupleRubidium.name=五重铷锭
@@ -26379,7 +26466,7 @@ languagefile {
     S:oredict.ingotRedstoneAlloy.name=红硅(红石合金)锭
     S:oredict.ingotRhenium.name=铼锭
     S:oredict.ingotRhodium.name=铑锭
-    S:oredict.ingotRoentgenium.name=𬬭锭
+    S:oredict.ingotRoentgenium.name=錀锭
     S:oredict.ingotRoseGold.name=玫瑰金锭
     S:oredict.ingotRubber.name=橡胶锭
     S:oredict.ingotRubidium.name=铷锭
@@ -26470,8 +26557,8 @@ languagefile {
     S:oredict.ingotTripleAntiEuropium.name=三重反物质铕锭
     S:oredict.ingotTripleAntiFarnsium.name=三重反物质钫锭
     S:oredict.ingotTripleAntiFermium.name=三重反物质镄锭
-    S:oredict.ingotTripleAntiFlerovium.name=三重反物质𫓧锭
-    S:oredict.ingotTripleAntiFlerovium298.name=三重反物质𫓧-298锭
+    S:oredict.ingotTripleAntiFlerovium.name=三重反物质鈇锭
+    S:oredict.ingotTripleAntiFlerovium298.name=三重反物质鈇-298锭
     S:oredict.ingotTripleAntiFrancium.name=三重反物质钫锭
     S:oredict.ingotTripleAntiGadolinium.name=三重反物质钆锭
     S:oredict.ingotTripleAntiGallium.name=三重反物质镓锭
@@ -26490,7 +26577,7 @@ languagefile {
     S:oredict.ingotTripleAntiLutetium.name=三重反物质镥锭
     S:oredict.ingotTripleAntiMagnesium.name=三重反物质镁锭
     S:oredict.ingotTripleAntiManganese.name=三重反物质锰锭
-    S:oredict.ingotTripleAntiMeitnerium.name=三重反物质鿏锭
+    S:oredict.ingotTripleAntiMeitnerium.name=三重反物质䥑锭
     S:oredict.ingotTripleAntiMendelevium.name=三重反物质钔锭
     S:oredict.ingotTripleAntiMercury.name=三重反物质汞锭
     S:oredict.ingotTripleAntiMolybdenum.name=三重反物质钼锭
@@ -26515,7 +26602,7 @@ languagefile {
     S:oredict.ingotTripleAntiRadium.name=三重反物质镭锭
     S:oredict.ingotTripleAntiRhenium.name=三重反物质铼锭
     S:oredict.ingotTripleAntiRhodium.name=三重反物质铑锭
-    S:oredict.ingotTripleAntiRoentgenium.name=三重反物质𬬭锭
+    S:oredict.ingotTripleAntiRoentgenium.name=三重反物质錀锭
     S:oredict.ingotTripleAntiRubidium.name=三重反物质铷锭
     S:oredict.ingotTripleAntiRuthenium.name=三重反物质钌锭
     S:oredict.ingotTripleAntiRutherfordium.name=三重反物质鑪锭
@@ -26622,8 +26709,8 @@ languagefile {
     S:oredict.ingotTripleFermium.name=三重镄锭
     S:oredict.ingotTripleFerrite.name=三重铁氧体锭
     S:oredict.ingotTripleFierySteel.name=三重炙热钢锭
-    S:oredict.ingotTripleFlerovium.name=三重𫓧锭
-    S:oredict.ingotTripleFlerovium298.name=三重𫓧-298锭
+    S:oredict.ingotTripleFlerovium.name=三重鈇锭
+    S:oredict.ingotTripleFlerovium298.name=三重鈇-298锭
     S:oredict.ingotTripleForce.name=三重力量锭
     S:oredict.ingotTripleFrancium.name=三重钫锭
     S:oredict.ingotTripleGadolinium.name=三重钆锭
@@ -26667,7 +26754,7 @@ languagefile {
     S:oredict.ingotTripleManasteel.name=三重魔力钢锭
     S:oredict.ingotTripleManganese.name=三重锰锭
     S:oredict.ingotTripleManyullyn.name=三重玛玉灵锭
-    S:oredict.ingotTripleMeitnerium.name=三重鿏锭
+    S:oredict.ingotTripleMeitnerium.name=三重䥑锭
     S:oredict.ingotTripleMendelevium.name=三重钔锭
     S:oredict.ingotTripleMercury.name=三重汞锭
     S:oredict.ingotTripleMeteoricIron.name=三重陨铁锭
@@ -26720,7 +26807,7 @@ languagefile {
     S:oredict.ingotTripleRedstoneAlloy.name=三重红硅(红石合金)锭
     S:oredict.ingotTripleRhenium.name=三重铼锭
     S:oredict.ingotTripleRhodium.name=三重铑锭
-    S:oredict.ingotTripleRoentgenium.name=三重𬬭锭
+    S:oredict.ingotTripleRoentgenium.name=三重錀锭
     S:oredict.ingotTripleRoseGold.name=三重玫瑰金锭
     S:oredict.ingotTripleRubber.name=三重橡胶锭
     S:oredict.ingotTripleRubidium.name=三重铷锭
@@ -26818,6 +26905,12 @@ languagefile {
     S:oredict.ingotVoidMetal.name=虚空金属锭
     S:oredict.ingotVulcanite.name=熔岩结晶锭
     S:oredict.ingotVyroxeres.name=幽冥剧毒结晶锭
+    S:oredict.ingotWax.name=Wax Ingot
+    S:oredict.ingotWaxBee.name=Bees Wax Ingot
+    S:oredict.ingotWaxMagic.name=Magic Wax Ingot
+    S:oredict.ingotWaxParaffin.name=Paraffin Wax Ingot
+    S:oredict.ingotWaxPlant.name=Plant Wax Ingot
+    S:oredict.ingotWaxRefractory.name=Refractory Wax Ingot
     S:oredict.ingotWroughtIron.name=熟铁锭
     S:oredict.ingotYellorium.name=黄铀锭
     S:oredict.ingotYtterbium.name=镱锭
@@ -27081,8 +27174,8 @@ languagefile {
     S:oredict.nuggetAntiEuropium.name=反物质铕粒
     S:oredict.nuggetAntiFarnsium.name=反物质钫粒
     S:oredict.nuggetAntiFermium.name=反物质镄粒
-    S:oredict.nuggetAntiFlerovium.name=反物质𫓧粒
-    S:oredict.nuggetAntiFlerovium298.name=反物质𫓧-298粒
+    S:oredict.nuggetAntiFlerovium.name=反物质鈇粒
+    S:oredict.nuggetAntiFlerovium298.name=反物质鈇-298粒
     S:oredict.nuggetAntiFrancium.name=反物质钫粒
     S:oredict.nuggetAntiGadolinium.name=反物质钆粒
     S:oredict.nuggetAntiGallium.name=反物质镓粒
@@ -27101,7 +27194,7 @@ languagefile {
     S:oredict.nuggetAntiLutetium.name=反物质镥粒
     S:oredict.nuggetAntiMagnesium.name=反物质镁粒
     S:oredict.nuggetAntiManganese.name=反物质锰粒
-    S:oredict.nuggetAntiMeitnerium.name=反物质鿏粒
+    S:oredict.nuggetAntiMeitnerium.name=反物质䥑粒
     S:oredict.nuggetAntiMendelevium.name=反物质钔粒
     S:oredict.nuggetAntiMercury.name=反物质汞粒
     S:oredict.nuggetAntiMolybdenum.name=反物质钼粒
@@ -27126,7 +27219,7 @@ languagefile {
     S:oredict.nuggetAntiRadium.name=反物质镭粒
     S:oredict.nuggetAntiRhenium.name=反物质铼粒
     S:oredict.nuggetAntiRhodium.name=反物质铑粒
-    S:oredict.nuggetAntiRoentgenium.name=反物质𬬭粒
+    S:oredict.nuggetAntiRoentgenium.name=反物质錀粒
     S:oredict.nuggetAntiRubidium.name=反物质铷粒
     S:oredict.nuggetAntiRuthenium.name=反物质钌粒
     S:oredict.nuggetAntiRutherfordium.name=反物质鑪粒
@@ -27181,6 +27274,7 @@ languagefile {
     S:oredict.nuggetBoron.name=硼粒
     S:oredict.nuggetBrass.name=黄铜粒
     S:oredict.nuggetBronze.name=青铜粒
+    S:oredict.nuggetButter.name=黄油粒
     S:oredict.nuggetCadmium.name=镉粒
     S:oredict.nuggetCaesium.name=铯粒
     S:oredict.nuggetCalifornium.name=锎粒
@@ -27238,8 +27332,8 @@ languagefile {
     S:oredict.nuggetFishCooked.name=熟鱼肉粒
     S:oredict.nuggetFishRaw.name=生鱼肉粒
     S:oredict.nuggetFishRotten.name=烂鱼肉粒
-    S:oredict.nuggetFlerovium.name=𫓧粒
-    S:oredict.nuggetFlerovium298.name=𫓧-298粒
+    S:oredict.nuggetFlerovium.name=鈇粒
+    S:oredict.nuggetFlerovium298.name=鈇-298粒
     S:oredict.nuggetForce.name=力量粒
     S:oredict.nuggetFrancium.name=钫粒
     S:oredict.nuggetGadolinium.name=钆粒
@@ -27285,7 +27379,7 @@ languagefile {
     S:oredict.nuggetMeatCooked.name=熟肉粒
     S:oredict.nuggetMeatRaw.name=生肉粒
     S:oredict.nuggetMeatRotten.name=腐肉粒
-    S:oredict.nuggetMeitnerium.name=鿏粒
+    S:oredict.nuggetMeitnerium.name=䥑粒
     S:oredict.nuggetMendelevium.name=钔粒
     S:oredict.nuggetMercury.name=汞粒
     S:oredict.nuggetMeteoricIron.name=陨铁粒
@@ -27339,13 +27433,14 @@ languagefile {
     S:oredict.nuggetRedstoneAlloy.name=红硅(红石合金)粒
     S:oredict.nuggetRhenium.name=铼粒
     S:oredict.nuggetRhodium.name=铑粒
-    S:oredict.nuggetRoentgenium.name=𬬭粒
+    S:oredict.nuggetRoentgenium.name=錀粒
     S:oredict.nuggetRoseGold.name=玫瑰金粒
     S:oredict.nuggetRubber.name=橡胶粒
     S:oredict.nuggetRubidium.name=铷粒
     S:oredict.nuggetRubracium.name=褐铜粒
     S:oredict.nuggetRuthenium.name=钌粒
     S:oredict.nuggetRutherfordium.name=鑪粒
+    S:oredict.nuggetSaltedButter.name=盐味黄油粒
     S:oredict.nuggetSamarium.name=钐粒
     S:oredict.nuggetSanguinite.name=狱炎石粒
     S:oredict.nuggetScandium.name=钪粒
@@ -27409,6 +27504,12 @@ languagefile {
     S:oredict.nuggetVoidMetal.name=虚空金属粒
     S:oredict.nuggetVulcanite.name=熔岩结晶粒
     S:oredict.nuggetVyroxeres.name=幽冥剧毒结晶粒
+    S:oredict.nuggetWax.name=Wax Nugget
+    S:oredict.nuggetWaxBee.name=Bees Wax Nugget
+    S:oredict.nuggetWaxMagic.name=Magic Wax Nugget
+    S:oredict.nuggetWaxParaffin.name=Paraffin Wax Nugget
+    S:oredict.nuggetWaxPlant.name=Plant Wax Nugget
+    S:oredict.nuggetWaxRefractory.name=Refractory Wax Nugget
     S:oredict.nuggetWroughtIron.name=熟铁粒
     S:oredict.nuggetYellorium.name=黄铀粒
     S:oredict.nuggetYtterbium.name=镱粒
@@ -27469,8 +27570,8 @@ languagefile {
     S:oredict.oreAntiEuropium.name=反物质铕矿石
     S:oredict.oreAntiFarnsium.name=反物质钫矿石
     S:oredict.oreAntiFermium.name=反物质镄矿石
-    S:oredict.oreAntiFlerovium.name=反物质𫓧矿石
-    S:oredict.oreAntiFlerovium298.name=反物质𫓧-298矿石
+    S:oredict.oreAntiFlerovium.name=反物质鈇矿石
+    S:oredict.oreAntiFlerovium298.name=反物质鈇-298矿石
     S:oredict.oreAntiFluorine.name=反物质氟矿石
     S:oredict.oreAntiFrancium.name=反物质钫矿石
     S:oredict.oreAntiGadolinium.name=反物质钆矿石
@@ -27493,7 +27594,7 @@ languagefile {
     S:oredict.oreAntiLutetium.name=反物质镥矿石
     S:oredict.oreAntiMagnesium.name=反物质镁矿石
     S:oredict.oreAntiManganese.name=反物质锰矿石
-    S:oredict.oreAntiMeitnerium.name=反物质鿏矿石
+    S:oredict.oreAntiMeitnerium.name=反物质䥑矿石
     S:oredict.oreAntiMendelevium.name=反物质钔矿石
     S:oredict.oreAntiMercury.name=反物质汞矿石
     S:oredict.oreAntiMolybdenum.name=反物质钼矿石
@@ -27520,7 +27621,7 @@ languagefile {
     S:oredict.oreAntiRadium.name=反物质镭矿石
     S:oredict.oreAntiRhenium.name=反物质铼矿石
     S:oredict.oreAntiRhodium.name=反物质铑矿石
-    S:oredict.oreAntiRoentgenium.name=反物质𬬭矿石
+    S:oredict.oreAntiRoentgenium.name=反物质錀矿石
     S:oredict.oreAntiRubidium.name=反物质铷矿石
     S:oredict.oreAntiRuthenium.name=反物质钌矿石
     S:oredict.oreAntiRutherfordium.name=反物质鑪矿石
@@ -27624,8 +27725,8 @@ languagefile {
     S:oredict.oreBasaltAntiEuropium.name=玄武岩反物质铕矿石
     S:oredict.oreBasaltAntiFarnsium.name=玄武岩反物质钫矿石
     S:oredict.oreBasaltAntiFermium.name=玄武岩反物质镄矿石
-    S:oredict.oreBasaltAntiFlerovium.name=玄武岩反物质𫓧矿石
-    S:oredict.oreBasaltAntiFlerovium298.name=玄武岩反物质𫓧-298矿石
+    S:oredict.oreBasaltAntiFlerovium.name=玄武岩反物质鈇矿石
+    S:oredict.oreBasaltAntiFlerovium298.name=玄武岩反物质鈇-298矿石
     S:oredict.oreBasaltAntiFluorine.name=玄武岩反物质氟矿石
     S:oredict.oreBasaltAntiFrancium.name=玄武岩反物质钫矿石
     S:oredict.oreBasaltAntiGadolinium.name=玄武岩反物质钆矿石
@@ -27648,7 +27749,7 @@ languagefile {
     S:oredict.oreBasaltAntiLutetium.name=玄武岩反物质镥矿石
     S:oredict.oreBasaltAntiMagnesium.name=玄武岩反物质镁矿石
     S:oredict.oreBasaltAntiManganese.name=玄武岩反物质锰矿石
-    S:oredict.oreBasaltAntiMeitnerium.name=玄武岩反物质鿏矿石
+    S:oredict.oreBasaltAntiMeitnerium.name=玄武岩反物质䥑矿石
     S:oredict.oreBasaltAntiMendelevium.name=玄武岩反物质钔矿石
     S:oredict.oreBasaltAntiMercury.name=玄武岩反物质汞矿石
     S:oredict.oreBasaltAntiMolybdenum.name=玄武岩反物质钼矿石
@@ -27675,7 +27776,7 @@ languagefile {
     S:oredict.oreBasaltAntiRadium.name=玄武岩反物质镭矿石
     S:oredict.oreBasaltAntiRhenium.name=玄武岩反物质铼矿石
     S:oredict.oreBasaltAntiRhodium.name=玄武岩反物质铑矿石
-    S:oredict.oreBasaltAntiRoentgenium.name=玄武岩反物质𬬭矿石
+    S:oredict.oreBasaltAntiRoentgenium.name=玄武岩反物质錀矿石
     S:oredict.oreBasaltAntiRubidium.name=玄武岩反物质铷矿石
     S:oredict.oreBasaltAntiRuthenium.name=玄武岩反物质钌矿石
     S:oredict.oreBasaltAntiRutherfordium.name=玄武岩反物质鑪矿石
@@ -27815,8 +27916,8 @@ languagefile {
     S:oredict.oreBasaltFerrite.name=玄武岩铁氧体矿石
     S:oredict.oreBasaltFerrovanadium.name=玄武岩钒磁铁矿石
     S:oredict.oreBasaltFirestone.name=玄武岩火石矿石
-    S:oredict.oreBasaltFlerovium.name=玄武岩𫓧矿石
-    S:oredict.oreBasaltFlerovium298.name=玄武岩𫓧-298矿石
+    S:oredict.oreBasaltFlerovium.name=玄武岩鈇矿石
+    S:oredict.oreBasaltFlerovium298.name=玄武岩鈇-298矿石
     S:oredict.oreBasaltFluorine.name=玄武岩氟矿石
     S:oredict.oreBasaltFluorite.name=玄武岩萤石矿石
     S:oredict.oreBasaltFoolsRuby.name=玄武岩红宝石矿石
@@ -27893,7 +27994,7 @@ languagefile {
     S:oredict.oreBasaltMagnetite.name=玄武岩磁铁矿石
     S:oredict.oreBasaltMalachite.name=玄武岩孔雀石矿石
     S:oredict.oreBasaltManganese.name=玄武岩锰矿石
-    S:oredict.oreBasaltMeitnerium.name=玄武岩鿏矿石
+    S:oredict.oreBasaltMeitnerium.name=玄武岩䥑矿石
     S:oredict.oreBasaltMendelevium.name=玄武岩钔矿石
     S:oredict.oreBasaltMercury.name=玄武岩汞矿石
     S:oredict.oreBasaltMeteoricIron.name=玄武岩陨铁矿石
@@ -27967,7 +28068,7 @@ languagefile {
     S:oredict.oreBasaltRhenium.name=玄武岩铼矿石
     S:oredict.oreBasaltRhodium.name=玄武岩铑矿石
     S:oredict.oreBasaltRockSalt.name=玄武岩岩盐矿石
-    S:oredict.oreBasaltRoentgenium.name=玄武岩𬬭矿石
+    S:oredict.oreBasaltRoentgenium.name=玄武岩錀矿石
     S:oredict.oreBasaltRubidium.name=玄武岩铷矿石
     S:oredict.oreBasaltRubracium.name=玄武岩褐铜矿石
     S:oredict.oreBasaltRuby.name=玄武岩红宝石矿石
@@ -28118,8 +28219,8 @@ languagefile {
     S:oredict.oreBedrockAntiEuropium.name=基岩反物质铕矿石
     S:oredict.oreBedrockAntiFarnsium.name=基岩反物质钫矿石
     S:oredict.oreBedrockAntiFermium.name=基岩反物质镄矿石
-    S:oredict.oreBedrockAntiFlerovium.name=基岩反物质𫓧矿石
-    S:oredict.oreBedrockAntiFlerovium298.name=基岩反物质𫓧-298矿石
+    S:oredict.oreBedrockAntiFlerovium.name=基岩反物质鈇矿石
+    S:oredict.oreBedrockAntiFlerovium298.name=基岩反物质鈇-298矿石
     S:oredict.oreBedrockAntiFluorine.name=基岩反物质氟矿石
     S:oredict.oreBedrockAntiFrancium.name=基岩反物质钫矿石
     S:oredict.oreBedrockAntiGadolinium.name=基岩反物质钆矿石
@@ -28142,7 +28243,7 @@ languagefile {
     S:oredict.oreBedrockAntiLutetium.name=基岩反物质镥矿石
     S:oredict.oreBedrockAntiMagnesium.name=基岩反物质镁矿石
     S:oredict.oreBedrockAntiManganese.name=基岩反物质锰矿石
-    S:oredict.oreBedrockAntiMeitnerium.name=基岩反物质鿏矿石
+    S:oredict.oreBedrockAntiMeitnerium.name=基岩反物质䥑矿石
     S:oredict.oreBedrockAntiMendelevium.name=基岩反物质钔矿石
     S:oredict.oreBedrockAntiMercury.name=基岩反物质汞矿石
     S:oredict.oreBedrockAntiMolybdenum.name=基岩反物质钼矿石
@@ -28169,7 +28270,7 @@ languagefile {
     S:oredict.oreBedrockAntiRadium.name=基岩反物质镭矿石
     S:oredict.oreBedrockAntiRhenium.name=基岩反物质铼矿石
     S:oredict.oreBedrockAntiRhodium.name=基岩反物质铑矿石
-    S:oredict.oreBedrockAntiRoentgenium.name=基岩反物质𬬭矿石
+    S:oredict.oreBedrockAntiRoentgenium.name=基岩反物质錀矿石
     S:oredict.oreBedrockAntiRubidium.name=基岩反物质铷矿石
     S:oredict.oreBedrockAntiRuthenium.name=基岩反物质钌矿石
     S:oredict.oreBedrockAntiRutherfordium.name=基岩反物质鑪矿石
@@ -28307,8 +28408,8 @@ languagefile {
     S:oredict.oreBedrockFerrite.name=基岩铁氧体矿石
     S:oredict.oreBedrockFerrovanadium.name=基岩钒磁铁矿石
     S:oredict.oreBedrockFirestone.name=基岩火石矿石
-    S:oredict.oreBedrockFlerovium.name=基岩𫓧矿石
-    S:oredict.oreBedrockFlerovium298.name=基岩𫓧-298矿石
+    S:oredict.oreBedrockFlerovium.name=基岩鈇矿石
+    S:oredict.oreBedrockFlerovium298.name=基岩鈇-298矿石
     S:oredict.oreBedrockFluorine.name=基岩氟矿石
     S:oredict.oreBedrockFluorite.name=基岩萤石矿石
     S:oredict.oreBedrockForce.name=基岩立场矿石
@@ -28383,7 +28484,7 @@ languagefile {
     S:oredict.oreBedrockMagnetite.name=基岩磁铁矿石
     S:oredict.oreBedrockMalachite.name=基岩孔雀石矿石
     S:oredict.oreBedrockManganese.name=基岩锰矿石
-    S:oredict.oreBedrockMeitnerium.name=基岩鿏矿石
+    S:oredict.oreBedrockMeitnerium.name=基岩䥑矿石
     S:oredict.oreBedrockMendelevium.name=基岩钔矿石
     S:oredict.oreBedrockMercury.name=基岩汞矿石
     S:oredict.oreBedrockMeteoricIron.name=基岩陨铁矿石
@@ -28457,7 +28558,7 @@ languagefile {
     S:oredict.oreBedrockRhenium.name=基岩铼矿石
     S:oredict.oreBedrockRhodium.name=基岩铑矿石
     S:oredict.oreBedrockRockSalt.name=基岩岩盐矿石
-    S:oredict.oreBedrockRoentgenium.name=基岩𬬭矿石
+    S:oredict.oreBedrockRoentgenium.name=基岩錀矿石
     S:oredict.oreBedrockRubidium.name=基岩铷矿石
     S:oredict.oreBedrockRubracium.name=基岩褐铜矿石
     S:oredict.oreBedrockRuby.name=基岩红宝石矿石
@@ -28608,8 +28709,8 @@ languagefile {
     S:oredict.oreBlackgraniteAntiEuropium.name=黑色花岗岩反物质铕矿石
     S:oredict.oreBlackgraniteAntiFarnsium.name=黑色花岗岩反物质钫矿石
     S:oredict.oreBlackgraniteAntiFermium.name=黑色花岗岩反物质镄矿石
-    S:oredict.oreBlackgraniteAntiFlerovium.name=黑色花岗岩反物质𫓧矿石
-    S:oredict.oreBlackgraniteAntiFlerovium298.name=黑色花岗岩反物质𫓧-298矿石
+    S:oredict.oreBlackgraniteAntiFlerovium.name=黑色花岗岩反物质鈇矿石
+    S:oredict.oreBlackgraniteAntiFlerovium298.name=黑色花岗岩反物质鈇-298矿石
     S:oredict.oreBlackgraniteAntiFluorine.name=黑色花岗岩反物质氟矿石
     S:oredict.oreBlackgraniteAntiFrancium.name=黑色花岗岩反物质钫矿石
     S:oredict.oreBlackgraniteAntiGadolinium.name=黑色花岗岩反物质钆矿石
@@ -28632,7 +28733,7 @@ languagefile {
     S:oredict.oreBlackgraniteAntiLutetium.name=黑色花岗岩反物质镥矿石
     S:oredict.oreBlackgraniteAntiMagnesium.name=黑色花岗岩反物质镁矿石
     S:oredict.oreBlackgraniteAntiManganese.name=黑色花岗岩反物质锰矿石
-    S:oredict.oreBlackgraniteAntiMeitnerium.name=黑色花岗岩反物质鿏矿石
+    S:oredict.oreBlackgraniteAntiMeitnerium.name=黑色花岗岩反物质䥑矿石
     S:oredict.oreBlackgraniteAntiMendelevium.name=黑色花岗岩反物质钔矿石
     S:oredict.oreBlackgraniteAntiMercury.name=黑色花岗岩反物质汞矿石
     S:oredict.oreBlackgraniteAntiMolybdenum.name=黑色花岗岩反物质钼矿石
@@ -28659,7 +28760,7 @@ languagefile {
     S:oredict.oreBlackgraniteAntiRadium.name=黑色花岗岩反物质镭矿石
     S:oredict.oreBlackgraniteAntiRhenium.name=黑色花岗岩反物质铼矿石
     S:oredict.oreBlackgraniteAntiRhodium.name=黑色花岗岩反物质铑矿石
-    S:oredict.oreBlackgraniteAntiRoentgenium.name=黑色花岗岩反物质𬬭矿石
+    S:oredict.oreBlackgraniteAntiRoentgenium.name=黑色花岗岩反物质錀矿石
     S:oredict.oreBlackgraniteAntiRubidium.name=黑色花岗岩反物质铷矿石
     S:oredict.oreBlackgraniteAntiRuthenium.name=黑色花岗岩反物质钌矿石
     S:oredict.oreBlackgraniteAntiRutherfordium.name=黑色花岗岩反物质鑪矿石
@@ -28797,8 +28898,8 @@ languagefile {
     S:oredict.oreBlackgraniteFerrite.name=黑色花岗岩铁氧体矿石
     S:oredict.oreBlackgraniteFerrovanadium.name=黑色花岗岩钒磁铁矿石
     S:oredict.oreBlackgraniteFirestone.name=黑色花岗岩火石矿石
-    S:oredict.oreBlackgraniteFlerovium.name=黑色花岗岩𫓧矿石
-    S:oredict.oreBlackgraniteFlerovium298.name=黑色花岗岩𫓧-298矿石
+    S:oredict.oreBlackgraniteFlerovium.name=黑色花岗岩鈇矿石
+    S:oredict.oreBlackgraniteFlerovium298.name=黑色花岗岩鈇-298矿石
     S:oredict.oreBlackgraniteFluorine.name=黑色花岗岩氟矿石
     S:oredict.oreBlackgraniteFluorite.name=黑色花岗岩萤石矿石
     S:oredict.oreBlackgraniteForce.name=黑色花岗岩力量矿石
@@ -28872,7 +28973,7 @@ languagefile {
     S:oredict.oreBlackgraniteMagnetite.name=黑色花岗岩磁铁矿石
     S:oredict.oreBlackgraniteMalachite.name=黑色花岗岩孔雀石矿石
     S:oredict.oreBlackgraniteManganese.name=黑色花岗岩锰矿石
-    S:oredict.oreBlackgraniteMeitnerium.name=黑色花岗岩鿏矿石
+    S:oredict.oreBlackgraniteMeitnerium.name=黑色花岗岩䥑矿石
     S:oredict.oreBlackgraniteMendelevium.name=黑色花岗岩钔矿石
     S:oredict.oreBlackgraniteMercury.name=黑色花岗岩汞矿石
     S:oredict.oreBlackgraniteMeteoricIron.name=黑色花岗岩陨铁矿石
@@ -28946,7 +29047,7 @@ languagefile {
     S:oredict.oreBlackgraniteRhenium.name=黑色花岗岩铼矿石
     S:oredict.oreBlackgraniteRhodium.name=黑色花岗岩铑矿石
     S:oredict.oreBlackgraniteRockSalt.name=黑色花岗岩岩盐矿石
-    S:oredict.oreBlackgraniteRoentgenium.name=黑色花岗岩𬬭矿石
+    S:oredict.oreBlackgraniteRoentgenium.name=黑色花岗岩錀矿石
     S:oredict.oreBlackgraniteRubidium.name=黑色花岗岩铷矿石
     S:oredict.oreBlackgraniteRubracium.name=黑色花岗岩褐铜矿石
     S:oredict.oreBlackgraniteRuby.name=黑色花岗岩红宝石矿石
@@ -29165,8 +29266,8 @@ languagefile {
     S:oredict.oreEndstoneAntiEuropium.name=末地反物质铕矿石
     S:oredict.oreEndstoneAntiFarnsium.name=末地反物质钫矿石
     S:oredict.oreEndstoneAntiFermium.name=末地反物质镄矿石
-    S:oredict.oreEndstoneAntiFlerovium.name=末地反物质𫓧矿石
-    S:oredict.oreEndstoneAntiFlerovium298.name=末地反物质𫓧-298矿石
+    S:oredict.oreEndstoneAntiFlerovium.name=末地反物质鈇矿石
+    S:oredict.oreEndstoneAntiFlerovium298.name=末地反物质鈇-298矿石
     S:oredict.oreEndstoneAntiFluorine.name=末地反物质氟矿石
     S:oredict.oreEndstoneAntiFrancium.name=末地反物质钫矿石
     S:oredict.oreEndstoneAntiGadolinium.name=末地反物质钆矿石
@@ -29189,7 +29290,7 @@ languagefile {
     S:oredict.oreEndstoneAntiLutetium.name=末地反物质镥矿石
     S:oredict.oreEndstoneAntiMagnesium.name=末地反物质镁矿石
     S:oredict.oreEndstoneAntiManganese.name=末地反物质锰矿石
-    S:oredict.oreEndstoneAntiMeitnerium.name=末地反物质鿏矿石
+    S:oredict.oreEndstoneAntiMeitnerium.name=末地反物质䥑矿石
     S:oredict.oreEndstoneAntiMendelevium.name=末地反物质钔矿石
     S:oredict.oreEndstoneAntiMercury.name=末地反物质汞矿石
     S:oredict.oreEndstoneAntiMolybdenum.name=末地反物质钼矿石
@@ -29216,7 +29317,7 @@ languagefile {
     S:oredict.oreEndstoneAntiRadium.name=末地反物质镭矿石
     S:oredict.oreEndstoneAntiRhenium.name=末地反物质铼矿石
     S:oredict.oreEndstoneAntiRhodium.name=末地反物质铑矿石
-    S:oredict.oreEndstoneAntiRoentgenium.name=末地反物质𬬭矿石
+    S:oredict.oreEndstoneAntiRoentgenium.name=末地反物质錀矿石
     S:oredict.oreEndstoneAntiRubidium.name=末地反物质铷矿石
     S:oredict.oreEndstoneAntiRuthenium.name=末地反物质钌矿石
     S:oredict.oreEndstoneAntiRutherfordium.name=末地反物质鑪矿石
@@ -29356,8 +29457,8 @@ languagefile {
     S:oredict.oreEndstoneFerrite.name=末地铁氧体矿石
     S:oredict.oreEndstoneFerrovanadium.name=末地钒磁铁矿石
     S:oredict.oreEndstoneFirestone.name=末地火石矿石
-    S:oredict.oreEndstoneFlerovium.name=末地𫓧矿石
-    S:oredict.oreEndstoneFlerovium298.name=末地𫓧-298矿石
+    S:oredict.oreEndstoneFlerovium.name=末地鈇矿石
+    S:oredict.oreEndstoneFlerovium298.name=末地鈇-298矿石
     S:oredict.oreEndstoneFluorine.name=末地氟矿石
     S:oredict.oreEndstoneFluorite.name=末地萤石矿石
     S:oredict.oreEndstoneFoolsRuby.name=末地红宝石矿石
@@ -29433,7 +29534,7 @@ languagefile {
     S:oredict.oreEndstoneMagnetite.name=末地磁铁矿石
     S:oredict.oreEndstoneMalachite.name=末地孔雀石矿石
     S:oredict.oreEndstoneManganese.name=末地锰矿石
-    S:oredict.oreEndstoneMeitnerium.name=末地鿏矿石
+    S:oredict.oreEndstoneMeitnerium.name=末地䥑矿石
     S:oredict.oreEndstoneMendelevium.name=末地钔矿石
     S:oredict.oreEndstoneMercury.name=末地汞矿石
     S:oredict.oreEndstoneMeteoricIron.name=末地陨铁矿石
@@ -29507,7 +29608,7 @@ languagefile {
     S:oredict.oreEndstoneRhenium.name=末地铼矿石
     S:oredict.oreEndstoneRhodium.name=末地铑矿石
     S:oredict.oreEndstoneRockSalt.name=末地岩盐矿石
-    S:oredict.oreEndstoneRoentgenium.name=末地𬬭矿石
+    S:oredict.oreEndstoneRoentgenium.name=末地錀矿石
     S:oredict.oreEndstoneRubidium.name=末地铷矿石
     S:oredict.oreEndstoneRubracium.name=末地褐铜矿石
     S:oredict.oreEndstoneRuby.name=末地红宝石矿石
@@ -29610,8 +29711,8 @@ languagefile {
     S:oredict.oreFerrite.name=铁氧体矿石
     S:oredict.oreFerrovanadium.name=钒磁铁矿石
     S:oredict.oreFirestone.name=火石矿石
-    S:oredict.oreFlerovium.name=𫓧矿石
-    S:oredict.oreFlerovium298.name=𫓧-298矿石
+    S:oredict.oreFlerovium.name=鈇矿石
+    S:oredict.oreFlerovium298.name=鈇-298矿石
     S:oredict.oreFluorine.name=氟矿石
     S:oredict.oreFluorite.name=萤石矿石
     S:oredict.oreFoolsRuby.name=红宝石矿石
@@ -29690,7 +29791,7 @@ languagefile {
     S:oredict.oreGravelAntiEuropium.name=反物质铕沙砾
     S:oredict.oreGravelAntiFarnsium.name=反物质钫沙砾
     S:oredict.oreGravelAntiFermium.name=反物质镄沙砾
-    S:oredict.oreGravelAntiFlerovium.name=反物质𫓧沙砾
+    S:oredict.oreGravelAntiFlerovium.name=反物质鈇沙砾
     S:oredict.oreGravelAntiFlerovium298.name=反物-298沙砾
     S:oredict.oreGravelAntiFluorine.name=反物质氟沙砾
     S:oredict.oreGravelAntiFrancium.name=反物质钫沙砾
@@ -29714,7 +29815,7 @@ languagefile {
     S:oredict.oreGravelAntiLutetium.name=反物质镥沙砾
     S:oredict.oreGravelAntiMagnesium.name=反物质镁沙砾
     S:oredict.oreGravelAntiManganese.name=反物质锰沙砾
-    S:oredict.oreGravelAntiMeitnerium.name=反物质鿏沙砾
+    S:oredict.oreGravelAntiMeitnerium.name=反物质䥑沙砾
     S:oredict.oreGravelAntiMendelevium.name=反物质钔沙砾
     S:oredict.oreGravelAntiMercury.name=反物质汞沙砾
     S:oredict.oreGravelAntiMolybdenum.name=反物质钼沙砾
@@ -29741,7 +29842,7 @@ languagefile {
     S:oredict.oreGravelAntiRadium.name=反物质镭沙砾
     S:oredict.oreGravelAntiRhenium.name=反物质铼沙砾
     S:oredict.oreGravelAntiRhodium.name=反物质铑沙砾
-    S:oredict.oreGravelAntiRoentgenium.name=反物质𬬭沙砾
+    S:oredict.oreGravelAntiRoentgenium.name=反物质錀沙砾
     S:oredict.oreGravelAntiRubidium.name=反物质铷沙砾
     S:oredict.oreGravelAntiRuthenium.name=反物质钌沙砾
     S:oredict.oreGravelAntiRutherfordium.name=反物质鑪沙砾
@@ -29881,8 +29982,8 @@ languagefile {
     S:oredict.oreGravelFerrite.name=铁氧体沙砾
     S:oredict.oreGravelFerrovanadium.name=钒磁铁沙砾
     S:oredict.oreGravelFirestone.name=火石沙砾
-    S:oredict.oreGravelFlerovium.name=𫓧沙砾
-    S:oredict.oreGravelFlerovium298.name=𫓧-298沙砾
+    S:oredict.oreGravelFlerovium.name=鈇沙砾
+    S:oredict.oreGravelFlerovium298.name=鈇-298沙砾
     S:oredict.oreGravelFluorine.name=氟沙砾
     S:oredict.oreGravelFluorite.name=萤石沙砾
     S:oredict.oreGravelFoolsRuby.name=红宝石沙砾
@@ -29957,7 +30058,7 @@ languagefile {
     S:oredict.oreGravelMagnetite.name=磁铁沙砾
     S:oredict.oreGravelMalachite.name=孔雀石沙砾
     S:oredict.oreGravelManganese.name=锰沙砾
-    S:oredict.oreGravelMeitnerium.name=鿏沙砾
+    S:oredict.oreGravelMeitnerium.name=䥑沙砾
     S:oredict.oreGravelMendelevium.name=钔沙砾
     S:oredict.oreGravelMercury.name=汞沙砾
     S:oredict.oreGravelMeteoricIron.name=陨铁沙砾
@@ -30031,7 +30132,7 @@ languagefile {
     S:oredict.oreGravelRhenium.name=铼沙砾
     S:oredict.oreGravelRhodium.name=铑沙砾
     S:oredict.oreGravelRockSalt.name=岩盐沙砾
-    S:oredict.oreGravelRoentgenium.name=𬬭沙砾
+    S:oredict.oreGravelRoentgenium.name=錀沙砾
     S:oredict.oreGravelRubidium.name=铷沙砾
     S:oredict.oreGravelRubracium.name=褐铜沙砾
     S:oredict.oreGravelRuby.name=红宝石沙砾
@@ -30214,8 +30315,8 @@ languagefile {
     S:oredict.oreLimestoneAntiEuropium.name=石灰岩反物质铕矿石
     S:oredict.oreLimestoneAntiFarnsium.name=石灰岩反物质钫矿石
     S:oredict.oreLimestoneAntiFermium.name=石灰岩反物质镄矿石
-    S:oredict.oreLimestoneAntiFlerovium.name=石灰岩反物质𫓧矿石
-    S:oredict.oreLimestoneAntiFlerovium298.name=石灰岩反物质𫓧-298矿石
+    S:oredict.oreLimestoneAntiFlerovium.name=石灰岩反物质鈇矿石
+    S:oredict.oreLimestoneAntiFlerovium298.name=石灰岩反物质鈇-298矿石
     S:oredict.oreLimestoneAntiFluorine.name=石灰岩反物质氟矿石
     S:oredict.oreLimestoneAntiFrancium.name=石灰岩反物质钫矿石
     S:oredict.oreLimestoneAntiGadolinium.name=石灰岩反物质钆矿石
@@ -30238,7 +30339,7 @@ languagefile {
     S:oredict.oreLimestoneAntiLutetium.name=石灰岩反物质镥矿石
     S:oredict.oreLimestoneAntiMagnesium.name=石灰岩反物质镁矿石
     S:oredict.oreLimestoneAntiManganese.name=石灰岩反物质锰矿石
-    S:oredict.oreLimestoneAntiMeitnerium.name=石灰岩反物质鿏矿石
+    S:oredict.oreLimestoneAntiMeitnerium.name=石灰岩反物质䥑矿石
     S:oredict.oreLimestoneAntiMendelevium.name=石灰岩反物质钔矿石
     S:oredict.oreLimestoneAntiMercury.name=石灰岩反物质汞矿石
     S:oredict.oreLimestoneAntiMolybdenum.name=石灰岩反物质钼矿石
@@ -30265,7 +30366,7 @@ languagefile {
     S:oredict.oreLimestoneAntiRadium.name=石灰岩反物质镭矿石
     S:oredict.oreLimestoneAntiRhenium.name=石灰岩反物质铼矿石
     S:oredict.oreLimestoneAntiRhodium.name=石灰岩反物质铑矿石
-    S:oredict.oreLimestoneAntiRoentgenium.name=石灰岩反物质𬬭矿石
+    S:oredict.oreLimestoneAntiRoentgenium.name=石灰岩反物质錀矿石
     S:oredict.oreLimestoneAntiRubidium.name=石灰岩反物质铷矿石
     S:oredict.oreLimestoneAntiRuthenium.name=石灰岩反物质钌矿石
     S:oredict.oreLimestoneAntiRutherfordium.name=石灰岩反物质鑪矿石
@@ -30400,8 +30501,8 @@ languagefile {
     S:oredict.oreLimestoneFermium.name=石灰岩镄矿石
     S:oredict.oreLimestoneFerrovanadium.name=石灰岩钒磁铁矿石
     S:oredict.oreLimestoneFirestone.name=石灰岩火石矿石
-    S:oredict.oreLimestoneFlerovium.name=石灰岩𫓧矿石
-    S:oredict.oreLimestoneFlerovium298.name=石灰岩𫓧-298矿石
+    S:oredict.oreLimestoneFlerovium.name=石灰岩鈇矿石
+    S:oredict.oreLimestoneFlerovium298.name=石灰岩鈇-298矿石
     S:oredict.oreLimestoneFluorine.name=石灰岩氟矿石
     S:oredict.oreLimestoneForce.name=石灰岩立场矿石
     S:oredict.oreLimestoneForcicium.name=石灰岩力场矿石
@@ -30469,7 +30570,7 @@ languagefile {
     S:oredict.oreLimestoneMagnetite.name=石灰岩磁铁矿石
     S:oredict.oreLimestoneMalachite.name=石灰岩孔雀石矿石
     S:oredict.oreLimestoneManganese.name=石灰岩锰矿石
-    S:oredict.oreLimestoneMeitnerium.name=石灰岩鿏矿石
+    S:oredict.oreLimestoneMeitnerium.name=石灰岩䥑矿石
     S:oredict.oreLimestoneMendelevium.name=石灰岩钔矿石
     S:oredict.oreLimestoneMercury.name=石灰岩汞矿石
     S:oredict.oreLimestoneMeteoricIron.name=石灰岩陨铁矿石
@@ -30537,7 +30638,7 @@ languagefile {
     S:oredict.oreLimestoneRhenium.name=石灰岩铼矿石
     S:oredict.oreLimestoneRhodium.name=石灰岩铑矿石
     S:oredict.oreLimestoneRockSalt.name=石灰岩岩盐矿石
-    S:oredict.oreLimestoneRoentgenium.name=石灰岩𬬭矿石
+    S:oredict.oreLimestoneRoentgenium.name=石灰岩錀矿石
     S:oredict.oreLimestoneRubidium.name=石灰岩铷矿石
     S:oredict.oreLimestoneRubracium.name=石灰岩褐铜矿石
     S:oredict.oreLimestoneRuby.name=石灰岩红宝石矿石
@@ -30691,8 +30792,8 @@ languagefile {
     S:oredict.oreMarbleAntiEuropium.name=大理石反物质铕矿石
     S:oredict.oreMarbleAntiFarnsium.name=大理石反物质钫矿石
     S:oredict.oreMarbleAntiFermium.name=大理石反物质镄矿石
-    S:oredict.oreMarbleAntiFlerovium.name=大理石反物质𫓧矿石
-    S:oredict.oreMarbleAntiFlerovium298.name=大理石反物质𫓧-298矿石
+    S:oredict.oreMarbleAntiFlerovium.name=大理石反物质鈇矿石
+    S:oredict.oreMarbleAntiFlerovium298.name=大理石反物质鈇-298矿石
     S:oredict.oreMarbleAntiFluorine.name=大理石反物质氟矿石
     S:oredict.oreMarbleAntiFrancium.name=大理石反物质钫矿石
     S:oredict.oreMarbleAntiGadolinium.name=大理石反物质钆矿石
@@ -30715,7 +30816,7 @@ languagefile {
     S:oredict.oreMarbleAntiLutetium.name=大理石反物质镥矿石
     S:oredict.oreMarbleAntiMagnesium.name=大理石反物质镁矿石
     S:oredict.oreMarbleAntiManganese.name=大理石反物质锰矿石
-    S:oredict.oreMarbleAntiMeitnerium.name=大理石反物质鿏矿石
+    S:oredict.oreMarbleAntiMeitnerium.name=大理石反物质䥑矿石
     S:oredict.oreMarbleAntiMendelevium.name=大理石反物质钔矿石
     S:oredict.oreMarbleAntiMercury.name=大理石反物质汞矿石
     S:oredict.oreMarbleAntiMolybdenum.name=大理石反物质钼矿石
@@ -30742,7 +30843,7 @@ languagefile {
     S:oredict.oreMarbleAntiRadium.name=大理石反物质镭矿石
     S:oredict.oreMarbleAntiRhenium.name=大理石反物质铼矿石
     S:oredict.oreMarbleAntiRhodium.name=大理石反物质铑矿石
-    S:oredict.oreMarbleAntiRoentgenium.name=大理石反物质𬬭矿石
+    S:oredict.oreMarbleAntiRoentgenium.name=大理石反物质錀矿石
     S:oredict.oreMarbleAntiRubidium.name=大理石反物质铷矿石
     S:oredict.oreMarbleAntiRuthenium.name=大理石反物质钌矿石
     S:oredict.oreMarbleAntiRutherfordium.name=大理石反物质鑪矿石
@@ -30882,8 +30983,8 @@ languagefile {
     S:oredict.oreMarbleFerrite.name=大理石铁氧体矿石
     S:oredict.oreMarbleFerrovanadium.name=大理石钒磁铁矿石
     S:oredict.oreMarbleFirestone.name=大理石火石矿石
-    S:oredict.oreMarbleFlerovium.name=大理石𫓧矿石
-    S:oredict.oreMarbleFlerovium298.name=大理石𫓧-298矿石
+    S:oredict.oreMarbleFlerovium.name=大理石鈇矿石
+    S:oredict.oreMarbleFlerovium298.name=大理石鈇-298矿石
     S:oredict.oreMarbleFluorine.name=大理石氟矿石
     S:oredict.oreMarbleFluorite.name=大理石萤石矿石
     S:oredict.oreMarbleFoolsRuby.name=大理石红宝石矿石
@@ -30959,7 +31060,7 @@ languagefile {
     S:oredict.oreMarbleMagnetite.name=大理石磁铁矿石
     S:oredict.oreMarbleMalachite.name=大理石孔雀石矿石
     S:oredict.oreMarbleManganese.name=大理石锰矿石
-    S:oredict.oreMarbleMeitnerium.name=大理石鿏矿石
+    S:oredict.oreMarbleMeitnerium.name=大理石䥑矿石
     S:oredict.oreMarbleMendelevium.name=大理石钔矿石
     S:oredict.oreMarbleMercury.name=大理石汞矿石
     S:oredict.oreMarbleMeteoricIron.name=大理石陨铁矿石
@@ -31033,7 +31134,7 @@ languagefile {
     S:oredict.oreMarbleRhenium.name=大理石铼矿石
     S:oredict.oreMarbleRhodium.name=大理石铑矿石
     S:oredict.oreMarbleRockSalt.name=大理石岩盐矿石
-    S:oredict.oreMarbleRoentgenium.name=大理石𬬭矿石
+    S:oredict.oreMarbleRoentgenium.name=大理石錀矿石
     S:oredict.oreMarbleRubidium.name=大理石铷矿石
     S:oredict.oreMarbleRubracium.name=大理石褐铜矿石
     S:oredict.oreMarbleRuby.name=大理石红宝石矿石
@@ -31128,7 +31229,7 @@ languagefile {
     S:oredict.oreMarbleZeolite.name=大理石沸石矿石
     S:oredict.oreMarbleZinc.name=大理石锌矿石
     S:oredict.oreMarbleZirconium.name=大理石锆矿石
-    S:oredict.oreMeitnerium.name=鿏矿石
+    S:oredict.oreMeitnerium.name=䥑矿石
     S:oredict.oreMendelevium.name=钔矿石
     S:oredict.oreMercury.name=汞矿石
     S:oredict.oreMeteoricIron.name=陨铁矿石
@@ -31201,8 +31302,8 @@ languagefile {
     S:oredict.oreNetherrackAntiEuropium.name=地狱反物质铕矿石
     S:oredict.oreNetherrackAntiFarnsium.name=地狱反物质钫矿石
     S:oredict.oreNetherrackAntiFermium.name=地狱反物质镄矿石
-    S:oredict.oreNetherrackAntiFlerovium.name=地狱反物质𫓧矿石
-    S:oredict.oreNetherrackAntiFlerovium298.name=地狱反物质𫓧-298矿石
+    S:oredict.oreNetherrackAntiFlerovium.name=地狱反物质鈇矿石
+    S:oredict.oreNetherrackAntiFlerovium298.name=地狱反物质鈇-298矿石
     S:oredict.oreNetherrackAntiFluorine.name=地狱反物质氟矿石
     S:oredict.oreNetherrackAntiFrancium.name=地狱反物质钫矿石
     S:oredict.oreNetherrackAntiGadolinium.name=地狱反物质钆矿石
@@ -31225,7 +31326,7 @@ languagefile {
     S:oredict.oreNetherrackAntiLutetium.name=地狱反物质镥矿石
     S:oredict.oreNetherrackAntiMagnesium.name=地狱反物质镁矿石
     S:oredict.oreNetherrackAntiManganese.name=地狱反物质锰矿石
-    S:oredict.oreNetherrackAntiMeitnerium.name=地狱反物质鿏矿石
+    S:oredict.oreNetherrackAntiMeitnerium.name=地狱反物质䥑矿石
     S:oredict.oreNetherrackAntiMendelevium.name=地狱反物质钔矿石
     S:oredict.oreNetherrackAntiMercury.name=地狱反物质汞矿石
     S:oredict.oreNetherrackAntiMolybdenum.name=地狱反物质钼矿石
@@ -31252,7 +31353,7 @@ languagefile {
     S:oredict.oreNetherrackAntiRadium.name=地狱反物质镭矿石
     S:oredict.oreNetherrackAntiRhenium.name=地狱反物质铼矿石
     S:oredict.oreNetherrackAntiRhodium.name=地狱反物质铑矿石
-    S:oredict.oreNetherrackAntiRoentgenium.name=地狱反物质𬬭矿石
+    S:oredict.oreNetherrackAntiRoentgenium.name=地狱反物质錀矿石
     S:oredict.oreNetherrackAntiRubidium.name=地狱反物质铷矿石
     S:oredict.oreNetherrackAntiRuthenium.name=地狱反物质钌矿石
     S:oredict.oreNetherrackAntiRutherfordium.name=地狱反物质鑪矿石
@@ -31392,8 +31493,8 @@ languagefile {
     S:oredict.oreNetherrackFerrite.name=地狱铁氧体矿石
     S:oredict.oreNetherrackFerrovanadium.name=地狱钒磁铁矿石
     S:oredict.oreNetherrackFirestone.name=地狱火石矿石
-    S:oredict.oreNetherrackFlerovium.name=地狱𫓧矿石
-    S:oredict.oreNetherrackFlerovium298.name=地狱𫓧-298矿石
+    S:oredict.oreNetherrackFlerovium.name=地狱鈇矿石
+    S:oredict.oreNetherrackFlerovium298.name=地狱鈇-298矿石
     S:oredict.oreNetherrackFluorine.name=地狱氟矿石
     S:oredict.oreNetherrackFluorite.name=Nether 萤石矿石
     S:oredict.oreNetherrackFoolsRuby.name=地狱红宝石矿石
@@ -31469,7 +31570,7 @@ languagefile {
     S:oredict.oreNetherrackMagnetite.name=地狱磁铁矿石
     S:oredict.oreNetherrackMalachite.name=地狱孔雀石矿石
     S:oredict.oreNetherrackManganese.name=地狱锰矿石
-    S:oredict.oreNetherrackMeitnerium.name=地狱鿏矿石
+    S:oredict.oreNetherrackMeitnerium.name=地狱䥑矿石
     S:oredict.oreNetherrackMendelevium.name=地狱钔矿石
     S:oredict.oreNetherrackMercury.name=地狱汞矿石
     S:oredict.oreNetherrackMeteoricIron.name=地狱陨铁矿石
@@ -31543,7 +31644,7 @@ languagefile {
     S:oredict.oreNetherrackRhenium.name=地狱铼矿石
     S:oredict.oreNetherrackRhodium.name=地狱铑矿石
     S:oredict.oreNetherrackRockSalt.name=地狱岩盐矿石
-    S:oredict.oreNetherrackRoentgenium.name=地狱𬬭矿石
+    S:oredict.oreNetherrackRoentgenium.name=地狱錀矿石
     S:oredict.oreNetherrackRubidium.name=地狱铷矿石
     S:oredict.oreNetherrackRubracium.name=地狱褐铜矿石
     S:oredict.oreNetherrackRuby.name=地狱红宝石矿石
@@ -31741,7 +31842,7 @@ languagefile {
     S:oredict.oreRedSandAntiEuropium.name=反物质铕红矿沙
     S:oredict.oreRedSandAntiFarnsium.name=反物质钫红矿沙
     S:oredict.oreRedSandAntiFermium.name=反物质镄红矿沙
-    S:oredict.oreRedSandAntiFlerovium.name=反物质𫓧红矿沙
+    S:oredict.oreRedSandAntiFlerovium.name=反物质鈇红矿沙
     S:oredict.oreRedSandAntiFlerovium298.name=反物红矿沙-298矿石
     S:oredict.oreRedSandAntiFluorine.name=反物质氟红矿沙
     S:oredict.oreRedSandAntiFrancium.name=反物质钫红矿沙
@@ -31765,7 +31866,7 @@ languagefile {
     S:oredict.oreRedSandAntiLutetium.name=反物质镥红矿沙
     S:oredict.oreRedSandAntiMagnesium.name=反物质镁红矿沙
     S:oredict.oreRedSandAntiManganese.name=反物质锰红矿沙
-    S:oredict.oreRedSandAntiMeitnerium.name=反物质鿏红矿沙
+    S:oredict.oreRedSandAntiMeitnerium.name=反物质䥑红矿沙
     S:oredict.oreRedSandAntiMendelevium.name=反物质钔红矿沙
     S:oredict.oreRedSandAntiMercury.name=反物质汞红矿沙
     S:oredict.oreRedSandAntiMolybdenum.name=反物质钼红矿沙
@@ -31792,7 +31893,7 @@ languagefile {
     S:oredict.oreRedSandAntiRadium.name=反物质镭红矿沙
     S:oredict.oreRedSandAntiRhenium.name=反物质铼红矿沙
     S:oredict.oreRedSandAntiRhodium.name=反物质铑红矿沙
-    S:oredict.oreRedSandAntiRoentgenium.name=反物质𬬭红矿沙
+    S:oredict.oreRedSandAntiRoentgenium.name=反物质錀红矿沙
     S:oredict.oreRedSandAntiRubidium.name=反物质铷红矿沙
     S:oredict.oreRedSandAntiRuthenium.name=反物质钌红矿沙
     S:oredict.oreRedSandAntiRutherfordium.name=反物质鑪红矿沙
@@ -31932,8 +32033,8 @@ languagefile {
     S:oredict.oreRedSandFerrite.name=铁氧体红矿沙
     S:oredict.oreRedSandFerrovanadium.name=钒磁铁红矿沙
     S:oredict.oreRedSandFirestone.name=火石红矿沙
-    S:oredict.oreRedSandFlerovium.name=𫓧红矿沙
-    S:oredict.oreRedSandFlerovium298.name=红矿沙�-298矿石
+    S:oredict.oreRedSandFlerovium.name=鈇红矿沙
+    S:oredict.oreRedSandFlerovium298.name=鈇-298红矿沙
     S:oredict.oreRedSandFluorine.name=氟红矿沙
     S:oredict.oreRedSandFluorite.name=萤石红矿砂
     S:oredict.oreRedSandFoolsRuby.name=红宝石红矿沙
@@ -31951,11 +32052,11 @@ languagefile {
     S:oredict.oreRedSandGlauconite.name=海绿石红矿沙
     S:oredict.oreRedSandGlauconiteSand.name=海绿石红矿沙
     S:oredict.oreRedSandGlowstone.name=萤石红矿沙
-    S:oredict.oreRedSandGlowstoneCeres.name=Sand 谷神星萤石矿石
-    S:oredict.oreRedSandGlowstoneEnceladus.name=Sand 土卫二萤石矿石
-    S:oredict.oreRedSandGlowstoneIo.name=Sand 木卫一萤石矿石
-    S:oredict.oreRedSandGlowstonePluto.name=Sand 冥王星萤石矿石
-    S:oredict.oreRedSandGlowstoneProteus.name=Sand 海卫八萤石矿石
+    S:oredict.oreRedSandGlowstoneCeres.name=谷神星萤石红矿沙
+    S:oredict.oreRedSandGlowstoneEnceladus.name=土卫二萤石红矿沙
+    S:oredict.oreRedSandGlowstoneIo.name=木卫一萤石红矿沙
+    S:oredict.oreRedSandGlowstonePluto.name=冥王星萤石红矿沙
+    S:oredict.oreRedSandGlowstoneProteus.name=海卫八萤石红矿沙
     S:oredict.oreRedSandGold.name=金红矿沙
     S:oredict.oreRedSandGraniticMineralSand.name=花岗岩类矿砂红矿沙
     S:oredict.oreRedSandGraphite.name=石墨红矿沙
@@ -32008,7 +32109,7 @@ languagefile {
     S:oredict.oreRedSandMagnetite.name=磁铁红矿沙
     S:oredict.oreRedSandMalachite.name=孔雀石红矿沙
     S:oredict.oreRedSandManganese.name=锰红矿沙
-    S:oredict.oreRedSandMeitnerium.name=鿏红矿沙
+    S:oredict.oreRedSandMeitnerium.name=䥑红矿沙
     S:oredict.oreRedSandMendelevium.name=钔红矿沙
     S:oredict.oreRedSandMercury.name=汞红矿沙
     S:oredict.oreRedSandMeteoricIron.name=陨铁红矿沙
@@ -32082,7 +32183,7 @@ languagefile {
     S:oredict.oreRedSandRhenium.name=铼红矿沙
     S:oredict.oreRedSandRhodium.name=铑红矿沙
     S:oredict.oreRedSandRockSalt.name=岩盐红矿沙
-    S:oredict.oreRedSandRoentgenium.name=𬬭红矿沙
+    S:oredict.oreRedSandRoentgenium.name=錀红矿沙
     S:oredict.oreRedSandRubidium.name=铷红矿沙
     S:oredict.oreRedSandRubracium.name=褐铜红矿沙
     S:oredict.oreRedSandRuby.name=红宝石红矿沙
@@ -32230,8 +32331,8 @@ languagefile {
     S:oredict.oreRedgraniteAntiEuropium.name=红色花岗岩反物质铕矿石
     S:oredict.oreRedgraniteAntiFarnsium.name=红色花岗岩反物质钫矿石
     S:oredict.oreRedgraniteAntiFermium.name=红色花岗岩反物质镄矿石
-    S:oredict.oreRedgraniteAntiFlerovium.name=红色花岗岩反物质𫓧矿石
-    S:oredict.oreRedgraniteAntiFlerovium298.name=红色花岗岩反物质𫓧-298矿石
+    S:oredict.oreRedgraniteAntiFlerovium.name=红色花岗岩反物质鈇矿石
+    S:oredict.oreRedgraniteAntiFlerovium298.name=红色花岗岩反物质鈇-298矿石
     S:oredict.oreRedgraniteAntiFluorine.name=红色花岗岩反物质氟矿石
     S:oredict.oreRedgraniteAntiFrancium.name=红色花岗岩反物质钫矿石
     S:oredict.oreRedgraniteAntiGadolinium.name=红色花岗岩反物质钆矿石
@@ -32254,7 +32355,7 @@ languagefile {
     S:oredict.oreRedgraniteAntiLutetium.name=红色花岗岩反物质镥矿石
     S:oredict.oreRedgraniteAntiMagnesium.name=红色花岗岩反物质镁矿石
     S:oredict.oreRedgraniteAntiManganese.name=红色花岗岩反物质锰矿石
-    S:oredict.oreRedgraniteAntiMeitnerium.name=红色花岗岩反物质鿏矿石
+    S:oredict.oreRedgraniteAntiMeitnerium.name=红色花岗岩反物质䥑矿石
     S:oredict.oreRedgraniteAntiMendelevium.name=红色花岗岩反物质钔矿石
     S:oredict.oreRedgraniteAntiMercury.name=红色花岗岩反物质汞矿石
     S:oredict.oreRedgraniteAntiMolybdenum.name=红色花岗岩反物质钼矿石
@@ -32281,7 +32382,7 @@ languagefile {
     S:oredict.oreRedgraniteAntiRadium.name=红色花岗岩反物质镭矿石
     S:oredict.oreRedgraniteAntiRhenium.name=红色花岗岩反物质铼矿石
     S:oredict.oreRedgraniteAntiRhodium.name=红色花岗岩反物质铑矿石
-    S:oredict.oreRedgraniteAntiRoentgenium.name=红色花岗岩反物质𬬭矿石
+    S:oredict.oreRedgraniteAntiRoentgenium.name=红色花岗岩反物质錀矿石
     S:oredict.oreRedgraniteAntiRubidium.name=红色花岗岩反物质铷矿石
     S:oredict.oreRedgraniteAntiRuthenium.name=红色花岗岩反物质钌矿石
     S:oredict.oreRedgraniteAntiRutherfordium.name=红色花岗岩反物质鑪矿石
@@ -32421,8 +32522,8 @@ languagefile {
     S:oredict.oreRedgraniteFerrite.name=红色花岗岩铁氧体矿石
     S:oredict.oreRedgraniteFerrovanadium.name=红色花岗岩钒磁铁矿石
     S:oredict.oreRedgraniteFirestone.name=红色花岗岩火石矿石
-    S:oredict.oreRedgraniteFlerovium.name=红色花岗岩𫓧矿石
-    S:oredict.oreRedgraniteFlerovium298.name=红色花岗岩𫓧-298矿石
+    S:oredict.oreRedgraniteFlerovium.name=红色花岗岩鈇矿石
+    S:oredict.oreRedgraniteFlerovium298.name=红色花岗岩鈇-298矿石
     S:oredict.oreRedgraniteFluorine.name=红色花岗岩氟矿石
     S:oredict.oreRedgraniteFluorite.name=红色花岗岩萤石矿石
     S:oredict.oreRedgraniteFoolsRuby.name=红色花岗岩红宝石矿石
@@ -32498,7 +32599,7 @@ languagefile {
     S:oredict.oreRedgraniteMagnetite.name=红色花岗岩磁铁矿石
     S:oredict.oreRedgraniteMalachite.name=红色花岗岩孔雀石矿石
     S:oredict.oreRedgraniteManganese.name=红色花岗岩锰矿石
-    S:oredict.oreRedgraniteMeitnerium.name=红色花岗岩鿏矿石
+    S:oredict.oreRedgraniteMeitnerium.name=红色花岗岩䥑矿石
     S:oredict.oreRedgraniteMendelevium.name=红色花岗岩钔矿石
     S:oredict.oreRedgraniteMercury.name=红色花岗岩汞矿石
     S:oredict.oreRedgraniteMeteoricIron.name=红色花岗岩陨铁矿石
@@ -32572,7 +32673,7 @@ languagefile {
     S:oredict.oreRedgraniteRhenium.name=红色花岗岩铼矿石
     S:oredict.oreRedgraniteRhodium.name=红色花岗岩铑矿石
     S:oredict.oreRedgraniteRockSalt.name=红色花岗岩岩盐矿石
-    S:oredict.oreRedgraniteRoentgenium.name=红色花岗岩𬬭矿石
+    S:oredict.oreRedgraniteRoentgenium.name=红色花岗岩錀矿石
     S:oredict.oreRedgraniteRubidium.name=红色花岗岩铷矿石
     S:oredict.oreRedgraniteRubracium.name=红色花岗岩褐铜矿石
     S:oredict.oreRedgraniteRuby.name=红色花岗岩红宝石矿石
@@ -32671,7 +32772,7 @@ languagefile {
     S:oredict.oreRhenium.name=铼矿石
     S:oredict.oreRhodium.name=铑矿石
     S:oredict.oreRockSalt.name=岩盐矿石
-    S:oredict.oreRoentgenium.name=𬬭矿石
+    S:oredict.oreRoentgenium.name=錀矿石
     S:oredict.oreRubidium.name=铷矿石
     S:oredict.oreRubracium.name=褐铜矿石
     S:oredict.oreRuby.name=红宝石矿石
@@ -32735,8 +32836,8 @@ languagefile {
     S:oredict.oreSandAntiEuropium.name=反物质铕矿沙
     S:oredict.oreSandAntiFarnsium.name=反物质钫矿沙
     S:oredict.oreSandAntiFermium.name=反物质镄矿沙
-    S:oredict.oreSandAntiFlerovium.name=反物质𫓧矿沙
-    S:oredict.oreSandAntiFlerovium298.name=反物质𫓧-298矿沙
+    S:oredict.oreSandAntiFlerovium.name=反物质鈇矿沙
+    S:oredict.oreSandAntiFlerovium298.name=反物质鈇-298矿沙
     S:oredict.oreSandAntiFluorine.name=反物质氟矿沙
     S:oredict.oreSandAntiFrancium.name=反物质钫矿沙
     S:oredict.oreSandAntiGadolinium.name=反物质钆矿沙
@@ -32759,7 +32860,7 @@ languagefile {
     S:oredict.oreSandAntiLutetium.name=反物质镥矿沙
     S:oredict.oreSandAntiMagnesium.name=反物质镁矿沙
     S:oredict.oreSandAntiManganese.name=反物质锰矿沙
-    S:oredict.oreSandAntiMeitnerium.name=反物质鿏矿沙
+    S:oredict.oreSandAntiMeitnerium.name=反物质䥑矿沙
     S:oredict.oreSandAntiMendelevium.name=反物质钔矿沙
     S:oredict.oreSandAntiMercury.name=反物质汞矿沙
     S:oredict.oreSandAntiMolybdenum.name=反物质钼矿沙
@@ -32786,7 +32887,7 @@ languagefile {
     S:oredict.oreSandAntiRadium.name=反物质镭矿沙
     S:oredict.oreSandAntiRhenium.name=反物质铼矿沙
     S:oredict.oreSandAntiRhodium.name=反物质铑矿沙
-    S:oredict.oreSandAntiRoentgenium.name=反物质𬬭矿沙
+    S:oredict.oreSandAntiRoentgenium.name=反物质錀矿沙
     S:oredict.oreSandAntiRubidium.name=反物质铷矿沙
     S:oredict.oreSandAntiRuthenium.name=反物质钌矿沙
     S:oredict.oreSandAntiRutherfordium.name=反物质鑪矿沙
@@ -32926,8 +33027,8 @@ languagefile {
     S:oredict.oreSandFerrite.name=铁氧体矿沙
     S:oredict.oreSandFerrovanadium.name=钒磁铁矿沙
     S:oredict.oreSandFirestone.name=火石矿沙
-    S:oredict.oreSandFlerovium.name=𫓧矿沙
-    S:oredict.oreSandFlerovium298.name=𫓧-298矿沙
+    S:oredict.oreSandFlerovium.name=鈇矿沙
+    S:oredict.oreSandFlerovium298.name=鈇-298矿沙
     S:oredict.oreSandFluorine.name=氟矿沙
     S:oredict.oreSandFluorite.name= 萤石矿沙
     S:oredict.oreSandFoolsRuby.name=红宝石矿沙
@@ -33002,7 +33103,7 @@ languagefile {
     S:oredict.oreSandMagnetite.name=磁铁矿沙
     S:oredict.oreSandMalachite.name=孔雀石矿沙
     S:oredict.oreSandManganese.name=锰矿沙
-    S:oredict.oreSandMeitnerium.name=鿏矿沙
+    S:oredict.oreSandMeitnerium.name=䥑矿沙
     S:oredict.oreSandMendelevium.name=钔矿沙
     S:oredict.oreSandMercury.name=汞矿沙
     S:oredict.oreSandMeteoricIron.name=陨铁矿沙
@@ -33076,7 +33177,7 @@ languagefile {
     S:oredict.oreSandRhenium.name=铼矿沙
     S:oredict.oreSandRhodium.name=铑矿沙
     S:oredict.oreSandRockSalt.name=岩盐矿沙
-    S:oredict.oreSandRoentgenium.name=𬬭矿沙
+    S:oredict.oreSandRoentgenium.name=錀矿沙
     S:oredict.oreSandRubidium.name=铷矿沙
     S:oredict.oreSandRubracium.name=褐铜矿沙
     S:oredict.oreSandRuby.name=红宝石矿沙
@@ -33224,8 +33325,8 @@ languagefile {
     S:oredict.oreSandstoneAntiEuropium.name=沙石反物质铕矿石
     S:oredict.oreSandstoneAntiFarnsium.name=沙石反物质钫矿石
     S:oredict.oreSandstoneAntiFermium.name=沙石反物质镄矿石
-    S:oredict.oreSandstoneAntiFlerovium.name=沙石反物质𫓧矿石
-    S:oredict.oreSandstoneAntiFlerovium298.name=沙石反物质𫓧-298矿石
+    S:oredict.oreSandstoneAntiFlerovium.name=沙石反物质鈇矿石
+    S:oredict.oreSandstoneAntiFlerovium298.name=沙石反物质鈇-298矿石
     S:oredict.oreSandstoneAntiFluorine.name=沙石反物质氟矿石
     S:oredict.oreSandstoneAntiFrancium.name=沙石反物质钫矿石
     S:oredict.oreSandstoneAntiGadolinium.name=沙石反物质钆矿石
@@ -33248,7 +33349,7 @@ languagefile {
     S:oredict.oreSandstoneAntiLutetium.name=沙石反物质镥矿石
     S:oredict.oreSandstoneAntiMagnesium.name=沙石反物质镁矿石
     S:oredict.oreSandstoneAntiManganese.name=沙石反物质锰矿石
-    S:oredict.oreSandstoneAntiMeitnerium.name=沙石反物质鿏矿石
+    S:oredict.oreSandstoneAntiMeitnerium.name=沙石反物质䥑矿石
     S:oredict.oreSandstoneAntiMendelevium.name=沙石反物质钔矿石
     S:oredict.oreSandstoneAntiMercury.name=沙石反物质汞矿石
     S:oredict.oreSandstoneAntiMolybdenum.name=沙石反物质钼矿石
@@ -33275,7 +33376,7 @@ languagefile {
     S:oredict.oreSandstoneAntiRadium.name=沙石反物质镭矿石
     S:oredict.oreSandstoneAntiRhenium.name=沙石反物质铼矿石
     S:oredict.oreSandstoneAntiRhodium.name=沙石反物质铑矿石
-    S:oredict.oreSandstoneAntiRoentgenium.name=沙石反物质𬬭矿石
+    S:oredict.oreSandstoneAntiRoentgenium.name=沙石反物质錀矿石
     S:oredict.oreSandstoneAntiRubidium.name=沙石反物质铷矿石
     S:oredict.oreSandstoneAntiRuthenium.name=沙石反物质钌矿石
     S:oredict.oreSandstoneAntiRutherfordium.name=沙石反物质鑪矿石
@@ -33415,8 +33516,8 @@ languagefile {
     S:oredict.oreSandstoneFerrite.name=沙石铁氧体矿石
     S:oredict.oreSandstoneFerrovanadium.name=沙石钒磁铁矿石
     S:oredict.oreSandstoneFirestone.name=沙石火石矿石
-    S:oredict.oreSandstoneFlerovium.name=沙石𫓧矿石
-    S:oredict.oreSandstoneFlerovium298.name=沙石𫓧-298矿石
+    S:oredict.oreSandstoneFlerovium.name=沙石鈇矿石
+    S:oredict.oreSandstoneFlerovium298.name=沙石鈇-298矿石
     S:oredict.oreSandstoneFluorine.name=沙石氟矿石
     S:oredict.oreSandstoneFluorite.name=沙石 萤石矿石
     S:oredict.oreSandstoneFoolsRuby.name=沙石红宝石矿石
@@ -33491,7 +33592,7 @@ languagefile {
     S:oredict.oreSandstoneMagnetite.name=沙石磁铁矿石
     S:oredict.oreSandstoneMalachite.name=沙石孔雀石矿石
     S:oredict.oreSandstoneManganese.name=沙石锰矿石
-    S:oredict.oreSandstoneMeitnerium.name=沙石鿏矿石
+    S:oredict.oreSandstoneMeitnerium.name=沙石䥑矿石
     S:oredict.oreSandstoneMendelevium.name=沙石钔矿石
     S:oredict.oreSandstoneMercury.name=沙石汞矿石
     S:oredict.oreSandstoneMeteoricIron.name=沙石陨铁矿石
@@ -33565,7 +33666,7 @@ languagefile {
     S:oredict.oreSandstoneRhenium.name=沙石铼矿石
     S:oredict.oreSandstoneRhodium.name=沙石铑矿石
     S:oredict.oreSandstoneRockSalt.name=沙石岩盐矿石
-    S:oredict.oreSandstoneRoentgenium.name=沙石𬬭 矿石
+    S:oredict.oreSandstoneRoentgenium.name=沙石錀 矿石
     S:oredict.oreSandstoneRubidium.name=沙石铷矿石
     S:oredict.oreSandstoneRubracium.name=沙石褐铜矿石
     S:oredict.oreSandstoneRuby.name=沙石红宝石矿石
@@ -33725,8 +33826,8 @@ languagefile {
     S:oredict.oreSmallAntiEuropium.name=贫瘠反物质铕矿石
     S:oredict.oreSmallAntiFarnsium.name=贫瘠反物质钫矿石
     S:oredict.oreSmallAntiFermium.name=贫瘠反物质镄矿石
-    S:oredict.oreSmallAntiFlerovium.name=贫瘠反物质𫓧矿石
-    S:oredict.oreSmallAntiFlerovium298.name=贫瘠反物质𫓧-298矿石
+    S:oredict.oreSmallAntiFlerovium.name=贫瘠反物质鈇矿石
+    S:oredict.oreSmallAntiFlerovium298.name=贫瘠反物质鈇-298矿石
     S:oredict.oreSmallAntiFluorine.name=贫瘠反物质氟矿石
     S:oredict.oreSmallAntiFrancium.name=贫瘠反物质钫矿石
     S:oredict.oreSmallAntiGadolinium.name=贫瘠反物质钆矿石
@@ -33749,7 +33850,7 @@ languagefile {
     S:oredict.oreSmallAntiLutetium.name=贫瘠反物质镥矿石
     S:oredict.oreSmallAntiMagnesium.name=贫瘠反物质镁矿石
     S:oredict.oreSmallAntiManganese.name=贫瘠反物质锰矿石
-    S:oredict.oreSmallAntiMeitnerium.name=贫瘠反物质鿏矿石
+    S:oredict.oreSmallAntiMeitnerium.name=贫瘠反物质䥑矿石
     S:oredict.oreSmallAntiMendelevium.name=贫瘠反物质钔矿石
     S:oredict.oreSmallAntiMercury.name=贫瘠反物质汞矿石
     S:oredict.oreSmallAntiMolybdenum.name=贫瘠反物质钼矿石
@@ -33776,7 +33877,7 @@ languagefile {
     S:oredict.oreSmallAntiRadium.name=贫瘠反物质镭矿石
     S:oredict.oreSmallAntiRhenium.name=贫瘠反物质铼矿石
     S:oredict.oreSmallAntiRhodium.name=贫瘠反物质铑矿石
-    S:oredict.oreSmallAntiRoentgenium.name=贫瘠反物质𬬭矿石
+    S:oredict.oreSmallAntiRoentgenium.name=贫瘠反物质錀矿石
     S:oredict.oreSmallAntiRubidium.name=贫瘠反物质铷矿石
     S:oredict.oreSmallAntiRuthenium.name=贫瘠反物质钌矿石
     S:oredict.oreSmallAntiRutherfordium.name=贫瘠反物质鑪矿石
@@ -33916,8 +34017,8 @@ languagefile {
     S:oredict.oreSmallFerrite.name=贫瘠铁氧体矿石
     S:oredict.oreSmallFerrovanadium.name=贫瘠钒磁铁矿石
     S:oredict.oreSmallFirestone.name=贫瘠火石矿石
-    S:oredict.oreSmallFlerovium.name=贫瘠𫓧矿石
-    S:oredict.oreSmallFlerovium298.name=贫瘠𫓧-298矿石
+    S:oredict.oreSmallFlerovium.name=贫瘠鈇矿石
+    S:oredict.oreSmallFlerovium298.name=贫瘠鈇-298矿石
     S:oredict.oreSmallFluorine.name=贫瘠氟矿石
     S:oredict.oreSmallFluorite.name=贫瘠萤石矿石
     S:oredict.oreSmallFoolsRuby.name=贫瘠红宝石矿石
@@ -33992,7 +34093,7 @@ languagefile {
     S:oredict.oreSmallMagnetite.name=贫瘠磁铁矿石
     S:oredict.oreSmallMalachite.name=贫瘠孔雀石矿石
     S:oredict.oreSmallManganese.name=贫瘠锰矿石
-    S:oredict.oreSmallMeitnerium.name=贫瘠鿏矿石
+    S:oredict.oreSmallMeitnerium.name=贫瘠䥑矿石
     S:oredict.oreSmallMendelevium.name=贫瘠钔矿石
     S:oredict.oreSmallMercury.name=贫瘠汞矿石
     S:oredict.oreSmallMeteoricIron.name=贫瘠陨铁矿石
@@ -34066,7 +34167,7 @@ languagefile {
     S:oredict.oreSmallRhenium.name=贫瘠铼矿石
     S:oredict.oreSmallRhodium.name=贫瘠铑矿石
     S:oredict.oreSmallRockSalt.name=贫瘠岩盐矿石
-    S:oredict.oreSmallRoentgenium.name=贫瘠𬬭矿石
+    S:oredict.oreSmallRoentgenium.name=贫瘠錀矿石
     S:oredict.oreSmallRubidium.name=贫瘠铷矿石
     S:oredict.oreSmallRubracium.name=贫瘠褐铜矿石
     S:oredict.oreSmallRuby.name=贫瘠红宝石矿石
@@ -34283,8 +34384,8 @@ languagefile {
     S:oredict.oreblackgraniteAntiEuropium.name=黑色花岗岩反物质铕矿石
     S:oredict.oreblackgraniteAntiFarnsium.name=黑色花岗岩反物质钫矿石
     S:oredict.oreblackgraniteAntiFermium.name=黑色花岗岩反物质镄矿石
-    S:oredict.oreblackgraniteAntiFlerovium.name=黑色花岗岩反物质𫓧矿石
-    S:oredict.oreblackgraniteAntiFlerovium298.name=黑色花岗岩反物质𫓧-298矿石
+    S:oredict.oreblackgraniteAntiFlerovium.name=黑色花岗岩反物质鈇矿石
+    S:oredict.oreblackgraniteAntiFlerovium298.name=黑色花岗岩反物质鈇-298矿石
     S:oredict.oreblackgraniteAntiFluorine.name=黑色花岗岩反物质氟矿石
     S:oredict.oreblackgraniteAntiFrancium.name=黑色花岗岩反物质钫矿石
     S:oredict.oreblackgraniteAntiGadolinium.name=黑色花岗岩反物质钆矿石
@@ -34305,7 +34406,7 @@ languagefile {
     S:oredict.oreblackgraniteAntiLutetium.name=黑色花岗岩反物质镥矿石
     S:oredict.oreblackgraniteAntiMagnesium.name=黑色花岗岩反物质镁矿石
     S:oredict.oreblackgraniteAntiManganese.name=黑色花岗岩反物质锰矿石
-    S:oredict.oreblackgraniteAntiMeitnerium.name=黑色花岗岩反物质鿏矿石
+    S:oredict.oreblackgraniteAntiMeitnerium.name=黑色花岗岩反物质䥑矿石
     S:oredict.oreblackgraniteAntiMendelevium.name=黑色花岗岩反物质钔矿石
     S:oredict.oreblackgraniteAntiMercury.name=黑色花岗岩反物质汞矿石
     S:oredict.oreblackgraniteAntiMolybdenum.name=黑色花岗岩反物质钼矿石
@@ -34331,7 +34432,7 @@ languagefile {
     S:oredict.oreblackgraniteAntiRadium.name=黑色花岗岩反物质镭矿石
     S:oredict.oreblackgraniteAntiRhenium.name=黑色花岗岩反物质铼矿石
     S:oredict.oreblackgraniteAntiRhodium.name=黑色花岗岩反物质铑矿石
-    S:oredict.oreblackgraniteAntiRoentgenium.name=黑色花岗岩反物质𬬭矿石
+    S:oredict.oreblackgraniteAntiRoentgenium.name=黑色花岗岩反物质錀矿石
     S:oredict.oreblackgraniteAntiRubidium.name=黑色花岗岩反物质铷矿石
     S:oredict.oreblackgraniteAntiRuthenium.name=黑色花岗岩反物质钌矿石
     S:oredict.oreblackgraniteAntiRutherfordium.name=黑色花岗岩反物质鑪矿石
@@ -34467,8 +34568,8 @@ languagefile {
     S:oredict.oreblackgraniteFermium.name=黑色花岗岩镄矿石
     S:oredict.oreblackgraniteFerrovanadium.name=黑色花岗岩钒磁铁矿石
     S:oredict.oreblackgraniteFirestone.name=黑色花岗岩火石矿石
-    S:oredict.oreblackgraniteFlerovium.name=黑色花岗岩𫓧矿石
-    S:oredict.oreblackgraniteFlerovium298.name=黑色花岗岩𫓧-298矿石
+    S:oredict.oreblackgraniteFlerovium.name=黑色花岗岩鈇矿石
+    S:oredict.oreblackgraniteFlerovium298.name=黑色花岗岩鈇-298矿石
     S:oredict.oreblackgraniteFluorine.name=黑色花岗岩氟矿石
     S:oredict.oreblackgraniteFoolsRuby.name=黑色花岗岩红宝石矿石
     S:oredict.oreblackgraniteForce.name=黑色花岗岩力量矿石
@@ -34532,7 +34633,7 @@ languagefile {
     S:oredict.oreblackgraniteMagnetite.name=黑色花岗岩磁铁矿石
     S:oredict.oreblackgraniteMalachite.name=黑色花岗岩孔雀石矿石
     S:oredict.oreblackgraniteManganese.name=黑色花岗岩锰矿石
-    S:oredict.oreblackgraniteMeitnerium.name=黑色花岗岩鿏矿石
+    S:oredict.oreblackgraniteMeitnerium.name=黑色花岗岩䥑矿石
     S:oredict.oreblackgraniteMendelevium.name=黑色花岗岩钔矿石
     S:oredict.oreblackgraniteMercury.name=黑色花岗岩汞矿石
     S:oredict.oreblackgraniteMeteoricIron.name=黑色花岗岩陨铁矿石
@@ -34597,7 +34698,7 @@ languagefile {
     S:oredict.oreblackgraniteRhenium.name=黑色花岗岩铼矿石
     S:oredict.oreblackgraniteRhodium.name=黑色花岗岩铑矿石
     S:oredict.oreblackgraniteRockSalt.name=黑色花岗岩岩盐矿石
-    S:oredict.oreblackgraniteRoentgenium.name=黑色花岗岩𬬭矿石
+    S:oredict.oreblackgraniteRoentgenium.name=黑色花岗岩錀矿石
     S:oredict.oreblackgraniteRubidium.name=黑色花岗岩铷矿石
     S:oredict.oreblackgraniteRubracium.name=黑色花岗岩褐铜矿石
     S:oredict.oreblackgraniteRuby.name=黑色花岗岩红宝石矿石
@@ -34748,8 +34849,8 @@ languagefile {
     S:oredict.plantGtBerryAntiEuropium.name=反物质铕梅
     S:oredict.plantGtBerryAntiFarnsium.name=反物质钫梅
     S:oredict.plantGtBerryAntiFermium.name=反物质镄梅
-    S:oredict.plantGtBerryAntiFlerovium.name=反物质𫓧梅
-    S:oredict.plantGtBerryAntiFlerovium298.name=反物质𫓧-298梅
+    S:oredict.plantGtBerryAntiFlerovium.name=反物质鈇梅
+    S:oredict.plantGtBerryAntiFlerovium298.name=反物质鈇-298梅
     S:oredict.plantGtBerryAntiFluorine.name=反物质氟梅
     S:oredict.plantGtBerryAntiFrancium.name=反物质钫梅
     S:oredict.plantGtBerryAntiGadolinium.name=反物质钆梅
@@ -34772,7 +34873,7 @@ languagefile {
     S:oredict.plantGtBerryAntiLutetium.name=反物质镥梅
     S:oredict.plantGtBerryAntiMagnesium.name=反物质镁梅
     S:oredict.plantGtBerryAntiManganese.name=反物质锰梅
-    S:oredict.plantGtBerryAntiMeitnerium.name=反物质鿏梅
+    S:oredict.plantGtBerryAntiMeitnerium.name=反物质䥑梅
     S:oredict.plantGtBerryAntiMendelevium.name=反物质钔梅
     S:oredict.plantGtBerryAntiMercury.name=反物质汞梅
     S:oredict.plantGtBerryAntiMolybdenum.name=反物质钼梅
@@ -34799,7 +34900,7 @@ languagefile {
     S:oredict.plantGtBerryAntiRadium.name=反物质镭梅
     S:oredict.plantGtBerryAntiRhenium.name=反物质铼梅
     S:oredict.plantGtBerryAntiRhodium.name=反物质铑梅
-    S:oredict.plantGtBerryAntiRoentgenium.name=反物质𬬭梅
+    S:oredict.plantGtBerryAntiRoentgenium.name=反物质錀梅
     S:oredict.plantGtBerryAntiRubidium.name=反物质铷梅
     S:oredict.plantGtBerryAntiRuthenium.name=反物质钌梅
     S:oredict.plantGtBerryAntiRutherfordium.name=反物质鑪梅
@@ -35036,8 +35137,8 @@ languagefile {
     S:oredict.plantGtBerryFishOil.name=鱼油梅
     S:oredict.plantGtBerryFishRaw.name=生鱼肉梅
     S:oredict.plantGtBerryFishRotten.name=烂鱼肉梅
-    S:oredict.plantGtBerryFlerovium.name=𫓧梅
-    S:oredict.plantGtBerryFlerovium298.name=𫓧-298梅
+    S:oredict.plantGtBerryFlerovium.name=鈇梅
+    S:oredict.plantGtBerryFlerovium298.name=鈇-298梅
     S:oredict.plantGtBerryFlint.name=燧石梅
     S:oredict.plantGtBerryFluorine.name=氟梅
     S:oredict.plantGtBerryFluorite.name=萤石梅
@@ -35188,7 +35289,7 @@ languagefile {
     S:oredict.plantGtBerryMeatCooked.name=熟肉梅
     S:oredict.plantGtBerryMeatRaw.name=生肉梅
     S:oredict.plantGtBerryMeatRotten.name=腐肉梅
-    S:oredict.plantGtBerryMeitnerium.name=鿏梅
+    S:oredict.plantGtBerryMeitnerium.name=䥑梅
     S:oredict.plantGtBerryMendelevium.name=钔梅
     S:oredict.plantGtBerryMercury.name=汞梅
     S:oredict.plantGtBerryMeteoricIron.name=陨铁梅
@@ -35321,7 +35422,7 @@ languagefile {
     S:oredict.plantGtBerryRhyolite.name=流纹岩梅
     S:oredict.plantGtBerryRice.name=米梅
     S:oredict.plantGtBerryRockSalt.name=岩盐梅
-    S:oredict.plantGtBerryRoentgenium.name=𬬭梅
+    S:oredict.plantGtBerryRoentgenium.name=錀梅
     S:oredict.plantGtBerryRoseGold.name=玫瑰金梅
     S:oredict.plantGtBerryRubber.name=橡胶梅
     S:oredict.plantGtBerryRubidium.name=铷梅
@@ -35560,8 +35661,8 @@ languagefile {
     S:oredict.plantGtBlossomAntiEuropium.name=反物质铕花
     S:oredict.plantGtBlossomAntiFarnsium.name=反物质钫花
     S:oredict.plantGtBlossomAntiFermium.name=反物质镄花
-    S:oredict.plantGtBlossomAntiFlerovium.name=反物质𫓧花
-    S:oredict.plantGtBlossomAntiFlerovium298.name=反物质𫓧-298花
+    S:oredict.plantGtBlossomAntiFlerovium.name=反物质鈇花
+    S:oredict.plantGtBlossomAntiFlerovium298.name=反物质鈇-298花
     S:oredict.plantGtBlossomAntiFluorine.name=反物质氟花
     S:oredict.plantGtBlossomAntiFrancium.name=反物质钫花
     S:oredict.plantGtBlossomAntiGadolinium.name=反物质钆花
@@ -35584,7 +35685,7 @@ languagefile {
     S:oredict.plantGtBlossomAntiLutetium.name=反物质镥花
     S:oredict.plantGtBlossomAntiMagnesium.name=反物质镁花
     S:oredict.plantGtBlossomAntiManganese.name=反物质锰花
-    S:oredict.plantGtBlossomAntiMeitnerium.name=反物质鿏花
+    S:oredict.plantGtBlossomAntiMeitnerium.name=反物质䥑花
     S:oredict.plantGtBlossomAntiMendelevium.name=反物质钔花
     S:oredict.plantGtBlossomAntiMercury.name=反物质汞花
     S:oredict.plantGtBlossomAntiMolybdenum.name=反物质钼花
@@ -35611,7 +35712,7 @@ languagefile {
     S:oredict.plantGtBlossomAntiRadium.name=反物质镭花
     S:oredict.plantGtBlossomAntiRhenium.name=反物质铼花
     S:oredict.plantGtBlossomAntiRhodium.name=反物质铑花
-    S:oredict.plantGtBlossomAntiRoentgenium.name=反物质𬬭花
+    S:oredict.plantGtBlossomAntiRoentgenium.name=反物质錀花
     S:oredict.plantGtBlossomAntiRubidium.name=反物质铷花
     S:oredict.plantGtBlossomAntiRuthenium.name=反物质钌花
     S:oredict.plantGtBlossomAntiRutherfordium.name=反物质鑪花
@@ -35848,8 +35949,8 @@ languagefile {
     S:oredict.plantGtBlossomFishOil.name=鱼油花
     S:oredict.plantGtBlossomFishRaw.name=生鱼肉花
     S:oredict.plantGtBlossomFishRotten.name=烂鱼肉花
-    S:oredict.plantGtBlossomFlerovium.name=𫓧花
-    S:oredict.plantGtBlossomFlerovium298.name=𫓧-298花
+    S:oredict.plantGtBlossomFlerovium.name=鈇花
+    S:oredict.plantGtBlossomFlerovium298.name=鈇-298花
     S:oredict.plantGtBlossomFlint.name=燧石花
     S:oredict.plantGtBlossomFluorine.name=氟花
     S:oredict.plantGtBlossomFluorite.name=萤石花
@@ -35999,7 +36100,7 @@ languagefile {
     S:oredict.plantGtBlossomMeatCooked.name=熟肉花
     S:oredict.plantGtBlossomMeatRaw.name=生肉花
     S:oredict.plantGtBlossomMeatRotten.name=腐肉花
-    S:oredict.plantGtBlossomMeitnerium.name=鿏花
+    S:oredict.plantGtBlossomMeitnerium.name=䥑花
     S:oredict.plantGtBlossomMendelevium.name=钔花
     S:oredict.plantGtBlossomMercury.name=汞花
     S:oredict.plantGtBlossomMeteoricIron.name=陨铁花
@@ -36132,7 +36233,7 @@ languagefile {
     S:oredict.plantGtBlossomRhyolite.name=流纹岩花
     S:oredict.plantGtBlossomRice.name=米花
     S:oredict.plantGtBlossomRockSalt.name=岩盐花
-    S:oredict.plantGtBlossomRoentgenium.name=𬬭花
+    S:oredict.plantGtBlossomRoentgenium.name=錀花
     S:oredict.plantGtBlossomRoseGold.name=玫瑰金花
     S:oredict.plantGtBlossomRubber.name=橡胶花
     S:oredict.plantGtBlossomRubidium.name=铷花
@@ -36371,8 +36472,8 @@ languagefile {
     S:oredict.plantGtFiberAntiEuropium.name=粗糙的反物质铕纤维
     S:oredict.plantGtFiberAntiFarnsium.name=粗糙的反物质钫纤维
     S:oredict.plantGtFiberAntiFermium.name=粗糙的反物质镄纤维
-    S:oredict.plantGtFiberAntiFlerovium.name=粗糙的反物质𫓧纤维
-    S:oredict.plantGtFiberAntiFlerovium298.name=粗糙的反物质𫓧-298纤维
+    S:oredict.plantGtFiberAntiFlerovium.name=粗糙的反物质鈇纤维
+    S:oredict.plantGtFiberAntiFlerovium298.name=粗糙的反物质鈇-298纤维
     S:oredict.plantGtFiberAntiFluorine.name=粗糙的反物质氟纤维
     S:oredict.plantGtFiberAntiFrancium.name=粗糙的反物质钫纤维
     S:oredict.plantGtFiberAntiGadolinium.name=粗糙的反物质钆纤维
@@ -36395,7 +36496,7 @@ languagefile {
     S:oredict.plantGtFiberAntiLutetium.name=粗糙的反物质镥纤维
     S:oredict.plantGtFiberAntiMagnesium.name=粗糙的反物质镁纤维
     S:oredict.plantGtFiberAntiManganese.name=粗糙的反物质锰纤维
-    S:oredict.plantGtFiberAntiMeitnerium.name=粗糙的反物质鿏纤维
+    S:oredict.plantGtFiberAntiMeitnerium.name=粗糙的反物质䥑纤维
     S:oredict.plantGtFiberAntiMendelevium.name=粗糙的反物质钔纤维
     S:oredict.plantGtFiberAntiMercury.name=粗糙的反物质汞纤维
     S:oredict.plantGtFiberAntiMolybdenum.name=粗糙的反物质钼纤维
@@ -36422,7 +36523,7 @@ languagefile {
     S:oredict.plantGtFiberAntiRadium.name=粗糙的反物质镭纤维
     S:oredict.plantGtFiberAntiRhenium.name=粗糙的反物质铼纤维
     S:oredict.plantGtFiberAntiRhodium.name=粗糙的反物质铑纤维
-    S:oredict.plantGtFiberAntiRoentgenium.name=粗糙的反物质𬬭纤维
+    S:oredict.plantGtFiberAntiRoentgenium.name=粗糙的反物质錀纤维
     S:oredict.plantGtFiberAntiRubidium.name=粗糙的反物质铷纤维
     S:oredict.plantGtFiberAntiRuthenium.name=粗糙的反物质钌纤维
     S:oredict.plantGtFiberAntiRutherfordium.name=粗糙的反物质鑪纤维
@@ -36659,8 +36760,8 @@ languagefile {
     S:oredict.plantGtFiberFishOil.name=粗糙的鱼油纤维
     S:oredict.plantGtFiberFishRaw.name=粗糙的生鱼肉纤维
     S:oredict.plantGtFiberFishRotten.name=粗糙的烂鱼肉纤维
-    S:oredict.plantGtFiberFlerovium.name=粗糙的𫓧纤维
-    S:oredict.plantGtFiberFlerovium298.name=粗糙的𫓧-298纤维
+    S:oredict.plantGtFiberFlerovium.name=粗糙的鈇纤维
+    S:oredict.plantGtFiberFlerovium298.name=粗糙的鈇-298纤维
     S:oredict.plantGtFiberFlint.name=粗糙的燧石纤维
     S:oredict.plantGtFiberFluorine.name=粗糙的氟纤维
     S:oredict.plantGtFiberFluorite.name=粗糙的萤石纤维
@@ -36810,7 +36911,7 @@ languagefile {
     S:oredict.plantGtFiberMeatCooked.name=粗糙的熟肉纤维
     S:oredict.plantGtFiberMeatRaw.name=粗糙的生肉纤维
     S:oredict.plantGtFiberMeatRotten.name=粗糙的腐肉纤维
-    S:oredict.plantGtFiberMeitnerium.name=粗糙的鿏纤维
+    S:oredict.plantGtFiberMeitnerium.name=粗糙的䥑纤维
     S:oredict.plantGtFiberMendelevium.name=粗糙的钔纤维
     S:oredict.plantGtFiberMercury.name=粗糙的汞纤维
     S:oredict.plantGtFiberMeteoricIron.name=粗糙的陨铁纤维
@@ -36943,7 +37044,7 @@ languagefile {
     S:oredict.plantGtFiberRhyolite.name=粗糙的流纹岩纤维
     S:oredict.plantGtFiberRice.name=粗糙的米纤维
     S:oredict.plantGtFiberRockSalt.name=粗糙的岩盐纤维
-    S:oredict.plantGtFiberRoentgenium.name=粗糙的𬬭纤维
+    S:oredict.plantGtFiberRoentgenium.name=粗糙的錀纤维
     S:oredict.plantGtFiberRoseGold.name=粗糙的玫瑰金纤维
     S:oredict.plantGtFiberRubber.name=粗糙的橡胶纤维
     S:oredict.plantGtFiberRubidium.name=粗糙的铷纤维
@@ -37182,8 +37283,8 @@ languagefile {
     S:oredict.plantGtTwigAntiEuropium.name=反物质铕细枝
     S:oredict.plantGtTwigAntiFarnsium.name=反物质钫细枝
     S:oredict.plantGtTwigAntiFermium.name=反物质镄细枝
-    S:oredict.plantGtTwigAntiFlerovium.name=反物质𫓧细枝
-    S:oredict.plantGtTwigAntiFlerovium298.name=反物质𫓧-298细枝
+    S:oredict.plantGtTwigAntiFlerovium.name=反物质鈇细枝
+    S:oredict.plantGtTwigAntiFlerovium298.name=反物质鈇-298细枝
     S:oredict.plantGtTwigAntiFluorine.name=反物质氟细枝
     S:oredict.plantGtTwigAntiFrancium.name=反物质钫细枝
     S:oredict.plantGtTwigAntiGadolinium.name=反物质钆细枝
@@ -37206,7 +37307,7 @@ languagefile {
     S:oredict.plantGtTwigAntiLutetium.name=反物质镥细枝
     S:oredict.plantGtTwigAntiMagnesium.name=反物质镁细枝
     S:oredict.plantGtTwigAntiManganese.name=反物质锰细枝
-    S:oredict.plantGtTwigAntiMeitnerium.name=反物质鿏细枝
+    S:oredict.plantGtTwigAntiMeitnerium.name=反物质䥑细枝
     S:oredict.plantGtTwigAntiMendelevium.name=反物质钔细枝
     S:oredict.plantGtTwigAntiMercury.name=反物质汞细枝
     S:oredict.plantGtTwigAntiMolybdenum.name=反物质钼细枝
@@ -37233,7 +37334,7 @@ languagefile {
     S:oredict.plantGtTwigAntiRadium.name=反物质镭细枝
     S:oredict.plantGtTwigAntiRhenium.name=反物质铼细枝
     S:oredict.plantGtTwigAntiRhodium.name=反物质铑细枝
-    S:oredict.plantGtTwigAntiRoentgenium.name=反物质𬬭细枝
+    S:oredict.plantGtTwigAntiRoentgenium.name=反物质錀细枝
     S:oredict.plantGtTwigAntiRubidium.name=反物质铷细枝
     S:oredict.plantGtTwigAntiRuthenium.name=反物质钌细枝
     S:oredict.plantGtTwigAntiRutherfordium.name=反物质鑪细枝
@@ -37470,8 +37571,8 @@ languagefile {
     S:oredict.plantGtTwigFishOil.name=鱼油细枝
     S:oredict.plantGtTwigFishRaw.name=生鱼肉细枝
     S:oredict.plantGtTwigFishRotten.name=烂鱼肉细枝
-    S:oredict.plantGtTwigFlerovium.name=𫓧细枝
-    S:oredict.plantGtTwigFlerovium298.name=𫓧-298细枝
+    S:oredict.plantGtTwigFlerovium.name=鈇细枝
+    S:oredict.plantGtTwigFlerovium298.name=鈇-298细枝
     S:oredict.plantGtTwigFlint.name=燧石细枝
     S:oredict.plantGtTwigFluorine.name=氟细枝
     S:oredict.plantGtTwigFluorite.name=萤石细枝
@@ -37621,7 +37722,7 @@ languagefile {
     S:oredict.plantGtTwigMeatCooked.name=熟肉细枝
     S:oredict.plantGtTwigMeatRaw.name=生肉细枝
     S:oredict.plantGtTwigMeatRotten.name=腐肉细枝
-    S:oredict.plantGtTwigMeitnerium.name=鿏细枝
+    S:oredict.plantGtTwigMeitnerium.name=䥑细枝
     S:oredict.plantGtTwigMendelevium.name=钔细枝
     S:oredict.plantGtTwigMercury.name=汞细枝
     S:oredict.plantGtTwigMeteoricIron.name=陨铁细枝
@@ -37754,7 +37855,7 @@ languagefile {
     S:oredict.plantGtTwigRhyolite.name=流纹岩细枝
     S:oredict.plantGtTwigRice.name=米细枝
     S:oredict.plantGtTwigRockSalt.name=岩盐细枝
-    S:oredict.plantGtTwigRoentgenium.name=𬬭细枝
+    S:oredict.plantGtTwigRoentgenium.name=錀细枝
     S:oredict.plantGtTwigRoseGold.name=玫瑰金细枝
     S:oredict.plantGtTwigRubber.name=橡胶细枝
     S:oredict.plantGtTwigRubidium.name=铷细枝
@@ -37993,8 +38094,8 @@ languagefile {
     S:oredict.plantGtWartAntiEuropium.name=反物质铕疣
     S:oredict.plantGtWartAntiFarnsium.name=反物质钫疣
     S:oredict.plantGtWartAntiFermium.name=反物质镄疣
-    S:oredict.plantGtWartAntiFlerovium.name=反物质𫓧疣
-    S:oredict.plantGtWartAntiFlerovium298.name=反物质𫓧-298疣
+    S:oredict.plantGtWartAntiFlerovium.name=反物质鈇疣
+    S:oredict.plantGtWartAntiFlerovium298.name=反物质鈇-298疣
     S:oredict.plantGtWartAntiFluorine.name=反物质氟疣
     S:oredict.plantGtWartAntiFrancium.name=反物质钫疣
     S:oredict.plantGtWartAntiGadolinium.name=反物质钆疣
@@ -38017,7 +38118,7 @@ languagefile {
     S:oredict.plantGtWartAntiLutetium.name=反物质镥疣
     S:oredict.plantGtWartAntiMagnesium.name=反物质镁疣
     S:oredict.plantGtWartAntiManganese.name=反物质锰疣
-    S:oredict.plantGtWartAntiMeitnerium.name=反物质鿏疣
+    S:oredict.plantGtWartAntiMeitnerium.name=反物质䥑疣
     S:oredict.plantGtWartAntiMendelevium.name=反物质钔疣
     S:oredict.plantGtWartAntiMercury.name=反物质汞疣
     S:oredict.plantGtWartAntiMolybdenum.name=反物质钼疣
@@ -38044,7 +38145,7 @@ languagefile {
     S:oredict.plantGtWartAntiRadium.name=反物质镭疣
     S:oredict.plantGtWartAntiRhenium.name=反物质铼疣
     S:oredict.plantGtWartAntiRhodium.name=反物质铑疣
-    S:oredict.plantGtWartAntiRoentgenium.name=反物质𬬭疣
+    S:oredict.plantGtWartAntiRoentgenium.name=反物质錀疣
     S:oredict.plantGtWartAntiRubidium.name=反物质铷疣
     S:oredict.plantGtWartAntiRuthenium.name=反物质钌疣
     S:oredict.plantGtWartAntiRutherfordium.name=反物质鑪疣
@@ -38284,8 +38385,8 @@ languagefile {
     S:oredict.plantGtWartFishOil.name=鱼油疣
     S:oredict.plantGtWartFishRaw.name=生鱼肉疣
     S:oredict.plantGtWartFishRotten.name=烂鱼肉疣
-    S:oredict.plantGtWartFlerovium.name=𫓧疣
-    S:oredict.plantGtWartFlerovium298.name=𫓧-298疣
+    S:oredict.plantGtWartFlerovium.name=鈇疣
+    S:oredict.plantGtWartFlerovium298.name=鈇-298疣
     S:oredict.plantGtWartFlint.name=燧石疣
     S:oredict.plantGtWartFluorine.name=氟疣
     S:oredict.plantGtWartFluorite.name=萤石疣
@@ -38435,7 +38536,7 @@ languagefile {
     S:oredict.plantGtWartMeatCooked.name=熟肉疣
     S:oredict.plantGtWartMeatRaw.name=生肉疣
     S:oredict.plantGtWartMeatRotten.name=腐肉疣
-    S:oredict.plantGtWartMeitnerium.name=鿏疣
+    S:oredict.plantGtWartMeitnerium.name=䥑疣
     S:oredict.plantGtWartMendelevium.name=钔疣
     S:oredict.plantGtWartMercury.name=汞疣
     S:oredict.plantGtWartMeteoricIron.name=陨铁疣
@@ -38568,7 +38669,7 @@ languagefile {
     S:oredict.plantGtWartRhyolite.name=流纹岩疣
     S:oredict.plantGtWartRice.name=米疣
     S:oredict.plantGtWartRockSalt.name=岩盐疣
-    S:oredict.plantGtWartRoentgenium.name=𬬭疣
+    S:oredict.plantGtWartRoentgenium.name=錀疣
     S:oredict.plantGtWartRoseGold.name=玫瑰金疣
     S:oredict.plantGtWartRubber.name=橡胶疣
     S:oredict.plantGtWartRubidium.name=铷疣
@@ -38792,8 +38893,8 @@ languagefile {
     S:oredict.plateAntiEuropium.name=反物质铕板
     S:oredict.plateAntiFarnsium.name=反物质钫板
     S:oredict.plateAntiFermium.name=反物质镄板
-    S:oredict.plateAntiFlerovium.name=反物质𫓧板
-    S:oredict.plateAntiFlerovium298.name=反物质𫓧-298板
+    S:oredict.plateAntiFlerovium.name=反物质鈇板
+    S:oredict.plateAntiFlerovium298.name=反物质鈇-298板
     S:oredict.plateAntiFrancium.name=反物质钫板
     S:oredict.plateAntiGadolinium.name=反物质钆板
     S:oredict.plateAntiGallium.name=反物质镓板
@@ -38812,7 +38913,7 @@ languagefile {
     S:oredict.plateAntiLutetium.name=反物质镥板
     S:oredict.plateAntiMagnesium.name=反物质镁板
     S:oredict.plateAntiManganese.name=反物质锰板
-    S:oredict.plateAntiMeitnerium.name=反物质鿏板
+    S:oredict.plateAntiMeitnerium.name=反物质䥑板
     S:oredict.plateAntiMendelevium.name=反物质钔板
     S:oredict.plateAntiMercury.name=反物质汞板
     S:oredict.plateAntiMolybdenum.name=反物质钼板
@@ -38837,7 +38938,7 @@ languagefile {
     S:oredict.plateAntiRadium.name=反物质镭板
     S:oredict.plateAntiRhenium.name=反物质铼板
     S:oredict.plateAntiRhodium.name=反物质铑板
-    S:oredict.plateAntiRoentgenium.name=反物质𬬭板
+    S:oredict.plateAntiRoentgenium.name=反物质錀板
     S:oredict.plateAntiRubidium.name=反物质铷板
     S:oredict.plateAntiRuthenium.name=反物质钌板
     S:oredict.plateAntiRutherfordium.name=反物质鑪板
@@ -38967,8 +39068,8 @@ languagefile {
     S:oredict.plateCurvedAntiEuropium.name=弯曲反物质铕板
     S:oredict.plateCurvedAntiFarnsium.name=弯曲反物质钫板
     S:oredict.plateCurvedAntiFermium.name=弯曲反物质镄板
-    S:oredict.plateCurvedAntiFlerovium.name=弯曲反物质𫓧板
-    S:oredict.plateCurvedAntiFlerovium298.name=弯曲反物质𫓧-298板
+    S:oredict.plateCurvedAntiFlerovium.name=弯曲反物质鈇板
+    S:oredict.plateCurvedAntiFlerovium298.name=弯曲反物质鈇-298板
     S:oredict.plateCurvedAntiFrancium.name=弯曲反物质钫板
     S:oredict.plateCurvedAntiGadolinium.name=弯曲反物质钆板
     S:oredict.plateCurvedAntiGallium.name=弯曲反物质镓板
@@ -38987,7 +39088,7 @@ languagefile {
     S:oredict.plateCurvedAntiLutetium.name=弯曲反物质镥板
     S:oredict.plateCurvedAntiMagnesium.name=弯曲反物质镁板
     S:oredict.plateCurvedAntiManganese.name=弯曲反物质锰板
-    S:oredict.plateCurvedAntiMeitnerium.name=弯曲反物质鿏板
+    S:oredict.plateCurvedAntiMeitnerium.name=弯曲反物质䥑板
     S:oredict.plateCurvedAntiMendelevium.name=弯曲反物质钔板
     S:oredict.plateCurvedAntiMercury.name=弯曲反物质汞板
     S:oredict.plateCurvedAntiMolybdenum.name=弯曲反物质钼板
@@ -39012,7 +39113,7 @@ languagefile {
     S:oredict.plateCurvedAntiRadium.name=弯曲反物质镭板
     S:oredict.plateCurvedAntiRhenium.name=弯曲反物质铼板
     S:oredict.plateCurvedAntiRhodium.name=弯曲反物质铑板
-    S:oredict.plateCurvedAntiRoentgenium.name=弯曲反物质𬬭板
+    S:oredict.plateCurvedAntiRoentgenium.name=弯曲反物质錀板
     S:oredict.plateCurvedAntiRubidium.name=弯曲反物质铷板
     S:oredict.plateCurvedAntiRuthenium.name=弯曲反物质钌板
     S:oredict.plateCurvedAntiRutherfordium.name=弯曲反物质鑪板
@@ -39136,8 +39237,8 @@ languagefile {
     S:oredict.plateCurvedFermium.name=弯曲镄板
     S:oredict.plateCurvedFerrite.name=弯曲铁氧体板
     S:oredict.plateCurvedFierySteel.name=弯曲炙热钢板
-    S:oredict.plateCurvedFlerovium.name=弯曲𫓧板
-    S:oredict.plateCurvedFlerovium298.name=弯曲𫓧-298板
+    S:oredict.plateCurvedFlerovium.name=弯曲鈇板
+    S:oredict.plateCurvedFlerovium298.name=弯曲鈇-298板
     S:oredict.plateCurvedForce.name=弯曲立场板
     S:oredict.plateCurvedFrancium.name=弯曲钫板
     S:oredict.plateCurvedGabbro.name=弯曲辉长岩板
@@ -39201,7 +39302,7 @@ languagefile {
     S:oredict.plateCurvedManganese.name=弯曲锰板
     S:oredict.plateCurvedManyullyn.name=弯曲玛玉灵板
     S:oredict.plateCurvedMarble.name=弯曲大理石板
-    S:oredict.plateCurvedMeitnerium.name=弯曲鿏板
+    S:oredict.plateCurvedMeitnerium.name=弯曲䥑板
     S:oredict.plateCurvedMendelevium.name=弯曲钔板
     S:oredict.plateCurvedMercury.name=弯曲汞板
     S:oredict.plateCurvedMeteoricIron.name=弯曲陨铁板
@@ -39261,7 +39362,7 @@ languagefile {
     S:oredict.plateCurvedRhenium.name=弯曲铼板
     S:oredict.plateCurvedRhodium.name=弯曲铑板
     S:oredict.plateCurvedRhyolite.name=弯曲流纹岩板
-    S:oredict.plateCurvedRoentgenium.name=弯曲𬬭板
+    S:oredict.plateCurvedRoentgenium.name=弯曲錀板
     S:oredict.plateCurvedRoseGold.name=弯曲玫瑰金板
     S:oredict.plateCurvedRubber.name=弯曲橡胶板
     S:oredict.plateCurvedRubidium.name=弯曲铷板
@@ -39404,8 +39505,8 @@ languagefile {
     S:oredict.plateDenseAntiEuropium.name=致密反物质铕板
     S:oredict.plateDenseAntiFarnsium.name=致密反物质钫板
     S:oredict.plateDenseAntiFermium.name=致密反物质镄板
-    S:oredict.plateDenseAntiFlerovium.name=致密反物质𫓧板
-    S:oredict.plateDenseAntiFlerovium298.name=致密反物质𫓧-298板
+    S:oredict.plateDenseAntiFlerovium.name=致密反物质鈇板
+    S:oredict.plateDenseAntiFlerovium298.name=致密反物质鈇-298板
     S:oredict.plateDenseAntiFrancium.name=致密反物质钫板
     S:oredict.plateDenseAntiGadolinium.name=致密反物质钆板
     S:oredict.plateDenseAntiGallium.name=致密反物质镓板
@@ -39424,7 +39525,7 @@ languagefile {
     S:oredict.plateDenseAntiLutetium.name=致密反物质镥板
     S:oredict.plateDenseAntiMagnesium.name=致密反物质镁板
     S:oredict.plateDenseAntiManganese.name=致密反物质锰板
-    S:oredict.plateDenseAntiMeitnerium.name=致密反物质鿏板
+    S:oredict.plateDenseAntiMeitnerium.name=致密反物质䥑板
     S:oredict.plateDenseAntiMendelevium.name=致密反物质钔板
     S:oredict.plateDenseAntiMercury.name=致密反物质汞板
     S:oredict.plateDenseAntiMolybdenum.name=致密反物质钼板
@@ -39449,7 +39550,7 @@ languagefile {
     S:oredict.plateDenseAntiRadium.name=致密反物质镭板
     S:oredict.plateDenseAntiRhenium.name=致密反物质铼板
     S:oredict.plateDenseAntiRhodium.name=致密反物质铑板
-    S:oredict.plateDenseAntiRoentgenium.name=致密反物质𬬭板
+    S:oredict.plateDenseAntiRoentgenium.name=致密反物质錀板
     S:oredict.plateDenseAntiRubidium.name=致密反物质铷板
     S:oredict.plateDenseAntiRuthenium.name=致密反物质钌板
     S:oredict.plateDenseAntiRutherfordium.name=致密反物质鑪板
@@ -39556,8 +39657,8 @@ languagefile {
     S:oredict.plateDenseFermium.name=致密镄板
     S:oredict.plateDenseFerrite.name=致密铁氧体板
     S:oredict.plateDenseFierySteel.name=致密炙热钢板
-    S:oredict.plateDenseFlerovium.name=致密𫓧板
-    S:oredict.plateDenseFlerovium298.name=致密𫓧-298板
+    S:oredict.plateDenseFlerovium.name=致密鈇板
+    S:oredict.plateDenseFlerovium298.name=致密鈇-298板
     S:oredict.plateDenseForce.name=致密力量板
     S:oredict.plateDenseFrancium.name=致密钫板
     S:oredict.plateDenseGadolinium.name=致密钆板
@@ -39603,7 +39704,7 @@ languagefile {
     S:oredict.plateDenseManasteel.name=致密魔力钢板
     S:oredict.plateDenseManganese.name=致密锰板
     S:oredict.plateDenseManyullyn.name=致密玛玉灵板
-    S:oredict.plateDenseMeitnerium.name=致密鿏板
+    S:oredict.plateDenseMeitnerium.name=致密䥑板
     S:oredict.plateDenseMendelevium.name=致密钔板
     S:oredict.plateDenseMercury.name=致密汞板
     S:oredict.plateDenseMeteoricIron.name=致密陨铁板
@@ -39654,7 +39755,7 @@ languagefile {
     S:oredict.plateDenseRedstoneAlloy.name=致密红硅(红石合金)板
     S:oredict.plateDenseRhenium.name=致密铼板
     S:oredict.plateDenseRhodium.name=致密铑板
-    S:oredict.plateDenseRoentgenium.name=致密𬬭板
+    S:oredict.plateDenseRoentgenium.name=致密錀板
     S:oredict.plateDenseRoseGold.name=致密玫瑰金板
     S:oredict.plateDenseRubber.name=致密橡胶片
     S:oredict.plateDenseRubidium.name=致密铷板
@@ -39784,8 +39885,8 @@ languagefile {
     S:oredict.plateDoubleAntiEuropium.name=两重反物质铕板
     S:oredict.plateDoubleAntiFarnsium.name=两重反物质钫板
     S:oredict.plateDoubleAntiFermium.name=两重反物质镄板
-    S:oredict.plateDoubleAntiFlerovium.name=两重反物质𫓧板
-    S:oredict.plateDoubleAntiFlerovium298.name=两重反物质𫓧-298板
+    S:oredict.plateDoubleAntiFlerovium.name=两重反物质鈇板
+    S:oredict.plateDoubleAntiFlerovium298.name=两重反物质鈇-298板
     S:oredict.plateDoubleAntiFrancium.name=两重反物质钫板
     S:oredict.plateDoubleAntiGadolinium.name=两重反物质钆板
     S:oredict.plateDoubleAntiGallium.name=两重反物质镓板
@@ -39804,7 +39905,7 @@ languagefile {
     S:oredict.plateDoubleAntiLutetium.name=两重反物质镥板
     S:oredict.plateDoubleAntiMagnesium.name=两重反物质镁板
     S:oredict.plateDoubleAntiManganese.name=两重反物质锰板
-    S:oredict.plateDoubleAntiMeitnerium.name=两重反物质鿏板
+    S:oredict.plateDoubleAntiMeitnerium.name=两重反物质䥑板
     S:oredict.plateDoubleAntiMendelevium.name=两重反物质钔板
     S:oredict.plateDoubleAntiMercury.name=两重反物质汞板
     S:oredict.plateDoubleAntiMolybdenum.name=两重反物质钼板
@@ -39829,7 +39930,7 @@ languagefile {
     S:oredict.plateDoubleAntiRadium.name=两重反物质镭板
     S:oredict.plateDoubleAntiRhenium.name=两重反物质铼板
     S:oredict.plateDoubleAntiRhodium.name=两重反物质铑板
-    S:oredict.plateDoubleAntiRoentgenium.name=两重反物质𬬭板
+    S:oredict.plateDoubleAntiRoentgenium.name=两重反物质錀板
     S:oredict.plateDoubleAntiRubidium.name=两重反物质铷板
     S:oredict.plateDoubleAntiRuthenium.name=两重反物质钌板
     S:oredict.plateDoubleAntiRutherfordium.name=两重反物质鑪板
@@ -39936,8 +40037,8 @@ languagefile {
     S:oredict.plateDoubleFermium.name=两重镄板
     S:oredict.plateDoubleFerrite.name=两重铁氧体板
     S:oredict.plateDoubleFierySteel.name=两重炙热钢板
-    S:oredict.plateDoubleFlerovium.name=两重𫓧板
-    S:oredict.plateDoubleFlerovium298.name=两重𫓧-298板
+    S:oredict.plateDoubleFlerovium.name=两重鈇板
+    S:oredict.plateDoubleFlerovium298.name=两重鈇-298板
     S:oredict.plateDoubleForce.name=两重力量板
     S:oredict.plateDoubleFrancium.name=两重钫板
     S:oredict.plateDoubleGadolinium.name=两重钆板
@@ -39981,7 +40082,7 @@ languagefile {
     S:oredict.plateDoubleManasteel.name=两重魔力钢板
     S:oredict.plateDoubleManganese.name=两重锰板
     S:oredict.plateDoubleManyullyn.name=两重玛玉灵板
-    S:oredict.plateDoubleMeitnerium.name=两重鿏板
+    S:oredict.plateDoubleMeitnerium.name=两重䥑板
     S:oredict.plateDoubleMendelevium.name=两重钔板
     S:oredict.plateDoubleMercury.name=两重汞板
     S:oredict.plateDoubleMeteoricIron.name=两重陨铁板
@@ -40033,7 +40134,7 @@ languagefile {
     S:oredict.plateDoubleRedstoneAlloy.name=两重红硅(红石合金)板
     S:oredict.plateDoubleRhenium.name=两重铼板
     S:oredict.plateDoubleRhodium.name=两重铑板
-    S:oredict.plateDoubleRoentgenium.name=两重𬬭板
+    S:oredict.plateDoubleRoentgenium.name=两重錀板
     S:oredict.plateDoubleRoseGold.name=两重玫瑰金板
     S:oredict.plateDoubleRubber.name=两重橡胶片
     S:oredict.plateDoubleRubidium.name=两重铷板
@@ -40135,8 +40236,8 @@ languagefile {
     S:oredict.plateFermium.name=镄板
     S:oredict.plateFerrite.name=铁氧体板
     S:oredict.plateFierySteel.name=炙热钢板
-    S:oredict.plateFlerovium.name=𫓧板
-    S:oredict.plateFlerovium298.name=𫓧-298板
+    S:oredict.plateFlerovium.name=鈇板
+    S:oredict.plateFlerovium298.name=鈇-298板
     S:oredict.plateForce.name=力量板
     S:oredict.plateFrancium.name=钫板
     S:oredict.plateGabbro.name=辉长岩板
@@ -40371,7 +40472,7 @@ languagefile {
     S:oredict.plateManganese.name=锰板
     S:oredict.plateManyullyn.name=玛玉灵板
     S:oredict.plateMarble.name=大理石板
-    S:oredict.plateMeitnerium.name=鿏板
+    S:oredict.plateMeitnerium.name=䥑板
     S:oredict.plateMendelevium.name=钔板
     S:oredict.plateMercury.name=汞板
     S:oredict.plateMeteoricIron.name=陨铁板
@@ -40468,8 +40569,8 @@ languagefile {
     S:oredict.plateQuadrupleAntiEuropium.name=四重反物质铕板
     S:oredict.plateQuadrupleAntiFarnsium.name=四重反物质钫板
     S:oredict.plateQuadrupleAntiFermium.name=四重反物质镄板
-    S:oredict.plateQuadrupleAntiFlerovium.name=四重反物质𫓧板
-    S:oredict.plateQuadrupleAntiFlerovium298.name=四重反物质𫓧-298板
+    S:oredict.plateQuadrupleAntiFlerovium.name=四重反物质鈇板
+    S:oredict.plateQuadrupleAntiFlerovium298.name=四重反物质鈇-298板
     S:oredict.plateQuadrupleAntiFrancium.name=四重反物质钫板
     S:oredict.plateQuadrupleAntiGadolinium.name=四重反物质钆板
     S:oredict.plateQuadrupleAntiGallium.name=四重反物质镓板
@@ -40488,7 +40589,7 @@ languagefile {
     S:oredict.plateQuadrupleAntiLutetium.name=四重反物质镥板
     S:oredict.plateQuadrupleAntiMagnesium.name=四重反物质镁板
     S:oredict.plateQuadrupleAntiManganese.name=四重反物质锰板
-    S:oredict.plateQuadrupleAntiMeitnerium.name=四重反物质鿏板
+    S:oredict.plateQuadrupleAntiMeitnerium.name=四重反物质䥑板
     S:oredict.plateQuadrupleAntiMendelevium.name=四重反物质钔板
     S:oredict.plateQuadrupleAntiMercury.name=四重反物质汞板
     S:oredict.plateQuadrupleAntiMolybdenum.name=四重反物质钼板
@@ -40513,7 +40614,7 @@ languagefile {
     S:oredict.plateQuadrupleAntiRadium.name=四重反物质镭板
     S:oredict.plateQuadrupleAntiRhenium.name=四重反物质铼板
     S:oredict.plateQuadrupleAntiRhodium.name=四重反物质铑板
-    S:oredict.plateQuadrupleAntiRoentgenium.name=四重反物质𬬭板
+    S:oredict.plateQuadrupleAntiRoentgenium.name=四重反物质錀板
     S:oredict.plateQuadrupleAntiRubidium.name=四重反物质铷板
     S:oredict.plateQuadrupleAntiRuthenium.name=四重反物质钌板
     S:oredict.plateQuadrupleAntiRutherfordium.name=四重反物质鑪板
@@ -40623,8 +40724,8 @@ languagefile {
     S:oredict.plateQuadrupleFermium.name=四重镄板
     S:oredict.plateQuadrupleFerrite.name=四重铁氧体板
     S:oredict.plateQuadrupleFierySteel.name=四重炙热钢板
-    S:oredict.plateQuadrupleFlerovium.name=四重𫓧板
-    S:oredict.plateQuadrupleFlerovium298.name=四重𫓧-298板
+    S:oredict.plateQuadrupleFlerovium.name=四重鈇板
+    S:oredict.plateQuadrupleFlerovium298.name=四重鈇-298板
     S:oredict.plateQuadrupleForce.name=四重力量板
     S:oredict.plateQuadrupleFrancium.name=四重钫板
     S:oredict.plateQuadrupleGadolinium.name=四重钆板
@@ -40668,7 +40769,7 @@ languagefile {
     S:oredict.plateQuadrupleManasteel.name=四重魔力钢板
     S:oredict.plateQuadrupleManganese.name=四重锰板
     S:oredict.plateQuadrupleManyullyn.name=四重玛玉灵板
-    S:oredict.plateQuadrupleMeitnerium.name=四重鿏板
+    S:oredict.plateQuadrupleMeitnerium.name=四重䥑板
     S:oredict.plateQuadrupleMendelevium.name=四重钔板
     S:oredict.plateQuadrupleMercury.name=四重汞板
     S:oredict.plateQuadrupleMeteoricIron.name=四重陨铁板
@@ -40720,7 +40821,7 @@ languagefile {
     S:oredict.plateQuadrupleRedstoneAlloy.name=四重红硅(红石合金)板
     S:oredict.plateQuadrupleRhenium.name=四重铼板
     S:oredict.plateQuadrupleRhodium.name=四重铑板
-    S:oredict.plateQuadrupleRoentgenium.name=四重𬬭板
+    S:oredict.plateQuadrupleRoentgenium.name=四重錀板
     S:oredict.plateQuadrupleRoseGold.name=四重玫瑰金板
     S:oredict.plateQuadrupleRubber.name=四重橡胶片
     S:oredict.plateQuadrupleRubidium.name=四重铷板
@@ -40841,8 +40942,8 @@ languagefile {
     S:oredict.plateQuintupleAntiEuropium.name=五重反物质铕板
     S:oredict.plateQuintupleAntiFarnsium.name=五重反物质钫板
     S:oredict.plateQuintupleAntiFermium.name=五重反物质镄板
-    S:oredict.plateQuintupleAntiFlerovium.name=五重反物质𫓧板
-    S:oredict.plateQuintupleAntiFlerovium298.name=五重反物质𫓧-298板
+    S:oredict.plateQuintupleAntiFlerovium.name=五重反物质鈇板
+    S:oredict.plateQuintupleAntiFlerovium298.name=五重反物质鈇-298板
     S:oredict.plateQuintupleAntiFrancium.name=五重反物质钫板
     S:oredict.plateQuintupleAntiGadolinium.name=五重反物质钆板
     S:oredict.plateQuintupleAntiGallium.name=五重反物质镓板
@@ -40861,7 +40962,7 @@ languagefile {
     S:oredict.plateQuintupleAntiLutetium.name=五重反物质镥板
     S:oredict.plateQuintupleAntiMagnesium.name=五重反物质镁板
     S:oredict.plateQuintupleAntiManganese.name=五重反物质锰板
-    S:oredict.plateQuintupleAntiMeitnerium.name=五重反物质鿏板
+    S:oredict.plateQuintupleAntiMeitnerium.name=五重反物质䥑板
     S:oredict.plateQuintupleAntiMendelevium.name=五重反物质钔板
     S:oredict.plateQuintupleAntiMercury.name=五重反物质汞板
     S:oredict.plateQuintupleAntiMolybdenum.name=五重反物质钼板
@@ -40886,7 +40987,7 @@ languagefile {
     S:oredict.plateQuintupleAntiRadium.name=五重反物质镭板
     S:oredict.plateQuintupleAntiRhenium.name=五重反物质铼板
     S:oredict.plateQuintupleAntiRhodium.name=五重反物质铑板
-    S:oredict.plateQuintupleAntiRoentgenium.name=五重反物质𬬭板
+    S:oredict.plateQuintupleAntiRoentgenium.name=五重反物质錀板
     S:oredict.plateQuintupleAntiRubidium.name=五重反物质铷板
     S:oredict.plateQuintupleAntiRuthenium.name=五重反物质钌板
     S:oredict.plateQuintupleAntiRutherfordium.name=五重反物质鑪板
@@ -40996,8 +41097,8 @@ languagefile {
     S:oredict.plateQuintupleFermium.name=五重镄板
     S:oredict.plateQuintupleFerrite.name=五重铁氧体板
     S:oredict.plateQuintupleFierySteel.name=五重炙热钢板
-    S:oredict.plateQuintupleFlerovium.name=五重𫓧板
-    S:oredict.plateQuintupleFlerovium298.name=五重𫓧-298板
+    S:oredict.plateQuintupleFlerovium.name=五重鈇板
+    S:oredict.plateQuintupleFlerovium298.name=五重鈇-298板
     S:oredict.plateQuintupleForce.name=五重力量板
     S:oredict.plateQuintupleFrancium.name=五重钫板
     S:oredict.plateQuintupleGadolinium.name=五重钆板
@@ -41041,7 +41142,7 @@ languagefile {
     S:oredict.plateQuintupleManasteel.name=五重魔力钢板
     S:oredict.plateQuintupleManganese.name=五重锰板
     S:oredict.plateQuintupleManyullyn.name=五重玛玉灵板
-    S:oredict.plateQuintupleMeitnerium.name=五重鿏板
+    S:oredict.plateQuintupleMeitnerium.name=五重䥑板
     S:oredict.plateQuintupleMendelevium.name=五重钔板
     S:oredict.plateQuintupleMercury.name=五重汞板
     S:oredict.plateQuintupleMeteoricIron.name=五重陨铁板
@@ -41093,7 +41194,7 @@ languagefile {
     S:oredict.plateQuintupleRedstoneAlloy.name=五重硅板
     S:oredict.plateQuintupleRhenium.name=五重铼板
     S:oredict.plateQuintupleRhodium.name=五重铑板
-    S:oredict.plateQuintupleRoentgenium.name=五重𬬭板
+    S:oredict.plateQuintupleRoentgenium.name=五重錀板
     S:oredict.plateQuintupleRoseGold.name=五重玫瑰金板
     S:oredict.plateQuintupleRubber.name=五重橡胶片
     S:oredict.plateQuintupleRubidium.name=五重铷板
@@ -41177,7 +41278,7 @@ languagefile {
     S:oredict.plateRhenium.name=铼板
     S:oredict.plateRhodium.name=铑板
     S:oredict.plateRhyolite.name=流纹岩板
-    S:oredict.plateRoentgenium.name=𬬭板
+    S:oredict.plateRoentgenium.name=錀板
     S:oredict.plateRoseGold.name=玫瑰金板
     S:oredict.plateRubber.name=橡胶片
     S:oredict.plateRubidium.name=铷板
@@ -41267,8 +41368,8 @@ languagefile {
     S:oredict.plateTinyAntiEuropium.name=小块反物质铕板
     S:oredict.plateTinyAntiFarnsium.name=小块反物质钫板
     S:oredict.plateTinyAntiFermium.name=小块反物质镄板
-    S:oredict.plateTinyAntiFlerovium.name=小块反物质𫓧板
-    S:oredict.plateTinyAntiFlerovium298.name=小块反物质𫓧-298板
+    S:oredict.plateTinyAntiFlerovium.name=小块反物质鈇板
+    S:oredict.plateTinyAntiFlerovium298.name=小块反物质鈇-298板
     S:oredict.plateTinyAntiFrancium.name=小块反物质钫板
     S:oredict.plateTinyAntiGadolinium.name=小块反物质钆板
     S:oredict.plateTinyAntiGallium.name=小块反物质镓板
@@ -41287,7 +41388,7 @@ languagefile {
     S:oredict.plateTinyAntiLutetium.name=小块反物质镥板
     S:oredict.plateTinyAntiMagnesium.name=小块反物质镁板
     S:oredict.plateTinyAntiManganese.name=小块反物质锰板
-    S:oredict.plateTinyAntiMeitnerium.name=小块反物质鿏板
+    S:oredict.plateTinyAntiMeitnerium.name=小块反物质䥑板
     S:oredict.plateTinyAntiMendelevium.name=小块反物质钔板
     S:oredict.plateTinyAntiMercury.name=小块反物质汞板
     S:oredict.plateTinyAntiMolybdenum.name=小块反物质钼板
@@ -41312,7 +41413,7 @@ languagefile {
     S:oredict.plateTinyAntiRadium.name=小块反物质镭板
     S:oredict.plateTinyAntiRhenium.name=小块反物质铼板
     S:oredict.plateTinyAntiRhodium.name=小块反物质铑板
-    S:oredict.plateTinyAntiRoentgenium.name=小块反物质𬬭板
+    S:oredict.plateTinyAntiRoentgenium.name=小块反物质錀板
     S:oredict.plateTinyAntiRubidium.name=小块反物质铷板
     S:oredict.plateTinyAntiRuthenium.name=小块反物质钌板
     S:oredict.plateTinyAntiRutherfordium.name=小块反物质鑪板
@@ -41433,8 +41534,8 @@ languagefile {
     S:oredict.plateTinyFermium.name=小块镄板
     S:oredict.plateTinyFerrite.name=小块铁氧体板
     S:oredict.plateTinyFierySteel.name=小块炙热钢板
-    S:oredict.plateTinyFlerovium.name=小块𫓧板
-    S:oredict.plateTinyFlerovium298.name=小块𫓧-298板
+    S:oredict.plateTinyFlerovium.name=小块鈇板
+    S:oredict.plateTinyFlerovium298.name=小块鈇-298板
     S:oredict.plateTinyForce.name=小块力量板
     S:oredict.plateTinyFrancium.name=小块钫板
     S:oredict.plateTinyGabbro.name=小撮辉长岩板
@@ -41498,7 +41599,7 @@ languagefile {
     S:oredict.plateTinyManganese.name=小块锰板
     S:oredict.plateTinyManyullyn.name=小块玛玉灵板
     S:oredict.plateTinyMarble.name=小撮大理石板
-    S:oredict.plateTinyMeitnerium.name=小块鿏板
+    S:oredict.plateTinyMeitnerium.name=小块䥑板
     S:oredict.plateTinyMendelevium.name=小块钔板
     S:oredict.plateTinyMercury.name=小块汞板
     S:oredict.plateTinyMeteoricIron.name=小块陨铁板
@@ -41559,7 +41660,7 @@ languagefile {
     S:oredict.plateTinyRhenium.name=小块铼板
     S:oredict.plateTinyRhodium.name=小块铑板
     S:oredict.plateTinyRhyolite.name=小撮流纹岩板
-    S:oredict.plateTinyRoentgenium.name=小块𬬭板
+    S:oredict.plateTinyRoentgenium.name=小块錀板
     S:oredict.plateTinyRoseGold.name=小块玫瑰金板
     S:oredict.plateTinyRubber.name=小块橡胶片
     S:oredict.plateTinyRubidium.name=小块铷板
@@ -41700,8 +41801,8 @@ languagefile {
     S:oredict.plateTripleAntiEuropium.name=三重反物质铕板
     S:oredict.plateTripleAntiFarnsium.name=三重反物质钫板
     S:oredict.plateTripleAntiFermium.name=三重反物质镄板
-    S:oredict.plateTripleAntiFlerovium.name=三重反物质𫓧板
-    S:oredict.plateTripleAntiFlerovium298.name=三重反物质𫓧-298板
+    S:oredict.plateTripleAntiFlerovium.name=三重反物质鈇板
+    S:oredict.plateTripleAntiFlerovium298.name=三重反物质鈇-298板
     S:oredict.plateTripleAntiFrancium.name=三重反物质钫板
     S:oredict.plateTripleAntiGadolinium.name=三重反物质钆板
     S:oredict.plateTripleAntiGallium.name=三重反物质镓板
@@ -41720,7 +41821,7 @@ languagefile {
     S:oredict.plateTripleAntiLutetium.name=三重反物质镥板
     S:oredict.plateTripleAntiMagnesium.name=三重反物质镁板
     S:oredict.plateTripleAntiManganese.name=三重反物质锰板
-    S:oredict.plateTripleAntiMeitnerium.name=三重反物质鿏板
+    S:oredict.plateTripleAntiMeitnerium.name=三重反物质䥑板
     S:oredict.plateTripleAntiMendelevium.name=三重反物质钔板
     S:oredict.plateTripleAntiMercury.name=三重反物质汞板
     S:oredict.plateTripleAntiMolybdenum.name=三重反物质钼板
@@ -41745,7 +41846,7 @@ languagefile {
     S:oredict.plateTripleAntiRadium.name=三重反物质镭板
     S:oredict.plateTripleAntiRhenium.name=三重反物质铼板
     S:oredict.plateTripleAntiRhodium.name=三重反物质铑板
-    S:oredict.plateTripleAntiRoentgenium.name=三重反物质𬬭板
+    S:oredict.plateTripleAntiRoentgenium.name=三重反物质錀板
     S:oredict.plateTripleAntiRubidium.name=三重反物质铷板
     S:oredict.plateTripleAntiRuthenium.name=三重反物质钌板
     S:oredict.plateTripleAntiRutherfordium.name=三重反物质鑪板
@@ -41852,8 +41953,8 @@ languagefile {
     S:oredict.plateTripleFermium.name=三重镄板
     S:oredict.plateTripleFerrite.name=三重铁氧体板
     S:oredict.plateTripleFierySteel.name=三重炙热钢板
-    S:oredict.plateTripleFlerovium.name=三重𫓧板
-    S:oredict.plateTripleFlerovium298.name=三重𫓧-298板
+    S:oredict.plateTripleFlerovium.name=三重鈇板
+    S:oredict.plateTripleFlerovium298.name=三重鈇-298板
     S:oredict.plateTripleForce.name=三重力量板
     S:oredict.plateTripleFrancium.name=三重钫板
     S:oredict.plateTripleGadolinium.name=三重钆板
@@ -41897,7 +41998,7 @@ languagefile {
     S:oredict.plateTripleManasteel.name=三重魔力钢板
     S:oredict.plateTripleManganese.name=三重锰板
     S:oredict.plateTripleManyullyn.name=三重玛玉灵板
-    S:oredict.plateTripleMeitnerium.name=三重鿏板
+    S:oredict.plateTripleMeitnerium.name=三重䥑板
     S:oredict.plateTripleMendelevium.name=三重钔板
     S:oredict.plateTripleMercury.name=三重汞板
     S:oredict.plateTripleMeteoricIron.name=三重陨铁板
@@ -41949,7 +42050,7 @@ languagefile {
     S:oredict.plateTripleRedstoneAlloy.name=三重红硅(红石合金)板
     S:oredict.plateTripleRhenium.name=三重铼板
     S:oredict.plateTripleRhodium.name=三重铑板
-    S:oredict.plateTripleRoentgenium.name=三重𬬭板
+    S:oredict.plateTripleRoentgenium.name=三重錀板
     S:oredict.plateTripleRoseGold.name=三重玫瑰金板
     S:oredict.plateTripleRubber.name=三重橡胶片
     S:oredict.plateTripleRubidium.name=三重铷板
@@ -42934,8 +43035,8 @@ languagefile {
     S:oredict.scrapGtAntiEuropium.name=反物质铕废料
     S:oredict.scrapGtAntiFarnsium.name=反物质钫废料
     S:oredict.scrapGtAntiFermium.name=反物质镄废料
-    S:oredict.scrapGtAntiFlerovium.name=反物质𫓧废料
-    S:oredict.scrapGtAntiFlerovium298.name=反物质𫓧-298废料
+    S:oredict.scrapGtAntiFlerovium.name=反物质鈇废料
+    S:oredict.scrapGtAntiFlerovium298.name=反物质鈇-298废料
     S:oredict.scrapGtAntiFluorine.name=反物质氟废料
     S:oredict.scrapGtAntiFrancium.name=反物质钫废料
     S:oredict.scrapGtAntiGadolinium.name=反物质钆废料
@@ -42958,7 +43059,7 @@ languagefile {
     S:oredict.scrapGtAntiLutetium.name=反物质镥废料
     S:oredict.scrapGtAntiMagnesium.name=反物质镁废料
     S:oredict.scrapGtAntiManganese.name=反物质锰废料
-    S:oredict.scrapGtAntiMeitnerium.name=反物质鿏废料
+    S:oredict.scrapGtAntiMeitnerium.name=反物质䥑废料
     S:oredict.scrapGtAntiMendelevium.name=反物质钔废料
     S:oredict.scrapGtAntiMercury.name=反物质汞废料
     S:oredict.scrapGtAntiMolybdenum.name=反物质钼废料
@@ -42985,7 +43086,7 @@ languagefile {
     S:oredict.scrapGtAntiRadium.name=反物质镭废料
     S:oredict.scrapGtAntiRhenium.name=反物质铼废料
     S:oredict.scrapGtAntiRhodium.name=反物质铑废料
-    S:oredict.scrapGtAntiRoentgenium.name=反物质𬬭废料
+    S:oredict.scrapGtAntiRoentgenium.name=反物质錀废料
     S:oredict.scrapGtAntiRubidium.name=反物质铷废料
     S:oredict.scrapGtAntiRuthenium.name=反物质钌废料
     S:oredict.scrapGtAntiRutherfordium.name=反物质鑪废料
@@ -43082,6 +43183,7 @@ languagefile {
     S:oredict.scrapGtBronze.name=青铜废料
     S:oredict.scrapGtBrown.name=褐色废料
     S:oredict.scrapGtBrownLimonite.name=褐铁矿废料
+    S:oredict.scrapGtButter.name=黄油废料
     S:oredict.scrapGtCadmium.name=镉废料
     S:oredict.scrapGtCaesium.name=铯废料
     S:oredict.scrapGtCalcite.name=方解石废料
@@ -43094,7 +43196,7 @@ languagefile {
     S:oredict.scrapGtCarborundum.name=碳化硅废料
     S:oredict.scrapGtCarmot.name=闪耀金废料
     S:oredict.scrapGtCassiterite.name=锡石废料
-    S:oredict.scrapGtCassiteriteSand.name=锡石 Sand废料
+    S:oredict.scrapGtCassiteriteSand.name=锡石沙废料
     S:oredict.scrapGtCdInAgAlloy.name=镉铟银合金废料
     S:oredict.scrapGtCelenegil.name=熔融幽冥毒晶废料
     S:oredict.scrapGtCelestine.name=天青石废料
@@ -43209,8 +43311,8 @@ languagefile {
     S:oredict.scrapGtFishCooked.name=熟鱼肉废料
     S:oredict.scrapGtFishRaw.name=生鱼肉废料
     S:oredict.scrapGtFishRotten.name=烂鱼肉废料
-    S:oredict.scrapGtFlerovium.name=𫓧废料
-    S:oredict.scrapGtFlerovium298.name=𫓧-298废料
+    S:oredict.scrapGtFlerovium.name=鈇废料
+    S:oredict.scrapGtFlerovium298.name=鈇-298废料
     S:oredict.scrapGtFlint.name=燧石废料
     S:oredict.scrapGtFluorine.name=氟废料
     S:oredict.scrapGtFluorite.name=萤石废料
@@ -43338,7 +43440,7 @@ languagefile {
     S:oredict.scrapGtMeatCooked.name=熟肉废料
     S:oredict.scrapGtMeatRaw.name=生肉废料
     S:oredict.scrapGtMeatRotten.name=腐肉废料
-    S:oredict.scrapGtMeitnerium.name=鿏废料
+    S:oredict.scrapGtMeitnerium.name=䥑废料
     S:oredict.scrapGtMendelevium.name=钔废料
     S:oredict.scrapGtMercury.name=汞废料
     S:oredict.scrapGtMeteoricIron.name=陨铁废料
@@ -43458,7 +43560,7 @@ languagefile {
     S:oredict.scrapGtRhyolite.name=流纹岩废料
     S:oredict.scrapGtRice.name=米废料
     S:oredict.scrapGtRockSalt.name=岩盐废料
-    S:oredict.scrapGtRoentgenium.name=𬬭废料
+    S:oredict.scrapGtRoentgenium.name=錀废料
     S:oredict.scrapGtRoseGold.name=玫瑰金废料
     S:oredict.scrapGtRubber.name=橡胶废料
     S:oredict.scrapGtRubidium.name=铷废料
@@ -43468,8 +43570,9 @@ languagefile {
     S:oredict.scrapGtRuthenium.name=钌废料
     S:oredict.scrapGtRutherfordium.name=鑪废料
     S:oredict.scrapGtRutile.name=金红石废料
-    S:oredict.scrapGtRye.name=Rye废料
+    S:oredict.scrapGtRye.name=黑麦废料
     S:oredict.scrapGtSalt.name=盐废料
+    S:oredict.scrapGtSaltedButter.name=盐味黄油废料
     S:oredict.scrapGtSaltpeter.name=硝酸钾废料
     S:oredict.scrapGtSamarium.name=钐废料
     S:oredict.scrapGtSanguinite.name=狱炎石废料
@@ -43673,8 +43776,8 @@ languagefile {
     S:oredict.screwAntiEuropium.name=反物质铕螺丝
     S:oredict.screwAntiFarnsium.name=反物质钫螺丝
     S:oredict.screwAntiFermium.name=反物质镄螺丝
-    S:oredict.screwAntiFlerovium.name=反物质𫓧螺丝
-    S:oredict.screwAntiFlerovium298.name=反物质𫓧-298螺丝
+    S:oredict.screwAntiFlerovium.name=反物质鈇螺丝
+    S:oredict.screwAntiFlerovium298.name=反物质鈇-298螺丝
     S:oredict.screwAntiFrancium.name=反物质钫螺丝
     S:oredict.screwAntiGadolinium.name=反物质钆螺丝
     S:oredict.screwAntiGallium.name=反物质镓螺丝
@@ -43693,7 +43796,7 @@ languagefile {
     S:oredict.screwAntiLutetium.name=反物质镥螺丝
     S:oredict.screwAntiMagnesium.name=反物质镁螺丝
     S:oredict.screwAntiManganese.name=反物质锰螺丝
-    S:oredict.screwAntiMeitnerium.name=反物质鿏螺丝
+    S:oredict.screwAntiMeitnerium.name=反物质䥑螺丝
     S:oredict.screwAntiMendelevium.name=反物质钔螺丝
     S:oredict.screwAntiMercury.name=反物质汞螺丝
     S:oredict.screwAntiMolybdenum.name=反物质钼螺丝
@@ -43718,7 +43821,7 @@ languagefile {
     S:oredict.screwAntiRadium.name=反物质镭螺丝
     S:oredict.screwAntiRhenium.name=反物质铼螺丝
     S:oredict.screwAntiRhodium.name=反物质铑螺丝
-    S:oredict.screwAntiRoentgenium.name=反物质𬬭螺丝
+    S:oredict.screwAntiRoentgenium.name=反物质錀螺丝
     S:oredict.screwAntiRubidium.name=反物质铷螺丝
     S:oredict.screwAntiRuthenium.name=反物质钌螺丝
     S:oredict.screwAntiRutherfordium.name=反物质鑪螺丝
@@ -43862,8 +43965,8 @@ languagefile {
     S:oredict.screwFerrite.name=铁氧体螺丝
     S:oredict.screwFierySteel.name=炙热钢螺丝
     S:oredict.screwFirestone.name=火石螺丝
-    S:oredict.screwFlerovium.name=𫓧螺丝
-    S:oredict.screwFlerovium298.name=𫓧-298螺丝
+    S:oredict.screwFlerovium.name=鈇螺丝
+    S:oredict.screwFlerovium298.name=鈇-298螺丝
     S:oredict.screwFlint.name=燧石螺丝
     S:oredict.screwFoolsRuby.name=红宝石螺丝
     S:oredict.screwForce.name=力量螺丝
@@ -43944,7 +44047,7 @@ languagefile {
     S:oredict.screwManganese.name=锰螺丝
     S:oredict.screwManyullyn.name=玛玉灵螺丝
     S:oredict.screwMarble.name=大理石螺丝
-    S:oredict.screwMeitnerium.name=鿏螺丝
+    S:oredict.screwMeitnerium.name=䥑螺丝
     S:oredict.screwMendelevium.name=钔螺丝
     S:oredict.screwMercury.name=汞螺丝
     S:oredict.screwMeteoricIron.name=陨铁螺丝
@@ -44017,7 +44120,7 @@ languagefile {
     S:oredict.screwRhenium.name=铼螺丝
     S:oredict.screwRhodium.name=铑螺丝
     S:oredict.screwRhyolite.name=流纹岩螺丝
-    S:oredict.screwRoentgenium.name=𬬭螺丝
+    S:oredict.screwRoentgenium.name=錀螺丝
     S:oredict.screwRoseGold.name=玫瑰金螺丝
     S:oredict.screwRubber.name=橡胶螺丝
     S:oredict.screwRubidium.name=铷螺丝
@@ -44550,8 +44653,8 @@ languagefile {
     S:oredict.stickAntiEuropium.name=反物质铕杆
     S:oredict.stickAntiFarnsium.name=反物质钫杆
     S:oredict.stickAntiFermium.name=反物质镄杆
-    S:oredict.stickAntiFlerovium.name=反物质𫓧杆
-    S:oredict.stickAntiFlerovium298.name=反物质𫓧-298杆
+    S:oredict.stickAntiFlerovium.name=反物质鈇杆
+    S:oredict.stickAntiFlerovium298.name=反物质鈇-298杆
     S:oredict.stickAntiFrancium.name=反物质钫杆
     S:oredict.stickAntiGadolinium.name=反物质钆杆
     S:oredict.stickAntiGallium.name=反物质镓杆
@@ -44570,7 +44673,7 @@ languagefile {
     S:oredict.stickAntiLutetium.name=反物质镥杆
     S:oredict.stickAntiMagnesium.name=反物质镁杆
     S:oredict.stickAntiManganese.name=反物质锰杆
-    S:oredict.stickAntiMeitnerium.name=反物质鿏杆
+    S:oredict.stickAntiMeitnerium.name=反物质䥑杆
     S:oredict.stickAntiMendelevium.name=反物质钔杆
     S:oredict.stickAntiMercury.name=反物质汞杆
     S:oredict.stickAntiMolybdenum.name=反物质钼杆
@@ -44595,7 +44698,7 @@ languagefile {
     S:oredict.stickAntiRadium.name=反物质镭杆
     S:oredict.stickAntiRhenium.name=反物质铼杆
     S:oredict.stickAntiRhodium.name=反物质铑杆
-    S:oredict.stickAntiRoentgenium.name=反物质𬬭杆
+    S:oredict.stickAntiRoentgenium.name=反物质錀杆
     S:oredict.stickAntiRubidium.name=反物质铷杆
     S:oredict.stickAntiRuthenium.name=反物质钌杆
     S:oredict.stickAntiRutherfordium.name=反物质鑪杆
@@ -44738,8 +44841,8 @@ languagefile {
     S:oredict.stickFerrite.name=铁氧体杆
     S:oredict.stickFierySteel.name=炙热钢杆
     S:oredict.stickFirestone.name=火石杆
-    S:oredict.stickFlerovium.name=𫓧杆
-    S:oredict.stickFlerovium298.name=𫓧-298杆
+    S:oredict.stickFlerovium.name=鈇杆
+    S:oredict.stickFlerovium298.name=鈇-298杆
     S:oredict.stickFlint.name=燧石杆
     S:oredict.stickFoolsRuby.name=红宝石杆
     S:oredict.stickForce.name=力量杆
@@ -44861,8 +44964,8 @@ languagefile {
     S:oredict.stickLongAntiEuropium.name=长反物质铕杆
     S:oredict.stickLongAntiFarnsium.name=长反物质钫杆
     S:oredict.stickLongAntiFermium.name=长反物质镄杆
-    S:oredict.stickLongAntiFlerovium.name=长反物质𫓧杆
-    S:oredict.stickLongAntiFlerovium298.name=长反物质𫓧-298杆
+    S:oredict.stickLongAntiFlerovium.name=长反物质鈇杆
+    S:oredict.stickLongAntiFlerovium298.name=长反物质鈇-298杆
     S:oredict.stickLongAntiFrancium.name=长反物质钫杆
     S:oredict.stickLongAntiGadolinium.name=长反物质钆杆
     S:oredict.stickLongAntiGallium.name=长反物质镓杆
@@ -44881,7 +44984,7 @@ languagefile {
     S:oredict.stickLongAntiLutetium.name=长反物质镥杆
     S:oredict.stickLongAntiMagnesium.name=长反物质镁杆
     S:oredict.stickLongAntiManganese.name=长反物质锰杆
-    S:oredict.stickLongAntiMeitnerium.name=长反物质鿏杆
+    S:oredict.stickLongAntiMeitnerium.name=长反物质䥑杆
     S:oredict.stickLongAntiMendelevium.name=长反物质钔杆
     S:oredict.stickLongAntiMercury.name=长反物质汞杆
     S:oredict.stickLongAntiMolybdenum.name=长反物质钼杆
@@ -44906,7 +45009,7 @@ languagefile {
     S:oredict.stickLongAntiRadium.name=长反物质镭杆
     S:oredict.stickLongAntiRhenium.name=长反物质铼杆
     S:oredict.stickLongAntiRhodium.name=长反物质铑杆
-    S:oredict.stickLongAntiRoentgenium.name=长反物质𬬭杆
+    S:oredict.stickLongAntiRoentgenium.name=长反物质錀杆
     S:oredict.stickLongAntiRubidium.name=长反物质铷杆
     S:oredict.stickLongAntiRuthenium.name=长反物质钌杆
     S:oredict.stickLongAntiRutherfordium.name=长反物质鑪杆
@@ -45050,8 +45153,8 @@ languagefile {
     S:oredict.stickLongFerrite.name=长铁氧体杆
     S:oredict.stickLongFierySteel.name=长炙热钢杆
     S:oredict.stickLongFirestone.name=长火石杆
-    S:oredict.stickLongFlerovium.name=长𫓧杆
-    S:oredict.stickLongFlerovium298.name=长𫓧-298杆
+    S:oredict.stickLongFlerovium.name=长鈇杆
+    S:oredict.stickLongFlerovium298.name=长鈇-298杆
     S:oredict.stickLongFlint.name=长燧石杆
     S:oredict.stickLongFoolsRuby.name=长红宝石杆
     S:oredict.stickLongForce.name=长力量杆
@@ -45132,7 +45235,7 @@ languagefile {
     S:oredict.stickLongManganese.name=长锰杆
     S:oredict.stickLongManyullyn.name=长玛玉灵杆
     S:oredict.stickLongMarble.name=长大理石杆
-    S:oredict.stickLongMeitnerium.name=长鿏杆
+    S:oredict.stickLongMeitnerium.name=长䥑杆
     S:oredict.stickLongMendelevium.name=长钔杆
     S:oredict.stickLongMercury.name=长汞杆
     S:oredict.stickLongMeteoricIron.name=长陨铁杆
@@ -45205,7 +45308,7 @@ languagefile {
     S:oredict.stickLongRhenium.name=长铼杆
     S:oredict.stickLongRhodium.name=长铑杆
     S:oredict.stickLongRhyolite.name=长流纹岩杆
-    S:oredict.stickLongRoentgenium.name=长𬬭杆
+    S:oredict.stickLongRoentgenium.name=长錀杆
     S:oredict.stickLongRoseGold.name=长玫瑰金杆
     S:oredict.stickLongRubber.name=长橡胶杆
     S:oredict.stickLongRubidium.name=长铷杆
@@ -45312,7 +45415,7 @@ languagefile {
     S:oredict.stickManganese.name=锰杆
     S:oredict.stickManyullyn.name=玛玉灵杆
     S:oredict.stickMarble.name=大理石杆
-    S:oredict.stickMeitnerium.name=鿏杆
+    S:oredict.stickMeitnerium.name=䥑杆
     S:oredict.stickMendelevium.name=钔杆
     S:oredict.stickMercury.name=汞杆
     S:oredict.stickMeteoricIron.name=陨铁杆
@@ -45385,7 +45488,7 @@ languagefile {
     S:oredict.stickRhenium.name=铼杆
     S:oredict.stickRhodium.name=铑杆
     S:oredict.stickRhyolite.name=流纹岩杆
-    S:oredict.stickRoentgenium.name=𬬭杆
+    S:oredict.stickRoentgenium.name=錀杆
     S:oredict.stickRoseGold.name=玫瑰金杆
     S:oredict.stickRubber.name=橡胶杆
     S:oredict.stickRubidium.name=铷杆

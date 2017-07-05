@@ -1,7 +1,7 @@
 # gregtech6-chinese-translate
 GregTech6汉化项目，欢迎加入。
 
-当前适配版本为v6.05.23
+当前适配版本为v6.05.25
 
 原始文件源自Amamiya组、机器的汉化来自空集、感谢Tanimodori的更新与对一堆奇葩问题的修复
 
