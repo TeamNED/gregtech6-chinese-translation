@@ -1,7 +1,7 @@
 # gregtech6-chinese-translate
 GregTech6汉化项目，欢迎加入。
 
-当前适配版本为v6.05.25
+当前适配版本为v6.05.26
 
 原始文件源自Amamiya组、机器的汉化来自空集、感谢Tanimodori的更新与对一堆奇葩问题的修复
 
@@ -19,7 +19,8 @@ I'm so buzy these days, so i may update it after I've done all works >_<
     - [^\=\.\(\-\:]\b"Search_context" --> Find target contexts the first word after "="
     - =\b"Search_context" --> Find target contexts right after "="
     - Just created a script that can based on the translation of words to words (Maybe weird, but IDC! xD)
-
+  - NH4HCr2O7:As the playtester I guarantee that THE STUPID METHOD IS USEFUL SOMETIMES
+  
 ## license
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本汉化项目 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。
 
