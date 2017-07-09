@@ -11671,7 +11671,7 @@ languagefile {
     S:oredict.boltDamascusSteel.name=大马士革钢螺栓
     S:oredict.boltDarkIron.name=玄铁螺栓
     S:oredict.boltDarkSteel.name=玄钢螺栓
-    S:oredict.boltDarkThaumium.name=黑暗神秘锭螺栓
+    S:oredict.boltDarkThaumium.name=黑暗神秘螺栓
     S:oredict.boltDarmstadtium.name=鐽螺栓
     S:oredict.boltDeepIron.name=深渊铁螺栓
     S:oredict.boltDesh.name=戴斯螺栓
@@ -11681,8 +11681,8 @@ languagefile {
     S:oredict.boltDilithium.name=双锂螺栓
     S:oredict.boltDioptase.name=翠铜石螺栓
     S:oredict.boltDiorite.name=闪长岩螺栓
-    S:oredict.boltDraconium.name=龙锭螺栓
-    S:oredict.boltDraconiumAwakened.name=觉醒龙锭螺栓
+    S:oredict.boltDraconium.name=龙螺栓
+    S:oredict.boltDraconiumAwakened.name=觉醒龙螺栓
     S:oredict.boltDubnium.name=𬭊螺栓
     S:oredict.boltDuralumin.name=硬铝合金螺栓
     S:oredict.boltDuranium.name=钍瑞铌螺栓
@@ -11699,7 +11699,7 @@ languagefile {
     S:oredict.boltEmpty.name=空螺栓
     S:oredict.boltEnderEye.name=末影之眼螺栓
     S:oredict.boltEnderPearl.name=末影珍珠螺栓
-    S:oredict.boltEnderium.name=末影锭螺栓
+    S:oredict.boltEnderium.name=末影螺栓
     S:oredict.boltEnderiumBase.name=末影锭粗胚螺栓
     S:oredict.boltEndstone.name=末地石螺栓
     S:oredict.boltEnergeticAlloy.name=充能合金螺栓
@@ -11717,7 +11717,7 @@ languagefile {
     S:oredict.boltFlerovium298.name=鈇-298螺栓
     S:oredict.boltFlint.name=燧石螺栓
     S:oredict.boltFoolsRuby.name=红宝石螺栓
-    S:oredict.boltForce.name=力场螺栓
+    S:oredict.boltForce.name=力量螺栓
     S:oredict.boltForcicium.name=力场螺栓
     S:oredict.boltForcillium.name=力场螺栓
     S:oredict.boltFrancium.name=钫螺栓
@@ -11912,7 +11912,7 @@ languagefile {
     S:oredict.boltTerbium.name=铽螺栓
     S:oredict.boltTerrasteel.name=泰拉钢螺栓
     S:oredict.boltThallium.name=铊螺栓
-    S:oredict.boltThaumium.name=神秘锭螺栓
+    S:oredict.boltThaumium.name=神秘螺栓
     S:oredict.boltThorium.name=钍螺栓
     S:oredict.boltThulium.name=铥螺栓
     S:oredict.boltTin.name=锡螺栓
@@ -24942,11 +24942,11 @@ languagefile {
     S:oredict.ingotDoubleAluminium.name=两重铝锭
     S:oredict.ingotDoubleAluminiumAlloy.name=两重铝合金锭
     S:oredict.ingotDoubleAluminiumBrass.name=两重铝黄铜锭
-    S:oredict.ingotDoubleAlumite.name=两重熔融明矾锭
+    S:oredict.ingotDoubleAlumite.name=两重耐酸铝锭
     S:oredict.ingotDoubleAmericium.name=两重镅锭
     S:oredict.ingotDoubleAmericium241.name=两重镅-241锭
-    S:oredict.ingotDoubleAmordrine.name=两重熔融魔石锭
-    S:oredict.ingotDoubleAngmallen.name=两重液态金铁锭
+    S:oredict.ingotDoubleAmordrine.name=两重魔力之石锭
+    S:oredict.ingotDoubleAngmallen.name=两重神圣之金锭
     S:oredict.ingotDoubleAnnealedCopper.name=两重韧铜锭
     S:oredict.ingotDoubleAntiActinium.name=两重反物质锕锭
     S:oredict.ingotDoubleAntiAdamantium.name=两重反物质艾德曼合金锭
@@ -25086,9 +25086,9 @@ languagefile {
     S:oredict.ingotDoubleCarborundum.name=两重碳化硅锭
     S:oredict.ingotDoubleCarmot.name=两重闪耀金锭
     S:oredict.ingotDoubleCdInAgAlloy.name=两重镉铟银合金锭
-    S:oredict.ingotDoubleCelenegil.name=两重熔融幽冥毒晶锭
+    S:oredict.ingotDoubleCelenegil.name=两重幽冥毒结晶锭
     S:oredict.ingotDoubleCerium.name=两重铈锭
-    S:oredict.ingotDoubleCeruclase.name=两重影秘银锭
+    S:oredict.ingotDoubleCeruclase.name=两重暗影秘银锭
     S:oredict.ingotDoubleChromium.name=两重铬锭
     S:oredict.ingotDoubleChromiumDioxide.name=两重二氧化铬锭
     S:oredict.ingotDoubleCobalt.name=两重钴锭
@@ -25123,7 +25123,7 @@ languagefile {
     S:oredict.ingotDoubleElvenElementium.name=两重精灵原质锭
     S:oredict.ingotDoubleEmpty.name=两重空锭
     S:oredict.ingotDoubleEnderium.name=两重末影锭
-    S:oredict.ingotDoubleEnderiumBase.name=两重末影粗胚锭
+    S:oredict.ingotDoubleEnderiumBase.name=两重末影锭粗胚锭
     S:oredict.ingotDoubleEnergeticAlloy.name=两重充能合金锭
     S:oredict.ingotDoubleErbium.name=两重铒锭
     S:oredict.ingotDoubleEuropium.name=两重铕锭
@@ -25797,11 +25797,11 @@ languagefile {
     S:oredict.ingotQuadrupleAluminium.name=四重铝锭
     S:oredict.ingotQuadrupleAluminiumAlloy.name=四重铝合金锭
     S:oredict.ingotQuadrupleAluminiumBrass.name=四重铝黄铜锭
-    S:oredict.ingotQuadrupleAlumite.name=四重熔融明矾锭
+    S:oredict.ingotQuadrupleAlumite.name=四重耐酸铝锭
     S:oredict.ingotQuadrupleAmericium.name=四重镅锭
     S:oredict.ingotQuadrupleAmericium241.name=四重镅-241锭
-    S:oredict.ingotQuadrupleAmordrine.name=四重熔融魔石锭
-    S:oredict.ingotQuadrupleAngmallen.name=四重液态金铁锭
+    S:oredict.ingotQuadrupleAmordrine.name=四重魔力之石锭
+    S:oredict.ingotQuadrupleAngmallen.name=四重神圣之金锭
     S:oredict.ingotQuadrupleAnnealedCopper.name=四重韧铜锭
     S:oredict.ingotQuadrupleAntiActinium.name=四重反物质锕锭
     S:oredict.ingotQuadrupleAntiAdamantium.name=四重反物质艾德曼合金锭
@@ -25941,9 +25941,9 @@ languagefile {
     S:oredict.ingotQuadrupleCarborundum.name=四重碳化硅锭
     S:oredict.ingotQuadrupleCarmot.name=四重闪耀金锭
     S:oredict.ingotQuadrupleCdInAgAlloy.name=四重镉铟银合金锭
-    S:oredict.ingotQuadrupleCelenegil.name=四重熔融幽冥毒晶锭
+    S:oredict.ingotQuadrupleCelenegil.name=四重幽冥毒结晶锭
     S:oredict.ingotQuadrupleCerium.name=四重铈锭
-    S:oredict.ingotQuadrupleCeruclase.name=四重影秘银锭
+    S:oredict.ingotQuadrupleCeruclase.name=四重暗影秘银锭
     S:oredict.ingotQuadrupleChromium.name=四重铬锭
     S:oredict.ingotQuadrupleChromiumDioxide.name=四重二氧化铬锭
     S:oredict.ingotQuadrupleCobalt.name=四重钴锭
@@ -25978,7 +25978,7 @@ languagefile {
     S:oredict.ingotQuadrupleElvenElementium.name=四重精灵原质锭
     S:oredict.ingotQuadrupleEmpty.name=四重空锭
     S:oredict.ingotQuadrupleEnderium.name=四重末影锭
-    S:oredict.ingotQuadrupleEnderiumBase.name=四重末影粗胚锭
+    S:oredict.ingotQuadrupleEnderiumBase.name=四重末影锭粗胚锭
     S:oredict.ingotQuadrupleEnergeticAlloy.name=四重充能合金锭
     S:oredict.ingotQuadrupleErbium.name=四重铒锭
     S:oredict.ingotQuadrupleEuropium.name=四重铕锭
@@ -26167,12 +26167,12 @@ languagefile {
     S:oredict.ingotQuintupleAlduorite.name=五重神秘蓝金锭
     S:oredict.ingotQuintupleAluminium.name=五重铝锭
     S:oredict.ingotQuintupleAluminiumAlloy.name=五重铝合金锭
-    S:oredict.ingotQuintupleAluminiumBrass.name=五重黄铜锭
-    S:oredict.ingotQuintupleAlumite.name=五重熔融明矾锭
+    S:oredict.ingotQuintupleAluminiumBrass.name=五重铝黄铜锭
+    S:oredict.ingotQuintupleAlumite.name=五重耐酸铝锭
     S:oredict.ingotQuintupleAmericium.name=五重镅锭
     S:oredict.ingotQuintupleAmericium241.name=五重镅-241锭
-    S:oredict.ingotQuintupleAmordrine.name=五重熔融魔石锭
-    S:oredict.ingotQuintupleAngmallen.name=五重液态金铁锭
+    S:oredict.ingotQuintupleAmordrine.name=五重魔力之石锭
+    S:oredict.ingotQuintupleAngmallen.name=五重神圣之金锭
     S:oredict.ingotQuintupleAnnealedCopper.name=五重韧铜锭
     S:oredict.ingotQuintupleAntiActinium.name=五重反物质锕锭
     S:oredict.ingotQuintupleAntiAdamantium.name=五重反物质艾德曼合金锭
@@ -26301,7 +26301,7 @@ languagefile {
     S:oredict.ingotQuintupleBlackSteel.name=五重碳钢锭
     S:oredict.ingotQuintupleBlueAlloy.name=五重蓝石合金锭
     S:oredict.ingotQuintupleBlueSteel.name=五重蓝钢锭
-    S:oredict.ingotQuintupleBlutonium.name=五重钚锭
+    S:oredict.ingotQuintupleBlutonium.name=五重蓝钚锭
     S:oredict.ingotQuintupleBohrium.name=五重𬭛锭
     S:oredict.ingotQuintupleBoron.name=五重硼锭
     S:oredict.ingotQuintupleBrass.name=五重黄铜锭
@@ -26312,9 +26312,9 @@ languagefile {
     S:oredict.ingotQuintupleCarborundum.name=五重碳化硅锭
     S:oredict.ingotQuintupleCarmot.name=五重闪耀金锭
     S:oredict.ingotQuintupleCdInAgAlloy.name=五重镉铟银合金锭
-    S:oredict.ingotQuintupleCelenegil.name=五重熔融幽冥毒晶锭
+    S:oredict.ingotQuintupleCelenegil.name=五重幽冥毒结晶锭
     S:oredict.ingotQuintupleCerium.name=五重铈锭
-    S:oredict.ingotQuintupleCeruclase.name=五重影秘银锭
+    S:oredict.ingotQuintupleCeruclase.name=五重暗影秘银锭
     S:oredict.ingotQuintupleChromium.name=五重铬锭
     S:oredict.ingotQuintupleChromiumDioxide.name=五重二氧化铬锭
     S:oredict.ingotQuintupleCobalt.name=五重钴锭
@@ -26326,7 +26326,7 @@ languagefile {
     S:oredict.ingotQuintupleCopper.name=五重铜锭
     S:oredict.ingotQuintupleCupronickel.name=五重白铜锭
     S:oredict.ingotQuintupleCurium.name=五重锔锭
-    S:oredict.ingotQuintupleCyanite.name=五重晶石锭
+    S:oredict.ingotQuintupleCyanite.name=五重蓝晶石锭
     S:oredict.ingotQuintupleDamascusSteel.name=五重大马士革钢锭
     S:oredict.ingotQuintupleDarkIron.name=五重玄铁锭
     S:oredict.ingotQuintupleDarkSteel.name=五重玄钢锭
@@ -26349,7 +26349,7 @@ languagefile {
     S:oredict.ingotQuintupleElvenElementium.name=五重精灵原质锭
     S:oredict.ingotQuintupleEmpty.name=五重空锭
     S:oredict.ingotQuintupleEnderium.name=五重末影锭
-    S:oredict.ingotQuintupleEnderiumBase.name=五重末影粗胚锭
+    S:oredict.ingotQuintupleEnderiumBase.name=五重末影锭粗胚锭
     S:oredict.ingotQuintupleEnergeticAlloy.name=五重充能合金锭
     S:oredict.ingotQuintupleErbium.name=五重铒锭
     S:oredict.ingotQuintupleEuropium.name=五重铕锭
@@ -26369,7 +26369,7 @@ languagefile {
     S:oredict.ingotQuintupleGlowstoneRefined.name=五重精致萤石锭
     S:oredict.ingotQuintupleGold.name=五重金锭
     S:oredict.ingotQuintupleGoldInductive.name=五重感应合金锭
-    S:oredict.ingotQuintupleHSLASpringSteel.name=五重簧钢锭
+    S:oredict.ingotQuintupleHSLASpringSteel.name=五重弹簧钢锭
     S:oredict.ingotQuintupleHSLASteel.name=五重HSLA钢锭
     S:oredict.ingotQuintupleHaderoth.name=五重幻之铜锭
     S:oredict.ingotQuintupleHafnium.name=五重铪锭
@@ -26453,7 +26453,7 @@ languagefile {
     S:oredict.ingotQuintupleRadium.name=五重镭锭
     S:oredict.ingotQuintupleRedAlloy.name=五重红色合金锭
     S:oredict.ingotQuintupleRedSteel.name=五重红钢锭
-    S:oredict.ingotQuintupleRedstoneAlloy.name=五重硅锭
+    S:oredict.ingotQuintupleRedstoneAlloy.name=五重红硅(红石合金)锭
     S:oredict.ingotQuintupleRhenium.name=五重铼锭
     S:oredict.ingotQuintupleRhodium.name=五重铑锭
     S:oredict.ingotQuintupleRoentgenium.name=五重錀锭
@@ -26590,11 +26590,11 @@ languagefile {
     S:oredict.ingotTripleAluminium.name=三重铝锭
     S:oredict.ingotTripleAluminiumAlloy.name=三重铝合金锭
     S:oredict.ingotTripleAluminiumBrass.name=三重铝黄铜锭
-    S:oredict.ingotTripleAlumite.name=三重熔融明矾锭
+    S:oredict.ingotTripleAlumite.name=三重耐酸铝锭
     S:oredict.ingotTripleAmericium.name=三重镅锭
     S:oredict.ingotTripleAmericium241.name=三重镅-241锭
-    S:oredict.ingotTripleAmordrine.name=三重熔融魔石锭
-    S:oredict.ingotTripleAngmallen.name=三重液态金铁锭
+    S:oredict.ingotTripleAmordrine.name=三重魔力之石锭
+    S:oredict.ingotTripleAngmallen.name=三重神圣之金锭
     S:oredict.ingotTripleAnnealedCopper.name=三重韧铜锭
     S:oredict.ingotTripleAntiActinium.name=三重反物质锕锭
     S:oredict.ingotTripleAntiAdamantium.name=三重反物质艾德曼合金锭
@@ -26734,9 +26734,9 @@ languagefile {
     S:oredict.ingotTripleCarborundum.name=三重碳化硅锭
     S:oredict.ingotTripleCarmot.name=三重闪耀金锭
     S:oredict.ingotTripleCdInAgAlloy.name=三重镉铟银合金锭
-    S:oredict.ingotTripleCelenegil.name=三重熔融幽冥毒晶锭
+    S:oredict.ingotTripleCelenegil.name=三重幽冥毒结晶锭
     S:oredict.ingotTripleCerium.name=三重铈锭
-    S:oredict.ingotTripleCeruclase.name=三重影秘银锭
+    S:oredict.ingotTripleCeruclase.name=三重暗影秘银锭
     S:oredict.ingotTripleChromium.name=三重铬锭
     S:oredict.ingotTripleChromiumDioxide.name=三重二氧化铬锭
     S:oredict.ingotTripleCobalt.name=三重钴锭
@@ -26771,7 +26771,7 @@ languagefile {
     S:oredict.ingotTripleElvenElementium.name=三重精灵原质锭
     S:oredict.ingotTripleEmpty.name=三重空锭
     S:oredict.ingotTripleEnderium.name=三重末影锭
-    S:oredict.ingotTripleEnderiumBase.name=三重末影粗胚锭
+    S:oredict.ingotTripleEnderiumBase.name=三重末影锭粗胚锭
     S:oredict.ingotTripleEnergeticAlloy.name=三重充能合金锭
     S:oredict.ingotTripleErbium.name=三重铒锭
     S:oredict.ingotTripleEuropium.name=三重铕锭
@@ -27372,13 +27372,13 @@ languagefile {
     S:oredict.nuggetDamascusSteel.name=大马士革钢粒
     S:oredict.nuggetDarkIron.name=玄铁粒
     S:oredict.nuggetDarkSteel.name=玄钢粒
-    S:oredict.nuggetDarkThaumium.name=黑暗神秘锭粒
+    S:oredict.nuggetDarkThaumium.name=黑暗神秘粒
     S:oredict.nuggetDarmstadtium.name=鐽粒
     S:oredict.nuggetDeepIron.name=深渊铁粒
     S:oredict.nuggetDesh.name=戴斯粒
     S:oredict.nuggetDesichalkos.name=虚空之魂石粒
-    S:oredict.nuggetDraconium.name=龙锭粒
-    S:oredict.nuggetDraconiumAwakened.name=觉醒龙锭粒
+    S:oredict.nuggetDraconium.name=龙粒
+    S:oredict.nuggetDraconiumAwakened.name=觉醒龙粒
     S:oredict.nuggetDubnium.name=𬭊粒
     S:oredict.nuggetDuralumin.name=硬铝合金粒
     S:oredict.nuggetDuranium.name=钍瑞铌粒
@@ -27390,7 +27390,7 @@ languagefile {
     S:oredict.nuggetElectrumFlux.name=熔融琥珀金粒
     S:oredict.nuggetElvenElementium.name=精灵原质粒
     S:oredict.nuggetEmpty.name=空粒
-    S:oredict.nuggetEnderium.name=末影锭粒
+    S:oredict.nuggetEnderium.name=末影粒
     S:oredict.nuggetEnderiumBase.name=末影锭粗胚粒
     S:oredict.nuggetEnergeticAlloy.name=充能合金粒
     S:oredict.nuggetErbium.name=铒粒
@@ -27405,7 +27405,7 @@ languagefile {
     S:oredict.nuggetFishRotten.name=烂鱼肉粒
     S:oredict.nuggetFlerovium.name=鈇粒
     S:oredict.nuggetFlerovium298.name=鈇-298粒
-    S:oredict.nuggetForce.name=力场粒
+    S:oredict.nuggetForce.name=力量粒
     S:oredict.nuggetFrancium.name=钫粒
     S:oredict.nuggetGadolinium.name=钆粒
     S:oredict.nuggetGallium.name=镓粒
@@ -27540,7 +27540,7 @@ languagefile {
     S:oredict.nuggetTerbium.name=铽粒
     S:oredict.nuggetTerrasteel.name=泰拉钢粒
     S:oredict.nuggetThallium.name=铊粒
-    S:oredict.nuggetThaumium.name=神秘锭粒
+    S:oredict.nuggetThaumium.name=神秘粒
     S:oredict.nuggetThorium.name=钍粒
     S:oredict.nuggetThulium.name=铥粒
     S:oredict.nuggetTin.name=锡粒
@@ -27818,7 +27818,7 @@ languagefile {
     S:oredict.oreAndesiteDioptase.name=安山岩翠铜石矿石
     S:oredict.oreAndesiteDolamide.name=安山岩酰胺矿石
     S:oredict.oreAndesiteDolomite.name=安山岩白云岩矿石
-    S:oredict.oreAndesiteDraconium.name=安山岩龙锭矿石
+    S:oredict.oreAndesiteDraconium.name=安山岩龙矿石
     S:oredict.oreAndesiteDubnium.name=安山岩𬭊矿石
     S:oredict.oreAndesiteDuraniumElemental.name=安山岩钍瑞铌矿石
     S:oredict.oreAndesiteDuraniumHexaastatide.name=安山岩六酰化钍瑞铌矿石
@@ -27845,7 +27845,7 @@ languagefile {
     S:oredict.oreAndesiteFlerovium298.name=安山岩鈇-298矿石
     S:oredict.oreAndesiteFluorine.name=安山岩氟矿石
     S:oredict.oreAndesiteFluorite.name=安山岩萤石矿石
-    S:oredict.oreAndesiteForce.name=安山岩力场矿石
+    S:oredict.oreAndesiteForce.name=安山岩力量矿石
     S:oredict.oreAndesiteForcicium.name=安山岩力场矿石
     S:oredict.oreAndesiteForcillium.name=安山岩力场矿石
     S:oredict.oreAndesiteFrancium.name=安山岩钫矿石
@@ -29962,7 +29962,7 @@ languagefile {
     S:oredict.oreDioriteDioptase.name=闪长岩翠铜石矿石
     S:oredict.oreDioriteDolamide.name=闪长岩酰胺矿石
     S:oredict.oreDioriteDolomite.name=闪长岩白云岩矿石
-    S:oredict.oreDioriteDraconium.name=闪长岩龙锭矿石
+    S:oredict.oreDioriteDraconium.name=闪长岩龙矿石
     S:oredict.oreDioriteDubnium.name=闪长岩𬭊矿石
     S:oredict.oreDioriteDuraniumElemental.name=闪长岩钍瑞铌矿石
     S:oredict.oreDioriteDuraniumHexaastatide.name=闪长岩六酰化钍瑞铌矿石
@@ -29989,7 +29989,7 @@ languagefile {
     S:oredict.oreDioriteFlerovium298.name=闪长岩鈇-298矿石
     S:oredict.oreDioriteFluorine.name=闪长岩氟矿石
     S:oredict.oreDioriteFluorite.name=闪长岩萤石矿石
-    S:oredict.oreDioriteForce.name=闪长岩力场矿石
+    S:oredict.oreDioriteForce.name=闪长岩力量矿石
     S:oredict.oreDioriteForcicium.name=闪长岩力场矿石
     S:oredict.oreDioriteForcillium.name=闪长岩力场矿石
     S:oredict.oreDioriteFrancium.name=闪长岩钫矿石
@@ -36125,7 +36125,7 @@ languagefile {
     S:oredict.plantGtBerryDarkAshes.name=黑色灰烬梅
     S:oredict.plantGtBerryDarkIron.name=玄铁梅
     S:oredict.plantGtBerryDarkSteel.name=玄钢梅
-    S:oredict.plantGtBerryDarkThaumium.name=黑暗神秘锭梅
+    S:oredict.plantGtBerryDarkThaumium.name=黑暗神秘梅
     S:oredict.plantGtBerryDarmstadtium.name=鐽梅
     S:oredict.plantGtBerryDatolite.name=硅钙硼石梅
     S:oredict.plantGtBerryDeepIron.name=深渊铁梅
@@ -36141,8 +36141,8 @@ languagefile {
     S:oredict.plantGtBerryDiorite.name=闪长岩梅
     S:oredict.plantGtBerryDolamide.name=酰胺梅
     S:oredict.plantGtBerryDolomite.name=白云岩梅
-    S:oredict.plantGtBerryDraconium.name=龙锭梅
-    S:oredict.plantGtBerryDraconiumAwakened.name=觉醒龙锭梅
+    S:oredict.plantGtBerryDraconium.name=龙梅
+    S:oredict.plantGtBerryDraconiumAwakened.name=觉醒龙梅
     S:oredict.plantGtBerryDubnium.name=𬭊梅
     S:oredict.plantGtBerryDuralumin.name=硬铝合金梅
     S:oredict.plantGtBerryDuranium.name=钍瑞铌梅
@@ -36169,7 +36169,7 @@ languagefile {
     S:oredict.plantGtBerryEmpty.name=空梅
     S:oredict.plantGtBerryEnderEye.name=末影之眼梅
     S:oredict.plantGtBerryEnderPearl.name=末影珍珠梅
-    S:oredict.plantGtBerryEnderium.name=末影锭梅
+    S:oredict.plantGtBerryEnderium.name=末影梅
     S:oredict.plantGtBerryEnderiumBase.name=末影锭粗胚梅
     S:oredict.plantGtBerryEndstone.name=末地石梅
     S:oredict.plantGtBerryEnergeticAlloy.name=充能合金梅
@@ -36195,7 +36195,7 @@ languagefile {
     S:oredict.plantGtBerryFluorine.name=氟梅
     S:oredict.plantGtBerryFluorite.name=萤石梅
     S:oredict.plantGtBerryFoolsRuby.name=红宝石梅
-    S:oredict.plantGtBerryForce.name=力场梅
+    S:oredict.plantGtBerryForce.name=力量梅
     S:oredict.plantGtBerryForcicium.name=力场梅
     S:oredict.plantGtBerryForcillium.name=力场梅
     S:oredict.plantGtBerryFrancium.name=钫梅
@@ -36564,7 +36564,7 @@ languagefile {
     S:oredict.plantGtBerryTeslatite.name=特斯拉金属梅
     S:oredict.plantGtBerryTetrahedrite.name=黝铜矿梅
     S:oredict.plantGtBerryThallium.name=铊梅
-    S:oredict.plantGtBerryThaumium.name=神秘锭梅
+    S:oredict.plantGtBerryThaumium.name=神秘梅
     S:oredict.plantGtBerryThorium.name=钍梅
     S:oredict.plantGtBerryThulium.name=铥梅
     S:oredict.plantGtBerryTin.name=锡梅
@@ -36939,7 +36939,7 @@ languagefile {
     S:oredict.plantGtBlossomDarkAshes.name=黑色灰烬花
     S:oredict.plantGtBlossomDarkIron.name=玄铁花
     S:oredict.plantGtBlossomDarkSteel.name=玄钢花
-    S:oredict.plantGtBlossomDarkThaumium.name=黑暗神秘锭花
+    S:oredict.plantGtBlossomDarkThaumium.name=黑暗神秘花
     S:oredict.plantGtBlossomDarmstadtium.name=鐽花
     S:oredict.plantGtBlossomDatolite.name=硅钙硼石花
     S:oredict.plantGtBlossomDeepIron.name=深渊铁花
@@ -36955,8 +36955,8 @@ languagefile {
     S:oredict.plantGtBlossomDiorite.name=闪长岩花
     S:oredict.plantGtBlossomDolamide.name=酰胺花
     S:oredict.plantGtBlossomDolomite.name=白云岩花
-    S:oredict.plantGtBlossomDraconium.name=龙锭花
-    S:oredict.plantGtBlossomDraconiumAwakened.name=觉醒龙锭花
+    S:oredict.plantGtBlossomDraconium.name=龙花
+    S:oredict.plantGtBlossomDraconiumAwakened.name=觉醒龙花
     S:oredict.plantGtBlossomDubnium.name=𬭊花
     S:oredict.plantGtBlossomDuralumin.name=硬铝合金花
     S:oredict.plantGtBlossomDuranium.name=钍瑞铌花
@@ -36983,7 +36983,7 @@ languagefile {
     S:oredict.plantGtBlossomEmpty.name=空花
     S:oredict.plantGtBlossomEnderEye.name=末影之眼花
     S:oredict.plantGtBlossomEnderPearl.name=末影珍珠花
-    S:oredict.plantGtBlossomEnderium.name=末影锭花
+    S:oredict.plantGtBlossomEnderium.name=末影花
     S:oredict.plantGtBlossomEnderiumBase.name=末影锭粗胚花
     S:oredict.plantGtBlossomEndstone.name=末地石花
     S:oredict.plantGtBlossomEnergeticAlloy.name=充能合金花
@@ -37009,7 +37009,7 @@ languagefile {
     S:oredict.plantGtBlossomFluorine.name=氟花
     S:oredict.plantGtBlossomFluorite.name=萤石花
     S:oredict.plantGtBlossomFoolsRuby.name=红宝石花
-    S:oredict.plantGtBlossomForce.name=力场花
+    S:oredict.plantGtBlossomForce.name=力量花
     S:oredict.plantGtBlossomForcicium.name=力场花
     S:oredict.plantGtBlossomForcillium.name=力场花
     S:oredict.plantGtBlossomFrancium.name=钫花
@@ -37377,7 +37377,7 @@ languagefile {
     S:oredict.plantGtBlossomTeslatite.name=特斯拉金属花
     S:oredict.plantGtBlossomTetrahedrite.name=黝铜矿花
     S:oredict.plantGtBlossomThallium.name=铊花
-    S:oredict.plantGtBlossomThaumium.name=神秘锭花
+    S:oredict.plantGtBlossomThaumium.name=神秘花
     S:oredict.plantGtBlossomThorium.name=钍花
     S:oredict.plantGtBlossomThulium.name=铥花
     S:oredict.plantGtBlossomTin.name=锡花
@@ -37752,7 +37752,7 @@ languagefile {
     S:oredict.plantGtFiberDarkAshes.name=粗糙的黑色灰烬纤维
     S:oredict.plantGtFiberDarkIron.name=粗糙的玄铁纤维
     S:oredict.plantGtFiberDarkSteel.name=粗糙的玄钢纤维
-    S:oredict.plantGtFiberDarkThaumium.name=粗糙的黑暗神秘锭纤维
+    S:oredict.plantGtFiberDarkThaumium.name=粗糙的黑暗神秘纤维
     S:oredict.plantGtFiberDarmstadtium.name=粗糙的鐽纤维
     S:oredict.plantGtFiberDatolite.name=粗糙的硅钙硼石纤维
     S:oredict.plantGtFiberDeepIron.name=粗糙的深渊铁纤维
@@ -37768,8 +37768,8 @@ languagefile {
     S:oredict.plantGtFiberDiorite.name=粗糙的闪长岩纤维
     S:oredict.plantGtFiberDolamide.name=粗糙的酰胺纤维
     S:oredict.plantGtFiberDolomite.name=粗糙的白云岩纤维
-    S:oredict.plantGtFiberDraconium.name=粗糙的龙锭纤维
-    S:oredict.plantGtFiberDraconiumAwakened.name=粗糙的觉醒龙锭纤维
+    S:oredict.plantGtFiberDraconium.name=粗糙的龙纤维
+    S:oredict.plantGtFiberDraconiumAwakened.name=粗糙的觉醒龙纤维
     S:oredict.plantGtFiberDubnium.name=粗糙的𬭊纤维
     S:oredict.plantGtFiberDuralumin.name=粗糙的硬铝合金纤维
     S:oredict.plantGtFiberDuranium.name=粗糙的钍瑞铌纤维
@@ -37796,7 +37796,7 @@ languagefile {
     S:oredict.plantGtFiberEmpty.name=粗糙的空纤维
     S:oredict.plantGtFiberEnderEye.name=粗糙的末影之眼纤维
     S:oredict.plantGtFiberEnderPearl.name=粗糙的末影珍珠纤维
-    S:oredict.plantGtFiberEnderium.name=粗糙的末影锭纤维
+    S:oredict.plantGtFiberEnderium.name=粗糙的末影纤维
     S:oredict.plantGtFiberEnderiumBase.name=粗糙的末影锭粗胚纤维
     S:oredict.plantGtFiberEndstone.name=粗糙的末地石纤维
     S:oredict.plantGtFiberEnergeticAlloy.name=粗糙的充能合金纤维
@@ -37822,7 +37822,7 @@ languagefile {
     S:oredict.plantGtFiberFluorine.name=粗糙的氟纤维
     S:oredict.plantGtFiberFluorite.name=粗糙的萤石纤维
     S:oredict.plantGtFiberFoolsRuby.name=粗糙的红宝石纤维
-    S:oredict.plantGtFiberForce.name=粗糙的力场纤维
+    S:oredict.plantGtFiberForce.name=粗糙的力量纤维
     S:oredict.plantGtFiberForcicium.name=粗糙的力场纤维
     S:oredict.plantGtFiberForcillium.name=粗糙的力场纤维
     S:oredict.plantGtFiberFrancium.name=粗糙的钫纤维
@@ -38190,7 +38190,7 @@ languagefile {
     S:oredict.plantGtFiberTeslatite.name=粗糙的特斯拉金属纤维
     S:oredict.plantGtFiberTetrahedrite.name=粗糙的黝铜矿纤维
     S:oredict.plantGtFiberThallium.name=粗糙的铊纤维
-    S:oredict.plantGtFiberThaumium.name=粗糙的神秘锭纤维
+    S:oredict.plantGtFiberThaumium.name=粗糙的神秘纤维
     S:oredict.plantGtFiberThorium.name=粗糙的钍纤维
     S:oredict.plantGtFiberThulium.name=粗糙的铥纤维
     S:oredict.plantGtFiberTin.name=粗糙的锡纤维
@@ -44985,7 +44985,7 @@ languagefile {
     S:oredict.screwDamascusSteel.name=大马士革钢螺丝
     S:oredict.screwDarkIron.name=玄铁螺丝
     S:oredict.screwDarkSteel.name=玄钢螺丝
-    S:oredict.screwDarkThaumium.name=黑暗神秘锭螺丝
+    S:oredict.screwDarkThaumium.name=黑暗神秘螺丝
     S:oredict.screwDarmstadtium.name=鐽螺丝
     S:oredict.screwDeepIron.name=深渊铁螺丝
     S:oredict.screwDesh.name=戴斯螺丝
@@ -44995,8 +44995,8 @@ languagefile {
     S:oredict.screwDilithium.name=双锂螺丝
     S:oredict.screwDioptase.name=翠铜石螺丝
     S:oredict.screwDiorite.name=闪长岩螺丝
-    S:oredict.screwDraconium.name=龙锭螺丝
-    S:oredict.screwDraconiumAwakened.name=觉醒龙锭螺丝
+    S:oredict.screwDraconium.name=龙螺丝
+    S:oredict.screwDraconiumAwakened.name=觉醒龙螺丝
     S:oredict.screwDubnium.name=𬭊螺丝
     S:oredict.screwDuralumin.name=硬铝合金螺丝
     S:oredict.screwDuranium.name=钍瑞铌螺丝
@@ -45013,7 +45013,7 @@ languagefile {
     S:oredict.screwEmpty.name=空螺丝
     S:oredict.screwEnderEye.name=末影之眼螺丝
     S:oredict.screwEnderPearl.name=末影珍珠螺丝
-    S:oredict.screwEnderium.name=末影锭螺丝
+    S:oredict.screwEnderium.name=末影螺丝
     S:oredict.screwEnderiumBase.name=末影锭粗胚螺丝
     S:oredict.screwEndstone.name=末地石螺丝
     S:oredict.screwEnergeticAlloy.name=充能合金螺丝
@@ -45031,7 +45031,7 @@ languagefile {
     S:oredict.screwFlerovium298.name=鈇-298螺丝
     S:oredict.screwFlint.name=燧石螺丝
     S:oredict.screwFoolsRuby.name=红宝石螺丝
-    S:oredict.screwForce.name=力场螺丝
+    S:oredict.screwForce.name=力量螺丝
     S:oredict.screwForcicium.name=力场螺丝
     S:oredict.screwForcillium.name=力场螺丝
     S:oredict.screwFrancium.name=钫螺丝
@@ -45225,7 +45225,7 @@ languagefile {
     S:oredict.screwTerbium.name=铽螺丝
     S:oredict.screwTerrasteel.name=泰拉钢螺丝
     S:oredict.screwThallium.name=铊螺丝
-    S:oredict.screwThaumium.name=神秘锭螺丝
+    S:oredict.screwThaumium.name=神秘螺丝
     S:oredict.screwThorium.name=钍螺丝
     S:oredict.screwThulium.name=铥螺丝
     S:oredict.screwTin.name=锡螺丝
