@@ -4,5 +4,35 @@
         "value":"(.+) Blossom",
         "repl":"\\1花",
         "priority":1000
+    },
+    {
+        "name":"oredict.plantGtBerry.+",
+        "value":"(.+) Berry",
+        "repl":"\\1梅",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plantGtFiber.+",
+        "value":"Raw (.+) Fiber",
+        "repl":"粗糙的\\1纤维",
+        "priority":1000
+    },
+    {
+        "name":"oredict.bolt.+",
+        "value":"(.+) Bolt",
+        "repl":"\\1螺栓",
+        "priority":1000
+    },
+    {
+        "name":"oredict.screw.+",
+        "value":"(.+) Screw",
+        "repl":"\\1螺丝",
+        "priority":1000
+    },
+    {
+        "name":"oredict.oreAndesit.+",
+        "value":"Andesite (.+) Ore",
+        "repl":"安山岩\\1矿石",
+        "priority":1000
     }
 ]

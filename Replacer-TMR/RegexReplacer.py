@@ -8,16 +8,16 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout.detach()) # utf-8 output
 
 TranslatedPath='Translated-GregTech.lang' # Filepath of currently translated GregTech.lang
 OriginalPath='Original-GregTech.lang'  # Filepath of original GregTech.lang
-OutputPath='Output-GregTech.lang'     # Filepath of output GregTech.lang
+OutputPath='GregTech.lang'     # Filepath of output GregTech.lang
 GlossaryPath='glossary.json'   # Filepath of glossary, auto-create if not exist
 PatternPath='patterns.json'    # Filepath of regex patterns
 
 # Settings
 
-DeleteObsoleteItem=True          # To delete item only exist in translated file
-RespectTranslated=True           # To Use translated translations instead of the processed ones
+DeleteObsoleteItem=False          # To delete item only exist in translated file - Must be False
+RespectTranslated=False           # To Use translated translations instead of the processed ones
 AllowPartlyTranslation=False      # To allow unknown mainWord in translation
-LearnGlossary=True               # To learn Glossary
+LearnGlossary=True                # To learn Glossary
 
 class langFile:
     def __init__(self,data):
@@ -141,23 +141,35 @@ if __name__ == '__main__':
 
     # Replacement
     cnt=0
-    for item in sorted(_ori.data.items(),key=lambda x:x[1][1]):
-        translated=_old.data.get(item[0])
-        if translated is not None:
-            del _old.data[item[0]]
-            if RespectTranslated:
-                _new.data[item[0]]=(translated[0],cnt)
-                cnt+=1
-                continue
-        processed=pattern.process(item,translated)
-        _new.data[item[0]]=(processed,cnt)
-        cnt+=1
-    if not DeleteObsoleteItem:
-        for item in _old.data.items():
-            _new.data[item[0]]=(item[1][0],cnt)
+    if DeleteObsoleteItem:
+        entries=sorted(_ori.data.items(),key=lambda x:x[1][1])
+        for item in entries:
+            translated=_old.data.get(item[0])
+            if translated is not None:
+                if RespectTranslated:
+                    _new.data[item[0]]=(translated[0],cnt)
+                    cnt+=1
+                    continue
+            processed=pattern.process(item,translated)
+            _new.data[item[0]]=(processed,cnt)
             cnt+=1
+    else:
+        if RespectTranslated:
+            _new=_old
+        else:
+            entries=sorted(_old.data.items(),key=lambda x:x[1][1])
+            for translated in entries:
+                item=_ori.data.get(translated[0])
+                if item is not None:
+                    processed=pattern.process((translated[0],(item[0],0)),translated[1])
+                    _new.data[translated[0]]=(processed,cnt)
+                    cnt+=1
+                    continue
+                else:
+                    _new.data[translated[0]]=(translated[1][0],cnt)
+                    cnt+=1
+
     _new.save(OutputPath)
     with open(GlossaryPath,'w',encoding='utf-8') as f:
-        #json.dumps(pattern.glossary,f,ensure_ascii=False,sort_keys=True)
         json.dump(pattern.glossary,f,ensure_ascii=False,sort_keys=True,indent=4)
     
