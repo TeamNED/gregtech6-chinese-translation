@@ -1,0 +1,8 @@
+[
+    {
+        "name":"oredict.plantGtBlossom.+",
+        "value":"(.+) Blossom",
+        "repl":"\\1花",
+        "priority":1000
+    }
+]

@@ -750,7 +750,7 @@ languagefile {
     S:gt.behaviour.removerspray.tooltip=右键清除建筑泡沫
     S:gt.behaviour.removerspray.uses=剩余使用次数:
     S:gt.behaviour.scanning=Can scan Blocks in World
-    S:gt.behaviour.scoop=左键扑捉蝴蝶
+    S:gt.behaviour.scoop=左键捕捉蝴蝶
     S:gt.behaviour.shears=注意不要拿着它到处乱跑
     S:gt.behaviour.singleuse=一次性使用
     S:gt.behaviour.tripwirecutting=左键拆除绊线
