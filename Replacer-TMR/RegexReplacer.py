@@ -63,7 +63,6 @@ class pattern:
         processPatterns=sorted(filter(lambda x:x.nameRegex.match(item[0]) is not None,pattern.instances),key=lambda x:x.priority,reverse=True)
         if len(processPatterns)>0:
             mainWord=''
-
             if LearnGlossary:
                 if translated is None:
                     canLearnGlossary=False

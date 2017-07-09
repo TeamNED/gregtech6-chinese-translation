@@ -34,5 +34,53 @@
         "value":"Andesite (.+) Ore",
         "repl":"安山岩\\1矿石",
         "priority":1000
+    },
+    {
+        "name":"oredict.oreDiorite.+",
+        "value":"Diorite (.+) Ore",
+        "repl":"闪长岩\\1矿石",
+        "priority":1000
+    },
+    {
+        "name":"oredict.oreAndesit.+",
+        "value":"Andesite (.+)",
+        "repl":"安山岩\\1矿石",
+        "priority":999
+    },
+    {
+        "name":"oredict.oreDiorite.+",
+        "value":"Diorite (.+)",
+        "repl":"闪长岩\\1矿石",
+        "priority":999
+    },
+    {
+        "name":"oredict.nugget.+",
+        "value":"(.+) Nugget",
+        "repl":"\\1粒",
+        "priority":1000
+    },
+    {
+        "name":"oredict.ingotDouble.+",
+        "value":"Double (.+) Ingot",
+        "repl":"两重\\1锭",
+        "priority":1000
+    },
+    {
+        "name":"oredict.ingotTriple.+",
+        "value":"Triple (.+) Ingot",
+        "repl":"三重\\1锭",
+        "priority":1000
+    },
+    {
+        "name":"oredict.ingotQuadruple.+",
+        "value":"Quadruple (.+) Ingot",
+        "repl":"四重\\1锭",
+        "priority":1000
+    },
+    {
+        "name":"oredict.ingotQuintuple.+",
+        "value":"Quintuple (.+) Ingot",
+        "repl":"五重\\1锭",
+        "priority":1000
     }
 ]
