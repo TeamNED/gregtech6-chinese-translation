@@ -26,7 +26,7 @@
 
 
 ## v6.05.24
-* [兼容] 更好地支持了 **生长工艺** *(Growthcraft)* 模组的社区版本。例如它的竹子可以用在焦炉里面了（我因同样的理由为**超多生态群系** *(Biomes O' Plenty)*也增加了相同的配方）。
+* [兼容] 更好地支持了 **生长工艺** *(Growthcraft)* 模组的社区版本。例如它的竹子可以用在焦炉里面了（我因同样的理由为 **超多生态群系** *(Biomes O' Plenty)* 也增加了相同的配方）。
 * [修复] 修复了MV和HV电锯砍树时消耗太多能量到呃问题。
 * [修复] Control and Detector Covers which are placed on Universal Extenders which are placed on formed Multiblock Parts were not working, because the Multiblock Part didn't implement the Interface for that.
 * [修复] 多功能离心机底部贴图已经按Z轴镜像旋转。

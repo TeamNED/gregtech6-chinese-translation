@@ -4,7 +4,6 @@ enablelangfile {
     B:UseThisFileAsLanguageFile=true
 }
 
-
 languagefile {
     S:bc.trigger.gregapi.energy.air.capacity.empty=空的 (ENERGY.AIR)
     S:bc.trigger.gregapi.energy.air.capacity.full=满的 (ENERGY.AIR)
@@ -160,7 +159,7 @@ languagefile {
     S:fluid.blueberryjuice=蓝莓汁
     S:fluid.blueberrysmoothie=蓝莓冰沙
     S:fluid.bluevitriol=五水合硫酸铜
-    S:fluid.bromine=溴 
+    S:fluid.bromine=溴
     S:fluid.butane=丁烷
     S:fluid.cactuswater=仙人掌汁
     S:fluid.canevinegar=甘蔗醋
@@ -381,7 +380,7 @@ languagefile {
     S:fluid.molten.blaze=熔化的烈焰棒
     S:fluid.molten.bluealloy=熔融蓝石合金
     S:fluid.molten.brass=熔融黄铜
-    S:fluid.molten.bromine=熔融溴 
+    S:fluid.molten.bromine=熔融溴
     S:fluid.molten.bronze=熔融青铜
     S:fluid.molten.cheese=熔融奶酪
     S:fluid.molten.chocolate=巧克力酱
@@ -2058,9 +2057,9 @@ languagefile {
     S:gt.lang.accepts.redstoneflux.lossless=可以无损地接收红石通量(RF)
     S:gt.lang.accepts.redstoneflux.lossy=可以有损耗地接收红石通量(RF)，损耗:
     S:gt.lang.admin.only.creation=管理员可以加入它. (或者使用MineTweaker增加一个合成表)
-    S:gt.lang.blastfortune=Blast Fortune Level: 
-    S:gt.lang.blastpower=爆炸力: 
-    S:gt.lang.blastrange=爆炸范围: 
+    S:gt.lang.blastfortune=Blast Fortune Level:
+    S:gt.lang.blastpower=爆炸力:
+    S:gt.lang.blastrange=爆炸范围:
     S:gt.lang.blastresistance=爆炸抗性:
     S:gt.lang.cheap.overclocking=在消耗额外能量时可以超频
     S:gt.lang.cover.tooltip=可以用作覆盖版.
@@ -2111,16 +2110,16 @@ languagefile {
     S:gt.lang.nogui.rightclick.tank=没有界面，手持流体容器右键进行交互。
     S:gt.lang.nogui.tap.tank=没有界面，手持龙头右键进行交互!
     S:gt.lang.owner.controlled=这个方块只能被拥有者操作
-    S:gt.lang.pipe.stats.amount=Amount of Pipes: 
-    S:gt.lang.pipe.stats.bandwidth=流量: 
-    S:gt.lang.pipe.stats.capacity=容量: 
-    S:gt.lang.pipe.stats.loss=损耗: 
-    S:gt.lang.pipe.stats.range=范围: 
+    S:gt.lang.pipe.stats.amount=Amount of Pipes:
+    S:gt.lang.pipe.stats.bandwidth=流量:
+    S:gt.lang.pipe.stats.capacity=容量:
+    S:gt.lang.pipe.stats.loss=损耗:
+    S:gt.lang.pipe.stats.range=范围:
     S:gt.lang.pipe.stats.stepsize=Stepsize:
     S:gt.lang.proof.acid=抗腐蚀
     S:gt.lang.proof.gas=不漏气
     S:gt.lang.proof.plasma=可以存储等离子
-    S:gt.lang.railspeed=车速限制: 
+    S:gt.lang.railspeed=车速限制:
     S:gt.lang.recipe=配方
     S:gt.lang.recipes=配方
     S:gt.lang.recipes.autohammer=用于执行锤子的右键操作和粉碎方块
@@ -6193,9 +6192,9 @@ languagefile {
     S:gt.multiitem.technological.30016.tooltip=需要电子元件
     S:gt.multiitem.technological.30099.name=电路主板 (HSLA钢)
     S:gt.multiitem.technological.30099.tooltip=需要电子元件
-    S:gt.multiitem.technological.30101.name=基础电子元件 
+    S:gt.multiitem.technological.30101.name=基础电子元件
     S:gt.multiitem.technological.30101.tooltip=装配到铜电路主板上
-    S:gt.multiitem.technological.30102.name=不错的电子元件 
+    S:gt.multiitem.technological.30102.name=不错的电子元件
     S:gt.multiitem.technological.30102.tooltip=装配到铜电路主板上
     S:gt.multiitem.technological.30103.name=进阶电子元件
     S:gt.multiitem.technological.30103.tooltip=装配到金电路主板上
@@ -7841,8 +7840,8 @@ languagefile {
     S:gt.multitileentity.ender.garbage.dump.tooltip.2=从“垃圾维度”获取垃圾
     S:gt.multitileentity.ender.garbage.dump.tooltip.3=使用恰当的话，人们可以用它来“捐助”他人
     S:gt.multitileentity.hdd.switch.tooltip=使用选择面板在16个数据口之间切换
-    S:gt.multitileentity.hopper.tooltip.1=内容格数: 
-    S:gt.multitileentity.hopper.tooltip.2=指定的堆叠物品: 
+    S:gt.multitileentity.hopper.tooltip.1=内容格数:
+    S:gt.multitileentity.hopper.tooltip.2=指定的堆叠物品:
     S:gt.multitileentity.hopper.tooltip.3=Exact Insertion Mode
     S:gt.multitileentity.massstorage.tooltip.1=储存大量相同物品，可存储件数：
     S:gt.multitileentity.massstorage.tooltip.2=可以在高级工作台旁使用
@@ -13763,7 +13762,7 @@ languagefile {
     S:oredict.chemtubeFlerovium298.name=鈇-298试管
     S:oredict.chemtubeFlint.name=燧石试管
     S:oredict.chemtubeFluorine.name=氟试管
-    S:oredict.chemtubeFluorite.name=萤石试管 
+    S:oredict.chemtubeFluorite.name=萤石试管
     S:oredict.chemtubeFoolsRuby.name=红宝石试管
     S:oredict.chemtubeForce.name=力量试管
     S:oredict.chemtubeForcicium.name=力场试管
@@ -54558,5 +54557,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
