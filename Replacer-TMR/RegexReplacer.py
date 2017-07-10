@@ -27,20 +27,18 @@ class langFile:
     def loadFile(cls,path):
         result=langFile({})
         with open(path,'r',encoding='utf-8') as f:
-            cnt=0
             for l in f:
                 l=l.strip()
                 if l.startswith('S:'):
                     i=l.index('=')
-                    result.data[l[2:i]]=(l[i+1:],cnt)
-                    cnt+=1
+                    result.data[l[2:i]]=l[i+1:]
         return result
 
     def save(self,path):
         with open(path,'w',encoding='utf-8') as f:
             f.write('# Configuration file\n\nenablelangfile {\n    B:UseThisFileAsLanguageFile=true\n}\n\n\nlanguagefile {\n')
-            for item in sorted(self.data.items(),key=lambda x:x[1][1]):
-                f.write('    S:{0}={1}\n'.format(item[0],item[1][0]))
+            for item in sorted(self.data.items(),key=lambda x:x[0]):
+                f.write('    S:{0}={1}\n'.format(item[0],item[1]))
             f.write('}\n\n\n')
 
 class pattern:
@@ -55,11 +53,11 @@ class pattern:
         self.replRegex=re.compile(repl.replace('\\1','(.+)'))
         self.priority=priority
         pattern.instances.append(self)
-
+    
     @classmethod
     def process(cls,item,translated):
-        currentTranslation=item[1][0]
-        originalTranslation=item[1][0]
+        currentTranslation=item[1]
+        originalTranslation=item[1]
         processPatterns=sorted(filter(lambda x:x.nameRegex.match(item[0]) is not None,pattern.instances),key=lambda x:x.priority,reverse=True)
         if len(processPatterns)>0:
             mainWord=''
@@ -67,7 +65,7 @@ class pattern:
                 if translated is None:
                     canLearnGlossary=False
                 else:
-                    mainWordTranslated=translated[0]
+                    mainWordTranslated=translated
                     canLearnGlossary=True
 
             for p in processPatterns:
@@ -95,7 +93,7 @@ class pattern:
                         return currentTranslation
                     elif translated is not None: 
                         # No Partly Translation, use translated
-                        return translated[0]
+                        return translated
                     else:
                         # Neither Partly nor translated, use original
                         return originalTranslation
@@ -106,7 +104,7 @@ class pattern:
             return originalTranslation
         else:
             # Use current translation
-            return translated[0]
+            return translated
 
     #@classmethod
     #def cleanupGlossary(cls):
@@ -129,7 +127,7 @@ if __name__ == '__main__':
     if os.path.isfile(GlossaryPath):
         try:
             with open(GlossaryPath,'r',encoding='utf-8') as f:
-                pattern.glossary=json.loads(f.read())
+                pattern.glossary=json.load(f)
         except:
             pattern.glossary={}
             with open(GlossaryPath,'w',encoding='utf-8') as f:
@@ -139,34 +137,28 @@ if __name__ == '__main__':
             f.write("{}\n")
 
     # Replacement
+    _sortedOri=sorted(_ori.data.items(),key=lambda x:x[0])
+    _sortedOld=sorted(_old.data.items(),key=lambda x:x[0])
     cnt=0
-    if DeleteObsoleteItem:
-        entries=sorted(_ori.data.items(),key=lambda x:x[1][1])
-        for item in entries:
-            translated=_old.data.get(item[0])
-            if translated is not None:
-                if RespectTranslated:
-                    _new.data[item[0]]=(translated[0],cnt)
-                    cnt+=1
-                    continue
-            processed=pattern.process(item,translated)
-            _new.data[item[0]]=(processed,cnt)
+    for item in _sortedOri:
+        while item[0]>_sortedOld[cnt][0]:
+            # Obsolete item or unknown mod
+            if not DeleteObsoleteItem:
+                _new.data[_sortedOld[cnt][0]]=_sortedOld[cnt][1]
             cnt+=1
-    else:
-        if RespectTranslated:
-            _new=_old
+        if item[0]<_sortedOld[cnt][0]:
+            # New entry, try to process
+            processed=pattern.process(item,None)
+            _new.data[item[0]]=processed
         else:
-            entries=sorted(_old.data.items(),key=lambda x:x[1][1])
-            for translated in entries:
-                item=_ori.data.get(translated[0])
-                if item is not None:
-                    processed=pattern.process((translated[0],(item[0],0)),translated[1])
-                    _new.data[translated[0]]=(processed,cnt)
-                    cnt+=1
-                    continue
-                else:
-                    _new.data[translated[0]]=(translated[1][0],cnt)
-                    cnt+=1
+        #elif item[0]=_sortedOld[cnt][0]:
+            # Have live translation
+            if RespectTranslated:
+                _new.data[item[0]]=_sortedOld[cnt][1]
+            else:
+                processed=pattern.process(item,_sortedOld[cnt][1])
+                _new.data[item[0]]=processed
+            cnt+=1
 
     _new.save(OutputPath)
     with open(GlossaryPath,'w',encoding='utf-8') as f:
