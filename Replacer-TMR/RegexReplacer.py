@@ -98,7 +98,9 @@ class pattern:
                         # Neither Partly nor translated, use original
                         return originalTranslation
         # fail
-
+        #if item[1] in pattern.glossary:
+        #    return pattern.glossary[item[1]]
+        #elif translated is None:
         if translated is None:
             # No available translation
             return originalTranslation

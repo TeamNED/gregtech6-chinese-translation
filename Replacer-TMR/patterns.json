@@ -36,12 +36,6 @@
         "priority":1000
     },
     {
-        "name":"oredict.oreDiorite.+",
-        "value":"Diorite (.+) Ore",
-        "repl":"闪长岩\\1矿石",
-        "priority":1000
-    },
-    {
         "name":"oredict.oreAndesit.+",
         "value":"Andesite (.+)",
         "repl":"安山岩\\1矿石",
@@ -49,8 +43,26 @@
     },
     {
         "name":"oredict.oreDiorite.+",
+        "value":"Diorite (.+) Ore",
+        "repl":"闪长岩\\1矿石",
+        "priority":1000
+    },
+    {
+        "name":"oredict.oreDiorite.+",
         "value":"Diorite (.+)",
         "repl":"闪长岩\\1矿石",
+        "priority":999
+    },
+    {
+        "name":"oredict.oreLimestone.+",
+        "value":"Limestone (.+) Ore",
+        "repl":"石灰岩\\1矿石",
+        "priority":1000
+    },
+    {
+        "name":"oredict.oreLimestone.+",
+        "value":"Limestone (.+)",
+        "repl":"石灰岩\\1矿石",
         "priority":999
     },
     {
