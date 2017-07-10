@@ -78,6 +78,12 @@
         "priority":1000
     },
     {
+        "name":"oredict.ingot.+",
+        "value":"(.+) Ingot",
+        "repl":"\\1锭",
+        "priority":500
+    },
+    {
         "name":"oredict.ingotHot.+",
         "value":"Hot (.+) Ingot",
         "repl":"热\\1锭",
@@ -108,7 +114,13 @@
         "priority":1000
     },
     {
-        "name":"oredict.plateTiny.+",
+        "name":"oredict.plate.+",
+        "value":"(.+) Plate",
+        "repl":"\\1板",
+        "priority":500
+    },
+    {
+        "name":"oredict.plate(Gem)?Tiny.+",
         "value":"Tiny (.+) Plate",
         "repl":"小块\\1板",
         "priority":1000
@@ -145,8 +157,26 @@
     },
     {
         "name":"oredict.plateQuintuple.+",
-        "value":"Quintuple (.+) InPlategot",
+        "value":"Quintuple (.+) Plate",
         "repl":"五重\\1板",
+        "priority":1000
+    },
+    {
+        "name":"oredict.crushedCentrifuged.+",
+        "value":"Refined (.+) Ore",
+        "repl":"离心\\1矿石",
+        "priority":1100
+    },
+    {
+        "name":"oredict.crushedTiny.+",
+        "value":"Tiny Crushed (.+) Ore",
+        "repl":"小撮粉碎\\1矿石",
+        "priority":1050
+    },
+    {
+        "name":"oredict.crushed.+",
+        "value":"Crushed (.+) Ore",
+        "repl":"粉碎\\1矿石",
         "priority":1000
     }
 ]
