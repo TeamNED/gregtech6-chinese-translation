@@ -12,6 +12,12 @@
         "priority":1000
     },
     {
+        "name":"oredict.plantGtWart.+",
+        "value":"(.+) Wart",
+        "repl":"\\1疣",
+        "priority":1000
+    },
+    {
         "name":"oredict.plantGtFiber.+",
         "value":"Raw (.+) Fiber",
         "repl":"粗糙的\\1纤维",
@@ -72,6 +78,12 @@
         "priority":1000
     },
     {
+        "name":"oredict.ingotHot.+",
+        "value":"Hot (.+) Ingot",
+        "repl":"热\\1锭",
+        "priority":1000
+    },
+    {
         "name":"oredict.ingotDouble.+",
         "value":"Double (.+) Ingot",
         "repl":"两重\\1锭",
@@ -93,6 +105,48 @@
         "name":"oredict.ingotQuintuple.+",
         "value":"Quintuple (.+) Ingot",
         "repl":"五重\\1锭",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plateTiny.+",
+        "value":"Tiny (.+) Plate",
+        "repl":"小块\\1板",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plateDense.+",
+        "value":"Dense (.+) Plate",
+        "repl":"致密\\1板",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plateCurved.+",
+        "value":"Curved (.+) Plate",
+        "repl":"弯曲\\1板",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plateDouble.+",
+        "value":"Double (.+) Plate",
+        "repl":"两重\\1板",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plateTriple.+",
+        "value":"Triple (.+) Plate",
+        "repl":"三重\\1板",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plateQuadruple.+",
+        "value":"Quadruple (.+) Plate",
+        "repl":"四重\\1板",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plateQuintuple.+",
+        "value":"Quintuple (.+) InPlategot",
+        "repl":"五重\\1板",
         "priority":1000
     }
 ]
