@@ -308,7 +308,7 @@ languagefile {
     S:fluid.greenvitriol=硫酸亚铁
     S:fluid.helium=氦
     S:fluid.helium-3=氦-3
-    S:fluid.heliumneon=氦化氖
+    S:fluid.heliumneon=氦氖混合气体
     S:fluid.heliumplasma=氦离子
     S:fluid.hempoil=大麻籽油
     S:fluid.hempseedoil=大麻籽油
@@ -3181,7 +3181,7 @@ languagefile {
     S:gt.material.Hazelnut=榛子
     S:gt.material.Helium=氦
     S:gt.material.Helium3=氦-3
-    S:gt.material.HeliumNeon=氦-氖
+    S:gt.material.HeliumNeon=氦氖混合气体
     S:gt.material.Hematite=赤铁矿
     S:gt.material.HempOil=大麻籽油
     S:gt.material.Hepatizon=幽魂结晶
@@ -5919,7 +5919,7 @@ languagefile {
     S:gt.multiitem.technological.11004.tooltip=用途: 科研用具
     S:gt.multiitem.technological.11005.name=氙激光镭射器
     S:gt.multiitem.technological.11005.tooltip=用途: 科研用具
-    S:gt.multiitem.technological.11006.name=氦-氖激光镭射器
+    S:gt.multiitem.technological.11006.name=氦氖混合气体激光镭射器
     S:gt.multiitem.technological.11006.tooltip=用途: 弱光电器
     S:gt.multiitem.technological.11007.name=一氧化碳激光镭射器
     S:gt.multiitem.technological.11007.tooltip=用途: 低级材料加工
@@ -12913,7 +12913,7 @@ languagefile {
     S:oredict.cellGreenVitriol.name=硫酸亚铁单元
     S:oredict.cellHelium.name=氦单元
     S:oredict.cellHelium3.name=氦-3单元
-    S:oredict.cellHeliumNeon.name=氦-氖单元
+    S:oredict.cellHeliumNeon.name=氦氖混合气体单元
     S:oredict.cellHempOil.name=大麻籽油 Cell
     S:oredict.cellHolyWater.name=圣水单元
     S:oredict.cellHoney.name=蜂蜜单元
@@ -13832,7 +13832,7 @@ languagefile {
     S:oredict.chemtubeHazelnut.name=榛子试管
     S:oredict.chemtubeHelium.name=氦试管
     S:oredict.chemtubeHelium3.name=氦-3试管
-    S:oredict.chemtubeHeliumNeon.name=氦-氖试管
+    S:oredict.chemtubeHeliumNeon.name=氦氖混合气体试管
     S:oredict.chemtubeHematite.name=赤铁矿试管
     S:oredict.chemtubeHempOil.name=大麻籽油试管
     S:oredict.chemtubeHepatizon.name=幽魂结晶试管
@@ -36258,7 +36258,7 @@ languagefile {
     S:oredict.plantGtBerryHafnium.name=铪梅
     S:oredict.plantGtBerryHassium.name=𬭶梅
     S:oredict.plantGtBerryHazelnut.name=榛子梅
-    S:oredict.plantGtBerryHeliumNeon.name=氦-氖梅
+    S:oredict.plantGtBerryHeliumNeon.name=氦氖混合气体梅
     S:oredict.plantGtBerryHematite.name=赤铁矿梅
     S:oredict.plantGtBerryHempOil.name=大麻籽油梅
     S:oredict.plantGtBerryHepatizon.name=幽魂结晶梅
@@ -37072,7 +37072,7 @@ languagefile {
     S:oredict.plantGtBlossomHafnium.name=铪花
     S:oredict.plantGtBlossomHassium.name=𬭶花
     S:oredict.plantGtBlossomHazelnut.name=榛子花
-    S:oredict.plantGtBlossomHeliumNeon.name=氦-氖花
+    S:oredict.plantGtBlossomHeliumNeon.name=氦氖混合气体花
     S:oredict.plantGtBlossomHematite.name=赤铁矿花
     S:oredict.plantGtBlossomHempOil.name=大麻籽油花
     S:oredict.plantGtBlossomHepatizon.name=幽魂结晶花
@@ -37885,7 +37885,7 @@ languagefile {
     S:oredict.plantGtFiberHafnium.name=粗糙的铪纤维
     S:oredict.plantGtFiberHassium.name=粗糙的𬭶纤维
     S:oredict.plantGtFiberHazelnut.name=粗糙的榛子纤维
-    S:oredict.plantGtFiberHeliumNeon.name=粗糙的氦-氖纤维
+    S:oredict.plantGtFiberHeliumNeon.name=粗糙的氦氖混合气体纤维
     S:oredict.plantGtFiberHematite.name=粗糙的赤铁矿纤维
     S:oredict.plantGtFiberHempOil.name=粗糙的大麻籽油纤维
     S:oredict.plantGtFiberHepatizon.name=粗糙的幽魂结晶纤维
@@ -38698,7 +38698,7 @@ languagefile {
     S:oredict.plantGtTwigHafnium.name=铪细枝
     S:oredict.plantGtTwigHassium.name=𬭶细枝
     S:oredict.plantGtTwigHazelnut.name=榛子细枝
-    S:oredict.plantGtTwigHeliumNeon.name=氦-氖细枝
+    S:oredict.plantGtTwigHeliumNeon.name=氦氖混合气体细枝
     S:oredict.plantGtTwigHematite.name=赤铁矿细枝
     S:oredict.plantGtTwigHempOil.name=大麻籽油细枝
     S:oredict.plantGtTwigHepatizon.name=幽魂结晶细枝
@@ -39514,7 +39514,7 @@ languagefile {
     S:oredict.plantGtWartHafnium.name=铪疣
     S:oredict.plantGtWartHassium.name=𬭶疣
     S:oredict.plantGtWartHazelnut.name=榛子疣
-    S:oredict.plantGtWartHeliumNeon.name=氦-氖疣
+    S:oredict.plantGtWartHeliumNeon.name=氦氖混合气体疣
     S:oredict.plantGtWartHematite.name=赤铁矿疣
     S:oredict.plantGtWartHempOil.name=大麻籽油疣
     S:oredict.plantGtWartHepatizon.name=幽魂结晶疣
