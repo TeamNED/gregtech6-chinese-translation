@@ -11937,7 +11937,7 @@ languagefile {
     S:oredict.boltConstantan.name=康铜螺栓
     S:oredict.boltCopernicium.name=鎶螺栓
     S:oredict.boltCopper.name=铜螺栓
-    S:oredict.boltCraponite.name=Craponite螺栓
+    S:oredict.boltCraponite.name=焦屎石螺栓
     S:oredict.boltCupronickel.name=白铜螺栓
     S:oredict.boltCurium.name=锔螺栓
     S:oredict.boltCyanite.name=蓝晶石螺栓
@@ -17248,7 +17248,7 @@ languagefile {
     S:oredict.crushedCentrifugedCooperite.name=离心硫砷铂矿石
     S:oredict.crushedCentrifugedCopernicium.name=离心鎶矿石
     S:oredict.crushedCentrifugedCopper.name=离心铜矿石
-    S:oredict.crushedCentrifugedCraponite.name=离心Craponite矿
+    S:oredict.crushedCentrifugedCraponite.name=离心焦屎石矿石
     S:oredict.crushedCentrifugedCrudeOil.name=离心原油矿石
     S:oredict.crushedCentrifugedCurium.name=离心锔矿石
     S:oredict.crushedCentrifugedCyanite.name=离心蓝晶石矿石
@@ -18045,7 +18045,7 @@ languagefile {
     S:oredict.crushedCooperite.name=粉碎硫砷铂矿石
     S:oredict.crushedCopernicium.name=粉碎鎶矿石
     S:oredict.crushedCopper.name=粉碎铜矿石
-    S:oredict.crushedCraponite.name=粉碎Craponite矿
+    S:oredict.crushedCraponite.name=粉碎焦屎石矿石
     S:oredict.crushedCrudeOil.name=粉碎原油矿石
     S:oredict.crushedCurium.name=粉碎锔矿石
     S:oredict.crushedCyanite.name=粉碎蓝晶石矿石
@@ -19475,7 +19475,7 @@ languagefile {
     S:oredict.crushedTinyCooperite.name=小撮粉碎硫砷铂矿石
     S:oredict.crushedTinyCopernicium.name=小撮粉碎鎶矿石
     S:oredict.crushedTinyCopper.name=小撮粉碎铜矿石
-    S:oredict.crushedTinyCraponite.name=小撮粉碎Craponite矿
+    S:oredict.crushedTinyCraponite.name=小撮粉碎焦屎石矿石
     S:oredict.crushedTinyCrudeOil.name=小撮粉碎原油矿石
     S:oredict.crushedTinyCurium.name=小撮粉碎锔矿石
     S:oredict.crushedTinyCyanite.name=小撮粉碎蓝晶石矿石
@@ -20073,7 +20073,7 @@ languagefile {
     S:oredict.dustCopernicium.name=鎶粉
     S:oredict.dustCopper.name=铜粉
     S:oredict.dustCorn.name=玉米粉
-    S:oredict.dustCraponite.name=Craponite粉
+    S:oredict.dustCraponite.name=焦屎石粉
     S:oredict.dustCrudeOil.name=原油粉
     S:oredict.dustCryotheum.name=凛冰粉
     S:oredict.dustCupronickel.name=白铜粉
@@ -20360,7 +20360,7 @@ languagefile {
     S:oredict.dustDiv72Copernicium.name=1/72份鎶粉
     S:oredict.dustDiv72Copper.name=1/72份铜粉
     S:oredict.dustDiv72Corn.name=1/72份玉米面
-    S:oredict.dustDiv72Craponite.name=1/72份Craponite粉
+    S:oredict.dustDiv72Craponite.name=1/72份焦屎石粉
     S:oredict.dustDiv72CrudeOil.name=1/72份原油粉
     S:oredict.dustDiv72Cryotheum.name=1/72份凛冰粉
     S:oredict.dustDiv72Cupronickel.name=1/72份白铜粉
@@ -21159,7 +21159,7 @@ languagefile {
     S:oredict.dustImpureCooperite.name=含杂硫砷铂粉
     S:oredict.dustImpureCopernicium.name=含杂鎶粉
     S:oredict.dustImpureCopper.name=含杂铜粉
-    S:oredict.dustImpureCraponite.name=含杂Craponite粉
+    S:oredict.dustImpureCraponite.name=含杂焦屎石粉
     S:oredict.dustImpureCrudeOil.name=含杂原油粉
     S:oredict.dustImpureCurium.name=含杂锔粉
     S:oredict.dustImpureCyanite.name=含杂蓝晶石粉
@@ -21844,7 +21844,7 @@ languagefile {
     S:oredict.dustPureCooperite.name=纯净硫砷铂粉
     S:oredict.dustPureCopernicium.name=纯净鎶粉
     S:oredict.dustPureCopper.name=纯净铜粉
-    S:oredict.dustPureCraponite.name=纯净Craponite粉
+    S:oredict.dustPureCraponite.name=纯净焦屎石粉
     S:oredict.dustPureCrudeOil.name=纯净原油粉
     S:oredict.dustPureCurium.name=纯净锔粉
     S:oredict.dustPureCyanite.name=纯净蓝晶石粉
@@ -22469,7 +22469,7 @@ languagefile {
     S:oredict.dustSmallCopernicium.name=小堆鎶粉
     S:oredict.dustSmallCopper.name=小堆铜粉
     S:oredict.dustSmallCorn.name=小堆玉米面
-    S:oredict.dustSmallCraponite.name=小堆Craponite粉
+    S:oredict.dustSmallCraponite.name=小堆焦屎石粉
     S:oredict.dustSmallCrudeOil.name=小堆原油粉
     S:oredict.dustSmallCryotheum.name=小堆凛冰粉
     S:oredict.dustSmallCupronickel.name=小堆白铜粉
@@ -23270,7 +23270,7 @@ languagefile {
     S:oredict.dustTinyCopernicium.name=小撮鎶粉
     S:oredict.dustTinyCopper.name=小撮铜粉
     S:oredict.dustTinyCorn.name=小撮玉米面粉
-    S:oredict.dustTinyCraponite.name=小撮Craponite粉
+    S:oredict.dustTinyCraponite.name=小撮焦屎石粉
     S:oredict.dustTinyCrudeOil.name=小撮原油粉
     S:oredict.dustTinyCryotheum.name=小撮凛冰粉
     S:oredict.dustTinyCupronickel.name=小撮白铜粉
@@ -28123,7 +28123,7 @@ languagefile {
     S:oredict.oreAndesiteCooperite.name=安山岩硫砷铂矿石
     S:oredict.oreAndesiteCopernicium.name=安山岩鎶矿石
     S:oredict.oreAndesiteCopper.name=安山岩铜矿石
-    S:oredict.oreAndesiteCraponite.name=安山岩Craponite矿石
+    S:oredict.oreAndesiteCraponite.name=安山岩焦屎石矿石
     S:oredict.oreAndesiteCrudeOil.name=安山岩原油矿石
     S:oredict.oreAndesiteCurium.name=安山岩锔矿石
     S:oredict.oreAndesiteCyanite.name=安山岩蓝晶石矿石
@@ -30270,7 +30270,7 @@ languagefile {
     S:oredict.oreDioriteCooperite.name=闪长岩硫砷铂矿石
     S:oredict.oreDioriteCopernicium.name=闪长岩鎶矿石
     S:oredict.oreDioriteCopper.name=闪长岩铜矿石
-    S:oredict.oreDioriteCraponite.name=闪长岩Craponite矿石
+    S:oredict.oreDioriteCraponite.name=闪长岩焦屎石矿石
     S:oredict.oreDioriteCrudeOil.name=闪长岩原油矿石
     S:oredict.oreDioriteCurium.name=闪长岩锔矿石
     S:oredict.oreDioriteCyanite.name=闪长岩蓝晶石矿石
@@ -31824,7 +31824,7 @@ languagefile {
     S:oredict.oreLimestoneCooperite.name=石灰岩硫砷铂矿石
     S:oredict.oreLimestoneCopernicium.name=石灰岩鎶矿石
     S:oredict.oreLimestoneCopper.name=石灰岩铜矿石
-    S:oredict.oreLimestoneCraponite.name=石灰岩Craponite矿石
+    S:oredict.oreLimestoneCraponite.name=石灰岩焦屎石矿石
     S:oredict.oreLimestoneCrudeOil.name=石灰岩原油矿石
     S:oredict.oreLimestoneCurium.name=石灰岩锔矿石
     S:oredict.oreLimestoneCyanite.name=石灰岩蓝晶石矿石
@@ -36444,7 +36444,7 @@ languagefile {
     S:oredict.plantGtBerryCopernicium.name=鎶梅
     S:oredict.plantGtBerryCopper.name=铜梅
     S:oredict.plantGtBerryCorn.name=玉米梅
-    S:oredict.plantGtBerryCraponite.name=Craponite梅
+    S:oredict.plantGtBerryCraponite.name=焦屎石梅
     S:oredict.plantGtBerryCreosote.name=杂酚油梅
     S:oredict.plantGtBerryCreosoteOil.name=杂酚油梅
     S:oredict.plantGtBerryCrudeOil.name=原油梅
@@ -37262,7 +37262,7 @@ languagefile {
     S:oredict.plantGtBlossomCopernicium.name=鎶花
     S:oredict.plantGtBlossomCopper.name=铜花
     S:oredict.plantGtBlossomCorn.name=玉米花
-    S:oredict.plantGtBlossomCraponite.name=Craponite花
+    S:oredict.plantGtBlossomCraponite.name=焦屎石花
     S:oredict.plantGtBlossomCreosote.name=杂酚油花
     S:oredict.plantGtBlossomCreosoteOil.name=杂酚油花
     S:oredict.plantGtBlossomCrudeOil.name=原油花
@@ -38079,7 +38079,7 @@ languagefile {
     S:oredict.plantGtFiberCopernicium.name=粗糙的鎶纤维
     S:oredict.plantGtFiberCopper.name=铜棉纤维
     S:oredict.plantGtFiberCorn.name=粗糙的玉米纤维
-    S:oredict.plantGtFiberCraponite.name=粗糙的Craponite纤维
+    S:oredict.plantGtFiberCraponite.name=粗糙的焦屎石纤维
     S:oredict.plantGtFiberCreosote.name=粗糙的杂酚油纤维
     S:oredict.plantGtFiberCreosoteOil.name=粗糙的杂酚油 油纤维
     S:oredict.plantGtFiberCrudeOil.name=粗糙的原油纤维
@@ -39716,7 +39716,7 @@ languagefile {
     S:oredict.plantGtWartCopernicium.name=鎶疣
     S:oredict.plantGtWartCopper.name=铜疣
     S:oredict.plantGtWartCorn.name=玉米疣
-    S:oredict.plantGtWartCraponite.name=Craponite疣
+    S:oredict.plantGtWartCraponite.name=焦屎石疣
     S:oredict.plantGtWartCreosote.name=杂酚油疣
     S:oredict.plantGtWartCreosoteOil.name=杂酚油疣
     S:oredict.plantGtWartCrudeOil.name=原油疣
@@ -45344,7 +45344,7 @@ languagefile {
     S:oredict.screwConstantan.name=康铜螺丝
     S:oredict.screwCopernicium.name=鎶螺丝
     S:oredict.screwCopper.name=铜螺丝
-    S:oredict.screwCraponite.name=Craponite螺丝
+    S:oredict.screwCraponite.name=焦屎石螺丝
     S:oredict.screwCupronickel.name=白铜螺丝
     S:oredict.screwCurium.name=锔螺丝
     S:oredict.screwCyanite.name=蓝晶石螺丝
