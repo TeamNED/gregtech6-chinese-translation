@@ -823,6 +823,142 @@ languagefile {
     S:gt.block.bale.grass.7.name=Rotten Grass Bale
     S:gt.block.bale.grass.8.name=Grass Bale
     S:gt.block.bale.grass.9.name=Dry Grass Bale
+    S:gt.block.beam.1.0.name=Oak Beam
+    S:gt.block.beam.1.1.name=Spruce Beam
+    S:gt.block.beam.1.10.name=Birch Beam
+    S:gt.block.beam.1.11.name=Jungle Beam
+    S:gt.block.beam.1.12.name=Oak Beam
+    S:gt.block.beam.1.13.name=Spruce Beam
+    S:gt.block.beam.1.14.name=Birch Beam
+    S:gt.block.beam.1.15.name=Jungle Beam
+    S:gt.block.beam.1.2.name=Birch Beam
+    S:gt.block.beam.1.3.name=Jungle Beam
+    S:gt.block.beam.1.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.1.4.name=Oak Beam
+    S:gt.block.beam.1.5.name=Spruce Beam
+    S:gt.block.beam.1.6.name=Birch Beam
+    S:gt.block.beam.1.7.name=Jungle Beam
+    S:gt.block.beam.1.8.name=Oak Beam
+    S:gt.block.beam.1.9.name=Spruce Beam
+    S:gt.block.beam.1.fireproof.0.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.1.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.10.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.11.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.12.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.13.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.14.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.15.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.2.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.3.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.1.fireproof.4.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.5.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.6.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.7.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.8.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.9.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.2.0.name=Acacia Beam
+    S:gt.block.beam.2.1.name=Dark Oak Beam
+    S:gt.block.beam.2.10.name=Rubber Wood Beam
+    S:gt.block.beam.2.11.name=Wood Beam
+    S:gt.block.beam.2.12.name=Acacia Beam
+    S:gt.block.beam.2.13.name=Dark Oak Beam
+    S:gt.block.beam.2.14.name=Rubber Wood Beam
+    S:gt.block.beam.2.15.name=Wood Beam
+    S:gt.block.beam.2.2.name=Rubber Wood Beam
+    S:gt.block.beam.2.3.name=Wood Beam
+    S:gt.block.beam.2.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.2.4.name=Acacia Beam
+    S:gt.block.beam.2.5.name=Dark Oak Beam
+    S:gt.block.beam.2.6.name=Rubber Wood Beam
+    S:gt.block.beam.2.7.name=Wood Beam
+    S:gt.block.beam.2.8.name=Acacia Beam
+    S:gt.block.beam.2.9.name=Dark Oak Beam
+    S:gt.block.beam.2.fireproof.0.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.1.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.10.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.11.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.12.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.13.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.14.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.15.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.2.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.3.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.2.fireproof.4.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.5.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.6.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.7.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.8.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.9.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.a.0.name=Rubber Beam
+    S:gt.block.beam.a.1.name=Maple Beam
+    S:gt.block.beam.a.10.name=Willow Beam
+    S:gt.block.beam.a.11.name=Blue Mahoe Beam
+    S:gt.block.beam.a.12.name=Rubber Beam
+    S:gt.block.beam.a.13.name=Maple Beam
+    S:gt.block.beam.a.14.name=Willow Beam
+    S:gt.block.beam.a.15.name=Blue Mahoe Beam
+    S:gt.block.beam.a.2.name=Willow Beam
+    S:gt.block.beam.a.3.name=Blue Mahoe Beam
+    S:gt.block.beam.a.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.a.4.name=Rubber Beam
+    S:gt.block.beam.a.5.name=Maple Beam
+    S:gt.block.beam.a.6.name=Willow Beam
+    S:gt.block.beam.a.7.name=Blue Mahoe Beam
+    S:gt.block.beam.a.8.name=Rubber Beam
+    S:gt.block.beam.a.9.name=Maple Beam
+    S:gt.block.beam.a.fireproof.0.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.1.name=Maple Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.10.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.11.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.12.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.13.name=Maple Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.14.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.15.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.2.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.3.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.a.fireproof.4.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.5.name=Maple Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.6.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.7.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.8.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.9.name=Maple Beam (Fireproof)
+    S:gt.block.beam.b.0.name=Hazel Beam
+    S:gt.block.beam.b.1.name=Cinnamon Beam
+    S:gt.block.beam.b.10.name=Beam
+    S:gt.block.beam.b.11.name=Rainbowood Beam
+    S:gt.block.beam.b.12.name=Hazel Beam
+    S:gt.block.beam.b.13.name=Cinnamon Beam
+    S:gt.block.beam.b.14.name=Beam
+    S:gt.block.beam.b.15.name=Rainbowood Beam
+    S:gt.block.beam.b.2.name=Beam
+    S:gt.block.beam.b.3.name=Rainbowood Beam
+    S:gt.block.beam.b.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.b.4.name=Hazel Beam
+    S:gt.block.beam.b.5.name=Cinnamon Beam
+    S:gt.block.beam.b.6.name=Beam
+    S:gt.block.beam.b.7.name=Rainbowood Beam
+    S:gt.block.beam.b.8.name=Hazel Beam
+    S:gt.block.beam.b.9.name=Cinnamon Beam
+    S:gt.block.beam.b.fireproof.0.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.1.name=Cinnamon Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.10.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.11.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.12.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.13.name=Cinnamon Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.14.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.15.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.2.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.3.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.b.fireproof.4.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.5.name=Cinnamon Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.6.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.7.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.8.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.9.name=Cinnamon Beam (Fireproof)
     S:gt.block.cfoam.0.name=Black C-Foam
     S:gt.block.cfoam.1.name=Red C-Foam
     S:gt.block.cfoam.10.name=Lime C-Foam
@@ -1061,6 +1197,9 @@ languagefile {
     S:gt.block.cfoam.slab.5.7.name=Light Gray C-Foam Slab
     S:gt.block.cfoam.slab.5.8.name=Gray C-Foam Slab
     S:gt.block.cfoam.slab.5.9.name=Pink C-Foam Slab
+    S:gt.block.diggable.0.name=Mud
+    S:gt.block.diggable.1.name=Brown Clay
+    S:gt.block.diggable.32767.name=Any Sub-Block of this one
     S:gt.block.glass.0.name=Black Glass
     S:gt.block.glass.1.name=Red Glass
     S:gt.block.glass.10.name=Lime Glass
@@ -1214,6 +1353,40 @@ languagefile {
     S:gt.block.lilypad.glowtus.7.name=Light Gray Glowtus
     S:gt.block.lilypad.glowtus.8.name=Gray Glowtus
     S:gt.block.lilypad.glowtus.9.name=Pink Glowtus
+    S:gt.block.log.1.0.name=Dead Log
+    S:gt.block.log.1.1.name=Rotten Log
+    S:gt.block.log.1.10.name=Mossy Log
+    S:gt.block.log.1.11.name=Frozen Log
+    S:gt.block.log.1.12.name=Dead Log
+    S:gt.block.log.1.13.name=Rotten Log
+    S:gt.block.log.1.14.name=Mossy Log
+    S:gt.block.log.1.15.name=Frozen Log
+    S:gt.block.log.1.2.name=Mossy Log
+    S:gt.block.log.1.3.name=Frozen Log
+    S:gt.block.log.1.32767.name=Any Sub-Block of this one
+    S:gt.block.log.1.4.name=Dead Log
+    S:gt.block.log.1.5.name=Rotten Log
+    S:gt.block.log.1.6.name=Mossy Log
+    S:gt.block.log.1.7.name=Frozen Log
+    S:gt.block.log.1.8.name=Dead Log
+    S:gt.block.log.1.9.name=Rotten Log
+    S:gt.block.log.1.fireproof.0.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.1.name=Rotten Log (Fireproof)
+    S:gt.block.log.1.fireproof.10.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.11.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.12.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.13.name=Rotten Log (Fireproof)
+    S:gt.block.log.1.fireproof.14.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.15.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.2.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.3.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.log.1.fireproof.4.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.5.name=Rotten Log (Fireproof)
+    S:gt.block.log.1.fireproof.6.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.7.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.8.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.9.name=Rotten Log (Fireproof)
     S:gt.block.log.a.0.name=Rubber Log
     S:gt.block.log.a.1.name=Maple Log
     S:gt.block.log.a.10.name=Willow Log
@@ -1303,6 +1476,10 @@ languagefile {
     S:gt.block.planks.1.name=Maple Planks
     S:gt.block.planks.10.name=Compressed Wood Planks
     S:gt.block.planks.11.name=Empty Crate
+    S:gt.block.planks.12.name=Dead Planks
+    S:gt.block.planks.13.name=Rotten Planks
+    S:gt.block.planks.14.name=Mossy Planks
+    S:gt.block.planks.15.name=Frozen Planks
     S:gt.block.planks.2.name=Willow Planks
     S:gt.block.planks.3.name=Blue Mahoe Planks
     S:gt.block.planks.32767.name=Any Sub-Block of this one
@@ -1316,6 +1493,10 @@ languagefile {
     S:gt.block.planks.fireproof.1.name=Maple Planks (Fireproof)
     S:gt.block.planks.fireproof.10.name=Compressed Wood Planks (Fireproof)
     S:gt.block.planks.fireproof.11.name=Empty Crate (Fireproof)
+    S:gt.block.planks.fireproof.12.name=Dead Planks (Fireproof)
+    S:gt.block.planks.fireproof.13.name=Rotten Planks (Fireproof)
+    S:gt.block.planks.fireproof.14.name=Mossy Planks (Fireproof)
+    S:gt.block.planks.fireproof.15.name=Frozen Planks (Fireproof)
     S:gt.block.planks.fireproof.2.name=Willow Planks (Fireproof)
     S:gt.block.planks.fireproof.3.name=Blue Mahoe Planks (Fireproof)
     S:gt.block.planks.fireproof.32767.name=Any Sub-Block of this one
@@ -1329,6 +1510,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.0.1.name=Maple Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.0.10.name=Compressed Wood Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.0.11.name=Empty Crate Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.0.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.0.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.0.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.0.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.0.2.name=Willow Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.0.3.name=Blue Mahoe Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.0.32767.name=Any Sub-Block of this one
@@ -1342,6 +1527,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.1.1.name=Maple Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.1.10.name=Compressed Wood Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.1.11.name=Empty Crate Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.1.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.1.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.1.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.1.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.1.2.name=Willow Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.1.3.name=Blue Mahoe Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.1.32767.name=Any Sub-Block of this one
@@ -1355,6 +1544,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.2.1.name=Maple Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.2.10.name=Compressed Wood Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.2.11.name=Empty Crate Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.2.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.2.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.2.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.2.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.2.2.name=Willow Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.2.3.name=Blue Mahoe Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.2.32767.name=Any Sub-Block of this one
@@ -1368,6 +1561,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.3.1.name=Maple Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.3.10.name=Compressed Wood Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.3.11.name=Empty Crate Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.3.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.3.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.3.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.3.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.3.2.name=Willow Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.3.3.name=Blue Mahoe Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.3.32767.name=Any Sub-Block of this one
@@ -1381,6 +1578,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.4.1.name=Maple Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.4.10.name=Compressed Wood Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.4.11.name=Empty Crate Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.4.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.4.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.4.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.4.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.4.2.name=Willow Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.4.3.name=Blue Mahoe Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.4.32767.name=Any Sub-Block of this one
@@ -1394,6 +1595,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.5.1.name=Maple Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.5.10.name=Compressed Wood Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.5.11.name=Empty Crate Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.5.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.5.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.5.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.5.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.5.2.name=Willow Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.5.3.name=Blue Mahoe Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.5.32767.name=Any Sub-Block of this one
@@ -1407,6 +1612,10 @@ languagefile {
     S:gt.block.planks.slab.0.1.name=Maple Slab
     S:gt.block.planks.slab.0.10.name=Compressed Wood Slab
     S:gt.block.planks.slab.0.11.name=Empty Crate Slab
+    S:gt.block.planks.slab.0.12.name=Dead Slab
+    S:gt.block.planks.slab.0.13.name=Rotten Slab
+    S:gt.block.planks.slab.0.14.name=Mossy Slab
+    S:gt.block.planks.slab.0.15.name=Frozen Slab
     S:gt.block.planks.slab.0.2.name=Willow Slab
     S:gt.block.planks.slab.0.3.name=Blue Mahoe Slab
     S:gt.block.planks.slab.0.32767.name=Any Sub-Block of this one
@@ -1420,6 +1629,10 @@ languagefile {
     S:gt.block.planks.slab.1.1.name=Maple Slab
     S:gt.block.planks.slab.1.10.name=Compressed Wood Slab
     S:gt.block.planks.slab.1.11.name=Empty Crate Slab
+    S:gt.block.planks.slab.1.12.name=Dead Slab
+    S:gt.block.planks.slab.1.13.name=Rotten Slab
+    S:gt.block.planks.slab.1.14.name=Mossy Slab
+    S:gt.block.planks.slab.1.15.name=Frozen Slab
     S:gt.block.planks.slab.1.2.name=Willow Slab
     S:gt.block.planks.slab.1.3.name=Blue Mahoe Slab
     S:gt.block.planks.slab.1.32767.name=Any Sub-Block of this one
@@ -1433,6 +1646,10 @@ languagefile {
     S:gt.block.planks.slab.2.1.name=Maple Slab
     S:gt.block.planks.slab.2.10.name=Compressed Wood Slab
     S:gt.block.planks.slab.2.11.name=Empty Crate Slab
+    S:gt.block.planks.slab.2.12.name=Dead Slab
+    S:gt.block.planks.slab.2.13.name=Rotten Slab
+    S:gt.block.planks.slab.2.14.name=Mossy Slab
+    S:gt.block.planks.slab.2.15.name=Frozen Slab
     S:gt.block.planks.slab.2.2.name=Willow Slab
     S:gt.block.planks.slab.2.3.name=Blue Mahoe Slab
     S:gt.block.planks.slab.2.32767.name=Any Sub-Block of this one
@@ -1446,6 +1663,10 @@ languagefile {
     S:gt.block.planks.slab.3.1.name=Maple Slab
     S:gt.block.planks.slab.3.10.name=Compressed Wood Slab
     S:gt.block.planks.slab.3.11.name=Empty Crate Slab
+    S:gt.block.planks.slab.3.12.name=Dead Slab
+    S:gt.block.planks.slab.3.13.name=Rotten Slab
+    S:gt.block.planks.slab.3.14.name=Mossy Slab
+    S:gt.block.planks.slab.3.15.name=Frozen Slab
     S:gt.block.planks.slab.3.2.name=Willow Slab
     S:gt.block.planks.slab.3.3.name=Blue Mahoe Slab
     S:gt.block.planks.slab.3.32767.name=Any Sub-Block of this one
@@ -1459,6 +1680,10 @@ languagefile {
     S:gt.block.planks.slab.4.1.name=Maple Slab
     S:gt.block.planks.slab.4.10.name=Compressed Wood Slab
     S:gt.block.planks.slab.4.11.name=Empty Crate Slab
+    S:gt.block.planks.slab.4.12.name=Dead Slab
+    S:gt.block.planks.slab.4.13.name=Rotten Slab
+    S:gt.block.planks.slab.4.14.name=Mossy Slab
+    S:gt.block.planks.slab.4.15.name=Frozen Slab
     S:gt.block.planks.slab.4.2.name=Willow Slab
     S:gt.block.planks.slab.4.3.name=Blue Mahoe Slab
     S:gt.block.planks.slab.4.32767.name=Any Sub-Block of this one
@@ -1472,6 +1697,10 @@ languagefile {
     S:gt.block.planks.slab.5.1.name=Maple Slab
     S:gt.block.planks.slab.5.10.name=Compressed Wood Slab
     S:gt.block.planks.slab.5.11.name=Empty Crate Slab
+    S:gt.block.planks.slab.5.12.name=Dead Slab
+    S:gt.block.planks.slab.5.13.name=Rotten Slab
+    S:gt.block.planks.slab.5.14.name=Mossy Slab
+    S:gt.block.planks.slab.5.15.name=Frozen Slab
     S:gt.block.planks.slab.5.2.name=Willow Slab
     S:gt.block.planks.slab.5.3.name=Blue Mahoe Slab
     S:gt.block.planks.slab.5.32767.name=Any Sub-Block of this one
@@ -2047,6 +2276,7 @@ languagefile {
     S:gt.lang.tool.name.hammer=Hammer
     S:gt.lang.tool.name.hoe=Hoe
     S:gt.lang.tool.name.igniter=Igniting Tool
+    S:gt.lang.tool.name.knife=Knife
     S:gt.lang.tool.name.magnifyingglass=Magnifying Glass
     S:gt.lang.tool.name.monkeywrench=Monkey Wrench
     S:gt.lang.tool.name.pickaxe=Pickaxe
@@ -2083,6 +2313,7 @@ languagefile {
     S:gt.lang.tool.tooltip.hammer=Can hammer diverse things
     S:gt.lang.tool.tooltip.hoe=Can till Dirt and similar Earths
     S:gt.lang.tool.tooltip.igniter=Igniting things
+    S:gt.lang.tool.tooltip.knife=Cuts things off of Blocks
     S:gt.lang.tool.tooltip.magnifyingglass=Used to investigate the Scene
     S:gt.lang.tool.tooltip.monkeywrench=A special Wrench for secondary Facings and Pipes
     S:gt.lang.tool.tooltip.pickaxe=
@@ -2609,6 +2840,7 @@ languagefile {
     S:gt.material.Antimatter=Antimatter
     S:gt.material.Antimony=Antimony
     S:gt.material.AnyBronze=Any Bronze
+    S:gt.material.AnyClay=Clay
     S:gt.material.AnyCopper=Copper
     S:gt.material.AnyGlowstone=Glowstone
     S:gt.material.AnyIron=Iron
@@ -2648,6 +2880,7 @@ languagefile {
     S:gt.material.BandedIron=BandedIron
     S:gt.material.Barite=Barite
     S:gt.material.Barium=Barium
+    S:gt.material.Bark=Bark
     S:gt.material.Barley=Barley
     S:gt.material.Basalt=Basalt
     S:gt.material.BasalticMineralSand=Basaltic Mineral Sand
@@ -2850,6 +3083,7 @@ languagefile {
     S:gt.material.Cinnamon=Cinnamon
     S:gt.material.Citrine=Citrine
     S:gt.material.Clay=Clay
+    S:gt.material.ClayBrown=Brown Clay
     S:gt.material.Cluster=Cluster
     S:gt.material.Coal=Coal
     S:gt.material.CoalCoke=Coal Coke
@@ -2893,6 +3127,7 @@ languagefile {
     S:gt.material.DarkAsh=DarkAsh
     S:gt.material.DarkAshes=Dark Ashes
     S:gt.material.DarkIron=Dark Iron
+    S:gt.material.DarkMatter=Dark Matter
     S:gt.material.DarkSteel=Dark Steel
     S:gt.material.DarkStone=Dark Stone
     S:gt.material.DarkThaumium=Dark Thaumium
@@ -3353,6 +3588,7 @@ languagefile {
     S:gt.material.RawTerrasteelAlloy=RawTerrasteelAlloy
     S:gt.material.Red=Red
     S:gt.material.RedAlloy=Red Alloy
+    S:gt.material.RedMatter=Red Matter
     S:gt.material.RedRock=RedRock
     S:gt.material.RedSteel=Red Steel
     S:gt.material.RedVitriol=Red Vitriol
@@ -4110,6 +4346,10 @@ languagefile {
     S:gt.metatool.01.22.tooltip=
     S:gt.metatool.01.23.name=Screwdriver (Empty)
     S:gt.metatool.01.23.tooltip=You need to recharge it
+    S:gt.metatool.01.24.name=Club
+    S:gt.metatool.01.24.tooltip=A primitive weapon with a lot of Power
+    S:gt.metatool.01.25.name=Club (Empty)
+    S:gt.metatool.01.25.tooltip=You need to recharge it
     S:gt.metatool.01.26.name=Wire Cutter
     S:gt.metatool.01.26.tooltip=
     S:gt.metatool.01.27.name=Wire Cutter (Empty)
@@ -4827,6 +5067,12 @@ languagefile {
     S:gt.multiitem.food.12103.tooltip=
     S:gt.multiitem.food.1211.name=Grilled Rib Eye Steak
     S:gt.multiitem.food.1211.tooltip=It is staring at you
+    S:gt.multiitem.food.12201.name=Dry Bark
+    S:gt.multiitem.food.12201.tooltip=Useful for making a simple Fire Starter
+    S:gt.multiitem.food.12300.name=Mud Ball
+    S:gt.multiitem.food.12300.tooltip=
+    S:gt.multiitem.food.12310.name=Brown Clay Ball
+    S:gt.multiitem.food.12310.tooltip=
     S:gt.multiitem.food.130.name=Candleberry
     S:gt.multiitem.food.130.tooltip=
     S:gt.multiitem.food.1300.name=Dogmeat
@@ -4961,6 +5207,8 @@ languagefile {
     S:gt.multiitem.food.270.tooltip=Who lives in a Pineapple under the the Sea?
     S:gt.multiitem.food.271.name=Ananas Slice
     S:gt.multiitem.food.271.tooltip=Did Ted ever find out about the Mystery Pineapple?
+    S:gt.multiitem.food.280.name=Cinnamon Bark
+    S:gt.multiitem.food.280.tooltip=
     S:gt.multiitem.food.30.name=Onion
     S:gt.multiitem.food.30.tooltip=Taking over the whole Taste
     S:gt.multiitem.food.3000.name=Raw Cake Bottom
@@ -5492,6 +5740,8 @@ languagefile {
     S:gt.multiitem.randomtools.5013.tooltip=
     S:gt.multiitem.randomtools.5014.name=Fire Starter
     S:gt.multiitem.randomtools.5014.tooltip=
+    S:gt.multiitem.randomtools.5015.name=Fire Starter
+    S:gt.multiitem.randomtools.5015.tooltip=(Made with Dry Tree Bark)
     S:gt.multiitem.randomtools.5999.name=Wood Pellet
     S:gt.multiitem.randomtools.5999.tooltip=
     S:gt.multiitem.randomtools.6000.name=Stone Generator Module
@@ -5564,6 +5814,8 @@ languagefile {
     S:gt.multiitem.randomtools.9002.tooltip=
     S:gt.multiitem.randomtools.9003.name=Portable Cropnalyzer
     S:gt.multiitem.randomtools.9003.tooltip=
+    S:gt.multiitem.randomtools.996.name=Raw Clay Jug
+    S:gt.multiitem.randomtools.996.tooltip=Put in Furnace to harden it
     S:gt.multiitem.randomtools.997.name=Raw Measuring Pot
     S:gt.multiitem.randomtools.997.tooltip=Put in Furnace to harden it
     S:gt.multiitem.randomtools.998.name=Empty Food Can
@@ -6771,6 +7023,10 @@ languagefile {
     S:gt.multitileentity.20433.name=Matter Replicator (T3)
     S:gt.multitileentity.20434.name=Matter Replicator (T4)
     S:gt.multitileentity.20435.name=Matter Replicator (T5)
+    S:gt.multitileentity.20551.name=Debarker (Bronze)
+    S:gt.multitileentity.20552.name=Debarker (Steel)
+    S:gt.multitileentity.20553.name=Debarker (Titanium)
+    S:gt.multitileentity.20554.name=Debarker (Tungstensteel)
     S:gt.multitileentity.20561.name=Freezer (T1)
     S:gt.multitileentity.20562.name=Freezer (T2)
     S:gt.multitileentity.20563.name=Freezer (T3)
@@ -7351,6 +7607,9 @@ languagefile {
     S:gt.multitileentity.32737.name=Thermos can
     S:gt.multitileentity.32738.name=Measuring Pot
     S:gt.multitileentity.32739.name=Porcelain Cup
+    S:gt.multitileentity.32740.name=Ceramic Jug
+    S:gt.multitileentity.32758.name=Greg o'Lantern
+    S:gt.multitileentity.32759.name=Berry Bush
     S:gt.multitileentity.32760.name=Tapped Rainbowood
     S:gt.multitileentity.32761.name=Tapped Maple
     S:gt.multitileentity.32762.name=Rubber Resin Hole
@@ -7665,6 +7924,7 @@ languagefile {
     S:gt.recipe.cryomixer=Cryo Mixer
     S:gt.recipe.crystallisationcrucible=Crystallisation Crucible
     S:gt.recipe.cutter=Cutter
+    S:gt.recipe.debarker=Debarker
     S:gt.recipe.distillationtower=Distillation Tower
     S:gt.recipe.distillery=Distillery
     S:gt.recipe.drying=Dryer
@@ -8494,6 +8754,19 @@ languagefile {
     S:itemGroup.lens=Lenses
     S:itemGroup.minecartWheels=Cart Wheels
     S:itemGroup.nugget=Nuggets
+    S:itemGroup.ore=Ores
+    S:itemGroup.oreBasalt=Basalt Ores
+    S:itemGroup.oreBedrock=Bedrock Ores
+    S:itemGroup.oreBlackgranite=Black Granite Ores
+    S:itemGroup.oreEndstone=Endstone Ores
+    S:itemGroup.oreGravel=Gravel Ores
+    S:itemGroup.oreMarble=Marble Ores
+    S:itemGroup.oreNetherrack=Netherrack Ores
+    S:itemGroup.oreRedSand=Red Sand Ores
+    S:itemGroup.oreRedgranite=Red Granite Ores
+    S:itemGroup.oreSand=Sand Ores
+    S:itemGroup.oreSandstone=Sandstone Ores
+    S:itemGroup.oreSmall=Small Ores
     S:itemGroup.plantGtBerry=Berries
     S:itemGroup.plantGtBlossom=Blossoms
     S:itemGroup.plantGtFiber=Fibers
@@ -8616,6 +8889,7 @@ languagefile {
     S:oredict.arrowGtPlasticDacite.name=Light Dacite Arrow
     S:oredict.arrowGtPlasticDamascusSteel.name=Light Damascus Steel Arrow
     S:oredict.arrowGtPlasticDarkIron.name=Light Dark Iron Arrow
+    S:oredict.arrowGtPlasticDarkMatter.name=Light Dark Matter Arrow
     S:oredict.arrowGtPlasticDarkSteel.name=Light Dark Steel Arrow
     S:oredict.arrowGtPlasticDarkThaumium.name=Light Dark Thaumium Arrow
     S:oredict.arrowGtPlasticDeepIron.name=Light Deep Iron Arrow
@@ -8724,6 +8998,7 @@ languagefile {
     S:oredict.arrowGtPlasticPyrope.name=Light Pyrope Arrow
     S:oredict.arrowGtPlasticQuartzBlack.name=Light Black Quartz Arrow
     S:oredict.arrowGtPlasticQuartzite.name=Light Quartzite Arrow
+    S:oredict.arrowGtPlasticRedMatter.name=Light Red Matter Arrow
     S:oredict.arrowGtPlasticRedSteel.name=Light Red Steel Arrow
     S:oredict.arrowGtPlasticRedrock.name=Light Redrock Arrow
     S:oredict.arrowGtPlasticRedstonia.name=Light Redstonia Arrow
@@ -8849,6 +9124,7 @@ languagefile {
     S:oredict.arrowGtWoodDacite.name=Dacite Arrow
     S:oredict.arrowGtWoodDamascusSteel.name=Damascus Steel Arrow
     S:oredict.arrowGtWoodDarkIron.name=Dark Iron Arrow
+    S:oredict.arrowGtWoodDarkMatter.name=Dark Matter Arrow
     S:oredict.arrowGtWoodDarkSteel.name=Dark Steel Arrow
     S:oredict.arrowGtWoodDarkThaumium.name=Dark Thaumium Arrow
     S:oredict.arrowGtWoodDeepIron.name=Deep Iron Arrow
@@ -8957,6 +9233,7 @@ languagefile {
     S:oredict.arrowGtWoodPyrope.name=Pyrope Arrow
     S:oredict.arrowGtWoodQuartzBlack.name=Black Quartz Arrow
     S:oredict.arrowGtWoodQuartzite.name=Quartzite Arrow
+    S:oredict.arrowGtWoodRedMatter.name=Red Matter Arrow
     S:oredict.arrowGtWoodRedSteel.name=Red Steel Arrow
     S:oredict.arrowGtWoodRedrock.name=Redrock Arrow
     S:oredict.arrowGtWoodRedstonia.name=Redstonia Arrow
@@ -9188,6 +9465,7 @@ languagefile {
     S:oredict.blockDustBalasRuby.name=Block of Ruby Dust
     S:oredict.blockDustBarite.name=Block of Barite Dust
     S:oredict.blockDustBarium.name=Block of Barium Dust
+    S:oredict.blockDustBark.name=Block of Tree Bark
     S:oredict.blockDustBarley.name=Block of Barley Flour
     S:oredict.blockDustBasalt.name=Block of Basalt Dust
     S:oredict.blockDustBasalticMineralSand.name=Block of Basaltic Mineral Sand
@@ -9261,6 +9539,7 @@ languagefile {
     S:oredict.blockDustCinnabar.name=Block of Cinnabar Dust
     S:oredict.blockDustCinnamon.name=Block of Ground Cinnamon
     S:oredict.blockDustClay.name=Block of Clay Dust
+    S:oredict.blockDustClayBrown.name=Block of Brown Clay Dust
     S:oredict.blockDustCoal.name=Block of Coal Dust
     S:oredict.blockDustCoalCoke.name=Block of Coal Coke Dust
     S:oredict.blockDustCobalt.name=Block of Cobalt Dust
@@ -9289,6 +9568,7 @@ languagefile {
     S:oredict.blockDustDamascusSteel.name=Block of Damascus Steel Dust
     S:oredict.blockDustDarkAshes.name=Block of Dark Ashes
     S:oredict.blockDustDarkIron.name=Block of Dark Iron Dust
+    S:oredict.blockDustDarkMatter.name=Block of Dark Matter Dust
     S:oredict.blockDustDarkSteel.name=Block of Dark Steel Dust
     S:oredict.blockDustDarkThaumium.name=Block of Dark Thaumium Dust
     S:oredict.blockDustDarmstadtium.name=Block of Darmstadtium Dust
@@ -9583,6 +9863,7 @@ languagefile {
     S:oredict.blockDustRareEarth.name=Block of Rare Earth
     S:oredict.blockDustRed.name=Block of Red Dye
     S:oredict.blockDustRedAlloy.name=Block of Red Alloy Dust
+    S:oredict.blockDustRedMatter.name=Block of Red Matter Dust
     S:oredict.blockDustRedSteel.name=Block of Red Steel Dust
     S:oredict.blockDustRedrock.name=Block of Redrock Dust
     S:oredict.blockDustRedstone.name=Block of Redstone Dust
@@ -9777,6 +10058,7 @@ languagefile {
     S:oredict.blockGemCoal.name=Block of Coal
     S:oredict.blockGemCoalCoke.name=Block of Coal Coke
     S:oredict.blockGemCraponite.name=Block of Craponite
+    S:oredict.blockGemDarkMatter.name=Block of Dark Matter
     S:oredict.blockGemDiamantine.name=Block of Diamantine Crystal
     S:oredict.blockGemDiamond.name=Block of Diamond
     S:oredict.blockGemDilithium.name=Block of Dilithium
@@ -9830,6 +10112,7 @@ languagefile {
     S:oredict.blockGemPyrope.name=Block of Pyrope
     S:oredict.blockGemQuartzBlack.name=Block of Black Quartz
     S:oredict.blockGemQuartzite.name=Block of Quartzite
+    S:oredict.blockGemRedMatter.name=Block of Red Matter
     S:oredict.blockGemRedstonia.name=Block of Redstonia Crystal
     S:oredict.blockGemRockSalt.name=Block of Rock Salt
     S:oredict.blockGemRuby.name=Block of Ruby
@@ -10471,6 +10754,7 @@ languagefile {
     S:oredict.blockPlateGemCoal.name=Block of Crystalline Coal Plate
     S:oredict.blockPlateGemCoalCoke.name=Block of Crystalline Coal Coke Plate
     S:oredict.blockPlateGemCraponite.name=Block of Crystalline Craponite Plate
+    S:oredict.blockPlateGemDarkMatter.name=Block of Crystalline Dark Matter Plate
     S:oredict.blockPlateGemDiamantine.name=Block of Crystalline Diamantine Pane
     S:oredict.blockPlateGemDiamond.name=Block of Crystalline Diamond Plate
     S:oredict.blockPlateGemDilithium.name=Block of Crystalline Dilithium Plate
@@ -10519,6 +10803,7 @@ languagefile {
     S:oredict.blockPlateGemPyrope.name=Block of Crystalline Pyrope Plate
     S:oredict.blockPlateGemQuartzBlack.name=Block of Crystalline Black Quartz Plate
     S:oredict.blockPlateGemQuartzite.name=Block of Crystalline Quartzite Plate
+    S:oredict.blockPlateGemRedMatter.name=Block of Crystalline Red Matter Plate
     S:oredict.blockPlateGemRedstoneAlloy.name=Block of Crystalline Redstone Alloy Plate
     S:oredict.blockPlateGemRedstonia.name=Block of Crystalline Redstonia Pane
     S:oredict.blockPlateGemRuby.name=Block of Crystalline Ruby Plate
@@ -11319,6 +11604,7 @@ languagefile {
     S:oredict.boltDacite.name=Dacite Bolt
     S:oredict.boltDamascusSteel.name=Damascus Steel Bolt
     S:oredict.boltDarkIron.name=Dark Iron Bolt
+    S:oredict.boltDarkMatter.name=Dark Matter Bolt
     S:oredict.boltDarkSteel.name=Dark Steel Bolt
     S:oredict.boltDarkThaumium.name=Dark Thaumium Bolt
     S:oredict.boltDarmstadtium.name=Darmstadtium Bolt
@@ -11506,6 +11792,7 @@ languagefile {
     S:oredict.boltQuartzite.name=Quartzite Bolt
     S:oredict.boltRadium.name=Radium Bolt
     S:oredict.boltRedAlloy.name=Red Alloy Bolt
+    S:oredict.boltRedMatter.name=Red Matter Bolt
     S:oredict.boltRedSteel.name=Red Steel Bolt
     S:oredict.boltRedrock.name=Redrock Bolt
     S:oredict.boltRedstoneAlloy.name=Redstone Alloy Bolt
@@ -12296,6 +12583,7 @@ languagefile {
     S:oredict.casingSmallDacite.name=Dacite Item Casing
     S:oredict.casingSmallDamascusSteel.name=Damascus Steel Item Casing
     S:oredict.casingSmallDarkIron.name=Dark Iron Item Casing
+    S:oredict.casingSmallDarkMatter.name=Dark Matter Item Casing
     S:oredict.casingSmallDarkSteel.name=Dark Steel Item Casing
     S:oredict.casingSmallDarkThaumium.name=Dark Thaumium Item Casing
     S:oredict.casingSmallDeepIron.name=Deep Iron Item Casing
@@ -12416,6 +12704,7 @@ languagefile {
     S:oredict.casingSmallPyrope.name=Pyrope Item Casing
     S:oredict.casingSmallQuartzBlack.name=Black Quartz Item Casing
     S:oredict.casingSmallQuartzite.name=Quartzite Item Casing
+    S:oredict.casingSmallRedMatter.name=Red Matter Item Casing
     S:oredict.casingSmallRedSteel.name=Red Steel Item Casing
     S:oredict.casingSmallRedrock.name=Redrock Item Casing
     S:oredict.casingSmallRedstonia.name=Redstonia Item Casing
@@ -13047,6 +13336,7 @@ languagefile {
     S:oredict.chemtubeBalasRuby.name=Glass Tube containing Ruby
     S:oredict.chemtubeBarite.name=Glass Tube containing Barite
     S:oredict.chemtubeBarium.name=Glass Tube containing Barium
+    S:oredict.chemtubeBark.name=Glass Tube containing Bark
     S:oredict.chemtubeBarley.name=Glass Tube containing Barley
     S:oredict.chemtubeBasalt.name=Glass Tube containing Basalt
     S:oredict.chemtubeBasalticMineralSand.name=Glass Tube containing Basaltic Mineral Sand
@@ -13230,6 +13520,7 @@ languagefile {
     S:oredict.chemtubeCinnabar.name=Glass Tube containing Cinnabar
     S:oredict.chemtubeCinnamon.name=Glass Tube containing Cinnamon
     S:oredict.chemtubeClay.name=Glass Tube containing Clay
+    S:oredict.chemtubeClayBrown.name=Glass Tube containing Brown Clay
     S:oredict.chemtubeCoal.name=Glass Tube containing Coal
     S:oredict.chemtubeCoalCoke.name=Glass Tube containing Coal Coke
     S:oredict.chemtubeCobalt.name=Glass Tube containing Cobalt
@@ -13260,6 +13551,7 @@ languagefile {
     S:oredict.chemtubeDamascusSteel.name=Glass Tube containing Damascus Steel
     S:oredict.chemtubeDarkAshes.name=Glass Tube containing Dark Ashes
     S:oredict.chemtubeDarkIron.name=Glass Tube containing Dark Iron
+    S:oredict.chemtubeDarkMatter.name=Glass Tube containing Dark Matter
     S:oredict.chemtubeDarkSteel.name=Glass Tube containing Dark Steel
     S:oredict.chemtubeDarkThaumium.name=Glass Tube containing Dark Thaumium
     S:oredict.chemtubeDarmstadtium.name=Glass Tube containing Darmstadtium
@@ -13611,6 +13903,7 @@ languagefile {
     S:oredict.chemtubeRareEarth.name=Glass Tube containing Rare Earth
     S:oredict.chemtubeRed.name=Glass Tube containing Red
     S:oredict.chemtubeRedAlloy.name=Glass Tube containing Red Alloy
+    S:oredict.chemtubeRedMatter.name=Glass Tube containing Red Matter
     S:oredict.chemtubeRedSteel.name=Glass Tube containing Red Steel
     S:oredict.chemtubeRedVitriol.name=Glass Tube containing Red Vitriol
     S:oredict.chemtubeRedrock.name=Glass Tube containing Redrock
@@ -14521,6 +14814,7 @@ languagefile {
     S:oredict.crateGtDustBalasRuby.name=Crate of Ruby Dust
     S:oredict.crateGtDustBarite.name=Crate of Barite Dust
     S:oredict.crateGtDustBarium.name=Crate of Barium Dust
+    S:oredict.crateGtDustBark.name=Crate of Tree Bark
     S:oredict.crateGtDustBarley.name=Crate of Barley Flour
     S:oredict.crateGtDustBasalt.name=Crate of Basalt Dust
     S:oredict.crateGtDustBasalticMineralSand.name=Crate of Basaltic Mineral Sand
@@ -14594,6 +14888,7 @@ languagefile {
     S:oredict.crateGtDustCinnabar.name=Crate of Cinnabar Dust
     S:oredict.crateGtDustCinnamon.name=Crate of Ground Cinnamon
     S:oredict.crateGtDustClay.name=Crate of Clay Dust
+    S:oredict.crateGtDustClayBrown.name=Crate of Brown Clay Dust
     S:oredict.crateGtDustCoal.name=Crate of Coal Dust
     S:oredict.crateGtDustCoalCoke.name=Crate of Coal Coke Dust
     S:oredict.crateGtDustCobalt.name=Crate of Cobalt Dust
@@ -14622,6 +14917,7 @@ languagefile {
     S:oredict.crateGtDustDamascusSteel.name=Crate of Damascus Steel Dust
     S:oredict.crateGtDustDarkAshes.name=Crate of Dark Ashes
     S:oredict.crateGtDustDarkIron.name=Crate of Dark Iron Dust
+    S:oredict.crateGtDustDarkMatter.name=Crate of Dark Matter Dust
     S:oredict.crateGtDustDarkSteel.name=Crate of Dark Steel Dust
     S:oredict.crateGtDustDarkThaumium.name=Crate of Dark Thaumium Dust
     S:oredict.crateGtDustDarmstadtium.name=Crate of Darmstadtium Dust
@@ -14916,6 +15212,7 @@ languagefile {
     S:oredict.crateGtDustRareEarth.name=Crate of Rare Earth
     S:oredict.crateGtDustRed.name=Crate of Red Dye
     S:oredict.crateGtDustRedAlloy.name=Crate of Red Alloy Dust
+    S:oredict.crateGtDustRedMatter.name=Crate of Red Matter Dust
     S:oredict.crateGtDustRedSteel.name=Crate of Red Steel Dust
     S:oredict.crateGtDustRedrock.name=Crate of Redrock Dust
     S:oredict.crateGtDustRedstone.name=Crate of Redstone Dust
@@ -15110,6 +15407,7 @@ languagefile {
     S:oredict.crateGtGemCoal.name=Crate of Coal
     S:oredict.crateGtGemCoalCoke.name=Crate of Coal Coke
     S:oredict.crateGtGemCraponite.name=Crate of Craponite
+    S:oredict.crateGtGemDarkMatter.name=Crate of Dark Matter
     S:oredict.crateGtGemDiamantine.name=Crate of Diamantine Crystal
     S:oredict.crateGtGemDiamond.name=Crate of Diamond
     S:oredict.crateGtGemDilithium.name=Crate of Dilithium
@@ -15163,6 +15461,7 @@ languagefile {
     S:oredict.crateGtGemPyrope.name=Crate of Pyrope
     S:oredict.crateGtGemQuartzBlack.name=Crate of Black Quartz
     S:oredict.crateGtGemQuartzite.name=Crate of Quartzite
+    S:oredict.crateGtGemRedMatter.name=Crate of Red Matter
     S:oredict.crateGtGemRedstonia.name=Crate of Redstonia Crystal
     S:oredict.crateGtGemRockSalt.name=Crate of Rock Salt
     S:oredict.crateGtGemRuby.name=Crate of Ruby
@@ -15804,6 +16103,7 @@ languagefile {
     S:oredict.crateGtPlateGemCoal.name=Crate of Crystalline Coal Plate
     S:oredict.crateGtPlateGemCoalCoke.name=Crate of Crystalline Coal Coke Plate
     S:oredict.crateGtPlateGemCraponite.name=Crate of Crystalline Craponite Plate
+    S:oredict.crateGtPlateGemDarkMatter.name=Crate of Crystalline Dark Matter Plate
     S:oredict.crateGtPlateGemDiamantine.name=Crate of Crystalline Diamantine Pane
     S:oredict.crateGtPlateGemDiamond.name=Crate of Crystalline Diamond Plate
     S:oredict.crateGtPlateGemDilithium.name=Crate of Crystalline Dilithium Plate
@@ -15852,6 +16152,7 @@ languagefile {
     S:oredict.crateGtPlateGemPyrope.name=Crate of Crystalline Pyrope Plate
     S:oredict.crateGtPlateGemQuartzBlack.name=Crate of Crystalline Black Quartz Plate
     S:oredict.crateGtPlateGemQuartzite.name=Crate of Crystalline Quartzite Plate
+    S:oredict.crateGtPlateGemRedMatter.name=Crate of Crystalline Red Matter Plate
     S:oredict.crateGtPlateGemRedstoneAlloy.name=Crate of Crystalline Redstone Alloy Plate
     S:oredict.crateGtPlateGemRedstonia.name=Crate of Crystalline Redstonia Pane
     S:oredict.crateGtPlateGemRuby.name=Crate of Crystalline Ruby Plate
@@ -16518,6 +16819,7 @@ languagefile {
     S:oredict.crushedCentrifugedGlowstoneProteus.name=Refined Proteus Glowstone Ore
     S:oredict.crushedCentrifugedGold.name=Refined Gold Ore
     S:oredict.crushedCentrifugedGraniticMineralSand.name=Refined Granitic Mineral Sand
+    S:oredict.crushedCentrifugedGraphene.name=Refined Graphene Ore
     S:oredict.crushedCentrifugedGraphite.name=Refined Graphite Ore
     S:oredict.crushedCentrifugedGreenSapphire.name=Refined Green Sapphire Ore
     S:oredict.crushedCentrifugedGrossular.name=Refined Grossular Ore
@@ -16958,6 +17260,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyGlowstoneProteus.name=Tiny Refined Proteus Glowstone Ore
     S:oredict.crushedCentrifugedTinyGold.name=Tiny Refined Gold Ore
     S:oredict.crushedCentrifugedTinyGraniticMineralSand.name=Tiny Refined Granitic Mineral Sand
+    S:oredict.crushedCentrifugedTinyGraphene.name=Tiny Refined Graphene Ore
     S:oredict.crushedCentrifugedTinyGraphite.name=Tiny Refined Graphite Ore
     S:oredict.crushedCentrifugedTinyGreenSapphire.name=Tiny Refined Green Sapphire Ore
     S:oredict.crushedCentrifugedTinyGrossular.name=Tiny Refined Grossular Ore
@@ -17293,6 +17596,7 @@ languagefile {
     S:oredict.crushedGlowstoneProteus.name=Crushed Proteus Glowstone Ore
     S:oredict.crushedGold.name=Crushed Gold Ore
     S:oredict.crushedGraniticMineralSand.name=Ground Granitic Mineral Sand
+    S:oredict.crushedGraphene.name=Crushed Graphene Ore
     S:oredict.crushedGraphite.name=Crushed Graphite Ore
     S:oredict.crushedGreenSapphire.name=Crushed Green Sapphire Ore
     S:oredict.crushedGrossular.name=Crushed Grossular Ore
@@ -17670,6 +17974,7 @@ languagefile {
     S:oredict.crushedPurifiedGlowstoneProteus.name=Purified Proteus Glowstone Ore
     S:oredict.crushedPurifiedGold.name=Purified Gold Ore
     S:oredict.crushedPurifiedGraniticMineralSand.name=Purified Granitic Mineral Sand
+    S:oredict.crushedPurifiedGraphene.name=Purified Graphene Ore
     S:oredict.crushedPurifiedGraphite.name=Purified Graphite Ore
     S:oredict.crushedPurifiedGreenSapphire.name=Purified Green Sapphire Ore
     S:oredict.crushedPurifiedGrossular.name=Purified Grossular Ore
@@ -18110,6 +18415,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyGlowstoneProteus.name=Tiny Purified Proteus Glowstone Ore
     S:oredict.crushedPurifiedTinyGold.name=Tiny Purified Gold Ore
     S:oredict.crushedPurifiedTinyGraniticMineralSand.name=Tiny Purified Granitic Mineral Sand
+    S:oredict.crushedPurifiedTinyGraphene.name=Tiny Purified Graphene Ore
     S:oredict.crushedPurifiedTinyGraphite.name=Tiny Purified Graphite Ore
     S:oredict.crushedPurifiedTinyGreenSapphire.name=Tiny Purified Green Sapphire Ore
     S:oredict.crushedPurifiedTinyGrossular.name=Tiny Purified Grossular Ore
@@ -18691,6 +18997,7 @@ languagefile {
     S:oredict.crushedTinyGlowstoneProteus.name=Tiny Crushed Proteus Glowstone Ore
     S:oredict.crushedTinyGold.name=Tiny Crushed Gold Ore
     S:oredict.crushedTinyGraniticMineralSand.name=Tiny Ground Granitic Mineral Sand
+    S:oredict.crushedTinyGraphene.name=Tiny Crushed Graphene Ore
     S:oredict.crushedTinyGraphite.name=Tiny Crushed Graphite Ore
     S:oredict.crushedTinyGreenSapphire.name=Tiny Crushed Green Sapphire Ore
     S:oredict.crushedTinyGrossular.name=Tiny Crushed Grossular Ore
@@ -19110,6 +19417,7 @@ languagefile {
     S:oredict.dustBalasRuby.name=Ruby Dust
     S:oredict.dustBarite.name=Barite Dust
     S:oredict.dustBarium.name=Barium Dust
+    S:oredict.dustBark.name=Tree Bark
     S:oredict.dustBarley.name=Barley Flour
     S:oredict.dustBasalt.name=Basalt Dust
     S:oredict.dustBasalticMineralSand.name=Basaltic Mineral Sand
@@ -19181,6 +19489,7 @@ languagefile {
     S:oredict.dustCinnabar.name=Cinnabar Dust
     S:oredict.dustCinnamon.name=Ground Cinnamon
     S:oredict.dustClay.name=Clay Dust
+    S:oredict.dustClayBrown.name=Brown Clay Dust
     S:oredict.dustCoal.name=Coal Dust
     S:oredict.dustCoalCoke.name=Coal Coke Dust
     S:oredict.dustCobalt.name=Cobalt Dust
@@ -19209,6 +19518,7 @@ languagefile {
     S:oredict.dustDamascusSteel.name=Damascus Steel Dust
     S:oredict.dustDarkAshes.name=Dark Ashes
     S:oredict.dustDarkIron.name=Dark Iron Dust
+    S:oredict.dustDarkMatter.name=Dark Matter Dust
     S:oredict.dustDarkSteel.name=Dark Steel Dust
     S:oredict.dustDarkThaumium.name=Dark Thaumium Dust
     S:oredict.dustDarmstadtium.name=Darmstadtium Dust
@@ -19389,6 +19699,7 @@ languagefile {
     S:oredict.dustDiv72BalasRuby.name=1/72nd of a Pile of Ruby Dust
     S:oredict.dustDiv72Barite.name=1/72nd of a Pile of Barite Dust
     S:oredict.dustDiv72Barium.name=1/72nd of a Pile of Barium Dust
+    S:oredict.dustDiv72Bark.name=1/72nd of a Pile of Tree Bark
     S:oredict.dustDiv72Barley.name=1/72nd of a Pile of Barley Flour
     S:oredict.dustDiv72Basalt.name=1/72nd of a Pile of Basalt Dust
     S:oredict.dustDiv72BasalticMineralSand.name=1/72nd of a Pile of Basaltic Mineral Sand
@@ -19462,6 +19773,7 @@ languagefile {
     S:oredict.dustDiv72Cinnabar.name=1/72nd of a Pile of Cinnabar Dust
     S:oredict.dustDiv72Cinnamon.name=1/72nd of a Pile of Ground Cinnamon
     S:oredict.dustDiv72Clay.name=1/72nd of a Pile of Clay Dust
+    S:oredict.dustDiv72ClayBrown.name=1/72nd of a Pile of Brown Clay Dust
     S:oredict.dustDiv72Coal.name=1/72nd of a Pile of Coal Dust
     S:oredict.dustDiv72CoalCoke.name=1/72nd of a Pile of Coal Coke Dust
     S:oredict.dustDiv72Cobalt.name=1/72nd of a Pile of Cobalt Dust
@@ -19490,6 +19802,7 @@ languagefile {
     S:oredict.dustDiv72DamascusSteel.name=1/72nd of a Pile of Damascus Steel Dust
     S:oredict.dustDiv72DarkAshes.name=1/72nd of a Pile of Dark Ashes
     S:oredict.dustDiv72DarkIron.name=1/72nd of a Pile of Dark Iron Dust
+    S:oredict.dustDiv72DarkMatter.name=1/72nd of a Pile of Dark Matter Dust
     S:oredict.dustDiv72DarkSteel.name=1/72nd of a Pile of Dark Steel Dust
     S:oredict.dustDiv72DarkThaumium.name=1/72nd of a Pile of Dark Thaumium Dust
     S:oredict.dustDiv72Darmstadtium.name=1/72nd of a Pile of Darmstadtium Dust
@@ -19784,6 +20097,7 @@ languagefile {
     S:oredict.dustDiv72RareEarth.name=1/72nd of a Pile of Rare Earth
     S:oredict.dustDiv72Red.name=1/72nd of a Pile of Red Dye
     S:oredict.dustDiv72RedAlloy.name=1/72nd of a Pile of Red Alloy Dust
+    S:oredict.dustDiv72RedMatter.name=1/72nd of a Pile of Red Matter Dust
     S:oredict.dustDiv72RedSteel.name=1/72nd of a Pile of Red Steel Dust
     S:oredict.dustDiv72Redrock.name=1/72nd of a Pile of Redrock Dust
     S:oredict.dustDiv72Redstone.name=1/72nd of a Pile of Redstone Dust
@@ -20340,6 +20654,7 @@ languagefile {
     S:oredict.dustImpureGraniteBlack.name=Impure Pile of Black Granite Dust
     S:oredict.dustImpureGraniteRed.name=Impure Pile of Red Granite Dust
     S:oredict.dustImpureGraniticMineralSand.name=Impure Pile of Granitic Mineral Sand
+    S:oredict.dustImpureGraphene.name=Impure Pile of Graphene Dust
     S:oredict.dustImpureGraphite.name=Impure Pile of Graphite Dust
     S:oredict.dustImpureGreenSapphire.name=Impure Pile of Green Sapphire Dust
     S:oredict.dustImpureGreenschist.name=Impure Pile of Green Schist Dust
@@ -21007,6 +21322,7 @@ languagefile {
     S:oredict.dustPureGraniteBlack.name=Purified Pile of Black Granite Dust
     S:oredict.dustPureGraniteRed.name=Purified Pile of Red Granite Dust
     S:oredict.dustPureGraniticMineralSand.name=Purified Pile of Granitic Mineral Sand
+    S:oredict.dustPureGraphene.name=Purified Pile of Graphene Dust
     S:oredict.dustPureGraphite.name=Purified Pile of Graphite Dust
     S:oredict.dustPureGreenSapphire.name=Purified Pile of Green Sapphire Dust
     S:oredict.dustPureGreenschist.name=Purified Pile of Green Schist Dust
@@ -21247,6 +21563,7 @@ languagefile {
     S:oredict.dustRareEarth.name=Rare Earth
     S:oredict.dustRed.name=Red Dye
     S:oredict.dustRedAlloy.name=Red Alloy Dust
+    S:oredict.dustRedMatter.name=Red Matter Dust
     S:oredict.dustRedSteel.name=Red Steel Dust
     S:oredict.dustRedrock.name=Redrock Dust
     S:oredict.dustRedstoneAlloy.name=Redstone Alloy Dust
@@ -21452,6 +21769,7 @@ languagefile {
     S:oredict.dustSmallBalasRuby.name=Small Pile of Ruby Dust
     S:oredict.dustSmallBarite.name=Small Pile of Barite Dust
     S:oredict.dustSmallBarium.name=Small Pile of Barium Dust
+    S:oredict.dustSmallBark.name=Small Pile of Tree Bark
     S:oredict.dustSmallBarley.name=Small Pile of Barley Flour
     S:oredict.dustSmallBasalt.name=Small Pile of Basalt Dust
     S:oredict.dustSmallBasalticMineralSand.name=Small Pile of Basaltic Mineral Sand
@@ -21525,6 +21843,7 @@ languagefile {
     S:oredict.dustSmallCinnabar.name=Small Pile of Cinnabar Dust
     S:oredict.dustSmallCinnamon.name=Small Pile of Ground Cinnamon
     S:oredict.dustSmallClay.name=Small Pile of Clay Dust
+    S:oredict.dustSmallClayBrown.name=Small Pile of Brown Clay Dust
     S:oredict.dustSmallCoal.name=Small Pile of Coal Dust
     S:oredict.dustSmallCoalCoke.name=Small Pile of Coal Coke Dust
     S:oredict.dustSmallCobalt.name=Small Pile of Cobalt Dust
@@ -21553,6 +21872,7 @@ languagefile {
     S:oredict.dustSmallDamascusSteel.name=Small Pile of Damascus Steel Dust
     S:oredict.dustSmallDarkAshes.name=Small Pile of Dark Ashes
     S:oredict.dustSmallDarkIron.name=Small Pile of Dark Iron Dust
+    S:oredict.dustSmallDarkMatter.name=Small Pile of Dark Matter Dust
     S:oredict.dustSmallDarkSteel.name=Small Pile of Dark Steel Dust
     S:oredict.dustSmallDarkThaumium.name=Small Pile of Dark Thaumium Dust
     S:oredict.dustSmallDarmstadtium.name=Small Pile of Darmstadtium Dust
@@ -21847,6 +22167,7 @@ languagefile {
     S:oredict.dustSmallRareEarth.name=Small Pile of Rare Earth
     S:oredict.dustSmallRed.name=Small Pile of Red Dye
     S:oredict.dustSmallRedAlloy.name=Small Pile of Red Alloy Dust
+    S:oredict.dustSmallRedMatter.name=Small Pile of Red Matter Dust
     S:oredict.dustSmallRedSteel.name=Small Pile of Red Steel Dust
     S:oredict.dustSmallRedrock.name=Small Pile of Redrock Dust
     S:oredict.dustSmallRedstone.name=Small Pile of Redstone Dust
@@ -22230,6 +22551,7 @@ languagefile {
     S:oredict.dustTinyBalasRuby.name=Tiny Pile of Ruby Dust
     S:oredict.dustTinyBarite.name=Tiny Pile of Barite Dust
     S:oredict.dustTinyBarium.name=Tiny Pile of Barium Dust
+    S:oredict.dustTinyBark.name=Tiny Pile of Tree Bark
     S:oredict.dustTinyBarley.name=Tiny Pile of Barley Flour
     S:oredict.dustTinyBasalt.name=Tiny Pile of Basalt Dust
     S:oredict.dustTinyBasalticMineralSand.name=Tiny Pile of Basaltic Mineral Sand
@@ -22303,6 +22625,7 @@ languagefile {
     S:oredict.dustTinyCinnabar.name=Tiny Pile of Cinnabar Dust
     S:oredict.dustTinyCinnamon.name=Tiny Pile of Ground Cinnamon
     S:oredict.dustTinyClay.name=Tiny Pile of Clay Dust
+    S:oredict.dustTinyClayBrown.name=Tiny Pile of Brown Clay Dust
     S:oredict.dustTinyCoal.name=Tiny Pile of Coal Dust
     S:oredict.dustTinyCoalCoke.name=Tiny Pile of Coal Coke Dust
     S:oredict.dustTinyCobalt.name=Tiny Pile of Cobalt Dust
@@ -22331,6 +22654,7 @@ languagefile {
     S:oredict.dustTinyDamascusSteel.name=Tiny Pile of Damascus Steel Dust
     S:oredict.dustTinyDarkAshes.name=Tiny Pile of Dark Ashes
     S:oredict.dustTinyDarkIron.name=Tiny Pile of Dark Iron Dust
+    S:oredict.dustTinyDarkMatter.name=Tiny Pile of Dark Matter Dust
     S:oredict.dustTinyDarkSteel.name=Tiny Pile of Dark Steel Dust
     S:oredict.dustTinyDarkThaumium.name=Tiny Pile of Dark Thaumium Dust
     S:oredict.dustTinyDarmstadtium.name=Tiny Pile of Darmstadtium Dust
@@ -22625,6 +22949,7 @@ languagefile {
     S:oredict.dustTinyRareEarth.name=Tiny Pile of Rare Earth
     S:oredict.dustTinyRed.name=Tiny Pile of Red Dye
     S:oredict.dustTinyRedAlloy.name=Tiny Pile of Red Alloy Dust
+    S:oredict.dustTinyRedMatter.name=Tiny Pile of Red Matter Dust
     S:oredict.dustTinyRedSteel.name=Tiny Pile of Red Steel Dust
     S:oredict.dustTinyRedrock.name=Tiny Pile of Redrock Dust
     S:oredict.dustTinyRedstone.name=Tiny Pile of Redstone Dust
@@ -23303,6 +23628,7 @@ languagefile {
     S:oredict.gearGtDacite.name=Dacite Gear
     S:oredict.gearGtDamascusSteel.name=Damascus Steel Gear
     S:oredict.gearGtDarkIron.name=Dark Iron Gear
+    S:oredict.gearGtDarkMatter.name=Dark Matter Gear
     S:oredict.gearGtDarkSteel.name=Dark Steel Gear
     S:oredict.gearGtDarkThaumium.name=Dark Thaumium Gear
     S:oredict.gearGtDeepIron.name=Deep Iron Gear
@@ -23423,6 +23749,7 @@ languagefile {
     S:oredict.gearGtPyrope.name=Pyrope Gear
     S:oredict.gearGtQuartzBlack.name=Black Quartz Gear
     S:oredict.gearGtQuartzite.name=Quartzite Gear
+    S:oredict.gearGtRedMatter.name=Red Matter Gear
     S:oredict.gearGtRedSteel.name=Red Steel Gear
     S:oredict.gearGtRedrock.name=Redrock Gear
     S:oredict.gearGtRedstonia.name=Redstonia Gear
@@ -23506,6 +23833,7 @@ languagefile {
     S:oredict.gearGtSmallDacite.name=Small Dacite Gear
     S:oredict.gearGtSmallDamascusSteel.name=Small Damascus Steel Gear
     S:oredict.gearGtSmallDarkIron.name=Small Dark Iron Gear
+    S:oredict.gearGtSmallDarkMatter.name=Small Dark Matter Gear
     S:oredict.gearGtSmallDarkSteel.name=Small Dark Steel Gear
     S:oredict.gearGtSmallDarkThaumium.name=Small Dark Thaumium Gear
     S:oredict.gearGtSmallDeepIron.name=Small Deep Iron Gear
@@ -23626,6 +23954,7 @@ languagefile {
     S:oredict.gearGtSmallPyrope.name=Small Pyrope Gear
     S:oredict.gearGtSmallQuartzBlack.name=Small Black Quartz Gear
     S:oredict.gearGtSmallQuartzite.name=Small Quartzite Gear
+    S:oredict.gearGtSmallRedMatter.name=Small Red Matter Gear
     S:oredict.gearGtSmallRedSteel.name=Small Red Steel Gear
     S:oredict.gearGtSmallRedrock.name=Small Redrock Gear
     S:oredict.gearGtSmallRedstonia.name=Small Redstonia Gear
@@ -23825,6 +24154,7 @@ languagefile {
     S:oredict.gemChippedZirconium.name=Chipped Zirconium
     S:oredict.gemCoalCoke.name=Coal Coke
     S:oredict.gemCraponite.name=Craponite
+    S:oredict.gemDarkMatter.name=Dark Matter
     S:oredict.gemDiamantine.name=Diamantine Crystal
     S:oredict.gemDilithium.name=Dilithium
     S:oredict.gemDioptase.name=Dioptase
@@ -24050,6 +24380,7 @@ languagefile {
     S:oredict.gemPyrope.name=Pyrope
     S:oredict.gemQuartzBlack.name=Black Quartz
     S:oredict.gemQuartzite.name=Quartzite
+    S:oredict.gemRedMatter.name=Red Matter
     S:oredict.gemRedstonia.name=Redstonia Crystal
     S:oredict.gemRockSalt.name=Rock Salt
     S:oredict.gemRuby.name=Ruby
@@ -27750,6 +28081,7 @@ languagefile {
     S:oredict.oreBasaltGlowstoneProteus.name=Basalt Proteus Glowstone Ore
     S:oredict.oreBasaltGold.name=Basalt Gold Ore
     S:oredict.oreBasaltGraniticMineralSand.name=Basalt Granitic Mineral Sand
+    S:oredict.oreBasaltGraphene.name=Basalt Graphene Ore
     S:oredict.oreBasaltGraphite.name=Basalt Graphite Ore
     S:oredict.oreBasaltGreenSapphire.name=Basalt Green Sapphire Ore
     S:oredict.oreBasaltGrossular.name=Basalt Grossular Ore
@@ -28232,6 +28564,7 @@ languagefile {
     S:oredict.oreBedrockGlowstoneProteus.name=Bedrock Proteus Glowstone Ore
     S:oredict.oreBedrockGold.name=Bedrock Gold Ore
     S:oredict.oreBedrockGraniticMineralSand.name=Bedrock Granitic Mineral Sand
+    S:oredict.oreBedrockGraphene.name=Bedrock Graphene Ore
     S:oredict.oreBedrockGraphite.name=Bedrock Graphite Ore
     S:oredict.oreBedrockGreenSapphire.name=Bedrock Green Sapphire Ore
     S:oredict.oreBedrockGrossular.name=Bedrock Grossular Ore
@@ -28716,6 +29049,7 @@ languagefile {
     S:oredict.oreBlackgraniteGlowstoneProteus.name=Granite Proteus Glowstone Ore
     S:oredict.oreBlackgraniteGold.name=Granite Gold Ore
     S:oredict.oreBlackgraniteGraniticMineralSand.name=Granite Granitic Mineral Sand
+    S:oredict.oreBlackgraniteGraphene.name=Granite Graphene Ore
     S:oredict.oreBlackgraniteGraphite.name=Granite Graphite Ore
     S:oredict.oreBlackgraniteGreenSapphire.name=Granite Green Sapphire Ore
     S:oredict.oreBlackgraniteGrossular.name=Granite Grossular Ore
@@ -29744,6 +30078,7 @@ languagefile {
     S:oredict.oreEndstoneGlowstoneProteus.name=End Proteus Glowstone Ore
     S:oredict.oreEndstoneGold.name=End Gold Ore
     S:oredict.oreEndstoneGraniticMineralSand.name=End Granitic Mineral Sand
+    S:oredict.oreEndstoneGraphene.name=End Graphene Ore
     S:oredict.oreEndstoneGraphite.name=End Graphite Ore
     S:oredict.oreEndstoneGreenSapphire.name=End Green Sapphire Ore
     S:oredict.oreEndstoneGrossular.name=End Grossular Ore
@@ -29991,6 +30326,7 @@ languagefile {
     S:oredict.oreGlowstoneProteus.name=Proteus Glowstone Ore
     S:oredict.oreGold.name=Gold Ore
     S:oredict.oreGraniticMineralSand.name=Granitic Mineral Sand
+    S:oredict.oreGraphene.name=Graphene Ore
     S:oredict.oreGraphite.name=Graphite Ore
     S:oredict.oreGravelActinium.name=Gravel Actinium Ore
     S:oredict.oreGravelAdamantine.name=Gravel Adamantine Ore
@@ -30257,6 +30593,7 @@ languagefile {
     S:oredict.oreGravelGlowstoneProteus.name=Gravel Proteus Glowstone Ore
     S:oredict.oreGravelGold.name=Gravel Gold Ore
     S:oredict.oreGravelGraniticMineralSand.name=Gravel Granitic Mineral Sand
+    S:oredict.oreGravelGraphene.name=Gravel Graphene Ore
     S:oredict.oreGravelGraphite.name=Gravel Graphite Ore
     S:oredict.oreGravelGreenSapphire.name=Gravel Green Sapphire Ore
     S:oredict.oreGravelGrossular.name=Gravel Grossular Ore
@@ -31264,6 +31601,7 @@ languagefile {
     S:oredict.oreMarbleGlowstoneProteus.name=Marble Proteus Glowstone Ore
     S:oredict.oreMarbleGold.name=Marble Gold Ore
     S:oredict.oreMarbleGraniticMineralSand.name=Marble Granitic Mineral Sand
+    S:oredict.oreMarbleGraphene.name=Marble Graphene Ore
     S:oredict.oreMarbleGraphite.name=Marble Graphite Ore
     S:oredict.oreMarbleGreenSapphire.name=Marble Green Sapphire Ore
     S:oredict.oreMarbleGrossular.name=Marble Grossular Ore
@@ -31763,6 +32101,7 @@ languagefile {
     S:oredict.oreNetherrackGlowstoneProteus.name=Nether Proteus Glowstone Ore
     S:oredict.oreNetherrackGold.name=Nether Gold Ore
     S:oredict.oreNetherrackGraniticMineralSand.name=Nether Granitic Mineral Sand
+    S:oredict.oreNetherrackGraphene.name=Nether Graphene Ore
     S:oredict.oreNetherrackGraphite.name=Nether Graphite Ore
     S:oredict.oreNetherrackGreenSapphire.name=Nether Green Sapphire Ore
     S:oredict.oreNetherrackGrossular.name=Nether Grossular Ore
@@ -32292,6 +32631,7 @@ languagefile {
     S:oredict.oreRedSandGlowstoneProteus.name=Sand Proteus Glowstone Ore
     S:oredict.oreRedSandGold.name=Sand Gold Ore
     S:oredict.oreRedSandGraniticMineralSand.name=Sand Granitic Mineral Sand
+    S:oredict.oreRedSandGraphene.name=Sand Graphene Ore
     S:oredict.oreRedSandGraphite.name=Sand Graphite Ore
     S:oredict.oreRedSandGreenSapphire.name=Sand Green Sapphire Ore
     S:oredict.oreRedSandGrossular.name=Sand Grossular Ore
@@ -32771,6 +33111,7 @@ languagefile {
     S:oredict.oreRedgraniteGlowstoneProteus.name=Granite Proteus Glowstone Ore
     S:oredict.oreRedgraniteGold.name=Granite Gold Ore
     S:oredict.oreRedgraniteGraniticMineralSand.name=Granite Granitic Mineral Sand
+    S:oredict.oreRedgraniteGraphene.name=Granite Graphene Ore
     S:oredict.oreRedgraniteGraphite.name=Granite Graphite Ore
     S:oredict.oreRedgraniteGreenSapphire.name=Granite Green Sapphire Ore
     S:oredict.oreRedgraniteGrossular.name=Granite Grossular Ore
@@ -33265,6 +33606,7 @@ languagefile {
     S:oredict.oreSandGlowstoneProteus.name=Sand Proteus Glowstone Ore
     S:oredict.oreSandGold.name=Sand Gold Ore
     S:oredict.oreSandGraniticMineralSand.name=Sand Granitic Mineral Sand
+    S:oredict.oreSandGraphene.name=Sand Graphene Ore
     S:oredict.oreSandGraphite.name=Sand Graphite Ore
     S:oredict.oreSandGreenSapphire.name=Sand Green Sapphire Ore
     S:oredict.oreSandGrossular.name=Sand Grossular Ore
@@ -33744,6 +34086,7 @@ languagefile {
     S:oredict.oreSandstoneGlowstoneProteus.name=Sandstone Proteus Glowstone Ore
     S:oredict.oreSandstoneGold.name=Sandstone Gold Ore
     S:oredict.oreSandstoneGraniticMineralSand.name=Sandstone Granitic Mineral Sand
+    S:oredict.oreSandstoneGraphene.name=Sandstone Graphene Ore
     S:oredict.oreSandstoneGraphite.name=Sandstone Graphite Ore
     S:oredict.oreSandstoneGreenSapphire.name=Sandstone Green Sapphire Ore
     S:oredict.oreSandstoneGrossular.name=Sandstone Grossular Ore
@@ -34235,6 +34578,7 @@ languagefile {
     S:oredict.oreSmallGlowstoneProteus.name=Small Proteus Glowstone Ore
     S:oredict.oreSmallGold.name=Small Gold Ore
     S:oredict.oreSmallGraniticMineralSand.name=Small Granitic Mineral Sand
+    S:oredict.oreSmallGraphene.name=Small Graphene Ore
     S:oredict.oreSmallGraphite.name=Small Graphite Ore
     S:oredict.oreSmallGreenSapphire.name=Small Green Sapphire Ore
     S:oredict.oreSmallGrossular.name=Small Grossular Ore
@@ -34684,6 +35028,7 @@ languagefile {
     S:oredict.plantGtBerryBalasRuby.name=Ruby Berry
     S:oredict.plantGtBerryBarite.name=Barite Berry
     S:oredict.plantGtBerryBarium.name=Barium Berry
+    S:oredict.plantGtBerryBark.name=Bark Berry
     S:oredict.plantGtBerryBarley.name=Barley Berry
     S:oredict.plantGtBerryBasalt.name=Basalt Berry
     S:oredict.plantGtBerryBasalticMineralSand.name=Basaltic Mineral Sand Berry
@@ -34766,6 +35111,7 @@ languagefile {
     S:oredict.plantGtBerryCinnabar.name=Cinnabar Berry
     S:oredict.plantGtBerryCinnamon.name=Cinnamon Berry
     S:oredict.plantGtBerryClay.name=Clay Berry
+    S:oredict.plantGtBerryClayBrown.name=Brown Clay Berry
     S:oredict.plantGtBerryCoal.name=Coal Berry
     S:oredict.plantGtBerryCoalCoke.name=Coal Coke Berry
     S:oredict.plantGtBerryCobalt.name=Cobalt Berry
@@ -34796,6 +35142,7 @@ languagefile {
     S:oredict.plantGtBerryDamascusSteel.name=Damascus Steel Berry
     S:oredict.plantGtBerryDarkAshes.name=Dark Ashes Berry
     S:oredict.plantGtBerryDarkIron.name=Dark Iron Berry
+    S:oredict.plantGtBerryDarkMatter.name=Dark Matter Berry
     S:oredict.plantGtBerryDarkSteel.name=Dark Steel Berry
     S:oredict.plantGtBerryDarkThaumium.name=Dark Thaumium Berry
     S:oredict.plantGtBerryDarmstadtium.name=Darmstadtium Berry
@@ -35127,6 +35474,7 @@ languagefile {
     S:oredict.plantGtBerryRareEarth.name=Rare Earth Berry
     S:oredict.plantGtBerryRed.name=Red Berry
     S:oredict.plantGtBerryRedAlloy.name=Red Alloy Berry
+    S:oredict.plantGtBerryRedMatter.name=Red Matter Berry
     S:oredict.plantGtBerryRedSteel.name=Red Steel Berry
     S:oredict.plantGtBerryRedVitriol.name=Red Vitriol Berry
     S:oredict.plantGtBerryRedrock.name=Redrock Berry
@@ -35475,6 +35823,7 @@ languagefile {
     S:oredict.plantGtBlossomBalasRuby.name=Ruby Blossom
     S:oredict.plantGtBlossomBarite.name=Barite Blossom
     S:oredict.plantGtBlossomBarium.name=Barium Blossom
+    S:oredict.plantGtBlossomBark.name=Bark Blossom
     S:oredict.plantGtBlossomBarley.name=Barley Blossom
     S:oredict.plantGtBlossomBasalt.name=Basalt Blossom
     S:oredict.plantGtBlossomBasalticMineralSand.name=Basaltic Mineral Sand Blossom
@@ -35557,6 +35906,7 @@ languagefile {
     S:oredict.plantGtBlossomCinnabar.name=Cinnabar Blossom
     S:oredict.plantGtBlossomCinnamon.name=Cinnamon Blossom
     S:oredict.plantGtBlossomClay.name=Clay Blossom
+    S:oredict.plantGtBlossomClayBrown.name=Brown Clay Blossom
     S:oredict.plantGtBlossomCoal.name=Coal Blossom
     S:oredict.plantGtBlossomCoalCoke.name=Coal Coke Blossom
     S:oredict.plantGtBlossomCobalt.name=Cobalt Blossom
@@ -35587,6 +35937,7 @@ languagefile {
     S:oredict.plantGtBlossomDamascusSteel.name=Damascus Steel Blossom
     S:oredict.plantGtBlossomDarkAshes.name=Dark Ashes Blossom
     S:oredict.plantGtBlossomDarkIron.name=Dark Iron Blossom
+    S:oredict.plantGtBlossomDarkMatter.name=Dark Matter Blossom
     S:oredict.plantGtBlossomDarkSteel.name=Dark Steel Blossom
     S:oredict.plantGtBlossomDarkThaumium.name=Dark Thaumium Blossom
     S:oredict.plantGtBlossomDarmstadtium.name=Darmstadtium Blossom
@@ -35918,6 +36269,7 @@ languagefile {
     S:oredict.plantGtBlossomRareEarth.name=Rare Earth Blossom
     S:oredict.plantGtBlossomRed.name=Red Blossom
     S:oredict.plantGtBlossomRedAlloy.name=Red Alloy Blossom
+    S:oredict.plantGtBlossomRedMatter.name=Red Matter Blossom
     S:oredict.plantGtBlossomRedSteel.name=Red Steel Blossom
     S:oredict.plantGtBlossomRedVitriol.name=Red Vitriol Blossom
     S:oredict.plantGtBlossomRedrock.name=Redrock Blossom
@@ -36266,6 +36618,7 @@ languagefile {
     S:oredict.plantGtFiberBalasRuby.name=Raw Ruby Fiber
     S:oredict.plantGtFiberBarite.name=Raw Barite Fiber
     S:oredict.plantGtFiberBarium.name=Raw Barium Fiber
+    S:oredict.plantGtFiberBark.name=Raw Bark Fiber
     S:oredict.plantGtFiberBarley.name=Raw Barley Fiber
     S:oredict.plantGtFiberBasalt.name=Raw Basalt Fiber
     S:oredict.plantGtFiberBasalticMineralSand.name=Raw Basaltic Mineral Sand Fiber
@@ -36348,6 +36701,7 @@ languagefile {
     S:oredict.plantGtFiberCinnabar.name=Raw Cinnabar Fiber
     S:oredict.plantGtFiberCinnamon.name=Raw Cinnamon Fiber
     S:oredict.plantGtFiberClay.name=Raw Clay Fiber
+    S:oredict.plantGtFiberClayBrown.name=Raw Brown Clay Fiber
     S:oredict.plantGtFiberCoal.name=Raw Coal Fiber
     S:oredict.plantGtFiberCoalCoke.name=Raw Coal Coke Fiber
     S:oredict.plantGtFiberCobalt.name=Raw Cobalt Fiber
@@ -36378,6 +36732,7 @@ languagefile {
     S:oredict.plantGtFiberDamascusSteel.name=Raw Damascus Steel Fiber
     S:oredict.plantGtFiberDarkAshes.name=Raw Dark Ashes Fiber
     S:oredict.plantGtFiberDarkIron.name=Raw Dark Iron Fiber
+    S:oredict.plantGtFiberDarkMatter.name=Raw Dark Matter Fiber
     S:oredict.plantGtFiberDarkSteel.name=Raw Dark Steel Fiber
     S:oredict.plantGtFiberDarkThaumium.name=Raw Dark Thaumium Fiber
     S:oredict.plantGtFiberDarmstadtium.name=Raw Darmstadtium Fiber
@@ -36709,6 +37064,7 @@ languagefile {
     S:oredict.plantGtFiberRareEarth.name=Raw Rare Earth Fiber
     S:oredict.plantGtFiberRed.name=Red String
     S:oredict.plantGtFiberRedAlloy.name=Raw Red Alloy Fiber
+    S:oredict.plantGtFiberRedMatter.name=Raw Red Matter Fiber
     S:oredict.plantGtFiberRedSteel.name=Raw Red Steel Fiber
     S:oredict.plantGtFiberRedVitriol.name=Raw Red Vitriol Fiber
     S:oredict.plantGtFiberRedrock.name=Raw Redrock Fiber
@@ -37057,6 +37413,7 @@ languagefile {
     S:oredict.plantGtTwigBalasRuby.name=Ruby Twig
     S:oredict.plantGtTwigBarite.name=Barite Twig
     S:oredict.plantGtTwigBarium.name=Barium Twig
+    S:oredict.plantGtTwigBark.name=Bark Twig
     S:oredict.plantGtTwigBarley.name=Barley Twig
     S:oredict.plantGtTwigBasalt.name=Basalt Twig
     S:oredict.plantGtTwigBasalticMineralSand.name=Basaltic Mineral Sand Twig
@@ -37139,6 +37496,7 @@ languagefile {
     S:oredict.plantGtTwigCinnabar.name=Cinnabar Twig
     S:oredict.plantGtTwigCinnamon.name=Cinnamon Twig
     S:oredict.plantGtTwigClay.name=Clay Twig
+    S:oredict.plantGtTwigClayBrown.name=Brown Clay Twig
     S:oredict.plantGtTwigCoal.name=Coal Twig
     S:oredict.plantGtTwigCoalCoke.name=Coal Coke Twig
     S:oredict.plantGtTwigCobalt.name=Cobalt Twig
@@ -37169,6 +37527,7 @@ languagefile {
     S:oredict.plantGtTwigDamascusSteel.name=Damascus Steel Twig
     S:oredict.plantGtTwigDarkAshes.name=Dark Ashes Twig
     S:oredict.plantGtTwigDarkIron.name=Dark Iron Twig
+    S:oredict.plantGtTwigDarkMatter.name=Dark Matter Twig
     S:oredict.plantGtTwigDarkSteel.name=Dark Steel Twig
     S:oredict.plantGtTwigDarkThaumium.name=Dark Thaumium Twig
     S:oredict.plantGtTwigDarmstadtium.name=Darmstadtium Twig
@@ -37500,6 +37859,7 @@ languagefile {
     S:oredict.plantGtTwigRareEarth.name=Rare Earth Twig
     S:oredict.plantGtTwigRed.name=Red Twig
     S:oredict.plantGtTwigRedAlloy.name=Red Alloy Twig
+    S:oredict.plantGtTwigRedMatter.name=Red Matter Twig
     S:oredict.plantGtTwigRedSteel.name=Red Steel Twig
     S:oredict.plantGtTwigRedVitriol.name=Red Vitriol Twig
     S:oredict.plantGtTwigRedrock.name=Redrock Twig
@@ -37848,6 +38208,7 @@ languagefile {
     S:oredict.plantGtWartBalasRuby.name=Ruby Wart
     S:oredict.plantGtWartBarite.name=Barite Wart
     S:oredict.plantGtWartBarium.name=Barium Wart
+    S:oredict.plantGtWartBark.name=Bark Wart
     S:oredict.plantGtWartBarley.name=Barley Wart
     S:oredict.plantGtWartBasalt.name=Basalt Wart
     S:oredict.plantGtWartBasalticMineralSand.name=Basaltic Mineral Sand Wart
@@ -37930,6 +38291,7 @@ languagefile {
     S:oredict.plantGtWartCinnabar.name=Cinnabar Wart
     S:oredict.plantGtWartCinnamon.name=Cinnamon Wart
     S:oredict.plantGtWartClay.name=Clay Wart
+    S:oredict.plantGtWartClayBrown.name=Brown Clay Wart
     S:oredict.plantGtWartCoal.name=Coal Wart
     S:oredict.plantGtWartCoalCoke.name=Coal Coke Wart
     S:oredict.plantGtWartCobalt.name=Cobalt Wart
@@ -37960,6 +38322,7 @@ languagefile {
     S:oredict.plantGtWartDamascusSteel.name=Damascus Steel Wart
     S:oredict.plantGtWartDarkAshes.name=Dark Ashes Wart
     S:oredict.plantGtWartDarkIron.name=Dark Iron Wart
+    S:oredict.plantGtWartDarkMatter.name=Dark Matter Wart
     S:oredict.plantGtWartDarkSteel.name=Dark Steel Wart
     S:oredict.plantGtWartDarkThaumium.name=Dark Thaumium Wart
     S:oredict.plantGtWartDarmstadtium.name=Darmstadtium Wart
@@ -38291,6 +38654,7 @@ languagefile {
     S:oredict.plantGtWartRareEarth.name=Rare Earth Wart
     S:oredict.plantGtWartRed.name=Red Wart
     S:oredict.plantGtWartRedAlloy.name=Red Alloy Wart
+    S:oredict.plantGtWartRedMatter.name=Red Matter Wart
     S:oredict.plantGtWartRedSteel.name=Red Steel Wart
     S:oredict.plantGtWartRedVitriol.name=Red Vitriol Wart
     S:oredict.plantGtWartRedrock.name=Redrock Wart
@@ -39858,6 +40222,7 @@ languagefile {
     S:oredict.plateGemCoal.name=Crystalline Coal Plate
     S:oredict.plateGemCoalCoke.name=Crystalline Coal Coke Plate
     S:oredict.plateGemCraponite.name=Crystalline Craponite Plate
+    S:oredict.plateGemDarkMatter.name=Crystalline Dark Matter Plate
     S:oredict.plateGemDiamantine.name=Crystalline Diamantine Pane
     S:oredict.plateGemDiamond.name=Crystalline Diamond Plate
     S:oredict.plateGemDilithium.name=Crystalline Dilithium Plate
@@ -39906,6 +40271,7 @@ languagefile {
     S:oredict.plateGemPyrope.name=Crystalline Pyrope Plate
     S:oredict.plateGemQuartzBlack.name=Crystalline Black Quartz Plate
     S:oredict.plateGemQuartzite.name=Crystalline Quartzite Plate
+    S:oredict.plateGemRedMatter.name=Crystalline Red Matter Plate
     S:oredict.plateGemRedstoneAlloy.name=Crystalline Redstone Alloy Plate
     S:oredict.plateGemRedstonia.name=Crystalline Redstonia Pane
     S:oredict.plateGemRuby.name=Crystalline Ruby Plate
@@ -39933,6 +40299,7 @@ languagefile {
     S:oredict.plateGemTinyCoal.name=Tiny Crystalline Coal Plate
     S:oredict.plateGemTinyCoalCoke.name=Tiny Crystalline Coal Coke Plate
     S:oredict.plateGemTinyCraponite.name=Tiny Crystalline Craponite Plate
+    S:oredict.plateGemTinyDarkMatter.name=Tiny Crystalline Dark Matter Plate
     S:oredict.plateGemTinyDiamantine.name=Tiny Crystalline Diamantine Pane
     S:oredict.plateGemTinyDiamond.name=Tiny Crystalline Diamond Plate
     S:oredict.plateGemTinyDilithium.name=Tiny Crystalline Dilithium Plate
@@ -39981,6 +40348,7 @@ languagefile {
     S:oredict.plateGemTinyPyrope.name=Tiny Crystalline Pyrope Plate
     S:oredict.plateGemTinyQuartzBlack.name=Tiny Crystalline Black Quartz Plate
     S:oredict.plateGemTinyQuartzite.name=Tiny Crystalline Quartzite Plate
+    S:oredict.plateGemTinyRedMatter.name=Tiny Crystalline Red Matter Plate
     S:oredict.plateGemTinyRedstoneAlloy.name=Tiny Crystalline Redstone Alloy Plate
     S:oredict.plateGemTinyRedstonia.name=Tiny Crystalline Redstonia Pane
     S:oredict.plateGemTinyRuby.name=Tiny Crystalline Ruby Plate
@@ -41806,6 +42174,7 @@ languagefile {
     S:oredict.ringDacite.name=Dacite Ring
     S:oredict.ringDamascusSteel.name=Damascus Steel Ring
     S:oredict.ringDarkIron.name=Dark Iron Ring
+    S:oredict.ringDarkMatter.name=Dark Matter Ring
     S:oredict.ringDarkSteel.name=Dark Steel Ring
     S:oredict.ringDarkThaumium.name=Dark Thaumium Ring
     S:oredict.ringDeepIron.name=Deep Iron Ring
@@ -41926,6 +42295,7 @@ languagefile {
     S:oredict.ringPyrope.name=Pyrope Ring
     S:oredict.ringQuartzBlack.name=Black Quartz Ring
     S:oredict.ringQuartzite.name=Quartzite Ring
+    S:oredict.ringRedMatter.name=Red Matter Ring
     S:oredict.ringRedSteel.name=Red Steel Ring
     S:oredict.ringRedrock.name=Redrock Ring
     S:oredict.ringRedstonia.name=Redstonia Ring
@@ -42063,6 +42433,7 @@ languagefile {
     S:oredict.rotorDacite.name=Dacite Rotor
     S:oredict.rotorDamascusSteel.name=Damascus Steel Rotor
     S:oredict.rotorDarkIron.name=Dark Iron Rotor
+    S:oredict.rotorDarkMatter.name=Dark Matter Rotor
     S:oredict.rotorDarkSteel.name=Dark Steel Rotor
     S:oredict.rotorDarkThaumium.name=Dark Thaumium Rotor
     S:oredict.rotorDeepIron.name=Deep Iron Rotor
@@ -42183,6 +42554,7 @@ languagefile {
     S:oredict.rotorPyrope.name=Pyrope Rotor
     S:oredict.rotorQuartzBlack.name=Black Quartz Rotor
     S:oredict.rotorQuartzite.name=Quartzite Rotor
+    S:oredict.rotorRedMatter.name=Red Matter Rotor
     S:oredict.rotorRedSteel.name=Red Steel Rotor
     S:oredict.rotorRedrock.name=Redrock Rotor
     S:oredict.rotorRedstonia.name=Redstonia Rotor
@@ -42320,6 +42692,7 @@ languagefile {
     S:oredict.roundDacite.name=Dacite Round
     S:oredict.roundDamascusSteel.name=Damascus Steel Round
     S:oredict.roundDarkIron.name=Dark Iron Round
+    S:oredict.roundDarkMatter.name=Dark Matter Round
     S:oredict.roundDarkSteel.name=Dark Steel Round
     S:oredict.roundDarkThaumium.name=Dark Thaumium Round
     S:oredict.roundDeepIron.name=Deep Iron Round
@@ -42440,6 +42813,7 @@ languagefile {
     S:oredict.roundPyrope.name=Pyrope Round
     S:oredict.roundQuartzBlack.name=Black Quartz Round
     S:oredict.roundQuartzite.name=Quartzite Round
+    S:oredict.roundRedMatter.name=Red Matter Round
     S:oredict.roundRedSteel.name=Red Steel Round
     S:oredict.roundRedrock.name=Redrock Round
     S:oredict.roundRedstonia.name=Redstonia Round
@@ -42676,6 +43050,7 @@ languagefile {
     S:oredict.scrapGtBalasRuby.name=Ruby Scrap
     S:oredict.scrapGtBarite.name=Barite Scrap
     S:oredict.scrapGtBarium.name=Barium Scrap
+    S:oredict.scrapGtBark.name=Bark Scrap
     S:oredict.scrapGtBarley.name=Barley Scrap
     S:oredict.scrapGtBasalt.name=Basalt Scrap
     S:oredict.scrapGtBasalticMineralSand.name=Basaltic Mineral Sand Scrap
@@ -42750,6 +43125,7 @@ languagefile {
     S:oredict.scrapGtCinnabar.name=Cinnabar Scrap
     S:oredict.scrapGtCinnamon.name=Cinnamon Scrap
     S:oredict.scrapGtClay.name=Clay Scrap
+    S:oredict.scrapGtClayBrown.name=Brown Clay Scrap
     S:oredict.scrapGtCoal.name=Coal Scrap
     S:oredict.scrapGtCoalCoke.name=Coal Coke Scrap
     S:oredict.scrapGtCobalt.name=Cobalt Scrap
@@ -42778,6 +43154,7 @@ languagefile {
     S:oredict.scrapGtDamascusSteel.name=Damascus Steel Scrap
     S:oredict.scrapGtDarkAshes.name=Dark Ashes Scrap
     S:oredict.scrapGtDarkIron.name=Dark Iron Scrap
+    S:oredict.scrapGtDarkMatter.name=Dark Matter Scrap
     S:oredict.scrapGtDarkSteel.name=Dark Steel Scrap
     S:oredict.scrapGtDarkThaumium.name=Dark Thaumium Scrap
     S:oredict.scrapGtDarmstadtium.name=Darmstadtium Scrap
@@ -43075,6 +43452,7 @@ languagefile {
     S:oredict.scrapGtRareEarth.name=Rare Earth Scrap
     S:oredict.scrapGtRed.name=Red Scrap
     S:oredict.scrapGtRedAlloy.name=Red Alloy Scrap
+    S:oredict.scrapGtRedMatter.name=Red Matter Scrap
     S:oredict.scrapGtRedSteel.name=Red Steel Scrap
     S:oredict.scrapGtRedrock.name=Redrock Scrap
     S:oredict.scrapGtRedstone.name=Redstone Scrap
@@ -43442,6 +43820,7 @@ languagefile {
     S:oredict.screwDacite.name=Dacite Screw
     S:oredict.screwDamascusSteel.name=Damascus Steel Screw
     S:oredict.screwDarkIron.name=Dark Iron Screw
+    S:oredict.screwDarkMatter.name=Dark Matter Screw
     S:oredict.screwDarkSteel.name=Dark Steel Screw
     S:oredict.screwDarkThaumium.name=Dark Thaumium Screw
     S:oredict.screwDarmstadtium.name=Darmstadtium Screw
@@ -43629,6 +44008,7 @@ languagefile {
     S:oredict.screwQuartzite.name=Quartzite Screw
     S:oredict.screwRadium.name=Radium Screw
     S:oredict.screwRedAlloy.name=Red Alloy Screw
+    S:oredict.screwRedMatter.name=Red Matter Screw
     S:oredict.screwRedSteel.name=Red Steel Screw
     S:oredict.screwRedrock.name=Redrock Screw
     S:oredict.screwRedstoneAlloy.name=Redstone Alloy Screw
@@ -43780,6 +44160,7 @@ languagefile {
     S:oredict.springDacite.name=Dacite Spring
     S:oredict.springDamascusSteel.name=Damascus Steel Spring
     S:oredict.springDarkIron.name=Dark Iron Spring
+    S:oredict.springDarkMatter.name=Dark Matter Spring
     S:oredict.springDarkSteel.name=Dark Steel Spring
     S:oredict.springDarkThaumium.name=Dark Thaumium Spring
     S:oredict.springDeepIron.name=Deep Iron Spring
@@ -43861,6 +44242,7 @@ languagefile {
     S:oredict.springPrometheum.name=Prometheum Spring
     S:oredict.springPulsatingIron.name=Pulsating Iron Spring
     S:oredict.springQuartzite.name=Quartzite Spring
+    S:oredict.springRedMatter.name=Red Matter Spring
     S:oredict.springRedSteel.name=Red Steel Spring
     S:oredict.springRhyolite.name=Rhyolite Spring
     S:oredict.springRoseGold.name=Rose Gold Spring
@@ -43924,6 +44306,7 @@ languagefile {
     S:oredict.springSmallDacite.name=Small Dacite Spring
     S:oredict.springSmallDamascusSteel.name=Small Damascus Steel Spring
     S:oredict.springSmallDarkIron.name=Small Dark Iron Spring
+    S:oredict.springSmallDarkMatter.name=Small Dark Matter Spring
     S:oredict.springSmallDarkSteel.name=Small Dark Steel Spring
     S:oredict.springSmallDarkThaumium.name=Small Dark Thaumium Spring
     S:oredict.springSmallDeepIron.name=Small Deep Iron Spring
@@ -44005,6 +44388,7 @@ languagefile {
     S:oredict.springSmallPrometheum.name=Small Prometheum Spring
     S:oredict.springSmallPulsatingIron.name=Small Pulsating Iron Spring
     S:oredict.springSmallQuartzite.name=Small Quartzite Spring
+    S:oredict.springSmallRedMatter.name=Small Red Matter Spring
     S:oredict.springSmallRedSteel.name=Small Red Steel Spring
     S:oredict.springSmallRhyolite.name=Small Rhyolite Spring
     S:oredict.springSmallRoseGold.name=Small Rose Gold Spring
@@ -44299,6 +44683,7 @@ languagefile {
     S:oredict.stickDacite.name=Dacite Rod
     S:oredict.stickDamascusSteel.name=Damascus Steel Rod
     S:oredict.stickDarkIron.name=Dark Iron Rod
+    S:oredict.stickDarkMatter.name=Dark Matter Rod
     S:oredict.stickDarkSteel.name=Dark Steel Rod
     S:oredict.stickDarkThaumium.name=Dark Thaumium Rod
     S:oredict.stickDarmstadtium.name=Darmstadtium Rod
@@ -44607,6 +44992,7 @@ languagefile {
     S:oredict.stickLongDacite.name=Long Dacite Rod
     S:oredict.stickLongDamascusSteel.name=Long Damascus Steel Rod
     S:oredict.stickLongDarkIron.name=Long Dark Iron Rod
+    S:oredict.stickLongDarkMatter.name=Long Dark Matter Rod
     S:oredict.stickLongDarkSteel.name=Long Dark Steel Rod
     S:oredict.stickLongDarkThaumium.name=Long Dark Thaumium Rod
     S:oredict.stickLongDarmstadtium.name=Long Darmstadtium Rod
@@ -44794,6 +45180,7 @@ languagefile {
     S:oredict.stickLongQuartzite.name=Long Quartzite Rod
     S:oredict.stickLongRadium.name=Long Radium Rod
     S:oredict.stickLongRedAlloy.name=Long Red Alloy Rod
+    S:oredict.stickLongRedMatter.name=Long Red Matter Rod
     S:oredict.stickLongRedSteel.name=Long Red Steel Rod
     S:oredict.stickLongRedrock.name=Long Redrock Rod
     S:oredict.stickLongRedstoneAlloy.name=Long Redstone Alloy Rod
@@ -44970,6 +45357,7 @@ languagefile {
     S:oredict.stickQuartzite.name=Quartzite Rod
     S:oredict.stickRadium.name=Radium Rod
     S:oredict.stickRedAlloy.name=Red Alloy Rod
+    S:oredict.stickRedMatter.name=Red Matter Rod
     S:oredict.stickRedSteel.name=Red Steel Rod
     S:oredict.stickRedrock.name=Redrock Rod
     S:oredict.stickRedstoneAlloy.name=Redstone Alloy Rod
@@ -45128,6 +45516,7 @@ languagefile {
     S:oredict.toolHeadArrowDacite.name=Dacite Arrow Head
     S:oredict.toolHeadArrowDamascusSteel.name=Damascus Steel Arrow Head
     S:oredict.toolHeadArrowDarkIron.name=Dark Iron Arrow Head
+    S:oredict.toolHeadArrowDarkMatter.name=Dark Matter Arrow Head
     S:oredict.toolHeadArrowDarkSteel.name=Dark Steel Arrow Head
     S:oredict.toolHeadArrowDarkThaumium.name=Dark Thaumium Arrow Head
     S:oredict.toolHeadArrowDeepIron.name=Deep Iron Arrow Head
@@ -45236,6 +45625,7 @@ languagefile {
     S:oredict.toolHeadArrowPyrope.name=Pyrope Arrow Head
     S:oredict.toolHeadArrowQuartzBlack.name=Black Quartz Arrow Head
     S:oredict.toolHeadArrowQuartzite.name=Quartzite Arrow Head
+    S:oredict.toolHeadArrowRedMatter.name=Red Matter Arrow Head
     S:oredict.toolHeadArrowRedSteel.name=Red Steel Arrow Head
     S:oredict.toolHeadArrowRedrock.name=Redrock Arrow Head
     S:oredict.toolHeadArrowRedstonia.name=Redstonia Arrow Head
@@ -45361,6 +45751,7 @@ languagefile {
     S:oredict.toolHeadAxeDacite.name=Dacite Axe Head
     S:oredict.toolHeadAxeDamascusSteel.name=Damascus Steel Axe Head
     S:oredict.toolHeadAxeDarkIron.name=Dark Iron Axe Head
+    S:oredict.toolHeadAxeDarkMatter.name=Dark Matter Axe Head
     S:oredict.toolHeadAxeDarkSteel.name=Dark Steel Axe Head
     S:oredict.toolHeadAxeDarkThaumium.name=Dark Thaumium Axe Head
     S:oredict.toolHeadAxeDeepIron.name=Deep Iron Axe Head
@@ -45426,6 +45817,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleDacite.name=Dacite Double Axe Head
     S:oredict.toolHeadAxeDoubleDamascusSteel.name=Damascus Steel Double Axe Head
     S:oredict.toolHeadAxeDoubleDarkIron.name=Dark Iron Double Axe Head
+    S:oredict.toolHeadAxeDoubleDarkMatter.name=Dark Matter Double Axe Head
     S:oredict.toolHeadAxeDoubleDarkSteel.name=Dark Steel Double Axe Head
     S:oredict.toolHeadAxeDoubleDarkThaumium.name=Dark Thaumium Double Axe Head
     S:oredict.toolHeadAxeDoubleDeepIron.name=Deep Iron Double Axe Head
@@ -45523,6 +45915,7 @@ languagefile {
     S:oredict.toolHeadAxeDoublePyrope.name=Pyrope Double Axe Head
     S:oredict.toolHeadAxeDoubleQuartzBlack.name=Black Quartz Double Axe Head
     S:oredict.toolHeadAxeDoubleQuartzite.name=Quartzite Double Axe Head
+    S:oredict.toolHeadAxeDoubleRedMatter.name=Red Matter Double Axe Head
     S:oredict.toolHeadAxeDoubleRedSteel.name=Red Steel Double Axe Head
     S:oredict.toolHeadAxeDoubleRedstonia.name=Redstonia Double Axe Head
     S:oredict.toolHeadAxeDoubleRhyolite.name=Rhyolite Double Axe Head
@@ -45681,6 +46074,7 @@ languagefile {
     S:oredict.toolHeadAxePyrope.name=Pyrope Axe Head
     S:oredict.toolHeadAxeQuartzBlack.name=Black Quartz Axe Head
     S:oredict.toolHeadAxeQuartzite.name=Quartzite Axe Head
+    S:oredict.toolHeadAxeRedMatter.name=Red Matter Axe Head
     S:oredict.toolHeadAxeRedSteel.name=Red Steel Axe Head
     S:oredict.toolHeadAxeRedrock.name=Redrock Axe Head
     S:oredict.toolHeadAxeRedstonia.name=Redstonia Axe Head
@@ -45802,6 +46196,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawDacite.name=Dacite Buzzsaw Blade
     S:oredict.toolHeadBuzzSawDamascusSteel.name=Damascus Steel Buzzsaw Blade
     S:oredict.toolHeadBuzzSawDarkIron.name=Dark Iron Buzzsaw Blade
+    S:oredict.toolHeadBuzzSawDarkMatter.name=Dark Matter Buzzsaw Blade
     S:oredict.toolHeadBuzzSawDarkSteel.name=Dark Steel Buzzsaw Blade
     S:oredict.toolHeadBuzzSawDarkThaumium.name=Dark Thaumium Buzzsaw Blade
     S:oredict.toolHeadBuzzSawDeepIron.name=Deep Iron Buzzsaw Blade
@@ -45897,6 +46292,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawPyrope.name=Pyrope Buzzsaw Blade
     S:oredict.toolHeadBuzzSawQuartzBlack.name=Black Quartz Buzzsaw Blade
     S:oredict.toolHeadBuzzSawQuartzite.name=Quartzite Buzzsaw Blade
+    S:oredict.toolHeadBuzzSawRedMatter.name=Red Matter Buzzsaw Blade
     S:oredict.toolHeadBuzzSawRedSteel.name=Red Steel Buzzsaw Blade
     S:oredict.toolHeadBuzzSawRedstonia.name=Redstonia Buzzsaw Blade
     S:oredict.toolHeadBuzzSawRhyolite.name=Rhyolite Buzzsaw Blade
@@ -46010,6 +46406,7 @@ languagefile {
     S:oredict.toolHeadChainsawDacite.name=Dacite Chainsaw Tip
     S:oredict.toolHeadChainsawDamascusSteel.name=Damascus Steel Chainsaw Tip
     S:oredict.toolHeadChainsawDarkIron.name=Dark Iron Chainsaw Tip
+    S:oredict.toolHeadChainsawDarkMatter.name=Dark Matter Chainsaw Tip
     S:oredict.toolHeadChainsawDarkSteel.name=Dark Steel Chainsaw Tip
     S:oredict.toolHeadChainsawDarkThaumium.name=Dark Thaumium Chainsaw Tip
     S:oredict.toolHeadChainsawDeepIron.name=Deep Iron Chainsaw Tip
@@ -46105,6 +46502,7 @@ languagefile {
     S:oredict.toolHeadChainsawPyrope.name=Pyrope Chainsaw Tip
     S:oredict.toolHeadChainsawQuartzBlack.name=Black Quartz Chainsaw Tip
     S:oredict.toolHeadChainsawQuartzite.name=Quartzite Chainsaw Tip
+    S:oredict.toolHeadChainsawRedMatter.name=Red Matter Chainsaw Tip
     S:oredict.toolHeadChainsawRedSteel.name=Red Steel Chainsaw Tip
     S:oredict.toolHeadChainsawRedstonia.name=Redstonia Chainsaw Tip
     S:oredict.toolHeadChainsawRhyolite.name=Rhyolite Chainsaw Tip
@@ -46218,6 +46616,7 @@ languagefile {
     S:oredict.toolHeadChiselDacite.name=Dacite Chisel Head
     S:oredict.toolHeadChiselDamascusSteel.name=Damascus Steel Chisel Head
     S:oredict.toolHeadChiselDarkIron.name=Dark Iron Chisel Head
+    S:oredict.toolHeadChiselDarkMatter.name=Dark Matter Chisel Head
     S:oredict.toolHeadChiselDarkSteel.name=Dark Steel Chisel Head
     S:oredict.toolHeadChiselDarkThaumium.name=Dark Thaumium Chisel Head
     S:oredict.toolHeadChiselDeepIron.name=Deep Iron Chisel Head
@@ -46313,6 +46712,7 @@ languagefile {
     S:oredict.toolHeadChiselPyrope.name=Pyrope Chisel Head
     S:oredict.toolHeadChiselQuartzBlack.name=Black Quartz Chisel Head
     S:oredict.toolHeadChiselQuartzite.name=Quartzite Chisel Head
+    S:oredict.toolHeadChiselRedMatter.name=Red Matter Chisel Head
     S:oredict.toolHeadChiselRedSteel.name=Red Steel Chisel Head
     S:oredict.toolHeadChiselRedstonia.name=Redstonia Chisel Head
     S:oredict.toolHeadChiselRhyolite.name=Rhyolite Chisel Head
@@ -46426,6 +46826,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeDacite.name=Dacite Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeDamascusSteel.name=Damascus Steel Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeDarkIron.name=Dark Iron Construction Pickaxe Head
+    S:oredict.toolHeadConstructionPickaxeDarkMatter.name=Dark Matter Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeDarkSteel.name=Dark Steel Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeDarkThaumium.name=Dark Thaumium Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeDeepIron.name=Deep Iron Construction Pickaxe Head
@@ -46523,6 +46924,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxePyrope.name=Pyrope Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeQuartzBlack.name=Black Quartz Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeQuartzite.name=Quartzite Construction Pickaxe Head
+    S:oredict.toolHeadConstructionPickaxeRedMatter.name=Red Matter Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeRedSteel.name=Red Steel Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeRedstonia.name=Redstonia Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeRhyolite.name=Rhyolite Construction Pickaxe Head
@@ -46638,6 +47040,7 @@ languagefile {
     S:oredict.toolHeadDrillDacite.name=Dacite Drill Tip
     S:oredict.toolHeadDrillDamascusSteel.name=Damascus Steel Drill Tip
     S:oredict.toolHeadDrillDarkIron.name=Dark Iron Drill Tip
+    S:oredict.toolHeadDrillDarkMatter.name=Dark Matter Drill Tip
     S:oredict.toolHeadDrillDarkSteel.name=Dark Steel Drill Tip
     S:oredict.toolHeadDrillDarkThaumium.name=Dark Thaumium Drill Tip
     S:oredict.toolHeadDrillDeepIron.name=Deep Iron Drill Tip
@@ -46733,6 +47136,7 @@ languagefile {
     S:oredict.toolHeadDrillPyrope.name=Pyrope Drill Tip
     S:oredict.toolHeadDrillQuartzBlack.name=Black Quartz Drill Tip
     S:oredict.toolHeadDrillQuartzite.name=Quartzite Drill Tip
+    S:oredict.toolHeadDrillRedMatter.name=Red Matter Drill Tip
     S:oredict.toolHeadDrillRedSteel.name=Red Steel Drill Tip
     S:oredict.toolHeadDrillRedstonia.name=Redstonia Drill Tip
     S:oredict.toolHeadDrillRhyolite.name=Rhyolite Drill Tip
@@ -46846,6 +47250,7 @@ languagefile {
     S:oredict.toolHeadFileDacite.name=Dacite File Head
     S:oredict.toolHeadFileDamascusSteel.name=Damascus Steel File Head
     S:oredict.toolHeadFileDarkIron.name=Dark Iron File Head
+    S:oredict.toolHeadFileDarkMatter.name=Dark Matter File Head
     S:oredict.toolHeadFileDarkSteel.name=Dark Steel File Head
     S:oredict.toolHeadFileDarkThaumium.name=Dark Thaumium File Head
     S:oredict.toolHeadFileDeepIron.name=Deep Iron File Head
@@ -46941,6 +47346,7 @@ languagefile {
     S:oredict.toolHeadFilePyrope.name=Pyrope File Head
     S:oredict.toolHeadFileQuartzBlack.name=Black Quartz File Head
     S:oredict.toolHeadFileQuartzite.name=Quartzite File Head
+    S:oredict.toolHeadFileRedMatter.name=Red Matter File Head
     S:oredict.toolHeadFileRedSteel.name=Red Steel File Head
     S:oredict.toolHeadFileRedstonia.name=Redstonia File Head
     S:oredict.toolHeadFileRhyolite.name=Rhyolite File Head
@@ -47053,6 +47459,7 @@ languagefile {
     S:oredict.toolHeadHammerDacite.name=Dacite Hammer Head
     S:oredict.toolHeadHammerDamascusSteel.name=Damascus Steel Hammer Head
     S:oredict.toolHeadHammerDarkIron.name=Dark Iron Hammer Head
+    S:oredict.toolHeadHammerDarkMatter.name=Dark Matter Hammer Head
     S:oredict.toolHeadHammerDarkSteel.name=Dark Steel Hammer Head
     S:oredict.toolHeadHammerDarkThaumium.name=Dark Thaumium Hammer Head
     S:oredict.toolHeadHammerDeepIron.name=Deep Iron Hammer Head
@@ -47159,6 +47566,7 @@ languagefile {
     S:oredict.toolHeadHammerPyrope.name=Pyrope Hammer Head
     S:oredict.toolHeadHammerQuartzBlack.name=Black Quartz Hammer Head
     S:oredict.toolHeadHammerQuartzite.name=Quartzite Hammer Head
+    S:oredict.toolHeadHammerRedMatter.name=Red Matter Hammer Head
     S:oredict.toolHeadHammerRedSteel.name=Red Steel Hammer Head
     S:oredict.toolHeadHammerRedrock.name=Redrock Hammer Head
     S:oredict.toolHeadHammerRedstonia.name=Redstonia Hammer Head
@@ -47282,6 +47690,7 @@ languagefile {
     S:oredict.toolHeadHoeDacite.name=Dacite Hoe Head
     S:oredict.toolHeadHoeDamascusSteel.name=Damascus Steel Hoe Head
     S:oredict.toolHeadHoeDarkIron.name=Dark Iron Hoe Head
+    S:oredict.toolHeadHoeDarkMatter.name=Dark Matter Hoe Head
     S:oredict.toolHeadHoeDarkSteel.name=Dark Steel Hoe Head
     S:oredict.toolHeadHoeDarkThaumium.name=Dark Thaumium Hoe Head
     S:oredict.toolHeadHoeDeepIron.name=Deep Iron Hoe Head
@@ -47390,6 +47799,7 @@ languagefile {
     S:oredict.toolHeadHoePyrope.name=Pyrope Hoe Head
     S:oredict.toolHeadHoeQuartzBlack.name=Black Quartz Hoe Head
     S:oredict.toolHeadHoeQuartzite.name=Quartzite Hoe Head
+    S:oredict.toolHeadHoeRedMatter.name=Red Matter Hoe Head
     S:oredict.toolHeadHoeRedSteel.name=Red Steel Hoe Head
     S:oredict.toolHeadHoeRedrock.name=Redrock Hoe Head
     S:oredict.toolHeadHoeRedstonia.name=Redstonia Hoe Head
@@ -47515,6 +47925,7 @@ languagefile {
     S:oredict.toolHeadPickaxeDacite.name=Dacite Pickaxe Head
     S:oredict.toolHeadPickaxeDamascusSteel.name=Damascus Steel Pickaxe Head
     S:oredict.toolHeadPickaxeDarkIron.name=Dark Iron Pickaxe Head
+    S:oredict.toolHeadPickaxeDarkMatter.name=Dark Matter Pickaxe Head
     S:oredict.toolHeadPickaxeDarkSteel.name=Dark Steel Pickaxe Head
     S:oredict.toolHeadPickaxeDarkThaumium.name=Dark Thaumium Pickaxe Head
     S:oredict.toolHeadPickaxeDeepIron.name=Deep Iron Pickaxe Head
@@ -47623,6 +48034,7 @@ languagefile {
     S:oredict.toolHeadPickaxePyrope.name=Pyrope Pickaxe Head
     S:oredict.toolHeadPickaxeQuartzBlack.name=Black Quartz Pickaxe Head
     S:oredict.toolHeadPickaxeQuartzite.name=Quartzite Pickaxe Head
+    S:oredict.toolHeadPickaxeRedMatter.name=Red Matter Pickaxe Head
     S:oredict.toolHeadPickaxeRedSteel.name=Red Steel Pickaxe Head
     S:oredict.toolHeadPickaxeRedrock.name=Redrock Pickaxe Head
     S:oredict.toolHeadPickaxeRedstonia.name=Redstonia Pickaxe Head
@@ -47748,6 +48160,7 @@ languagefile {
     S:oredict.toolHeadPlowDacite.name=Dacite Plow Head
     S:oredict.toolHeadPlowDamascusSteel.name=Damascus Steel Plow Head
     S:oredict.toolHeadPlowDarkIron.name=Dark Iron Plow Head
+    S:oredict.toolHeadPlowDarkMatter.name=Dark Matter Plow Head
     S:oredict.toolHeadPlowDarkSteel.name=Dark Steel Plow Head
     S:oredict.toolHeadPlowDarkThaumium.name=Dark Thaumium Plow Head
     S:oredict.toolHeadPlowDeepIron.name=Deep Iron Plow Head
@@ -47856,6 +48269,7 @@ languagefile {
     S:oredict.toolHeadPlowPyrope.name=Pyrope Plow Head
     S:oredict.toolHeadPlowQuartzBlack.name=Black Quartz Plow Head
     S:oredict.toolHeadPlowQuartzite.name=Quartzite Plow Head
+    S:oredict.toolHeadPlowRedMatter.name=Red Matter Plow Head
     S:oredict.toolHeadPlowRedSteel.name=Red Steel Plow Head
     S:oredict.toolHeadPlowRedrock.name=Redrock Plow Head
     S:oredict.toolHeadPlowRedstonia.name=Redstonia Plow Head
@@ -47981,6 +48395,7 @@ languagefile {
     S:oredict.toolHeadRawArrowDacite.name=Raw Dacite Arrow Head
     S:oredict.toolHeadRawArrowDamascusSteel.name=Raw Damascus Steel Arrow Head
     S:oredict.toolHeadRawArrowDarkIron.name=Raw Dark Iron Arrow Head
+    S:oredict.toolHeadRawArrowDarkMatter.name=Raw Dark Matter Arrow Head
     S:oredict.toolHeadRawArrowDarkSteel.name=Raw Dark Steel Arrow Head
     S:oredict.toolHeadRawArrowDarkThaumium.name=Raw Dark Thaumium Arrow Head
     S:oredict.toolHeadRawArrowDeepIron.name=Raw Deep Iron Arrow Head
@@ -48089,6 +48504,7 @@ languagefile {
     S:oredict.toolHeadRawArrowPyrope.name=Raw Pyrope Arrow Head
     S:oredict.toolHeadRawArrowQuartzBlack.name=Raw Black Quartz Arrow Head
     S:oredict.toolHeadRawArrowQuartzite.name=Raw Quartzite Arrow Head
+    S:oredict.toolHeadRawArrowRedMatter.name=Raw Red Matter Arrow Head
     S:oredict.toolHeadRawArrowRedSteel.name=Raw Red Steel Arrow Head
     S:oredict.toolHeadRawArrowRedrock.name=Raw Redrock Arrow Head
     S:oredict.toolHeadRawArrowRedstonia.name=Raw Redstonia Arrow Head
@@ -48214,6 +48630,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDacite.name=Raw Dacite Axe Head
     S:oredict.toolHeadRawAxeDamascusSteel.name=Raw Damascus Steel Axe Head
     S:oredict.toolHeadRawAxeDarkIron.name=Raw Dark Iron Axe Head
+    S:oredict.toolHeadRawAxeDarkMatter.name=Raw Dark Matter Axe Head
     S:oredict.toolHeadRawAxeDarkSteel.name=Raw Dark Steel Axe Head
     S:oredict.toolHeadRawAxeDarkThaumium.name=Raw Dark Thaumium Axe Head
     S:oredict.toolHeadRawAxeDeepIron.name=Raw Deep Iron Axe Head
@@ -48279,6 +48696,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleDacite.name=Raw Dacite Double Axe Head
     S:oredict.toolHeadRawAxeDoubleDamascusSteel.name=Raw Damascus Steel Double Axe Head
     S:oredict.toolHeadRawAxeDoubleDarkIron.name=Raw Dark Iron Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleDarkMatter.name=Raw Dark Matter Double Axe Head
     S:oredict.toolHeadRawAxeDoubleDarkSteel.name=Raw Dark Steel Double Axe Head
     S:oredict.toolHeadRawAxeDoubleDarkThaumium.name=Raw Dark Thaumium Double Axe Head
     S:oredict.toolHeadRawAxeDoubleDeepIron.name=Raw Deep Iron Double Axe Head
@@ -48376,6 +48794,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoublePyrope.name=Raw Pyrope Double Axe Head
     S:oredict.toolHeadRawAxeDoubleQuartzBlack.name=Raw Black Quartz Double Axe Head
     S:oredict.toolHeadRawAxeDoubleQuartzite.name=Raw Quartzite Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleRedMatter.name=Raw Red Matter Double Axe Head
     S:oredict.toolHeadRawAxeDoubleRedSteel.name=Raw Red Steel Double Axe Head
     S:oredict.toolHeadRawAxeDoubleRedstonia.name=Raw Redstonia Double Axe Head
     S:oredict.toolHeadRawAxeDoubleRhyolite.name=Raw Rhyolite Double Axe Head
@@ -48534,6 +48953,7 @@ languagefile {
     S:oredict.toolHeadRawAxePyrope.name=Raw Pyrope Axe Head
     S:oredict.toolHeadRawAxeQuartzBlack.name=Raw Black Quartz Axe Head
     S:oredict.toolHeadRawAxeQuartzite.name=Raw Quartzite Axe Head
+    S:oredict.toolHeadRawAxeRedMatter.name=Raw Red Matter Axe Head
     S:oredict.toolHeadRawAxeRedSteel.name=Raw Red Steel Axe Head
     S:oredict.toolHeadRawAxeRedrock.name=Raw Redrock Axe Head
     S:oredict.toolHeadRawAxeRedstonia.name=Raw Redstonia Axe Head
@@ -48655,6 +49075,7 @@ languagefile {
     S:oredict.toolHeadRawChiselDacite.name=Raw Dacite Chisel Head
     S:oredict.toolHeadRawChiselDamascusSteel.name=Raw Damascus Steel Chisel Head
     S:oredict.toolHeadRawChiselDarkIron.name=Raw Dark Iron Chisel Head
+    S:oredict.toolHeadRawChiselDarkMatter.name=Raw Dark Matter Chisel Head
     S:oredict.toolHeadRawChiselDarkSteel.name=Raw Dark Steel Chisel Head
     S:oredict.toolHeadRawChiselDarkThaumium.name=Raw Dark Thaumium Chisel Head
     S:oredict.toolHeadRawChiselDeepIron.name=Raw Deep Iron Chisel Head
@@ -48750,6 +49171,7 @@ languagefile {
     S:oredict.toolHeadRawChiselPyrope.name=Raw Pyrope Chisel Head
     S:oredict.toolHeadRawChiselQuartzBlack.name=Raw Black Quartz Chisel Head
     S:oredict.toolHeadRawChiselQuartzite.name=Raw Quartzite Chisel Head
+    S:oredict.toolHeadRawChiselRedMatter.name=Raw Red Matter Chisel Head
     S:oredict.toolHeadRawChiselRedSteel.name=Raw Red Steel Chisel Head
     S:oredict.toolHeadRawChiselRedstonia.name=Raw Redstonia Chisel Head
     S:oredict.toolHeadRawChiselRhyolite.name=Raw Rhyolite Chisel Head
@@ -48867,6 +49289,7 @@ languagefile {
     S:oredict.toolHeadRawHoeDacite.name=Raw Dacite Hoe Head
     S:oredict.toolHeadRawHoeDamascusSteel.name=Raw Damascus Steel Hoe Head
     S:oredict.toolHeadRawHoeDarkIron.name=Raw Dark Iron Hoe Head
+    S:oredict.toolHeadRawHoeDarkMatter.name=Raw Dark Matter Hoe Head
     S:oredict.toolHeadRawHoeDarkSteel.name=Raw Dark Steel Hoe Head
     S:oredict.toolHeadRawHoeDarkThaumium.name=Raw Dark Thaumium Hoe Head
     S:oredict.toolHeadRawHoeDeepIron.name=Raw Deep Iron Hoe Head
@@ -48975,6 +49398,7 @@ languagefile {
     S:oredict.toolHeadRawHoePyrope.name=Raw Pyrope Hoe Head
     S:oredict.toolHeadRawHoeQuartzBlack.name=Raw Black Quartz Hoe Head
     S:oredict.toolHeadRawHoeQuartzite.name=Raw Quartzite Hoe Head
+    S:oredict.toolHeadRawHoeRedMatter.name=Raw Red Matter Hoe Head
     S:oredict.toolHeadRawHoeRedSteel.name=Raw Red Steel Hoe Head
     S:oredict.toolHeadRawHoeRedrock.name=Raw Redrock Hoe Head
     S:oredict.toolHeadRawHoeRedstonia.name=Raw Redstonia Hoe Head
@@ -49100,6 +49524,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeDacite.name=Raw Dacite Pickaxe Head
     S:oredict.toolHeadRawPickaxeDamascusSteel.name=Raw Damascus Steel Pickaxe Head
     S:oredict.toolHeadRawPickaxeDarkIron.name=Raw Dark Iron Pickaxe Head
+    S:oredict.toolHeadRawPickaxeDarkMatter.name=Raw Dark Matter Pickaxe Head
     S:oredict.toolHeadRawPickaxeDarkSteel.name=Raw Dark Steel Pickaxe Head
     S:oredict.toolHeadRawPickaxeDarkThaumium.name=Raw Dark Thaumium Pickaxe Head
     S:oredict.toolHeadRawPickaxeDeepIron.name=Raw Deep Iron Pickaxe Head
@@ -49208,6 +49633,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxePyrope.name=Raw Pyrope Pickaxe Head
     S:oredict.toolHeadRawPickaxeQuartzBlack.name=Raw Black Quartz Pickaxe Head
     S:oredict.toolHeadRawPickaxeQuartzite.name=Raw Quartzite Pickaxe Head
+    S:oredict.toolHeadRawPickaxeRedMatter.name=Raw Red Matter Pickaxe Head
     S:oredict.toolHeadRawPickaxeRedSteel.name=Raw Red Steel Pickaxe Head
     S:oredict.toolHeadRawPickaxeRedrock.name=Raw Redrock Pickaxe Head
     S:oredict.toolHeadRawPickaxeRedstonia.name=Raw Redstonia Pickaxe Head
@@ -49333,6 +49759,7 @@ languagefile {
     S:oredict.toolHeadRawPlowDacite.name=Raw Dacite Plow Head
     S:oredict.toolHeadRawPlowDamascusSteel.name=Raw Damascus Steel Plow Head
     S:oredict.toolHeadRawPlowDarkIron.name=Raw Dark Iron Plow Head
+    S:oredict.toolHeadRawPlowDarkMatter.name=Raw Dark Matter Plow Head
     S:oredict.toolHeadRawPlowDarkSteel.name=Raw Dark Steel Plow Head
     S:oredict.toolHeadRawPlowDarkThaumium.name=Raw Dark Thaumium Plow Head
     S:oredict.toolHeadRawPlowDeepIron.name=Raw Deep Iron Plow Head
@@ -49441,6 +49868,7 @@ languagefile {
     S:oredict.toolHeadRawPlowPyrope.name=Raw Pyrope Plow Head
     S:oredict.toolHeadRawPlowQuartzBlack.name=Raw Black Quartz Plow Head
     S:oredict.toolHeadRawPlowQuartzite.name=Raw Quartzite Plow Head
+    S:oredict.toolHeadRawPlowRedMatter.name=Raw Red Matter Plow Head
     S:oredict.toolHeadRawPlowRedSteel.name=Raw Red Steel Plow Head
     S:oredict.toolHeadRawPlowRedrock.name=Raw Redrock Plow Head
     S:oredict.toolHeadRawPlowRedstonia.name=Raw Redstonia Plow Head
@@ -49562,6 +49990,7 @@ languagefile {
     S:oredict.toolHeadRawSawDacite.name=Raw Dacite Saw Blade
     S:oredict.toolHeadRawSawDamascusSteel.name=Raw Damascus Steel Saw Blade
     S:oredict.toolHeadRawSawDarkIron.name=Raw Dark Iron Saw Blade
+    S:oredict.toolHeadRawSawDarkMatter.name=Raw Dark Matter Saw Blade
     S:oredict.toolHeadRawSawDarkSteel.name=Raw Dark Steel Saw Blade
     S:oredict.toolHeadRawSawDarkThaumium.name=Raw Dark Thaumium Saw Blade
     S:oredict.toolHeadRawSawDeepIron.name=Raw Deep Iron Saw Blade
@@ -49657,6 +50086,7 @@ languagefile {
     S:oredict.toolHeadRawSawPyrope.name=Raw Pyrope Saw Blade
     S:oredict.toolHeadRawSawQuartzBlack.name=Raw Black Quartz Saw Blade
     S:oredict.toolHeadRawSawQuartzite.name=Raw Quartzite Saw Blade
+    S:oredict.toolHeadRawSawRedMatter.name=Raw Red Matter Saw Blade
     S:oredict.toolHeadRawSawRedSteel.name=Raw Red Steel Saw Blade
     S:oredict.toolHeadRawSawRedstonia.name=Raw Redstonia Saw Blade
     S:oredict.toolHeadRawSawRhyolite.name=Raw Rhyolite Saw Blade
@@ -49774,6 +50204,7 @@ languagefile {
     S:oredict.toolHeadRawSenseDacite.name=Raw Dacite Sense Blade
     S:oredict.toolHeadRawSenseDamascusSteel.name=Raw Damascus Steel Sense Blade
     S:oredict.toolHeadRawSenseDarkIron.name=Raw Dark Iron Sense Blade
+    S:oredict.toolHeadRawSenseDarkMatter.name=Raw Dark Matter Sense Blade
     S:oredict.toolHeadRawSenseDarkSteel.name=Raw Dark Steel Sense Blade
     S:oredict.toolHeadRawSenseDarkThaumium.name=Raw Dark Thaumium Sense Blade
     S:oredict.toolHeadRawSenseDeepIron.name=Raw Deep Iron Sense Blade
@@ -49882,6 +50313,7 @@ languagefile {
     S:oredict.toolHeadRawSensePyrope.name=Raw Pyrope Sense Blade
     S:oredict.toolHeadRawSenseQuartzBlack.name=Raw Black Quartz Sense Blade
     S:oredict.toolHeadRawSenseQuartzite.name=Raw Quartzite Sense Blade
+    S:oredict.toolHeadRawSenseRedMatter.name=Raw Red Matter Sense Blade
     S:oredict.toolHeadRawSenseRedSteel.name=Raw Red Steel Sense Blade
     S:oredict.toolHeadRawSenseRedrock.name=Raw Redrock Sense Blade
     S:oredict.toolHeadRawSenseRedstonia.name=Raw Redstonia Sense Blade
@@ -50007,6 +50439,7 @@ languagefile {
     S:oredict.toolHeadRawShovelDacite.name=Raw Dacite Shovel Head
     S:oredict.toolHeadRawShovelDamascusSteel.name=Raw Damascus Steel Shovel Head
     S:oredict.toolHeadRawShovelDarkIron.name=Raw Dark Iron Shovel Head
+    S:oredict.toolHeadRawShovelDarkMatter.name=Raw Dark Matter Shovel Head
     S:oredict.toolHeadRawShovelDarkSteel.name=Raw Dark Steel Shovel Head
     S:oredict.toolHeadRawShovelDarkThaumium.name=Raw Dark Thaumium Shovel Head
     S:oredict.toolHeadRawShovelDeepIron.name=Raw Deep Iron Shovel Head
@@ -50115,6 +50548,7 @@ languagefile {
     S:oredict.toolHeadRawShovelPyrope.name=Raw Pyrope Shovel Head
     S:oredict.toolHeadRawShovelQuartzBlack.name=Raw Black Quartz Shovel Head
     S:oredict.toolHeadRawShovelQuartzite.name=Raw Quartzite Shovel Head
+    S:oredict.toolHeadRawShovelRedMatter.name=Raw Red Matter Shovel Head
     S:oredict.toolHeadRawShovelRedSteel.name=Raw Red Steel Shovel Head
     S:oredict.toolHeadRawShovelRedrock.name=Raw Redrock Shovel Head
     S:oredict.toolHeadRawShovelRedstonia.name=Raw Redstonia Shovel Head
@@ -50240,6 +50674,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeDacite.name=Raw Dacite Spade Head
     S:oredict.toolHeadRawSpadeDamascusSteel.name=Raw Damascus Steel Spade Head
     S:oredict.toolHeadRawSpadeDarkIron.name=Raw Dark Iron Spade Head
+    S:oredict.toolHeadRawSpadeDarkMatter.name=Raw Dark Matter Spade Head
     S:oredict.toolHeadRawSpadeDarkSteel.name=Raw Dark Steel Spade Head
     S:oredict.toolHeadRawSpadeDarkThaumium.name=Raw Dark Thaumium Spade Head
     S:oredict.toolHeadRawSpadeDeepIron.name=Raw Deep Iron Spade Head
@@ -50348,6 +50783,7 @@ languagefile {
     S:oredict.toolHeadRawSpadePyrope.name=Raw Pyrope Spade Head
     S:oredict.toolHeadRawSpadeQuartzBlack.name=Raw Black Quartz Spade Head
     S:oredict.toolHeadRawSpadeQuartzite.name=Raw Quartzite Spade Head
+    S:oredict.toolHeadRawSpadeRedMatter.name=Raw Red Matter Spade Head
     S:oredict.toolHeadRawSpadeRedSteel.name=Raw Red Steel Spade Head
     S:oredict.toolHeadRawSpadeRedrock.name=Raw Redrock Spade Head
     S:oredict.toolHeadRawSpadeRedstonia.name=Raw Redstonia Spade Head
@@ -50473,6 +50909,7 @@ languagefile {
     S:oredict.toolHeadRawSwordDacite.name=Raw Dacite Sword Blade
     S:oredict.toolHeadRawSwordDamascusSteel.name=Raw Damascus Steel Sword Blade
     S:oredict.toolHeadRawSwordDarkIron.name=Raw Dark Iron Sword Blade
+    S:oredict.toolHeadRawSwordDarkMatter.name=Raw Dark Matter Sword Blade
     S:oredict.toolHeadRawSwordDarkSteel.name=Raw Dark Steel Sword Blade
     S:oredict.toolHeadRawSwordDarkThaumium.name=Raw Dark Thaumium Sword Blade
     S:oredict.toolHeadRawSwordDeepIron.name=Raw Deep Iron Sword Blade
@@ -50581,6 +51018,7 @@ languagefile {
     S:oredict.toolHeadRawSwordPyrope.name=Raw Pyrope Sword Blade
     S:oredict.toolHeadRawSwordQuartzBlack.name=Raw Black Quartz Sword Blade
     S:oredict.toolHeadRawSwordQuartzite.name=Raw Quartzite Sword Blade
+    S:oredict.toolHeadRawSwordRedMatter.name=Raw Red Matter Sword Blade
     S:oredict.toolHeadRawSwordRedSteel.name=Raw Red Steel Sword Blade
     S:oredict.toolHeadRawSwordRedrock.name=Raw Redrock Sword Blade
     S:oredict.toolHeadRawSwordRedstonia.name=Raw Redstonia Sword Blade
@@ -50702,6 +51140,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeDacite.name=Raw Dacite Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeDamascusSteel.name=Raw Damascus Steel Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeDarkIron.name=Raw Dark Iron Universal Spade Head
+    S:oredict.toolHeadRawUniversalSpadeDarkMatter.name=Raw Dark Matter Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeDarkSteel.name=Raw Dark Steel Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeDarkThaumium.name=Raw Dark Thaumium Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeDeepIron.name=Raw Deep Iron Universal Spade Head
@@ -50797,6 +51236,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadePyrope.name=Raw Pyrope Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeQuartzBlack.name=Raw Black Quartz Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeQuartzite.name=Raw Quartzite Universal Spade Head
+    S:oredict.toolHeadRawUniversalSpadeRedMatter.name=Raw Red Matter Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeRedSteel.name=Raw Red Steel Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeRedstonia.name=Raw Redstonia Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeRhyolite.name=Raw Rhyolite Universal Spade Head
@@ -50910,6 +51350,7 @@ languagefile {
     S:oredict.toolHeadSawDacite.name=Dacite Saw Blade
     S:oredict.toolHeadSawDamascusSteel.name=Damascus Steel Saw Blade
     S:oredict.toolHeadSawDarkIron.name=Dark Iron Saw Blade
+    S:oredict.toolHeadSawDarkMatter.name=Dark Matter Saw Blade
     S:oredict.toolHeadSawDarkSteel.name=Dark Steel Saw Blade
     S:oredict.toolHeadSawDarkThaumium.name=Dark Thaumium Saw Blade
     S:oredict.toolHeadSawDeepIron.name=Deep Iron Saw Blade
@@ -51005,6 +51446,7 @@ languagefile {
     S:oredict.toolHeadSawPyrope.name=Pyrope Saw Blade
     S:oredict.toolHeadSawQuartzBlack.name=Black Quartz Saw Blade
     S:oredict.toolHeadSawQuartzite.name=Quartzite Saw Blade
+    S:oredict.toolHeadSawRedMatter.name=Red Matter Saw Blade
     S:oredict.toolHeadSawRedSteel.name=Red Steel Saw Blade
     S:oredict.toolHeadSawRedstonia.name=Redstonia Saw Blade
     S:oredict.toolHeadSawRhyolite.name=Rhyolite Saw Blade
@@ -51118,6 +51560,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverDacite.name=Dacite Screwdriver Tip
     S:oredict.toolHeadScrewdriverDamascusSteel.name=Damascus Steel Screwdriver Tip
     S:oredict.toolHeadScrewdriverDarkIron.name=Dark Iron Screwdriver Tip
+    S:oredict.toolHeadScrewdriverDarkMatter.name=Dark Matter Screwdriver Tip
     S:oredict.toolHeadScrewdriverDarkSteel.name=Dark Steel Screwdriver Tip
     S:oredict.toolHeadScrewdriverDarkThaumium.name=Dark Thaumium Screwdriver Tip
     S:oredict.toolHeadScrewdriverDeepIron.name=Deep Iron Screwdriver Tip
@@ -51215,6 +51658,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverPyrope.name=Pyrope Screwdriver Tip
     S:oredict.toolHeadScrewdriverQuartzBlack.name=Black Quartz Screwdriver Tip
     S:oredict.toolHeadScrewdriverQuartzite.name=Quartzite Screwdriver Tip
+    S:oredict.toolHeadScrewdriverRedMatter.name=Red Matter Screwdriver Tip
     S:oredict.toolHeadScrewdriverRedSteel.name=Red Steel Screwdriver Tip
     S:oredict.toolHeadScrewdriverRedstonia.name=Redstonia Screwdriver Tip
     S:oredict.toolHeadScrewdriverRhyolite.name=Rhyolite Screwdriver Tip
@@ -51334,6 +51778,7 @@ languagefile {
     S:oredict.toolHeadSenseDacite.name=Dacite Sense Blade
     S:oredict.toolHeadSenseDamascusSteel.name=Damascus Steel Sense Blade
     S:oredict.toolHeadSenseDarkIron.name=Dark Iron Sense Blade
+    S:oredict.toolHeadSenseDarkMatter.name=Dark Matter Sense Blade
     S:oredict.toolHeadSenseDarkSteel.name=Dark Steel Sense Blade
     S:oredict.toolHeadSenseDarkThaumium.name=Dark Thaumium Sense Blade
     S:oredict.toolHeadSenseDeepIron.name=Deep Iron Sense Blade
@@ -51442,6 +51887,7 @@ languagefile {
     S:oredict.toolHeadSensePyrope.name=Pyrope Sense Blade
     S:oredict.toolHeadSenseQuartzBlack.name=Black Quartz Sense Blade
     S:oredict.toolHeadSenseQuartzite.name=Quartzite Sense Blade
+    S:oredict.toolHeadSenseRedMatter.name=Red Matter Sense Blade
     S:oredict.toolHeadSenseRedSteel.name=Red Steel Sense Blade
     S:oredict.toolHeadSenseRedrock.name=Redrock Sense Blade
     S:oredict.toolHeadSenseRedstonia.name=Redstonia Sense Blade
@@ -51567,6 +52013,7 @@ languagefile {
     S:oredict.toolHeadShovelDacite.name=Dacite Shovel Head
     S:oredict.toolHeadShovelDamascusSteel.name=Damascus Steel Shovel Head
     S:oredict.toolHeadShovelDarkIron.name=Dark Iron Shovel Head
+    S:oredict.toolHeadShovelDarkMatter.name=Dark Matter Shovel Head
     S:oredict.toolHeadShovelDarkSteel.name=Dark Steel Shovel Head
     S:oredict.toolHeadShovelDarkThaumium.name=Dark Thaumium Shovel Head
     S:oredict.toolHeadShovelDeepIron.name=Deep Iron Shovel Head
@@ -51675,6 +52122,7 @@ languagefile {
     S:oredict.toolHeadShovelPyrope.name=Pyrope Shovel Head
     S:oredict.toolHeadShovelQuartzBlack.name=Black Quartz Shovel Head
     S:oredict.toolHeadShovelQuartzite.name=Quartzite Shovel Head
+    S:oredict.toolHeadShovelRedMatter.name=Red Matter Shovel Head
     S:oredict.toolHeadShovelRedSteel.name=Red Steel Shovel Head
     S:oredict.toolHeadShovelRedrock.name=Redrock Shovel Head
     S:oredict.toolHeadShovelRedstonia.name=Redstonia Shovel Head
@@ -51800,6 +52248,7 @@ languagefile {
     S:oredict.toolHeadSpadeDacite.name=Dacite Spade Head
     S:oredict.toolHeadSpadeDamascusSteel.name=Damascus Steel Spade Head
     S:oredict.toolHeadSpadeDarkIron.name=Dark Iron Spade Head
+    S:oredict.toolHeadSpadeDarkMatter.name=Dark Matter Spade Head
     S:oredict.toolHeadSpadeDarkSteel.name=Dark Steel Spade Head
     S:oredict.toolHeadSpadeDarkThaumium.name=Dark Thaumium Spade Head
     S:oredict.toolHeadSpadeDeepIron.name=Deep Iron Spade Head
@@ -51908,6 +52357,7 @@ languagefile {
     S:oredict.toolHeadSpadePyrope.name=Pyrope Spade Head
     S:oredict.toolHeadSpadeQuartzBlack.name=Black Quartz Spade Head
     S:oredict.toolHeadSpadeQuartzite.name=Quartzite Spade Head
+    S:oredict.toolHeadSpadeRedMatter.name=Red Matter Spade Head
     S:oredict.toolHeadSpadeRedSteel.name=Red Steel Spade Head
     S:oredict.toolHeadSpadeRedrock.name=Redrock Spade Head
     S:oredict.toolHeadSpadeRedstonia.name=Redstonia Spade Head
@@ -52033,6 +52483,7 @@ languagefile {
     S:oredict.toolHeadSwordDacite.name=Dacite Sword Blade
     S:oredict.toolHeadSwordDamascusSteel.name=Damascus Steel Sword Blade
     S:oredict.toolHeadSwordDarkIron.name=Dark Iron Sword Blade
+    S:oredict.toolHeadSwordDarkMatter.name=Dark Matter Sword Blade
     S:oredict.toolHeadSwordDarkSteel.name=Dark Steel Sword Blade
     S:oredict.toolHeadSwordDarkThaumium.name=Dark Thaumium Sword Blade
     S:oredict.toolHeadSwordDeepIron.name=Deep Iron Sword Blade
@@ -52141,6 +52592,7 @@ languagefile {
     S:oredict.toolHeadSwordPyrope.name=Pyrope Sword Blade
     S:oredict.toolHeadSwordQuartzBlack.name=Black Quartz Sword Blade
     S:oredict.toolHeadSwordQuartzite.name=Quartzite Sword Blade
+    S:oredict.toolHeadSwordRedMatter.name=Red Matter Sword Blade
     S:oredict.toolHeadSwordRedSteel.name=Red Steel Sword Blade
     S:oredict.toolHeadSwordRedrock.name=Redrock Sword Blade
     S:oredict.toolHeadSwordRedstonia.name=Redstonia Sword Blade
@@ -52262,6 +52714,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeDacite.name=Dacite Universal Spade Head
     S:oredict.toolHeadUniversalSpadeDamascusSteel.name=Damascus Steel Universal Spade Head
     S:oredict.toolHeadUniversalSpadeDarkIron.name=Dark Iron Universal Spade Head
+    S:oredict.toolHeadUniversalSpadeDarkMatter.name=Dark Matter Universal Spade Head
     S:oredict.toolHeadUniversalSpadeDarkSteel.name=Dark Steel Universal Spade Head
     S:oredict.toolHeadUniversalSpadeDarkThaumium.name=Dark Thaumium Universal Spade Head
     S:oredict.toolHeadUniversalSpadeDeepIron.name=Deep Iron Universal Spade Head
@@ -52357,6 +52810,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadePyrope.name=Pyrope Universal Spade Head
     S:oredict.toolHeadUniversalSpadeQuartzBlack.name=Black Quartz Universal Spade Head
     S:oredict.toolHeadUniversalSpadeQuartzite.name=Quartzite Universal Spade Head
+    S:oredict.toolHeadUniversalSpadeRedMatter.name=Red Matter Universal Spade Head
     S:oredict.toolHeadUniversalSpadeRedSteel.name=Red Steel Universal Spade Head
     S:oredict.toolHeadUniversalSpadeRedstonia.name=Redstonia Universal Spade Head
     S:oredict.toolHeadUniversalSpadeRhyolite.name=Rhyolite Universal Spade Head
@@ -52470,6 +52924,7 @@ languagefile {
     S:oredict.toolHeadWrenchDacite.name=Dacite Wrench Tip
     S:oredict.toolHeadWrenchDamascusSteel.name=Damascus Steel Wrench Tip
     S:oredict.toolHeadWrenchDarkIron.name=Dark Iron Wrench Tip
+    S:oredict.toolHeadWrenchDarkMatter.name=Dark Matter Wrench Tip
     S:oredict.toolHeadWrenchDarkSteel.name=Dark Steel Wrench Tip
     S:oredict.toolHeadWrenchDarkThaumium.name=Dark Thaumium Wrench Tip
     S:oredict.toolHeadWrenchDeepIron.name=Deep Iron Wrench Tip
@@ -52565,6 +53020,7 @@ languagefile {
     S:oredict.toolHeadWrenchPyrope.name=Pyrope Wrench Tip
     S:oredict.toolHeadWrenchQuartzBlack.name=Black Quartz Wrench Tip
     S:oredict.toolHeadWrenchQuartzite.name=Quartzite Wrench Tip
+    S:oredict.toolHeadWrenchRedMatter.name=Red Matter Wrench Tip
     S:oredict.toolHeadWrenchRedSteel.name=Red Steel Wrench Tip
     S:oredict.toolHeadWrenchRedstonia.name=Redstonia Wrench Tip
     S:oredict.toolHeadWrenchRhyolite.name=Rhyolite Wrench Tip

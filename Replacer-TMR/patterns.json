@@ -178,5 +178,59 @@
         "value":"Crushed (.+) Ore",
         "repl":"粉碎\\1矿石",
         "priority":1000
+    },
+    {
+        "name":"gt.block.(beam|log|planks).+",
+        "value":"(.+) \\(Fireproof\\)",
+        "repl":"\\1 (防火)",
+        "priority":1500
+    },
+    {
+        "name":"gt.block.beam.+",
+        "value":"(.+) Beam",
+        "repl":"\\1梁",
+        "priority":1000
+    },
+    {
+        "name":"gt.block.log.+",
+        "value":"(.+) Log",
+        "repl":"\\1原木",
+        "priority":1000
+    },
+    {
+        "name":"gt.block.planks.+",
+        "value":"(.+) Planks?",
+        "repl":"\\1木板",
+        "priority":1000
+    },
+    {
+        "name":"gt.block.planks.+",
+        "value":"(.+) Slab",
+        "repl":"\\1半砖",
+        "priority":1000
+    },
+    {
+        "name":"gt.multitileentity.+",
+        "value":"(.+) \\(Bronze\\)",
+        "repl":"\\1 (青铜)",
+        "priority":1000
+    },
+    {
+        "name":"gt.multitileentity.+",
+        "value":"(.+) \\(Steel\\)",
+        "repl":"\\1 (钢)",
+        "priority":1000
+    },
+    {
+        "name":"gt.multitileentity.+",
+        "value":"(.+) \\(Titanium\\)",
+        "repl":"\\1 (钛)",
+        "priority":1000
+    },
+    {
+        "name":"gt.multitileentity.+",
+        "value":"(.+) \\(Tungstensteel\\)",
+        "repl":"\\1 (钨钢)",
+        "priority":1000
     }
 ]

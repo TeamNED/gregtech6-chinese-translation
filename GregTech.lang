@@ -910,6 +910,142 @@ languagefile {
     S:gt.block.bale.grass.7.name=烂草垛
     S:gt.block.bale.grass.8.name=草垛
     S:gt.block.bale.grass.9.name=干草垛
+    S:gt.block.beam.1.0.name=Oak Beam
+    S:gt.block.beam.1.1.name=Spruce Beam
+    S:gt.block.beam.1.10.name=Birch Beam
+    S:gt.block.beam.1.11.name=Jungle Beam
+    S:gt.block.beam.1.12.name=Oak Beam
+    S:gt.block.beam.1.13.name=Spruce Beam
+    S:gt.block.beam.1.14.name=Birch Beam
+    S:gt.block.beam.1.15.name=Jungle Beam
+    S:gt.block.beam.1.2.name=Birch Beam
+    S:gt.block.beam.1.3.name=Jungle Beam
+    S:gt.block.beam.1.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.1.4.name=Oak Beam
+    S:gt.block.beam.1.5.name=Spruce Beam
+    S:gt.block.beam.1.6.name=Birch Beam
+    S:gt.block.beam.1.7.name=Jungle Beam
+    S:gt.block.beam.1.8.name=Oak Beam
+    S:gt.block.beam.1.9.name=Spruce Beam
+    S:gt.block.beam.1.fireproof.0.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.1.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.10.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.11.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.12.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.13.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.14.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.15.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.2.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.3.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.1.fireproof.4.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.5.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.6.name=Birch Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.7.name=Jungle Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.8.name=Oak Beam (Fireproof)
+    S:gt.block.beam.1.fireproof.9.name=Spruce Beam (Fireproof)
+    S:gt.block.beam.2.0.name=Acacia Beam
+    S:gt.block.beam.2.1.name=Dark Oak Beam
+    S:gt.block.beam.2.10.name=Rubber Wood Beam
+    S:gt.block.beam.2.11.name=Wood Beam
+    S:gt.block.beam.2.12.name=Acacia Beam
+    S:gt.block.beam.2.13.name=Dark Oak Beam
+    S:gt.block.beam.2.14.name=Rubber Wood Beam
+    S:gt.block.beam.2.15.name=Wood Beam
+    S:gt.block.beam.2.2.name=Rubber Wood Beam
+    S:gt.block.beam.2.3.name=Wood Beam
+    S:gt.block.beam.2.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.2.4.name=Acacia Beam
+    S:gt.block.beam.2.5.name=Dark Oak Beam
+    S:gt.block.beam.2.6.name=Rubber Wood Beam
+    S:gt.block.beam.2.7.name=Wood Beam
+    S:gt.block.beam.2.8.name=Acacia Beam
+    S:gt.block.beam.2.9.name=Dark Oak Beam
+    S:gt.block.beam.2.fireproof.0.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.1.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.10.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.11.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.12.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.13.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.14.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.15.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.2.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.3.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.2.fireproof.4.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.5.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.6.name=Rubber Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.7.name=Wood Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.8.name=Acacia Beam (Fireproof)
+    S:gt.block.beam.2.fireproof.9.name=Dark Oak Beam (Fireproof)
+    S:gt.block.beam.a.0.name=Rubber Beam
+    S:gt.block.beam.a.1.name=Maple Beam
+    S:gt.block.beam.a.10.name=Willow Beam
+    S:gt.block.beam.a.11.name=Blue Mahoe Beam
+    S:gt.block.beam.a.12.name=Rubber Beam
+    S:gt.block.beam.a.13.name=Maple Beam
+    S:gt.block.beam.a.14.name=Willow Beam
+    S:gt.block.beam.a.15.name=Blue Mahoe Beam
+    S:gt.block.beam.a.2.name=Willow Beam
+    S:gt.block.beam.a.3.name=Blue Mahoe Beam
+    S:gt.block.beam.a.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.a.4.name=Rubber Beam
+    S:gt.block.beam.a.5.name=Maple Beam
+    S:gt.block.beam.a.6.name=Willow Beam
+    S:gt.block.beam.a.7.name=Blue Mahoe Beam
+    S:gt.block.beam.a.8.name=Rubber Beam
+    S:gt.block.beam.a.9.name=Maple Beam
+    S:gt.block.beam.a.fireproof.0.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.1.name=Maple Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.10.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.11.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.12.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.13.name=Maple Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.14.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.15.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.2.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.3.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.a.fireproof.4.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.5.name=Maple Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.6.name=Willow Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.7.name=Blue Mahoe Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.8.name=Rubber Beam (Fireproof)
+    S:gt.block.beam.a.fireproof.9.name=Maple Beam (Fireproof)
+    S:gt.block.beam.b.0.name=Hazel Beam
+    S:gt.block.beam.b.1.name=Cinnamon Beam
+    S:gt.block.beam.b.10.name=Beam
+    S:gt.block.beam.b.11.name=Rainbowood Beam
+    S:gt.block.beam.b.12.name=Hazel Beam
+    S:gt.block.beam.b.13.name=Cinnamon Beam
+    S:gt.block.beam.b.14.name=Beam
+    S:gt.block.beam.b.15.name=Rainbowood Beam
+    S:gt.block.beam.b.2.name=Beam
+    S:gt.block.beam.b.3.name=Rainbowood Beam
+    S:gt.block.beam.b.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.b.4.name=Hazel Beam
+    S:gt.block.beam.b.5.name=Cinnamon Beam
+    S:gt.block.beam.b.6.name=Beam
+    S:gt.block.beam.b.7.name=Rainbowood Beam
+    S:gt.block.beam.b.8.name=Hazel Beam
+    S:gt.block.beam.b.9.name=Cinnamon Beam
+    S:gt.block.beam.b.fireproof.0.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.1.name=Cinnamon Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.10.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.11.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.12.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.13.name=Cinnamon Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.14.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.15.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.2.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.3.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.beam.b.fireproof.4.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.5.name=Cinnamon Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.6.name=Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.7.name=Rainbowood Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.8.name=Hazel Beam (Fireproof)
+    S:gt.block.beam.b.fireproof.9.name=Cinnamon Beam (Fireproof)
     S:gt.block.cfoam.0.name=黑色泡沫
     S:gt.block.cfoam.1.name=红色泡沫
     S:gt.block.cfoam.10.name=黄绿色泡沫
@@ -1148,6 +1284,9 @@ languagefile {
     S:gt.block.cfoam.slab.5.7.name=淡灰色泡沫半砖
     S:gt.block.cfoam.slab.5.8.name=灰色泡沫半砖
     S:gt.block.cfoam.slab.5.9.name=粉色泡沫半砖
+    S:gt.block.diggable.0.name=Mud
+    S:gt.block.diggable.1.name=Brown Clay
+    S:gt.block.diggable.32767.name=Any Sub-Block of this one
     S:gt.block.glass.0.name=黑色玻璃
     S:gt.block.glass.1.name=红色玻璃
     S:gt.block.glass.10.name=黄绿色玻璃
@@ -1301,6 +1440,40 @@ languagefile {
     S:gt.block.lilypad.glowtus.7.name=淡灰色荧光睡莲
     S:gt.block.lilypad.glowtus.8.name=灰色荧光睡莲
     S:gt.block.lilypad.glowtus.9.name=粉色荧光睡莲
+    S:gt.block.log.1.0.name=Dead Log
+    S:gt.block.log.1.1.name=Rotten Log
+    S:gt.block.log.1.10.name=Mossy Log
+    S:gt.block.log.1.11.name=Frozen Log
+    S:gt.block.log.1.12.name=Dead Log
+    S:gt.block.log.1.13.name=Rotten Log
+    S:gt.block.log.1.14.name=Mossy Log
+    S:gt.block.log.1.15.name=Frozen Log
+    S:gt.block.log.1.2.name=Mossy Log
+    S:gt.block.log.1.3.name=Frozen Log
+    S:gt.block.log.1.32767.name=Any Sub-Block of this one
+    S:gt.block.log.1.4.name=Dead Log
+    S:gt.block.log.1.5.name=Rotten Log
+    S:gt.block.log.1.6.name=Mossy Log
+    S:gt.block.log.1.7.name=Frozen Log
+    S:gt.block.log.1.8.name=Dead Log
+    S:gt.block.log.1.9.name=Rotten Log
+    S:gt.block.log.1.fireproof.0.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.1.name=Rotten Log (Fireproof)
+    S:gt.block.log.1.fireproof.10.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.11.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.12.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.13.name=Rotten Log (Fireproof)
+    S:gt.block.log.1.fireproof.14.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.15.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.2.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.3.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.32767.name=Any Sub-Block of this one
+    S:gt.block.log.1.fireproof.4.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.5.name=Rotten Log (Fireproof)
+    S:gt.block.log.1.fireproof.6.name=Mossy Log (Fireproof)
+    S:gt.block.log.1.fireproof.7.name=Frozen Log (Fireproof)
+    S:gt.block.log.1.fireproof.8.name=Dead Log (Fireproof)
+    S:gt.block.log.1.fireproof.9.name=Rotten Log (Fireproof)
     S:gt.block.log.a.0.name=橡胶树原木
     S:gt.block.log.a.1.name=枫树原木
     S:gt.block.log.a.10.name=原木
@@ -1390,6 +1563,10 @@ languagefile {
     S:gt.block.planks.1.name=枫树木板
     S:gt.block.planks.10.name=压缩木板
     S:gt.block.planks.11.name=压缩木板
+    S:gt.block.planks.12.name=Dead Planks
+    S:gt.block.planks.13.name=Rotten Planks
+    S:gt.block.planks.14.name=Mossy Planks
+    S:gt.block.planks.15.name=Frozen Planks
     S:gt.block.planks.2.name=柳树木板
     S:gt.block.planks.3.name=高红槿木板
     S:gt.block.planks.32767.name=所有此方块的子方块
@@ -1403,6 +1580,10 @@ languagefile {
     S:gt.block.planks.fireproof.1.name=枫树木板 (防火)
     S:gt.block.planks.fireproof.10.name=压缩木板 (防火)
     S:gt.block.planks.fireproof.11.name=压缩木板 (防火)
+    S:gt.block.planks.fireproof.12.name=Dead Planks (Fireproof)
+    S:gt.block.planks.fireproof.13.name=Rotten Planks (Fireproof)
+    S:gt.block.planks.fireproof.14.name=Mossy Planks (Fireproof)
+    S:gt.block.planks.fireproof.15.name=Frozen Planks (Fireproof)
     S:gt.block.planks.fireproof.2.name=柳树木板 (防火)
     S:gt.block.planks.fireproof.3.name=高红槿木板 (防火)
     S:gt.block.planks.fireproof.32767.name=所有此方块的子方块
@@ -1416,6 +1597,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.0.1.name=枫树半砖 (防火)
     S:gt.block.planks.fireproof.slab.0.10.name=压缩木半砖 (防火)
     S:gt.block.planks.fireproof.slab.0.11.name=压缩木半砖 (防火)
+    S:gt.block.planks.fireproof.slab.0.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.0.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.0.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.0.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.0.2.name=柳树半砖 (防火)
     S:gt.block.planks.fireproof.slab.0.3.name=高红槿半砖 (防火)
     S:gt.block.planks.fireproof.slab.0.32767.name=所有此方块的子方块
@@ -1429,6 +1614,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.1.1.name=枫树半砖 (防火)
     S:gt.block.planks.fireproof.slab.1.10.name=压缩木半砖 (防火)
     S:gt.block.planks.fireproof.slab.1.11.name=压缩木半砖 (防火)
+    S:gt.block.planks.fireproof.slab.1.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.1.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.1.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.1.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.1.2.name=柳树半砖 (防火)
     S:gt.block.planks.fireproof.slab.1.3.name=高红槿半砖 (防火)
     S:gt.block.planks.fireproof.slab.1.32767.name=所有此方块的子方块
@@ -1442,6 +1631,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.2.1.name=枫树半砖 (防火)
     S:gt.block.planks.fireproof.slab.2.10.name=压缩木半砖 (防火)
     S:gt.block.planks.fireproof.slab.2.11.name=压缩木半砖 (防火)
+    S:gt.block.planks.fireproof.slab.2.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.2.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.2.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.2.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.2.2.name=柳树半砖 (防火)
     S:gt.block.planks.fireproof.slab.2.3.name=高红槿半砖 (防火)
     S:gt.block.planks.fireproof.slab.2.32767.name=所有此方块的子方块
@@ -1455,6 +1648,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.3.1.name=枫树半砖 (防火)
     S:gt.block.planks.fireproof.slab.3.10.name=压缩木半砖 (防火)
     S:gt.block.planks.fireproof.slab.3.11.name=压缩木半砖 (防火)
+    S:gt.block.planks.fireproof.slab.3.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.3.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.3.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.3.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.3.2.name=柳树半砖 (防火)
     S:gt.block.planks.fireproof.slab.3.3.name=高红槿半砖 (防火)
     S:gt.block.planks.fireproof.slab.3.32767.name=所有此方块的子方块
@@ -1468,6 +1665,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.4.1.name=枫树半砖 (防火)
     S:gt.block.planks.fireproof.slab.4.10.name=压缩木半砖 (防火)
     S:gt.block.planks.fireproof.slab.4.11.name=压缩木半砖 (防火)
+    S:gt.block.planks.fireproof.slab.4.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.4.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.4.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.4.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.4.2.name=柳树半砖 (防火)
     S:gt.block.planks.fireproof.slab.4.3.name=高红槿半砖 (防火)
     S:gt.block.planks.fireproof.slab.4.32767.name=所有此方块的子方块
@@ -1481,6 +1682,10 @@ languagefile {
     S:gt.block.planks.fireproof.slab.5.1.name=枫树半砖 (防火)
     S:gt.block.planks.fireproof.slab.5.10.name=压缩木半砖 (防火)
     S:gt.block.planks.fireproof.slab.5.11.name=压缩木半砖 (防火)
+    S:gt.block.planks.fireproof.slab.5.12.name=Dead Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.5.13.name=Rotten Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.5.14.name=Mossy Slab (Fireproof)
+    S:gt.block.planks.fireproof.slab.5.15.name=Frozen Slab (Fireproof)
     S:gt.block.planks.fireproof.slab.5.2.name=柳树半砖 (防火)
     S:gt.block.planks.fireproof.slab.5.3.name=高红槿半砖 (防火)
     S:gt.block.planks.fireproof.slab.5.32767.name=所有此方块的子方块
@@ -1494,6 +1699,10 @@ languagefile {
     S:gt.block.planks.slab.0.1.name=枫树半砖
     S:gt.block.planks.slab.0.10.name=压缩木半砖
     S:gt.block.planks.slab.0.11.name=压缩木半砖
+    S:gt.block.planks.slab.0.12.name=Dead Slab
+    S:gt.block.planks.slab.0.13.name=Rotten Slab
+    S:gt.block.planks.slab.0.14.name=Mossy Slab
+    S:gt.block.planks.slab.0.15.name=Frozen Slab
     S:gt.block.planks.slab.0.2.name=柳树半砖
     S:gt.block.planks.slab.0.3.name=高红槿半砖
     S:gt.block.planks.slab.0.32767.name=所有此方块的子方块
@@ -1507,6 +1716,10 @@ languagefile {
     S:gt.block.planks.slab.1.1.name=枫树半砖
     S:gt.block.planks.slab.1.10.name=压缩木半砖
     S:gt.block.planks.slab.1.11.name=压缩木半砖
+    S:gt.block.planks.slab.1.12.name=Dead Slab
+    S:gt.block.planks.slab.1.13.name=Rotten Slab
+    S:gt.block.planks.slab.1.14.name=Mossy Slab
+    S:gt.block.planks.slab.1.15.name=Frozen Slab
     S:gt.block.planks.slab.1.2.name=柳树半砖
     S:gt.block.planks.slab.1.3.name=高红槿半砖
     S:gt.block.planks.slab.1.32767.name=所有此方块的子方块
@@ -1520,6 +1733,10 @@ languagefile {
     S:gt.block.planks.slab.2.1.name=枫树半砖
     S:gt.block.planks.slab.2.10.name=压缩木半砖
     S:gt.block.planks.slab.2.11.name=压缩木半砖
+    S:gt.block.planks.slab.2.12.name=Dead Slab
+    S:gt.block.planks.slab.2.13.name=Rotten Slab
+    S:gt.block.planks.slab.2.14.name=Mossy Slab
+    S:gt.block.planks.slab.2.15.name=Frozen Slab
     S:gt.block.planks.slab.2.2.name=柳树半砖
     S:gt.block.planks.slab.2.3.name=高红槿半砖
     S:gt.block.planks.slab.2.32767.name=所有此方块的子方块
@@ -1533,6 +1750,10 @@ languagefile {
     S:gt.block.planks.slab.3.1.name=枫树半砖
     S:gt.block.planks.slab.3.10.name=压缩木半砖
     S:gt.block.planks.slab.3.11.name=压缩木半砖
+    S:gt.block.planks.slab.3.12.name=Dead Slab
+    S:gt.block.planks.slab.3.13.name=Rotten Slab
+    S:gt.block.planks.slab.3.14.name=Mossy Slab
+    S:gt.block.planks.slab.3.15.name=Frozen Slab
     S:gt.block.planks.slab.3.2.name=柳树半砖
     S:gt.block.planks.slab.3.3.name=高红槿半砖
     S:gt.block.planks.slab.3.32767.name=所有此方块的子方块
@@ -1546,6 +1767,10 @@ languagefile {
     S:gt.block.planks.slab.4.1.name=枫树半砖
     S:gt.block.planks.slab.4.10.name=压缩木半砖
     S:gt.block.planks.slab.4.11.name=压缩木半砖
+    S:gt.block.planks.slab.4.12.name=Dead Slab
+    S:gt.block.planks.slab.4.13.name=Rotten Slab
+    S:gt.block.planks.slab.4.14.name=Mossy Slab
+    S:gt.block.planks.slab.4.15.name=Frozen Slab
     S:gt.block.planks.slab.4.2.name=柳树半砖
     S:gt.block.planks.slab.4.3.name=高红槿半砖
     S:gt.block.planks.slab.4.32767.name=所有此方块的子方块
@@ -1559,6 +1784,10 @@ languagefile {
     S:gt.block.planks.slab.5.1.name=枫树半砖
     S:gt.block.planks.slab.5.10.name=压缩木半砖
     S:gt.block.planks.slab.5.11.name=压缩木半砖
+    S:gt.block.planks.slab.5.12.name=Dead Slab
+    S:gt.block.planks.slab.5.13.name=Rotten Slab
+    S:gt.block.planks.slab.5.14.name=Mossy Slab
+    S:gt.block.planks.slab.5.15.name=Frozen Slab
     S:gt.block.planks.slab.5.2.name=柳树半砖
     S:gt.block.planks.slab.5.3.name=高红槿半砖
     S:gt.block.planks.slab.5.32767.name=所有此方块的子方块
@@ -2171,6 +2400,7 @@ languagefile {
     S:gt.lang.tool.name.hammer=锤子
     S:gt.lang.tool.name.hoe=锄
     S:gt.lang.tool.name.igniter=点火工具
+    S:gt.lang.tool.name.knife=Knife
     S:gt.lang.tool.name.magnifyingglass=放大镜
     S:gt.lang.tool.name.monkeywrench=活动扳手
     S:gt.lang.tool.name.pickaxe=镐
@@ -2207,6 +2437,7 @@ languagefile {
     S:gt.lang.tool.tooltip.hammer=可以探矿和砸东西，挖矿请找镐子
     S:gt.lang.tool.tooltip.hoe=可以耕种泥土和类似的土壤
     S:gt.lang.tool.tooltip.igniter=点燃东西
+    S:gt.lang.tool.tooltip.knife=Cuts things off of Blocks
     S:gt.lang.tool.tooltip.magnifyingglass=用于调查现场
     S:gt.lang.tool.tooltip.monkeywrench=用于次要面和管道的特殊扳手
     S:gt.lang.tool.tooltip.pickaxe=碎矿请找锤子
@@ -2733,6 +2964,7 @@ languagefile {
     S:gt.material.Antimatter=反物质
     S:gt.material.Antimony=锑
     S:gt.material.AnyBronze=青铜
+    S:gt.material.AnyClay=Clay
     S:gt.material.AnyCopper=铜
     S:gt.material.AnyGlowstone=萤石
     S:gt.material.AnyIron=铁
@@ -2772,6 +3004,7 @@ languagefile {
     S:gt.material.BandedIron=带状铁
     S:gt.material.Barite=重晶石
     S:gt.material.Barium=钡
+    S:gt.material.Bark=Bark
     S:gt.material.Barley=大麦
     S:gt.material.Basalt=玄武岩
     S:gt.material.BasalticMineralSand=玄武岩类矿砂
@@ -2974,6 +3207,7 @@ languagefile {
     S:gt.material.Cinnamon=肉桂
     S:gt.material.Citrine=黄水晶
     S:gt.material.Clay=粘土
+    S:gt.material.ClayBrown=Brown Clay
     S:gt.material.Cluster=矿簇
     S:gt.material.Coal=煤
     S:gt.material.CoalCoke=焦煤
@@ -3017,6 +3251,7 @@ languagefile {
     S:gt.material.DarkAsh=黑暗灰烬
     S:gt.material.DarkAshes=黑色灰烬
     S:gt.material.DarkIron=玄铁
+    S:gt.material.DarkMatter=Dark Matter
     S:gt.material.DarkSteel=玄钢
     S:gt.material.DarkStone=黑暗石头
     S:gt.material.DarkThaumium=黑暗神秘锭
@@ -3481,6 +3716,7 @@ languagefile {
     S:gt.material.RawTerrasteelAlloy=粗制泰拉钢合金
     S:gt.material.Red=红
     S:gt.material.RedAlloy=红色合金
+    S:gt.material.RedMatter=Red Matter
     S:gt.material.RedRock=红岩
     S:gt.material.RedSteel=红钢
     S:gt.material.RedVitriol=硫酸钴
@@ -5037,6 +5273,12 @@ languagefile {
     S:gt.multiitem.food.12103.tooltip=
     S:gt.multiitem.food.1211.name=烤肋眼牛排
     S:gt.multiitem.food.1211.tooltip=它正盯着你……
+    S:gt.multiitem.food.12201.name=Dry Bark
+    S:gt.multiitem.food.12201.tooltip=Useful for making a simple Fire Starter
+    S:gt.multiitem.food.12300.name=Mud Ball
+    S:gt.multiitem.food.12300.tooltip=
+    S:gt.multiitem.food.12310.name=Brown Clay Ball
+    S:gt.multiitem.food.12310.tooltip=
     S:gt.multiitem.food.130.name=蜡杨梅
     S:gt.multiitem.food.130.tooltip=
     S:gt.multiitem.food.1300.name=狗肉
@@ -5171,6 +5413,8 @@ languagefile {
     S:gt.multiitem.food.270.tooltip=想想谁住在海底的大菠萝里？
     S:gt.multiitem.food.271.name=菠萝片
     S:gt.multiitem.food.271.tooltip=Did Ted ever find out about the Mystery Pineapple?
+    S:gt.multiitem.food.280.name=Cinnamon Bark
+    S:gt.multiitem.food.280.tooltip=
     S:gt.multiitem.food.30.name=洋葱
     S:gt.multiitem.food.30.tooltip=一发入魂
     S:gt.multiitem.food.3000.name=蛋糕底座 (未烤制)
@@ -5702,6 +5946,8 @@ languagefile {
     S:gt.multiitem.randomtools.5013.tooltip=
     S:gt.multiitem.randomtools.5014.name=起火器
     S:gt.multiitem.randomtools.5014.tooltip=
+    S:gt.multiitem.randomtools.5015.name=Fire Starter
+    S:gt.multiitem.randomtools.5015.tooltip=(Made with Dry Tree Bark)
     S:gt.multiitem.randomtools.5999.name=木颗粒
     S:gt.multiitem.randomtools.5999.tooltip=
     S:gt.multiitem.randomtools.6000.name=刷石机模块
@@ -5774,6 +6020,8 @@ languagefile {
     S:gt.multiitem.randomtools.9002.tooltip=
     S:gt.multiitem.randomtools.9003.name=便携式作物扫描仪
     S:gt.multiitem.randomtools.9003.tooltip=
+    S:gt.multiitem.randomtools.996.name=Raw Clay Jug
+    S:gt.multiitem.randomtools.996.tooltip=Put in Furnace to harden it
     S:gt.multiitem.randomtools.997.name=粘土量杯
     S:gt.multiitem.randomtools.997.tooltip=烧制它以使之硬化
     S:gt.multiitem.randomtools.998.name=空食物罐头
@@ -6981,6 +7229,10 @@ languagefile {
     S:gt.multitileentity.20433.name=物质复制器 (T3)
     S:gt.multitileentity.20434.name=物质复制器 (T4)
     S:gt.multitileentity.20435.name=物质复制器 (T5)
+    S:gt.multitileentity.20551.name=Debarker (Bronze)
+    S:gt.multitileentity.20552.name=Debarker (Steel)
+    S:gt.multitileentity.20553.name=Debarker (Titanium)
+    S:gt.multitileentity.20554.name=Debarker (Tungstensteel)
     S:gt.multitileentity.20561.name=冷冻机 (T1)
     S:gt.multitileentity.20562.name=冷冻机 (T2)
     S:gt.multitileentity.20563.name=冷冻机 (T3)
@@ -7561,6 +7813,9 @@ languagefile {
     S:gt.multitileentity.32737.name=保温杯
     S:gt.multitileentity.32738.name=量杯
     S:gt.multitileentity.32739.name=瓷杯
+    S:gt.multitileentity.32740.name=Ceramic Jug
+    S:gt.multitileentity.32758.name=Greg o'Lantern
+    S:gt.multitileentity.32759.name=Berry Bush
     S:gt.multitileentity.32760.name=开孔的彩虹树原木
     S:gt.multitileentity.32761.name=开孔的枫树原木
     S:gt.multitileentity.32762.name=橡胶产出口
@@ -7882,6 +8137,7 @@ languagefile {
     S:gt.recipe.crystallisationcrucible=结晶器
     S:gt.recipe.cutter=切割
     S:gt.recipe.cuttingsaw=切割机
+    S:gt.recipe.debarker=Debarker
     S:gt.recipe.dieselgeneratorfuel=柴油发电机燃料
     S:gt.recipe.distillationtower=蒸馏塔
     S:gt.recipe.distillery=蒸馏室
@@ -8912,6 +9168,7 @@ languagefile {
     S:oredict.arrowGtPlasticDacite.name=轻质英安岩箭
     S:oredict.arrowGtPlasticDamascusSteel.name=轻质大马士革钢箭
     S:oredict.arrowGtPlasticDarkIron.name=轻质玄铁箭
+    S:oredict.arrowGtPlasticDarkMatter.name=Light Dark Matter Arrow
     S:oredict.arrowGtPlasticDarkSteel.name=轻质玄钢箭
     S:oredict.arrowGtPlasticDarkThaumium.name=轻质黑暗神秘锭箭
     S:oredict.arrowGtPlasticDeepIron.name=轻质深渊铁箭
@@ -9025,6 +9282,7 @@ languagefile {
     S:oredict.arrowGtPlasticPyrope.name=轻质镁铝榴石箭
     S:oredict.arrowGtPlasticQuartzBlack.name=轻质黑色石英岩箭
     S:oredict.arrowGtPlasticQuartzite.name=轻质石英岩箭
+    S:oredict.arrowGtPlasticRedMatter.name=Light Red Matter Arrow
     S:oredict.arrowGtPlasticRedSteel.name=轻质红钢箭
     S:oredict.arrowGtPlasticRedrock.name=轻质红岩箭
     S:oredict.arrowGtPlasticRedstonia.name=Light Redstonia Arrow
@@ -9151,6 +9409,7 @@ languagefile {
     S:oredict.arrowGtWoodDacite.name=英安岩箭
     S:oredict.arrowGtWoodDamascusSteel.name=大马士革钢箭
     S:oredict.arrowGtWoodDarkIron.name=玄铁箭
+    S:oredict.arrowGtWoodDarkMatter.name=Dark Matter Arrow
     S:oredict.arrowGtWoodDarkSteel.name=玄钢箭
     S:oredict.arrowGtWoodDarkThaumium.name=黑暗神秘锭箭
     S:oredict.arrowGtWoodDeepIron.name=深渊铁箭
@@ -9264,6 +9523,7 @@ languagefile {
     S:oredict.arrowGtWoodPyrope.name=镁铝榴石箭
     S:oredict.arrowGtWoodQuartzBlack.name=黑色箭
     S:oredict.arrowGtWoodQuartzite.name=石英岩箭
+    S:oredict.arrowGtWoodRedMatter.name=Red Matter Arrow
     S:oredict.arrowGtWoodRedSteel.name=红钢箭
     S:oredict.arrowGtWoodRedrock.name=红岩箭
     S:oredict.arrowGtWoodRedstonia.name=Redstonia Arrow
@@ -9497,6 +9757,7 @@ languagefile {
     S:oredict.blockDustBandedIron.name=带状铁粉块
     S:oredict.blockDustBarite.name=重晶石粉块
     S:oredict.blockDustBarium.name=钡粉块
+    S:oredict.blockDustBark.name=Block of Tree Bark
     S:oredict.blockDustBarley.name=大麦粉块
     S:oredict.blockDustBasalt.name=玄武岩粉块
     S:oredict.blockDustBasalticMineralSand.name=玄武岩类矿砂块
@@ -9572,6 +9833,7 @@ languagefile {
     S:oredict.blockDustCinnabar.name=朱砂粉块
     S:oredict.blockDustCinnamon.name=肉桂粉块
     S:oredict.blockDustClay.name=粘土粉块
+    S:oredict.blockDustClayBrown.name=Block of Brown Clay Dust
     S:oredict.blockDustCoal.name=煤粉块
     S:oredict.blockDustCoalCoke.name=焦煤粉块
     S:oredict.blockDustCobalt.name=钴粉块
@@ -9601,6 +9863,7 @@ languagefile {
     S:oredict.blockDustDamascusSteel.name=大马士革钢粉块
     S:oredict.blockDustDarkAshes.name=黑色灰烬块
     S:oredict.blockDustDarkIron.name=玄铁粉块
+    S:oredict.blockDustDarkMatter.name=Block of Dark Matter Dust
     S:oredict.blockDustDarkSteel.name=玄钢粉块
     S:oredict.blockDustDarkThaumium.name=黑暗神秘锭粉块
     S:oredict.blockDustDarmstadtium.name=鐽粉块
@@ -9903,6 +10166,7 @@ languagefile {
     S:oredict.blockDustRareEarth.name=稀土块
     S:oredict.blockDustRed.name=红色染料块
     S:oredict.blockDustRedAlloy.name=红色合金粉块
+    S:oredict.blockDustRedMatter.name=Block of Red Matter Dust
     S:oredict.blockDustRedSteel.name=红钢粉块
     S:oredict.blockDustRedrock.name=红岩粉块
     S:oredict.blockDustRedstone.name=红石粉块
@@ -10105,6 +10369,7 @@ languagefile {
     S:oredict.blockGemCoal.name=煤块
     S:oredict.blockGemCoalCoke.name=焦煤块
     S:oredict.blockGemCraponite.name=Craponite块
+    S:oredict.blockGemDarkMatter.name=Block of Dark Matter
     S:oredict.blockGemDiamantine.name=Block of Diamantine Crystal
     S:oredict.blockGemDiamond.name=钻石块
     S:oredict.blockGemDilithium.name=双锂块
@@ -10159,6 +10424,7 @@ languagefile {
     S:oredict.blockGemPyrope.name=镁铝榴石块
     S:oredict.blockGemQuartzBlack.name=黑色石英岩块
     S:oredict.blockGemQuartzite.name=石英岩块
+    S:oredict.blockGemRedMatter.name=Block of Red Matter
     S:oredict.blockGemRedstonia.name=Block of Redstonia Crystal
     S:oredict.blockGemRockSalt.name=岩盐块
     S:oredict.blockGemRuby.name=红宝石块
@@ -10811,6 +11077,7 @@ languagefile {
     S:oredict.blockPlateGemCoal.name=煤板块
     S:oredict.blockPlateGemCoalCoke.name=焦煤板块
     S:oredict.blockPlateGemCraponite.name=Craponite板块
+    S:oredict.blockPlateGemDarkMatter.name=Block of Crystalline Dark Matter Plate
     S:oredict.blockPlateGemDiamantine.name=Block of Crystalline Diamantine Pane
     S:oredict.blockPlateGemDiamond.name=钻石板块
     S:oredict.blockPlateGemDilithium.name=双锂板块
@@ -10860,6 +11127,7 @@ languagefile {
     S:oredict.blockPlateGemPyrope.name=镁铝榴石板块
     S:oredict.blockPlateGemQuartzBlack.name=黑色石英岩板块
     S:oredict.blockPlateGemQuartzite.name=石英岩板块
+    S:oredict.blockPlateGemRedMatter.name=Block of Crystalline Red Matter Plate
     S:oredict.blockPlateGemRedstoneAlloy.name=红硅(红石合金)板块
     S:oredict.blockPlateGemRedstonia.name=Block of Crystalline Redstonia Pane
     S:oredict.blockPlateGemRuby.name=红宝石板块
@@ -11676,6 +11944,7 @@ languagefile {
     S:oredict.boltDacite.name=英安岩螺栓
     S:oredict.boltDamascusSteel.name=大马士革钢螺栓
     S:oredict.boltDarkIron.name=玄铁螺栓
+    S:oredict.boltDarkMatter.name=Dark Matter Bolt
     S:oredict.boltDarkSteel.name=玄钢螺栓
     S:oredict.boltDarkThaumium.name=黑暗神秘螺栓
     S:oredict.boltDarmstadtium.name=鐽螺栓
@@ -11867,6 +12136,7 @@ languagefile {
     S:oredict.boltQuartzite.name=石英岩螺栓
     S:oredict.boltRadium.name=镭螺栓
     S:oredict.boltRedAlloy.name=红色合金螺栓
+    S:oredict.boltRedMatter.name=Red Matter Bolt
     S:oredict.boltRedSteel.name=红钢螺栓
     S:oredict.boltRedrock.name=红岩螺栓
     S:oredict.boltRedstoneAlloy.name=红硅(红石合金)螺栓
@@ -12670,6 +12940,7 @@ languagefile {
     S:oredict.casingSmallDacite.name=英安岩外壳
     S:oredict.casingSmallDamascusSteel.name=大马士革钢外壳
     S:oredict.casingSmallDarkIron.name=玄铁外壳
+    S:oredict.casingSmallDarkMatter.name=Dark Matter Item Casing
     S:oredict.casingSmallDarkSteel.name=黑钢外壳
     S:oredict.casingSmallDarkThaumium.name=黑暗神秘锭外壳
     S:oredict.casingSmallDeepIron.name=深渊铁外壳
@@ -12794,6 +13065,7 @@ languagefile {
     S:oredict.casingSmallPyrope.name=镁铝榴石外壳
     S:oredict.casingSmallQuartzBlack.name=黑色石英外壳
     S:oredict.casingSmallQuartzite.name=石英岩外壳
+    S:oredict.casingSmallRedMatter.name=Red Matter Item Casing
     S:oredict.casingSmallRedSteel.name=红钢外壳
     S:oredict.casingSmallRedrock.name=红岩外壳
     S:oredict.casingSmallRedstonia.name=Redstonia Item Casing
@@ -13483,6 +13755,7 @@ languagefile {
     S:oredict.chemtubeBandedIron.name=带状铁试管
     S:oredict.chemtubeBarite.name=重晶石试管
     S:oredict.chemtubeBarium.name=钡试管
+    S:oredict.chemtubeBark.name=Glass Tube containing Bark
     S:oredict.chemtubeBarley.name=大麦试管
     S:oredict.chemtubeBasalt.name=玄武岩试管
     S:oredict.chemtubeBasalticMineralSand.name=玄武岩类矿砂试管
@@ -13666,6 +13939,7 @@ languagefile {
     S:oredict.chemtubeCinnabar.name=朱砂试管
     S:oredict.chemtubeCinnamon.name=肉桂试管
     S:oredict.chemtubeClay.name=粘土试管
+    S:oredict.chemtubeClayBrown.name=Glass Tube containing Brown Clay
     S:oredict.chemtubeCoal.name=煤试管
     S:oredict.chemtubeCoalCoke.name=焦煤试管
     S:oredict.chemtubeCobalt.name=钴试管
@@ -13698,6 +13972,7 @@ languagefile {
     S:oredict.chemtubeDamascusSteel.name=大马士革钢试管
     S:oredict.chemtubeDarkAshes.name=黑色灰烬试管
     S:oredict.chemtubeDarkIron.name=玄铁试管
+    S:oredict.chemtubeDarkMatter.name=Glass Tube containing Dark Matter
     S:oredict.chemtubeDarkSteel.name=玄钢试管
     S:oredict.chemtubeDarkThaumium.name=黑暗神秘锭试管
     S:oredict.chemtubeDarmstadtium.name=鐽试管
@@ -14055,6 +14330,7 @@ languagefile {
     S:oredict.chemtubeRareEarth.name=稀土试管
     S:oredict.chemtubeRed.name=红色试管
     S:oredict.chemtubeRedAlloy.name=红色合金试管
+    S:oredict.chemtubeRedMatter.name=Glass Tube containing Red Matter
     S:oredict.chemtubeRedSteel.name=红钢试管
     S:oredict.chemtubeRedVitriol.name=硫酸钴试管
     S:oredict.chemtubeRedrock.name=红岩试管
@@ -14983,6 +15259,7 @@ languagefile {
     S:oredict.crateGtDustBandedIron.name=带状铁粉板条箱
     S:oredict.crateGtDustBarite.name=重晶石粉板条箱
     S:oredict.crateGtDustBarium.name=钡粉板条箱
+    S:oredict.crateGtDustBark.name=Crate of Tree Bark
     S:oredict.crateGtDustBarley.name=大麦面粉板条箱
     S:oredict.crateGtDustBasalt.name=玄武岩粉板条箱
     S:oredict.crateGtDustBasalticMineralSand.name=玄武岩类矿砂板条箱
@@ -15058,6 +15335,7 @@ languagefile {
     S:oredict.crateGtDustCinnabar.name=朱砂粉板条箱
     S:oredict.crateGtDustCinnamon.name=肉桂粉板条箱
     S:oredict.crateGtDustClay.name=粘土粉板条箱
+    S:oredict.crateGtDustClayBrown.name=Crate of Brown Clay Dust
     S:oredict.crateGtDustCoal.name=煤粉板条箱
     S:oredict.crateGtDustCoalCoke.name=焦煤粉板条箱
     S:oredict.crateGtDustCobalt.name=钴粉板条箱
@@ -15087,6 +15365,7 @@ languagefile {
     S:oredict.crateGtDustDamascusSteel.name=大马士革钢粉板条箱
     S:oredict.crateGtDustDarkAshes.name=黑色灰烬板条箱
     S:oredict.crateGtDustDarkIron.name=玄铁粉板条箱
+    S:oredict.crateGtDustDarkMatter.name=Crate of Dark Matter Dust
     S:oredict.crateGtDustDarkSteel.name=玄钢粉板条箱
     S:oredict.crateGtDustDarkThaumium.name=黑暗神秘锭粉板条箱
     S:oredict.crateGtDustDarmstadtium.name=鐽粉板条箱
@@ -15388,6 +15667,7 @@ languagefile {
     S:oredict.crateGtDustRareEarth.name=稀土板条箱
     S:oredict.crateGtDustRed.name=红色染料板条箱
     S:oredict.crateGtDustRedAlloy.name=红色合金粉板条箱
+    S:oredict.crateGtDustRedMatter.name=Crate of Red Matter Dust
     S:oredict.crateGtDustRedSteel.name=红钢粉板条箱
     S:oredict.crateGtDustRedrock.name=红岩粉板条箱
     S:oredict.crateGtDustRedstone.name=红石粉板条箱
@@ -15590,6 +15870,7 @@ languagefile {
     S:oredict.crateGtGemCoal.name=煤板条箱
     S:oredict.crateGtGemCoalCoke.name=焦煤板条箱
     S:oredict.crateGtGemCraponite.name=Craponite板条箱
+    S:oredict.crateGtGemDarkMatter.name=Crate of Dark Matter
     S:oredict.crateGtGemDiamantine.name=Crate of Diamantine Crystal
     S:oredict.crateGtGemDiamond.name=钻石板条箱
     S:oredict.crateGtGemDilithium.name=双锂板条箱
@@ -15644,6 +15925,7 @@ languagefile {
     S:oredict.crateGtGemPyrope.name=镁铝榴石板条箱
     S:oredict.crateGtGemQuartzBlack.name=黑色石英板条箱
     S:oredict.crateGtGemQuartzite.name=石英岩板条箱
+    S:oredict.crateGtGemRedMatter.name=Crate of Red Matter
     S:oredict.crateGtGemRedstonia.name=Crate of Redstonia Crystal
     S:oredict.crateGtGemRockSalt.name=岩盐板条箱
     S:oredict.crateGtGemRuby.name=红宝石板条箱
@@ -16295,6 +16577,7 @@ languagefile {
     S:oredict.crateGtPlateGemCoal.name=煤板板条箱
     S:oredict.crateGtPlateGemCoalCoke.name=焦煤板板条箱
     S:oredict.crateGtPlateGemCraponite.name=Craponite板板条箱
+    S:oredict.crateGtPlateGemDarkMatter.name=Crate of Crystalline Dark Matter Plate
     S:oredict.crateGtPlateGemDiamantine.name=Crate of Crystalline Diamantine Pane
     S:oredict.crateGtPlateGemDiamond.name=钻石板板条箱
     S:oredict.crateGtPlateGemDilithium.name=双锂板板条箱
@@ -16344,6 +16627,7 @@ languagefile {
     S:oredict.crateGtPlateGemPyrope.name=镁铝榴石板板条箱
     S:oredict.crateGtPlateGemQuartzBlack.name=黑色石英板板条箱
     S:oredict.crateGtPlateGemQuartzite.name=石英岩板板条箱
+    S:oredict.crateGtPlateGemRedMatter.name=Crate of Crystalline Red Matter Plate
     S:oredict.crateGtPlateGemRedstoneAlloy.name=红硅(红石合金)板板条箱
     S:oredict.crateGtPlateGemRedstonia.name=Crate of Crystalline Redstonia Pane
     S:oredict.crateGtPlateGemRuby.name=红宝石板板条箱
@@ -17029,6 +17313,7 @@ languagefile {
     S:oredict.crushedCentrifugedGlowstoneProteus.name=离心海卫八萤石矿石
     S:oredict.crushedCentrifugedGold.name=离心金矿石
     S:oredict.crushedCentrifugedGraniticMineralSand.name=离心花岗岩类矿砂
+    S:oredict.crushedCentrifugedGraphene.name=Refined Graphene Ore
     S:oredict.crushedCentrifugedGraphite.name=离心石墨矿石
     S:oredict.crushedCentrifugedGreenSapphire.name=离心绿色蓝宝石矿石
     S:oredict.crushedCentrifugedGrossular.name=离心钙铝榴石矿石
@@ -17475,6 +17760,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyGlowstoneProteus.name=小撮离心海卫八萤石矿
     S:oredict.crushedCentrifugedTinyGold.name=小撮离心金矿
     S:oredict.crushedCentrifugedTinyGraniticMineralSand.name=小撮离心花岗岩类矿砂
+    S:oredict.crushedCentrifugedTinyGraphene.name=Tiny Refined Graphene Ore
     S:oredict.crushedCentrifugedTinyGraphite.name=小撮离心石墨矿
     S:oredict.crushedCentrifugedTinyGreenSapphire.name=小撮离心绿色蓝宝石矿
     S:oredict.crushedCentrifugedTinyGrossular.name=小撮离心钙铝榴石矿
@@ -17825,6 +18111,7 @@ languagefile {
     S:oredict.crushedGlowstoneProteus.name=粉碎海卫八萤石矿石
     S:oredict.crushedGold.name=粉碎金矿石
     S:oredict.crushedGraniticMineralSand.name=粉碎花岗岩类矿砂
+    S:oredict.crushedGraphene.name=Crushed Graphene Ore
     S:oredict.crushedGraphite.name=粉碎石墨矿石
     S:oredict.crushedGreenSapphire.name=粉碎绿色蓝宝石矿石
     S:oredict.crushedGrossular.name=粉碎钙铝榴石矿石
@@ -18208,6 +18495,7 @@ languagefile {
     S:oredict.crushedPurifiedGlowstoneProteus.name=纯净海卫八萤石矿
     S:oredict.crushedPurifiedGold.name=纯净粉碎金矿
     S:oredict.crushedPurifiedGraniticMineralSand.name=纯净粉碎花岗岩类矿砂
+    S:oredict.crushedPurifiedGraphene.name=Purified Graphene Ore
     S:oredict.crushedPurifiedGraphite.name=纯净粉碎石墨矿
     S:oredict.crushedPurifiedGreenSapphire.name=纯净粉碎绿色蓝宝石矿
     S:oredict.crushedPurifiedGrossular.name=纯净粉碎钙铝榴石矿
@@ -18654,6 +18942,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyGlowstoneProteus.name=小撮纯净海卫八萤石矿
     S:oredict.crushedPurifiedTinyGold.name=小撮纯净粉碎金矿
     S:oredict.crushedPurifiedTinyGraniticMineralSand.name=小撮纯净粉碎花岗岩类矿砂
+    S:oredict.crushedPurifiedTinyGraphene.name=Tiny Purified Graphene Ore
     S:oredict.crushedPurifiedTinyGraphite.name=小撮纯净粉碎石墨矿
     S:oredict.crushedPurifiedTinyGreenSapphire.name=小撮纯净粉碎绿色蓝宝石矿
     S:oredict.crushedPurifiedTinyGrossular.name=小撮纯净粉碎钙铝榴石矿
@@ -19251,6 +19540,7 @@ languagefile {
     S:oredict.crushedTinyGlowstoneProteus.name=小撮粉碎海卫八萤石矿石
     S:oredict.crushedTinyGold.name=小撮粉碎金矿石
     S:oredict.crushedTinyGraniticMineralSand.name=小撮粉碎花岗岩类矿砂
+    S:oredict.crushedTinyGraphene.name=Tiny Crushed Graphene Ore
     S:oredict.crushedTinyGraphite.name=小撮粉碎石墨矿石
     S:oredict.crushedTinyGreenSapphire.name=小撮粉碎绿色蓝宝石矿石
     S:oredict.crushedTinyGrossular.name=小撮粉碎钙铝榴石矿石
@@ -19691,6 +19981,7 @@ languagefile {
     S:oredict.dustBandedIron.name=带状铁粉
     S:oredict.dustBarite.name=重晶石粉
     S:oredict.dustBarium.name=钡粉
+    S:oredict.dustBark.name=Tree Bark
     S:oredict.dustBarley.name=大麦面粉
     S:oredict.dustBasalt.name=玄武岩粉
     S:oredict.dustBasalticMineralSand.name=玄武岩类矿砂
@@ -19764,6 +20055,7 @@ languagefile {
     S:oredict.dustCinnabar.name=朱砂粉
     S:oredict.dustCinnamon.name=肉桂粉
     S:oredict.dustClay.name=粘土粉
+    S:oredict.dustClayBrown.name=Brown Clay Dust
     S:oredict.dustCoal.name=煤粉
     S:oredict.dustCoalCoke.name=焦煤粉
     S:oredict.dustCobalt.name=钴粉
@@ -19793,6 +20085,7 @@ languagefile {
     S:oredict.dustDamascusSteel.name=大马士革钢粉
     S:oredict.dustDarkAshes.name=黑色灰烬
     S:oredict.dustDarkIron.name=玄铁粉
+    S:oredict.dustDarkMatter.name=Dark Matter Dust
     S:oredict.dustDarkSteel.name=玄钢粉
     S:oredict.dustDarkThaumium.name=黑暗神秘锭粉
     S:oredict.dustDarmstadtium.name=鐽粉
@@ -19973,6 +20266,7 @@ languagefile {
     S:oredict.dustDiv72BalasRuby.name=1/72份红宝石粉
     S:oredict.dustDiv72Barite.name=1/72份重晶石粉
     S:oredict.dustDiv72Barium.name=1/72份钡粉
+    S:oredict.dustDiv72Bark.name=1/72nd of a Pile of Tree Bark
     S:oredict.dustDiv72Barley.name=1/72份大麦面粉
     S:oredict.dustDiv72Basalt.name=1/72份玄武岩粉
     S:oredict.dustDiv72BasalticMineralSand.name=1/72份玄武岩矿砂
@@ -20048,6 +20342,7 @@ languagefile {
     S:oredict.dustDiv72Cinnabar.name=1/72份朱砂粉
     S:oredict.dustDiv72Cinnamon.name=1/72份粉肉沫桂
     S:oredict.dustDiv72Clay.name=1/72份粘土粉
+    S:oredict.dustDiv72ClayBrown.name=1/72nd of a Pile of Brown Clay Dust
     S:oredict.dustDiv72Coal.name=1/72份煤粉
     S:oredict.dustDiv72CoalCoke.name=1/72份焦煤粉
     S:oredict.dustDiv72Cobalt.name=1/72份钴粉
@@ -20077,6 +20372,7 @@ languagefile {
     S:oredict.dustDiv72DamascusSteel.name=1/72份大马士革钢粉
     S:oredict.dustDiv72DarkAshes.name=1/72份黑色灰烬
     S:oredict.dustDiv72DarkIron.name=1/72份玄铁粉
+    S:oredict.dustDiv72DarkMatter.name=1/72nd of a Pile of Dark Matter Dust
     S:oredict.dustDiv72DarkSteel.name=1/72份玄钢粉
     S:oredict.dustDiv72DarkThaumium.name=1/72份黑暗神秘锭粉
     S:oredict.dustDiv72Darmstadtium.name=1/72份鐽粉
@@ -20371,6 +20667,7 @@ languagefile {
     S:oredict.dustDiv72RareEarth.name=1/72份稀土
     S:oredict.dustDiv72Red.name=1/72份红色染料
     S:oredict.dustDiv72RedAlloy.name=1/72份红色合金粉
+    S:oredict.dustDiv72RedMatter.name=1/72nd of a Pile of Red Matter Dust
     S:oredict.dustDiv72RedSteel.name=1/72份红钢粉
     S:oredict.dustDiv72Redrock.name=1/72份红岩粉
     S:oredict.dustDiv72Redstone.name=1/72份红石粉
@@ -20938,6 +21235,7 @@ languagefile {
     S:oredict.dustImpureGraniteRed.name=含杂红色花岗岩粉
     S:oredict.dustImpureGraniteblack.name=含杂黑色花岗岩粉
     S:oredict.dustImpureGraniticMineralSand.name=含杂花岗岩类矿砂
+    S:oredict.dustImpureGraphene.name=Impure Pile of Graphene Dust
     S:oredict.dustImpureGraphite.name=含杂石墨粉
     S:oredict.dustImpureGreenSapphire.name=含杂绿色蓝宝石粉
     S:oredict.dustImpureGreenschist.name=含杂绿片岩粉
@@ -21622,6 +21920,7 @@ languagefile {
     S:oredict.dustPureGraniteRed.name=纯净红色花岗岩粉
     S:oredict.dustPureGraniteblack.name=纯净黑色花岗岩粉
     S:oredict.dustPureGraniticMineralSand.name=纯净花岗岩类矿砂
+    S:oredict.dustPureGraphene.name=Purified Pile of Graphene Dust
     S:oredict.dustPureGraphite.name=纯净石墨粉
     S:oredict.dustPureGreenSapphire.name=纯净绿色蓝宝石粉
     S:oredict.dustPureGreenschist.name=纯净绿片岩粉
@@ -21868,6 +22167,7 @@ languagefile {
     S:oredict.dustRareEarth.name=稀土
     S:oredict.dustRed.name=红色染料芬
     S:oredict.dustRedAlloy.name=红色合金粉
+    S:oredict.dustRedMatter.name=Red Matter Dust
     S:oredict.dustRedSteel.name=红钢粉
     S:oredict.dustRedrock.name=红岩粉
     S:oredict.dustRedstoneAlloy.name=红硅(红石合金)粉
@@ -22075,6 +22375,7 @@ languagefile {
     S:oredict.dustSmallBandedIron.name=小堆带状铁粉
     S:oredict.dustSmallBarite.name=小堆重晶石粉
     S:oredict.dustSmallBarium.name=小堆钡粉
+    S:oredict.dustSmallBark.name=Small Pile of Tree Bark
     S:oredict.dustSmallBarley.name=小堆大麦面粉
     S:oredict.dustSmallBasalt.name=小堆玄武岩粉
     S:oredict.dustSmallBasalticMineralSand.name=小堆玄武岩类矿砂
@@ -22150,6 +22451,7 @@ languagefile {
     S:oredict.dustSmallCinnabar.name=小堆朱砂粉
     S:oredict.dustSmallCinnamon.name=小堆肉桂粉
     S:oredict.dustSmallClay.name=小堆粘土粉
+    S:oredict.dustSmallClayBrown.name=Small Pile of Brown Clay Dust
     S:oredict.dustSmallCoal.name=小堆煤粉
     S:oredict.dustSmallCoalCoke.name=小堆焦煤粉
     S:oredict.dustSmallCobalt.name=小堆钴粉
@@ -22179,6 +22481,7 @@ languagefile {
     S:oredict.dustSmallDamascusSteel.name=小堆大马士革钢粉
     S:oredict.dustSmallDarkAshes.name=小堆黑色灰烬
     S:oredict.dustSmallDarkIron.name=小堆玄铁粉
+    S:oredict.dustSmallDarkMatter.name=Small Pile of Dark Matter Dust
     S:oredict.dustSmallDarkSteel.name=小堆玄钢粉
     S:oredict.dustSmallDarkThaumium.name=小堆黑暗神秘锭粉
     S:oredict.dustSmallDarmstadtium.name=小堆鐽粉
@@ -22480,6 +22783,7 @@ languagefile {
     S:oredict.dustSmallRareEarth.name=小堆稀土
     S:oredict.dustSmallRed.name=小堆红色染料
     S:oredict.dustSmallRedAlloy.name=小堆红色合金粉
+    S:oredict.dustSmallRedMatter.name=Small Pile of Red Matter Dust
     S:oredict.dustSmallRedSteel.name=小堆红钢粉
     S:oredict.dustSmallRedrock.name=小堆红岩粉
     S:oredict.dustSmallRedstone.name=小堆红石粉
@@ -22872,6 +23176,7 @@ languagefile {
     S:oredict.dustTinyBandedIron.name=小撮带状铁粉
     S:oredict.dustTinyBarite.name=小撮重晶石粉
     S:oredict.dustTinyBarium.name=小撮钡粉
+    S:oredict.dustTinyBark.name=Tiny Pile of Tree Bark
     S:oredict.dustTinyBarley.name=小撮大麦面粉
     S:oredict.dustTinyBasalt.name=小撮玄武岩粉
     S:oredict.dustTinyBasalticMineralSand.name=小撮玄武岩类矿砂
@@ -22947,6 +23252,7 @@ languagefile {
     S:oredict.dustTinyCinnabar.name=小撮朱砂粉
     S:oredict.dustTinyCinnamon.name=小撮肉桂粉
     S:oredict.dustTinyClay.name=小撮粘土粉
+    S:oredict.dustTinyClayBrown.name=Tiny Pile of Brown Clay Dust
     S:oredict.dustTinyCoal.name=小撮煤粉
     S:oredict.dustTinyCoalCoke.name=小撮焦煤粉
     S:oredict.dustTinyCobalt.name=小撮钴粉
@@ -22976,6 +23282,7 @@ languagefile {
     S:oredict.dustTinyDamascusSteel.name=小撮大马士革钢粉
     S:oredict.dustTinyDarkAshes.name=小撮黑色灰烬
     S:oredict.dustTinyDarkIron.name=小撮玄铁粉
+    S:oredict.dustTinyDarkMatter.name=Tiny Pile of Dark Matter Dust
     S:oredict.dustTinyDarkSteel.name=小撮玄钢粉
     S:oredict.dustTinyDarkThaumium.name=小撮黑暗神秘锭粉
     S:oredict.dustTinyDarmstadtium.name=小撮鐽粉
@@ -23277,6 +23584,7 @@ languagefile {
     S:oredict.dustTinyRareEarth.name=小撮稀土
     S:oredict.dustTinyRed.name=小撮红色染料
     S:oredict.dustTinyRedAlloy.name=小撮红色合金粉
+    S:oredict.dustTinyRedMatter.name=Tiny Pile of Red Matter Dust
     S:oredict.dustTinyRedSteel.name=小撮红钢粉
     S:oredict.dustTinyRedrock.name=小撮红岩粉
     S:oredict.dustTinyRedstone.name=小撮红石粉
@@ -23975,6 +24283,7 @@ languagefile {
     S:oredict.gearGtDacite.name=英安岩齿轮
     S:oredict.gearGtDamascusSteel.name=大马士革钢齿轮
     S:oredict.gearGtDarkIron.name=玄铁齿轮
+    S:oredict.gearGtDarkMatter.name=Dark Matter Gear
     S:oredict.gearGtDarkSteel.name=玄钢齿轮
     S:oredict.gearGtDarkThaumium.name=黑暗神秘锭齿轮
     S:oredict.gearGtDeepIron.name=深渊铁齿轮
@@ -24099,6 +24408,7 @@ languagefile {
     S:oredict.gearGtPyrope.name=镁铝榴石齿轮
     S:oredict.gearGtQuartzBlack.name=黑色石英岩齿轮
     S:oredict.gearGtQuartzite.name=石英岩齿轮
+    S:oredict.gearGtRedMatter.name=Red Matter Gear
     S:oredict.gearGtRedSteel.name=红钢齿轮
     S:oredict.gearGtRedrock.name=红岩齿轮
     S:oredict.gearGtRedstonia.name=Redstonia Gear
@@ -24183,6 +24493,7 @@ languagefile {
     S:oredict.gearGtSmallDacite.name=小型英安岩齿轮
     S:oredict.gearGtSmallDamascusSteel.name=小型大马士革钢齿轮
     S:oredict.gearGtSmallDarkIron.name=小型玄铁齿轮
+    S:oredict.gearGtSmallDarkMatter.name=Small Dark Matter Gear
     S:oredict.gearGtSmallDarkSteel.name=小型玄钢齿轮
     S:oredict.gearGtSmallDarkThaumium.name=小型黑暗神秘锭齿轮
     S:oredict.gearGtSmallDeepIron.name=小型深渊铁齿轮
@@ -24307,6 +24618,7 @@ languagefile {
     S:oredict.gearGtSmallPyrope.name=小型镁铝榴石齿轮
     S:oredict.gearGtSmallQuartzBlack.name=小型黑色石英岩齿轮
     S:oredict.gearGtSmallQuartzite.name=小型石英岩齿轮
+    S:oredict.gearGtSmallRedMatter.name=Small Red Matter Gear
     S:oredict.gearGtSmallRedSteel.name=小型红钢齿轮
     S:oredict.gearGtSmallRedrock.name=小型红岩齿轮
     S:oredict.gearGtSmallRedstonia.name=Small Redstonia Gear
@@ -24509,6 +24821,7 @@ languagefile {
     S:oredict.gemChlorine.name=氯
     S:oredict.gemCoalCoke.name=焦煤
     S:oredict.gemCraponite.name=Carpeting
+    S:oredict.gemDarkMatter.name=Dark Matter
     S:oredict.gemDiamantine.name=Diamantine Crystal
     S:oredict.gemDilithium.name=双锂
     S:oredict.gemDioptase.name=翠铜石
@@ -24742,6 +25055,7 @@ languagefile {
     S:oredict.gemPyrope.name=镁铝榴石
     S:oredict.gemQuartzBlack.name=黑色石英岩
     S:oredict.gemQuartzite.name=石英岩
+    S:oredict.gemRedMatter.name=Red Matter
     S:oredict.gemRedstonia.name=Redstonia Crystal
     S:oredict.gemRockSalt.name=岩盐
     S:oredict.gemRuby.name=红宝石
@@ -28499,6 +28813,7 @@ languagefile {
     S:oredict.oreBasaltGlowstoneProteus.name=玄武岩海卫八萤石矿石
     S:oredict.oreBasaltGold.name=玄武岩金矿石
     S:oredict.oreBasaltGraniticMineralSand.name=玄武岩花岗岩类矿砂矿石
+    S:oredict.oreBasaltGraphene.name=Basalt Graphene Ore
     S:oredict.oreBasaltGraphite.name=玄武岩石墨矿石
     S:oredict.oreBasaltGreenSapphire.name=玄武岩绿色蓝宝石矿石
     S:oredict.oreBasaltGrossular.name=玄武岩钙铝榴石矿石
@@ -28989,6 +29304,7 @@ languagefile {
     S:oredict.oreBedrockGlowstoneProteus.name=基岩海卫八萤石矿石
     S:oredict.oreBedrockGold.name=基岩金矿石
     S:oredict.oreBedrockGraniticMineralSand.name=基岩花岗岩类矿砂矿石
+    S:oredict.oreBedrockGraphene.name=Bedrock Graphene Ore
     S:oredict.oreBedrockGraphite.name=基岩石墨矿石
     S:oredict.oreBedrockGreenSapphire.name=基岩绿色蓝宝石矿石
     S:oredict.oreBedrockGrossular.name=基岩钙铝榴石矿石
@@ -29479,6 +29795,7 @@ languagefile {
     S:oredict.oreBlackgraniteGlowstoneProteus.name=黑色花岗岩海卫八萤石矿石
     S:oredict.oreBlackgraniteGold.name=黑色花岗岩金矿石
     S:oredict.oreBlackgraniteGraniticMineralSand.name=黑色花岗岩花岗岩类矿砂矿石
+    S:oredict.oreBlackgraniteGraphene.name=Granite Graphene Ore
     S:oredict.oreBlackgraniteGraphite.name=黑色花岗岩石墨矿石
     S:oredict.oreBlackgraniteGreenSapphire.name=黑色花岗岩绿色蓝宝石矿石
     S:oredict.oreBlackgraniteGrossular.name=黑色花岗岩钙铝榴石矿石
@@ -30518,6 +30835,7 @@ languagefile {
     S:oredict.oreEndstoneGlowstoneProteus.name=末地海卫八萤石矿石
     S:oredict.oreEndstoneGold.name=末地金矿石
     S:oredict.oreEndstoneGraniticMineralSand.name=末地花岗岩类矿砂矿石
+    S:oredict.oreEndstoneGraphene.name=End Graphene Ore
     S:oredict.oreEndstoneGraphite.name=末地石墨矿石
     S:oredict.oreEndstoneGreenSapphire.name=末地绿色蓝宝石矿石
     S:oredict.oreEndstoneGrossular.name=末地钙铝榴石矿石
@@ -30772,6 +31090,7 @@ languagefile {
     S:oredict.oreGlowstoneProteus.name=海卫八萤石矿石
     S:oredict.oreGold.name=金矿石
     S:oredict.oreGraniticMineralSand.name=花岗岩类矿砂矿石
+    S:oredict.oreGraphene.name=Graphene Ore
     S:oredict.oreGraphite.name=石墨矿石
     S:oredict.oreGravelActinium.name=锕沙砾
     S:oredict.oreGravelAdamantine.name=血石沙砾
@@ -31043,6 +31362,7 @@ languagefile {
     S:oredict.oreGravelGlowstoneProteus.name=海卫八萤石沙砾
     S:oredict.oreGravelGold.name=金沙砾
     S:oredict.oreGravelGraniticMineralSand.name=花岗岩类矿砂沙砾
+    S:oredict.oreGravelGraphene.name=Gravel Graphene Ore
     S:oredict.oreGravelGraphite.name=石墨沙砾
     S:oredict.oreGravelGreenSapphire.name=绿色蓝宝石沙砾
     S:oredict.oreGravelGrossular.name=钙铝榴石沙砾
@@ -32066,6 +32386,7 @@ languagefile {
     S:oredict.oreMarbleGlowstoneProteus.name=大理石海卫八萤石矿石
     S:oredict.oreMarbleGold.name=大理石金矿石
     S:oredict.oreMarbleGraniticMineralSand.name=大理石花岗岩类矿砂矿石
+    S:oredict.oreMarbleGraphene.name=Marble Graphene Ore
     S:oredict.oreMarbleGraphite.name=大理石石墨矿石
     S:oredict.oreMarbleGreenSapphire.name=大理石绿色蓝宝石矿石
     S:oredict.oreMarbleGrossular.name=大理石钙铝榴石矿石
@@ -32576,6 +32897,7 @@ languagefile {
     S:oredict.oreNetherrackGlowstoneProteus.name=Nether 海卫八萤石矿石
     S:oredict.oreNetherrackGold.name=地狱金矿石
     S:oredict.oreNetherrackGraniticMineralSand.name=地狱花岗岩类矿砂矿石
+    S:oredict.oreNetherrackGraphene.name=Nether Graphene Ore
     S:oredict.oreNetherrackGraphite.name=地狱石墨矿石
     S:oredict.oreNetherrackGreenSapphire.name=地狱绿色蓝宝石矿石
     S:oredict.oreNetherrackGrossular.name=地狱钙铝榴石矿石
@@ -33116,6 +33438,7 @@ languagefile {
     S:oredict.oreRedSandGlowstoneProteus.name=海卫八萤石红矿沙
     S:oredict.oreRedSandGold.name=金红矿沙
     S:oredict.oreRedSandGraniticMineralSand.name=花岗岩类矿砂红矿沙
+    S:oredict.oreRedSandGraphene.name=Sand Graphene Ore
     S:oredict.oreRedSandGraphite.name=石墨红矿沙
     S:oredict.oreRedSandGreenSapphire.name=绿色蓝宝石红矿沙
     S:oredict.oreRedSandGrossular.name=钙铝榴石红矿沙
@@ -33606,6 +33929,7 @@ languagefile {
     S:oredict.oreRedgraniteGlowstoneProteus.name=红色花岗岩海卫八萤石矿石
     S:oredict.oreRedgraniteGold.name=红色花岗岩金矿石
     S:oredict.oreRedgraniteGraniticMineralSand.name=红色花岗岩花岗岩类矿砂矿石
+    S:oredict.oreRedgraniteGraphene.name=Granite Graphene Ore
     S:oredict.oreRedgraniteGraphite.name=红色花岗岩石墨矿石
     S:oredict.oreRedgraniteGreenSapphire.name=红色花岗岩绿色蓝宝石矿石
     S:oredict.oreRedgraniteGrossular.name=红色花岗岩钙铝榴石矿石
@@ -34110,6 +34434,7 @@ languagefile {
     S:oredict.oreSandGlowstoneProteus.name=Sand 海卫八萤石矿石
     S:oredict.oreSandGold.name=金矿沙
     S:oredict.oreSandGraniticMineralSand.name=花岗岩类矿沙
+    S:oredict.oreSandGraphene.name=Sand Graphene Ore
     S:oredict.oreSandGraphite.name=石墨矿沙
     S:oredict.oreSandGreenSapphire.name=绿色蓝宝石矿沙
     S:oredict.oreSandGrossular.name=钙铝榴石矿沙
@@ -34599,6 +34924,7 @@ languagefile {
     S:oredict.oreSandstoneGlowstoneProteus.name=Sandstone 海卫八萤石矿石
     S:oredict.oreSandstoneGold.name=沙石金矿石
     S:oredict.oreSandstoneGraniticMineralSand.name=沙石花岗岩类矿砂矿石
+    S:oredict.oreSandstoneGraphene.name=Sandstone Graphene Ore
     S:oredict.oreSandstoneGraphite.name=沙石石墨矿石
     S:oredict.oreSandstoneGreenSapphire.name=沙石绿色蓝宝石矿石
     S:oredict.oreSandstoneGrossular.name=沙石钙铝榴石矿石
@@ -35100,6 +35426,7 @@ languagefile {
     S:oredict.oreSmallGlowstoneProteus.name=贫瘠海卫八萤石矿石
     S:oredict.oreSmallGold.name=贫瘠金矿石
     S:oredict.oreSmallGraniticMineralSand.name=贫瘠花岗岩类矿砂矿石
+    S:oredict.oreSmallGraphene.name=Small Graphene Ore
     S:oredict.oreSmallGraphite.name=贫瘠石墨矿石
     S:oredict.oreSmallGreenSapphire.name=贫瘠绿色蓝宝石矿石
     S:oredict.oreSmallGrossular.name=贫瘠钙铝榴石矿石
@@ -36014,6 +36341,7 @@ languagefile {
     S:oredict.plantGtBerryBandedIron.name=带状铁梅
     S:oredict.plantGtBerryBarite.name=重晶石梅
     S:oredict.plantGtBerryBarium.name=钡梅
+    S:oredict.plantGtBerryBark.name=Bark Berry
     S:oredict.plantGtBerryBarley.name=大麦梅
     S:oredict.plantGtBerryBasalt.name=玄武岩梅
     S:oredict.plantGtBerryBasalticMineralSand.name=玄武岩砂梅
@@ -36098,6 +36426,7 @@ languagefile {
     S:oredict.plantGtBerryCinnabar.name=朱砂梅
     S:oredict.plantGtBerryCinnamon.name=肉桂梅
     S:oredict.plantGtBerryClay.name=粘土梅
+    S:oredict.plantGtBerryClayBrown.name=Brown Clay Berry
     S:oredict.plantGtBerryCoal.name=煤梅
     S:oredict.plantGtBerryCoalCoke.name=焦煤梅
     S:oredict.plantGtBerryCobalt.name=钴梅
@@ -36130,6 +36459,7 @@ languagefile {
     S:oredict.plantGtBerryDamascusSteel.name=大马士革钢梅
     S:oredict.plantGtBerryDarkAshes.name=黑色灰烬梅
     S:oredict.plantGtBerryDarkIron.name=玄铁梅
+    S:oredict.plantGtBerryDarkMatter.name=Dark Matter Berry
     S:oredict.plantGtBerryDarkSteel.name=玄钢梅
     S:oredict.plantGtBerryDarkThaumium.name=黑暗神秘梅
     S:oredict.plantGtBerryDarmstadtium.name=鐽梅
@@ -36469,6 +36799,7 @@ languagefile {
     S:oredict.plantGtBerryRareEarth.name=稀土梅
     S:oredict.plantGtBerryRed.name=红色梅
     S:oredict.plantGtBerryRedAlloy.name=红色合金梅
+    S:oredict.plantGtBerryRedMatter.name=Red Matter Berry
     S:oredict.plantGtBerryRedSteel.name=红钢梅
     S:oredict.plantGtBerryRedVitriol.name=硫酸钴梅
     S:oredict.plantGtBerryRedrock.name=红岩梅
@@ -36828,6 +37159,7 @@ languagefile {
     S:oredict.plantGtBlossomBandedIron.name=带状铁花
     S:oredict.plantGtBlossomBarite.name=重晶石花
     S:oredict.plantGtBlossomBarium.name=钡花
+    S:oredict.plantGtBlossomBark.name=Bark Blossom
     S:oredict.plantGtBlossomBarley.name=大麦花
     S:oredict.plantGtBlossomBasalt.name=玄武岩花
     S:oredict.plantGtBlossomBasalticMineralSand.name=玄武岩砂花
@@ -36912,6 +37244,7 @@ languagefile {
     S:oredict.plantGtBlossomCinnabar.name=朱砂花
     S:oredict.plantGtBlossomCinnamon.name=肉桂花
     S:oredict.plantGtBlossomClay.name=粘土花
+    S:oredict.plantGtBlossomClayBrown.name=Brown Clay Blossom
     S:oredict.plantGtBlossomCoal.name=煤花
     S:oredict.plantGtBlossomCoalCoke.name=焦煤花
     S:oredict.plantGtBlossomCobalt.name=钴花
@@ -36944,6 +37277,7 @@ languagefile {
     S:oredict.plantGtBlossomDamascusSteel.name=大马士革钢花
     S:oredict.plantGtBlossomDarkAshes.name=黑色灰烬花
     S:oredict.plantGtBlossomDarkIron.name=玄铁花
+    S:oredict.plantGtBlossomDarkMatter.name=Dark Matter Blossom
     S:oredict.plantGtBlossomDarkSteel.name=玄钢花
     S:oredict.plantGtBlossomDarkThaumium.name=黑暗神秘花
     S:oredict.plantGtBlossomDarmstadtium.name=鐽花
@@ -37282,6 +37616,7 @@ languagefile {
     S:oredict.plantGtBlossomRareEarth.name=稀土花
     S:oredict.plantGtBlossomRed.name=红色花
     S:oredict.plantGtBlossomRedAlloy.name=红色合金花
+    S:oredict.plantGtBlossomRedMatter.name=Red Matter Blossom
     S:oredict.plantGtBlossomRedSteel.name=红钢花
     S:oredict.plantGtBlossomRedVitriol.name=硫酸钴花
     S:oredict.plantGtBlossomRedrock.name=红岩花
@@ -37641,6 +37976,7 @@ languagefile {
     S:oredict.plantGtFiberBandedIron.name=粗糙的带状铁纤维
     S:oredict.plantGtFiberBarite.name=粗糙的重晶石纤维
     S:oredict.plantGtFiberBarium.name=粗糙的钡纤维
+    S:oredict.plantGtFiberBark.name=Raw Bark Fiber
     S:oredict.plantGtFiberBarley.name=粗糙的大麦纤维
     S:oredict.plantGtFiberBasalt.name=粗糙的玄武岩纤维
     S:oredict.plantGtFiberBasalticMineralSand.name=粗糙的玄武岩砂纤维
@@ -37725,6 +38061,7 @@ languagefile {
     S:oredict.plantGtFiberCinnabar.name=粗糙的朱砂纤维
     S:oredict.plantGtFiberCinnamon.name=粗糙的肉桂纤维
     S:oredict.plantGtFiberClay.name=粗糙的粘土纤维
+    S:oredict.plantGtFiberClayBrown.name=Raw Brown Clay Fiber
     S:oredict.plantGtFiberCoal.name=粗糙的煤纤维
     S:oredict.plantGtFiberCoalCoke.name=粗糙的焦煤纤维
     S:oredict.plantGtFiberCobalt.name=粗糙的钴纤维
@@ -37757,6 +38094,7 @@ languagefile {
     S:oredict.plantGtFiberDamascusSteel.name=粗糙的大马士革钢纤维
     S:oredict.plantGtFiberDarkAshes.name=粗糙的黑色灰烬纤维
     S:oredict.plantGtFiberDarkIron.name=粗糙的玄铁纤维
+    S:oredict.plantGtFiberDarkMatter.name=Raw Dark Matter Fiber
     S:oredict.plantGtFiberDarkSteel.name=粗糙的玄钢纤维
     S:oredict.plantGtFiberDarkThaumium.name=粗糙的黑暗神秘纤维
     S:oredict.plantGtFiberDarmstadtium.name=粗糙的鐽纤维
@@ -38095,6 +38433,7 @@ languagefile {
     S:oredict.plantGtFiberRareEarth.name=粗糙的稀土纤维
     S:oredict.plantGtFiberRed.name=红色纤维
     S:oredict.plantGtFiberRedAlloy.name=粗糙的红色合金纤维
+    S:oredict.plantGtFiberRedMatter.name=Raw Red Matter Fiber
     S:oredict.plantGtFiberRedSteel.name=粗糙的红钢纤维
     S:oredict.plantGtFiberRedVitriol.name=粗糙的硫酸钴纤维
     S:oredict.plantGtFiberRedrock.name=粗糙的红岩纤维
@@ -38454,6 +38793,7 @@ languagefile {
     S:oredict.plantGtTwigBandedIron.name=带状铁细枝
     S:oredict.plantGtTwigBarite.name=重晶石细枝
     S:oredict.plantGtTwigBarium.name=钡细枝
+    S:oredict.plantGtTwigBark.name=Bark Twig
     S:oredict.plantGtTwigBarley.name=大麦细枝
     S:oredict.plantGtTwigBasalt.name=玄武岩细枝
     S:oredict.plantGtTwigBasalticMineralSand.name=玄武岩砂细枝
@@ -38538,6 +38878,7 @@ languagefile {
     S:oredict.plantGtTwigCinnabar.name=朱砂细枝
     S:oredict.plantGtTwigCinnamon.name=肉桂细枝
     S:oredict.plantGtTwigClay.name=粘土细枝
+    S:oredict.plantGtTwigClayBrown.name=Brown Clay Twig
     S:oredict.plantGtTwigCoal.name=煤细枝
     S:oredict.plantGtTwigCoalCoke.name=焦煤细枝
     S:oredict.plantGtTwigCobalt.name=钴细枝
@@ -38570,6 +38911,7 @@ languagefile {
     S:oredict.plantGtTwigDamascusSteel.name=大马士革钢细枝
     S:oredict.plantGtTwigDarkAshes.name=黑色灰烬细枝
     S:oredict.plantGtTwigDarkIron.name=玄铁细枝
+    S:oredict.plantGtTwigDarkMatter.name=Dark Matter Twig
     S:oredict.plantGtTwigDarkSteel.name=玄钢细枝
     S:oredict.plantGtTwigDarkThaumium.name=黑暗神秘锭细枝
     S:oredict.plantGtTwigDarmstadtium.name=鐽细枝
@@ -38908,6 +39250,7 @@ languagefile {
     S:oredict.plantGtTwigRareEarth.name=稀土细枝
     S:oredict.plantGtTwigRed.name=红色细枝
     S:oredict.plantGtTwigRedAlloy.name=红色合金细枝
+    S:oredict.plantGtTwigRedMatter.name=Red Matter Twig
     S:oredict.plantGtTwigRedSteel.name=红钢细枝
     S:oredict.plantGtTwigRedVitriol.name=硫酸钴细枝
     S:oredict.plantGtTwigRedrock.name=红岩细枝
@@ -39270,6 +39613,7 @@ languagefile {
     S:oredict.plantGtWartBandedIron.name=带状铁疣
     S:oredict.plantGtWartBarite.name=重晶石疣
     S:oredict.plantGtWartBarium.name=钡疣
+    S:oredict.plantGtWartBark.name=Bark Wart
     S:oredict.plantGtWartBarley.name=大麦疣
     S:oredict.plantGtWartBasalt.name=玄武岩疣
     S:oredict.plantGtWartBasalticMineralSand.name=玄武岩砂疣
@@ -39354,6 +39698,7 @@ languagefile {
     S:oredict.plantGtWartCinnabar.name=朱砂疣
     S:oredict.plantGtWartCinnamon.name=肉桂疣
     S:oredict.plantGtWartClay.name=粘土疣
+    S:oredict.plantGtWartClayBrown.name=Brown Clay Wart
     S:oredict.plantGtWartCoal.name=煤疣
     S:oredict.plantGtWartCoalCoke.name=焦煤疣
     S:oredict.plantGtWartCobalt.name=钴疣
@@ -39386,6 +39731,7 @@ languagefile {
     S:oredict.plantGtWartDamascusSteel.name=大马士革钢疣
     S:oredict.plantGtWartDarkAshes.name=黑色灰烬疣
     S:oredict.plantGtWartDarkIron.name=玄铁疣
+    S:oredict.plantGtWartDarkMatter.name=Dark Matter Wart
     S:oredict.plantGtWartDarkSteel.name=玄钢疣
     S:oredict.plantGtWartDarkThaumium.name=黑暗神秘疣
     S:oredict.plantGtWartDarmstadtium.name=鐽疣
@@ -39724,6 +40070,7 @@ languagefile {
     S:oredict.plantGtWartRareEarth.name=稀土疣
     S:oredict.plantGtWartRed.name=红色疣
     S:oredict.plantGtWartRedAlloy.name=红色合金疣
+    S:oredict.plantGtWartRedMatter.name=Red Matter Wart
     S:oredict.plantGtWartRedSteel.name=红钢疣
     S:oredict.plantGtWartRedVitriol.name=硫酸钴疣
     S:oredict.plantGtWartRedrock.name=红岩疣
@@ -41328,6 +41675,7 @@ languagefile {
     S:oredict.plateGemCoal.name=煤板
     S:oredict.plateGemCoalCoke.name=焦煤板
     S:oredict.plateGemCraponite.name=Craponite板
+    S:oredict.plateGemDarkMatter.name=Crystalline Dark Matter Plate
     S:oredict.plateGemDiamantine.name=Crystalline Diamantine Pane
     S:oredict.plateGemDiamond.name=钻石板
     S:oredict.plateGemDilithium.name=双锂板
@@ -41377,6 +41725,7 @@ languagefile {
     S:oredict.plateGemPyrope.name=镁铝榴石板
     S:oredict.plateGemQuartzBlack.name=黑色石英岩板
     S:oredict.plateGemQuartzite.name=石英岩板
+    S:oredict.plateGemRedMatter.name=Crystalline Red Matter Plate
     S:oredict.plateGemRedstoneAlloy.name=结晶红硅(红石合金)板
     S:oredict.plateGemRedstonia.name=Crystalline Redstonia Pane
     S:oredict.plateGemRuby.name=结晶红宝石板
@@ -41404,6 +41753,7 @@ languagefile {
     S:oredict.plateGemTinyCoal.name=小块煤板
     S:oredict.plateGemTinyCoalCoke.name=小块焦煤板
     S:oredict.plateGemTinyCraponite.name=小块Craponite板
+    S:oredict.plateGemTinyDarkMatter.name=Tiny Crystalline Dark Matter Plate
     S:oredict.plateGemTinyDiamantine.name=Tiny Crystalline Diamantine Pane
     S:oredict.plateGemTinyDiamond.name=小块钻石板
     S:oredict.plateGemTinyDilithium.name=小块双锂板
@@ -41453,6 +41803,7 @@ languagefile {
     S:oredict.plateGemTinyPyrope.name=小块镁铝榴石板
     S:oredict.plateGemTinyQuartzBlack.name=小块黑色石英岩板
     S:oredict.plateGemTinyQuartzite.name=小块石英岩板
+    S:oredict.plateGemTinyRedMatter.name=Tiny Crystalline Red Matter Plate
     S:oredict.plateGemTinyRedstoneAlloy.name=小块结晶红硅(红石合金)板
     S:oredict.plateGemTinyRedstonia.name=Tiny Crystalline Redstonia Pane
     S:oredict.plateGemTinyRuby.name=小块结晶红宝石板
@@ -43325,6 +43676,7 @@ languagefile {
     S:oredict.ringDacite.name=英安岩环
     S:oredict.ringDamascusSteel.name=大马士革钢环
     S:oredict.ringDarkIron.name=玄铁环
+    S:oredict.ringDarkMatter.name=Dark Matter Ring
     S:oredict.ringDarkSteel.name=玄钢环
     S:oredict.ringDarkThaumium.name=黑暗神秘锭环
     S:oredict.ringDeepIron.name=深渊铁环
@@ -43448,6 +43800,7 @@ languagefile {
     S:oredict.ringPyrope.name=镁铝榴石环
     S:oredict.ringQuartzBlack.name=黑色石英岩环
     S:oredict.ringQuartzite.name=石英岩环
+    S:oredict.ringRedMatter.name=Red Matter Ring
     S:oredict.ringRedSteel.name=红钢环
     S:oredict.ringRedrock.name=红岩环
     S:oredict.ringRedstonia.name=Redstonia Ring
@@ -43587,6 +43940,7 @@ languagefile {
     S:oredict.rotorDacite.name=英安岩转子
     S:oredict.rotorDamascusSteel.name=大马士革钢转子
     S:oredict.rotorDarkIron.name=玄铁转子
+    S:oredict.rotorDarkMatter.name=Dark Matter Rotor
     S:oredict.rotorDarkSteel.name=玄钢转子
     S:oredict.rotorDarkThaumium.name=黑暗神秘锭转子
     S:oredict.rotorDeepIron.name=深渊铁转子
@@ -43710,6 +44064,7 @@ languagefile {
     S:oredict.rotorPyrope.name=镁铝榴石转子
     S:oredict.rotorQuartzBlack.name=黑色石英岩转子
     S:oredict.rotorQuartzite.name=石英岩转子
+    S:oredict.rotorRedMatter.name=Red Matter Rotor
     S:oredict.rotorRedSteel.name=红钢转子
     S:oredict.rotorRedrock.name=红岩转子
     S:oredict.rotorRedstonia.name=Redstonia Rotor
@@ -43848,6 +44203,7 @@ languagefile {
     S:oredict.roundDacite.name=英安岩垫片
     S:oredict.roundDamascusSteel.name=大马士革钢垫片
     S:oredict.roundDarkIron.name=玄铁垫片
+    S:oredict.roundDarkMatter.name=Dark Matter Round
     S:oredict.roundDarkSteel.name=玄钢垫片
     S:oredict.roundDarkThaumium.name=黑暗神秘锭垫片
     S:oredict.roundDeepIron.name=深渊铁垫片
@@ -43972,6 +44328,7 @@ languagefile {
     S:oredict.roundPyrope.name=镁铝榴石垫片
     S:oredict.roundQuartzBlack.name=黑色石英岩垫片
     S:oredict.roundQuartzite.name=石英岩垫片
+    S:oredict.roundRedMatter.name=Red Matter Round
     S:oredict.roundRedSteel.name=红钢垫片
     S:oredict.roundRedrock.name=红岩垫片
     S:oredict.roundRedstonia.name=Redstonia Round
@@ -44212,6 +44569,7 @@ languagefile {
     S:oredict.scrapGtBandedIron.name=带状铁废料
     S:oredict.scrapGtBarite.name=重晶石废料
     S:oredict.scrapGtBarium.name=钡废料
+    S:oredict.scrapGtBark.name=Bark Scrap
     S:oredict.scrapGtBarley.name=大麦废料
     S:oredict.scrapGtBasalt.name=玄武岩废料
     S:oredict.scrapGtBasalticMineralSand.name=玄武岩类矿砂废料
@@ -44288,6 +44646,7 @@ languagefile {
     S:oredict.scrapGtCinnabar.name=朱砂废料
     S:oredict.scrapGtCinnamon.name=肉桂废料
     S:oredict.scrapGtClay.name=粘土废料
+    S:oredict.scrapGtClayBrown.name=Brown Clay Scrap
     S:oredict.scrapGtCoal.name=煤废料
     S:oredict.scrapGtCoalCoke.name=焦煤废料
     S:oredict.scrapGtCobalt.name=钴废料
@@ -44317,6 +44676,7 @@ languagefile {
     S:oredict.scrapGtDamascusSteel.name=大马士革钢废料
     S:oredict.scrapGtDarkAshes.name=黑色灰烬废料
     S:oredict.scrapGtDarkIron.name=玄铁废料
+    S:oredict.scrapGtDarkMatter.name=Dark Matter Scrap
     S:oredict.scrapGtDarkSteel.name=玄钢废料
     S:oredict.scrapGtDarkThaumium.name=黑暗神秘锭废料
     S:oredict.scrapGtDarmstadtium.name=鐽废料
@@ -44618,6 +44978,7 @@ languagefile {
     S:oredict.scrapGtRareEarth.name=稀土废料
     S:oredict.scrapGtRed.name=红色废料
     S:oredict.scrapGtRedAlloy.name=红色合金废料
+    S:oredict.scrapGtRedMatter.name=Red Matter Scrap
     S:oredict.scrapGtRedSteel.name=红钢废料
     S:oredict.scrapGtRedrock.name=红岩废料
     S:oredict.scrapGtRedstone.name=红石废料
@@ -44990,6 +45351,7 @@ languagefile {
     S:oredict.screwDacite.name=英安岩螺丝
     S:oredict.screwDamascusSteel.name=大马士革钢螺丝
     S:oredict.screwDarkIron.name=玄铁螺丝
+    S:oredict.screwDarkMatter.name=Dark Matter Screw
     S:oredict.screwDarkSteel.name=玄钢螺丝
     S:oredict.screwDarkThaumium.name=黑暗神秘螺丝
     S:oredict.screwDarmstadtium.name=鐽螺丝
@@ -45181,6 +45543,7 @@ languagefile {
     S:oredict.screwQuartzite.name=石英岩螺丝
     S:oredict.screwRadium.name=镭螺丝
     S:oredict.screwRedAlloy.name=红色合金螺丝
+    S:oredict.screwRedMatter.name=Red Matter Screw
     S:oredict.screwRedSteel.name=红钢螺丝
     S:oredict.screwRedrock.name=红岩螺丝
     S:oredict.screwRedstoneAlloy.name=红硅(红石合金)螺丝
@@ -45333,6 +45696,7 @@ languagefile {
     S:oredict.springDacite.name=英安岩弹簧
     S:oredict.springDamascusSteel.name=大马士革钢弹簧
     S:oredict.springDarkIron.name=玄铁弹簧
+    S:oredict.springDarkMatter.name=Dark Matter Spring
     S:oredict.springDarkSteel.name=玄钢弹簧
     S:oredict.springDarkThaumium.name=黑暗神秘锭弹簧
     S:oredict.springDeepIron.name=深渊铁弹簧
@@ -45416,6 +45780,7 @@ languagefile {
     S:oredict.springPrometheum.name=秘银弹簧
     S:oredict.springPulsatingIron.name=脉冲铁弹簧
     S:oredict.springQuartzite.name=石英岩弹簧
+    S:oredict.springRedMatter.name=Red Matter Spring
     S:oredict.springRedSteel.name=红钢弹簧
     S:oredict.springRhyolite.name=流纹岩弹簧
     S:oredict.springRoseGold.name=玫瑰金弹簧
@@ -45481,6 +45846,7 @@ languagefile {
     S:oredict.springSmallDacite.name=小型英安岩弹簧
     S:oredict.springSmallDamascusSteel.name=小型大马士革钢弹簧
     S:oredict.springSmallDarkIron.name=小型玄铁弹簧
+    S:oredict.springSmallDarkMatter.name=Small Dark Matter Spring
     S:oredict.springSmallDarkSteel.name=小型玄钢弹簧
     S:oredict.springSmallDarkThaumium.name=小型黑暗神秘锭弹簧
     S:oredict.springSmallDeepIron.name=小型深渊铁弹簧
@@ -45564,6 +45930,7 @@ languagefile {
     S:oredict.springSmallPrometheum.name=小型秘银弹簧
     S:oredict.springSmallPulsatingIron.name=小型脉冲铁弹簧
     S:oredict.springSmallQuartzite.name=小型石英岩弹簧
+    S:oredict.springSmallRedMatter.name=Small Red Matter Spring
     S:oredict.springSmallRedSteel.name=小型红钢弹簧
     S:oredict.springSmallRhyolite.name=小型流纹岩弹簧
     S:oredict.springSmallRoseGold.name=小型玫瑰金弹簧
@@ -45866,6 +46233,7 @@ languagefile {
     S:oredict.stickDacite.name=英安岩杆
     S:oredict.stickDamascusSteel.name=大马士革钢杆
     S:oredict.stickDarkIron.name=玄铁杆
+    S:oredict.stickDarkMatter.name=Dark Matter Rod
     S:oredict.stickDarkSteel.name=玄钢杆
     S:oredict.stickDarkThaumium.name=黑暗神秘锭杆
     S:oredict.stickDarmstadtium.name=鐽杆
@@ -46178,6 +46546,7 @@ languagefile {
     S:oredict.stickLongDacite.name=长英安岩杆
     S:oredict.stickLongDamascusSteel.name=长大马士革钢杆
     S:oredict.stickLongDarkIron.name=长玄铁杆
+    S:oredict.stickLongDarkMatter.name=Long Dark Matter Rod
     S:oredict.stickLongDarkSteel.name=长玄钢杆
     S:oredict.stickLongDarkThaumium.name=长黑暗神秘锭杆
     S:oredict.stickLongDarmstadtium.name=长鐽杆
@@ -46369,6 +46738,7 @@ languagefile {
     S:oredict.stickLongQuartzite.name=长石英岩杆
     S:oredict.stickLongRadium.name=长镭杆
     S:oredict.stickLongRedAlloy.name=长红色合金杆
+    S:oredict.stickLongRedMatter.name=Long Red Matter Rod
     S:oredict.stickLongRedSteel.name=长红钢杆
     S:oredict.stickLongRedrock.name=长红岩杆
     S:oredict.stickLongRedstoneAlloy.name=长红硅(红石合金)杆
@@ -46549,6 +46919,7 @@ languagefile {
     S:oredict.stickQuartzite.name=石英岩杆
     S:oredict.stickRadium.name=镭杆
     S:oredict.stickRedAlloy.name=红色合金杆
+    S:oredict.stickRedMatter.name=Red Matter Rod
     S:oredict.stickRedSteel.name=红钢杆
     S:oredict.stickRedrock.name=红岩杆
     S:oredict.stickRedstoneAlloy.name=红硅(红石合金)杆
@@ -46711,6 +47082,7 @@ languagefile {
     S:oredict.toolHeadArrowDacite.name=英安岩箭头
     S:oredict.toolHeadArrowDamascusSteel.name=大马士革钢箭头
     S:oredict.toolHeadArrowDarkIron.name=玄铁箭头
+    S:oredict.toolHeadArrowDarkMatter.name=Dark Matter Arrow Head
     S:oredict.toolHeadArrowDarkSteel.name=玄钢箭头
     S:oredict.toolHeadArrowDarkThaumium.name=黑暗神秘锭箭头
     S:oredict.toolHeadArrowDeepIron.name=深渊铁箭头
@@ -46823,6 +47195,7 @@ languagefile {
     S:oredict.toolHeadArrowPyrope.name=镁铝榴石箭头
     S:oredict.toolHeadArrowQuartzBlack.name=黑色石英岩箭头
     S:oredict.toolHeadArrowQuartzite.name=石英岩箭头
+    S:oredict.toolHeadArrowRedMatter.name=Red Matter Arrow Head
     S:oredict.toolHeadArrowRedSteel.name=红钢箭头
     S:oredict.toolHeadArrowRedrock.name=红岩箭头
     S:oredict.toolHeadArrowRedstonia.name=Redstonia Arrow Head
@@ -46949,6 +47322,7 @@ languagefile {
     S:oredict.toolHeadAxeDacite.name=英安岩斧头
     S:oredict.toolHeadAxeDamascusSteel.name=大马士革钢斧头
     S:oredict.toolHeadAxeDarkIron.name=玄铁斧头
+    S:oredict.toolHeadAxeDarkMatter.name=Dark Matter Axe Head
     S:oredict.toolHeadAxeDarkSteel.name=黑钢斧头
     S:oredict.toolHeadAxeDarkThaumium.name=黑暗神秘锭斧头
     S:oredict.toolHeadAxeDeepIron.name=深渊铁斧头
@@ -47015,6 +47389,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleDacite.name=英安岩双刃斧头
     S:oredict.toolHeadAxeDoubleDamascusSteel.name=大马士革钢双刃斧头
     S:oredict.toolHeadAxeDoubleDarkIron.name=玄铁双刃斧头
+    S:oredict.toolHeadAxeDoubleDarkMatter.name=Dark Matter Double Axe Head
     S:oredict.toolHeadAxeDoubleDarkSteel.name=黑钢双刃斧头
     S:oredict.toolHeadAxeDoubleDarkThaumium.name=黑暗神秘锭双刃斧头
     S:oredict.toolHeadAxeDoubleDeepIron.name=深渊铁双刃斧头
@@ -47115,6 +47490,7 @@ languagefile {
     S:oredict.toolHeadAxeDoublePyrope.name=镁铝榴石双刃斧头
     S:oredict.toolHeadAxeDoubleQuartzBlack.name=黑色石英岩双刃斧头
     S:oredict.toolHeadAxeDoubleQuartzite.name=石英岩双刃斧头
+    S:oredict.toolHeadAxeDoubleRedMatter.name=Red Matter Double Axe Head
     S:oredict.toolHeadAxeDoubleRedSteel.name=红钢双刃斧头
     S:oredict.toolHeadAxeDoubleRedstonia.name=Redstonia Double Axe Head
     S:oredict.toolHeadAxeDoubleRhyolite.name=流纹岩双刃斧头
@@ -47277,6 +47653,7 @@ languagefile {
     S:oredict.toolHeadAxePyrope.name=镁铝榴石斧头
     S:oredict.toolHeadAxeQuartzBlack.name=黑色石英岩斧头
     S:oredict.toolHeadAxeQuartzite.name=石英岩斧头
+    S:oredict.toolHeadAxeRedMatter.name=Red Matter Axe Head
     S:oredict.toolHeadAxeRedSteel.name=红钢斧头
     S:oredict.toolHeadAxeRedrock.name=红岩斧头
     S:oredict.toolHeadAxeRedstonia.name=Redstonia Axe Head
@@ -47399,6 +47776,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawDacite.name=英安岩圆锯片
     S:oredict.toolHeadBuzzSawDamascusSteel.name=大马士革钢圆锯片
     S:oredict.toolHeadBuzzSawDarkIron.name=玄铁圆锯片
+    S:oredict.toolHeadBuzzSawDarkMatter.name=Dark Matter Buzzsaw Blade
     S:oredict.toolHeadBuzzSawDarkSteel.name=黑钢圆锯片
     S:oredict.toolHeadBuzzSawDarkThaumium.name=黑暗神秘锭圆锯片
     S:oredict.toolHeadBuzzSawDeepIron.name=深渊铁圆锯片
@@ -47497,6 +47875,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawPyrope.name=镁铝榴石圆锯片
     S:oredict.toolHeadBuzzSawQuartzBlack.name=黑色石英岩圆锯片
     S:oredict.toolHeadBuzzSawQuartzite.name=石英岩圆锯片
+    S:oredict.toolHeadBuzzSawRedMatter.name=Red Matter Buzzsaw Blade
     S:oredict.toolHeadBuzzSawRedSteel.name=红钢圆锯片
     S:oredict.toolHeadBuzzSawRedstonia.name=Redstonia Buzzsaw Blade
     S:oredict.toolHeadBuzzSawRhyolite.name=流纹岩圆锯片
@@ -47611,6 +47990,7 @@ languagefile {
     S:oredict.toolHeadChainsawDacite.name=英安岩电锯头
     S:oredict.toolHeadChainsawDamascusSteel.name=大马士革钢电锯头
     S:oredict.toolHeadChainsawDarkIron.name=玄铁电锯头
+    S:oredict.toolHeadChainsawDarkMatter.name=Dark Matter Chainsaw Tip
     S:oredict.toolHeadChainsawDarkSteel.name=黑钢电锯头
     S:oredict.toolHeadChainsawDarkThaumium.name=黑暗神秘锭电锯头
     S:oredict.toolHeadChainsawDeepIron.name=深渊铁电锯头
@@ -47709,6 +48089,7 @@ languagefile {
     S:oredict.toolHeadChainsawPyrope.name=镁铝榴石电锯头
     S:oredict.toolHeadChainsawQuartzBlack.name=黑色石英岩电锯头
     S:oredict.toolHeadChainsawQuartzite.name=石英岩电锯头
+    S:oredict.toolHeadChainsawRedMatter.name=Red Matter Chainsaw Tip
     S:oredict.toolHeadChainsawRedSteel.name=红钢电锯头
     S:oredict.toolHeadChainsawRedstonia.name=Redstonia Chainsaw Tip
     S:oredict.toolHeadChainsawRhyolite.name=流纹岩电锯头
@@ -47823,6 +48204,7 @@ languagefile {
     S:oredict.toolHeadChiselDacite.name=英安岩凿子头
     S:oredict.toolHeadChiselDamascusSteel.name=大马士革钢凿子头
     S:oredict.toolHeadChiselDarkIron.name=玄铁凿子头
+    S:oredict.toolHeadChiselDarkMatter.name=Dark Matter Chisel Head
     S:oredict.toolHeadChiselDarkSteel.name=黑钢凿子头
     S:oredict.toolHeadChiselDarkThaumium.name=黑暗神秘锭凿子头
     S:oredict.toolHeadChiselDeepIron.name=深渊铁凿子头
@@ -47921,6 +48303,7 @@ languagefile {
     S:oredict.toolHeadChiselPyrope.name=镁铝榴石凿子头
     S:oredict.toolHeadChiselQuartzBlack.name=黑色石英岩凿子头
     S:oredict.toolHeadChiselQuartzite.name=石英岩凿子头
+    S:oredict.toolHeadChiselRedMatter.name=Red Matter Chisel Head
     S:oredict.toolHeadChiselRedSteel.name=红钢凿子头
     S:oredict.toolHeadChiselRedstonia.name=Redstonia Chisel Head
     S:oredict.toolHeadChiselRhyolite.name=流纹岩凿子头
@@ -48035,6 +48418,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeDacite.name=英安岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeDamascusSteel.name=大马士革钢建筑镐头
     S:oredict.toolHeadConstructionPickaxeDarkIron.name=玄铁建筑镐头
+    S:oredict.toolHeadConstructionPickaxeDarkMatter.name=Dark Matter Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeDarkSteel.name=黑钢建筑镐头
     S:oredict.toolHeadConstructionPickaxeDarkThaumium.name=黑暗神秘锭建筑镐头
     S:oredict.toolHeadConstructionPickaxeDeepIron.name=深渊铁建筑镐头
@@ -48135,6 +48519,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxePyrope.name=镁铝榴石建筑镐头
     S:oredict.toolHeadConstructionPickaxeQuartzBlack.name=黑色石英岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeQuartzite.name=石英岩建筑镐头
+    S:oredict.toolHeadConstructionPickaxeRedMatter.name=Red Matter Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeRedSteel.name=红钢建筑镐头
     S:oredict.toolHeadConstructionPickaxeRedstonia.name=Redstonia Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeRhyolite.name=流纹岩建筑镐头
@@ -48251,6 +48636,7 @@ languagefile {
     S:oredict.toolHeadDrillDacite.name=英安岩钻头
     S:oredict.toolHeadDrillDamascusSteel.name=大马士革钢钻头
     S:oredict.toolHeadDrillDarkIron.name=玄铁钻头
+    S:oredict.toolHeadDrillDarkMatter.name=Dark Matter Drill Tip
     S:oredict.toolHeadDrillDarkSteel.name=黑钢钻头
     S:oredict.toolHeadDrillDarkThaumium.name=黑暗神秘锭钻头
     S:oredict.toolHeadDrillDeepIron.name=深渊铁钻头
@@ -48349,6 +48735,7 @@ languagefile {
     S:oredict.toolHeadDrillPyrope.name=镁铝榴石钻头
     S:oredict.toolHeadDrillQuartzBlack.name=黑色石英岩钻头
     S:oredict.toolHeadDrillQuartzite.name=石英岩钻头
+    S:oredict.toolHeadDrillRedMatter.name=Red Matter Drill Tip
     S:oredict.toolHeadDrillRedSteel.name=红钢钻头
     S:oredict.toolHeadDrillRedstonia.name=Redstonia Drill Tip
     S:oredict.toolHeadDrillRhyolite.name=流纹岩钻头
@@ -48463,6 +48850,7 @@ languagefile {
     S:oredict.toolHeadFileDacite.name=英安岩锉刀头
     S:oredict.toolHeadFileDamascusSteel.name=大马士革钢锉刀头
     S:oredict.toolHeadFileDarkIron.name=玄铁锉刀头
+    S:oredict.toolHeadFileDarkMatter.name=Dark Matter File Head
     S:oredict.toolHeadFileDarkSteel.name=黑钢锉刀头
     S:oredict.toolHeadFileDarkThaumium.name=黑暗神秘锭锉刀头
     S:oredict.toolHeadFileDeepIron.name=深渊铁锉刀头
@@ -48561,6 +48949,7 @@ languagefile {
     S:oredict.toolHeadFilePyrope.name=镁铝榴石锉刀头
     S:oredict.toolHeadFileQuartzBlack.name=黑色石英岩锉刀头
     S:oredict.toolHeadFileQuartzite.name=石英岩锉刀头
+    S:oredict.toolHeadFileRedMatter.name=Red Matter File Head
     S:oredict.toolHeadFileRedSteel.name=红钢锉刀头
     S:oredict.toolHeadFileRedstonia.name=Redstonia File Head
     S:oredict.toolHeadFileRhyolite.name=流纹岩锉刀头
@@ -48674,6 +49063,7 @@ languagefile {
     S:oredict.toolHeadHammerDacite.name=英安岩锤头
     S:oredict.toolHeadHammerDamascusSteel.name=大马士革钢锤头
     S:oredict.toolHeadHammerDarkIron.name=玄铁锤头
+    S:oredict.toolHeadHammerDarkMatter.name=Dark Matter Hammer Head
     S:oredict.toolHeadHammerDarkSteel.name=黑钢锤头
     S:oredict.toolHeadHammerDarkThaumium.name=黑暗神秘锭锤头
     S:oredict.toolHeadHammerDeepIron.name=深渊铁锤头
@@ -48784,6 +49174,7 @@ languagefile {
     S:oredict.toolHeadHammerPyrope.name=镁铝榴石锤头
     S:oredict.toolHeadHammerQuartzBlack.name=黑色石英岩锤头
     S:oredict.toolHeadHammerQuartzite.name=石英岩锤头
+    S:oredict.toolHeadHammerRedMatter.name=Red Matter Hammer Head
     S:oredict.toolHeadHammerRedSteel.name=红钢锤头
     S:oredict.toolHeadHammerRedrock.name=红岩锤头
     S:oredict.toolHeadHammerRedstonia.name=Redstonia Hammer Head
@@ -48908,6 +49299,7 @@ languagefile {
     S:oredict.toolHeadHoeDacite.name=英安岩锄头
     S:oredict.toolHeadHoeDamascusSteel.name=大马士革钢锄头
     S:oredict.toolHeadHoeDarkIron.name=玄铁锄头
+    S:oredict.toolHeadHoeDarkMatter.name=Dark Matter Hoe Head
     S:oredict.toolHeadHoeDarkSteel.name=黑钢锄头
     S:oredict.toolHeadHoeDarkThaumium.name=黑暗神秘锭锄头
     S:oredict.toolHeadHoeDeepIron.name=深渊铁锄头
@@ -49020,6 +49412,7 @@ languagefile {
     S:oredict.toolHeadHoePyrope.name=镁铝榴石锄头
     S:oredict.toolHeadHoeQuartzBlack.name=黑色石英岩锄头
     S:oredict.toolHeadHoeQuartzite.name=石英岩锄头
+    S:oredict.toolHeadHoeRedMatter.name=Red Matter Hoe Head
     S:oredict.toolHeadHoeRedSteel.name=红钢锄头
     S:oredict.toolHeadHoeRedrock.name=红岩锄头
     S:oredict.toolHeadHoeRedstonia.name=Redstonia Hoe Head
@@ -49146,6 +49539,7 @@ languagefile {
     S:oredict.toolHeadPickaxeDacite.name=英安岩镐头
     S:oredict.toolHeadPickaxeDamascusSteel.name=大马士革钢镐头
     S:oredict.toolHeadPickaxeDarkIron.name=玄铁镐头
+    S:oredict.toolHeadPickaxeDarkMatter.name=Dark Matter Pickaxe Head
     S:oredict.toolHeadPickaxeDarkSteel.name=黑钢镐头
     S:oredict.toolHeadPickaxeDarkThaumium.name=黑暗神秘锭镐头
     S:oredict.toolHeadPickaxeDeepIron.name=深渊铁镐头
@@ -49258,6 +49652,7 @@ languagefile {
     S:oredict.toolHeadPickaxePyrope.name=镁铝榴石镐头
     S:oredict.toolHeadPickaxeQuartzBlack.name=黑色石英岩镐头
     S:oredict.toolHeadPickaxeQuartzite.name=石英岩镐头
+    S:oredict.toolHeadPickaxeRedMatter.name=Red Matter Pickaxe Head
     S:oredict.toolHeadPickaxeRedSteel.name=红钢镐头
     S:oredict.toolHeadPickaxeRedrock.name=红岩镐头
     S:oredict.toolHeadPickaxeRedstonia.name=Redstonia Pickaxe Head
@@ -49384,6 +49779,7 @@ languagefile {
     S:oredict.toolHeadPlowDacite.name=英安岩犁头
     S:oredict.toolHeadPlowDamascusSteel.name=大马士革钢犁头
     S:oredict.toolHeadPlowDarkIron.name=玄铁犁头
+    S:oredict.toolHeadPlowDarkMatter.name=Dark Matter Plow Head
     S:oredict.toolHeadPlowDarkSteel.name=黑钢犁头
     S:oredict.toolHeadPlowDarkThaumium.name=黑暗神秘锭犁头
     S:oredict.toolHeadPlowDeepIron.name=深渊铁犁头
@@ -49496,6 +49892,7 @@ languagefile {
     S:oredict.toolHeadPlowPyrope.name=镁铝榴石犁头
     S:oredict.toolHeadPlowQuartzBlack.name=黑色石英岩犁头
     S:oredict.toolHeadPlowQuartzite.name=石英岩犁头
+    S:oredict.toolHeadPlowRedMatter.name=Red Matter Plow Head
     S:oredict.toolHeadPlowRedSteel.name=红钢犁头
     S:oredict.toolHeadPlowRedrock.name=红岩犁头
     S:oredict.toolHeadPlowRedstonia.name=Redstonia Plow Head
@@ -49622,6 +50019,7 @@ languagefile {
     S:oredict.toolHeadRawArrowDacite.name=粗糙的英安岩箭头
     S:oredict.toolHeadRawArrowDamascusSteel.name=粗糙的大马士革钢箭头
     S:oredict.toolHeadRawArrowDarkIron.name=粗糙的玄铁箭头
+    S:oredict.toolHeadRawArrowDarkMatter.name=Raw Dark Matter Arrow Head
     S:oredict.toolHeadRawArrowDarkSteel.name=粗糙的玄钢箭头
     S:oredict.toolHeadRawArrowDarkThaumium.name=粗糙的黑暗神秘锭箭头
     S:oredict.toolHeadRawArrowDeepIron.name=粗糙的深渊铁箭头
@@ -49734,6 +50132,7 @@ languagefile {
     S:oredict.toolHeadRawArrowPyrope.name=粗糙的镁铝榴石箭头
     S:oredict.toolHeadRawArrowQuartzBlack.name=粗糙的黑色石英岩箭头
     S:oredict.toolHeadRawArrowQuartzite.name=粗糙的石英岩箭头
+    S:oredict.toolHeadRawArrowRedMatter.name=Raw Red Matter Arrow Head
     S:oredict.toolHeadRawArrowRedSteel.name=粗糙的红钢箭头
     S:oredict.toolHeadRawArrowRedrock.name=粗糙的红岩箭头
     S:oredict.toolHeadRawArrowRedstonia.name=Raw Redstonia Arrow Head
@@ -49860,6 +50259,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDacite.name=粗糙的英安岩斧头
     S:oredict.toolHeadRawAxeDamascusSteel.name=粗糙的大马士革钢斧头
     S:oredict.toolHeadRawAxeDarkIron.name=粗糙的玄铁斧头
+    S:oredict.toolHeadRawAxeDarkMatter.name=Raw Dark Matter Axe Head
     S:oredict.toolHeadRawAxeDarkSteel.name=粗糙的黑钢斧头
     S:oredict.toolHeadRawAxeDarkThaumium.name=粗糙的黑暗神秘锭斧头
     S:oredict.toolHeadRawAxeDeepIron.name=粗糙的深渊铁斧头
@@ -49926,6 +50326,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleDacite.name=粗糙的英安岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleDamascusSteel.name=粗糙的大马士革钢双刃斧头
     S:oredict.toolHeadRawAxeDoubleDarkIron.name=粗糙的玄铁双刃斧头
+    S:oredict.toolHeadRawAxeDoubleDarkMatter.name=Raw Dark Matter Double Axe Head
     S:oredict.toolHeadRawAxeDoubleDarkSteel.name=粗糙的黑钢双刃斧头
     S:oredict.toolHeadRawAxeDoubleDarkThaumium.name=粗糙的黑暗神秘锭双刃斧头
     S:oredict.toolHeadRawAxeDoubleDeepIron.name=粗糙的深渊铁双刃斧头
@@ -50026,6 +50427,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoublePyrope.name=粗糙的镁铝榴石双刃斧头
     S:oredict.toolHeadRawAxeDoubleQuartzBlack.name=粗糙的黑色石英岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleQuartzite.name=粗糙的石英岩双刃斧头
+    S:oredict.toolHeadRawAxeDoubleRedMatter.name=Raw Red Matter Double Axe Head
     S:oredict.toolHeadRawAxeDoubleRedSteel.name=粗糙的红钢双刃斧头
     S:oredict.toolHeadRawAxeDoubleRedstonia.name=Raw Redstonia Double Axe Head
     S:oredict.toolHeadRawAxeDoubleRhyolite.name=粗糙的流纹岩双刃斧头
@@ -50188,6 +50590,7 @@ languagefile {
     S:oredict.toolHeadRawAxePyrope.name=粗糙的镁铝榴石斧头
     S:oredict.toolHeadRawAxeQuartzBlack.name=粗糙的黑色石英岩斧头
     S:oredict.toolHeadRawAxeQuartzite.name=粗糙的石英岩斧头
+    S:oredict.toolHeadRawAxeRedMatter.name=Raw Red Matter Axe Head
     S:oredict.toolHeadRawAxeRedSteel.name=粗糙的红钢斧头
     S:oredict.toolHeadRawAxeRedrock.name=粗糙的红岩斧头
     S:oredict.toolHeadRawAxeRedstonia.name=Raw Redstonia Axe Head
@@ -50310,6 +50713,7 @@ languagefile {
     S:oredict.toolHeadRawChiselDacite.name=粗糙的英安岩凿子头
     S:oredict.toolHeadRawChiselDamascusSteel.name=粗糙的大马士革钢凿子头
     S:oredict.toolHeadRawChiselDarkIron.name=粗糙的玄铁凿子头
+    S:oredict.toolHeadRawChiselDarkMatter.name=Raw Dark Matter Chisel Head
     S:oredict.toolHeadRawChiselDarkSteel.name=粗糙的黑钢凿子头
     S:oredict.toolHeadRawChiselDarkThaumium.name=粗糙的黑暗神秘锭凿子头
     S:oredict.toolHeadRawChiselDeepIron.name=粗糙的深渊铁凿子头
@@ -50408,6 +50812,7 @@ languagefile {
     S:oredict.toolHeadRawChiselPyrope.name=粗糙的镁铝榴石凿子头
     S:oredict.toolHeadRawChiselQuartzBlack.name=粗糙的黑色石英岩凿子头
     S:oredict.toolHeadRawChiselQuartzite.name=粗糙的石英岩凿子头
+    S:oredict.toolHeadRawChiselRedMatter.name=Raw Red Matter Chisel Head
     S:oredict.toolHeadRawChiselRedSteel.name=粗糙的红钢凿子头
     S:oredict.toolHeadRawChiselRedstonia.name=Raw Redstonia Chisel Head
     S:oredict.toolHeadRawChiselRhyolite.name=粗糙的流纹岩凿子头
@@ -50526,6 +50931,7 @@ languagefile {
     S:oredict.toolHeadRawHoeDacite.name=粗糙的英安岩锄头
     S:oredict.toolHeadRawHoeDamascusSteel.name=粗糙的大马士革钢锄头
     S:oredict.toolHeadRawHoeDarkIron.name=粗糙的玄铁锄头
+    S:oredict.toolHeadRawHoeDarkMatter.name=Raw Dark Matter Hoe Head
     S:oredict.toolHeadRawHoeDarkSteel.name=粗糙的黑钢锄头
     S:oredict.toolHeadRawHoeDarkThaumium.name=粗糙的黑暗神秘锭锄头
     S:oredict.toolHeadRawHoeDeepIron.name=粗糙的深渊铁锄头
@@ -50638,6 +51044,7 @@ languagefile {
     S:oredict.toolHeadRawHoePyrope.name=粗糙的镁铝榴石锄头
     S:oredict.toolHeadRawHoeQuartzBlack.name=粗糙的黑色石英岩锄头
     S:oredict.toolHeadRawHoeQuartzite.name=粗糙的石英岩锄头
+    S:oredict.toolHeadRawHoeRedMatter.name=Raw Red Matter Hoe Head
     S:oredict.toolHeadRawHoeRedSteel.name=粗糙的红钢锄头
     S:oredict.toolHeadRawHoeRedrock.name=粗糙的红岩锄头
     S:oredict.toolHeadRawHoeRedstonia.name=Raw Redstonia Hoe Head
@@ -50764,6 +51171,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeDacite.name=粗糙的英安岩镐头
     S:oredict.toolHeadRawPickaxeDamascusSteel.name=粗糙的大马士革钢镐头
     S:oredict.toolHeadRawPickaxeDarkIron.name=粗糙的玄铁镐头
+    S:oredict.toolHeadRawPickaxeDarkMatter.name=Raw Dark Matter Pickaxe Head
     S:oredict.toolHeadRawPickaxeDarkSteel.name=粗糙的黑钢镐头
     S:oredict.toolHeadRawPickaxeDarkThaumium.name=粗糙的黑暗神秘锭镐头
     S:oredict.toolHeadRawPickaxeDeepIron.name=粗糙的深渊铁镐头
@@ -50876,6 +51284,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxePyrope.name=粗糙的镁铝榴石镐头
     S:oredict.toolHeadRawPickaxeQuartzBlack.name=粗糙的黑色石英岩镐头
     S:oredict.toolHeadRawPickaxeQuartzite.name=粗糙的石英岩镐头
+    S:oredict.toolHeadRawPickaxeRedMatter.name=Raw Red Matter Pickaxe Head
     S:oredict.toolHeadRawPickaxeRedSteel.name=粗糙的红钢镐头
     S:oredict.toolHeadRawPickaxeRedrock.name=粗糙的红岩镐头
     S:oredict.toolHeadRawPickaxeRedstonia.name=Raw Redstonia Pickaxe Head
@@ -51002,6 +51411,7 @@ languagefile {
     S:oredict.toolHeadRawPlowDacite.name=粗糙的英安岩 犁头
     S:oredict.toolHeadRawPlowDamascusSteel.name=粗糙的大马士革钢犁头
     S:oredict.toolHeadRawPlowDarkIron.name=粗糙的玄铁犁头
+    S:oredict.toolHeadRawPlowDarkMatter.name=Raw Dark Matter Plow Head
     S:oredict.toolHeadRawPlowDarkSteel.name=粗糙的黑钢犁头
     S:oredict.toolHeadRawPlowDarkThaumium.name=粗糙的黑暗神秘锭犁头
     S:oredict.toolHeadRawPlowDeepIron.name=粗糙的深渊铁犁头
@@ -51114,6 +51524,7 @@ languagefile {
     S:oredict.toolHeadRawPlowPyrope.name=粗糙的镁铝榴石犁头
     S:oredict.toolHeadRawPlowQuartzBlack.name=粗糙的黑色石英岩犁头
     S:oredict.toolHeadRawPlowQuartzite.name=粗糙的石英岩犁头
+    S:oredict.toolHeadRawPlowRedMatter.name=Raw Red Matter Plow Head
     S:oredict.toolHeadRawPlowRedSteel.name=粗糙的红钢犁头
     S:oredict.toolHeadRawPlowRedrock.name=粗糙的红岩犁头
     S:oredict.toolHeadRawPlowRedstonia.name=Raw Redstonia Plow Head
@@ -51236,6 +51647,7 @@ languagefile {
     S:oredict.toolHeadRawSawDacite.name=粗糙的英安岩圆锯片
     S:oredict.toolHeadRawSawDamascusSteel.name=粗糙的大马士革钢锯片
     S:oredict.toolHeadRawSawDarkIron.name=粗糙的玄铁锯片
+    S:oredict.toolHeadRawSawDarkMatter.name=Raw Dark Matter Saw Blade
     S:oredict.toolHeadRawSawDarkSteel.name=粗糙的黑钢圆锯片
     S:oredict.toolHeadRawSawDarkThaumium.name=粗糙的黑暗神秘锭锯片
     S:oredict.toolHeadRawSawDeepIron.name=粗糙的深渊铁锯片
@@ -51334,6 +51746,7 @@ languagefile {
     S:oredict.toolHeadRawSawPyrope.name=粗糙的镁铝榴石圆锯片
     S:oredict.toolHeadRawSawQuartzBlack.name=粗糙的黑色石英岩锯片
     S:oredict.toolHeadRawSawQuartzite.name=粗糙的石英岩锯片
+    S:oredict.toolHeadRawSawRedMatter.name=Raw Red Matter Saw Blade
     S:oredict.toolHeadRawSawRedSteel.name=粗糙的红钢锯片
     S:oredict.toolHeadRawSawRedstonia.name=Raw Redstonia Saw Blade
     S:oredict.toolHeadRawSawRhyolite.name=粗糙的流纹岩圆锯片
@@ -51452,6 +51865,7 @@ languagefile {
     S:oredict.toolHeadRawSenseDacite.name=粗糙的英安岩镰刀片
     S:oredict.toolHeadRawSenseDamascusSteel.name=粗糙的大马士革钢镰刀片
     S:oredict.toolHeadRawSenseDarkIron.name=粗糙的玄铁镰刀片
+    S:oredict.toolHeadRawSenseDarkMatter.name=Raw Dark Matter Sense Blade
     S:oredict.toolHeadRawSenseDarkSteel.name=粗糙的黑钢镰刀片
     S:oredict.toolHeadRawSenseDarkThaumium.name=粗糙的黑暗神秘锭镰刀片
     S:oredict.toolHeadRawSenseDeepIron.name=粗糙的深渊铁镰刀片
@@ -51564,6 +51978,7 @@ languagefile {
     S:oredict.toolHeadRawSensePyrope.name=粗糙的镁铝榴石镰刀片
     S:oredict.toolHeadRawSenseQuartzBlack.name=粗糙的黑色石英岩镰刀片
     S:oredict.toolHeadRawSenseQuartzite.name=粗糙的石英岩镰刀片
+    S:oredict.toolHeadRawSenseRedMatter.name=Raw Red Matter Sense Blade
     S:oredict.toolHeadRawSenseRedSteel.name=粗糙的红钢镰刀片
     S:oredict.toolHeadRawSenseRedrock.name=粗糙的红岩镰刀片
     S:oredict.toolHeadRawSenseRedstonia.name=Raw Redstonia Sense Blade
@@ -51690,6 +52105,7 @@ languagefile {
     S:oredict.toolHeadRawShovelDacite.name=粗糙的英安岩锹头
     S:oredict.toolHeadRawShovelDamascusSteel.name=粗糙的大马士革钢锹头
     S:oredict.toolHeadRawShovelDarkIron.name=粗糙的玄铁锹头
+    S:oredict.toolHeadRawShovelDarkMatter.name=Raw Dark Matter Shovel Head
     S:oredict.toolHeadRawShovelDarkSteel.name=粗糙的黑钢锹头
     S:oredict.toolHeadRawShovelDarkThaumium.name=粗糙的黑暗神秘锭锹头
     S:oredict.toolHeadRawShovelDeepIron.name=粗糙的深渊铁锹头
@@ -51802,6 +52218,7 @@ languagefile {
     S:oredict.toolHeadRawShovelPyrope.name=粗糙的镁铝榴石锹头
     S:oredict.toolHeadRawShovelQuartzBlack.name=粗糙的黑色石英岩锹头
     S:oredict.toolHeadRawShovelQuartzite.name=粗糙的石英岩锹头
+    S:oredict.toolHeadRawShovelRedMatter.name=Raw Red Matter Shovel Head
     S:oredict.toolHeadRawShovelRedSteel.name=粗糙的红钢锹头
     S:oredict.toolHeadRawShovelRedrock.name=粗糙的红岩锹头
     S:oredict.toolHeadRawShovelRedstonia.name=Raw Redstonia Shovel Head
@@ -51928,6 +52345,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeDacite.name=粗糙的英安岩铲头
     S:oredict.toolHeadRawSpadeDamascusSteel.name=粗糙的大马士革钢铲头
     S:oredict.toolHeadRawSpadeDarkIron.name=粗糙的玄铁铲头
+    S:oredict.toolHeadRawSpadeDarkMatter.name=Raw Dark Matter Spade Head
     S:oredict.toolHeadRawSpadeDarkSteel.name=粗糙的黑钢铲头
     S:oredict.toolHeadRawSpadeDarkThaumium.name=粗糙的黑暗神秘锭铲头
     S:oredict.toolHeadRawSpadeDeepIron.name=粗糙的深渊铁铲头
@@ -52040,6 +52458,7 @@ languagefile {
     S:oredict.toolHeadRawSpadePyrope.name=粗糙的镁铝榴石铲头
     S:oredict.toolHeadRawSpadeQuartzBlack.name=粗糙的黑色石英岩铲头
     S:oredict.toolHeadRawSpadeQuartzite.name=粗糙的石英岩铲头
+    S:oredict.toolHeadRawSpadeRedMatter.name=Raw Red Matter Spade Head
     S:oredict.toolHeadRawSpadeRedSteel.name=粗糙的红钢铲头
     S:oredict.toolHeadRawSpadeRedrock.name=粗糙的红岩铲头
     S:oredict.toolHeadRawSpadeRedstonia.name=Raw Redstonia Spade Head
@@ -52166,6 +52585,7 @@ languagefile {
     S:oredict.toolHeadRawSwordDacite.name=粗糙的英安岩剑身
     S:oredict.toolHeadRawSwordDamascusSteel.name=粗糙的大马士革钢剑身
     S:oredict.toolHeadRawSwordDarkIron.name=粗糙的玄铁剑身
+    S:oredict.toolHeadRawSwordDarkMatter.name=Raw Dark Matter Sword Blade
     S:oredict.toolHeadRawSwordDarkSteel.name=粗糙的黑钢剑身
     S:oredict.toolHeadRawSwordDarkThaumium.name=粗糙的黑暗神秘锭剑身
     S:oredict.toolHeadRawSwordDeepIron.name=粗糙的深渊铁剑身
@@ -52278,6 +52698,7 @@ languagefile {
     S:oredict.toolHeadRawSwordPyrope.name=粗糙的镁铝榴石剑身
     S:oredict.toolHeadRawSwordQuartzBlack.name=粗糙的黑色石英岩锹头
     S:oredict.toolHeadRawSwordQuartzite.name=粗糙的石英岩剑身
+    S:oredict.toolHeadRawSwordRedMatter.name=Raw Red Matter Sword Blade
     S:oredict.toolHeadRawSwordRedSteel.name=粗糙的红钢剑身
     S:oredict.toolHeadRawSwordRedrock.name=粗糙的红岩剑身
     S:oredict.toolHeadRawSwordRedstonia.name=Raw Redstonia Sword Blade
@@ -52400,6 +52821,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeDacite.name=粗糙的英安岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeDamascusSteel.name=粗糙的大马士革钢万用铲头
     S:oredict.toolHeadRawUniversalSpadeDarkIron.name=粗糙的玄铁万用铲头
+    S:oredict.toolHeadRawUniversalSpadeDarkMatter.name=Raw Dark Matter Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeDarkSteel.name=粗糙的黑钢万用铲头
     S:oredict.toolHeadRawUniversalSpadeDarkThaumium.name=粗糙的黑暗神秘锭万用铲头
     S:oredict.toolHeadRawUniversalSpadeDeepIron.name=粗糙的深渊铁万用铲头
@@ -52498,6 +52920,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadePyrope.name=粗糙的镁铝榴石万用铲头
     S:oredict.toolHeadRawUniversalSpadeQuartzBlack.name=粗糙的黑色石英岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeQuartzite.name=粗糙的石英岩万用铲头
+    S:oredict.toolHeadRawUniversalSpadeRedMatter.name=Raw Red Matter Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeRedSteel.name=粗糙的红钢万用铲头
     S:oredict.toolHeadRawUniversalSpadeRedstonia.name=Raw Redstonia Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeRhyolite.name=粗糙的流纹岩万用铲头
@@ -52612,6 +53035,7 @@ languagefile {
     S:oredict.toolHeadSawDacite.name=英安岩锯片
     S:oredict.toolHeadSawDamascusSteel.name=大马士革钢锯片
     S:oredict.toolHeadSawDarkIron.name=玄铁锯片
+    S:oredict.toolHeadSawDarkMatter.name=Dark Matter Saw Blade
     S:oredict.toolHeadSawDarkSteel.name=黑钢圆锯片
     S:oredict.toolHeadSawDarkThaumium.name=黑暗神秘锭锯片
     S:oredict.toolHeadSawDeepIron.name=深渊铁锯片
@@ -52710,6 +53134,7 @@ languagefile {
     S:oredict.toolHeadSawPyrope.name=镁铝榴石锯片
     S:oredict.toolHeadSawQuartzBlack.name=黑色石英岩锯片
     S:oredict.toolHeadSawQuartzite.name=石英岩锯片
+    S:oredict.toolHeadSawRedMatter.name=Red Matter Saw Blade
     S:oredict.toolHeadSawRedSteel.name=红钢锯片
     S:oredict.toolHeadSawRedstonia.name=Redstonia Saw Blade
     S:oredict.toolHeadSawRhyolite.name=流纹岩锯片
@@ -52824,6 +53249,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverDacite.name=英安岩螺丝刀头
     S:oredict.toolHeadScrewdriverDamascusSteel.name=大马士革钢螺丝刀头
     S:oredict.toolHeadScrewdriverDarkIron.name=玄铁螺丝刀头
+    S:oredict.toolHeadScrewdriverDarkMatter.name=Dark Matter Screwdriver Tip
     S:oredict.toolHeadScrewdriverDarkSteel.name=玄钢螺丝刀头
     S:oredict.toolHeadScrewdriverDarkThaumium.name=黑暗神秘锭螺丝刀头
     S:oredict.toolHeadScrewdriverDeepIron.name=深渊铁螺丝刀头
@@ -52924,6 +53350,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverPyrope.name=镁铝榴石螺丝刀头
     S:oredict.toolHeadScrewdriverQuartzBlack.name=黑色石英岩螺丝刀头
     S:oredict.toolHeadScrewdriverQuartzite.name=石英岩螺丝刀头
+    S:oredict.toolHeadScrewdriverRedMatter.name=Red Matter Screwdriver Tip
     S:oredict.toolHeadScrewdriverRedSteel.name=红钢螺丝刀头
     S:oredict.toolHeadScrewdriverRedstonia.name=Redstonia Screwdriver Tip
     S:oredict.toolHeadScrewdriverRhyolite.name=流纹岩螺丝刀头
@@ -53044,6 +53471,7 @@ languagefile {
     S:oredict.toolHeadSenseDacite.name=英安岩镰刀片
     S:oredict.toolHeadSenseDamascusSteel.name=大马士革钢镰刀片
     S:oredict.toolHeadSenseDarkIron.name=玄铁镰刀片
+    S:oredict.toolHeadSenseDarkMatter.name=Dark Matter Sense Blade
     S:oredict.toolHeadSenseDarkSteel.name=黑钢镰刀片
     S:oredict.toolHeadSenseDarkThaumium.name=黑暗神秘锭镰刀片
     S:oredict.toolHeadSenseDeepIron.name=深渊铁镰刀片
@@ -53156,6 +53584,7 @@ languagefile {
     S:oredict.toolHeadSensePyrope.name=镁铝榴石镰刀片
     S:oredict.toolHeadSenseQuartzBlack.name=黑色石英岩镰刀片
     S:oredict.toolHeadSenseQuartzite.name=石英岩镰刀片
+    S:oredict.toolHeadSenseRedMatter.name=Red Matter Sense Blade
     S:oredict.toolHeadSenseRedSteel.name=红钢镰刀片
     S:oredict.toolHeadSenseRedrock.name=红岩镰刀片
     S:oredict.toolHeadSenseRedstonia.name=Redstonia Sense Blade
@@ -53282,6 +53711,7 @@ languagefile {
     S:oredict.toolHeadShovelDacite.name=英安岩锹头
     S:oredict.toolHeadShovelDamascusSteel.name=大马士革钢锹头
     S:oredict.toolHeadShovelDarkIron.name=玄铁锹头
+    S:oredict.toolHeadShovelDarkMatter.name=Dark Matter Shovel Head
     S:oredict.toolHeadShovelDarkSteel.name=黑钢锹头
     S:oredict.toolHeadShovelDarkThaumium.name=黑暗神秘锭锹头
     S:oredict.toolHeadShovelDeepIron.name=深渊铁锹头
@@ -53394,6 +53824,7 @@ languagefile {
     S:oredict.toolHeadShovelPyrope.name=镁铝榴石锹头
     S:oredict.toolHeadShovelQuartzBlack.name=黑色石英岩锹头
     S:oredict.toolHeadShovelQuartzite.name=石英岩锹头
+    S:oredict.toolHeadShovelRedMatter.name=Red Matter Shovel Head
     S:oredict.toolHeadShovelRedSteel.name=红钢锹头
     S:oredict.toolHeadShovelRedrock.name=红岩锹头
     S:oredict.toolHeadShovelRedstonia.name=Redstonia Shovel Head
@@ -53520,6 +53951,7 @@ languagefile {
     S:oredict.toolHeadSpadeDacite.name=英安岩铲头
     S:oredict.toolHeadSpadeDamascusSteel.name=大马士革钢铲头
     S:oredict.toolHeadSpadeDarkIron.name=玄铁铲头
+    S:oredict.toolHeadSpadeDarkMatter.name=Dark Matter Spade Head
     S:oredict.toolHeadSpadeDarkSteel.name=黑钢铲头
     S:oredict.toolHeadSpadeDarkThaumium.name=黑暗神秘锭铲头
     S:oredict.toolHeadSpadeDeepIron.name=深渊铁铲头
@@ -53632,6 +54064,7 @@ languagefile {
     S:oredict.toolHeadSpadePyrope.name=镁铝榴石铲头
     S:oredict.toolHeadSpadeQuartzBlack.name=黑色石英岩铲头
     S:oredict.toolHeadSpadeQuartzite.name=石英岩铲头
+    S:oredict.toolHeadSpadeRedMatter.name=Red Matter Spade Head
     S:oredict.toolHeadSpadeRedSteel.name=红钢铲头
     S:oredict.toolHeadSpadeRedrock.name=红岩铲头
     S:oredict.toolHeadSpadeRedstonia.name=Redstonia Spade Head
@@ -53758,6 +54191,7 @@ languagefile {
     S:oredict.toolHeadSwordDacite.name=英安岩剑身
     S:oredict.toolHeadSwordDamascusSteel.name=大马士革钢剑身
     S:oredict.toolHeadSwordDarkIron.name=玄铁剑身
+    S:oredict.toolHeadSwordDarkMatter.name=Dark Matter Sword Blade
     S:oredict.toolHeadSwordDarkSteel.name=黑钢剑身
     S:oredict.toolHeadSwordDarkThaumium.name=黑暗神秘锭剑身
     S:oredict.toolHeadSwordDeepIron.name=深渊铁剑身
@@ -53870,6 +54304,7 @@ languagefile {
     S:oredict.toolHeadSwordPyrope.name=镁铝榴石剑身
     S:oredict.toolHeadSwordQuartzBlack.name=黑色石英岩剑身
     S:oredict.toolHeadSwordQuartzite.name=石英岩剑身
+    S:oredict.toolHeadSwordRedMatter.name=Red Matter Sword Blade
     S:oredict.toolHeadSwordRedSteel.name=红钢剑身
     S:oredict.toolHeadSwordRedrock.name=红岩剑身
     S:oredict.toolHeadSwordRedstonia.name=Redstonia Sword Blade
@@ -53992,6 +54427,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeDacite.name=英安岩万用铲头
     S:oredict.toolHeadUniversalSpadeDamascusSteel.name=大马士革钢万用铲头
     S:oredict.toolHeadUniversalSpadeDarkIron.name=玄铁万用铲头
+    S:oredict.toolHeadUniversalSpadeDarkMatter.name=Dark Matter Universal Spade Head
     S:oredict.toolHeadUniversalSpadeDarkSteel.name=黑钢万用铲头
     S:oredict.toolHeadUniversalSpadeDarkThaumium.name=黑暗神秘锭万用铲头
     S:oredict.toolHeadUniversalSpadeDeepIron.name=深渊铁万用铲头
@@ -54090,6 +54526,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadePyrope.name=镁铝榴石万用铲头
     S:oredict.toolHeadUniversalSpadeQuartzBlack.name=黑色石英岩万用铲头
     S:oredict.toolHeadUniversalSpadeQuartzite.name=石英岩万用铲头
+    S:oredict.toolHeadUniversalSpadeRedMatter.name=Red Matter Universal Spade Head
     S:oredict.toolHeadUniversalSpadeRedSteel.name=红钢万用铲头
     S:oredict.toolHeadUniversalSpadeRedstonia.name=Redstonia Universal Spade Head
     S:oredict.toolHeadUniversalSpadeRhyolite.name=流纹岩万用铲头
@@ -54204,6 +54641,7 @@ languagefile {
     S:oredict.toolHeadWrenchDacite.name=英安岩扳手头
     S:oredict.toolHeadWrenchDamascusSteel.name=大马士革钢扳手头
     S:oredict.toolHeadWrenchDarkIron.name=玄铁扳手头
+    S:oredict.toolHeadWrenchDarkMatter.name=Dark Matter Wrench Tip
     S:oredict.toolHeadWrenchDarkSteel.name=黑钢扳手头
     S:oredict.toolHeadWrenchDarkThaumium.name=黑暗神秘锭扳手头
     S:oredict.toolHeadWrenchDeepIron.name=深渊铁扳手头
@@ -54302,6 +54740,7 @@ languagefile {
     S:oredict.toolHeadWrenchPyrope.name=镁铝榴石扳手头
     S:oredict.toolHeadWrenchQuartzBlack.name=黑色石英岩扳手头
     S:oredict.toolHeadWrenchQuartzite.name=石英岩扳手头
+    S:oredict.toolHeadWrenchRedMatter.name=Red Matter Wrench Tip
     S:oredict.toolHeadWrenchRedSteel.name=红钢扳手头
     S:oredict.toolHeadWrenchRedstonia.name=Redstonia Wrench Tip
     S:oredict.toolHeadWrenchRhyolite.name=流纹岩扳手头
