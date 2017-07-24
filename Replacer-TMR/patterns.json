@@ -72,6 +72,36 @@
         "priority":999
     },
     {
+        "name":"oredict.block.+",
+        "value":"Block of (.+)",
+        "repl":"\\1块",
+        "priority":2000
+    },
+    {
+        "name":"oredict.blockDust.+",
+        "value":"Block of (.+) (Dust|Powder)?$",
+        "repl":"\\1粉块",
+        "priority":3000
+    },
+    {
+        "name":"oredict.blockIngot.+",
+        "value":"Block of (.+) (Ingot)?$",
+        "repl":"\\1锭块",
+        "priority":3000
+    },
+    {
+        "name":"oredict.blockPlate.+",
+        "value":"Block of (.+) Plates?$",
+        "repl":"\\1板块",
+        "priority":3000
+    },
+    {
+        "name":"oredict.blockSolid.+",
+        "value":"Block of solid (.+)$",
+        "repl":"铸造\\1块",
+        "priority":3000
+    },
+    {
         "name":"oredict.dust.+",
         "value":"(.+?) (Dust|Powder)",
         "repl":"\\1粉",

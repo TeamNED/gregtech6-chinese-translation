@@ -10,11 +10,5 @@
         "value":"Crate of (.+)",
         "repl":"\\1板条箱",
         "priority":2000
-    },
-    {
-        "name":"oredict.block.+",
-        "value":"Block of (.+)",
-        "repl":"\\1块",
-        "priority":2000
     }
 ]
