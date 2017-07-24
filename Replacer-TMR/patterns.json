@@ -72,6 +72,48 @@
         "priority":999
     },
     {
+        "name":"oredict.dust.+",
+        "value":"(.+?) (Dust|Powder)",
+        "repl":"\\1粉",
+        "priority":500
+    },
+    {
+        "name":"oredict.dustSmall.+",
+        "value":"Small Pile of (.+) (Dust|Powder)?$",
+        "repl":"小堆\\1粉",
+        "priority":1000
+    },
+    {
+        "name":"oredict.dustTiny.+",
+        "value":"Tiny Pile of (.+) (Dust|Powder)?$",
+        "repl":"小撮\\1粉",
+        "priority":1000
+    },
+    {
+        "name":"oredict.dustDiv72.+",
+        "value":"1/72nd of a Pile of (.+) (Dust|Powder)?$",
+        "repl":"1/72份\\1粉",
+        "priority":1000
+    },
+    {
+        "name":"oredict.dustPure.+",
+        "value":"Purified Pile of (.+) (Dust|Powder)?$",
+        "repl":"纯净\\1粉",
+        "priority":1000
+    },
+    {
+        "name":"oredict.dustImpure.+",
+        "value":"Impure Pile of (.+) (Dust|Powder)?$",
+        "repl":"含杂\\1粉",
+        "priority":1000
+    },
+    {
+        "name":"oredict.plate.+",
+        "value":"(.+) Plate",
+        "repl":"\\1板",
+        "priority":500
+    },
+    {
         "name":"oredict.nugget.+",
         "value":"(.+) Nugget",
         "repl":"\\1粒",
