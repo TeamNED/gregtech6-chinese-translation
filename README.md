@@ -1,7 +1,7 @@
 # gregtech6-chinese-translate
 GregTech6汉化项目，欢迎加入。
 
-当前适配版本为v6.05.26
+当前适配版本为v6.05.34
 
 原始文件源自Amamiya组、机器的汉化来自空集、感谢Tanimodori的更新与对一堆奇葩问题的修复
 
@@ -21,7 +21,7 @@ I'm so buzy these days, so i may update it after I've done all works >_<
     - Just created a script that can based on the translation of words to words (Maybe weird, but IDC! xD)
   - NH4HCr2O7:As the playtester I guarantee that THE STUPID METHOD IS USEFUL SOMETIMES
   - Tanimodori: Using Replacer-TMR:
-    - Update glossary.json or patterns.json
+    - Update glossary.json and/or patterns.json
     - Run RegexReplacer.py
   
 ## license
