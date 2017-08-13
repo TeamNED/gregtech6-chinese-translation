@@ -6,8 +6,8 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout.detach()) # utf-8 output
 
 # Paths
 
-TranslatedPath='Translated-GregTech.lang' # Filepath of currently translated GregTech.lang
-OriginalPath='Original-GregTech.lang'  # Filepath of original GregTech.lang
+TranslatedPath='..\GregTech.lang' # Filepath of currently translated GregTech.lang
+OriginalPath='..\Original\GregTech.lang'  # Filepath of original GregTech.lang
 OutputPath='GregTech.lang'     # Filepath of output GregTech.lang
 GlossaryPath='glossary.json'   # Filepath of glossary, auto-create if not exist
 PatternPath='patterns.json'    # Filepath of regex patterns
