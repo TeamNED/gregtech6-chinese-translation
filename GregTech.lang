@@ -2106,7 +2106,7 @@ languagefile {
     S:gt.drink.plumsmoothie=
     S:gt.drink.pomegranatejuice=
     S:gt.drink.pomegranatesmoothie=
-    S:gt.drink.potatojuice=Ever seen Potato 汁 in stores? No? That has a reason.
+    S:gt.drink.potatojuice=Ever seen Potato juice in stores? No? That has a reason.
     S:gt.drink.potion.alcopops=不要让你的孩子喝这种垃圾！
     S:gt.drink.potion.ambrosia=神的食物
     S:gt.drink.potion.applejuice=用从最好的橡树农场的苹果榨的
@@ -17745,7 +17745,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyCeruclase.name=小撮离心暗影秘银矿
     S:oredict.crushedCentrifugedTinyChalcopyrite.name=小撮离心黄铜矿
     S:oredict.crushedCentrifugedTinyChalk.name=小撮离心白垩矿
-    S:oredict.crushedCentrifugedTinyChargedCertusQuartz.name=小撮离心充能 赛特斯石英矿
+    S:oredict.crushedCentrifugedTinyChargedCertusQuartz.name=小撮离心充能赛特斯石英矿
     S:oredict.crushedCentrifugedTinyCheese.name=小撮离心奶酪矿
     S:oredict.crushedCentrifugedTinyChlorine.name=小撮离心氯矿
     S:oredict.crushedCentrifugedTinyChromite.name=小撮离心铬铁矿
@@ -18927,7 +18927,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyCeruclase.name=小撮纯净粉碎暗影秘银矿
     S:oredict.crushedPurifiedTinyChalcopyrite.name=小撮纯净粉碎黄铜矿
     S:oredict.crushedPurifiedTinyChalk.name=小撮纯净粉碎白垩矿
-    S:oredict.crushedPurifiedTinyChargedCertusQuartz.name=小撮纯净粉碎充能 赛特斯石英矿
+    S:oredict.crushedPurifiedTinyChargedCertusQuartz.name=小撮纯净粉碎充能赛特斯石英矿
     S:oredict.crushedPurifiedTinyCheese.name=小撮纯净粉碎奶酪矿
     S:oredict.crushedPurifiedTinyChlorine.name=小撮纯净粉碎氯矿
     S:oredict.crushedPurifiedTinyChromite.name=小撮纯净粉碎铬铁矿
@@ -29026,7 +29026,7 @@ languagefile {
     S:oredict.oreBasaltRuthenium.name=玄武岩钌矿石
     S:oredict.oreBasaltRutherfordium.name=玄武岩鑪矿石
     S:oredict.oreBasaltRutile.name=玄武岩金红石矿石
-    S:oredict.oreBasaltSalt.name=玄武岩Salt矿石
+    S:oredict.oreBasaltSalt.name=玄武岩盐矿石
     S:oredict.oreBasaltSaltpeter.name=玄武岩硝酸钾矿石
     S:oredict.oreBasaltSamarium.name=玄武岩钐矿石
     S:oredict.oreBasaltSanguinite.name=玄武岩狱炎石矿石
@@ -29305,7 +29305,7 @@ languagefile {
     S:oredict.oreBedrockCeruclase.name=基岩暗影秘银矿石
     S:oredict.oreBedrockChalcopyrite.name=基岩黄铜矿石
     S:oredict.oreBedrockChalk.name=基岩白垩矿石
-    S:oredict.oreBedrockChargedCertusQuartz.name=基岩充能 赛特斯石英矿石
+    S:oredict.oreBedrockChargedCertusQuartz.name=基岩充能赛特斯石英矿石
     S:oredict.oreBedrockCheese.name=基岩奶酪矿石
     S:oredict.oreBedrockChlorine.name=基岩氯矿石
     S:oredict.oreBedrockChromite.name=基岩铬铁矿石
@@ -35638,7 +35638,7 @@ languagefile {
     S:oredict.oreSmallRuthenium.name=贫瘠钌矿石
     S:oredict.oreSmallRutherfordium.name=贫瘠鑪矿石
     S:oredict.oreSmallRutile.name=贫瘠金红石矿石
-    S:oredict.oreSmallSalt.name=贫瘠Salt矿石
+    S:oredict.oreSmallSalt.name=贫瘠盐矿石
     S:oredict.oreSmallSaltpeter.name=贫瘠硝酸钾矿石
     S:oredict.oreSmallSamarium.name=贫瘠钐矿石
     S:oredict.oreSmallSanguinite.name=贫瘠狱炎石矿石
