@@ -6375,7 +6375,7 @@ languagefile {
     S:gt.multiitem.technological.12148.tooltip=
     S:gt.multiitem.technological.12149.name=传感器 (PUV1)
     S:gt.multiitem.technological.12149.tooltip=
-    S:gt.multiitem.technological.2000.name=施压阀
+    S:gt.multiitem.technological.2000.name=释压安全阀
     S:gt.multiitem.technological.2000.tooltip=
     S:gt.multiitem.technological.20100.name=电池壳 (LV)
     S:gt.multiitem.technological.20100.tooltip=空电池壳
