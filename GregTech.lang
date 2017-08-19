@@ -2288,7 +2288,7 @@ languagefile {
     S:gt.lang.accepts.redstoneflux.lossless=可以无损地接收红石通量(RF)
     S:gt.lang.accepts.redstoneflux.lossy=可以有损耗地接收红石通量(RF)，损耗:
     S:gt.lang.admin.only.creation=管理员可以加入它. (或者使用MineTweaker增加一个合成表)
-    S:gt.lang.blastfortune=Blast Fortune Level:
+    S:gt.lang.blastfortune=爆炸开采矿物的时运等级:
     S:gt.lang.blastpower=爆炸力:
     S:gt.lang.blastrange=爆炸范围:
     S:gt.lang.blastresistance=爆炸抗性:
