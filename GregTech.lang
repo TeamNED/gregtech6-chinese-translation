@@ -1864,7 +1864,7 @@ languagefile {
     S:gt.block.sapling.8.name=橡胶树苗
     S:gt.block.sapling.9.name=枫树苗
     S:gt.crop.ananas=菠萝
-    S:gt.crop.argentia=Argentia
+    S:gt.crop.argentia=银叶草
     S:gt.crop.barley=大麦
     S:gt.crop.blackberries=黑莓灌木
     S:gt.crop.blackcurrants=黑醋栗
@@ -1872,11 +1872,11 @@ languagefile {
     S:gt.crop.blueberrybush=蓝莓灌木
     S:gt.crop.bobsyeruncleranks=绿宝石灌木
     S:gt.crop.candleberrybush=蜡杨梅灌木
-    S:gt.crop.cerublossom=Cerublossom
+    S:gt.crop.cerublossom=暗影花
     S:gt.crop.cinderpearl=煤植株
     S:gt.crop.coppon=铜棉
-    S:gt.crop.corium=Corium
-    S:gt.crop.corpseplant=Corpseplant
+    S:gt.crop.corium=皮革花
+    S:gt.crop.corpseplant=死尸之草
     S:gt.crop.cranberries=蔓越莓
     S:gt.crop.creeperweed=爆炸草
     S:gt.crop.cucumber=黄瓜
@@ -1886,7 +1886,7 @@ languagefile {
     S:gt.crop.eggplant=茄子
     S:gt.crop.enderbloom=加强末影百合
     S:gt.crop.flax=亚麻
-    S:gt.crop.glowshrooms=Glowshrooms
+    S:gt.crop.glowshrooms=闪亮菌
     S:gt.crop.gooseberrybush=鹅莓灌木
     S:gt.crop.greenappletree=绿苹果树
     S:gt.crop.greengrapes=绿色葡萄
@@ -2279,7 +2279,7 @@ languagefile {
     S:gt.drink.tomatojuice=用于制作番茄酱
     S:gt.drink.vinegar=
     S:gt.drink.water=这只是普通的一氧化二氢啊……
-    S:gt.drink.waterdirty=Dirty
+    S:gt.drink.waterdirty=很脏
     S:gt.drink.wheathopsmash=Also known as 'Duff-Lite'
     S:gt.drink.whitegrapesmoothie=
     S:gt.drink.wine=品质上乘
@@ -2344,7 +2344,7 @@ languagefile {
     S:gt.lang.nogui.rightclick.tank=没有界面，手持流体容器右键进行交互。
     S:gt.lang.nogui.tap.tank=没有界面，手持龙头右键进行交互!
     S:gt.lang.owner.controlled=这个方块只能被拥有者操作
-    S:gt.lang.pipe.stats.amount=Amount of Pipes:
+    S:gt.lang.pipe.stats.amount=管道数量:
     S:gt.lang.pipe.stats.bandwidth=流量:
     S:gt.lang.pipe.stats.capacity=容量:
     S:gt.lang.pipe.stats.loss=损耗:
@@ -4559,9 +4559,9 @@ languagefile {
     S:gt.metatool.01.22.tooltip=
     S:gt.metatool.01.23.name=螺丝刀(空)
     S:gt.metatool.01.23.tooltip=你需要为其充电
-    S:gt.metatool.01.24.name=研钵
-    S:gt.metatool.01.24.tooltip=
-    S:gt.metatool.01.25.name=研钵(空)
+    S:gt.metatool.01.24.name=棒槌
+    S:gt.metatool.01.24.tooltip=一根大棒
+    S:gt.metatool.01.25.name=棒槌(空)
     S:gt.metatool.01.25.tooltip=你需要为其充电
     S:gt.metatool.01.26.name=剪线钳
     S:gt.metatool.01.26.tooltip=
@@ -4849,7 +4849,7 @@ languagefile {
     S:gt.multiitem.bottles.300.tooltip=你之前见过商店卖土豆汁吗? 没有? 这一定有什么见不得人的阴谋！
     S:gt.multiitem.bottles.3000.name=鹅莓汁
     S:gt.multiitem.bottles.3000.tooltip=
-    S:gt.multiitem.bottles.30000.name=Medicine
+    S:gt.multiitem.bottles.30000.name=药用
     S:gt.multiitem.bottles.30000.tooltip=
     S:gt.multiitem.bottles.30001.name=Laxative
     S:gt.multiitem.bottles.30001.tooltip=
@@ -5063,7 +5063,7 @@ languagefile {
     S:gt.multiitem.bottles.5300.tooltip=
     S:gt.multiitem.bottles.5305.name=Pomegranate Smoothie
     S:gt.multiitem.bottles.5305.tooltip=
-    S:gt.multiitem.bottles.5400.name=Mango Juice
+    S:gt.multiitem.bottles.5400.name=芒果汁
     S:gt.multiitem.bottles.5400.tooltip=
     S:gt.multiitem.bottles.5405.name=Mango Smoothie
     S:gt.multiitem.bottles.5405.tooltip=
@@ -5225,7 +5225,7 @@ languagefile {
     S:gt.multiitem.food.1001.tooltip=外星人入侵!!!, 发射奶酪!!!
     S:gt.multiitem.food.10010.name=棍子上的好基友肉块
     S:gt.multiitem.food.10010.tooltip=不要忘了尝尝我们的Chum-balaya！
-    S:gt.multiitem.food.101.name=Pomeraisins
+    S:gt.multiitem.food.101.name=石榴干
     S:gt.multiitem.food.101.tooltip=小狗狗(Lesser Dogs)最喜欢的食物
     S:gt.multiitem.food.11.name=番茄片
     S:gt.multiitem.food.11.tooltip=固体番茄酱..
@@ -5267,7 +5267,7 @@ languagefile {
     S:gt.multiitem.food.12007.tooltip=
     S:gt.multiitem.food.1201.name=烤肋排
     S:gt.multiitem.food.1201.tooltip=
-    S:gt.multiitem.food.12010.name=Cerublossom
+    S:gt.multiitem.food.12010.name=暗影花
     S:gt.multiitem.food.12010.tooltip=用于膜法
     S:gt.multiitem.food.12011.name=沙漠新星
     S:gt.multiitem.food.12011.tooltip=用于膜法
@@ -5357,7 +5357,7 @@ languagefile {
     S:gt.multiitem.food.13028.tooltip=菠萝意式冰淇淋
     S:gt.multiitem.food.13029.name=基友肉冰淇淋
     S:gt.multiitem.food.13029.tooltip=基友之基情!
-    S:gt.multiitem.food.13030.name=Honey Ice Cream
+    S:gt.multiitem.food.13030.name=蜂蜜冰淇淋
     S:gt.multiitem.food.13030.tooltip=Bee the Gelato
     S:gt.multiitem.food.13989.name=熊冰淇淋
     S:gt.multiitem.food.13989.tooltip=熊的意式冰淇淋!
@@ -5384,9 +5384,9 @@ languagefile {
     S:gt.multiitem.food.1501.name=烤马肉
     S:gt.multiitem.food.1501.tooltip=
     S:gt.multiitem.food.1510.name=骡肉
-    S:gt.multiitem.food.1510.tooltip=
+    S:gt.multiitem.food.1510.tooltip=“骡”
     S:gt.multiitem.food.1511.name=烤骡肉
-    S:gt.multiitem.food.1511.tooltip=
+    S:gt.multiitem.food.1511.tooltip=基地的胜利
     S:gt.multiitem.food.1520.name=驴肉
     S:gt.multiitem.food.1520.tooltip=
     S:gt.multiitem.food.1521.name=烤驴肉
@@ -5791,7 +5791,7 @@ languagefile {
     S:gt.multiitem.randomtools.2004.name=木桶
     S:gt.multiitem.randomtools.2004.tooltip=杂酚油
     S:gt.multiitem.randomtools.2005.name=木桶
-    S:gt.multiitem.randomtools.2005.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2005.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2006.name=木桶
     S:gt.multiitem.randomtools.2006.tooltip=乳胶
     S:gt.multiitem.randomtools.2007.name=木桶
@@ -5799,7 +5799,7 @@ languagefile {
     S:gt.multiitem.randomtools.2008.name=木桶
     S:gt.multiitem.randomtools.2008.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2009.name=木桶
-    S:gt.multiitem.randomtools.2009.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2009.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2100.name=木桶
     S:gt.multiitem.randomtools.2100.tooltip=空
     S:gt.multiitem.randomtools.2101.name=木桶
@@ -5811,7 +5811,7 @@ languagefile {
     S:gt.multiitem.randomtools.2104.name=木桶
     S:gt.multiitem.randomtools.2104.tooltip=杂酚油
     S:gt.multiitem.randomtools.2105.name=木桶
-    S:gt.multiitem.randomtools.2105.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2105.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2106.name=木桶
     S:gt.multiitem.randomtools.2106.tooltip=乳胶
     S:gt.multiitem.randomtools.2107.name=木桶
@@ -5819,7 +5819,7 @@ languagefile {
     S:gt.multiitem.randomtools.2108.name=木桶
     S:gt.multiitem.randomtools.2108.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2109.name=木桶
-    S:gt.multiitem.randomtools.2109.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2109.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2200.name=木桶
     S:gt.multiitem.randomtools.2200.tooltip=空
     S:gt.multiitem.randomtools.2201.name=木桶
@@ -5831,7 +5831,7 @@ languagefile {
     S:gt.multiitem.randomtools.2204.name=木桶
     S:gt.multiitem.randomtools.2204.tooltip=杂酚油
     S:gt.multiitem.randomtools.2205.name=木桶
-    S:gt.multiitem.randomtools.2205.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2205.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2206.name=木桶
     S:gt.multiitem.randomtools.2206.tooltip=乳胶
     S:gt.multiitem.randomtools.2207.name=木桶
@@ -5839,7 +5839,7 @@ languagefile {
     S:gt.multiitem.randomtools.2208.name=木桶
     S:gt.multiitem.randomtools.2208.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2209.name=木桶
-    S:gt.multiitem.randomtools.2209.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2209.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2300.name=木桶
     S:gt.multiitem.randomtools.2300.tooltip=空
     S:gt.multiitem.randomtools.2301.name=木桶
@@ -5851,7 +5851,7 @@ languagefile {
     S:gt.multiitem.randomtools.2304.name=木桶
     S:gt.multiitem.randomtools.2304.tooltip=杂酚油
     S:gt.multiitem.randomtools.2305.name=木桶
-    S:gt.multiitem.randomtools.2305.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2305.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2306.name=木桶
     S:gt.multiitem.randomtools.2306.tooltip=乳胶
     S:gt.multiitem.randomtools.2307.name=木桶
@@ -5859,7 +5859,7 @@ languagefile {
     S:gt.multiitem.randomtools.2308.name=木桶
     S:gt.multiitem.randomtools.2308.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2309.name=木桶
-    S:gt.multiitem.randomtools.2309.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2309.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2400.name=木桶
     S:gt.multiitem.randomtools.2400.tooltip=空
     S:gt.multiitem.randomtools.2401.name=木桶
@@ -5871,7 +5871,7 @@ languagefile {
     S:gt.multiitem.randomtools.2404.name=木桶
     S:gt.multiitem.randomtools.2404.tooltip=杂酚油
     S:gt.multiitem.randomtools.2405.name=木桶
-    S:gt.multiitem.randomtools.2405.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2405.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2406.name=木桶
     S:gt.multiitem.randomtools.2406.tooltip=乳胶
     S:gt.multiitem.randomtools.2407.name=木桶
@@ -5879,7 +5879,7 @@ languagefile {
     S:gt.multiitem.randomtools.2408.name=木桶
     S:gt.multiitem.randomtools.2408.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2409.name=木桶
-    S:gt.multiitem.randomtools.2409.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2409.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2500.name=木桶
     S:gt.multiitem.randomtools.2500.tooltip=空
     S:gt.multiitem.randomtools.2501.name=木桶
@@ -5891,7 +5891,7 @@ languagefile {
     S:gt.multiitem.randomtools.2504.name=木桶
     S:gt.multiitem.randomtools.2504.tooltip=杂酚油
     S:gt.multiitem.randomtools.2505.name=木桶
-    S:gt.multiitem.randomtools.2505.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2505.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2506.name=木桶
     S:gt.multiitem.randomtools.2506.tooltip=乳胶
     S:gt.multiitem.randomtools.2507.name=木桶
@@ -5899,7 +5899,7 @@ languagefile {
     S:gt.multiitem.randomtools.2508.name=木桶
     S:gt.multiitem.randomtools.2508.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2509.name=木桶
-    S:gt.multiitem.randomtools.2509.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2509.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2600.name=木桶
     S:gt.multiitem.randomtools.2600.tooltip=空
     S:gt.multiitem.randomtools.2601.name=木桶
@@ -5911,7 +5911,7 @@ languagefile {
     S:gt.multiitem.randomtools.2604.name=木桶
     S:gt.multiitem.randomtools.2604.tooltip=杂酚油
     S:gt.multiitem.randomtools.2605.name=木桶
-    S:gt.multiitem.randomtools.2605.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2605.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2606.name=木桶
     S:gt.multiitem.randomtools.2606.tooltip=乳胶
     S:gt.multiitem.randomtools.2607.name=木桶
@@ -5919,7 +5919,7 @@ languagefile {
     S:gt.multiitem.randomtools.2608.name=木桶
     S:gt.multiitem.randomtools.2608.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2609.name=木桶
-    S:gt.multiitem.randomtools.2609.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2609.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2700.name=木桶
     S:gt.multiitem.randomtools.2700.tooltip=空
     S:gt.multiitem.randomtools.2701.name=木桶
@@ -5931,7 +5931,7 @@ languagefile {
     S:gt.multiitem.randomtools.2704.name=木桶
     S:gt.multiitem.randomtools.2704.tooltip=杂酚油
     S:gt.multiitem.randomtools.2705.name=木桶
-    S:gt.multiitem.randomtools.2705.tooltip=海水  (无法放置!)
+    S:gt.multiitem.randomtools.2705.tooltip=海水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.2706.name=木桶
     S:gt.multiitem.randomtools.2706.tooltip=乳胶
     S:gt.multiitem.randomtools.2707.name=木桶
@@ -5939,7 +5939,7 @@ languagefile {
     S:gt.multiitem.randomtools.2708.name=木桶
     S:gt.multiitem.randomtools.2708.tooltip=蜂蜜
     S:gt.multiitem.randomtools.2709.name=木桶
-    S:gt.multiitem.randomtools.2709.tooltip=污水  (无法放置!)
+    S:gt.multiitem.randomtools.2709.tooltip=污水  (无法放置!)(按住shift并右键以清空)
     S:gt.multiitem.randomtools.30000.name=铁钥匙
     S:gt.multiitem.randomtools.30000.tooltip=
     S:gt.multiitem.randomtools.30001.name=金钥匙
@@ -6062,7 +6062,7 @@ languagefile {
     S:gt.multiitem.randomtools.9002.tooltip=
     S:gt.multiitem.randomtools.9003.name=便携式作物扫描仪
     S:gt.multiitem.randomtools.9003.tooltip=
-    S:gt.multiitem.randomtools.996.name=粗糙粘土杯
+    S:gt.multiitem.randomtools.996.name=粘土杯
     S:gt.multiitem.randomtools.996.tooltip=用熔炉加热来硬化它
     S:gt.multiitem.randomtools.997.name=粘土量杯
     S:gt.multiitem.randomtools.997.tooltip=烧制它以使之硬化
@@ -7256,10 +7256,10 @@ languagefile {
     S:gt.multitileentity.20383.name=切片器 (HV)
     S:gt.multitileentity.20384.name=切片器 (EV)
     S:gt.multitileentity.20385.name=切片器 (IV)
-    S:gt.multitileentity.20391.name=压膜机 (钢)
-    S:gt.multitileentity.20392.name=压膜机 (因瓦合金)
-    S:gt.multitileentity.20393.name=压膜机 (钛)
-    S:gt.multitileentity.20394.name=压膜机 (碳化钨)
+    S:gt.multitileentity.20391.name=压模机 (钢)
+    S:gt.multitileentity.20392.name=压模机 (因瓦合金)
+    S:gt.multitileentity.20393.name=压模机 (钛)
+    S:gt.multitileentity.20394.name=压模机 (碳化钨)
     S:gt.multitileentity.20411.name=物质制造器 (T1)
     S:gt.multitileentity.20412.name=物质制造器 (T2)
     S:gt.multitileentity.20413.name=物质制造器 (T3)
@@ -8148,7 +8148,7 @@ languagefile {
     S:gt.multitileentity.hdd.switch.tooltip=使用选择面板在16个数据口之间切换
     S:gt.multitileentity.hopper.tooltip.1=内容格数:
     S:gt.multitileentity.hopper.tooltip.2=指定的堆叠物品:
-    S:gt.multitileentity.hopper.tooltip.3=Exact Insertion Mode
+    S:gt.multitileentity.hopper.tooltip.3=精准输入模式
     S:gt.multitileentity.massstorage.tooltip.1=储存大量相同物品，可存储件数：
     S:gt.multitileentity.massstorage.tooltip.2=可以在高级工作台旁使用
     S:gt.multitileentity.usb.switch.tooltip=使用选择面板在16个U盘之间切换
@@ -8210,7 +8210,7 @@ languagefile {
     S:gt.recipe.implosioncompressor=聚爆压缩机
     S:gt.recipe.injector=注入器
     S:gt.recipe.juicer=榨汁机
-    S:gt.recipe.laminator=压膜机
+    S:gt.recipe.laminator=压模机
     S:gt.recipe.largenaquadahreactor=大型硅岩金属反应堆
     S:gt.recipe.laserengraver=激光刻蚀机
     S:gt.recipe.lathe=车床
@@ -8810,8 +8810,8 @@ languagefile {
     S:gt.td.short.prefix.ingot_based=锭
     S:gt.td.short.prefix.is_container=容器
     S:gt.td.short.prefix.material_based=Material Based
-    S:gt.td.short.prefix.needs_handle=Needs Handle
-    S:gt.td.short.prefix.needs_sharpening=Needs Sharpening
+    S:gt.td.short.prefix.needs_handle=需要手柄
+    S:gt.td.short.prefix.needs_sharpening=需要锉削
     S:gt.td.short.prefix.no_prefix_filtering=Not Prefix Filterable
     S:gt.td.short.prefix.ore=矿石
     S:gt.td.short.prefix.ore_processing_based=基础
@@ -8825,7 +8825,7 @@ languagefile {
     S:gt.td.short.prefix.self_referencing=Self Referencing
     S:gt.td.short.prefix.simplifiable=Simplifiable
     S:gt.td.short.prefix.tool_alike=工具
-    S:gt.td.short.prefix.tool_head=Tool Head
+    S:gt.td.short.prefix.tool_head=工具头部
     S:gt.td.short.prefix.unificatable=Unificatable
     S:gt.td.short.prefix.unificatable_recipes=Recipe Unificatable
     S:gt.td.short.prefix.weapon_alike=武器
@@ -8843,8 +8843,8 @@ languagefile {
     S:gt.td.short.processing.melting=Meltable
     S:gt.td.short.processing.mortar_grindable=Mortal Grindable
     S:gt.td.short.processing.pulverizing_cinnabar=朱砂 Pulverisation Byproduct
-    S:gt.td.short.processing.reacts_with_glass=Reacts with Glass
-    S:gt.td.short.processing.smithable=Smithable
+    S:gt.td.short.processing.reacts_with_glass=与玻璃反应
+    S:gt.td.short.processing.smithable=可加工
     S:gt.td.short.processing.soldering_material=Soldering Metal
     S:gt.td.short.processing.soldering_material_bad=Bad Soldering Metal
     S:gt.td.short.processing.soldering_material_good=Good Soldering Metal
@@ -9577,7 +9577,7 @@ languagefile {
     S:oredict.arrowGtWoodPyrope.name=镁铝榴石箭
     S:oredict.arrowGtWoodQuartzBlack.name=黑色箭
     S:oredict.arrowGtWoodQuartzite.name=石英岩箭
-    S:oredict.arrowGtWoodRedMatter.name=Red Matter Arrow
+    S:oredict.arrowGtWoodRedMatter.name=红物质箭
     S:oredict.arrowGtWoodRedSteel.name=红钢箭
     S:oredict.arrowGtWoodRedrock.name=红岩箭
     S:oredict.arrowGtWoodRedstonia.name=Redstonia Arrow
