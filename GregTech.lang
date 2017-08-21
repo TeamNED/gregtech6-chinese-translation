@@ -9004,11 +9004,11 @@ languagefile {
     S:itemGroup.foil=箔
     S:itemGroup.gearGt=齿轮
     S:itemGroup.gearGtSmall=小型齿轮
-    S:itemGroup.gem=宝石原石
-    S:itemGroup.gemChipped=碎裂的宝石原石
-    S:itemGroup.gemExquisite=精美的宝石原石
-    S:itemGroup.gemFlawed=有瑕疵的宝石原石
-    S:itemGroup.gemFlawless=无瑕的宝石原石
+    S:itemGroup.gem=宝石
+    S:itemGroup.gemChipped=碎裂的宝石
+    S:itemGroup.gemExquisite=精美的宝石
+    S:itemGroup.gemFlawed=有瑕疵的宝石
+    S:itemGroup.gemFlawless=无瑕的宝石
     S:itemGroup.gemLegendary=传奇的宝石
     S:itemGroup.gt.multiitem.books=泛银河格雷科技出版社
     S:itemGroup.gt.multiitem.bottles=格雷牌饮料
