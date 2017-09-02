@@ -412,7 +412,7 @@ languagefile {
     S:fluid.molten.constantan=熔融康铜
     S:fluid.molten.copper=熔融铜
     S:fluid.molten.darkthaumium=熔融黑暗神秘
-    S:fluid.molten.electrotine=Molten Electrotine
+    S:fluid.molten.electrotine=熔融蓝石
     S:fluid.molten.electrotinealloy=熔融蓝石合金
     S:fluid.molten.electrum=熔融琥珀金
     S:fluid.molten.enderium=熔融末影
@@ -441,7 +441,7 @@ languagefile {
     S:fluid.molten.mithril=熔融秘银
     S:fluid.molten.neodymium=熔融钕
     S:fluid.molten.nickel=熔融镍
-    S:fluid.molten.nikolite=Molten Nikolite
+    S:fluid.molten.nikolite=熔融蓝石
     S:fluid.molten.osmium=熔融锇
     S:fluid.molten.osmiumelemental=熔融锇
     S:fluid.molten.pigiron=熔融生铁
@@ -463,7 +463,7 @@ languagefile {
     S:fluid.molten.stone=熔融石
     S:fluid.molten.sugar=熔融糖
     S:fluid.molten.tallow=熔融魔法油脂
-    S:fluid.molten.teslatite=Molten Teslatite
+    S:fluid.molten.teslatite=熔融特斯拉金属
     S:fluid.molten.thaumium=熔融神秘
     S:fluid.molten.tin=熔融锡
     S:fluid.molten.tinalloy=熔融锡合金
@@ -56517,7 +56517,6 @@ languagefile {
     S:tc.research_text.GT_TRANSSOLDERINGALLOY=[GT] 转换金属为钎焊合金
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
-    S:海水.name=海水
 }
 
 
