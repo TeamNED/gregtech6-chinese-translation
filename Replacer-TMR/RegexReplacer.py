@@ -1,16 +1,24 @@
 # GT6-Translation RegexReplacer.py
 # by Tanimodori CC-BY-NC-SA 4.0
 
-import sys,codecs,re,os.path,json
+import sys,codecs,re,os.path,json,argparse
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout.detach()) # utf-8 output
 
 # Paths
 
-TranslatedPath='..\GregTech.lang' # Filepath of currently translated GregTech.lang
-OriginalPath='..\Original\GregTech.lang'  # Filepath of original GregTech.lang
-OutputPath='GregTech.lang'     # Filepath of output GregTech.lang
-GlossaryPath='glossary.json'   # Filepath of glossary, auto-create if not exist
-PatternPath='patterns.json'    # Filepath of regex patterns
+parser=argparse.ArgumentParser(description='A simple regex-based replacer dealt with GregTech6 Chinese Translasion')
+parser.add_argument('translated',help='Filepath of currently translated GregTech.lang')
+parser.add_argument('original',help='Filepath of oringinal GregTech.lang')
+parser.add_argument('glossary',help='Filepath of glossary, auto-create if not exist')
+parser.add_argument('pattern',help='Filepath of regex patterns')
+parser.add_argument('output',help='Filepath of output GregTech.lang')
+args=parser.parse_args()
+
+TranslatedPath=args.translated
+OriginalPath=args.original
+OutputPath=args.output
+GlossaryPath=args.glossary
+PatternPath=args.pattern
 
 # Settings
 
