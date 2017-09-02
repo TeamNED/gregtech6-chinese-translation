@@ -91,7 +91,7 @@ class pattern:
             if mainWord !='':
                 # succ
                 if mainWord in pattern.glossary:
-                    return currentTranslation.replace(mainWord,pattern.glossary[mainWord])
+                    return currentTranslation.replace(mainWord,pattern.getMainWord(item[0],mainWord))
                 else:
                     if canLearnGlossary and mainWordTranslated != mainWord:
                         pattern.glossary[mainWord]=mainWordTranslated
@@ -115,6 +115,23 @@ class pattern:
         else:
             # Use current translation
             return translated
+
+    @classmethod
+    def getMainWord(cls,name,word):
+        if word not in pattern.glossary:
+            return None
+        obj=pattern.glossary[word]
+        if type(obj) is str:
+            return obj
+        else:
+            fallback=None
+            for k,v in obj.items():
+                if k == '.*':
+                    fallback=v
+                    continue
+                if re.match(k,name):
+                    return v
+            return fallback
 
     #@classmethod
     #def cleanupGlossary(cls):
