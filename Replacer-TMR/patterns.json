@@ -555,5 +555,47 @@
         "value":"(.+) \\(Tungstensteel\\)",
         "repl":"\\1 (钨钢)",
         "priority":1000
+    },
+    {
+        "name":"gt.multiitem.bumblebee.+",
+        "value":"(.+) \\(Dead\\)",
+	"repl":"\\1 (死亡)",
+	"priority":2000
+    },
+    {
+        "name":"gt.multiitem.bumblebee.+",
+        "value":"(.+) \\(Scanned\\)",
+	"repl":"\\1 (已扫描)",
+	"priority":2000
+    },
+    {
+        "name":"gt.multiitem.bumblebee.+",
+        "value":"(.+) \\(Dead & Scanned\\)",
+	"repl":"\\1 (死亡且已扫描)",
+	"priority":2000
+    },
+    {
+        "name":"gt.multiitem.bumblebee.+",
+        "value":"(.+) Drone",
+	"repl":"\\1雄峰", 
+	"priority":1500
+    },
+    {
+        "name":"gt.multiitem.bumblebee.+",
+        "value":"(.+) Queen",
+	"repl":"\\1蜂后", 
+	"priority":1000
+    },
+    {
+        "name":"gt.multiitem.bumblebee.+",
+        "value":"(.+) Princess",
+	"repl":"\\1公主蜂", 
+	"priority":1000
+    },
+    {
+        "name":"gt.multiitem.bumblebee.+",
+        "value":"(.+) Bumblebee",
+	"repl":"\\1熊蜂", 
+	"priority":1000
     }
 ]
