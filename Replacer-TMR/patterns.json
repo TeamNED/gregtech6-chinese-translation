@@ -622,5 +622,17 @@
         "value":"(.+) Slab",
 		"repl":"\\1半砖", 
 		"priority":2000
+	},
+    {
+        "name":"fluid.cfoam.+",
+        "value":"Advanced (.+)",
+		"repl":"高级\\1", 
+		"priority":2000
+	},
+	{
+        "name":"fluid.cfoam.+",
+        "value":"(.+) C-Foam",
+		"repl":"\\1建筑泡沫", 
+		"priority":1000
 	}
 ]
