@@ -10507,7 +10507,7 @@ languagefile {
     S:oredict.arrowGtPlasticGlass.name=轻质玻璃箭
     S:oredict.arrowGtPlasticGneiss.name=轻质片麻岩箭
     S:oredict.arrowGtPlasticGold.name=轻质金箭
-    S:oredict.arrowGtPlasticGoshenite.name=Light Goshenite Arrow
+    S:oredict.arrowGtPlasticGoshenite.name=轻质透绿柱石箭
     S:oredict.arrowGtPlasticGraniteBlack.name=轻质黑色花岗岩箭
     S:oredict.arrowGtPlasticGraniteRed.name=轻质红色花岗岩箭
     S:oredict.arrowGtPlasticGraniteblack.name=轻质黑色花岗岩箭
@@ -10588,7 +10588,7 @@ languagefile {
     S:oredict.arrowGtPlasticPlutonium243.name=轻质钚-243箭
     S:oredict.arrowGtPlasticPrometheum.name=轻质秘银箭
     S:oredict.arrowGtPlasticPulsatingIron.name=轻质脉冲铁箭
-    S:oredict.arrowGtPlasticPurpleSapphire.name=Light Purple Sapphire Arrow
+    S:oredict.arrowGtPlasticPurpleSapphire.name=轻质紫蓝宝石箭
     S:oredict.arrowGtPlasticPyrope.name=轻质镁铝榴石箭
     S:oredict.arrowGtPlasticQuartzBlack.name=轻质黑色石英岩箭
     S:oredict.arrowGtPlasticQuartzite.name=轻质石英岩箭
@@ -11280,7 +11280,7 @@ languagefile {
     S:oredict.blockDustGneiss.name=片麻岩粉块
     S:oredict.blockDustGold.name=金粉块
     S:oredict.blockDustGoldInductive.name=感应合金粉块
-    S:oredict.blockDustGoshenite.name=Block of Goshenite Dust
+    S:oredict.blockDustGoshenite.name=透绿柱石粉块
     S:oredict.blockDustGraniteBlack.name=黑色花岗岩粉块
     S:oredict.blockDustGraniteRed.name=红色花岗岩粉块
     S:oredict.blockDustGraniteblack.name=黑色花岗岩粉块
@@ -11481,7 +11481,7 @@ languagefile {
     S:oredict.blockDustPumice.name=浮石粉块
     S:oredict.blockDustPurple.name=紫色染料块
     S:oredict.blockDustPurpleAlloy.name=紫色合金粉块
-    S:oredict.blockDustPurpleSapphire.name=Block of Purple Sapphire Dust
+    S:oredict.blockDustPurpleSapphire.name=紫蓝宝石粉块
     S:oredict.blockDustPyrite.name=黄铁矿粉块
     S:oredict.blockDustPyrolusite.name=软锰矿粉块
     S:oredict.blockDustPyrope.name=镁铝榴石粉块
@@ -11719,7 +11719,7 @@ languagefile {
     S:oredict.blockGemForcicium.name=力场块
     S:oredict.blockGemForcillium.name=力场块
     S:oredict.blockGemGlass.name=玻璃水晶块
-    S:oredict.blockGemGoshenite.name=Block of Goshenite
+    S:oredict.blockGemGoshenite.name=透绿柱石块
     S:oredict.blockGemGreenSapphire.name=绿色蓝宝石块
     S:oredict.blockGemGrossular.name=钙铝榴石块
     S:oredict.blockGemHeliodor.name=Block of Heliodor
@@ -11754,7 +11754,7 @@ languagefile {
     S:oredict.blockGemPhosphorus.name=磷块
     S:oredict.blockGemPotassium.name=钾块
     S:oredict.blockGemPrismane.name=棱柱烷块
-    S:oredict.blockGemPurpleSapphire.name=Block of Purple Sapphire
+    S:oredict.blockGemPurpleSapphire.name=紫蓝宝石块
     S:oredict.blockGemPyrope.name=镁铝榴石块
     S:oredict.blockGemQuartzBlack.name=黑色石英岩块
     S:oredict.blockGemQuartzite.name=石英岩块
@@ -13361,7 +13361,7 @@ languagefile {
     S:oredict.boltGneiss.name=片麻岩螺栓
     S:oredict.boltGold.name=金螺栓
     S:oredict.boltGoldInductive.name=感应合金螺栓
-    S:oredict.boltGoshenite.name=Goshenite Bolt
+    S:oredict.boltGoshenite.name=透绿柱石螺栓
     S:oredict.boltGraniteBlack.name=黑色花岗岩螺栓
     S:oredict.boltGraniteRed.name=红色花岗岩螺栓
     S:oredict.boltGraniteblack.name=黑色花岗岩螺栓
@@ -13489,7 +13489,7 @@ languagefile {
     S:oredict.boltProtactinium.name=镤螺栓
     S:oredict.boltPulsatingIron.name=脉冲铁螺栓
     S:oredict.boltPurpleAlloy.name=紫色合金螺栓
-    S:oredict.boltPurpleSapphire.name=Purple Sapphire Bolt
+    S:oredict.boltPurpleSapphire.name=紫蓝宝石螺栓
     S:oredict.boltPyrope.name=镁铝榴石螺栓
     S:oredict.boltQuartzBlack.name=黑色石英岩螺栓
     S:oredict.boltQuartzite.name=石英岩螺栓
@@ -14341,7 +14341,7 @@ languagefile {
     S:oredict.casingSmallGneiss.name=片麻岩外壳
     S:oredict.casingSmallGold.name=金外壳
     S:oredict.casingSmallGoldInductive.name=感应合金外壳
-    S:oredict.casingSmallGoshenite.name=Goshenite Item Casing
+    S:oredict.casingSmallGoshenite.name=透绿柱石外壳
     S:oredict.casingSmallGraniteBlack.name=黑色花岗岩外壳
     S:oredict.casingSmallGraniteRed.name=红色花岗岩外壳
     S:oredict.casingSmallGraniteblack.name=黑色花岗岩外壳
@@ -14426,7 +14426,7 @@ languagefile {
     S:oredict.casingSmallPlutonium243.name=钚-243外壳
     S:oredict.casingSmallPrometheum.name=秘银外壳
     S:oredict.casingSmallPulsatingIron.name=脉冲铁外壳
-    S:oredict.casingSmallPurpleSapphire.name=Purple Sapphire Item Casing
+    S:oredict.casingSmallPurpleSapphire.name=紫蓝宝石外壳
     S:oredict.casingSmallPyrope.name=镁铝榴石外壳
     S:oredict.casingSmallQuartzBlack.name=黑色石英岩外壳
     S:oredict.casingSmallQuartzite.name=石英岩外壳
@@ -15452,7 +15452,7 @@ languagefile {
     S:oredict.chemtubeGneiss.name=片麻岩试管
     S:oredict.chemtubeGold.name=金试管
     S:oredict.chemtubeGoldInductive.name=感应合金试管
-    S:oredict.chemtubeGoshenite.name=Glass Tube containing Goshenite
+    S:oredict.chemtubeGoshenite.name=透绿柱石试管
     S:oredict.chemtubeGraniteBlack.name=黑色花岗岩试管
     S:oredict.chemtubeGraniteRed.name=红色花岗岩试管
     S:oredict.chemtubeGraniteblack.name=黑色花岗岩试管
@@ -15695,7 +15695,7 @@ languagefile {
     S:oredict.chemtubePumice.name=浮石试管
     S:oredict.chemtubePurple.name=紫色试管
     S:oredict.chemtubePurpleAlloy.name=紫色合金试管
-    S:oredict.chemtubePurpleSapphire.name=Glass Tube containing Purple Sapphire
+    S:oredict.chemtubePurpleSapphire.name=紫蓝宝石试管
     S:oredict.chemtubePyrite.name=黄铁矿试管
     S:oredict.chemtubePyrolusite.name=软锰矿试管
     S:oredict.chemtubePyrope.name=镁铝榴石试管
@@ -18739,7 +18739,7 @@ languagefile {
     S:oredict.crushedCentrifugedGlowstonePluto.name=离心冥王星萤石矿石
     S:oredict.crushedCentrifugedGlowstoneProteus.name=离心海卫八萤石矿石
     S:oredict.crushedCentrifugedGold.name=离心金矿石
-    S:oredict.crushedCentrifugedGoshenite.name=Refined Goshenite Ore
+    S:oredict.crushedCentrifugedGoshenite.name=离心透绿柱石矿石
     S:oredict.crushedCentrifugedGraniticMineralSand.name=离心花岗岩类矿砂
     S:oredict.crushedCentrifugedGraphene.name=离心石墨烯矿石
     S:oredict.crushedCentrifugedGraphite.name=离心石墨矿石
@@ -18856,7 +18856,7 @@ languagefile {
     S:oredict.crushedCentrifugedPromethium.name=离心钷矿石
     S:oredict.crushedCentrifugedProtactinium.name=离心镤矿石
     S:oredict.crushedCentrifugedPumice.name=离心浮石矿石
-    S:oredict.crushedCentrifugedPurpleSapphire.name=Refined Purple Sapphire Ore
+    S:oredict.crushedCentrifugedPurpleSapphire.name=离心紫蓝宝石矿石
     S:oredict.crushedCentrifugedPyrite.name=离心黄铁矿矿石
     S:oredict.crushedCentrifugedPyrolusite.name=离心软锰矿矿石
     S:oredict.crushedCentrifugedPyrope.name=离心镁铝榴石矿石
@@ -19549,7 +19549,7 @@ languagefile {
     S:oredict.crushedGlowstonePluto.name=粉碎冥王星萤石矿石
     S:oredict.crushedGlowstoneProteus.name=粉碎海卫八萤石矿石
     S:oredict.crushedGold.name=粉碎金矿石
-    S:oredict.crushedGoshenite.name=Crushed Goshenite Ore
+    S:oredict.crushedGoshenite.name=粉碎透绿柱石矿石
     S:oredict.crushedGraniticMineralSand.name=粉碎花岗岩类矿砂
     S:oredict.crushedGraphene.name=粉碎石墨烯矿石
     S:oredict.crushedGraphite.name=粉碎石墨矿石
@@ -20664,7 +20664,7 @@ languagefile {
     S:oredict.crushedPurifiedZeolite.name=纯净粉碎沸石矿
     S:oredict.crushedPurifiedZinc.name=纯净粉碎锌矿
     S:oredict.crushedPurifiedZirconium.name=纯净粉碎锆矿
-    S:oredict.crushedPurpleSapphire.name=Crushed Purple Sapphire Ore
+    S:oredict.crushedPurpleSapphire.name=粉碎紫蓝宝石矿石
     S:oredict.crushedPyrite.name=粉碎黄铁矿矿石
     S:oredict.crushedPyrolusite.name=粉碎软锰矿矿石
     S:oredict.crushedPyrope.name=粉碎镁铝榴石矿石
@@ -21002,7 +21002,7 @@ languagefile {
     S:oredict.crushedTinyGlowstonePluto.name=小撮粉碎冥王星萤石矿石
     S:oredict.crushedTinyGlowstoneProteus.name=小撮粉碎海卫八萤石矿石
     S:oredict.crushedTinyGold.name=小撮粉碎金矿石
-    S:oredict.crushedTinyGoshenite.name=Tiny Crushed Goshenite Ore
+    S:oredict.crushedTinyGoshenite.name=小撮粉碎透绿柱石矿石
     S:oredict.crushedTinyGraniticMineralSand.name=小撮粉碎花岗岩类矿砂
     S:oredict.crushedTinyGraphene.name=小撮粉碎石墨烯矿石
     S:oredict.crushedTinyGraphite.name=小撮粉碎石墨矿石
@@ -21119,7 +21119,7 @@ languagefile {
     S:oredict.crushedTinyPromethium.name=小撮粉碎钷矿石
     S:oredict.crushedTinyProtactinium.name=小撮粉碎镤矿石
     S:oredict.crushedTinyPumice.name=小撮粉碎浮石矿石
-    S:oredict.crushedTinyPurpleSapphire.name=Tiny Crushed Purple Sapphire Ore
+    S:oredict.crushedTinyPurpleSapphire.name=小撮粉碎紫蓝宝石矿石
     S:oredict.crushedTinyPyrite.name=小撮粉碎黄铁矿矿石
     S:oredict.crushedTinyPyrolusite.name=小撮粉碎软锰矿矿石
     S:oredict.crushedTinyPyrope.name=小撮粉碎镁铝榴石矿石
@@ -21942,7 +21942,7 @@ languagefile {
     S:oredict.dustDiv72Gneiss.name=1/72份片麻岩粉
     S:oredict.dustDiv72Gold.name=1/72份金粉
     S:oredict.dustDiv72GoldInductive.name=1/72份感应合金粉
-    S:oredict.dustDiv72Goshenite.name=1/72nd of a Pile of Goshenite Dust
+    S:oredict.dustDiv72Goshenite.name=1/72份透绿柱石粉
     S:oredict.dustDiv72GraniteBlack.name=1/72份黑色花岗岩粉
     S:oredict.dustDiv72GraniteRed.name=1/72份红色花岗岩粉
     S:oredict.dustDiv72GraniticMineralSand.name=1/72份花岗岩类矿砂
@@ -22136,7 +22136,7 @@ languagefile {
     S:oredict.dustDiv72Pumice.name=1/72份浮石粉
     S:oredict.dustDiv72Purple.name=1/72份紫色染料
     S:oredict.dustDiv72PurpleAlloy.name=1/72份紫色合金粉
-    S:oredict.dustDiv72PurpleSapphire.name=1/72nd of a Pile of Purple Sapphire Dust
+    S:oredict.dustDiv72PurpleSapphire.name=1/72份紫蓝宝石粉
     S:oredict.dustDiv72Pyrite.name=1/72份黄铁矿粉
     S:oredict.dustDiv72Pyrolusite.name=1/72份软锰矿粉
     S:oredict.dustDiv72Pyrope.name=1/72份镁铝榴石粉
@@ -22399,7 +22399,7 @@ languagefile {
     S:oredict.dustGneiss.name=片麻岩粉
     S:oredict.dustGold.name=金粉
     S:oredict.dustGoldInductive.name=感应合金粉
-    S:oredict.dustGoshenite.name=Goshenite Dust
+    S:oredict.dustGoshenite.name=透绿柱石粉
     S:oredict.dustGraniteBlack.name=黑色花岗岩粉
     S:oredict.dustGraniteRed.name=红色花岗岩粉
     S:oredict.dustGraniteblack.name=黑色花岗岩粉
@@ -22722,7 +22722,7 @@ languagefile {
     S:oredict.dustImpureGlowstoneProteus.name=含杂海卫八萤石粉
     S:oredict.dustImpureGneiss.name=含杂片麻岩粉
     S:oredict.dustImpureGold.name=含杂金粉
-    S:oredict.dustImpureGoshenite.name=Impure Pile of Goshenite Dust
+    S:oredict.dustImpureGoshenite.name=含杂透绿柱石粉
     S:oredict.dustImpureGraniteBlack.name=含杂黑色花岗岩粉
     S:oredict.dustImpureGraniteRed.name=含杂红色花岗岩粉
     S:oredict.dustImpureGraniteblack.name=含杂黑色花岗岩粉
@@ -22851,7 +22851,7 @@ languagefile {
     S:oredict.dustImpurePromethium.name=含杂钷粉
     S:oredict.dustImpureProtactinium.name=含杂镤粉
     S:oredict.dustImpurePumice.name=含杂浮石粉
-    S:oredict.dustImpurePurpleSapphire.name=Impure Pile of Purple Sapphire Dust
+    S:oredict.dustImpurePurpleSapphire.name=含杂紫蓝宝石粉
     S:oredict.dustImpurePyrite.name=含杂黄铁矿粉
     S:oredict.dustImpurePyrolusite.name=含杂软锰矿粉
     S:oredict.dustImpurePyrope.name=含杂镁铝榴石粉
@@ -23417,7 +23417,7 @@ languagefile {
     S:oredict.dustPureGlowstoneProteus.name=纯净海卫八萤石粉
     S:oredict.dustPureGneiss.name=纯净片麻岩粉
     S:oredict.dustPureGold.name=纯净金粉
-    S:oredict.dustPureGoshenite.name=Purified Pile of Goshenite Dust
+    S:oredict.dustPureGoshenite.name=纯净透绿柱石粉
     S:oredict.dustPureGraniteBlack.name=纯净黑色花岗岩粉
     S:oredict.dustPureGraniteRed.name=纯净红色花岗岩粉
     S:oredict.dustPureGraniteblack.name=纯净黑色花岗岩粉
@@ -23546,7 +23546,7 @@ languagefile {
     S:oredict.dustPurePromethium.name=纯净钷粉
     S:oredict.dustPureProtactinium.name=纯净镤粉
     S:oredict.dustPurePumice.name=纯净浮石粉
-    S:oredict.dustPurePurpleSapphire.name=Purified Pile of Purple Sapphire Dust
+    S:oredict.dustPurePurpleSapphire.name=纯净紫蓝宝石粉
     S:oredict.dustPurePyrite.name=纯净黄铁矿粉
     S:oredict.dustPurePyrolusite.name=纯净软锰矿粉
     S:oredict.dustPurePyrope.name=纯净镁铝榴石粉
@@ -23662,7 +23662,7 @@ languagefile {
     S:oredict.dustPureZirconium.name=纯净锆粉
     S:oredict.dustPurple.name=紫色染料粉
     S:oredict.dustPurpleAlloy.name=紫色合金粉
-    S:oredict.dustPurpleSapphire.name=Purple Sapphire Dust
+    S:oredict.dustPurpleSapphire.name=紫蓝宝石粉
     S:oredict.dustPyrite.name=黄铁矿粉
     S:oredict.dustPyrolusite.name=软锰矿粉
     S:oredict.dustPyrope.name=镁铝榴石粉
@@ -24088,7 +24088,7 @@ languagefile {
     S:oredict.dustSmallGneiss.name=小堆片麻岩粉
     S:oredict.dustSmallGold.name=小堆金粉
     S:oredict.dustSmallGoldInductive.name=小堆感应合金粉
-    S:oredict.dustSmallGoshenite.name=Small Pile of Goshenite Dust
+    S:oredict.dustSmallGoshenite.name=小堆透绿柱石粉
     S:oredict.dustSmallGraniteBlack.name=小堆黑色花岗岩粉
     S:oredict.dustSmallGraniteRed.name=小堆红色花岗岩粉
     S:oredict.dustSmallGraniteblack.name=小堆黑色花岗岩粉
@@ -24288,7 +24288,7 @@ languagefile {
     S:oredict.dustSmallPumice.name=小堆浮石粉
     S:oredict.dustSmallPurple.name=小堆紫色染料
     S:oredict.dustSmallPurpleAlloy.name=小堆紫色合金粉
-    S:oredict.dustSmallPurpleSapphire.name=Small Pile of Purple Sapphire Dust
+    S:oredict.dustSmallPurpleSapphire.name=小堆紫蓝宝石粉
     S:oredict.dustSmallPyrite.name=小堆黄铁矿粉
     S:oredict.dustSmallPyrolusite.name=小堆软锰矿粉
     S:oredict.dustSmallPyrope.name=小堆镁铝榴石粉
@@ -24905,7 +24905,7 @@ languagefile {
     S:oredict.dustTinyGneiss.name=小撮片麻岩粉
     S:oredict.dustTinyGold.name=小撮金粉
     S:oredict.dustTinyGoldInductive.name=小撮感应合金粉
-    S:oredict.dustTinyGoshenite.name=Tiny Pile of Goshenite Dust
+    S:oredict.dustTinyGoshenite.name=小撮透绿柱石粉
     S:oredict.dustTinyGraniteBlack.name=小撮黑色花岗岩粉
     S:oredict.dustTinyGraniteRed.name=小撮红色花岗岩粉
     S:oredict.dustTinyGraniteblack.name=小撮黑色花岗岩粉
@@ -25105,7 +25105,7 @@ languagefile {
     S:oredict.dustTinyPumice.name=小撮浮石粉
     S:oredict.dustTinyPurple.name=小撮紫色染料
     S:oredict.dustTinyPurpleAlloy.name=小撮紫色合金粉
-    S:oredict.dustTinyPurpleSapphire.name=Tiny Pile of Purple Sapphire Dust
+    S:oredict.dustTinyPurpleSapphire.name=小撮紫蓝宝石粉
     S:oredict.dustTinyPyrite.name=小撮黄铁矿粉
     S:oredict.dustTinyPyrolusite.name=小撮软锰矿粉
     S:oredict.dustTinyPyrope.name=小撮镁铝榴石粉
@@ -25861,7 +25861,7 @@ languagefile {
     S:oredict.gearGtGneiss.name=片麻岩齿轮
     S:oredict.gearGtGold.name=金齿轮
     S:oredict.gearGtGoldInductive.name=感应合金齿轮
-    S:oredict.gearGtGoshenite.name=Goshenite Gear
+    S:oredict.gearGtGoshenite.name=透绿柱石齿轮
     S:oredict.gearGtGraniteBlack.name=黑色花岗岩齿轮
     S:oredict.gearGtGraniteRed.name=红色花岗岩齿轮
     S:oredict.gearGtGraniteblack.name=黑色花岗岩齿轮
@@ -25946,7 +25946,7 @@ languagefile {
     S:oredict.gearGtPlutonium243.name=钚-243齿轮
     S:oredict.gearGtPrometheum.name=秘银齿轮
     S:oredict.gearGtPulsatingIron.name=脉冲铁齿轮
-    S:oredict.gearGtPurpleSapphire.name=Purple Sapphire Gear
+    S:oredict.gearGtPurpleSapphire.name=紫蓝宝石齿轮
     S:oredict.gearGtPyrope.name=镁铝榴石齿轮
     S:oredict.gearGtQuartzBlack.name=黑色石英岩齿轮
     S:oredict.gearGtQuartzite.name=石英岩齿轮
@@ -26076,7 +26076,7 @@ languagefile {
     S:oredict.gearGtSmallGneiss.name=小型片麻岩齿轮
     S:oredict.gearGtSmallGold.name=小型金齿轮
     S:oredict.gearGtSmallGoldInductive.name=小型感应合金齿轮
-    S:oredict.gearGtSmallGoshenite.name=Small Goshenite Gear
+    S:oredict.gearGtSmallGoshenite.name=小型透绿柱石齿轮
     S:oredict.gearGtSmallGraniteBlack.name=小型黑色花岗岩齿轮
     S:oredict.gearGtSmallGraniteRed.name=小型红色花岗岩齿轮
     S:oredict.gearGtSmallGraniteblack.name=小型黑色花岗岩齿轮
@@ -26161,7 +26161,7 @@ languagefile {
     S:oredict.gearGtSmallPlutonium243.name=小型钚-243齿轮
     S:oredict.gearGtSmallPrometheum.name=小型秘银齿轮
     S:oredict.gearGtSmallPulsatingIron.name=小型脉冲铁齿轮
-    S:oredict.gearGtSmallPurpleSapphire.name=Small Purple Sapphire Gear
+    S:oredict.gearGtSmallPurpleSapphire.name=小型紫蓝宝石齿轮
     S:oredict.gearGtSmallPyrope.name=小型镁铝榴石齿轮
     S:oredict.gearGtSmallQuartzBlack.name=小型黑色石英岩齿轮
     S:oredict.gearGtSmallQuartzite.name=小型石英岩齿轮
@@ -38282,7 +38282,7 @@ languagefile {
     S:oredict.plantGtBerryGneiss.name=片麻岩梅
     S:oredict.plantGtBerryGold.name=金梅
     S:oredict.plantGtBerryGoldInductive.name=感应合金梅
-    S:oredict.plantGtBerryGoshenite.name=Goshenite Berry
+    S:oredict.plantGtBerryGoshenite.name=透绿柱石梅
     S:oredict.plantGtBerryGraniteBlack.name=黑色花岗岩梅
     S:oredict.plantGtBerryGraniteRed.name=红色花岗岩梅
     S:oredict.plantGtBerryGraniteblack.name=黑色花岗岩梅
@@ -38512,7 +38512,7 @@ languagefile {
     S:oredict.plantGtBerryPumice.name=浮石梅
     S:oredict.plantGtBerryPurple.name=紫色梅
     S:oredict.plantGtBerryPurpleAlloy.name=紫色合金梅
-    S:oredict.plantGtBerryPurpleSapphire.name=Purple Sapphire Berry
+    S:oredict.plantGtBerryPurpleSapphire.name=紫蓝宝石梅
     S:oredict.plantGtBerryPyrite.name=黄铁矿梅
     S:oredict.plantGtBerryPyrolusite.name=软锰矿梅
     S:oredict.plantGtBerryPyrope.name=镁铝榴石梅
@@ -39114,7 +39114,7 @@ languagefile {
     S:oredict.plantGtBlossomGneiss.name=片麻岩花
     S:oredict.plantGtBlossomGold.name=Aurelia Leaf
     S:oredict.plantGtBlossomGoldInductive.name=感应合金花
-    S:oredict.plantGtBlossomGoshenite.name=Goshenite Blossom
+    S:oredict.plantGtBlossomGoshenite.name=透绿柱石花
     S:oredict.plantGtBlossomGraniteBlack.name=黑色花岗岩花
     S:oredict.plantGtBlossomGraniteRed.name=红色花岗岩花
     S:oredict.plantGtBlossomGraniteblack.name=黑色花岗岩花
@@ -39343,7 +39343,7 @@ languagefile {
     S:oredict.plantGtBlossomPumice.name=浮石花
     S:oredict.plantGtBlossomPurple.name=紫色花
     S:oredict.plantGtBlossomPurpleAlloy.name=紫色合金花
-    S:oredict.plantGtBlossomPurpleSapphire.name=Purple Sapphire Blossom
+    S:oredict.plantGtBlossomPurpleSapphire.name=紫蓝宝石花
     S:oredict.plantGtBlossomPyrite.name=黄铁矿花
     S:oredict.plantGtBlossomPyrolusite.name=软锰矿花
     S:oredict.plantGtBlossomPyrope.name=镁铝榴石花
@@ -39945,7 +39945,7 @@ languagefile {
     S:oredict.plantGtFiberGneiss.name=粗糙的片麻岩纤维
     S:oredict.plantGtFiberGold.name=粗糙的金纤维
     S:oredict.plantGtFiberGoldInductive.name=粗糙的感应合金纤维
-    S:oredict.plantGtFiberGoshenite.name=Raw Goshenite Fiber
+    S:oredict.plantGtFiberGoshenite.name=粗糙的透绿柱石纤维
     S:oredict.plantGtFiberGraniteBlack.name=粗糙的黑色花岗岩纤维
     S:oredict.plantGtFiberGraniteRed.name=粗糙的红色花岗岩纤维
     S:oredict.plantGtFiberGraniteblack.name=粗糙的黑色花岗岩纤维
@@ -40174,7 +40174,7 @@ languagefile {
     S:oredict.plantGtFiberPumice.name=粗糙的浮石纤维
     S:oredict.plantGtFiberPurple.name=紫色纤维
     S:oredict.plantGtFiberPurpleAlloy.name=粗糙的紫色合金纤维
-    S:oredict.plantGtFiberPurpleSapphire.name=Raw Purple Sapphire Fiber
+    S:oredict.plantGtFiberPurpleSapphire.name=粗糙的紫蓝宝石纤维
     S:oredict.plantGtFiberPyrite.name=粗糙的黄铁矿纤维
     S:oredict.plantGtFiberPyrolusite.name=粗糙的软锰矿纤维
     S:oredict.plantGtFiberPyrope.name=粗糙的镁铝榴石纤维
@@ -40776,7 +40776,7 @@ languagefile {
     S:oredict.plantGtTwigGneiss.name=片麻岩细枝
     S:oredict.plantGtTwigGold.name=金细枝
     S:oredict.plantGtTwigGoldInductive.name=感应合金细枝
-    S:oredict.plantGtTwigGoshenite.name=Goshenite Twig
+    S:oredict.plantGtTwigGoshenite.name=透绿柱石细枝
     S:oredict.plantGtTwigGraniteBlack.name=黑色花岗岩细枝
     S:oredict.plantGtTwigGraniteRed.name=红色花岗岩细枝
     S:oredict.plantGtTwigGraniteblack.name=黑色花岗岩细枝
@@ -41005,7 +41005,7 @@ languagefile {
     S:oredict.plantGtTwigPumice.name=浮石细枝
     S:oredict.plantGtTwigPurple.name=紫色细枝
     S:oredict.plantGtTwigPurpleAlloy.name=紫色合金细枝
-    S:oredict.plantGtTwigPurpleSapphire.name=Purple Sapphire Twig
+    S:oredict.plantGtTwigPurpleSapphire.name=紫蓝宝石细枝
     S:oredict.plantGtTwigPyrite.name=黄铁矿细枝
     S:oredict.plantGtTwigPyrolusite.name=软锰矿细枝
     S:oredict.plantGtTwigPyrope.name=镁铝榴石细枝
@@ -41610,7 +41610,7 @@ languagefile {
     S:oredict.plantGtWartGneiss.name=片麻岩疣
     S:oredict.plantGtWartGold.name=金疣
     S:oredict.plantGtWartGoldInductive.name=感应合金疣
-    S:oredict.plantGtWartGoshenite.name=Goshenite Wart
+    S:oredict.plantGtWartGoshenite.name=透绿柱石疣
     S:oredict.plantGtWartGraniteBlack.name=黑色花岗岩疣
     S:oredict.plantGtWartGraniteRed.name=红色花岗岩疣
     S:oredict.plantGtWartGraniteblack.name=黑色花岗岩疣
@@ -41839,7 +41839,7 @@ languagefile {
     S:oredict.plantGtWartPumice.name=浮石疣
     S:oredict.plantGtWartPurple.name=紫色疣
     S:oredict.plantGtWartPurpleAlloy.name=紫色合金疣
-    S:oredict.plantGtWartPurpleSapphire.name=Purple Sapphire Wart
+    S:oredict.plantGtWartPurpleSapphire.name=紫蓝宝石疣
     S:oredict.plantGtWartPyrite.name=黄铁矿疣
     S:oredict.plantGtWartPyrolusite.name=软锰矿疣
     S:oredict.plantGtWartPyrope.name=镁铝榴石疣
@@ -45522,7 +45522,7 @@ languagefile {
     S:oredict.ringGneiss.name=片麻岩环
     S:oredict.ringGold.name=金环
     S:oredict.ringGoldInductive.name=感应合金环
-    S:oredict.ringGoshenite.name=Goshenite Ring
+    S:oredict.ringGoshenite.name=透绿柱石环
     S:oredict.ringGraniteBlack.name=黑色花岗岩环
     S:oredict.ringGraniteRed.name=红色花岗岩环
     S:oredict.ringGraniteblack.name=黑色花岗岩环
@@ -45606,7 +45606,7 @@ languagefile {
     S:oredict.ringPlutonium243.name=钚-243环
     S:oredict.ringPrometheum.name=秘银环
     S:oredict.ringPulsatingIron.name=脉冲铁环
-    S:oredict.ringPurpleSapphire.name=Purple Sapphire Ring
+    S:oredict.ringPurpleSapphire.name=紫蓝宝石环
     S:oredict.ringPyrope.name=镁铝榴石环
     S:oredict.ringQuartzBlack.name=黑色石英岩环
     S:oredict.ringQuartzite.name=石英岩环
@@ -45967,7 +45967,7 @@ languagefile {
     S:oredict.rockGtGlowstoneProteus.name=含海卫八萤石岩石
     S:oredict.rockGtGneiss.name=Gneiss Rock
     S:oredict.rockGtGold.name=含金岩石
-    S:oredict.rockGtGoshenite.name=Goshenite bearing Rock
+    S:oredict.rockGtGoshenite.name=含透绿柱石岩石
     S:oredict.rockGtGraniteBlack.name=Black Granite Rock
     S:oredict.rockGtGraniteRed.name=Red Granite Rock
     S:oredict.rockGtGraniticMineralSand.name=含花岗岩类矿砂岩石
@@ -46096,7 +46096,7 @@ languagefile {
     S:oredict.rockGtPromethium.name=含钷岩石
     S:oredict.rockGtProtactinium.name=含镤岩石
     S:oredict.rockGtPumice.name=含浮石岩石
-    S:oredict.rockGtPurpleSapphire.name=Purple Sapphire bearing Rock
+    S:oredict.rockGtPurpleSapphire.name=含紫蓝宝石岩石
     S:oredict.rockGtPyrite.name=含黄铁矿岩石
     S:oredict.rockGtPyrolusite.name=含软锰矿岩石
     S:oredict.rockGtPyrope.name=含镁铝榴石岩石
@@ -46315,7 +46315,7 @@ languagefile {
     S:oredict.rotorGneiss.name=片麻岩转子
     S:oredict.rotorGold.name=金转子
     S:oredict.rotorGoldInductive.name=感应合金转子
-    S:oredict.rotorGoshenite.name=Goshenite Rotor
+    S:oredict.rotorGoshenite.name=透绿柱石转子
     S:oredict.rotorGraniteBlack.name=黑色花岗岩转子
     S:oredict.rotorGraniteRed.name=红色花岗岩转子
     S:oredict.rotorGraniteblack.name=黑色花岗岩转子
@@ -46399,7 +46399,7 @@ languagefile {
     S:oredict.rotorPlutonium243.name=钚-243转子
     S:oredict.rotorPrometheum.name=秘银转子
     S:oredict.rotorPulsatingIron.name=脉冲铁转子
-    S:oredict.rotorPurpleSapphire.name=Purple Sapphire Rotor
+    S:oredict.rotorPurpleSapphire.name=紫蓝宝石转子
     S:oredict.rotorPyrope.name=镁铝榴石转子
     S:oredict.rotorQuartzBlack.name=黑色石英岩转子
     S:oredict.rotorQuartzite.name=石英岩转子
@@ -46584,7 +46584,7 @@ languagefile {
     S:oredict.roundGneiss.name=片麻岩垫片
     S:oredict.roundGold.name=金垫片
     S:oredict.roundGoldInductive.name=感应合金垫片
-    S:oredict.roundGoshenite.name=Goshenite Round
+    S:oredict.roundGoshenite.name=透绿柱石垫片
     S:oredict.roundGraniteBlack.name=黑色花岗岩垫片
     S:oredict.roundGraniteRed.name=红色花岗岩垫片
     S:oredict.roundGraniteblack.name=黑色花岗岩垫片
@@ -46669,7 +46669,7 @@ languagefile {
     S:oredict.roundPlutonium243.name=钚-243垫片
     S:oredict.roundPrometheum.name=秘银垫片
     S:oredict.roundPulsatingIron.name=脉冲铁垫片
-    S:oredict.roundPurpleSapphire.name=Purple Sapphire Round
+    S:oredict.roundPurpleSapphire.name=紫蓝宝石垫片
     S:oredict.roundPyrope.name=镁铝榴石垫片
     S:oredict.roundQuartzBlack.name=黑色石英岩垫片
     S:oredict.roundQuartzite.name=石英岩垫片
@@ -47122,7 +47122,7 @@ languagefile {
     S:oredict.scrapGtGneiss.name=片麻岩废料
     S:oredict.scrapGtGold.name=金废料
     S:oredict.scrapGtGoldInductive.name=感应合金废料
-    S:oredict.scrapGtGoshenite.name=Goshenite Scrap
+    S:oredict.scrapGtGoshenite.name=透绿柱石废料
     S:oredict.scrapGtGraniteBlack.name=黑色花岗岩废料
     S:oredict.scrapGtGraniteRed.name=红色花岗岩废料
     S:oredict.scrapGtGraniteblack.name=黑色花岗岩废料
@@ -47322,7 +47322,7 @@ languagefile {
     S:oredict.scrapGtPumice.name=浮石废料
     S:oredict.scrapGtPurple.name=紫色废料
     S:oredict.scrapGtPurpleAlloy.name=紫色合金废料
-    S:oredict.scrapGtPurpleSapphire.name=Purple Sapphire Scrap
+    S:oredict.scrapGtPurpleSapphire.name=紫蓝宝石废料
     S:oredict.scrapGtPyrite.name=黄铁矿废料
     S:oredict.scrapGtPyrolusite.name=软锰矿废料
     S:oredict.scrapGtPyrope.name=镁铝榴石废料
@@ -47773,7 +47773,7 @@ languagefile {
     S:oredict.screwGneiss.name=片麻岩螺丝
     S:oredict.screwGold.name=金螺丝
     S:oredict.screwGoldInductive.name=感应合金螺丝
-    S:oredict.screwGoshenite.name=Goshenite Screw
+    S:oredict.screwGoshenite.name=透绿柱石螺丝
     S:oredict.screwGraniteBlack.name=黑色花岗岩螺丝
     S:oredict.screwGraniteRed.name=红色花岗岩螺丝
     S:oredict.screwGraniteblack.name=黑色花岗岩螺丝
@@ -47901,7 +47901,7 @@ languagefile {
     S:oredict.screwProtactinium.name=镤螺丝
     S:oredict.screwPulsatingIron.name=脉冲铁螺丝
     S:oredict.screwPurpleAlloy.name=紫色合金螺丝
-    S:oredict.screwPurpleSapphire.name=Purple Sapphire Screw
+    S:oredict.screwPurpleSapphire.name=紫蓝宝石螺丝
     S:oredict.screwPyrope.name=镁铝榴石螺丝
     S:oredict.screwQuartzBlack.name=黑色石英岩螺丝
     S:oredict.screwQuartzite.name=石英岩螺丝
@@ -48661,7 +48661,7 @@ languagefile {
     S:oredict.stickGneiss.name=片麻岩杆
     S:oredict.stickGold.name=金杆
     S:oredict.stickGoldInductive.name=感应合金杆
-    S:oredict.stickGoshenite.name=Goshenite Rod
+    S:oredict.stickGoshenite.name=透绿柱石杆
     S:oredict.stickGraniteBlack.name=黑色花岗岩杆
     S:oredict.stickGraniteRed.name=红色花岗岩杆
     S:oredict.stickGraniteblack.name=黑色花岗岩杆
@@ -48977,7 +48977,7 @@ languagefile {
     S:oredict.stickLongGneiss.name=长片麻岩杆
     S:oredict.stickLongGold.name=长金杆
     S:oredict.stickLongGoldInductive.name=长感应合金杆
-    S:oredict.stickLongGoshenite.name=Long Goshenite Rod
+    S:oredict.stickLongGoshenite.name=长透绿柱石杆
     S:oredict.stickLongGraniteBlack.name=长黑色花岗岩杆
     S:oredict.stickLongGraniteRed.name=长红色花岗岩杆
     S:oredict.stickLongGraniteblack.name=长黑色花岗岩杆
@@ -49105,7 +49105,7 @@ languagefile {
     S:oredict.stickLongProtactinium.name=长镤杆
     S:oredict.stickLongPulsatingIron.name=长脉冲铁杆
     S:oredict.stickLongPurpleAlloy.name=长紫色合金杆
-    S:oredict.stickLongPurpleSapphire.name=Long Purple Sapphire Rod
+    S:oredict.stickLongPurpleSapphire.name=长紫蓝宝石杆
     S:oredict.stickLongPyrope.name=长镁铝榴石杆
     S:oredict.stickLongQuartzBlack.name=长黑色石英岩杆
     S:oredict.stickLongQuartzite.name=长石英岩杆
@@ -49289,7 +49289,7 @@ languagefile {
     S:oredict.stickProtactinium.name=镤杆
     S:oredict.stickPulsatingIron.name=脉冲铁杆
     S:oredict.stickPurpleAlloy.name=紫色合金杆
-    S:oredict.stickPurpleSapphire.name=Purple Sapphire Rod
+    S:oredict.stickPurpleSapphire.name=紫蓝宝石杆
     S:oredict.stickPyrope.name=镁铝榴石杆
     S:oredict.stickQuartzBlack.name=黑色石英岩杆
     S:oredict.stickQuartzite.name=石英岩杆
@@ -49493,7 +49493,7 @@ languagefile {
     S:oredict.toolHeadArrowGlass.name=玻璃箭头
     S:oredict.toolHeadArrowGneiss.name=片麻岩箭头
     S:oredict.toolHeadArrowGold.name=金箭头
-    S:oredict.toolHeadArrowGoshenite.name=Goshenite Arrow Head
+    S:oredict.toolHeadArrowGoshenite.name=透绿柱石箭头
     S:oredict.toolHeadArrowGraniteBlack.name=黑色花岗岩箭头
     S:oredict.toolHeadArrowGraniteRed.name=红色花岗岩箭头
     S:oredict.toolHeadArrowGraniteblack.name=黑色花岗岩箭头
@@ -49573,7 +49573,7 @@ languagefile {
     S:oredict.toolHeadArrowPlutonium243.name=钚-243箭头
     S:oredict.toolHeadArrowPrometheum.name=秘银箭头
     S:oredict.toolHeadArrowPulsatingIron.name=脉冲铁箭头
-    S:oredict.toolHeadArrowPurpleSapphire.name=Purple Sapphire Arrow Head
+    S:oredict.toolHeadArrowPurpleSapphire.name=紫蓝宝石箭头
     S:oredict.toolHeadArrowPyrope.name=镁铝榴石箭头
     S:oredict.toolHeadArrowQuartzBlack.name=黑色石英岩箭头
     S:oredict.toolHeadArrowQuartzite.name=石英岩箭头
@@ -49803,7 +49803,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleGildedIron.name=镀金铁双刃斧头
     S:oredict.toolHeadAxeDoubleGneiss.name=片麻岩双刃斧头
     S:oredict.toolHeadAxeDoubleGold.name=金双刃斧头
-    S:oredict.toolHeadAxeDoubleGoshenite.name=Goshenite Double Axe Head
+    S:oredict.toolHeadAxeDoubleGoshenite.name=透绿柱石双刃斧头
     S:oredict.toolHeadAxeDoubleGreenSapphire.name=绿色蓝宝石双刃斧头
     S:oredict.toolHeadAxeDoubleGreenschist.name=绿片岩双刃斧头
     S:oredict.toolHeadAxeDoubleGreywacke.name=杂砂岩双刃斧头
@@ -49874,7 +49874,7 @@ languagefile {
     S:oredict.toolHeadAxeDoublePlutonium243.name=钚-243双刃斧头
     S:oredict.toolHeadAxeDoublePrometheum.name=秘银双刃斧头
     S:oredict.toolHeadAxeDoublePulsatingIron.name=脉冲铁双刃斧头
-    S:oredict.toolHeadAxeDoublePurpleSapphire.name=Purple Sapphire Double Axe Head
+    S:oredict.toolHeadAxeDoublePurpleSapphire.name=紫蓝宝石双刃斧头
     S:oredict.toolHeadAxeDoublePyrope.name=镁铝榴石双刃斧头
     S:oredict.toolHeadAxeDoubleQuartzBlack.name=黑色石英岩双刃斧头
     S:oredict.toolHeadAxeDoubleQuartzite.name=石英岩双刃斧头
@@ -49961,7 +49961,7 @@ languagefile {
     S:oredict.toolHeadAxeGlass.name=玻璃斧头
     S:oredict.toolHeadAxeGneiss.name=片麻岩斧头
     S:oredict.toolHeadAxeGold.name=金斧头
-    S:oredict.toolHeadAxeGoshenite.name=Goshenite Axe Head
+    S:oredict.toolHeadAxeGoshenite.name=透绿柱石斧头
     S:oredict.toolHeadAxeGraniteBlack.name=黑色花岗岩斧头
     S:oredict.toolHeadAxeGraniteRed.name=红色花岗岩斧头
     S:oredict.toolHeadAxeGraniteblack.name=黑色花岗岩斧头
@@ -50041,7 +50041,7 @@ languagefile {
     S:oredict.toolHeadAxePlutonium243.name=钚-243斧头
     S:oredict.toolHeadAxePrometheum.name=秘银斧头
     S:oredict.toolHeadAxePulsatingIron.name=脉冲铁斧头
-    S:oredict.toolHeadAxePurpleSapphire.name=Purple Sapphire Axe Head
+    S:oredict.toolHeadAxePurpleSapphire.name=紫蓝宝石斧头
     S:oredict.toolHeadAxePyrope.name=镁铝榴石斧头
     S:oredict.toolHeadAxeQuartzBlack.name=黑色石英岩斧头
     S:oredict.toolHeadAxeQuartzite.name=石英岩斧头
@@ -51513,7 +51513,7 @@ languagefile {
     S:oredict.toolHeadHammerGildedIron.name=镀金铁锤头
     S:oredict.toolHeadHammerGneiss.name=片麻岩锤头
     S:oredict.toolHeadHammerGold.name=金锤头
-    S:oredict.toolHeadHammerGoshenite.name=Goshenite Hammer Head
+    S:oredict.toolHeadHammerGoshenite.name=透绿柱石锤头
     S:oredict.toolHeadHammerGraniteBlack.name=黑色花岗岩锤头
     S:oredict.toolHeadHammerGraniteRed.name=红色花岗岩锤头
     S:oredict.toolHeadHammerGraniteblack.name=黑色花岗岩锤头
@@ -51592,7 +51592,7 @@ languagefile {
     S:oredict.toolHeadHammerPlutonium243.name=钚-243锤头
     S:oredict.toolHeadHammerPrometheum.name=秘银锤头
     S:oredict.toolHeadHammerPulsatingIron.name=脉冲铁锤头
-    S:oredict.toolHeadHammerPurpleSapphire.name=Purple Sapphire Hammer Head
+    S:oredict.toolHeadHammerPurpleSapphire.name=紫蓝宝石锤头
     S:oredict.toolHeadHammerPyrope.name=镁铝榴石锤头
     S:oredict.toolHeadHammerQuartzBlack.name=黑色石英岩锤头
     S:oredict.toolHeadHammerQuartzite.name=石英岩锤头
@@ -51756,7 +51756,7 @@ languagefile {
     S:oredict.toolHeadHoeGlass.name=玻璃锄头
     S:oredict.toolHeadHoeGneiss.name=片麻岩锄头
     S:oredict.toolHeadHoeGold.name=金锄头
-    S:oredict.toolHeadHoeGoshenite.name=Goshenite Hoe Head
+    S:oredict.toolHeadHoeGoshenite.name=透绿柱石锄头
     S:oredict.toolHeadHoeGraniteBlack.name=黑色花岗岩锄头
     S:oredict.toolHeadHoeGraniteRed.name=红色花岗岩锄头
     S:oredict.toolHeadHoeGraniteblack.name=黑色花岗岩锄头
@@ -51836,7 +51836,7 @@ languagefile {
     S:oredict.toolHeadHoePlutonium243.name=钚-243锄头
     S:oredict.toolHeadHoePrometheum.name=秘银锄头
     S:oredict.toolHeadHoePulsatingIron.name=脉冲铁锄头
-    S:oredict.toolHeadHoePurpleSapphire.name=Purple Sapphire Hoe Head
+    S:oredict.toolHeadHoePurpleSapphire.name=紫蓝宝石锄头
     S:oredict.toolHeadHoePyrope.name=镁铝榴石锄头
     S:oredict.toolHeadHoeQuartzBlack.name=黑色石英岩锄头
     S:oredict.toolHeadHoeQuartzite.name=石英岩锄头
@@ -52016,7 +52016,7 @@ languagefile {
     S:oredict.toolHeadPickaxeGemEmerald.name=表镶绿宝石镐头
     S:oredict.toolHeadPickaxeGemEmpty.name=表镶空镐头
     S:oredict.toolHeadPickaxeGemEnori.name=表镶铁晶镐头
-    S:oredict.toolHeadPickaxeGemGoshenite.name=Goshenite tipped Pickaxe Head
+    S:oredict.toolHeadPickaxeGemGoshenite.name=表镶透绿柱石镐头
     S:oredict.toolHeadPickaxeGemGreenSapphire.name=表镶绿色蓝宝石镐头
     S:oredict.toolHeadPickaxeGemGrossular.name=表镶钙铝榴石镐头
     S:oredict.toolHeadPickaxeGemHeliodor.name=Heliodor tipped Pickaxe Head
@@ -52032,7 +52032,7 @@ languagefile {
     S:oredict.toolHeadPickaxeGemOpal.name=表镶猫眼石镐头
     S:oredict.toolHeadPickaxeGemOrangeSapphire.name=表镶橙色蓝宝石镐头
     S:oredict.toolHeadPickaxeGemPalis.name=表镶青金石水晶镐头
-    S:oredict.toolHeadPickaxeGemPurpleSapphire.name=Purple Sapphire tipped Pickaxe Head
+    S:oredict.toolHeadPickaxeGemPurpleSapphire.name=表镶紫蓝宝石镐头
     S:oredict.toolHeadPickaxeGemPyrope.name=表镶镁铝榴石镐头
     S:oredict.toolHeadPickaxeGemRedstonia.name=Redstonia tipped Pickaxe Head
     S:oredict.toolHeadPickaxeGemRuby.name=表镶红宝石镐头
@@ -52049,7 +52049,7 @@ languagefile {
     S:oredict.toolHeadPickaxeGlass.name=玻璃镐头
     S:oredict.toolHeadPickaxeGneiss.name=片麻岩镐头
     S:oredict.toolHeadPickaxeGold.name=金镐头
-    S:oredict.toolHeadPickaxeGoshenite.name=Goshenite Pickaxe Head
+    S:oredict.toolHeadPickaxeGoshenite.name=透绿柱石镐头
     S:oredict.toolHeadPickaxeGraniteBlack.name=黑色花岗岩镐头
     S:oredict.toolHeadPickaxeGraniteRed.name=红色花岗岩镐头
     S:oredict.toolHeadPickaxeGraniteblack.name=黑色花岗岩镐头
@@ -52129,7 +52129,7 @@ languagefile {
     S:oredict.toolHeadPickaxePlutonium243.name=钚-243镐头
     S:oredict.toolHeadPickaxePrometheum.name=秘银镐头
     S:oredict.toolHeadPickaxePulsatingIron.name=脉冲铁镐头
-    S:oredict.toolHeadPickaxePurpleSapphire.name=Purple Sapphire Pickaxe Head
+    S:oredict.toolHeadPickaxePurpleSapphire.name=紫蓝宝石镐头
     S:oredict.toolHeadPickaxePyrope.name=镁铝榴石镐头
     S:oredict.toolHeadPickaxeQuartzBlack.name=黑色石英岩镐头
     S:oredict.toolHeadPickaxeQuartzite.name=石英岩镐头
@@ -52295,7 +52295,7 @@ languagefile {
     S:oredict.toolHeadPlowGlass.name=玻璃犁头
     S:oredict.toolHeadPlowGneiss.name=片麻岩犁头
     S:oredict.toolHeadPlowGold.name=金犁头
-    S:oredict.toolHeadPlowGoshenite.name=Goshenite Plow Head
+    S:oredict.toolHeadPlowGoshenite.name=透绿柱石犁头
     S:oredict.toolHeadPlowGraniteBlack.name=黑色花岗岩犁头
     S:oredict.toolHeadPlowGraniteRed.name=红色花岗岩犁头
     S:oredict.toolHeadPlowGraniteblack.name=黑色花岗岩犁头
@@ -52375,7 +52375,7 @@ languagefile {
     S:oredict.toolHeadPlowPlutonium243.name=钚-243犁头
     S:oredict.toolHeadPlowPrometheum.name=秘银犁头
     S:oredict.toolHeadPlowPulsatingIron.name=脉冲铁犁头
-    S:oredict.toolHeadPlowPurpleSapphire.name=Purple Sapphire Plow Head
+    S:oredict.toolHeadPlowPurpleSapphire.name=紫蓝宝石犁头
     S:oredict.toolHeadPlowPyrope.name=镁铝榴石犁头
     S:oredict.toolHeadPlowQuartzBlack.name=黑色石英岩犁头
     S:oredict.toolHeadPlowQuartzite.name=石英岩犁头
@@ -52541,7 +52541,7 @@ languagefile {
     S:oredict.toolHeadRawArrowGlass.name=粗糙的玻璃箭头
     S:oredict.toolHeadRawArrowGneiss.name=粗糙的片麻岩箭头
     S:oredict.toolHeadRawArrowGold.name=粗糙的金箭头
-    S:oredict.toolHeadRawArrowGoshenite.name=Raw Goshenite Arrow Head
+    S:oredict.toolHeadRawArrowGoshenite.name=粗糙的透绿柱石箭头
     S:oredict.toolHeadRawArrowGraniteBlack.name=粗糙的黑色花岗岩箭头
     S:oredict.toolHeadRawArrowGraniteRed.name=粗糙的红色花岗岩箭头
     S:oredict.toolHeadRawArrowGraniteblack.name=粗糙的黑色花岗岩箭头
@@ -52621,7 +52621,7 @@ languagefile {
     S:oredict.toolHeadRawArrowPlutonium243.name=粗糙的钚-243箭头
     S:oredict.toolHeadRawArrowPrometheum.name=粗糙的秘银箭头
     S:oredict.toolHeadRawArrowPulsatingIron.name=粗糙的脉冲铁箭头
-    S:oredict.toolHeadRawArrowPurpleSapphire.name=Raw Purple Sapphire Arrow Head
+    S:oredict.toolHeadRawArrowPurpleSapphire.name=粗糙的紫蓝宝石箭头
     S:oredict.toolHeadRawArrowPyrope.name=粗糙的镁铝榴石箭头
     S:oredict.toolHeadRawArrowQuartzBlack.name=粗糙的黑色石英岩箭头
     S:oredict.toolHeadRawArrowQuartzite.name=粗糙的石英岩箭头
@@ -52851,7 +52851,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleGildedIron.name=粗糙的镀金铁双刃斧头
     S:oredict.toolHeadRawAxeDoubleGneiss.name=粗糙的片麻岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleGold.name=粗糙的金双刃斧头
-    S:oredict.toolHeadRawAxeDoubleGoshenite.name=Raw Goshenite Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleGoshenite.name=粗糙的透绿柱石双刃斧头
     S:oredict.toolHeadRawAxeDoubleGreenSapphire.name=粗糙的绿色蓝宝石双刃斧头
     S:oredict.toolHeadRawAxeDoubleGreenschist.name=粗糙的绿片岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleGreywacke.name=粗糙的杂砂岩双刃斧头
@@ -52922,7 +52922,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoublePlutonium243.name=粗糙的钚-243双刃斧头
     S:oredict.toolHeadRawAxeDoublePrometheum.name=粗糙的秘银双刃斧头
     S:oredict.toolHeadRawAxeDoublePulsatingIron.name=粗糙的脉冲铁双刃斧头
-    S:oredict.toolHeadRawAxeDoublePurpleSapphire.name=Raw Purple Sapphire Double Axe Head
+    S:oredict.toolHeadRawAxeDoublePurpleSapphire.name=粗糙的紫蓝宝石双刃斧头
     S:oredict.toolHeadRawAxeDoublePyrope.name=粗糙的镁铝榴石双刃斧头
     S:oredict.toolHeadRawAxeDoubleQuartzBlack.name=粗糙的黑色石英岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleQuartzite.name=粗糙的石英岩双刃斧头
@@ -53009,7 +53009,7 @@ languagefile {
     S:oredict.toolHeadRawAxeGlass.name=粗糙的玻璃斧头
     S:oredict.toolHeadRawAxeGneiss.name=粗糙的片麻岩斧头
     S:oredict.toolHeadRawAxeGold.name=粗糙的金斧头
-    S:oredict.toolHeadRawAxeGoshenite.name=Raw Goshenite Axe Head
+    S:oredict.toolHeadRawAxeGoshenite.name=粗糙的透绿柱石斧头
     S:oredict.toolHeadRawAxeGraniteBlack.name=粗糙的黑色花岗岩斧头
     S:oredict.toolHeadRawAxeGraniteRed.name=粗糙的红色花岗岩斧头
     S:oredict.toolHeadRawAxeGraniteblack.name=粗糙的黑色花岗岩斧头
@@ -53089,7 +53089,7 @@ languagefile {
     S:oredict.toolHeadRawAxePlutonium243.name=粗糙的钚-243斧头
     S:oredict.toolHeadRawAxePrometheum.name=粗糙的秘银斧头
     S:oredict.toolHeadRawAxePulsatingIron.name=粗糙的脉冲铁斧头
-    S:oredict.toolHeadRawAxePurpleSapphire.name=Raw Purple Sapphire Axe Head
+    S:oredict.toolHeadRawAxePurpleSapphire.name=粗糙的紫蓝宝石斧头
     S:oredict.toolHeadRawAxePyrope.name=粗糙的镁铝榴石斧头
     S:oredict.toolHeadRawAxeQuartzBlack.name=粗糙的黑色石英岩斧头
     S:oredict.toolHeadRawAxeQuartzite.name=粗糙的石英岩斧头
@@ -53473,7 +53473,7 @@ languagefile {
     S:oredict.toolHeadRawHoeGlass.name=粗糙的玻璃锄头
     S:oredict.toolHeadRawHoeGneiss.name=粗糙的片麻岩锄头
     S:oredict.toolHeadRawHoeGold.name=粗糙的金锄头
-    S:oredict.toolHeadRawHoeGoshenite.name=Raw Goshenite Hoe Head
+    S:oredict.toolHeadRawHoeGoshenite.name=粗糙的透绿柱石锄头
     S:oredict.toolHeadRawHoeGraniteBlack.name=粗糙的黑色花岗岩锄头
     S:oredict.toolHeadRawHoeGraniteRed.name=粗糙的红色花岗岩锄头
     S:oredict.toolHeadRawHoeGraniteblack.name=粗糙的黑色花岗岩锄头
@@ -53553,7 +53553,7 @@ languagefile {
     S:oredict.toolHeadRawHoePlutonium243.name=粗糙的钚-243锄头
     S:oredict.toolHeadRawHoePrometheum.name=粗糙的秘银锄头
     S:oredict.toolHeadRawHoePulsatingIron.name=粗糙的脉冲铁锄头
-    S:oredict.toolHeadRawHoePurpleSapphire.name=Raw Purple Sapphire Hoe Head
+    S:oredict.toolHeadRawHoePurpleSapphire.name=粗糙的紫蓝宝石锄头
     S:oredict.toolHeadRawHoePyrope.name=粗糙的镁铝榴石锄头
     S:oredict.toolHeadRawHoeQuartzBlack.name=粗糙的黑色石英岩锄头
     S:oredict.toolHeadRawHoeQuartzite.name=粗糙的石英岩锄头
@@ -53719,7 +53719,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeGlass.name=粗糙的玻璃镐头
     S:oredict.toolHeadRawPickaxeGneiss.name=粗糙的片麻岩镐头
     S:oredict.toolHeadRawPickaxeGold.name=粗糙的金镐头
-    S:oredict.toolHeadRawPickaxeGoshenite.name=Raw Goshenite Pickaxe Head
+    S:oredict.toolHeadRawPickaxeGoshenite.name=粗糙的透绿柱石镐头
     S:oredict.toolHeadRawPickaxeGraniteBlack.name=粗糙的黑色花岗岩镐头
     S:oredict.toolHeadRawPickaxeGraniteRed.name=粗糙的红色花岗岩镐头
     S:oredict.toolHeadRawPickaxeGraniteblack.name=粗糙的黑色花岗岩镐头
@@ -53799,7 +53799,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxePlutonium243.name=粗糙的钚-243镐头
     S:oredict.toolHeadRawPickaxePrometheum.name=粗糙的秘银镐头
     S:oredict.toolHeadRawPickaxePulsatingIron.name=粗糙的脉冲铁镐头
-    S:oredict.toolHeadRawPickaxePurpleSapphire.name=Raw Purple Sapphire Pickaxe Head
+    S:oredict.toolHeadRawPickaxePurpleSapphire.name=粗糙的紫蓝宝石镐头
     S:oredict.toolHeadRawPickaxePyrope.name=粗糙的镁铝榴石镐头
     S:oredict.toolHeadRawPickaxeQuartzBlack.name=粗糙的黑色石英岩镐头
     S:oredict.toolHeadRawPickaxeQuartzite.name=粗糙的石英岩镐头
@@ -53965,7 +53965,7 @@ languagefile {
     S:oredict.toolHeadRawPlowGlass.name=粗糙的玻璃犁头
     S:oredict.toolHeadRawPlowGneiss.name=粗糙的片麻岩犁头
     S:oredict.toolHeadRawPlowGold.name=粗糙的金犁头
-    S:oredict.toolHeadRawPlowGoshenite.name=Raw Goshenite Plow Head
+    S:oredict.toolHeadRawPlowGoshenite.name=粗糙的透绿柱石犁头
     S:oredict.toolHeadRawPlowGraniteBlack.name=粗糙的黑色花岗岩犁头
     S:oredict.toolHeadRawPlowGraniteRed.name=粗糙的红色花岗岩犁头
     S:oredict.toolHeadRawPlowGraniteblack.name=粗糙的黑色花岗岩犁头
@@ -54045,7 +54045,7 @@ languagefile {
     S:oredict.toolHeadRawPlowPlutonium243.name=粗糙的钚-243犁头
     S:oredict.toolHeadRawPlowPrometheum.name=粗糙的秘银犁头
     S:oredict.toolHeadRawPlowPulsatingIron.name=粗糙的脉冲铁犁头
-    S:oredict.toolHeadRawPlowPurpleSapphire.name=Raw Purple Sapphire Plow Head
+    S:oredict.toolHeadRawPlowPurpleSapphire.name=粗糙的紫蓝宝石犁头
     S:oredict.toolHeadRawPlowPyrope.name=粗糙的镁铝榴石犁头
     S:oredict.toolHeadRawPlowQuartzBlack.name=粗糙的黑色石英岩犁头
     S:oredict.toolHeadRawPlowQuartzite.name=粗糙的石英岩犁头
@@ -54429,7 +54429,7 @@ languagefile {
     S:oredict.toolHeadRawSenseGlass.name=粗糙的玻璃镰刀片
     S:oredict.toolHeadRawSenseGneiss.name=粗糙的片麻岩镰刀片
     S:oredict.toolHeadRawSenseGold.name=粗糙的金镰刀片
-    S:oredict.toolHeadRawSenseGoshenite.name=Raw Goshenite Sense Blade
+    S:oredict.toolHeadRawSenseGoshenite.name=粗糙的透绿柱石镰刀片
     S:oredict.toolHeadRawSenseGraniteBlack.name=粗糙的黑色花岗岩镰刀片
     S:oredict.toolHeadRawSenseGraniteRed.name=粗糙的红色花岗岩镰刀片
     S:oredict.toolHeadRawSenseGraniteblack.name=粗糙的黑色花岗岩镰刀片
@@ -54509,7 +54509,7 @@ languagefile {
     S:oredict.toolHeadRawSensePlutonium243.name=粗糙的钚-243镰刀片
     S:oredict.toolHeadRawSensePrometheum.name=粗糙的秘银镰刀片
     S:oredict.toolHeadRawSensePulsatingIron.name=粗糙的脉冲铁镰刀片
-    S:oredict.toolHeadRawSensePurpleSapphire.name=Raw Purple Sapphire Sense Blade
+    S:oredict.toolHeadRawSensePurpleSapphire.name=粗糙的紫蓝宝石镰刀片
     S:oredict.toolHeadRawSensePyrope.name=粗糙的镁铝榴石镰刀片
     S:oredict.toolHeadRawSenseQuartzBlack.name=粗糙的黑色石英岩镰刀片
     S:oredict.toolHeadRawSenseQuartzite.name=粗糙的石英岩镰刀片
@@ -54675,7 +54675,7 @@ languagefile {
     S:oredict.toolHeadRawShovelGlass.name=粗糙的玻璃锹头
     S:oredict.toolHeadRawShovelGneiss.name=粗糙的片麻岩锹头
     S:oredict.toolHeadRawShovelGold.name=粗糙的金锹头
-    S:oredict.toolHeadRawShovelGoshenite.name=Raw Goshenite Shovel Head
+    S:oredict.toolHeadRawShovelGoshenite.name=粗糙的透绿柱石锹头
     S:oredict.toolHeadRawShovelGraniteBlack.name=粗糙的黑色花岗岩锹头
     S:oredict.toolHeadRawShovelGraniteRed.name=粗糙的红色花岗岩锹头
     S:oredict.toolHeadRawShovelGraniteblack.name=粗糙的黑色花岗岩锹头
@@ -54755,7 +54755,7 @@ languagefile {
     S:oredict.toolHeadRawShovelPlutonium243.name=粗糙的钚-243锹头
     S:oredict.toolHeadRawShovelPrometheum.name=粗糙的秘银锹头
     S:oredict.toolHeadRawShovelPulsatingIron.name=粗糙的脉冲铁锹头
-    S:oredict.toolHeadRawShovelPurpleSapphire.name=Raw Purple Sapphire Shovel Head
+    S:oredict.toolHeadRawShovelPurpleSapphire.name=粗糙的紫蓝宝石锹头
     S:oredict.toolHeadRawShovelPyrope.name=粗糙的镁铝榴石锹头
     S:oredict.toolHeadRawShovelQuartzBlack.name=粗糙的黑色石英岩锹头
     S:oredict.toolHeadRawShovelQuartzite.name=粗糙的石英岩锹头
@@ -54921,7 +54921,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeGlass.name=粗糙的玻璃铲头
     S:oredict.toolHeadRawSpadeGneiss.name=粗糙的片麻岩铲头
     S:oredict.toolHeadRawSpadeGold.name=粗糙的金铲头
-    S:oredict.toolHeadRawSpadeGoshenite.name=Raw Goshenite Spade Head
+    S:oredict.toolHeadRawSpadeGoshenite.name=粗糙的透绿柱石铲头
     S:oredict.toolHeadRawSpadeGraniteBlack.name=粗糙的黑色花岗岩铲头
     S:oredict.toolHeadRawSpadeGraniteRed.name=粗糙的红色花岗岩铲头
     S:oredict.toolHeadRawSpadeGraniteblack.name=粗糙的黑色花岗岩铲头
@@ -55001,7 +55001,7 @@ languagefile {
     S:oredict.toolHeadRawSpadePlutonium243.name=粗糙的钚-243铲头
     S:oredict.toolHeadRawSpadePrometheum.name=粗糙的秘银铲头
     S:oredict.toolHeadRawSpadePulsatingIron.name=粗糙的脉冲铁铲头
-    S:oredict.toolHeadRawSpadePurpleSapphire.name=Raw Purple Sapphire Spade Head
+    S:oredict.toolHeadRawSpadePurpleSapphire.name=粗糙的紫蓝宝石铲头
     S:oredict.toolHeadRawSpadePyrope.name=粗糙的镁铝榴石铲头
     S:oredict.toolHeadRawSpadeQuartzBlack.name=粗糙的黑色石英岩铲头
     S:oredict.toolHeadRawSpadeQuartzite.name=粗糙的石英岩铲头
@@ -55167,7 +55167,7 @@ languagefile {
     S:oredict.toolHeadRawSwordGlass.name=粗糙的玻璃剑身
     S:oredict.toolHeadRawSwordGneiss.name=粗糙的片麻岩剑身
     S:oredict.toolHeadRawSwordGold.name=粗糙的金剑身
-    S:oredict.toolHeadRawSwordGoshenite.name=Raw Goshenite Sword Blade
+    S:oredict.toolHeadRawSwordGoshenite.name=粗糙的透绿柱石剑身
     S:oredict.toolHeadRawSwordGraniteBlack.name=粗糙的黑色花岗岩剑身
     S:oredict.toolHeadRawSwordGraniteRed.name=粗糙的红色花岗岩剑身
     S:oredict.toolHeadRawSwordGraniteblack.name=粗糙的黑色花岗岩剑身
@@ -55247,7 +55247,7 @@ languagefile {
     S:oredict.toolHeadRawSwordPlutonium243.name=粗糙的钚-243剑身
     S:oredict.toolHeadRawSwordPrometheum.name=粗糙的秘银剑身
     S:oredict.toolHeadRawSwordPulsatingIron.name=粗糙的脉冲铁剑身
-    S:oredict.toolHeadRawSwordPurpleSapphire.name=Raw Purple Sapphire Sword Blade
+    S:oredict.toolHeadRawSwordPurpleSapphire.name=粗糙的紫蓝宝石剑身
     S:oredict.toolHeadRawSwordPyrope.name=粗糙的镁铝榴石剑身
     S:oredict.toolHeadRawSwordQuartzBlack.name=粗糙的黑色石英岩剑身
     S:oredict.toolHeadRawSwordQuartzite.name=粗糙的石英岩剑身
@@ -56071,7 +56071,7 @@ languagefile {
     S:oredict.toolHeadSenseGlass.name=玻璃镰刀片
     S:oredict.toolHeadSenseGneiss.name=片麻岩镰刀片
     S:oredict.toolHeadSenseGold.name=金镰刀片
-    S:oredict.toolHeadSenseGoshenite.name=Goshenite Sense Blade
+    S:oredict.toolHeadSenseGoshenite.name=透绿柱石镰刀片
     S:oredict.toolHeadSenseGraniteBlack.name=黑色花岗岩镰刀片
     S:oredict.toolHeadSenseGraniteRed.name=红色花岗岩镰刀片
     S:oredict.toolHeadSenseGraniteblack.name=黑色花岗岩镰刀片
@@ -56151,7 +56151,7 @@ languagefile {
     S:oredict.toolHeadSensePlutonium243.name=钚-243镰刀片
     S:oredict.toolHeadSensePrometheum.name=秘银镰刀片
     S:oredict.toolHeadSensePulsatingIron.name=脉冲铁镰刀片
-    S:oredict.toolHeadSensePurpleSapphire.name=Purple Sapphire Sense Blade
+    S:oredict.toolHeadSensePurpleSapphire.name=紫蓝宝石镰刀片
     S:oredict.toolHeadSensePyrope.name=镁铝榴石镰刀片
     S:oredict.toolHeadSenseQuartzBlack.name=黑色石英岩镰刀片
     S:oredict.toolHeadSenseQuartzite.name=石英岩镰刀片
@@ -56317,7 +56317,7 @@ languagefile {
     S:oredict.toolHeadShovelGlass.name=玻璃锹头
     S:oredict.toolHeadShovelGneiss.name=片麻岩锹头
     S:oredict.toolHeadShovelGold.name=金锹头
-    S:oredict.toolHeadShovelGoshenite.name=Goshenite Shovel Head
+    S:oredict.toolHeadShovelGoshenite.name=透绿柱石锹头
     S:oredict.toolHeadShovelGraniteBlack.name=黑色花岗岩锹头
     S:oredict.toolHeadShovelGraniteRed.name=红色花岗岩锹头
     S:oredict.toolHeadShovelGraniteblack.name=黑色花岗岩锹头
@@ -56397,7 +56397,7 @@ languagefile {
     S:oredict.toolHeadShovelPlutonium243.name=钚-243锹头
     S:oredict.toolHeadShovelPrometheum.name=秘银锹头
     S:oredict.toolHeadShovelPulsatingIron.name=脉冲铁锹头
-    S:oredict.toolHeadShovelPurpleSapphire.name=Purple Sapphire Shovel Head
+    S:oredict.toolHeadShovelPurpleSapphire.name=紫蓝宝石锹头
     S:oredict.toolHeadShovelPyrope.name=镁铝榴石锹头
     S:oredict.toolHeadShovelQuartzBlack.name=黑色石英岩锹头
     S:oredict.toolHeadShovelQuartzite.name=石英岩锹头
@@ -56563,7 +56563,7 @@ languagefile {
     S:oredict.toolHeadSpadeGlass.name=玻璃铲头
     S:oredict.toolHeadSpadeGneiss.name=片麻岩铲头
     S:oredict.toolHeadSpadeGold.name=金铲头
-    S:oredict.toolHeadSpadeGoshenite.name=Goshenite Spade Head
+    S:oredict.toolHeadSpadeGoshenite.name=透绿柱石铲头
     S:oredict.toolHeadSpadeGraniteBlack.name=黑色花岗岩铲头
     S:oredict.toolHeadSpadeGraniteRed.name=红色花岗岩铲头
     S:oredict.toolHeadSpadeGraniteblack.name=黑色花岗岩铲头
@@ -56643,7 +56643,7 @@ languagefile {
     S:oredict.toolHeadSpadePlutonium243.name=钚-243铲头
     S:oredict.toolHeadSpadePrometheum.name=秘银铲头
     S:oredict.toolHeadSpadePulsatingIron.name=脉冲铁铲头
-    S:oredict.toolHeadSpadePurpleSapphire.name=Purple Sapphire Spade Head
+    S:oredict.toolHeadSpadePurpleSapphire.name=紫蓝宝石铲头
     S:oredict.toolHeadSpadePyrope.name=镁铝榴石铲头
     S:oredict.toolHeadSpadeQuartzBlack.name=黑色石英岩铲头
     S:oredict.toolHeadSpadeQuartzite.name=石英岩铲头
@@ -56809,7 +56809,7 @@ languagefile {
     S:oredict.toolHeadSwordGlass.name=玻璃剑身
     S:oredict.toolHeadSwordGneiss.name=片麻岩剑身
     S:oredict.toolHeadSwordGold.name=金剑身
-    S:oredict.toolHeadSwordGoshenite.name=Goshenite Sword Blade
+    S:oredict.toolHeadSwordGoshenite.name=透绿柱石剑身
     S:oredict.toolHeadSwordGraniteBlack.name=黑色花岗岩剑身
     S:oredict.toolHeadSwordGraniteRed.name=红色花岗岩剑身
     S:oredict.toolHeadSwordGraniteblack.name=黑色花岗岩剑身
@@ -56889,7 +56889,7 @@ languagefile {
     S:oredict.toolHeadSwordPlutonium243.name=钚-243剑身
     S:oredict.toolHeadSwordPrometheum.name=秘银剑身
     S:oredict.toolHeadSwordPulsatingIron.name=脉冲铁剑身
-    S:oredict.toolHeadSwordPurpleSapphire.name=Purple Sapphire Sword Blade
+    S:oredict.toolHeadSwordPurpleSapphire.name=紫蓝宝石剑身
     S:oredict.toolHeadSwordPyrope.name=镁铝榴石剑身
     S:oredict.toolHeadSwordQuartzBlack.name=黑色石英岩剑身
     S:oredict.toolHeadSwordQuartzite.name=石英岩剑身
