@@ -424,7 +424,7 @@ languagefile {
     S:fluid.molten.enderium=熔融末影
     S:fluid.molten.enderiumbase=熔融末影锭粗胚
     S:fluid.molten.fierysteel=熔融炙热钢
-    S:fluid.molten.fluorite=熔融萤石
+    S:fluid.molten.fluorite=熔融氟石
     S:fluid.molten.gold=熔融金
     S:fluid.molten.hematite=熔融赤铁矿
     S:fluid.molten.hepatizon=熔融幽魂结晶
@@ -3629,8 +3629,8 @@ languagefile {
     S:gt.material.Flour=面粉
     S:gt.material.Fluix=福鲁伊克斯
     S:gt.material.Fluorine=氟
-    S:gt.material.Fluorite=萤石
-    S:gt.material.Flux=Flux
+    S:gt.material.Fluorite=氟石
+    S:gt.material.Flux=助焊剂
     S:gt.material.FoolsRuby=伪·红宝石
     S:gt.material.Force=力场
     S:gt.material.Forcicium=力场
@@ -3654,7 +3654,7 @@ languagefile {
     S:gt.material.Gasoline=汽油
     S:gt.material.Gelatine=明胶
     S:gt.material.Germanium=锗
-    S:gt.material.Gibbsite=Gibbsite
+    S:gt.material.Gibbsite=水铝矿
     S:gt.material.GildedIron=镀金铁
     S:gt.material.Glass=玻璃
     S:gt.material.Glauconite=海绿石
