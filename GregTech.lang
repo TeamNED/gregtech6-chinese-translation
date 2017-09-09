@@ -384,8 +384,8 @@ languagefile {
     S:fluid.methane=甲烷
     S:fluid.mfr.chocolatemilk.still.name=巧克力牛奶
     S:fluid.mfr.milk.still.name=牛奶
-    S:fluid.mfr.mushroomsoup.still.name=Mushroom Stew
-    S:fluid.mfr.steam.still.name=Steam
+    S:fluid.mfr.mushroomsoup.still.name=蘑菇煲
+    S:fluid.mfr.steam.still.name=蒸汽
     S:fluid.milk=牛奶
     S:fluid.mineralsoda=含汽矿泉水
     S:fluid.molten.Copper=熔融铜
