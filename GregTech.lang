@@ -10519,7 +10519,7 @@ languagefile {
     S:oredict.arrowGtPlasticHSLASpringSteel.name=轻质弹簧钢箭
     S:oredict.arrowGtPlasticHSLASteel.name=轻质HSLA钢箭
     S:oredict.arrowGtPlasticHaderoth.name=轻质幻之铜箭
-    S:oredict.arrowGtPlasticHeliodor.name=Light Heliodor Arrow
+    S:oredict.arrowGtPlasticHeliodor.name=轻质金绿柱石箭
     S:oredict.arrowGtPlasticHepatizon.name=轻质幽魂结晶箭
     S:oredict.arrowGtPlasticIce.name=轻质冰箭
     S:oredict.arrowGtPlasticIgnatius.name=轻质伊格内修斯箭
@@ -11304,7 +11304,7 @@ languagefile {
     S:oredict.blockDustHafnium.name=铪粉块
     S:oredict.blockDustHassium.name=𬭶粉块
     S:oredict.blockDustHazelnut.name=榛子碎块
-    S:oredict.blockDustHeliodor.name=Block of Heliodor Dust
+    S:oredict.blockDustHeliodor.name=金绿柱石粉块
     S:oredict.blockDustHematite.name=赤铁矿粉块
     S:oredict.blockDustHepatizon.name=幽魂结晶粉块
     S:oredict.blockDustHolmium.name=钬粉块
@@ -11722,7 +11722,7 @@ languagefile {
     S:oredict.blockGemGoshenite.name=透绿柱石块
     S:oredict.blockGemGreenSapphire.name=绿色蓝宝石块
     S:oredict.blockGemGrossular.name=钙铝榴石块
-    S:oredict.blockGemHeliodor.name=Block of Heliodor
+    S:oredict.blockGemHeliodor.name=金绿柱石块
     S:oredict.blockGemIce.name=冰块
     S:oredict.blockGemInfusedAir.name=风之碎片块
     S:oredict.blockGemInfusedEarth.name=地之碎片块
@@ -13377,7 +13377,7 @@ languagefile {
     S:oredict.boltHaderoth.name=幻之铜螺栓
     S:oredict.boltHafnium.name=铪螺栓
     S:oredict.boltHassium.name=𬭶螺栓
-    S:oredict.boltHeliodor.name=Heliodor Bolt
+    S:oredict.boltHeliodor.name=金绿柱石螺栓
     S:oredict.boltHepatizon.name=幽魂结晶螺栓
     S:oredict.boltHolmium.name=钬螺栓
     S:oredict.boltIce.name=冰螺栓
@@ -14354,7 +14354,7 @@ languagefile {
     S:oredict.casingSmallHSLASpringSteel.name=弹簧钢外壳
     S:oredict.casingSmallHSLASteel.name=HSLA钢外壳
     S:oredict.casingSmallHaderoth.name=幻之铜外壳
-    S:oredict.casingSmallHeliodor.name=Heliodor Item Casing
+    S:oredict.casingSmallHeliodor.name=金绿柱石外壳
     S:oredict.casingSmallHepatizon.name=幽魂结晶外壳
     S:oredict.casingSmallIce.name=冰外壳
     S:oredict.casingSmallIgnatius.name=伊格内修斯外壳
@@ -15478,7 +15478,7 @@ languagefile {
     S:oredict.chemtubeHafnium.name=铪试管
     S:oredict.chemtubeHassium.name=𬭶试管
     S:oredict.chemtubeHazelnut.name=榛子试管
-    S:oredict.chemtubeHeliodor.name=Glass Tube containing Heliodor
+    S:oredict.chemtubeHeliodor.name=金绿柱石试管
     S:oredict.chemtubeHelium.name=氦试管
     S:oredict.chemtubeHelium3.name=氦-3试管
     S:oredict.chemtubeHeliumNeon.name=氦氖混合气体试管
@@ -18748,7 +18748,7 @@ languagefile {
     S:oredict.crushedCentrifugedGypsum.name=离心石膏矿石
     S:oredict.crushedCentrifugedHafnium.name=离心铪矿石
     S:oredict.crushedCentrifugedHassium.name=离心𬭶矿石
-    S:oredict.crushedCentrifugedHeliodor.name=Refined Heliodor Ore
+    S:oredict.crushedCentrifugedHeliodor.name=离心金绿柱石矿石
     S:oredict.crushedCentrifugedHematite.name=离心赤铁矿矿石
     S:oredict.crushedCentrifugedHolmium.name=离心钬矿石
     S:oredict.crushedCentrifugedHuebnerite.name=离心钨锰矿矿石
@@ -19558,7 +19558,7 @@ languagefile {
     S:oredict.crushedGypsum.name=粉碎石膏矿石
     S:oredict.crushedHafnium.name=粉碎铪矿石
     S:oredict.crushedHassium.name=粉碎𬭶矿石
-    S:oredict.crushedHeliodor.name=Crushed Heliodor Ore
+    S:oredict.crushedHeliodor.name=粉碎金绿柱石矿石
     S:oredict.crushedHematite.name=粉碎赤铁矿矿石
     S:oredict.crushedHolmium.name=粉碎钬矿石
     S:oredict.crushedHuebnerite.name=粉碎钨锰矿矿石
@@ -21011,7 +21011,7 @@ languagefile {
     S:oredict.crushedTinyGypsum.name=小撮粉碎石膏矿石
     S:oredict.crushedTinyHafnium.name=小撮粉碎铪矿石
     S:oredict.crushedTinyHassium.name=小撮粉碎𬭶矿石
-    S:oredict.crushedTinyHeliodor.name=Tiny Crushed Heliodor Ore
+    S:oredict.crushedTinyHeliodor.name=小撮粉碎金绿柱石矿石
     S:oredict.crushedTinyHematite.name=小撮粉碎赤铁矿矿石
     S:oredict.crushedTinyHolmium.name=小撮粉碎钬矿石
     S:oredict.crushedTinyHuebnerite.name=小撮粉碎钨锰矿矿石
@@ -21964,7 +21964,7 @@ languagefile {
     S:oredict.dustDiv72Hafnium.name=1/72份铪粉
     S:oredict.dustDiv72Hassium.name=1/72份𬭶粉
     S:oredict.dustDiv72Hazelnut.name=1/72份榛子碎
-    S:oredict.dustDiv72Heliodor.name=1/72nd of a Pile of Heliodor Dust
+    S:oredict.dustDiv72Heliodor.name=1/72份金绿柱石粉
     S:oredict.dustDiv72Hematite.name=1/72份赤铁矿粉
     S:oredict.dustDiv72Hepatizon.name=1/72份幽魂结晶粉
     S:oredict.dustDiv72Holmium.name=1/72份钬粉
@@ -22421,7 +22421,7 @@ languagefile {
     S:oredict.dustHafnium.name=铪粉
     S:oredict.dustHassium.name=𬭶粉
     S:oredict.dustHazelnut.name=榛子碎
-    S:oredict.dustHeliodor.name=Heliodor Dust
+    S:oredict.dustHeliodor.name=金绿柱石粉
     S:oredict.dustHematite.name=赤铁矿粉
     S:oredict.dustHepatizon.name=幽魂结晶粉
     S:oredict.dustHolmium.name=钬粉
@@ -22737,7 +22737,7 @@ languagefile {
     S:oredict.dustImpureGypsum.name=含杂石膏粉
     S:oredict.dustImpureHafnium.name=含杂铪粉
     S:oredict.dustImpureHassium.name=含杂𬭶粉
-    S:oredict.dustImpureHeliodor.name=Impure Pile of Heliodor Dust
+    S:oredict.dustImpureHeliodor.name=含杂金绿柱石粉
     S:oredict.dustImpureHematite.name=含杂赤铁矿粉
     S:oredict.dustImpureHolmium.name=含杂钬粉
     S:oredict.dustImpureHuebnerite.name=含杂钨锰矿粉
@@ -23432,7 +23432,7 @@ languagefile {
     S:oredict.dustPureGypsum.name=纯净石膏粉
     S:oredict.dustPureHafnium.name=纯净铪粉
     S:oredict.dustPureHassium.name=纯净𬭶粉
-    S:oredict.dustPureHeliodor.name=Purified Pile of Heliodor Dust
+    S:oredict.dustPureHeliodor.name=纯净金绿柱石粉
     S:oredict.dustPureHematite.name=纯净赤铁矿粉
     S:oredict.dustPureHolmium.name=纯净钬粉
     S:oredict.dustPureHuebnerite.name=纯净钨锰矿粉
@@ -24111,7 +24111,7 @@ languagefile {
     S:oredict.dustSmallHafnium.name=小堆铪粉
     S:oredict.dustSmallHassium.name=小堆𬭶粉
     S:oredict.dustSmallHazelnut.name=小堆榛子碎
-    S:oredict.dustSmallHeliodor.name=Small Pile of Heliodor Dust
+    S:oredict.dustSmallHeliodor.name=小堆金绿柱石粉
     S:oredict.dustSmallHematite.name=小堆赤铁矿粉
     S:oredict.dustSmallHepatizon.name=小堆幽魂结晶粉
     S:oredict.dustSmallHolmium.name=小堆钬粉
@@ -24928,7 +24928,7 @@ languagefile {
     S:oredict.dustTinyHafnium.name=小撮铪粉
     S:oredict.dustTinyHassium.name=小撮𬭶粉
     S:oredict.dustTinyHazelnut.name=小撮榛子碎
-    S:oredict.dustTinyHeliodor.name=Tiny Pile of Heliodor Dust
+    S:oredict.dustTinyHeliodor.name=小撮金绿柱石粉
     S:oredict.dustTinyHematite.name=小撮赤铁矿粉
     S:oredict.dustTinyHepatizon.name=小撮幽魂结晶粉
     S:oredict.dustTinyHolmium.name=小撮钬粉
@@ -25874,7 +25874,7 @@ languagefile {
     S:oredict.gearGtHSLASpringSteel.name=弹簧钢齿轮
     S:oredict.gearGtHSLASteel.name=HSLA钢齿轮
     S:oredict.gearGtHaderoth.name=幻之铜齿轮
-    S:oredict.gearGtHeliodor.name=Heliodor Gear
+    S:oredict.gearGtHeliodor.name=金绿柱石齿轮
     S:oredict.gearGtHepatizon.name=幽魂结晶齿轮
     S:oredict.gearGtIce.name=冰齿轮
     S:oredict.gearGtIgnatius.name=伊格内修斯齿轮
@@ -26089,7 +26089,7 @@ languagefile {
     S:oredict.gearGtSmallHSLASpringSteel.name=小型弹簧钢齿轮
     S:oredict.gearGtSmallHSLASteel.name=小型HSLA钢齿轮
     S:oredict.gearGtSmallHaderoth.name=小型幻之铜齿轮
-    S:oredict.gearGtSmallHeliodor.name=Small Heliodor Gear
+    S:oredict.gearGtSmallHeliodor.name=小型金绿柱石齿轮
     S:oredict.gearGtSmallHepatizon.name=小型幽魂结晶齿轮
     S:oredict.gearGtSmallIce.name=小型冰齿轮
     S:oredict.gearGtSmallIgnatius.name=小型伊格内修斯齿轮
@@ -38308,7 +38308,7 @@ languagefile {
     S:oredict.plantGtBerryHafnium.name=铪梅
     S:oredict.plantGtBerryHassium.name=𬭶梅
     S:oredict.plantGtBerryHazelnut.name=榛子梅
-    S:oredict.plantGtBerryHeliodor.name=Heliodor Berry
+    S:oredict.plantGtBerryHeliodor.name=金绿柱石梅
     S:oredict.plantGtBerryHeliumNeon.name=氦氖混合气体梅
     S:oredict.plantGtBerryHematite.name=赤铁矿梅
     S:oredict.plantGtBerryHempOil.name=大麻籽油梅
@@ -39140,7 +39140,7 @@ languagefile {
     S:oredict.plantGtBlossomHafnium.name=铪花
     S:oredict.plantGtBlossomHassium.name=𬭶花
     S:oredict.plantGtBlossomHazelnut.name=榛子花
-    S:oredict.plantGtBlossomHeliodor.name=Heliodor Blossom
+    S:oredict.plantGtBlossomHeliodor.name=金绿柱石花
     S:oredict.plantGtBlossomHeliumNeon.name=氦氖混合气体花
     S:oredict.plantGtBlossomHematite.name=赤铁矿花
     S:oredict.plantGtBlossomHempOil.name=大麻籽油花
@@ -39971,7 +39971,7 @@ languagefile {
     S:oredict.plantGtFiberHafnium.name=粗糙的铪纤维
     S:oredict.plantGtFiberHassium.name=粗糙的𬭶纤维
     S:oredict.plantGtFiberHazelnut.name=粗糙的榛子纤维
-    S:oredict.plantGtFiberHeliodor.name=Raw Heliodor Fiber
+    S:oredict.plantGtFiberHeliodor.name=粗糙的金绿柱石纤维
     S:oredict.plantGtFiberHeliumNeon.name=粗糙的氦氖混合气体纤维
     S:oredict.plantGtFiberHematite.name=粗糙的赤铁矿纤维
     S:oredict.plantGtFiberHempOil.name=粗糙的大麻籽油纤维
@@ -40802,7 +40802,7 @@ languagefile {
     S:oredict.plantGtTwigHafnium.name=铪细枝
     S:oredict.plantGtTwigHassium.name=𬭶细枝
     S:oredict.plantGtTwigHazelnut.name=榛子细枝
-    S:oredict.plantGtTwigHeliodor.name=Heliodor Twig
+    S:oredict.plantGtTwigHeliodor.name=金绿柱石细枝
     S:oredict.plantGtTwigHeliumNeon.name=氦氖混合气体细枝
     S:oredict.plantGtTwigHematite.name=赤铁矿细枝
     S:oredict.plantGtTwigHempOil.name=大麻籽油细枝
@@ -41636,7 +41636,7 @@ languagefile {
     S:oredict.plantGtWartHafnium.name=铪疣
     S:oredict.plantGtWartHassium.name=𬭶疣
     S:oredict.plantGtWartHazelnut.name=榛子疣
-    S:oredict.plantGtWartHeliodor.name=Heliodor Wart
+    S:oredict.plantGtWartHeliodor.name=金绿柱石疣
     S:oredict.plantGtWartHeliumNeon.name=氦氖混合气体疣
     S:oredict.plantGtWartHematite.name=赤铁矿疣
     S:oredict.plantGtWartHempOil.name=大麻籽油疣
@@ -45535,7 +45535,7 @@ languagefile {
     S:oredict.ringHSLASpringSteel.name=弹簧钢环
     S:oredict.ringHSLASteel.name=HSLA钢环
     S:oredict.ringHaderoth.name=幻之铜环
-    S:oredict.ringHeliodor.name=Heliodor Ring
+    S:oredict.ringHeliodor.name=金绿柱石环
     S:oredict.ringHepatizon.name=幽魂结晶环
     S:oredict.ringIce.name=冰环
     S:oredict.ringIgnatius.name=伊格内修斯环
@@ -45982,7 +45982,7 @@ languagefile {
     S:oredict.rockGtGypsum.name=含石膏岩石
     S:oredict.rockGtHafnium.name=含铪岩石
     S:oredict.rockGtHassium.name=含𬭶岩石
-    S:oredict.rockGtHeliodor.name=Heliodor bearing Rock
+    S:oredict.rockGtHeliodor.name=含金绿柱石岩石
     S:oredict.rockGtHematite.name=含赤铁矿岩石
     S:oredict.rockGtHolmium.name=含钬岩石
     S:oredict.rockGtHuebnerite.name=含钨锰矿岩石
@@ -46328,7 +46328,7 @@ languagefile {
     S:oredict.rotorHSLASpringSteel.name=弹簧钢转子
     S:oredict.rotorHSLASteel.name=HSLA钢转子
     S:oredict.rotorHaderoth.name=幻之铜转子
-    S:oredict.rotorHeliodor.name=Heliodor Rotor
+    S:oredict.rotorHeliodor.name=金绿柱石转子
     S:oredict.rotorHepatizon.name=幽魂结晶转子
     S:oredict.rotorIce.name=冰转子
     S:oredict.rotorIgnatius.name=伊格内修斯转子
@@ -46597,7 +46597,7 @@ languagefile {
     S:oredict.roundHSLASpringSteel.name=弹簧钢垫片
     S:oredict.roundHSLASteel.name=HSLA钢垫片
     S:oredict.roundHaderoth.name=幻之铜垫片
-    S:oredict.roundHeliodor.name=Heliodor Round
+    S:oredict.roundHeliodor.name=金绿柱石垫片
     S:oredict.roundHepatizon.name=幽魂结晶垫片
     S:oredict.roundIce.name=冰垫片
     S:oredict.roundIgnatius.name=伊格内修斯垫片
@@ -47145,7 +47145,7 @@ languagefile {
     S:oredict.scrapGtHafnium.name=铪废料
     S:oredict.scrapGtHassium.name=𬭶废料
     S:oredict.scrapGtHazelnut.name=榛子废料
-    S:oredict.scrapGtHeliodor.name=Heliodor Scrap
+    S:oredict.scrapGtHeliodor.name=金绿柱石废料
     S:oredict.scrapGtHematite.name=赤铁矿废料
     S:oredict.scrapGtHepatizon.name=幽魂结晶废料
     S:oredict.scrapGtHolmium.name=钬废料
@@ -47789,7 +47789,7 @@ languagefile {
     S:oredict.screwHaderoth.name=幻之铜螺丝
     S:oredict.screwHafnium.name=铪螺丝
     S:oredict.screwHassium.name=𬭶螺丝
-    S:oredict.screwHeliodor.name=Heliodor Screw
+    S:oredict.screwHeliodor.name=金绿柱石螺丝
     S:oredict.screwHepatizon.name=幽魂结晶螺丝
     S:oredict.screwHolmium.name=钬螺丝
     S:oredict.screwIce.name=冰螺丝
@@ -48677,7 +48677,7 @@ languagefile {
     S:oredict.stickHaderoth.name=幻之铜杆
     S:oredict.stickHafnium.name=铪杆
     S:oredict.stickHassium.name=𬭶杆
-    S:oredict.stickHeliodor.name=Heliodor Rod
+    S:oredict.stickHeliodor.name=金绿柱石杆
     S:oredict.stickHepatizon.name=幽魂结晶杆
     S:oredict.stickHolmium.name=钬杆
     S:oredict.stickIce.name=冰杆
@@ -48993,7 +48993,7 @@ languagefile {
     S:oredict.stickLongHaderoth.name=长幻之铜杆
     S:oredict.stickLongHafnium.name=长铪杆
     S:oredict.stickLongHassium.name=长𬭶杆
-    S:oredict.stickLongHeliodor.name=Long Heliodor Rod
+    S:oredict.stickLongHeliodor.name=长金绿柱石杆
     S:oredict.stickLongHepatizon.name=长幽魂结晶杆
     S:oredict.stickLongHolmium.name=长钬杆
     S:oredict.stickLongIce.name=长冰杆
@@ -49504,7 +49504,7 @@ languagefile {
     S:oredict.toolHeadArrowHSLASpringSteel.name=弹簧钢箭头
     S:oredict.toolHeadArrowHSLASteel.name=HSLA钢箭头
     S:oredict.toolHeadArrowHaderoth.name=幻之铜箭头
-    S:oredict.toolHeadArrowHeliodor.name=Heliodor Arrow Head
+    S:oredict.toolHeadArrowHeliodor.name=金绿柱石箭头
     S:oredict.toolHeadArrowHepatizon.name=幽魂结晶箭头
     S:oredict.toolHeadArrowIce.name=冰箭头
     S:oredict.toolHeadArrowIgnatius.name=伊格内修斯箭头
@@ -49811,7 +49811,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleHSLASpringSteel.name=弹簧钢双刃斧头
     S:oredict.toolHeadAxeDoubleHSLASteel.name=HSLA钢双刃斧头
     S:oredict.toolHeadAxeDoubleHaderoth.name=幻之铜双刃斧头
-    S:oredict.toolHeadAxeDoubleHeliodor.name=Heliodor Double Axe Head
+    S:oredict.toolHeadAxeDoubleHeliodor.name=金绿柱石双刃斧头
     S:oredict.toolHeadAxeDoubleHepatizon.name=幽魂结晶双刃斧头
     S:oredict.toolHeadAxeDoubleIgnatius.name=伊格内修斯双刃斧头
     S:oredict.toolHeadAxeDoubleInfusedAir.name=风之碎片双刃斧头
@@ -49972,7 +49972,7 @@ languagefile {
     S:oredict.toolHeadAxeHSLASpringSteel.name=弹簧钢斧头
     S:oredict.toolHeadAxeHSLASteel.name=HSLA钢斧头
     S:oredict.toolHeadAxeHaderoth.name=幻之铜斧头
-    S:oredict.toolHeadAxeHeliodor.name=Heliodor Axe Head
+    S:oredict.toolHeadAxeHeliodor.name=金绿柱石斧头
     S:oredict.toolHeadAxeHepatizon.name=幽魂结晶斧头
     S:oredict.toolHeadAxeIce.name=冰斧头
     S:oredict.toolHeadAxeIgnatius.name=伊格内修斯斧头
@@ -51524,7 +51524,7 @@ languagefile {
     S:oredict.toolHeadHammerHSLASpringSteel.name=弹簧钢锤头
     S:oredict.toolHeadHammerHSLASteel.name=HSLA钢锤头
     S:oredict.toolHeadHammerHaderoth.name=幻之铜锤头
-    S:oredict.toolHeadHammerHeliodor.name=Heliodor Hammer Head
+    S:oredict.toolHeadHammerHeliodor.name=金绿柱石锤头
     S:oredict.toolHeadHammerHepatizon.name=幽魂结晶锤头
     S:oredict.toolHeadHammerIgnatius.name=伊格内修斯锤头
     S:oredict.toolHeadHammerInfusedAir.name=风之碎片锤头
@@ -51767,7 +51767,7 @@ languagefile {
     S:oredict.toolHeadHoeHSLASpringSteel.name=弹簧钢锄头
     S:oredict.toolHeadHoeHSLASteel.name=HSLA钢锄头
     S:oredict.toolHeadHoeHaderoth.name=幻之铜锄头
-    S:oredict.toolHeadHoeHeliodor.name=Heliodor Hoe Head
+    S:oredict.toolHeadHoeHeliodor.name=金绿柱石锄头
     S:oredict.toolHeadHoeHepatizon.name=幽魂结晶锄头
     S:oredict.toolHeadHoeIce.name=冰锄头
     S:oredict.toolHeadHoeIgnatius.name=伊格内修斯锄头
@@ -52019,7 +52019,7 @@ languagefile {
     S:oredict.toolHeadPickaxeGemGoshenite.name=表镶透绿柱石镐头
     S:oredict.toolHeadPickaxeGemGreenSapphire.name=表镶绿色蓝宝石镐头
     S:oredict.toolHeadPickaxeGemGrossular.name=表镶钙铝榴石镐头
-    S:oredict.toolHeadPickaxeGemHeliodor.name=Heliodor tipped Pickaxe Head
+    S:oredict.toolHeadPickaxeGemHeliodor.name=表镶金绿柱石镐头
     S:oredict.toolHeadPickaxeGemInfusedAir.name=表镶风之碎片镐头
     S:oredict.toolHeadPickaxeGemInfusedEarth.name=表镶地之碎片镐头
     S:oredict.toolHeadPickaxeGemInfusedEntropy.name=表镶混沌碎片镐头
@@ -52060,7 +52060,7 @@ languagefile {
     S:oredict.toolHeadPickaxeHSLASpringSteel.name=弹簧钢镐头
     S:oredict.toolHeadPickaxeHSLASteel.name=HSLA钢镐头
     S:oredict.toolHeadPickaxeHaderoth.name=幻之铜镐头
-    S:oredict.toolHeadPickaxeHeliodor.name=Heliodor Pickaxe Head
+    S:oredict.toolHeadPickaxeHeliodor.name=金绿柱石镐头
     S:oredict.toolHeadPickaxeHepatizon.name=幽魂结晶镐头
     S:oredict.toolHeadPickaxeIce.name=冰镐头
     S:oredict.toolHeadPickaxeIgnatius.name=伊格内修斯镐头
@@ -52306,7 +52306,7 @@ languagefile {
     S:oredict.toolHeadPlowHSLASpringSteel.name=弹簧钢犁头
     S:oredict.toolHeadPlowHSLASteel.name=HSLA钢犁头
     S:oredict.toolHeadPlowHaderoth.name=幻之铜犁头
-    S:oredict.toolHeadPlowHeliodor.name=Heliodor Plow Head
+    S:oredict.toolHeadPlowHeliodor.name=金绿柱石犁头
     S:oredict.toolHeadPlowHepatizon.name=幽魂结晶犁头
     S:oredict.toolHeadPlowIce.name=冰犁头
     S:oredict.toolHeadPlowIgnatius.name=伊格内修斯犁头
@@ -52552,7 +52552,7 @@ languagefile {
     S:oredict.toolHeadRawArrowHSLASpringSteel.name=粗糙的弹簧钢箭头
     S:oredict.toolHeadRawArrowHSLASteel.name=粗糙的HSLA钢箭头
     S:oredict.toolHeadRawArrowHaderoth.name=粗糙的幻之铜箭头
-    S:oredict.toolHeadRawArrowHeliodor.name=Raw Heliodor Arrow Head
+    S:oredict.toolHeadRawArrowHeliodor.name=粗糙的金绿柱石箭头
     S:oredict.toolHeadRawArrowHepatizon.name=粗糙的幽魂结晶箭头
     S:oredict.toolHeadRawArrowIce.name=粗糙的冰箭头
     S:oredict.toolHeadRawArrowIgnatius.name=粗糙的伊格内修斯箭头
@@ -52859,7 +52859,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleHSLASpringSteel.name=粗糙的弹簧钢双刃斧头
     S:oredict.toolHeadRawAxeDoubleHSLASteel.name=粗糙的HSLA钢双刃斧头
     S:oredict.toolHeadRawAxeDoubleHaderoth.name=粗糙的幻之铜双刃斧头
-    S:oredict.toolHeadRawAxeDoubleHeliodor.name=Raw Heliodor Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleHeliodor.name=粗糙的金绿柱石双刃斧头
     S:oredict.toolHeadRawAxeDoubleHepatizon.name=粗糙的幽魂结晶双刃斧头
     S:oredict.toolHeadRawAxeDoubleIgnatius.name=粗糙的伊格内修斯双刃斧头
     S:oredict.toolHeadRawAxeDoubleInfusedAir.name=粗糙的风之碎片双刃斧头
@@ -53020,7 +53020,7 @@ languagefile {
     S:oredict.toolHeadRawAxeHSLASpringSteel.name=粗糙的弹簧钢斧头
     S:oredict.toolHeadRawAxeHSLASteel.name=粗糙的HSLA钢斧头
     S:oredict.toolHeadRawAxeHaderoth.name=粗糙的幻之铜斧头
-    S:oredict.toolHeadRawAxeHeliodor.name=Raw Heliodor Axe Head
+    S:oredict.toolHeadRawAxeHeliodor.name=粗糙的金绿柱石斧头
     S:oredict.toolHeadRawAxeHepatizon.name=粗糙的幽魂结晶斧头
     S:oredict.toolHeadRawAxeIce.name=粗糙的冰斧头
     S:oredict.toolHeadRawAxeIgnatius.name=粗糙的伊格内修斯斧头
@@ -53484,7 +53484,7 @@ languagefile {
     S:oredict.toolHeadRawHoeHSLASpringSteel.name=粗糙的弹簧钢锄头
     S:oredict.toolHeadRawHoeHSLASteel.name=粗糙的HSLA钢锄头
     S:oredict.toolHeadRawHoeHaderoth.name=粗糙的幻之铜锄头
-    S:oredict.toolHeadRawHoeHeliodor.name=Raw Heliodor Hoe Head
+    S:oredict.toolHeadRawHoeHeliodor.name=粗糙的金绿柱石锄头
     S:oredict.toolHeadRawHoeHepatizon.name=粗糙的幽魂结晶锄头
     S:oredict.toolHeadRawHoeIce.name=粗糙的冰锄头
     S:oredict.toolHeadRawHoeIgnatius.name=粗糙的伊格内修斯锄头
@@ -53730,7 +53730,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeHSLASpringSteel.name=粗糙的弹簧钢镐头
     S:oredict.toolHeadRawPickaxeHSLASteel.name=粗糙的HSLA钢镐头
     S:oredict.toolHeadRawPickaxeHaderoth.name=粗糙的幻之铜镐头
-    S:oredict.toolHeadRawPickaxeHeliodor.name=Raw Heliodor Pickaxe Head
+    S:oredict.toolHeadRawPickaxeHeliodor.name=粗糙的金绿柱石镐头
     S:oredict.toolHeadRawPickaxeHepatizon.name=粗糙的幽魂结晶镐头
     S:oredict.toolHeadRawPickaxeIce.name=粗糙的冰镐头
     S:oredict.toolHeadRawPickaxeIgnatius.name=粗糙的伊格内修斯镐头
@@ -53976,7 +53976,7 @@ languagefile {
     S:oredict.toolHeadRawPlowHSLASpringSteel.name=粗糙的弹簧钢犁头
     S:oredict.toolHeadRawPlowHSLASteel.name=粗糙的HSLA钢犁头
     S:oredict.toolHeadRawPlowHaderoth.name=粗糙的幻之铜犁头
-    S:oredict.toolHeadRawPlowHeliodor.name=Raw Heliodor Plow Head
+    S:oredict.toolHeadRawPlowHeliodor.name=粗糙的金绿柱石犁头
     S:oredict.toolHeadRawPlowHepatizon.name=粗糙的幽魂结晶犁头
     S:oredict.toolHeadRawPlowIce.name=粗糙的冰犁头
     S:oredict.toolHeadRawPlowIgnatius.name=粗糙的伊格内修斯犁头
@@ -54440,7 +54440,7 @@ languagefile {
     S:oredict.toolHeadRawSenseHSLASpringSteel.name=粗糙的弹簧钢镰刀片
     S:oredict.toolHeadRawSenseHSLASteel.name=粗糙的HSLA钢镰刀片
     S:oredict.toolHeadRawSenseHaderoth.name=粗糙的幻之铜镰刀片
-    S:oredict.toolHeadRawSenseHeliodor.name=Raw Heliodor Sense Blade
+    S:oredict.toolHeadRawSenseHeliodor.name=粗糙的金绿柱石镰刀片
     S:oredict.toolHeadRawSenseHepatizon.name=粗糙的幽魂结晶镰刀片
     S:oredict.toolHeadRawSenseIce.name=粗糙的冰镰刀片
     S:oredict.toolHeadRawSenseIgnatius.name=粗糙的伊格内修斯镰刀片
@@ -54686,7 +54686,7 @@ languagefile {
     S:oredict.toolHeadRawShovelHSLASpringSteel.name=粗糙的弹簧钢锹头
     S:oredict.toolHeadRawShovelHSLASteel.name=粗糙的HSLA钢锹头
     S:oredict.toolHeadRawShovelHaderoth.name=粗糙的幻之铜锹头
-    S:oredict.toolHeadRawShovelHeliodor.name=Raw Heliodor Shovel Head
+    S:oredict.toolHeadRawShovelHeliodor.name=粗糙的金绿柱石锹头
     S:oredict.toolHeadRawShovelHepatizon.name=粗糙的幽魂结晶锹头
     S:oredict.toolHeadRawShovelIce.name=粗糙的冰锹头
     S:oredict.toolHeadRawShovelIgnatius.name=粗糙的伊格内修斯锹头
@@ -54932,7 +54932,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeHSLASpringSteel.name=粗糙的弹簧钢铲头
     S:oredict.toolHeadRawSpadeHSLASteel.name=粗糙的HSLA钢铲头
     S:oredict.toolHeadRawSpadeHaderoth.name=粗糙的幻之铜铲头
-    S:oredict.toolHeadRawSpadeHeliodor.name=Raw Heliodor Spade Head
+    S:oredict.toolHeadRawSpadeHeliodor.name=粗糙的金绿柱石铲头
     S:oredict.toolHeadRawSpadeHepatizon.name=粗糙的幽魂结晶铲头
     S:oredict.toolHeadRawSpadeIce.name=粗糙的冰铲头
     S:oredict.toolHeadRawSpadeIgnatius.name=粗糙的伊格内修斯铲头
@@ -55178,7 +55178,7 @@ languagefile {
     S:oredict.toolHeadRawSwordHSLASpringSteel.name=粗糙的弹簧钢剑身
     S:oredict.toolHeadRawSwordHSLASteel.name=粗糙的HSLA钢剑身
     S:oredict.toolHeadRawSwordHaderoth.name=粗糙的幻之铜剑身
-    S:oredict.toolHeadRawSwordHeliodor.name=Raw Heliodor Sword Blade
+    S:oredict.toolHeadRawSwordHeliodor.name=粗糙的金绿柱石剑身
     S:oredict.toolHeadRawSwordHepatizon.name=粗糙的幽魂结晶剑身
     S:oredict.toolHeadRawSwordIce.name=粗糙的冰剑身
     S:oredict.toolHeadRawSwordIgnatius.name=粗糙的伊格内修斯剑身
@@ -56082,7 +56082,7 @@ languagefile {
     S:oredict.toolHeadSenseHSLASpringSteel.name=弹簧钢镰刀片
     S:oredict.toolHeadSenseHSLASteel.name=HSLA钢镰刀片
     S:oredict.toolHeadSenseHaderoth.name=幻之铜镰刀片
-    S:oredict.toolHeadSenseHeliodor.name=Heliodor Sense Blade
+    S:oredict.toolHeadSenseHeliodor.name=金绿柱石镰刀片
     S:oredict.toolHeadSenseHepatizon.name=幽魂结晶镰刀片
     S:oredict.toolHeadSenseIce.name=冰镰刀片
     S:oredict.toolHeadSenseIgnatius.name=伊格内修斯镰刀片
@@ -56328,7 +56328,7 @@ languagefile {
     S:oredict.toolHeadShovelHSLASpringSteel.name=弹簧钢锹头
     S:oredict.toolHeadShovelHSLASteel.name=HSLA钢锹头
     S:oredict.toolHeadShovelHaderoth.name=幻之铜锹头
-    S:oredict.toolHeadShovelHeliodor.name=Heliodor Shovel Head
+    S:oredict.toolHeadShovelHeliodor.name=金绿柱石锹头
     S:oredict.toolHeadShovelHepatizon.name=幽魂结晶锹头
     S:oredict.toolHeadShovelIce.name=冰锹头
     S:oredict.toolHeadShovelIgnatius.name=伊格内修斯锹头
@@ -56574,7 +56574,7 @@ languagefile {
     S:oredict.toolHeadSpadeHSLASpringSteel.name=弹簧钢铲头
     S:oredict.toolHeadSpadeHSLASteel.name=HSLA钢铲头
     S:oredict.toolHeadSpadeHaderoth.name=幻之铜铲头
-    S:oredict.toolHeadSpadeHeliodor.name=Heliodor Spade Head
+    S:oredict.toolHeadSpadeHeliodor.name=金绿柱石铲头
     S:oredict.toolHeadSpadeHepatizon.name=幽魂结晶铲头
     S:oredict.toolHeadSpadeIce.name=冰铲头
     S:oredict.toolHeadSpadeIgnatius.name=伊格内修斯铲头
@@ -56820,7 +56820,7 @@ languagefile {
     S:oredict.toolHeadSwordHSLASpringSteel.name=弹簧钢剑身
     S:oredict.toolHeadSwordHSLASteel.name=HSLA钢剑身
     S:oredict.toolHeadSwordHaderoth.name=幻之铜剑身
-    S:oredict.toolHeadSwordHeliodor.name=Heliodor Sword Blade
+    S:oredict.toolHeadSwordHeliodor.name=金绿柱石剑身
     S:oredict.toolHeadSwordHepatizon.name=幽魂结晶剑身
     S:oredict.toolHeadSwordIce.name=冰剑身
     S:oredict.toolHeadSwordIgnatius.name=伊格内修斯剑身
