@@ -4,7 +4,8 @@
         "value":"Molten (.+)",
         "repl":"熔融\\1",
         "priority":1000
-    },{
+    },
+	{
         "name":"oredict.plantGtBlossom.+",
         "value":"(.+) Blossom",
         "repl":"\\1花",
@@ -603,5 +604,23 @@
         "value":"Bumble (.+)",
 		"repl":"\\1熊蜂", 
 		"priority":500
-    }
+    },
+    {
+        "name":"gt.block.concrete.+",
+        "value":"(.+) Concrete",
+		"repl":"\\1混凝土", 
+		"priority":1000
+	},
+    {
+        "name":"gt.block.concrete.+",
+        "value":"(.+) Reinforced Concrete",
+		"repl":"\\1加强混凝土", 
+		"priority":1000
+	},
+	{
+        "name":"gt.block.concrete.+",
+        "value":"(.+) Slab",
+		"repl":"\\1半砖", 
+		"priority":2000
+	}
 ]
