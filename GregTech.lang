@@ -3262,7 +3262,7 @@ languagefile {
     S:gt.material.AnyStone=任意种类的石头
     S:gt.material.AnyThaumicCrystal=任意神秘碎片
     S:gt.material.AnyTungsten=任意钨
-    S:gt.material.AnyWax=任意何蜡
+    S:gt.material.AnyWax=任意蜡
     S:gt.material.AnyWood=任意木头
     S:gt.material.Apatite=磷灰石
     S:gt.material.AquaRegia=王水
@@ -57602,5 +57602,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
