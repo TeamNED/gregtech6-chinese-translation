@@ -424,7 +424,7 @@ languagefile {
     S:fluid.molten.enderium=熔融末影
     S:fluid.molten.enderiumbase=熔融末影锭粗胚
     S:fluid.molten.fierysteel=熔融炙热钢
-    S:fluid.molten.fluorite=熔融萤石
+    S:fluid.molten.fluorite=熔融氟石
     S:fluid.molten.gold=熔融金
     S:fluid.molten.hematite=熔融赤铁矿
     S:fluid.molten.hepatizon=熔融幽魂结晶
@@ -11252,7 +11252,7 @@ languagefile {
     S:oredict.blockDustFlerovium298.name=鈇-298粉块
     S:oredict.blockDustFlint.name=燧石粉块
     S:oredict.blockDustFluorine.name=氟粉块
-    S:oredict.blockDustFluorite.name=萤石粉块
+    S:oredict.blockDustFluorite.name=氟石粉块
     S:oredict.blockDustFoolsRuby.name=红宝石粉块
     S:oredict.blockDustForce.name=力量粉块
     S:oredict.blockDustForcicium.name=力场粉块
@@ -11992,7 +11992,7 @@ languagefile {
     S:oredict.blockIngotFishRotten.name=烂鱼肉锭块
     S:oredict.blockIngotFlerovium.name=鈇锭块
     S:oredict.blockIngotFlerovium298.name=鈇-298锭块
-    S:oredict.blockIngotFluorite.name=萤石锭块
+    S:oredict.blockIngotFluorite.name=氟石锭块
     S:oredict.blockIngotForce.name=力量锭块
     S:oredict.blockIngotFrancium.name=钫锭块
     S:oredict.blockIngotGadolinium.name=钆锭块
@@ -12912,7 +12912,7 @@ languagefile {
     S:oredict.blockSolidFishRotten.name=铸造烂鱼肉块
     S:oredict.blockSolidFlerovium.name=铸造鈇块
     S:oredict.blockSolidFlerovium298.name=铸造鈇-298块
-    S:oredict.blockSolidFluorite.name=铸造萤石块
+    S:oredict.blockSolidFluorite.name=铸造氟石块
     S:oredict.blockSolidForce.name=铸造力量块
     S:oredict.blockSolidFrancium.name=铸造钫块
     S:oredict.blockSolidGadolinium.name=铸造钆块
@@ -15416,7 +15416,7 @@ languagefile {
     S:oredict.chemtubeFlerovium298.name=鈇-298试管
     S:oredict.chemtubeFlint.name=燧石试管
     S:oredict.chemtubeFluorine.name=氟试管
-    S:oredict.chemtubeFluorite.name=萤石试管
+    S:oredict.chemtubeFluorite.name=氟石试管
     S:oredict.chemtubeFoolsRuby.name=红宝石试管
     S:oredict.chemtubeForce.name=力量试管
     S:oredict.chemtubeForcicium.name=力场试管
@@ -16292,7 +16292,7 @@ languagefile {
     S:oredict.chunkGtFishRotten.name=烂鱼肉小块
     S:oredict.chunkGtFlerovium.name=鈇小块
     S:oredict.chunkGtFlerovium298.name=鈇-298小块
-    S:oredict.chunkGtFluorite.name=萤石小块
+    S:oredict.chunkGtFluorite.name=氟石小块
     S:oredict.chunkGtForce.name=力量小块
     S:oredict.chunkGtFrancium.name=钫小块
     S:oredict.chunkGtGadolinium.name=钆小块
@@ -18717,7 +18717,7 @@ languagefile {
     S:oredict.crushedCentrifugedFlerovium.name=离心鈇矿石
     S:oredict.crushedCentrifugedFlerovium298.name=离心鈇-298矿石
     S:oredict.crushedCentrifugedFluorine.name=离心氟矿石
-    S:oredict.crushedCentrifugedFluorite.name=离心萤石矿石
+    S:oredict.crushedCentrifugedFluorite.name=离心氟石矿石
     S:oredict.crushedCentrifugedFoolsRuby.name=离心红宝石矿
     S:oredict.crushedCentrifugedForce.name=离心力量矿石
     S:oredict.crushedCentrifugedForcicium.name=离心力场矿石
@@ -19526,7 +19526,7 @@ languagefile {
     S:oredict.crushedFlerovium.name=粉碎鈇矿石
     S:oredict.crushedFlerovium298.name=粉碎鈇-298矿石
     S:oredict.crushedFluorine.name=粉碎氟矿石
-    S:oredict.crushedFluorite.name=粉碎萤石矿石
+    S:oredict.crushedFluorite.name=粉碎氟石矿石
     S:oredict.crushedFoolsRuby.name=粉碎红宝石矿
     S:oredict.crushedForce.name=粉碎力量矿石
     S:oredict.crushedForcicium.name=粉碎力场矿石
@@ -20980,7 +20980,7 @@ languagefile {
     S:oredict.crushedTinyFlerovium.name=小撮粉碎鈇矿石
     S:oredict.crushedTinyFlerovium298.name=小撮粉碎鈇-298矿石
     S:oredict.crushedTinyFluorine.name=小撮粉碎氟矿石
-    S:oredict.crushedTinyFluorite.name=小撮粉碎萤石矿石
+    S:oredict.crushedTinyFluorite.name=小撮粉碎氟石矿石
     S:oredict.crushedTinyFoolsRuby.name=小撮粉碎红宝石矿
     S:oredict.crushedTinyForce.name=小撮粉碎力量矿石
     S:oredict.crushedTinyForcicium.name=小撮粉碎力场矿石
@@ -21915,7 +21915,7 @@ languagefile {
     S:oredict.dustDiv72Flerovium298.name=1/72份鈇-298粉
     S:oredict.dustDiv72Flint.name=1/72份燧石粉
     S:oredict.dustDiv72Fluorine.name=1/72份氟粉
-    S:oredict.dustDiv72Fluorite.name=1/72份萤石粉
+    S:oredict.dustDiv72Fluorite.name=1/72份氟石粉
     S:oredict.dustDiv72Force.name=1/72份力量粉
     S:oredict.dustDiv72Forcicium.name=1/72份力场粉
     S:oredict.dustDiv72Forcillium.name=1/72份力场粉
@@ -22372,7 +22372,7 @@ languagefile {
     S:oredict.dustFlerovium298.name=鈇-298粉
     S:oredict.dustFlint.name=燧石粉
     S:oredict.dustFluorine.name=氟粉
-    S:oredict.dustFluorite.name=萤石粉
+    S:oredict.dustFluorite.name=氟石粉
     S:oredict.dustFoolsRuby.name=红宝石粉
     S:oredict.dustForce.name=力量粉
     S:oredict.dustForcicium.name=力场粉
@@ -22698,7 +22698,7 @@ languagefile {
     S:oredict.dustImpureFlerovium298.name=含杂鈇-298粉
     S:oredict.dustImpureFlint.name=含杂燧石粉
     S:oredict.dustImpureFluorine.name=含杂氟粉
-    S:oredict.dustImpureFluorite.name=含杂萤石粉
+    S:oredict.dustImpureFluorite.name=含杂氟石粉
     S:oredict.dustImpureFoolsRuby.name=含杂红宝石粉
     S:oredict.dustImpureForce.name=含杂力量粉
     S:oredict.dustImpureForcicium.name=含杂力场粉
@@ -23393,7 +23393,7 @@ languagefile {
     S:oredict.dustPureFlerovium298.name=纯净鈇-298粉
     S:oredict.dustPureFlint.name=纯净燧石粉
     S:oredict.dustPureFluorine.name=纯净氟粉
-    S:oredict.dustPureFluorite.name=纯净萤石粉
+    S:oredict.dustPureFluorite.name=纯净氟石粉
     S:oredict.dustPureFoolsRuby.name=纯净红宝石粉
     S:oredict.dustPureForce.name=纯净力量粉
     S:oredict.dustPureForcicium.name=纯净力场粉
@@ -24060,7 +24060,7 @@ languagefile {
     S:oredict.dustSmallFlerovium298.name=小堆鈇-298粉
     S:oredict.dustSmallFlint.name=小堆燧石粉
     S:oredict.dustSmallFluorine.name=小堆氟粉
-    S:oredict.dustSmallFluorite.name=小堆萤石粉
+    S:oredict.dustSmallFluorite.name=小堆氟石粉
     S:oredict.dustSmallFoolsRuby.name=小堆红宝石粉
     S:oredict.dustSmallForce.name=小堆力量粉
     S:oredict.dustSmallForcicium.name=小堆力场粉
@@ -24877,7 +24877,7 @@ languagefile {
     S:oredict.dustTinyFlerovium298.name=小撮鈇-298粉
     S:oredict.dustTinyFlint.name=小撮燧石粉
     S:oredict.dustTinyFluorine.name=小撮氟粉
-    S:oredict.dustTinyFluorite.name=小撮萤石粉
+    S:oredict.dustTinyFluorite.name=小撮氟石粉
     S:oredict.dustTinyFoolsRuby.name=小撮红宝石粉
     S:oredict.dustTinyForce.name=小撮力量粉
     S:oredict.dustTinyForcicium.name=小撮力场粉
@@ -27239,7 +27239,7 @@ languagefile {
     S:oredict.ingotFishRotten.name=烂鱼肉锭
     S:oredict.ingotFlerovium.name=鈇锭
     S:oredict.ingotFlerovium298.name=鈇-298锭
-    S:oredict.ingotFluorite.name=萤石锭
+    S:oredict.ingotFluorite.name=氟石锭
     S:oredict.ingotForce.name=力量锭
     S:oredict.ingotFrancium.name=钫锭
     S:oredict.ingotGadolinium.name=钆锭
@@ -29329,7 +29329,7 @@ languagefile {
     S:oredict.nuggetFishRotten.name=烂鱼肉粒
     S:oredict.nuggetFlerovium.name=鈇粒
     S:oredict.nuggetFlerovium298.name=鈇-298粒
-    S:oredict.nuggetFluorite.name=萤石粒
+    S:oredict.nuggetFluorite.name=氟石粒
     S:oredict.nuggetForce.name=力量粒
     S:oredict.nuggetFrancium.name=钫粒
     S:oredict.nuggetGadolinium.name=钆粒
@@ -29774,7 +29774,7 @@ languagefile {
     S:oredict.oreAndesiteFlerovium.name=安山岩鈇矿石
     S:oredict.oreAndesiteFlerovium298.name=安山岩鈇-298矿石
     S:oredict.oreAndesiteFluorine.name=安山岩氟矿石
-    S:oredict.oreAndesiteFluorite.name=安山岩萤石矿石
+    S:oredict.oreAndesiteFluorite.name=安山岩氟石矿石
     S:oredict.oreAndesiteForce.name=安山岩力量矿石
     S:oredict.oreAndesiteForcicium.name=安山岩力场矿石
     S:oredict.oreAndesiteForcillium.name=安山岩力场矿石
@@ -31948,7 +31948,7 @@ languagefile {
     S:oredict.oreDioriteFlerovium.name=闪长岩鈇矿石
     S:oredict.oreDioriteFlerovium298.name=闪长岩鈇-298矿石
     S:oredict.oreDioriteFluorine.name=闪长岩氟矿石
-    S:oredict.oreDioriteFluorite.name=闪长岩萤石矿石
+    S:oredict.oreDioriteFluorite.name=闪长岩氟石矿石
     S:oredict.oreDioriteForce.name=闪长岩力量矿石
     S:oredict.oreDioriteForcicium.name=闪长岩力场矿石
     S:oredict.oreDioriteForcillium.name=闪长岩力场矿石
@@ -33521,7 +33521,7 @@ languagefile {
     S:oredict.oreLimestoneFlerovium.name=石灰岩鈇矿石
     S:oredict.oreLimestoneFlerovium298.name=石灰岩鈇-298矿石
     S:oredict.oreLimestoneFluorine.name=石灰岩氟矿石
-    S:oredict.oreLimestoneFluorite.name=石灰岩萤石矿石
+    S:oredict.oreLimestoneFluorite.name=石灰岩氟石矿石
     S:oredict.oreLimestoneForce.name=石灰岩力量矿石
     S:oredict.oreLimestoneForcicium.name=石灰岩力场矿石
     S:oredict.oreLimestoneForcillium.name=石灰岩力场矿石
@@ -38248,7 +38248,7 @@ languagefile {
     S:oredict.plantGtBerryFlerovium298.name=鈇-298梅
     S:oredict.plantGtBerryFlint.name=燧石梅
     S:oredict.plantGtBerryFluorine.name=氟梅
-    S:oredict.plantGtBerryFluorite.name=萤石梅
+    S:oredict.plantGtBerryFluorite.name=氟石梅
     S:oredict.plantGtBerryFoolsRuby.name=红宝石梅
     S:oredict.plantGtBerryForce.name=力量梅
     S:oredict.plantGtBerryForcicium.name=力场梅
@@ -39080,7 +39080,7 @@ languagefile {
     S:oredict.plantGtBlossomFlerovium298.name=鈇-298花
     S:oredict.plantGtBlossomFlint.name=燧石花
     S:oredict.plantGtBlossomFluorine.name=氟花
-    S:oredict.plantGtBlossomFluorite.name=萤石花
+    S:oredict.plantGtBlossomFluorite.name=氟石花
     S:oredict.plantGtBlossomFoolsRuby.name=红宝石花
     S:oredict.plantGtBlossomForce.name=力量花
     S:oredict.plantGtBlossomForcicium.name=力场花
@@ -39911,7 +39911,7 @@ languagefile {
     S:oredict.plantGtFiberFlerovium298.name=粗糙的鈇-298纤维
     S:oredict.plantGtFiberFlint.name=粗糙的燧石纤维
     S:oredict.plantGtFiberFluorine.name=粗糙的氟纤维
-    S:oredict.plantGtFiberFluorite.name=粗糙的萤石纤维
+    S:oredict.plantGtFiberFluorite.name=粗糙的氟石纤维
     S:oredict.plantGtFiberFoolsRuby.name=粗糙的红宝石纤维
     S:oredict.plantGtFiberForce.name=粗糙的力量纤维
     S:oredict.plantGtFiberForcicium.name=粗糙的力场纤维
@@ -40742,7 +40742,7 @@ languagefile {
     S:oredict.plantGtTwigFlerovium298.name=鈇-298细枝
     S:oredict.plantGtTwigFlint.name=燧石细枝
     S:oredict.plantGtTwigFluorine.name=氟细枝
-    S:oredict.plantGtTwigFluorite.name=萤石细枝
+    S:oredict.plantGtTwigFluorite.name=氟石细枝
     S:oredict.plantGtTwigFoolsRuby.name=红宝石细枝
     S:oredict.plantGtTwigForce.name=力量细枝
     S:oredict.plantGtTwigForcicium.name=力场细枝
@@ -41576,7 +41576,7 @@ languagefile {
     S:oredict.plantGtWartFlerovium298.name=鈇-298疣
     S:oredict.plantGtWartFlint.name=燧石疣
     S:oredict.plantGtWartFluorine.name=氟疣
-    S:oredict.plantGtWartFluorite.name=萤石疣
+    S:oredict.plantGtWartFluorite.name=氟石疣
     S:oredict.plantGtWartFoolsRuby.name=红宝石疣
     S:oredict.plantGtWartForce.name=力量疣
     S:oredict.plantGtWartForcicium.name=力场疣
@@ -45944,7 +45944,7 @@ languagefile {
     S:oredict.rockGtFlerovium298.name=含鈇-298岩石
     S:oredict.rockGtFlint.name=Flint Rock
     S:oredict.rockGtFluorine.name=含氟岩石
-    S:oredict.rockGtFluorite.name=含萤石岩石
+    S:oredict.rockGtFluorite.name=含氟石岩石
     S:oredict.rockGtForce.name=含力量岩石
     S:oredict.rockGtForcicium.name=含力场岩石
     S:oredict.rockGtForcillium.name=含力场岩石
@@ -47094,7 +47094,7 @@ languagefile {
     S:oredict.scrapGtFlerovium298.name=鈇-298废料
     S:oredict.scrapGtFlint.name=燧石废料
     S:oredict.scrapGtFluorine.name=氟废料
-    S:oredict.scrapGtFluorite.name=萤石废料
+    S:oredict.scrapGtFluorite.name=氟石废料
     S:oredict.scrapGtFoolsRuby.name=红宝石废料
     S:oredict.scrapGtForce.name=力量废料
     S:oredict.scrapGtForcicium.name=力场废料

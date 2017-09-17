@@ -56,10 +56,10 @@ class langFile:
     def save(self, path):
         with open(path, 'w', encoding='utf-8') as f:
             f.write(
-                '# Configuration file\r\n\r\nenablelangfile {\r\n    B:UseThisFileAsLanguageFile=true\r\n}\r\n\r\n\r\nlanguagefile {\r\n')
+                '# Configuration file\n\nenablelangfile {\n    B:UseThisFileAsLanguageFile=true\n}\n\n\nlanguagefile {\n')
             for item in sorted(self.data.items(), key=lambda x: x[0]):
-                f.write('    S:{0}={1}\r\n'.format(item[0], item[1]))
-            f.write('}\r\n\r\n\r\n')
+                f.write('    S:{0}={1}\n'.format(item[0], item[1]))
+            f.write('}\n\n\n')
 
 
 class pattern:
@@ -175,10 +175,10 @@ if __name__ == '__main__':
         except:
             pattern.glossary = {}
             with open(GlossaryPath, 'w', encoding='utf-8') as f:
-                f.write("{}\r\n")
+                f.write("{}\n")
     else:
         with open(GlossaryPath, 'w', encoding='utf-8') as f:
-            f.write("{}\r\n")
+            f.write("{}\n")
 
     # Replacement
     _sortedOri = sorted(_ori.data.items(), key=lambda x: x[0])
