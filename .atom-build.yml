@@ -1,0 +1,1 @@
+cmd: python Replacer-TMR/RegexReplacer.py GregTech.lang Original/GregTech.lang Replacer-TMR/glossary.json Replacer-TMR/patterns.json GregTech.lang
