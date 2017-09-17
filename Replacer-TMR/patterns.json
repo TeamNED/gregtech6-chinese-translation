@@ -634,5 +634,35 @@
         "value": "(.+) C-Foam",
         "repl": "\\1建筑泡沫",
         "priority": 1000
+    },
+    {
+        "name": "oredict.gemChipped.+",
+        "value": "Chipped (.+)\\s*(Crystal)?",
+        "repl": "碎裂的\\1",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.gemExquisite.+",
+        "value": "Exquisite (.+)\\s*(Crystal)?",
+        "repl": "精美的\\1",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.gemFlawed.+",
+        "value": "Flawed (.+)\\s*(Crystal)?",
+        "repl": "有瑕疵的\\1",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.gemFlawless.+",
+        "value": "Flawless (.+)\\s*(Crystal)?",
+        "repl": "无瑕的\\1",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.gemLegendary.+",
+        "value": "Legendary (.+)\\s*(Crystal)?",
+        "repl": "传奇\\1",
+        "priority": 1000
     }
 ]
