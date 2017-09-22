@@ -8494,11 +8494,11 @@ languagefile {
     S:gt.multitileentity.20522.name=Burner Mixer (Steel)
     S:gt.multitileentity.20523.name=Burner Mixer (Titanium)
     S:gt.multitileentity.20524.name=Burner Mixer (Tungstensteel)
-    S:gt.multitileentity.20541.name=Bumblelyzer (LV)
-    S:gt.multitileentity.20542.name=Bumblelyzer (MV)
-    S:gt.multitileentity.20543.name=Bumblelyzer (HV)
-    S:gt.multitileentity.20544.name=Bumblelyzer (EV)
-    S:gt.multitileentity.20545.name=Bumblelyzer (IV)
+    S:gt.multitileentity.20541.name=黄蜂分析仪 (LV)
+    S:gt.multitileentity.20542.name=黄蜂分析仪 (MV)
+    S:gt.multitileentity.20543.name=黄蜂分析仪 (HV)
+    S:gt.multitileentity.20544.name=黄蜂分析仪 (EV)
+    S:gt.multitileentity.20545.name=黄蜂分析仪 (IV)
     S:gt.multitileentity.20551.name=剥皮器 (青铜)
     S:gt.multitileentity.20552.name=剥皮器 (钢)
     S:gt.multitileentity.20553.name=剥皮器 (钛)
@@ -8527,7 +8527,7 @@ languagefile {
     S:gt.multitileentity.22001.name=转换器
     S:gt.multitileentity.22002.name=浸洗器
     S:gt.multitileentity.22003.name=发酵器
-    S:gt.multitileentity.22004.name=Autoclave
+    S:gt.multitileentity.22004.name=高压釜
     S:gt.multitileentity.24900.name=光纤
     S:gt.multitileentity.25002.name=黄铜物流管道
     S:gt.multitileentity.25003.name=大型黄铜物流管道
@@ -9403,7 +9403,7 @@ languagefile {
     S:gt.recipe.blastfurnace=高炉
     S:gt.recipe.boxinator=装箱机
     S:gt.recipe.brewer=酿造炉
-    S:gt.recipe.bumblelyzer=Bumblelyzer
+    S:gt.recipe.bumblelyzer=黄蜂分析仪
     S:gt.recipe.bumblequeen=Bumblebee Queen
     S:gt.recipe.burnmixer=Burner Mixer
     S:gt.recipe.byproductlist=矿物副产物列表
