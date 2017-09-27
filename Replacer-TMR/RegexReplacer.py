@@ -25,7 +25,7 @@ path_of_translated = args.translated
 path_of_original = args.original
 path_of_output = args.output
 path_of_glossary = args.glossary
-path_of_pattern = args.path_of_pattern
+path_of_pattern = args.pattern
 
 # Settings
 
