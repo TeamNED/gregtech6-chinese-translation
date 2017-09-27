@@ -9,37 +9,36 @@ import json
 import argparse
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout.detach())  # utf-8 output
 
-# Paths
-parser = argparse.ArgumentParser(
+# Init a parser
+_parser = argparse.ArgumentParser(
     description='A simple regex-based replacer dealt with GregTech6 Chinese Translasion')
-parser.add_argument(
-    'translated', help='Filepath of currently translated GregTech.lang')
-parser.add_argument('original', help='Filepath of original GregTech.lang')
-parser.add_argument(
-    'glossary', help='Filepath of glossary, auto-create if not exist')
-parser.add_argument('pattern', help='Filepath of regex patterns')
-parser.add_argument('output', help='Filepath of output GregTech.lang')
-args = parser.parse_args()
-
-path_of_translated = args.translated
-path_of_original = args.original
-path_of_output = args.output
-path_of_glossary = args.glossary
-path_of_pattern = args.pattern
+_parser.add_argument('-d', '--delobs', action='store_true', default=False,
+                    help='To delete item only exist in translated file')
+_parser.add_argument('-r', '--respect', action='store_true', default=False,
+                    help='To use translated translations instead of the processed ones')
+_parser.add_argument('-p', '--partly', action='store_true', default=False,
+                    help='To allow unknown main word in translation')
+_parser.add_argument(
+    'translated', help='The path of currently translated GregTech.lang')
+_parser.add_argument('original', help='The path of original GregTech.lang')
+_parser.add_argument(
+    'glossary', help='The path of glossary, auto-create if not exist')
+_parser.add_argument('pattern', help='The path of regex patterns')
+_parser.add_argument('output', help='The path of output GregTech.lang')
+_args = _parser.parse_args()
 
 # Settings
-
-# To delete item only exist in translated file - Must be False
-delete_obsolete_item = False
-# To Use translated translations instead of the processed ones
-respect_translated = False
-allow_partly_translation = False      # To allow unknown mainWord in translation
-# LearnGlossary = True                # To learn Glossary
+path_of_translated = _args.translated
+path_of_original = _args.original
+path_of_output = _args.output
+path_of_glossary = _args.glossary
+path_of_pattern = _args.pattern
+delete_obsolete_item = _args.delobs
+respect_translated = _args.respect
+allow_partly_translation = _args.partly
 
 
 class pattern:
-    instances = []
-
     def __init__(self, nameString, valueString, repl, priority=-1):
         self.nameString = nameString
         self.nameRegex = re.compile(nameString)
@@ -47,19 +46,20 @@ class pattern:
         self.valueRegex = re.compile(valueString)
         self.repl = repl
         self.priority = priority
-        pattern.instances.append(self)
 
     #@classmethod
     # def cleanupGlossary(cls):
 
     @classmethod
     def loadFile(cls, path):
+        ret = []
         with open(path, 'r', encoding='utf-8') as f:
             arr = json.loads(f.read())
             if len(arr) > 0:
                 for item in arr:
-                    pattern(item['name'], item['value'],
-                            item['repl'], item['priority'])
+                    ret.append(pattern(item['name'], item['value'],
+                                       item['repl'], item['priority']))
+        return ret
 
 
 class LangItem:
@@ -204,8 +204,8 @@ class Glossary:
 if __name__ == '__main__':
     # Load File
     _lang = LangItemCollection(path_of_original, path_of_translated)
-    pattern.loadFile(path_of_pattern)
+    _p = pattern.loadFile(path_of_pattern)
     _g = Glossary(path_of_glossary)
-    _lang.process(pattern.instances, _g)
+    _lang.process(_p, _g)
     _lang.save_to(path_of_output)
     _g.save_to(path_of_glossary)
