@@ -14,11 +14,11 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout.detach())  # utf-8 output
 _parser = argparse.ArgumentParser(
     description='A simple regex-based replacer dealt with GregTech6 Chinese Translasion')
 _parser.add_argument('-d', '--delobs', action='store_true', default=False,
-                    help='To delete item only exist in translated file')
+                     help='To delete item only exist in translated file')
 _parser.add_argument('-r', '--respect', action='store_true', default=False,
-                    help='To use translated translations instead of the processed ones')
+                     help='To use translated translations instead of the processed ones')
 _parser.add_argument('-p', '--partial', action='store_true', default=False,
-                    help='To allow unknown main word in translation')
+                     help='To allow unknown main word in translation')
 _parser.add_argument(
     'translated', help='The path of currently translated GregTech.lang')
 _parser.add_argument('original', help='The path of original GregTech.lang')
@@ -26,7 +26,9 @@ _parser.add_argument(
     'glossary', help='The path of glossary, auto-create if not exist')
 _parser.add_argument('pattern', help='The path of regex patterns')
 _parser.add_argument('output', help='The path of output GregTech.lang')
-_parser.add_argument('-t','--track',nargs='+',help='Regex expressions of which subject you want to track')
+_parser.add_argument('exception', help='The path of exceptions of entries')
+_parser.add_argument('-t', '--track', nargs='+',
+                     help='Regex expressions of which subject you want to track')
 _args = _parser.parse_args()
 
 # Settings
@@ -35,10 +37,11 @@ path_of_original = _args.original
 path_of_output = _args.output
 path_of_glossary = _args.glossary
 path_of_pattern = _args.pattern
+path_of_exception = _args.exception
 delete_obsolete_item = _args.delobs
 respect_translated = _args.respect
 allow_partial_translation = _args.partial
-track_regs=_args.track
+track_regs = _args.track
 
 
 class pattern:
@@ -65,6 +68,12 @@ class pattern:
         return ret
 
 
+class ExceptingEntries:
+    def __init__(self, path):
+        with open(path, 'r', encoding='utf-8') as f:
+            self.entries = json.loads(f.read())
+
+
 class LangItem:
     def __init__(self, key, en='', zh=''):
         self.key = key
@@ -77,11 +86,11 @@ class LangItemCollection:
     def __init__(self, original, translated):
         """Store original and translated in one sorted dict"""
         self.items = {}
-        self.loadFile(path_of_original, True, delete_obsolete_item)
-        self.loadFile(path_of_translated, False, delete_obsolete_item)
+        self.loadFile(path_of_original, True)
+        self.loadFile(path_of_translated, False)
         sorted(self.items.items(), key=lambda x: x[0])
 
-    def loadFile(self, path, isoriginal, delete_obsolete=False):
+    def loadFile(self, path, isoriginal):
         with open(path, 'r', encoding='utf-8') as f:
             for l in f:
                 l = l.strip()
@@ -90,38 +99,50 @@ class LangItemCollection:
                     k = l[2:i]
                     v = l[i + 1:]
                     if k not in self.items:
-                        if (not isoriginal) and delete_obsolete:
+                        if (not isoriginal) and delete_obsolete_item:
                             continue
                         self.items[k] = LangItem(k, '', '')
                     if isoriginal:
-                        self.items[k].en=v
+                        self.items[k].en = v
                     else:
-                        self.items[k].zh_old=v
+                        self.items[k].zh_old = v
 
-    def process(self, patterns, glossary,tracking=None,log_file=None):
+    def process(self, patterns, glossary, excepting_entries, tracking=None, log_file=None):
         """Process this LangItemCollection with given partterns and glossary"""
         if tracking is not None:
             # Debug info
-            _tracking_regs=[]
+            _tracking_regs = []
             for _s in tracking:
                 try:
-                    _r=re.compile(_s)
+                    _r = re.compile(_s)
                     _tracking_regs.append(_r)
                 except:
-                    log_file.write('[ERROR] Invalid regex {0}, skipping...\n'.format(_s))
-            if len(_tracking_regs)==0:
-                _tracking_regs=None
+                    log_file.write(
+                        '[ERROR] Invalid regex {0}, skipping...\n'.format(_s))
+            if len(_tracking_regs) == 0:
+                _tracking_regs = None
+                _tracking_current = False
 
         for _item in self.items.values():
             if _tracking_regs is not None:
                 # Judge if should track
-                _tracking_current=any([x.match(_item.key) is not None for x in _tracking_regs])
+                _tracking_current = any(
+                    [x.match(_item.key) is not None for x in _tracking_regs])
 
             # Invalid items or items that needn't process
-            if _item.en == '' or (_item.zh_old != ''and respect_translated):
+            if (_item.en == '' and delete_obsolete_item) or (_item.zh_old != ''and respect_translated):
                 if _tracking_current:
                     # Debug info
-                    log_file.write('[Warning] Invalid entry {0}:{1}/{2}, respect_translated={3}, skipping...\n'.format(_item.key,_item.en,_item.zh_old,respect_translated))
+                    log_file.write('[Warning] Invalid entry {0}:{1}/{2}, respect_translated={3}, skipping...\n'.format(
+                        _item.key, _item.en, _item.zh_old, respect_translated))
+                continue
+            # Excepting entries
+            if _item.key in excepting_entries.entries:
+                _item.zh_new = excepting_entries.entries[_item.key]
+                if _tracking_current:
+                    # Debug info
+                    log_file.write('[Excepting] Entry {0}:{1}/{2}->{3}, skipping...\n'.format(
+                        _item.key, _item.en, _item.zh_old, _item.zh_new))
                 continue
             # Search for patterns whose 'name' matches item.en
             # Order by priority in desending
@@ -131,7 +152,8 @@ class LangItemCollection:
             # If have any matched pattern's name
             if len(_patterns_to_be_processd) > 0:
                 if _tracking_current:
-                    log_file.write('[Info] {0} regex(es) matched the name of entry {1}:{2}\n'.format(len(_patterns_to_be_processd),_item.key,_item.en))
+                    log_file.write('[Info] {0} regex(es) matched the name of entry {1}:{2}\n'.format(
+                        len(_patterns_to_be_processd), _item.key, _item.en))
                 # Init a stack for item
                 _item.pattern_stack = []
                 for _p in _patterns_to_be_processd:
@@ -139,14 +161,16 @@ class LangItemCollection:
                     _matched = _p.value_reg.match(_item.main_word_en)
                     if _matched is not None:
                         if _tracking_current:
-                            log_file.write('[Matched] {0}->{1}, main word: {2}->{3}\n'.format(_p.value,_p.repl,_item.main_word_en,_matched.group(1)))
+                            log_file.write('[Matched] {0}->{1}, main word: {2}->{3}\n'.format(
+                                _p.value, _p.repl, _item.main_word_en, _matched.group(1)))
                         # Value matched
                         _item.pattern_stack.append(_p)
                         # Set next main word
                         _item.main_word_en = _matched.group(1)
                     else:
                         if _tracking_current:
-                            log_file.write('[Failed] {0}->{1}\n'.format(_p.value,_p.repl))
+                            log_file.write(
+                                '[Failed] {0}->{1}\n'.format(_p.value, _p.repl))
                 # Get the main word from the glossary
                 _item.main_word_zh = glossary.get_main_word(
                     _item.main_word_en, _item.key)
@@ -155,33 +179,39 @@ class LangItemCollection:
                     # TODO add a debug info
                     if allow_partial_translation:
                         if _tracking_current:
-                            log_file.write('[Partial] Using a partial main word {0}\n'.format(_item.main_word_en))
+                            log_file.write(
+                                '[Partial] Using a partial main word {0}\n'.format(_item.main_word_en))
                         # Using partial translation
                         _item.main_word_zh = _item.main_word_en
                     else:
                         if _tracking_current:
-                            log_file.write('[Failed] No matching main word of {0}, using original.\n'.format(_item.main_word_en))
+                            log_file.write('[Failed] No matching main word of {0}, using original.\n'.format(
+                                _item.main_word_en))
                         # Using the original
                         _item.zh_new = _item.zh_old
                         # Next item
                         continue
                 if _tracking_current:
-                    log_file.write('[Found] Using main word {0}->{1}\n'.format(_item.main_word_en,_item.main_word_zh))
+                    log_file.write(
+                        '[Found] Using main word {0}->{1}\n'.format(_item.main_word_en, _item.main_word_zh))
                 # Have available or partial translation
                 _item.zh_new = _item.main_word_zh
                 # Replace in a reserved order
                 for _p in _item.pattern_stack[::-1]:
                     _item.zh_new = _p.repl.format(_item.zh_new)
                 if _tracking_current:
-                    log_file.write('[Result] The entry {0} is processed: {1}/{2}->{3}\n'.format(_item.key,_item.en,_item.zh_old,_item.zh_new))
+                    log_file.write('[Result] The entry {0} is processed: {1}/{2}->{3}\n'.format(
+                        _item.key, _item.en, _item.zh_old, _item.zh_new))
             else:
                 if _tracking_current:
                     # Debug info
-                    log_file.write('[Info] No regex matched the name of entry {0}\n'.format(_item.key))
+                    log_file.write(
+                        '[Info] No regex matched the name of entry {0}\n'.format(_item.key))
                 # No matched patterns
                 _item.zh_new = _item.zh_old
             if _tracking_current:
-                log_file.write('[Result] The entry {0} is processed: {1}/{2}->{3}\n'.format(_item.key,_item.en,_item.zh_old,_item.zh_new))
+                log_file.write('[Result] The entry {0} is processed: {1}/{2}->{3}\n'.format(
+                    _item.key, _item.en, _item.zh_old, _item.zh_new))
 
     def save_to(self, path):
         """Save this langFile to a given path"""
@@ -245,12 +275,14 @@ if __name__ == '__main__':
     _lang = LangItemCollection(path_of_original, path_of_translated)
     _p = pattern.loadFile(path_of_pattern)
     _g = Glossary(path_of_glossary)
-    if len(track_regs)>0:
+    _ee = ExceptingEntries(path_of_exception)
+    if len(track_regs) > 0:
         # Save log to the directory of this program
-        log_path=sys.path[0]+'/'+(datetime.datetime.utcnow().isoformat(sep='-',timespec='seconds').replace(':','-'))+'.log'
+        log_path = sys.path[0] + '/' + (datetime.datetime.utcnow().isoformat(
+            sep='-', timespec='seconds').replace(':', '-')) + '.log'
         with open(log_path, 'w', encoding='utf-8') as _f:
-            _lang.process(_p, _g,tracking=track_regs,log_file=_f)
+            _lang.process(_p, _g, _ee, tracking=track_regs, log_file=_f)
     else:
-        _lang.process(_p, _g)
+        _lang.process(_p, _g, _ee)
     _lang.save_to(path_of_output)
     _g.save_to(path_of_glossary)
