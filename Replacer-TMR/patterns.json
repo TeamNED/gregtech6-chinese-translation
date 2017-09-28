@@ -276,68 +276,74 @@
         "priority": 1000
     },
     {
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock).+",
+        "value": "(?P<mw>.+) Ore",
+        "repl": "{0}",
+        "priority": 2000
+    },
+    {
         "name": "oredict.oreAndesit.+",
-        "value": "Andesite (?P<mw>.+) ?(Ore)?",
+        "value": "Andesite (?P<mw>.+)",
         "repl": "安山岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreDiorite.+",
-        "value": "Diorite (?P<mw>.+) ?(Ore)?",
+        "value": "Diorite (?P<mw>.+)",
         "repl": "闪长岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreLimestone.+",
-        "value": "Limestone (?P<mw>.+) ?(Ore)?",
+        "value": "Limestone (?P<mw>.+)",
         "repl": "石灰岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreNetherrack.+",
-        "value": "Nether (?P<mw>.+) ?(Ore)?",
+        "value": "Nether (?P<mw>.+)",
         "repl": "下界{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreEndstone.+",
-        "value": "End (?P<mw>.+) ?(Ore)?",
+        "value": "End (?P<mw>.+)",
         "repl": "末地{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreRedgranite.+",
-        "value": "Granite (?P<mw>.+) ?(Ore)?",
+        "value": "Granite (?P<mw>.+)",
         "repl": "红色花岗岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreBlackgranite.+",
-        "value": "Granite (?P<mw>.+) ?(Ore)?",
+        "value": "Granite (?P<mw>.+)",
         "repl": "黑色花岗岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreSandstone.+",
-        "value": "Granite (?P<mw>.+) ?(Ore)?",
+        "value": "Granite (?P<mw>.+)",
         "repl": "沙石{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreSmall.+",
-        "value": "Small (?P<mw>.+) ?(Ore)?",
+        "value": "Small (?P<mw>.+)",
         "repl": "贫瘠{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreBasalt.+",
-        "value": "Basalt (?P<mw>.+) ?(Ore)?",
+        "value": "Basalt (?P<mw>.+)",
         "repl": "玄武岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreBedrock.+",
-        "value": "Bedrock (?P<mw>.+) ?(Ore)?",
+        "value": "Bedrock (?P<mw>.+)",
         "repl": "基岩{0}矿石",
         "priority": 1000
     },
