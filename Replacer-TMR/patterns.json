@@ -102,6 +102,18 @@
         "priority": 1000
     },
     {
+        "name": "oredict.arrowGtWood.+",
+        "value": "(.+) Arrow",
+        "repl": "{0}箭",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.lens.+",
+        "value": "(.+) Lens",
+        "repl": "{0}透镜",
+        "priority": 1000
+    },
+    {
         "name": "oredict.arrowGtPlastic.+",
         "value": "Light (.+) Arrow",
         "repl": "轻质{0}箭",
@@ -195,6 +207,42 @@
         "name": "oredict.toolHead.+",
         "value": "(.+) Sword Blade",
         "repl": "{0}剑身",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(.+) Drill Tip",
+        "repl": "{0}钻头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(.+) File Tip",
+        "repl": "{0}锉刀头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(.+) Universal Spade Head",
+        "repl": "{0}万用铲头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(.+) Universal Saw Blade",
+        "repl": "{0}锯片",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(.+) Universal Screwdriver Tip",
+        "repl": "{0}螺丝刀头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(.+) Universal Wrench Tip",
+        "repl": "{0}扳手头",
         "priority": 1000
     },
     {
