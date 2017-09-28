@@ -159,14 +159,14 @@ class LangItemCollection:
                 for _p in _patterns_to_be_processd:
                     # Match the pattern's value
                     _matched = _p.value_reg.match(_item.main_word_en)
-                    if _matched is not None:
+                    if _matched is not None and 'mw' in _matched.groupdict():
                         if _tracking_current:
                             log_file.write('[Matched] {0}->{1}, main word: {2}->{3}\n'.format(
-                                _p.value, _p.repl, _item.main_word_en, _matched.group(1)))
+                                _p.value, _p.repl, _item.main_word_en, _matched.group('mw')))
                         # Value matched
                         _item.pattern_stack.append(_p)
                         # Set next main word
-                        _item.main_word_en = _matched.group(1)
+                        _item.main_word_en = _matched.group('mw')
                     else:
                         if _tracking_current:
                             log_file.write(
