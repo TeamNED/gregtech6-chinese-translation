@@ -534,9 +534,21 @@
         "priority": 1000
     },
     {
+        "name": "oredict.crushed.+",
+        "value": "Crushed (.+) Ore",
+        "repl": "粉碎{0}矿石",
+        "priority": 1000
+    },
+    {
         "name": "oredict.crushedCentrifuged.+",
         "value": "Refined (?P<mw>.+) Ore",
         "repl": "离心{0}矿石",
+        "priority": 1100
+    },
+    {
+        "name": "oredict.crushedPurified.+",
+        "value": "Purified (?P<mw>.+) Ore",
+        "repl": "纯净{0}矿石",
         "priority": 1100
     },
     {
@@ -546,10 +558,16 @@
         "priority": 1050
     },
     {
-        "name": "oredict.crushed.+",
-        "value": "Crushed (.+) Ore",
-        "repl": "粉碎{0}矿石",
-        "priority": 1000
+        "name": "oredict.crushedPurifiedTiny.+",
+        "value": "Tiny Purified (?P<mw>.+) Ore",
+        "repl": "小撮纯净{0}矿石",
+        "priority": 1200
+    },
+    {
+        "name": "oredict.crushedCentrifugedTiny.+",
+        "value": "Tiny Refined (?P<mw>.+) Ore",
+        "repl": "小撮离心{0}矿石",
+        "priority": 1200
     },
     {
         "name": "gt.block.(beam|log|planks).+",
