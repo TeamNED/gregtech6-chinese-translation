@@ -620,32 +620,32 @@
     {
         "name": "gt.multiitem.bumblebee.+",
         "value": "(?P<mw>.+) Drone",
-        "repl": "{0}雄峰",
+        "repl": "雄性{0}",
+        "priority": 1500
+    },
+    {
+        "name": "gt.multiitem.bumblebee.+",
+        "value": "(?P<mw>.+) Princess",
+        "repl": "雌性{0}",
         "priority": 1500
     },
     {
         "name": "gt.multiitem.bumblebee.+",
         "value": "(?P<mw>.+) Queen",
         "repl": "{0}蜂后",
-        "priority": 1000
+        "priority": 1500
     },
     {
         "name": "gt.multiitem.bumblebee.+",
-        "value": "(?P<mw>.+) Princess",
-        "repl": "{0}公主蜂",
+        "value": "Bumble (?P<mw>.+)",
+        "repl": "{0}大黄蜂",
         "priority": 1000
     },
     {
         "name": "gt.multiitem.bumblebee.+",
         "value": "(?P<mw>.+) Bumblebee",
-        "repl": "{0}熊蜂",
-        "priority": 500
-    },
-    {
-        "name": "gt.multiitem.bumblebee.+",
-        "value": "Bumble (?P<mw>.+)",
-        "repl": "{0}熊蜂",
-        "priority": 500
+        "repl": "{0}大黄蜂",
+        "priority": 1000
     },
     {
         "name": "gt.block.concrete.+",
