@@ -1,5 +1,11 @@
 [
     {
+        "name":"oredict.crateGt.+",
+        "value":"Crate of (.+)",
+        "repl":"{0}板条箱",
+        "priority":5000
+    },
+    {
         "name": "fluid.molten.+",
         "value": "Molten (.+)",
         "repl": "熔融{0}",
@@ -102,135 +108,93 @@
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadArrow.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Arrow Head",
         "repl": "{0}箭头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawArrow.+",
-        "value": "Raw (.+) Arrow Head",
-        "repl": "粗糙的{0}箭头",
-        "priority": 1000
+        "name": "oredict.tool.+",
+        "value": "Raw (.+)",
+        "repl": "粗糙的{0}",
+        "priority": 2000
     },
     {
-        "name": "oredict.toolHeadAxe.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Axe Head",
         "repl": "{0}斧头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawAxe.+",
-        "value": "Raw (.+) Axe Head",
-        "repl": "粗糙的{0}斧头",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.toolHeadAxeDouble.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Double Axe Head",
         "repl": "{0}双刃斧头",
         "priority": 1500
     },
     {
-        "name": "oredict.toolHeadRawAxeDouble.+",
-        "value": "Raw (.+) Double Axe Head",
-        "repl": "粗糙的{0}双刃斧头",
-        "priority": 1500
-    },
-    {
-        "name": "oredict.toolHeadHammer.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Hammer Head",
         "repl": "{0}锤头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadHoe.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Hoe Head",
         "repl": "{0}锄头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawHoe.+",
-        "value": "Raw (.+) Hoe Head",
-        "repl": "粗糙的{0}锄头",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.toolHeadPickaxeGem.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) tipped Pickaxe Head",
         "repl": "表镶{0}镐头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadPickaxe.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Pickaxe Head",
         "repl": "{0}镐头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawPickaxe.+",
-        "value": "Raw (.+) Pickaxe Head",
-        "repl": "粗糙的{0}镐头",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.toolHeadPlow.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Plow Head",
         "repl": "{0}犁头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawPlow.+",
-        "value": "Raw (.+) Plow Head",
-        "repl": "粗糙的{0}犁头",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.toolHeadSense.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Sense Blade",
         "repl": "{0}镰刀片",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawSense.+",
-        "value": "Raw (.+) Sense Blade",
-        "repl": "粗糙的{0}镰刀片",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.toolHeadSpade.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Spade Head",
         "repl": "{0}铲头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawSpade.+",
-        "value": "Raw (.+) Spade Head",
-        "repl": "粗糙的{0}铲头",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.toolHeadShovel.+",
+        "name": "oredict.toolHead.+",
         "value": "(.+) Shovel Head",
         "repl": "{0}锹头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadRawShovel.+",
-        "value": "Raw (.+) Shovel Head",
-        "repl": "粗糙的{0}锹头",
+        "name": "oredict.toolHead.+",
+        "value": "(.+) Chisel Head",
+        "repl": "{0}凿子头",
         "priority": 1000
     },
     {
-        "name": "oredict.toolHeadSword.+",
+        "name": "oredict.toolHead.+",
+        "value": "(.+) Construction Pickaxe Head",
+        "repl": "{0}建筑镐头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
         "value": "(.+) Sword Blade",
         "repl": "{0}剑身",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.toolHeadRawSword.+",
-        "value": "Raw (.+) Sword Blade",
-        "repl": "粗糙的{0}剑身",
         "priority": 1000
     },
     {

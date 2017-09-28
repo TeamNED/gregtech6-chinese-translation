@@ -119,9 +119,9 @@ class LangItemCollection:
                 except:
                     log_file.write(
                         '[ERROR] Invalid regex {0}, skipping...\n'.format(_s))
-            if len(_tracking_regs) == 0:
-                _tracking_regs = None
-                _tracking_current = False
+        if tracking is None or len(_tracking_regs) == 0:
+            _tracking_regs = None
+            _tracking_current = False
 
         for _item in self.items.values():
             if _tracking_regs is not None:
@@ -276,7 +276,7 @@ if __name__ == '__main__':
     _p = pattern.loadFile(path_of_pattern)
     _g = Glossary(path_of_glossary)
     _ee = ExceptingEntries(path_of_exception)
-    if len(track_regs) > 0:
+    if track_regs is not None and len(track_regs) > 0:
         # Save log to the directory of this program
         log_path = sys.path[0] + '/' + (datetime.datetime.utcnow().isoformat(
             sep='-', timespec='seconds').replace(':', '-')) + '.log'
