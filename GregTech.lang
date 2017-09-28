@@ -465,7 +465,7 @@ languagefile {
     S:fluid.molten.silver=熔融银
     S:fluid.molten.sodiumcarbonate=熔融碳酸钠
     S:fluid.molten.solderingalloy=熔融钎焊合金
-    S:fluid.molten.spacerock=Molten Space Rock
+    S:fluid.molten.spacerock=熔融陨石
     S:fluid.molten.spectreiron=熔融灵魂之铁
     S:fluid.molten.stainlesssteel=熔融不锈钢
     S:fluid.molten.steel=熔融钢
@@ -3712,7 +3712,7 @@ languagefile {
     S:gt.material.Hematite=赤铁矿
     S:gt.material.HempOil=大麻籽油
     S:gt.material.Hepatizon=幽魂结晶
-    S:gt.material.HexafluorosilicicAcid=Hexafluorosilicic Acid
+    S:gt.material.HexafluorosilicicAcid=六氟硅酸
     S:gt.material.Holmium=钬
     S:gt.material.HolyWater=圣水
     S:gt.material.Honey=蜂蜜
@@ -10608,7 +10608,7 @@ languagefile {
     S:oredict.arrowGtPlasticSiltstone.name=轻质粉砂岩箭
     S:oredict.arrowGtPlasticSilver.name=轻质银箭
     S:oredict.arrowGtPlasticSoularium.name=轻质魂金箭
-    S:oredict.arrowGtPlasticSpaceRock.name=Light Space Rock Arrow
+    S:oredict.arrowGtPlasticSpaceRock.name=轻质陨石箭
     S:oredict.arrowGtPlasticSpectreIron.name=轻质灵魂之铁箭
     S:oredict.arrowGtPlasticSpessartine.name=轻质锰铝榴石箭
     S:oredict.arrowGtPlasticSpinel.name=轻质尖晶石箭
@@ -10855,7 +10855,7 @@ languagefile {
     S:oredict.arrowGtWoodSiltstone.name=粉砂岩箭
     S:oredict.arrowGtWoodSilver.name=银箭
     S:oredict.arrowGtWoodSoularium.name=魂金箭
-    S:oredict.arrowGtWoodSpaceRock.name=Space Rock Arrow
+    S:oredict.arrowGtWoodSpaceRock.name=陨石箭
     S:oredict.arrowGtWoodSpectreIron.name=灵魂之铁箭
     S:oredict.arrowGtWoodSpessartine.name=锰铝榴石箭
     S:oredict.arrowGtWoodSpinel.name=尖晶石箭
@@ -11551,7 +11551,7 @@ languagefile {
     S:oredict.blockDustSolderingAlloy.name=钎焊合金粉块
     S:oredict.blockDustSoularium.name=魂金粉块
     S:oredict.blockDustSoylentGreen.name=绿色绿宝石粉块
-    S:oredict.blockDustSpaceRock.name=Block of Space Rock Dust
+    S:oredict.blockDustSpaceRock.name=陨石粉块
     S:oredict.blockDustSpectreIron.name=灵魂之铁粉块
     S:oredict.blockDustSperrylite.name=砷铂粉块
     S:oredict.blockDustSpessartine.name=锰铝榴石粉块
@@ -13527,7 +13527,7 @@ languagefile {
     S:oredict.boltSodalite.name=方钠石螺栓
     S:oredict.boltSolderingAlloy.name=钎焊合金螺栓
     S:oredict.boltSoularium.name=魂金螺栓
-    S:oredict.boltSpaceRock.name=Space Rock Bolt
+    S:oredict.boltSpaceRock.name=陨石螺栓
     S:oredict.boltSpectreIron.name=灵魂之铁螺栓
     S:oredict.boltSpessartine.name=锰铝榴石螺栓
     S:oredict.boltSpinel.name=尖晶石螺栓
@@ -14447,7 +14447,7 @@ languagefile {
     S:oredict.casingSmallSiltstone.name=粉砂岩外壳
     S:oredict.casingSmallSilver.name=银外壳
     S:oredict.casingSmallSoularium.name=魂金外壳
-    S:oredict.casingSmallSpaceRock.name=Space Rock Item Casing
+    S:oredict.casingSmallSpaceRock.name=陨石外壳
     S:oredict.casingSmallSpectreIron.name=灵魂之铁外壳
     S:oredict.casingSmallSpessartine.name=锰铝榴石外壳
     S:oredict.casingSmallSpinel.name=尖晶石外壳
@@ -14530,7 +14530,7 @@ languagefile {
     S:oredict.cellChlorine.name=氯单元
     S:oredict.cellChloroauricAcid.name=氯金酸单元
     S:oredict.cellChloroplatinicAcid.name=氯铂酸单元
-    S:oredict.cellCreosote.name=单元
+    S:oredict.cellCreosote.name=杂酚油单元
     S:oredict.cellCreosoteOil.name=杂酚油单元
     S:oredict.cellCrudeOil.name=原油单元
     S:oredict.cellCryotheum.name=凛冰单元
@@ -14552,8 +14552,8 @@ languagefile {
     S:oredict.cellHelium.name=氦单元
     S:oredict.cellHelium3.name=氦-3单元
     S:oredict.cellHeliumNeon.name=氦氖混合气体单元
-    S:oredict.cellHempOil.name=大麻籽油 Cell
-    S:oredict.cellHexafluorosilicicAcid.name=Hexafluorosilicic Acid Cell
+    S:oredict.cellHempOil.name=大麻籽油单元
+    S:oredict.cellHexafluorosilicicAcid.name=六氟硅酸单元
     S:oredict.cellHolyWater.name=圣水单元
     S:oredict.cellHoney.name=蜂蜜单元
     S:oredict.cellHoneydew.name=蜂蜜滴单元
@@ -14653,10 +14653,10 @@ languagefile {
     S:oredict.cellSulfurTrioxide.name=三氧化硫单元
     S:oredict.cellSulfuricAcid.name=硫酸单元
     S:oredict.cellSunflowerOil.name=向日葵油单元
-    S:oredict.cellTritium.name=单元
+    S:oredict.cellTritium.name=氚单元
     S:oredict.cellUUAmplifier.name=UU增殖液单元
     S:oredict.cellVitriolOfClay.name=硫酸铝单元
-    S:oredict.cellWaterDirty.name=Dirty Water Cell
+    S:oredict.cellWaterDirty.name=污水单元
     S:oredict.cellWhiteVitriol.name=硫酸锌单元
     S:oredict.cellXenon.name=氙单元
     S:oredict.chemtubeActinium.name=锕试管
@@ -15485,7 +15485,7 @@ languagefile {
     S:oredict.chemtubeHematite.name=赤铁矿试管
     S:oredict.chemtubeHempOil.name=大麻籽油试管
     S:oredict.chemtubeHepatizon.name=幽魂结晶试管
-    S:oredict.chemtubeHexafluorosilicicAcid.name=Glass Tube containing Hexafluorosilicic Acid
+    S:oredict.chemtubeHexafluorosilicicAcid.name=六氟硅酸试管
     S:oredict.chemtubeHolmium.name=钬试管
     S:oredict.chemtubeHolyWater.name=圣水试管
     S:oredict.chemtubeHoney.name=蜂蜜试管
@@ -15776,7 +15776,7 @@ languagefile {
     S:oredict.chemtubeSoularium.name=魂金试管
     S:oredict.chemtubeSoulsand.name=灵魂沙试管
     S:oredict.chemtubeSoylentGreen.name=绿色绿宝石试管
-    S:oredict.chemtubeSpaceRock.name=Glass Tube containing Space Rock
+    S:oredict.chemtubeSpaceRock.name=陨石试管
     S:oredict.chemtubeSpectreIron.name=灵魂之铁试管
     S:oredict.chemtubeSperrylite.name=砷铂试管
     S:oredict.chemtubeSpessartine.name=锰铝榴石试管
@@ -26182,7 +26182,7 @@ languagefile {
     S:oredict.gearGtSmallSiltstone.name=小型粉砂岩齿轮
     S:oredict.gearGtSmallSilver.name=小型银齿轮
     S:oredict.gearGtSmallSoularium.name=小型魂金齿轮
-    S:oredict.gearGtSmallSpaceRock.name=Small Space Rock Gear
+    S:oredict.gearGtSmallSpaceRock.name=小型陨石齿轮
     S:oredict.gearGtSmallSpectreIron.name=小型灵魂之铁齿轮
     S:oredict.gearGtSmallSpessartine.name=小型锰铝榴石齿轮
     S:oredict.gearGtSmallSpinel.name=小型尖晶石齿轮
@@ -26237,7 +26237,7 @@ languagefile {
     S:oredict.gearGtSmallYellowSapphire.name=小型黄色蓝宝石齿轮
     S:oredict.gearGtSmallZirconium.name=小型锆齿轮
     S:oredict.gearGtSoularium.name=魂金齿轮
-    S:oredict.gearGtSpaceRock.name=Space Rock Gear
+    S:oredict.gearGtSpaceRock.name=陨石齿轮
     S:oredict.gearGtSpectreIron.name=灵魂之铁齿轮
     S:oredict.gearGtSpessartine.name=锰铝榴石齿轮
     S:oredict.gearGtSpinel.name=尖晶石齿轮
@@ -38313,7 +38313,7 @@ languagefile {
     S:oredict.plantGtBerryHematite.name=赤铁矿梅
     S:oredict.plantGtBerryHempOil.name=大麻籽油梅
     S:oredict.plantGtBerryHepatizon.name=幽魂结晶梅
-    S:oredict.plantGtBerryHexafluorosilicicAcid.name=Hexafluorosilicic Acid Berry
+    S:oredict.plantGtBerryHexafluorosilicicAcid.name=六氟硅酸梅
     S:oredict.plantGtBerryHolmium.name=钬梅
     S:oredict.plantGtBerryHolyWater.name=圣水梅
     S:oredict.plantGtBerryHoney.name=蜂蜜梅
@@ -38589,7 +38589,7 @@ languagefile {
     S:oredict.plantGtBerrySolderingAlloy.name=钎焊合金梅
     S:oredict.plantGtBerrySoularium.name=魂金梅
     S:oredict.plantGtBerrySoylentGreen.name=绿色绿宝石梅
-    S:oredict.plantGtBerrySpaceRock.name=Space Rock Berry
+    S:oredict.plantGtBerrySpaceRock.name=陨石梅
     S:oredict.plantGtBerrySpectreIron.name=灵魂之铁梅
     S:oredict.plantGtBerrySperrylite.name=砷铂梅
     S:oredict.plantGtBerrySpessartine.name=锰铝榴石梅
@@ -39145,7 +39145,7 @@ languagefile {
     S:oredict.plantGtBlossomHematite.name=赤铁矿花
     S:oredict.plantGtBlossomHempOil.name=大麻籽油花
     S:oredict.plantGtBlossomHepatizon.name=幽魂结晶花
-    S:oredict.plantGtBlossomHexafluorosilicicAcid.name=Hexafluorosilicic Acid Blossom
+    S:oredict.plantGtBlossomHexafluorosilicicAcid.name=六氟硅酸花
     S:oredict.plantGtBlossomHolmium.name=钬花
     S:oredict.plantGtBlossomHolyWater.name=圣水花
     S:oredict.plantGtBlossomHoney.name=蜂蜜花
@@ -39420,7 +39420,7 @@ languagefile {
     S:oredict.plantGtBlossomSolderingAlloy.name=钎焊合金花
     S:oredict.plantGtBlossomSoularium.name=魂金花
     S:oredict.plantGtBlossomSoylentGreen.name=绿色绿宝石花
-    S:oredict.plantGtBlossomSpaceRock.name=Space Rock Blossom
+    S:oredict.plantGtBlossomSpaceRock.name=陨石花
     S:oredict.plantGtBlossomSpectreIron.name=灵魂之铁花
     S:oredict.plantGtBlossomSperrylite.name=砷铂花
     S:oredict.plantGtBlossomSpessartine.name=锰铝榴石花
@@ -39976,7 +39976,7 @@ languagefile {
     S:oredict.plantGtFiberHematite.name=粗糙的赤铁矿纤维
     S:oredict.plantGtFiberHempOil.name=粗糙的大麻籽油纤维
     S:oredict.plantGtFiberHepatizon.name=粗糙的幽魂结晶纤维
-    S:oredict.plantGtFiberHexafluorosilicicAcid.name=Raw Hexafluorosilicic Acid Fiber
+    S:oredict.plantGtFiberHexafluorosilicicAcid.name=粗糙的六氟硅酸纤维
     S:oredict.plantGtFiberHolmium.name=粗糙的钬纤维
     S:oredict.plantGtFiberHolyWater.name=粗糙的圣水纤维
     S:oredict.plantGtFiberHoney.name=粗糙的蜂蜜纤维
@@ -40251,7 +40251,7 @@ languagefile {
     S:oredict.plantGtFiberSolderingAlloy.name=粗糙的钎焊合金纤维
     S:oredict.plantGtFiberSoularium.name=粗糙的魂金纤维
     S:oredict.plantGtFiberSoylentGreen.name=粗糙的绿色绿宝石纤维
-    S:oredict.plantGtFiberSpaceRock.name=Raw Space Rock Fiber
+    S:oredict.plantGtFiberSpaceRock.name=粗糙的陨石纤维
     S:oredict.plantGtFiberSpectreIron.name=粗糙的灵魂之铁纤维
     S:oredict.plantGtFiberSperrylite.name=粗糙的砷铂纤维
     S:oredict.plantGtFiberSpessartine.name=粗糙的锰铝榴石纤维
@@ -40807,7 +40807,7 @@ languagefile {
     S:oredict.plantGtTwigHematite.name=赤铁矿细枝
     S:oredict.plantGtTwigHempOil.name=大麻籽油细枝
     S:oredict.plantGtTwigHepatizon.name=幽魂结晶细枝
-    S:oredict.plantGtTwigHexafluorosilicicAcid.name=Hexafluorosilicic Acid Twig
+    S:oredict.plantGtTwigHexafluorosilicicAcid.name=六氟硅酸细枝
     S:oredict.plantGtTwigHolmium.name=钬细枝
     S:oredict.plantGtTwigHolyWater.name=圣水细枝
     S:oredict.plantGtTwigHoney.name=蜂蜜细枝
@@ -41082,7 +41082,7 @@ languagefile {
     S:oredict.plantGtTwigSolderingAlloy.name=钎焊合金细枝
     S:oredict.plantGtTwigSoularium.name=魂金细枝
     S:oredict.plantGtTwigSoylentGreen.name=绿色绿宝石细枝
-    S:oredict.plantGtTwigSpaceRock.name=Space Rock Twig
+    S:oredict.plantGtTwigSpaceRock.name=陨石细枝
     S:oredict.plantGtTwigSpectreIron.name=灵魂之铁细枝
     S:oredict.plantGtTwigSperrylite.name=砷铂细枝
     S:oredict.plantGtTwigSpessartine.name=锰铝榴石细枝
@@ -41641,7 +41641,7 @@ languagefile {
     S:oredict.plantGtWartHematite.name=赤铁矿疣
     S:oredict.plantGtWartHempOil.name=大麻籽油疣
     S:oredict.plantGtWartHepatizon.name=幽魂结晶疣
-    S:oredict.plantGtWartHexafluorosilicicAcid.name=Hexafluorosilicic Acid Wart
+    S:oredict.plantGtWartHexafluorosilicicAcid.name=六氟硅酸疣
     S:oredict.plantGtWartHolmium.name=钬疣
     S:oredict.plantGtWartHolyWater.name=圣水疣
     S:oredict.plantGtWartHoney.name=蜂蜜疣
@@ -41916,7 +41916,7 @@ languagefile {
     S:oredict.plantGtWartSolderingAlloy.name=钎焊合金疣
     S:oredict.plantGtWartSoularium.name=魂金疣
     S:oredict.plantGtWartSoylentGreen.name=绿色绿宝石疣
-    S:oredict.plantGtWartSpaceRock.name=Space Rock Wart
+    S:oredict.plantGtWartSpaceRock.name=陨石疣
     S:oredict.plantGtWartSpectreIron.name=灵魂之铁疣
     S:oredict.plantGtWartSperrylite.name=砷铂疣
     S:oredict.plantGtWartSpessartine.name=锰铝榴石疣
@@ -42581,7 +42581,7 @@ languagefile {
     S:oredict.plateCurvedSilver.name=弯曲银板
     S:oredict.plateCurvedSolderingAlloy.name=弯曲钎焊合金板
     S:oredict.plateCurvedSoularium.name=弯曲魂金板
-    S:oredict.plateCurvedSpaceRock.name=Curved Space Rock Plate
+    S:oredict.plateCurvedSpaceRock.name=弯曲陨石板
     S:oredict.plateCurvedSpectreIron.name=弯曲灵魂之铁板
     S:oredict.plateCurvedStainlessSteel.name=弯曲不锈钢板
     S:oredict.plateCurvedSteel.name=弯曲钢板
@@ -44515,7 +44515,7 @@ languagefile {
     S:oredict.plateSilver.name=银板
     S:oredict.plateSolderingAlloy.name=钎焊合金板
     S:oredict.plateSoularium.name=魂金板
-    S:oredict.plateSpaceRock.name=Space Rock Plate
+    S:oredict.plateSpaceRock.name=陨石板
     S:oredict.plateSpectreIron.name=灵魂之铁板
     S:oredict.plateStainlessSteel.name=不锈钢板
     S:oredict.plateSteel.name=钢板
@@ -44899,7 +44899,7 @@ languagefile {
     S:oredict.plateTinySilver.name=小块银板
     S:oredict.plateTinySolderingAlloy.name=小块钎焊合金板
     S:oredict.plateTinySoularium.name=小块魂金板
-    S:oredict.plateTinySpaceRock.name=Tiny Space Rock Plate
+    S:oredict.plateTinySpaceRock.name=小块陨石板
     S:oredict.plateTinySpectreIron.name=小块灵魂之铁板
     S:oredict.plateTinyStainlessSteel.name=小块不锈钢板
     S:oredict.plateTinySteel.name=小块钢板
@@ -45628,7 +45628,7 @@ languagefile {
     S:oredict.ringSiltstone.name=粉砂岩环
     S:oredict.ringSilver.name=银环
     S:oredict.ringSoularium.name=魂金环
-    S:oredict.ringSpaceRock.name=Space Rock Ring
+    S:oredict.ringSpaceRock.name=陨石环
     S:oredict.ringSpectreIron.name=灵魂之铁环
     S:oredict.ringSpessartine.name=锰铝榴石环
     S:oredict.ringSpinel.name=尖晶石环
@@ -46140,7 +46140,7 @@ languagefile {
     S:oredict.rockGtSoapstone.name=含皂石岩石
     S:oredict.rockGtSodalite.name=含方钠石岩石
     S:oredict.rockGtSodium.name=含钠岩石
-    S:oredict.rockGtSpaceRock.name=Space Rock Rock
+    S:oredict.rockGtSpaceRock.name=含陨石岩石
     S:oredict.rockGtSperrylite.name=含砷铂岩石
     S:oredict.rockGtSpessartine.name=含锰铝榴石岩石
     S:oredict.rockGtSphalerite.name=含闪锌矿岩石
@@ -46420,7 +46420,7 @@ languagefile {
     S:oredict.rotorSiltstone.name=粉砂岩转子
     S:oredict.rotorSilver.name=银转子
     S:oredict.rotorSoularium.name=魂金转子
-    S:oredict.rotorSpaceRock.name=Space Rock Rotor
+    S:oredict.rotorSpaceRock.name=陨石转子
     S:oredict.rotorSpectreIron.name=灵魂之铁转子
     S:oredict.rotorSpessartine.name=锰铝榴石转子
     S:oredict.rotorSpinel.name=尖晶石转子
@@ -46690,7 +46690,7 @@ languagefile {
     S:oredict.roundSiltstone.name=粉砂岩垫片
     S:oredict.roundSilver.name=银垫片
     S:oredict.roundSoularium.name=魂金垫片
-    S:oredict.roundSpaceRock.name=Space Rock Round
+    S:oredict.roundSpaceRock.name=陨石垫片
     S:oredict.roundSpectreIron.name=灵魂之铁垫片
     S:oredict.roundSpessartine.name=锰铝榴石垫片
     S:oredict.roundSpinel.name=尖晶石垫片
@@ -47393,7 +47393,7 @@ languagefile {
     S:oredict.scrapGtSolderingAlloy.name=钎焊合金废料
     S:oredict.scrapGtSoularium.name=魂金废料
     S:oredict.scrapGtSoylentGreen.name=绿色绿宝石废料
-    S:oredict.scrapGtSpaceRock.name=Space Rock Scrap
+    S:oredict.scrapGtSpaceRock.name=陨石废料
     S:oredict.scrapGtSpectreIron.name=灵魂之铁废料
     S:oredict.scrapGtSperrylite.name=砷铂废料
     S:oredict.scrapGtSpessartine.name=锰铝榴石废料
@@ -47938,7 +47938,7 @@ languagefile {
     S:oredict.screwSodalite.name=方钠石螺丝
     S:oredict.screwSolderingAlloy.name=钎焊合金螺丝
     S:oredict.screwSoularium.name=魂金螺丝
-    S:oredict.screwSpaceRock.name=Space Rock Screw
+    S:oredict.screwSpaceRock.name=陨石螺丝
     S:oredict.screwSpectreIron.name=灵魂之铁螺丝
     S:oredict.screwSpessartine.name=锰铝榴石螺丝
     S:oredict.screwSpinel.name=尖晶石螺丝
@@ -49142,7 +49142,7 @@ languagefile {
     S:oredict.stickLongSodalite.name=长方钠石杆
     S:oredict.stickLongSolderingAlloy.name=长钎焊合金杆
     S:oredict.stickLongSoularium.name=长魂金杆
-    S:oredict.stickLongSpaceRock.name=Long Space Rock Rod
+    S:oredict.stickLongSpaceRock.name=长陨石杆
     S:oredict.stickLongSpectreIron.name=长灵魂之铁杆
     S:oredict.stickLongSpessartine.name=长锰铝榴石杆
     S:oredict.stickLongSpinel.name=长尖晶石杆
@@ -49326,7 +49326,7 @@ languagefile {
     S:oredict.stickSodalite.name=方钠石杆
     S:oredict.stickSolderingAlloy.name=钎焊合金杆
     S:oredict.stickSoularium.name=魂金杆
-    S:oredict.stickSpaceRock.name=Space Rock Rod
+    S:oredict.stickSpaceRock.name=陨石杆
     S:oredict.stickSpectreIron.name=灵魂之铁杆
     S:oredict.stickSpessartine.name=锰铝榴石杆
     S:oredict.stickSpinel.name=尖晶石杆
@@ -49593,7 +49593,7 @@ languagefile {
     S:oredict.toolHeadArrowSiltstone.name=粉砂岩箭头
     S:oredict.toolHeadArrowSilver.name=银箭头
     S:oredict.toolHeadArrowSoularium.name=魂金箭头
-    S:oredict.toolHeadArrowSpaceRock.name=Space Rock Arrow Head
+    S:oredict.toolHeadArrowSpaceRock.name=陨石箭头
     S:oredict.toolHeadArrowSpectreIron.name=灵魂之铁箭头
     S:oredict.toolHeadArrowSpessartine.name=锰铝榴石箭头
     S:oredict.toolHeadArrowSpinel.name=尖晶石箭头
@@ -50061,7 +50061,7 @@ languagefile {
     S:oredict.toolHeadAxeSiltstone.name=粉砂岩斧头
     S:oredict.toolHeadAxeSilver.name=银斧头
     S:oredict.toolHeadAxeSoularium.name=魂金斧头
-    S:oredict.toolHeadAxeSpaceRock.name=Space Rock Axe Head
+    S:oredict.toolHeadAxeSpaceRock.name=陨石斧头
     S:oredict.toolHeadAxeSpectreIron.name=灵魂之铁斧头
     S:oredict.toolHeadAxeSpessartine.name=锰铝榴石斧头
     S:oredict.toolHeadAxeSpinel.name=尖晶石斧头
@@ -51610,7 +51610,7 @@ languagefile {
     S:oredict.toolHeadHammerShadowSteel.name=暗影钢锤头
     S:oredict.toolHeadHammerSilver.name=银锤头
     S:oredict.toolHeadHammerSoularium.name=魂金锤头
-    S:oredict.toolHeadHammerSpaceRock.name=Space Rock Hammer Head
+    S:oredict.toolHeadHammerSpaceRock.name=陨石锤头
     S:oredict.toolHeadHammerSpectreIron.name=灵魂之铁锤头
     S:oredict.toolHeadHammerSpessartine.name=锰铝榴石锤头
     S:oredict.toolHeadHammerSpinel.name=尖晶石锤头
@@ -51856,7 +51856,7 @@ languagefile {
     S:oredict.toolHeadHoeSiltstone.name=粉砂岩锄头
     S:oredict.toolHeadHoeSilver.name=银锄头
     S:oredict.toolHeadHoeSoularium.name=魂金锄头
-    S:oredict.toolHeadHoeSpaceRock.name=Space Rock Hoe Head
+    S:oredict.toolHeadHoeSpaceRock.name=陨石锄头
     S:oredict.toolHeadHoeSpectreIron.name=灵魂之铁锄头
     S:oredict.toolHeadHoeSpessartine.name=锰铝榴石锄头
     S:oredict.toolHeadHoeSpinel.name=尖晶石锄头
@@ -52149,7 +52149,7 @@ languagefile {
     S:oredict.toolHeadPickaxeSiltstone.name=粉砂岩镐头
     S:oredict.toolHeadPickaxeSilver.name=银镐头
     S:oredict.toolHeadPickaxeSoularium.name=魂金镐头
-    S:oredict.toolHeadPickaxeSpaceRock.name=Space Rock Pickaxe Head
+    S:oredict.toolHeadPickaxeSpaceRock.name=陨石镐头
     S:oredict.toolHeadPickaxeSpectreIron.name=灵魂之铁镐头
     S:oredict.toolHeadPickaxeSpessartine.name=锰铝榴石镐头
     S:oredict.toolHeadPickaxeSpinel.name=尖晶石镐头
@@ -52395,7 +52395,7 @@ languagefile {
     S:oredict.toolHeadPlowSiltstone.name=粉砂岩犁头
     S:oredict.toolHeadPlowSilver.name=银犁头
     S:oredict.toolHeadPlowSoularium.name=魂金犁头
-    S:oredict.toolHeadPlowSpaceRock.name=Space Rock Plow Head
+    S:oredict.toolHeadPlowSpaceRock.name=陨石犁头
     S:oredict.toolHeadPlowSpectreIron.name=灵魂之铁犁头
     S:oredict.toolHeadPlowSpessartine.name=锰铝榴石犁头
     S:oredict.toolHeadPlowSpinel.name=尖晶石犁头
@@ -52641,7 +52641,7 @@ languagefile {
     S:oredict.toolHeadRawArrowSiltstone.name=粗糙的粉砂岩箭头
     S:oredict.toolHeadRawArrowSilver.name=粗糙的银箭头
     S:oredict.toolHeadRawArrowSoularium.name=粗糙的魂金箭头
-    S:oredict.toolHeadRawArrowSpaceRock.name=Raw Space Rock Arrow Head
+    S:oredict.toolHeadRawArrowSpaceRock.name=粗糙的陨石箭头
     S:oredict.toolHeadRawArrowSpectreIron.name=粗糙的灵魂之铁箭头
     S:oredict.toolHeadRawArrowSpessartine.name=粗糙的锰铝榴石箭头
     S:oredict.toolHeadRawArrowSpinel.name=粗糙的尖晶石箭头
@@ -53109,7 +53109,7 @@ languagefile {
     S:oredict.toolHeadRawAxeSiltstone.name=粗糙的粉砂岩斧头
     S:oredict.toolHeadRawAxeSilver.name=粗糙的银斧头
     S:oredict.toolHeadRawAxeSoularium.name=粗糙的魂金斧头
-    S:oredict.toolHeadRawAxeSpaceRock.name=Raw Space Rock Axe Head
+    S:oredict.toolHeadRawAxeSpaceRock.name=粗糙的陨石斧头
     S:oredict.toolHeadRawAxeSpectreIron.name=粗糙的灵魂之铁斧头
     S:oredict.toolHeadRawAxeSpessartine.name=粗糙的锰铝榴石斧头
     S:oredict.toolHeadRawAxeSpinel.name=粗糙的尖晶石斧头
@@ -53573,7 +53573,7 @@ languagefile {
     S:oredict.toolHeadRawHoeSiltstone.name=粗糙的粉砂岩锄头
     S:oredict.toolHeadRawHoeSilver.name=粗糙的银锄头
     S:oredict.toolHeadRawHoeSoularium.name=粗糙的魂金锄头
-    S:oredict.toolHeadRawHoeSpaceRock.name=Raw Space Rock Hoe Head
+    S:oredict.toolHeadRawHoeSpaceRock.name=粗糙的陨石锄头
     S:oredict.toolHeadRawHoeSpectreIron.name=粗糙的灵魂之铁锄头
     S:oredict.toolHeadRawHoeSpessartine.name=粗糙的锰铝榴石锄头
     S:oredict.toolHeadRawHoeSpinel.name=粗糙的尖晶石锄头
@@ -53819,7 +53819,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeSiltstone.name=粗糙的粉砂岩镐头
     S:oredict.toolHeadRawPickaxeSilver.name=粗糙的银镐头
     S:oredict.toolHeadRawPickaxeSoularium.name=粗糙的魂金镐头
-    S:oredict.toolHeadRawPickaxeSpaceRock.name=Raw Space Rock Pickaxe Head
+    S:oredict.toolHeadRawPickaxeSpaceRock.name=粗糙的陨石镐头
     S:oredict.toolHeadRawPickaxeSpectreIron.name=粗糙的灵魂之铁镐头
     S:oredict.toolHeadRawPickaxeSpessartine.name=粗糙的锰铝榴石镐头
     S:oredict.toolHeadRawPickaxeSpinel.name=粗糙的尖晶石镐头
@@ -54065,7 +54065,7 @@ languagefile {
     S:oredict.toolHeadRawPlowSiltstone.name=粗糙的粉砂岩犁头
     S:oredict.toolHeadRawPlowSilver.name=粗糙的银犁头
     S:oredict.toolHeadRawPlowSoularium.name=粗糙的魂金犁头
-    S:oredict.toolHeadRawPlowSpaceRock.name=Raw Space Rock Plow Head
+    S:oredict.toolHeadRawPlowSpaceRock.name=粗糙的陨石犁头
     S:oredict.toolHeadRawPlowSpectreIron.name=粗糙的灵魂之铁犁头
     S:oredict.toolHeadRawPlowSpessartine.name=粗糙的锰铝榴石犁头
     S:oredict.toolHeadRawPlowSpinel.name=粗糙的尖晶石犁头
@@ -54529,7 +54529,7 @@ languagefile {
     S:oredict.toolHeadRawSenseSiltstone.name=粗糙的粉砂岩镰刀片
     S:oredict.toolHeadRawSenseSilver.name=粗糙的银镰刀片
     S:oredict.toolHeadRawSenseSoularium.name=粗糙的魂金镰刀片
-    S:oredict.toolHeadRawSenseSpaceRock.name=Raw Space Rock Sense Blade
+    S:oredict.toolHeadRawSenseSpaceRock.name=粗糙的陨石镰刀片
     S:oredict.toolHeadRawSenseSpectreIron.name=粗糙的灵魂之铁镰刀片
     S:oredict.toolHeadRawSenseSpessartine.name=粗糙的锰铝榴石镰刀片
     S:oredict.toolHeadRawSenseSpinel.name=粗糙的尖晶石镰刀片
@@ -54775,7 +54775,7 @@ languagefile {
     S:oredict.toolHeadRawShovelSiltstone.name=粗糙的粉砂岩锹头
     S:oredict.toolHeadRawShovelSilver.name=粗糙的银锹头
     S:oredict.toolHeadRawShovelSoularium.name=粗糙的魂金锹头
-    S:oredict.toolHeadRawShovelSpaceRock.name=Raw Space Rock Shovel Head
+    S:oredict.toolHeadRawShovelSpaceRock.name=粗糙的陨石锹头
     S:oredict.toolHeadRawShovelSpectreIron.name=粗糙的灵魂之铁锹头
     S:oredict.toolHeadRawShovelSpessartine.name=粗糙的锰铝榴石锹头
     S:oredict.toolHeadRawShovelSpinel.name=粗糙的尖晶石锹头
@@ -55021,7 +55021,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeSiltstone.name=粗糙的粉砂岩铲头
     S:oredict.toolHeadRawSpadeSilver.name=粗糙的银铲头
     S:oredict.toolHeadRawSpadeSoularium.name=粗糙的魂金铲头
-    S:oredict.toolHeadRawSpadeSpaceRock.name=Raw Space Rock Spade Head
+    S:oredict.toolHeadRawSpadeSpaceRock.name=粗糙的陨石铲头
     S:oredict.toolHeadRawSpadeSpectreIron.name=粗糙的灵魂之铁铲头
     S:oredict.toolHeadRawSpadeSpessartine.name=粗糙的锰铝榴石铲头
     S:oredict.toolHeadRawSpadeSpinel.name=粗糙的尖晶石铲头
@@ -55267,7 +55267,7 @@ languagefile {
     S:oredict.toolHeadRawSwordSiltstone.name=粗糙的粉砂岩剑身
     S:oredict.toolHeadRawSwordSilver.name=粗糙的银剑身
     S:oredict.toolHeadRawSwordSoularium.name=粗糙的魂金剑身
-    S:oredict.toolHeadRawSwordSpaceRock.name=Raw Space Rock Sword Blade
+    S:oredict.toolHeadRawSwordSpaceRock.name=粗糙的陨石剑身
     S:oredict.toolHeadRawSwordSpectreIron.name=粗糙的灵魂之铁剑身
     S:oredict.toolHeadRawSwordSpessartine.name=粗糙的锰铝榴石剑身
     S:oredict.toolHeadRawSwordSpinel.name=粗糙的尖晶石剑身
@@ -56171,7 +56171,7 @@ languagefile {
     S:oredict.toolHeadSenseSiltstone.name=粉砂岩镰刀片
     S:oredict.toolHeadSenseSilver.name=银镰刀片
     S:oredict.toolHeadSenseSoularium.name=魂金镰刀片
-    S:oredict.toolHeadSenseSpaceRock.name=Space Rock Sense Blade
+    S:oredict.toolHeadSenseSpaceRock.name=陨石镰刀片
     S:oredict.toolHeadSenseSpectreIron.name=灵魂之铁镰刀片
     S:oredict.toolHeadSenseSpessartine.name=锰铝榴石镰刀片
     S:oredict.toolHeadSenseSpinel.name=尖晶石镰刀片
@@ -56417,7 +56417,7 @@ languagefile {
     S:oredict.toolHeadShovelSiltstone.name=粉砂岩锹头
     S:oredict.toolHeadShovelSilver.name=银锹头
     S:oredict.toolHeadShovelSoularium.name=魂金锹头
-    S:oredict.toolHeadShovelSpaceRock.name=Space Rock Shovel Head
+    S:oredict.toolHeadShovelSpaceRock.name=陨石锹头
     S:oredict.toolHeadShovelSpectreIron.name=灵魂之铁锹头
     S:oredict.toolHeadShovelSpessartine.name=锰铝榴石锹头
     S:oredict.toolHeadShovelSpinel.name=尖晶石锹头
@@ -56663,7 +56663,7 @@ languagefile {
     S:oredict.toolHeadSpadeSiltstone.name=粉砂岩铲头
     S:oredict.toolHeadSpadeSilver.name=银铲头
     S:oredict.toolHeadSpadeSoularium.name=魂金铲头
-    S:oredict.toolHeadSpadeSpaceRock.name=Space Rock Spade Head
+    S:oredict.toolHeadSpadeSpaceRock.name=陨石铲头
     S:oredict.toolHeadSpadeSpectreIron.name=灵魂之铁铲头
     S:oredict.toolHeadSpadeSpessartine.name=锰铝榴石铲头
     S:oredict.toolHeadSpadeSpinel.name=尖晶石铲头
@@ -56909,7 +56909,7 @@ languagefile {
     S:oredict.toolHeadSwordSiltstone.name=粉砂岩剑身
     S:oredict.toolHeadSwordSilver.name=银剑身
     S:oredict.toolHeadSwordSoularium.name=魂金剑身
-    S:oredict.toolHeadSwordSpaceRock.name=Space Rock Sword Blade
+    S:oredict.toolHeadSwordSpaceRock.name=陨石剑身
     S:oredict.toolHeadSwordSpectreIron.name=灵魂之铁剑身
     S:oredict.toolHeadSwordSpessartine.name=锰铝榴石剑身
     S:oredict.toolHeadSwordSpinel.name=尖晶石剑身

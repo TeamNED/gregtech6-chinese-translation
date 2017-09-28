@@ -90,6 +90,12 @@
         "priority": 1000
     },
     {
+        "name": "oredict.cell.+",
+        "value": "(?P<mw>.+) Cell",
+        "repl": "{0}单元",
+        "priority": 1000
+    },
+    {
         "name": "oredict.foil.+",
         "value": "(?P<mw>.+) Foil",
         "repl": "{0}箔",
