@@ -11466,7 +11466,7 @@ languagefile {
     S:oredict.blockDustPotassium.name=钾粉块
     S:oredict.blockDustPotassiumBisulfate.name=硫酸氢钠粉块
     S:oredict.blockDustPotassiumFeldspar.name=钾长石粉块
-    S:oredict.blockDustPotassiumHydroxide.name=Block of Potassium Hydroxide Dust
+    S:oredict.blockDustPotassiumHydroxide.name=氢氧化钾粉块
     S:oredict.blockDustPotassiumPyrosulfate.name=焦硫酸钾粉块
     S:oredict.blockDustPotassiumSulfate.name=硫酸钾粉块
     S:oredict.blockDustPotassiumSulfide.name=硫化钾粉块
@@ -15678,7 +15678,7 @@ languagefile {
     S:oredict.chemtubePotassium.name=钾试管
     S:oredict.chemtubePotassiumBisulfate.name=硫酸氢钠试管
     S:oredict.chemtubePotassiumFeldspar.name=钾长石试管
-    S:oredict.chemtubePotassiumHydroxide.name=Glass Tube containing Potassium Hydroxide
+    S:oredict.chemtubePotassiumHydroxide.name=氢氧化钾试管
     S:oredict.chemtubePotassiumPyrosulfate.name=焦硫酸钾试管
     S:oredict.chemtubePotassiumSulfate.name=硫酸钾试管
     S:oredict.chemtubePotassiumSulfide.name=硫化钾试管
@@ -38496,7 +38496,7 @@ languagefile {
     S:oredict.plantGtBerryPotassium.name=钾梅
     S:oredict.plantGtBerryPotassiumBisulfate.name=硫酸氢钠梅
     S:oredict.plantGtBerryPotassiumFeldspar.name=钾长石梅
-    S:oredict.plantGtBerryPotassiumHydroxide.name=Potassium Hydroxide Berry
+    S:oredict.plantGtBerryPotassiumHydroxide.name=氢氧化钾梅
     S:oredict.plantGtBerryPotassiumPyrosulfate.name=焦硫酸钾梅
     S:oredict.plantGtBerryPotassiumSulfate.name=硫酸钾梅
     S:oredict.plantGtBerryPotassiumSulfide.name=硫化钾梅
@@ -39327,7 +39327,7 @@ languagefile {
     S:oredict.plantGtBlossomPotassium.name=钾花
     S:oredict.plantGtBlossomPotassiumBisulfate.name=硫酸氢钠花
     S:oredict.plantGtBlossomPotassiumFeldspar.name=钾长石花
-    S:oredict.plantGtBlossomPotassiumHydroxide.name=Potassium Hydroxide Blossom
+    S:oredict.plantGtBlossomPotassiumHydroxide.name=氢氧化钾花
     S:oredict.plantGtBlossomPotassiumPyrosulfate.name=焦硫酸钾花
     S:oredict.plantGtBlossomPotassiumSulfate.name=硫酸钾花
     S:oredict.plantGtBlossomPotassiumSulfide.name=硫化钾花
@@ -40158,7 +40158,7 @@ languagefile {
     S:oredict.plantGtFiberPotassium.name=粗糙的钾纤维
     S:oredict.plantGtFiberPotassiumBisulfate.name=粗糙的硫酸氢钠纤维
     S:oredict.plantGtFiberPotassiumFeldspar.name=粗糙的钾长石纤维
-    S:oredict.plantGtFiberPotassiumHydroxide.name=Raw Potassium Hydroxide Fiber
+    S:oredict.plantGtFiberPotassiumHydroxide.name=粗糙的氢氧化钾纤维
     S:oredict.plantGtFiberPotassiumPyrosulfate.name=粗糙的焦硫酸钾纤维
     S:oredict.plantGtFiberPotassiumSulfate.name=粗糙的硫酸钾纤维
     S:oredict.plantGtFiberPotassiumSulfide.name=粗糙的硫化钾纤维
@@ -40989,7 +40989,7 @@ languagefile {
     S:oredict.plantGtTwigPotassium.name=钾细枝
     S:oredict.plantGtTwigPotassiumBisulfate.name=硫酸氢钠细枝
     S:oredict.plantGtTwigPotassiumFeldspar.name=钾长石细枝
-    S:oredict.plantGtTwigPotassiumHydroxide.name=Potassium Hydroxide Twig
+    S:oredict.plantGtTwigPotassiumHydroxide.name=氢氧化钾细枝
     S:oredict.plantGtTwigPotassiumPyrosulfate.name=焦硫酸钾细枝
     S:oredict.plantGtTwigPotassiumSulfate.name=硫酸钾细枝
     S:oredict.plantGtTwigPotassiumSulfide.name=硫化钾细枝
@@ -41823,7 +41823,7 @@ languagefile {
     S:oredict.plantGtWartPotassium.name=钾疣
     S:oredict.plantGtWartPotassiumBisulfate.name=硫酸氢钠疣
     S:oredict.plantGtWartPotassiumFeldspar.name=钾长石疣
-    S:oredict.plantGtWartPotassiumHydroxide.name=Potassium Hydroxide Wart
+    S:oredict.plantGtWartPotassiumHydroxide.name=氢氧化钾疣
     S:oredict.plantGtWartPotassiumPyrosulfate.name=焦硫酸钾疣
     S:oredict.plantGtWartPotassiumSulfate.name=硫酸钾疣
     S:oredict.plantGtWartPotassiumSulfide.name=硫化钾疣
@@ -47307,7 +47307,7 @@ languagefile {
     S:oredict.scrapGtPotassium.name=钾废料
     S:oredict.scrapGtPotassiumBisulfate.name=硫酸氢钠废料
     S:oredict.scrapGtPotassiumFeldspar.name=钾长石废料
-    S:oredict.scrapGtPotassiumHydroxide.name=Potassium Hydroxide Scrap
+    S:oredict.scrapGtPotassiumHydroxide.name=氢氧化钾废料
     S:oredict.scrapGtPotassiumPyrosulfate.name=焦硫酸钾废料
     S:oredict.scrapGtPotassiumSulfate.name=硫酸钾废料
     S:oredict.scrapGtPotassiumSulfide.name=硫化钾废料
@@ -57602,3 +57602,5 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
+
+
