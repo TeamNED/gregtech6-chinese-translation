@@ -4109,7 +4109,7 @@ languagefile {
     S:gt.material.Soulium=灵魂
     S:gt.material.Soulsand=灵魂沙
     S:gt.material.SoylentGreen=绿色绿宝石
-    S:gt.material.SpaceRock=Space Rock
+    S:gt.material.SpaceRock=陨石
     S:gt.material.SpectreIron=灵魂之铁
     S:gt.material.Sperrylite=砷铂矿
     S:gt.material.Spessartine=锰铝榴石
@@ -12632,7 +12632,7 @@ languagefile {
     S:oredict.blockPlateSilver.name=银板块
     S:oredict.blockPlateSolderingAlloy.name=钎焊合金板块
     S:oredict.blockPlateSoularium.name=魂金板块
-    S:oredict.blockPlateSpaceRock.name=Block of Space Rock Plate
+    S:oredict.blockPlateSpaceRock.name=陨石板块
     S:oredict.blockPlateSpectreIron.name=灵魂之铁板块
     S:oredict.blockPlateStainlessSteel.name=不锈钢板块
     S:oredict.blockPlateSteel.name=钢板块
@@ -16487,12 +16487,12 @@ languagefile {
     S:oredict.crateGtDustAlduorite.name=神秘蓝金粉板条箱
     S:oredict.crateGtDustAlmandine.name=铁铝榴石粉板条箱
     S:oredict.crateGtDustAlmond.name=扁桃板条箱
-    S:oredict.crateGtDustAlumina.name=Crate of Alumina Dust
+    S:oredict.crateGtDustAlumina.name=氧化铝粉板条箱
     S:oredict.crateGtDustAluminium.name=铝粉板条箱
     S:oredict.crateGtDustAluminiumAlloy.name=铝合金粉板条箱
     S:oredict.crateGtDustAluminiumBrass.name=铝黄铜粉板条箱
-    S:oredict.crateGtDustAluminiumFluoride.name=Crate of Aluminium Fluoride Dust
-    S:oredict.crateGtDustAluminiumHydroxide.name=Crate of Aluminium Hydroxide Dust
+    S:oredict.crateGtDustAluminiumFluoride.name=氟化铝粉板条箱
+    S:oredict.crateGtDustAluminiumHydroxide.name=氢化铝粉板条箱
     S:oredict.crateGtDustAlumite.name=熔融明矾粉板条箱
     S:oredict.crateGtDustAlunite.name=明矾石粉板条箱
     S:oredict.crateGtDustAmber.name=琥珀粉板条箱
@@ -16666,7 +16666,7 @@ languagefile {
     S:oredict.crateGtDustBiotite.name=黑云母粉板条箱
     S:oredict.crateGtDustBismuth.name=铋粉板条箱
     S:oredict.crateGtDustBismuthBronze.name=铋青铜粉板条箱
-    S:oredict.crateGtDustBixbite.name=Crate of Bixbite Dust
+    S:oredict.crateGtDustBixbite.name=红绿柱石粉板条箱
     S:oredict.crateGtDustBlack.name=黑色染料板条箱
     S:oredict.crateGtDustBlackBronze.name=乌铜粉板条箱
     S:oredict.crateGtDustBlackSteel.name=碳钢粉板条箱
@@ -16727,7 +16727,7 @@ languagefile {
     S:oredict.crateGtDustCinnabar.name=朱砂粉板条箱
     S:oredict.crateGtDustCinnamon.name=肉桂粉板条箱
     S:oredict.crateGtDustClay.name=粘土粉板条箱
-    S:oredict.crateGtDustClayBrown.name=Crate of Brown Clay Dust
+    S:oredict.crateGtDustClayBrown.name=褐色粘土粉板条箱
     S:oredict.crateGtDustCoal.name=煤粉板条箱
     S:oredict.crateGtDustCoalCoke.name=焦煤粉板条箱
     S:oredict.crateGtDustCobalt.name=钴粉板条箱
@@ -16747,7 +16747,7 @@ languagefile {
     S:oredict.crateGtDustCorn.name=玉米面板条箱
     S:oredict.crateGtDustCraponite.name=Craponite粉板条箱
     S:oredict.crateGtDustCrudeOil.name=原油粉板条箱
-    S:oredict.crateGtDustCryolite.name=Crate of Cryolite Dust
+    S:oredict.crateGtDustCryolite.name=冰晶石粉板条箱
     S:oredict.crateGtDustCryotheum.name=凛冰粉板条箱
     S:oredict.crateGtDustCupronickel.name=白铜粉板条箱
     S:oredict.crateGtDustCurium.name=锔粉板条箱
@@ -16758,7 +16758,7 @@ languagefile {
     S:oredict.crateGtDustDamascusSteel.name=大马士革钢粉板条箱
     S:oredict.crateGtDustDarkAshes.name=黑色灰烬板条箱
     S:oredict.crateGtDustDarkIron.name=玄铁粉板条箱
-    S:oredict.crateGtDustDarkMatter.name=Crate of Dark Matter Dust
+    S:oredict.crateGtDustDarkMatter.name=暗物质粉板条箱
     S:oredict.crateGtDustDarkSteel.name=玄钢粉板条箱
     S:oredict.crateGtDustDarkThaumium.name=黑暗神秘锭粉板条箱
     S:oredict.crateGtDustDarmstadtium.name=鐽粉板条箱
@@ -16766,7 +16766,7 @@ languagefile {
     S:oredict.crateGtDustDeepIron.name=深渊铁粉板条箱
     S:oredict.crateGtDustDesh.name=戴斯粉板条箱
     S:oredict.crateGtDustDesichalkos.name=虚空之魂石粉板条箱
-    S:oredict.crateGtDustDiamantine.name=Crate of Diamantine Dust
+    S:oredict.crateGtDustDiamantine.name=金刚砂粉板条箱
     S:oredict.crateGtDustDiamond.name=钻石粉板条箱
     S:oredict.crateGtDustDiatomite.name=硅藻土粉板条箱
     S:oredict.crateGtDustDiduraniumTrioxide.name=三氧化二钍瑞铌粉板条箱
@@ -16797,7 +16797,7 @@ languagefile {
     S:oredict.crateGtDustElectrum.name=琥珀金粉板条箱
     S:oredict.crateGtDustElectrumFlux.name=熔融琥珀金粉板条箱
     S:oredict.crateGtDustElvenElementium.name=精灵原质粉板条箱
-    S:oredict.crateGtDustEmeradic.name=Crate of Emeradic Dust
+    S:oredict.crateGtDustEmeradic.name=绿宝石水晶粉板条箱
     S:oredict.crateGtDustEmerald.name=绿宝石粉板条箱
     S:oredict.crateGtDustEmery.name=金刚砂粉板条箱
     S:oredict.crateGtDustEmpty.name=空粉板条箱
@@ -16807,7 +16807,7 @@ languagefile {
     S:oredict.crateGtDustEnderiumBase.name=末影粗胚粉板条箱
     S:oredict.crateGtDustEndstone.name=末地石粉板条箱
     S:oredict.crateGtDustEnergeticAlloy.name=充能合金粉板条箱
-    S:oredict.crateGtDustEnori.name=Crate of Enori Dust
+    S:oredict.crateGtDustEnori.name=铁晶粉板条箱
     S:oredict.crateGtDustEpidote.name=绿帘石粉板条箱
     S:oredict.crateGtDustErbium.name=铒粉板条箱
     S:oredict.crateGtDustEuropium.name=铕粉板条箱
@@ -16853,7 +16853,7 @@ languagefile {
     S:oredict.crateGtDustGneiss.name=片麻岩粉板条箱
     S:oredict.crateGtDustGold.name=金粉板条箱
     S:oredict.crateGtDustGoldInductive.name=感应合金粉板条箱
-    S:oredict.crateGtDustGoshenite.name=Crate of Goshenite Dust
+    S:oredict.crateGtDustGoshenite.name=透绿柱石粉板条箱
     S:oredict.crateGtDustGraniteBlack.name=黑色花岗岩粉板条箱
     S:oredict.crateGtDustGraniteRed.name=红色花岗岩粉板条箱
     S:oredict.crateGtDustGraniteblack.name=黑色花岗岩粉板条箱
@@ -16876,7 +16876,7 @@ languagefile {
     S:oredict.crateGtDustHafnium.name=铪粉板条箱
     S:oredict.crateGtDustHassium.name=𬭶粉板条箱
     S:oredict.crateGtDustHazelnut.name=榛子碎板条箱
-    S:oredict.crateGtDustHeliodor.name=Crate of Heliodor Dust
+    S:oredict.crateGtDustHeliodor.name=金绿柱石粉板条箱
     S:oredict.crateGtDustHematite.name=赤铁矿粉板条箱
     S:oredict.crateGtDustHepatizon.name=幽魂结晶粉板条箱
     S:oredict.crateGtDustHolmium.name=钬粉板条箱
@@ -17007,7 +17007,7 @@ languagefile {
     S:oredict.crateGtDustOsmium.name=锇粉板条箱
     S:oredict.crateGtDustOsmiumElemental.name=锇粉板条箱
     S:oredict.crateGtDustOureclase.name=大地结晶粉板条箱
-    S:oredict.crateGtDustPalis.name=Crate of Palis Dust
+    S:oredict.crateGtDustPalis.name=青金石水晶粉板条箱
     S:oredict.crateGtDustPalladium.name=钯粉板条箱
     S:oredict.crateGtDustPaper.name=纸屑板条箱
     S:oredict.crateGtDustPeanut.name=碎花生板条箱
@@ -17038,7 +17038,7 @@ languagefile {
     S:oredict.crateGtDustPotassium.name=钾粉板条箱
     S:oredict.crateGtDustPotassiumBisulfate.name=硫酸氢钠粉板条箱
     S:oredict.crateGtDustPotassiumFeldspar.name=钾长石粉板条箱
-    S:oredict.crateGtDustPotassiumHydroxide.name=Crate of Potassium Hydroxide Dust
+    S:oredict.crateGtDustPotassiumHydroxide.name=氢氧化钾粉板条箱
     S:oredict.crateGtDustPotassiumPyrosulfate.name=焦硫酸钾粉板条箱
     S:oredict.crateGtDustPotassiumSulfate.name=硫酸钾粉板条箱
     S:oredict.crateGtDustPotassiumSulfide.name=硫化钾粉板条箱
@@ -17052,8 +17052,8 @@ languagefile {
     S:oredict.crateGtDustPulsatingIron.name=脉冲铁粉板条箱
     S:oredict.crateGtDustPumice.name=浮石粉板条箱
     S:oredict.crateGtDustPurple.name=紫色染料板条箱
-    S:oredict.crateGtDustPurpleAlloy.name=Crate of Purple Alloy Dust
-    S:oredict.crateGtDustPurpleSapphire.name=Crate of Purple Sapphire Dust
+    S:oredict.crateGtDustPurpleAlloy.name=紫色合金粉板条箱
+    S:oredict.crateGtDustPurpleSapphire.name=紫蓝宝石粉板条箱
     S:oredict.crateGtDustPyrite.name=黄铁矿粉板条箱
     S:oredict.crateGtDustPyrolusite.name=软锰矿粉板条箱
     S:oredict.crateGtDustPyrope.name=镁铝榴石粉板条箱
@@ -17065,7 +17065,7 @@ languagefile {
     S:oredict.crateGtDustRareEarth.name=稀土板条箱
     S:oredict.crateGtDustRed.name=红色染料板条箱
     S:oredict.crateGtDustRedAlloy.name=红色合金粉板条箱
-    S:oredict.crateGtDustRedMatter.name=Crate of Red Matter Dust
+    S:oredict.crateGtDustRedMatter.name=红物质粉板条箱
     S:oredict.crateGtDustRedSteel.name=红钢粉板条箱
     S:oredict.crateGtDustRedrock.name=红岩粉板条箱
     S:oredict.crateGtDustRedstone.name=红石粉板条箱
@@ -17111,9 +17111,9 @@ languagefile {
     S:oredict.crateGtDustSoapstone.name=皂石粉板条箱
     S:oredict.crateGtDustSodalite.name=方钠石粉板条箱
     S:oredict.crateGtDustSodium.name=钠粉板条箱
-    S:oredict.crateGtDustSodiumAluminate.name=Crate of Sodium Aluminate Dust
+    S:oredict.crateGtDustSodiumAluminate.name=铝酸钠粉板条箱
     S:oredict.crateGtDustSodiumBisulfate.name=硫酸氢钠粉板条箱
-    S:oredict.crateGtDustSodiumCarbonate.name=Crate of Sodium Carbonate Dust
+    S:oredict.crateGtDustSodiumCarbonate.name=碳酸钠粉板条箱
     S:oredict.crateGtDustSodiumHydroxide.name=氢氧化钠粉板条箱
     S:oredict.crateGtDustSodiumPersulfate.name=过硫酸钠粉板条箱
     S:oredict.crateGtDustSodiumPyrosulfate.name=焦硫酸钠粉板条箱
@@ -17123,7 +17123,7 @@ languagefile {
     S:oredict.crateGtDustSolderingAlloy.name=钎焊合金粉板条箱
     S:oredict.crateGtDustSoularium.name=魂金粉板条箱
     S:oredict.crateGtDustSoylentGreen.name=绿色绿宝石板条箱
-    S:oredict.crateGtDustSpaceRock.name=Crate of Space Rock Dust
+    S:oredict.crateGtDustSpaceRock.name=陨石粉板条箱
     S:oredict.crateGtDustSpectreIron.name=灵魂之铁粉板条箱
     S:oredict.crateGtDustSperrylite.name=Sperrylite粉板条箱
     S:oredict.crateGtDustSpessartine.name=锰铝榴石粉板条箱
@@ -17208,7 +17208,7 @@ languagefile {
     S:oredict.crateGtDustVibrantAlloy.name=充能合金粉板条箱
     S:oredict.crateGtDustVinteum.name=温特姆粉板条箱
     S:oredict.crateGtDustVinteumPurified.name=纯净温特姆粉板条箱
-    S:oredict.crateGtDustVoidCrystal.name=Crate of Void Dust
+    S:oredict.crateGtDustVoidCrystal.name=煤晶粉板条箱
     S:oredict.crateGtDustVoidMetal.name=虚空金属粉板条箱
     S:oredict.crateGtDustVolcanicAshes.name=火山灰板条箱
     S:oredict.crateGtDustVulcanite.name=熔岩结晶粉板条箱
@@ -18173,7 +18173,7 @@ languagefile {
     S:oredict.crateGtPlatePromethium.name=钷板板条箱
     S:oredict.crateGtPlateProtactinium.name=镤板板条箱
     S:oredict.crateGtPlatePulsatingIron.name=脉冲铁板板条箱
-    S:oredict.crateGtPlatePurpleAlloy.name=Crate of Purple Alloy Plate
+    S:oredict.crateGtPlatePurpleAlloy.name=紫色合金板板条箱
     S:oredict.crateGtPlateRadium.name=镭板板条箱
     S:oredict.crateGtPlateRedAlloy.name=红色合金板板条箱
     S:oredict.crateGtPlateRedSteel.name=红钢板板条箱
@@ -18203,7 +18203,7 @@ languagefile {
     S:oredict.crateGtPlateSilver.name=银板板条箱
     S:oredict.crateGtPlateSolderingAlloy.name=钎焊合金板板条箱
     S:oredict.crateGtPlateSoularium.name=魂金板板条箱
-    S:oredict.crateGtPlateSpaceRock.name=Crate of Space Rock Plate
+    S:oredict.crateGtPlateSpaceRock.name=陨石板板条箱
     S:oredict.crateGtPlateSpectreIron.name=灵魂之铁板板条箱
     S:oredict.crateGtPlateStainlessSteel.name=不锈钢板板条箱
     S:oredict.crateGtPlateSteel.name=钢板板条箱

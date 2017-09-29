@@ -402,7 +402,7 @@
         "priority": 3000
     },
     {
-        "name": "oredict.dust.+",
+        "name": "oredict.(block|dust|crateGt).+",
         "value": "(?P<mw>.+) (Dust|Powder)",
         "repl": "{0}粉",
         "priority": 500
@@ -456,7 +456,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.plate.+",
+        "name": "oredict.(block|plate|crateGt).+",
         "value": "(?P<mw>.+) Plate",
         "repl": "{0}板",
         "priority": 500
