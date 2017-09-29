@@ -130,11 +130,12 @@ class LangItemCollection:
                     [x.match(_item.key) is not None for x in _tracking_regs])
 
             # Invalid items or items that needn't process
-            if (_item.en == '' and delete_obsolete_item) or (_item.zh_old != ''and respect_translated):
+            if (_item.en == '' and delete_obsolete_item) or (_item.zh_old != ''and _item.zh_old != _item.en and respect_translated):
                 if _tracking_current:
                     # Debug info
                     log_file.write('[Warning] Invalid entry {0}:{1}/{2}, respect_translated={3}, skipping...\n'.format(
                         _item.key, _item.en, _item.zh_old, respect_translated))
+                _item.zh_new=_item.zh_old
                 continue
             # Excepting entries
             if _item.key in excepting_entries.entries:

@@ -10264,7 +10264,7 @@ languagefile {
     S:itemGroup.gemLegendary=传奇的宝石
     S:itemGroup.gt.multiitem.books=泛银河格雷科技出版社
     S:itemGroup.gt.multiitem.bottles=格雷牌饮料
-    S:itemGroup.gt.multiitem.bumblebee=格雷科技：熊蜂
+    S:itemGroup.gt.multiitem.bumblebee=格雷科技：大黄蜂
     S:itemGroup.gt.multiitem.cans=格雷科技: 罐头
     S:itemGroup.gt.multiitem.fluidcontainers=格雷科技: 液体存储
     S:itemGroup.gt.multiitem.food=格雷食品店
@@ -21286,7 +21286,7 @@ languagefile {
     S:oredict.dustAerotheum.name=和谐之空气粉
     S:oredict.dustAlduorite.name=神秘蓝金粉
     S:oredict.dustAlmandine.name=铁铝榴石粉
-    S:oredict.dustAlmond.name=Ground Almond
+    S:oredict.dustAlmond.name=扁桃
     S:oredict.dustAlumina.name=氧化铝粉
     S:oredict.dustAluminium.name=铝粉
     S:oredict.dustAluminiumAlloy.name=铝合金粉
@@ -21564,7 +21564,7 @@ languagefile {
     S:oredict.dustDeepIron.name=深渊铁粉
     S:oredict.dustDesh.name=戴斯粉
     S:oredict.dustDesichalkos.name=虚空之魂石粉
-    S:oredict.dustDiamantine.name=Diamantine Dust
+    S:oredict.dustDiamantine.name=金刚砂粉
     S:oredict.dustDiamond.name=钻石粉
     S:oredict.dustDiatomite.name=硅藻土粉
     S:oredict.dustDiduraniumTrioxide.name=三氧化二钍瑞铌粉
@@ -21856,7 +21856,7 @@ languagefile {
     S:oredict.dustDiv72DeepIron.name=1/72份深渊铁粉
     S:oredict.dustDiv72Desh.name=1/72份戴斯粉
     S:oredict.dustDiv72Desichalkos.name=1/72份虚空之魂石粉
-    S:oredict.dustDiv72Diamantine.name=1/72nd of a Pile of Diamantine Dust
+    S:oredict.dustDiv72Diamantine.name=1/72份金刚砂粉
     S:oredict.dustDiv72Diamond.name=1/72份钻石粉
     S:oredict.dustDiv72Diatomite.name=1/72份硅藻土粉
     S:oredict.dustDiv72DiduraniumTrioxide.name=1/72份三氧化二钍瑞铌粉
@@ -22121,7 +22121,7 @@ languagefile {
     S:oredict.dustDiv72Potassium.name=1/72份钾粉
     S:oredict.dustDiv72PotassiumBisulfate.name=1/72份硫酸氢钠粉
     S:oredict.dustDiv72PotassiumFeldspar.name=1/72份钾长石粉
-    S:oredict.dustDiv72PotassiumHydroxide.name=1/72nd of a Pile of Potassium Hydroxide Dust
+    S:oredict.dustDiv72PotassiumHydroxide.name=1/72份氢氧化钾粉
     S:oredict.dustDiv72PotassiumPyrosulfate.name=1/72份焦硫酸钾粉
     S:oredict.dustDiv72PotassiumSulfate.name=1/72份硫酸钾粉
     S:oredict.dustDiv72PotassiumSulfide.name=1/72份硫化钾粉
@@ -22206,7 +22206,7 @@ languagefile {
     S:oredict.dustDiv72SolderingAlloy.name=1/72份钎焊合金粉
     S:oredict.dustDiv72Soularium.name=1/72份魂金粉
     S:oredict.dustDiv72SoylentGreen.name=1/72份绿色绿宝石
-    S:oredict.dustDiv72SpaceRock.name=1/72nd of a Pile of Space Rock Dust
+    S:oredict.dustDiv72SpaceRock.name=1/72份陨石粉
     S:oredict.dustDiv72SpectreIron.name=1/72份灵魂之铁粉
     S:oredict.dustDiv72Sperrylite.name=1/72份砷铂粉
     S:oredict.dustDiv72Spessartine.name=1/72份锰铝榴石粉
@@ -22895,7 +22895,7 @@ languagefile {
     S:oredict.dustImpureSoapstone.name=含杂皂石粉
     S:oredict.dustImpureSodalite.name=含杂方钠石粉
     S:oredict.dustImpureSodium.name=含杂钠粉
-    S:oredict.dustImpureSpaceRock.name=Impure Pile of Space Rock Dust
+    S:oredict.dustImpureSpaceRock.name=含杂陨石粉
     S:oredict.dustImpureSperrylite.name=含杂砷铂粉
     S:oredict.dustImpureSpessartine.name=含杂锰铝榴石粉
     S:oredict.dustImpureSphalerite.name=含杂闪锌矿粉
@@ -23115,7 +23115,7 @@ languagefile {
     S:oredict.dustPotassium.name=钾粉
     S:oredict.dustPotassiumBisulfate.name=硫酸氢钠粉
     S:oredict.dustPotassiumFeldspar.name=钾长石粉
-    S:oredict.dustPotassiumHydroxide.name=Potassium Hydroxide Dust
+    S:oredict.dustPotassiumHydroxide.name=氢氧化钾粉
     S:oredict.dustPotassiumPyrosulfate.name=焦硫酸钾粉
     S:oredict.dustPotassiumSulfate.name=硫酸钾粉
     S:oredict.dustPotassiumSulfide.name=硫化钾粉
@@ -23590,7 +23590,7 @@ languagefile {
     S:oredict.dustPureSoapstone.name=纯净皂石粉
     S:oredict.dustPureSodalite.name=纯净方钠石粉
     S:oredict.dustPureSodium.name=纯净钠粉
-    S:oredict.dustPureSpaceRock.name=Purified Pile of Space Rock Dust
+    S:oredict.dustPureSpaceRock.name=纯净陨石粉
     S:oredict.dustPureSperrylite.name=纯净砷铂粉
     S:oredict.dustPureSpessartine.name=纯净锰铝榴石粉
     S:oredict.dustPureSphalerite.name=纯净闪锌矿粉
@@ -24001,7 +24001,7 @@ languagefile {
     S:oredict.dustSmallDeepIron.name=小堆深渊铁粉
     S:oredict.dustSmallDesh.name=小堆戴斯粉
     S:oredict.dustSmallDesichalkos.name=小堆虚空之魂石粉
-    S:oredict.dustSmallDiamantine.name=Small Pile of Diamantine Dust
+    S:oredict.dustSmallDiamantine.name=小堆金刚砂粉
     S:oredict.dustSmallDiamond.name=小堆钻石粉
     S:oredict.dustSmallDiatomite.name=小堆硅藻土粉
     S:oredict.dustSmallDiduraniumTrioxide.name=小堆三氧化二钍瑞铌粉
@@ -24273,7 +24273,7 @@ languagefile {
     S:oredict.dustSmallPotassium.name=小堆钾粉
     S:oredict.dustSmallPotassiumBisulfate.name=小堆硫酸氢钠粉
     S:oredict.dustSmallPotassiumFeldspar.name=小堆钾长石粉
-    S:oredict.dustSmallPotassiumHydroxide.name=Small Pile of Potassium Hydroxide Dust
+    S:oredict.dustSmallPotassiumHydroxide.name=小堆氢氧化钾粉
     S:oredict.dustSmallPotassiumPyrosulfate.name=小堆焦硫酸钾粉
     S:oredict.dustSmallPotassiumSulfate.name=小堆硫酸钾粉
     S:oredict.dustSmallPotassiumSulfide.name=小堆硫化钾粉
@@ -24358,7 +24358,7 @@ languagefile {
     S:oredict.dustSmallSolderingAlloy.name=小堆钎焊合金粉
     S:oredict.dustSmallSoularium.name=小堆魂金粉
     S:oredict.dustSmallSoylentGreen.name=小堆绿色绿宝石
-    S:oredict.dustSmallSpaceRock.name=Small Pile of Space Rock Dust
+    S:oredict.dustSmallSpaceRock.name=小堆陨石粉
     S:oredict.dustSmallSpectreIron.name=小堆灵魂之铁粉
     S:oredict.dustSmallSperrylite.name=小堆砷铂粉
     S:oredict.dustSmallSpessartine.name=小堆锰铝榴石粉
@@ -24492,7 +24492,7 @@ languagefile {
     S:oredict.dustSolderingAlloy.name=钎焊合金粉
     S:oredict.dustSoularium.name=魂金粉
     S:oredict.dustSoylentGreen.name=绿色绿宝石
-    S:oredict.dustSpaceRock.name=Space Rock Dust
+    S:oredict.dustSpaceRock.name=陨石粉
     S:oredict.dustSpectreIron.name=灵魂之铁粉
     S:oredict.dustSperrylite.name=砷铂粉
     S:oredict.dustSpessartine.name=锰铝榴石粉
@@ -24818,7 +24818,7 @@ languagefile {
     S:oredict.dustTinyDeepIron.name=小撮深渊铁粉
     S:oredict.dustTinyDesh.name=小撮戴斯粉
     S:oredict.dustTinyDesichalkos.name=小撮虚空之魂石粉
-    S:oredict.dustTinyDiamantine.name=Tiny Pile of Diamantine Dust
+    S:oredict.dustTinyDiamantine.name=小撮金刚砂粉
     S:oredict.dustTinyDiamond.name=小撮钻石粉
     S:oredict.dustTinyDiatomite.name=小撮硅藻土粉
     S:oredict.dustTinyDiduraniumTrioxide.name=小撮三氧化二钍瑞铌粉
@@ -25090,7 +25090,7 @@ languagefile {
     S:oredict.dustTinyPotassium.name=小撮钾粉
     S:oredict.dustTinyPotassiumBisulfate.name=小撮硫酸氢钠粉
     S:oredict.dustTinyPotassiumFeldspar.name=小撮钾长石粉
-    S:oredict.dustTinyPotassiumHydroxide.name=Tiny Pile of Potassium Hydroxide Dust
+    S:oredict.dustTinyPotassiumHydroxide.name=小撮氢氧化钾粉
     S:oredict.dustTinyPotassiumPyrosulfate.name=小撮焦硫酸钾粉
     S:oredict.dustTinyPotassiumSulfate.name=小撮硫酸钾粉
     S:oredict.dustTinyPotassiumSulfide.name=小撮硫化钾粉
@@ -25175,7 +25175,7 @@ languagefile {
     S:oredict.dustTinySolderingAlloy.name=小撮钎焊合金粉
     S:oredict.dustTinySoularium.name=小撮魂金粉
     S:oredict.dustTinySoylentGreen.name=小撮绿色绿宝石
-    S:oredict.dustTinySpaceRock.name=Tiny Pile of Space Rock Dust
+    S:oredict.dustTinySpaceRock.name=小撮陨石粉
     S:oredict.dustTinySpectreIron.name=小撮灵魂之铁粉
     S:oredict.dustTinySperrylite.name=小撮砷铂粉
     S:oredict.dustTinySpessartine.name=小撮锰铝榴石粉

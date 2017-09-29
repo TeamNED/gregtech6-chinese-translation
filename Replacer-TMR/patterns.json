@@ -403,7 +403,7 @@
     },
     {
         "name": "oredict.dust.+",
-        "value": "(?P<mw>.+?) ?(Dust|Powder)?",
+        "value": "(?P<mw>.+) (Dust|Powder)",
         "repl": "{0}粉",
         "priority": 500
     },
