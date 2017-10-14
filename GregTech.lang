@@ -8815,11 +8815,11 @@ languagefile {
     S:gt.multitileentity.20522.name=燃烧反应室 (钢)
     S:gt.multitileentity.20523.name=燃烧反应室 (钛)
     S:gt.multitileentity.20524.name=燃烧反应室 (钨钢)
-    S:gt.multitileentity.20531.name=Plantalyzer (LV)
-    S:gt.multitileentity.20532.name=Plantalyzer (MV)
-    S:gt.multitileentity.20533.name=Plantalyzer (HV)
-    S:gt.multitileentity.20534.name=Plantalyzer (EV)
-    S:gt.multitileentity.20535.name=Plantalyzer (IV)
+    S:gt.multitileentity.20531.name=植物分析仪 (LV)
+    S:gt.multitileentity.20532.name=植物分析仪 (MV)
+    S:gt.multitileentity.20533.name=植物分析仪 (HV)
+    S:gt.multitileentity.20534.name=植物分析仪 (EV)
+    S:gt.multitileentity.20535.name=植物分析仪 (IV)
     S:gt.multitileentity.20541.name=黄蜂分析仪 (LV)
     S:gt.multitileentity.20542.name=黄蜂分析仪 (MV)
     S:gt.multitileentity.20543.name=黄蜂分析仪 (HV)
@@ -8849,8 +8849,8 @@ languagefile {
     S:gt.multitileentity.20593.name=拆箱机 (HV)
     S:gt.multitileentity.20594.name=拆箱机 (EV)
     S:gt.multitileentity.20595.name=拆箱机 (IV)
-    S:gt.multitileentity.21.name=Cobalt Chest
-    S:gt.multitileentity.22.name=Nickel Chest
+    S:gt.multitileentity.21.name=钴箱子
+    S:gt.multitileentity.22.name=镍箱子
     S:gt.multitileentity.22000.name=凝结器
     S:gt.multitileentity.22001.name=转换器
     S:gt.multitileentity.22002.name=浸洗器
@@ -9911,7 +9911,7 @@ languagefile {
     S:gt.recipe.mixer=搅拌机
     S:gt.recipe.mortar=研磨
     S:gt.recipe.packager=打包器
-    S:gt.recipe.plantalyzer=Plantalyzer
+    S:gt.recipe.plantalyzer=植物分析仪
     S:gt.recipe.plasmaarcfurnace=等离子电弧炉
     S:gt.recipe.plasmageneratorfuels=等离子发电机燃料
     S:gt.recipe.polarizer=电磁极化机
