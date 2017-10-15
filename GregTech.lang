@@ -103,7 +103,7 @@ languagefile {
     S:fluid.bananasmoothie=香蕉冰沙
     S:fluid.beer=啤酒
     S:fluid.beetjuice=甜菜汁
-    S:fluid.binnie.ciderApple=Cider
+    S:fluid.binnie.ciderApple=苹果酒
     S:fluid.binnie.ciderapple=苹果酒
     S:fluid.binnie.juiceApple=苹果汁
     S:fluid.binnie.juiceApricot=杏子汁
@@ -478,7 +478,7 @@ languagefile {
     S:fluid.molten.platinum=熔融铂
     S:fluid.molten.purplealloy=熔融紫色合金
     S:fluid.molten.redalloy=熔融红色合金
-    S:fluid.molten.redsteel=熔融Red Steel
+    S:fluid.molten.redsteel=熔融红钢
     S:fluid.molten.redstone=熔融红石
     S:fluid.molten.redstonealloy=熔融红硅(红石合金)
     S:fluid.molten.rubber=熔融橡胶
