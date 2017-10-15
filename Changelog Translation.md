@@ -1,35 +1,159 @@
 更新日志 *(1.7.10)*
+
+## V6.05.45
+
+[FIXED] Aqua Regia to Chloroplatinic Acid Processing producing a very unbalanced output (more Cl out than you put in), I only needed to change up the Ratios, it's the same Products as before.
+[FIXED] Some Bugs regarding the Player Inventory restock from the Slot above Functionality of GT6 in regards of GT6 Tools and their Scrap.
+[CHANGED] Tin Alloy counts as Furnace Smeltable now.
+[CHANGED] Neodymium and its Magnetic variant are now Diamond-Tool Quality.
+[CAHNGED] Bushes now grow 5 times slower. They were just too OP.
+[ADDED] A dedicated Loot Chest for the Dungeon Loot change in the previous Version. Now it is no longer made of Tin Alloy, but instead is not Craftable and made of Stone and looking a bit like Mossy Stone Bricks.
+[ADDED] Cobalt, Nickel, Germanium and Draconium "Storage Set" (Chests, Mass Storages, Shelves, Adv Crafting Tables, Hoppers etc). Also made it easier for me to add more "Storage Sets" by rewriting the Code a little.
+[ADDED] A few Recipes regarding BoP Mud and GT6 Mud.
+[ADDED] Tin Alloy Fluid Pipes.
+[ADDED] Mud Version of GT6 Ores to fit in better with the muddy Swampwater of GT6. (SERIOUSLY, IT'S LIKE SAND ORES, OR NETHERRACK ORES, JUST THAT IT BELONGS TO MUDDY WATER IN NEWLY GENERATED SWAMPS!!! WHY THE FUCK IS EVERYBODY HYPED ABOUT THIS?!?)
+[ADDED]
+Some Tools will now autocollect their Drops instead of letting Item Entities fall on the ground, if the Player has enough Inventory Space.
+This also applies to certain Materials you can craft Tools out of. You know, the "Magnetic" Variant.
+Among those Tools (its about half of ALL Tools that can do that) is the Wrench for example, meaning you autocollect whatever you Wrench, no matter what Material the Wrench is.
+That kindof fixed the Issue of "Removing Hoppers above a Crucible" as a Side Effect, since the Hopper would not Drop as Item in this case (If you have Space in your Inventory).
+As Examples, here are a few Tools that Automatically have this Ability even without being Magnetic: Construction Pickaxes, Wrenches, Mining Drills and the Plow.
+[ADDED]
+Made several Extruder Recipes accessible much earlier.
+The Tier 1 Extruder no longer needs Tungsten Carbide to be crafted, instead it uses Steel.
+New Low Heat Extruder Shapes can be made using any Type of regular Steel.
+Several Low Tier Metals count as Simple for the Extruder now, meaning they have a fixed low cost and can be formed using the Low Heat Shapes.
+
+## V6.05.44
+
+[NOTE] Users of the Custom Veins etc in my Worldgen Config have to manually set the amount of Custom Veins, as it no longer defaults to 8, in order to prevent Debug Error Messages from appearing in the Log (due to NULL Material in Config). And yes the Debug Errors about Worldgen Ores are for Users, not for me, and they are in the GregTech.log
+[FIXED] A HUGE Maths Error in the Extruder Recipe Code. It used about 10 times more Energy in some cases than it should have used (all the Metal related Recipes basically). Now it will just use 25% more Energy than a Crucible would.
+[FIXED] A Stupid Error in the Extruder Recipe Code that made Wax, Plastic and Rubber Stuff cost exactly the same no matter how many Items the Recipe Outputs.
+[FIXED] Fluid Filters resetting again.
+[CHANGED] Dungeon Loot Chests will now be replaced with GT6 Chests that only generate their Loot once you open or break them and not before that.
+[CHANGED] A tiny thing in the Crafting Recipe Searching Code, might make the Adv Crafting Table create less of a spike when being used.
+[CHANGED] Moved Mineral Water production from Mixer to Injector.
+[CHANGED] The Tooltip for contained Materials got a bit slimmed down and more overviewable.
+[ADDED] GT6 Blocks that have Covers on them now have a Tooltip stating that a Crowbar can be used to remove them.
+[ADDED] XP Orbs now get combined if there is more than 32 of them in one World at once. The resulting larger Orb will have the despawn Age of the youngest Orb.
+[ADDED] Ender Garbage Bin (only top side) and Ender Garbage Dump (any side) are now accessible via Funnel/Tap.
+[ADDED] Recipe for Calcium => Calcium Carbonate (Calcite), mixing Water and CO2. It has Hydrogen Gas as a Byproduct.
+[ADDED] Draconium Fluid Pipes. A very high Tier Type of Pipes for people, who have a Draconium Adding Mod installed.
+[ADDED]
+More proper Titanium Processing.
+The Centrifuging of molten Ilmenite into Rutile and Hematite is no longer possible.
+You generally don't need a Crucible to process Titanium containing Ores anymore, except for the final step of shaping the resulting Titanium Dust into whatever you need, like Plates or something.
+Instead you need Sulfuric Acid to make Rutile and Green Vitriol.
+Rutile (or Ilmenite directly) + Coke + Chlorine + Calcite in Burner Mixer is needed to make it into Titanium Chloride.
+Titanium Chloride + Sodium or Magnesium = Titanium + Salt.
+This change also fixes the Niobium-Titanium Crucible in the Tech Tree, so that it can be used again to progress.
+[ADDED]
+My own Type of 3D Universal Fluid Cells that follows my standard set of Rules for Fluid Containers, and are all stackable up to 64 and Gas Proof.
+Since I was not able to settle for a specific Name of them, due to "Cell", "Capsule" and "Container" being already taken by other Mods and "Can" not really fitting the purpose, I decided to go for "Capsule-Cell-Container".
+There is 22 different possible Materials they can be made of, which includes Plastic, all the Wax Types and lots of Metals.
+1 Unit of the Material it is made of equals 1000L of Fluid. Usually Drums are better, but those can't be made of Wax or Tin.
+They can only be made using the Extruder and the Capsule-Cell-Container Shape.
+Did I mention that you can paint them too, just like all the other GT6 Containers?
+
+
+
+##V6.05.43
+
+[FIXED] Calcification Display of the Boilers.
+[FIXED] 3 Mixer Recipes missing their Output Fluid.
+
+## V6.05.42
+
+[REMOVED] The GT6 Meta-IC2-Cell-Item, because it won't ever be used anyways (I have a better System for that kinda stuff by now, see Measuring Pots). Also removed some unused Textures aswell.
+[REMOVED] Recipe for the Universal Fluid Cell of IC2-Exp. I also replaced the Universal Cell with Empty Cells in Recipes that needed it.
+[REMOVED] The "cheaty" Recipes from the Metal Former. The Metal Former itself is still craftable due to compat Reasons.
+[CHANGED] IC2-Exp Empty Fuel Rods are now made with Zirconium instead of Steel.
+[ADDED] Plantalyzer, a Machine that scans IC2 Crops and Forestry Saplings, similar to how the Bumblelyzer does it, but it does not use Honey at all.
+[ADDED] Queue Hopper, a Hopper that remembers the order at which things came in, and always emits the first inserted Item and works it's way to the last inserted Item in an ordered fashion. Professionals would call it a FIFO (First IN, First OUT). You can manually change the Order in its GUI ofcourse.
+[ADDED] Glow Glass, a variant of my Clear Glass that emits light like Glowstone. It is produced with the Injector, 1 Glowstone Dust per piece (or half a Glowstone Dust per Slab) and a Block of GT6 Clear Glass. Aside from emitting a constant Light Level this Block uses the same Texture as the normal Clear Glass.
+[ADDED] The Chemical Formula Tooltips back. Now even with Subscript Numbers instead of normal ones!
+[ADDED] Satanic Bumblebees that produce Soul Combs (Soulsand & Soulsand Oil). Spoiler alert do not continue reading if you wanna find out the combo yourself, it is the combination of CITSILIHIN and CINOMED (you have to read those in reverse).
+[ADDED] A Book containing Descriptions of all current GT6 Tools. It is added to all Loot Lists that contain Books of that kind.
+
+## V6.05.41
+**##Caution:更新至此版本前务必备份存档！！！！！
+[REWRITE]
+The Worldgen Code of GT6 got improved a lot, and that did change quite a lot of internals on how my Worldgen works, including the Config Files. This will also let GalacticGreg crash very hard, due to the massive Changes I made (not that that Addon is needed anymore since I add that Compat myself now).
+[COMPAT] Galacticraft & GalaxySpace
+Moon and Mars now have GT6 Rocks in their Worldgen.
+Moon, Mars and Asteroids now have GT6 Ores. Mars and Asteroids even have Naquadah and Dilithium related Ores.
+Schematics and Keys now go into Book Shelves.
+Scanner and Printer can now copy NASA Workbench Schematics, and the Schematics can ofcourse be stored on USB just like Books. This is especially useful in Multiplayer since the NASA Workbench eats those things per Player.
+[FIXED] GT6 Dungeons were spawning in Twilight Forest and on other Planets (now they don't anymore).
+[FIXED] A Bug that caused an exponential Worldgen Loop. I don't know if that Bug was in 6.05.40 already or if it was purely in-Dev, but it's fixed now. (that damn Bug was the reason for wasting a shitload of my time)
+[CHANGED] AE Grindstone, because it is way too exploitable to use that thing the way it is (especially because it made Aluminium way too easy if Aluminium Ores are present). I decided to add a lot of Crop related Recipes to it, and kept the Quartz and some low Tier ones, but I removed ALL OTHER RECIPES in it.
+[CHANGED] Lead Armors from Thermal Foundation and Galaxy Space now count as Radiation Proof like a Hazmat Suit. (does not apply to IC2 Items that happen to be radioactive)
+[CHANGED] The Recipes for dyeing Blocks in the Bath now use less Dye. Using the Spray Cans is still twice as "Dye-Effective" as the Bath.
+[IMPROVED] Implemented AEs IMovableTile Interface on my TileEntities. Teleporting them should cause less Issues now.
+
+## V6.05.40
+
+[NOTE] Bear has Advanced Rocketry on his Server, and for some reason it turned off The Galacticraft Oxygen System, as if you have used the Config for that (and that caused by just updating GT6, it even fixes itself if you downgrade GT6). If that happens to you too, make sure to check everything Advanced Rocketry Config related, maybe it somehow gets ignored or corrupted.
+[COMPAT] Galacticraft
+Made most GT6 Blocks
+Sealable (Bricks, Glass, Concrete, Asphalt, Long Distance Wires, Dry C-Foam etc),
+Conditionally Sealable (for Slabs that are only sealable on one side) or
+Entirely Unsealable (Stone/Cobblestone/Mossy/Cracked variants of Rock, Wood of any kind, Bales, Wet C-Foam and ALL Machines).
+C-Foamed Wires and Pipes will always be sealable. Most Covers that aren't considered simple Attachments can seal things aswell, Canvas is NOT sealable so you need C-Foam behind it, Huge Pipes without C-Foam are NOT sealable either.
+[COMPAT] Galacticraft
+I made all shaped Crafting Table Recipes of Galacticraft use Plates (and the different variants of Copper/Iron/Steel) as a potential alternative to the Compressed Items, without messing up OreDict, in order to make Crafting less of a hassle. This does NOT apply to the Recipes inside the NASA Workbench or Machines.
+GT6 Batteries are now working to charge Galacticraft things. (I intentionally made GT6 Batteries not chargeable in GC Stuff, so it is one way)
+GT6 Wrenches now work on Galacticraft Machines.
+GC Machines can now be powered by GT6 EU. I tried my best to make it as lossless as possible, please don't use absurd Voltages like anything past HV.
+Bushes do count as Leaves for the Oxygen Collector now.
+Desh related Material Data Issues got resolved.
+Oxygen Tanks can now be filled in a Canning Machine (Taps on Drums are NOT Canning Machines, I won't make it THAT easy on you!)
+Blacklisted Oxygen Canisters for the Tap and some other things! The only GT6 thing that can fill those Canisters now, is the Canning Machine (emptying them via Funnel is no problem).
+[FIXED] All Aluminium Ores now crush into Alumina (and they drop twice as many crushed Ores now), and they cannot be smelted into Aluminium either, so even if someone doesn't disable Aluminium Worldgen from other Mods they still have to go through GT6 Aluminium Processing to make it useful (unless they use other Mods Machines to crush it).
+[FIXED] Low Tier Rotational Pumps were not working at all for some reason.
+[FIXED] GT6 Brown Clay and Mud were preventing Mobspawns ontop of them despite being "natural" Blocks.
+[CHANGED] The Wood Plate that is outputted by Recycling Recipes of Vanilla Objects got replaced by the "Generic Wood Plank" Block, so it is placeable now. Also all Planks can now be Crated, not just the Wood Plate ones.
+[CHANGED] Made Chisel Purpur Blocks compatible with Et-Futurum Purpur whereever possible, and removed the Chisel Purpur Block Recipe if Et-Futurum is installed.
+[CHANGED] Ender Bumblebees now have slightly different requirements if Et-Futurum is installed. They will in that case always require either Chorus Flowers or the Dragon Egg, anything else that they usually accept doesn't count then.
+
+
+
 ## v6.05.39
+
 * [修复] 电解机和离心分离机在许多情况下不给含杂粉尘和纯净粉尘提供副产品。
 * [修复] 大黄蜂不能再攻击骷髅，因为骷髅是-嗯…骨架。
-* [修复] 手钻不使用钢杆(或者是铁杆?好吧，反正其中一个没有正确地工作)来加固砖。
-* [修复] 大黄蜂不再在太空中产卵了(银河战舰等)。
+* [修复] 手钻不使用钢杆(或者铁杆?)来加固砖。
+* [修复] 大黄蜂不再在太空(譬如飞船)中生成了。
 * [改动] 锤子勘探只消耗以前耐久的1 / 10。
-* [新增] 液态氧(与星空兼容)。为此还有一个冷冻配方。
-* [新增] 现在可以在焊机中制造转子。这也减少了他们1个螺丝的回收材料量。
-* [新增] 你不需要再把盐和水混合到电解盐水中(但这仍然是可行的)。这两种成分可以直接注入到电解机中，而无需预混合。岩盐(KCl)现在也有用了，在电解机中产出目前还无用的KOH。
-* [新增] 混凝土和钢筋混凝土砌块。
-混凝土没有行走加速，那仍然是沥青的工作。具体的配方是 石头 + 方解石 + 灰烬，然后将产生的粉末与水混合，然后放入烘干机中。它的增强型需要在烘干机中使用一些铁或钢棒，或者只是使用类似于岩石类型的钻头。混凝土的默认颜色是浅灰色，可以很容易地画出来。与c -泡沫不同的是，它不是预先着色的，但你可以在干块上使用水和染料给它染色，就像沥青一样。它的质地非常光滑，比泡沫塑料更光滑。普通混凝土需要石镐水平，钢筋混凝土需要钻石镐水平，需要4倍的时间来打破它。普通混凝土和钢筋混凝土的防爆阻力为12(16和以上是TNT的威力不能穿透的)。比较:玄武岩= 18(强化后36)，c-泡沫=24，黑曜石=36(通过GT6和IC2得到此值)，黑色/红色花岗岩= 36(强化后72)。
-* [新增] 高压锅，这一次与旧的略有不同，用大量不锈钢制成。(仍然是单步运行)
-它是由底部的蒸汽直接驱动的，是一个不能加速的过程，因为它是一个基于时间的机器。
-大多数(如果不是全部的话)配方运行时要不间断地使用每秒32蒸汽能，但知道大多数人来说，他们只会拍一个更强大的锅炉，以即时填补它，所以他们不需要考虑及时扑灭燃烧室，这也很好。如果人们使用蒸汽箱，那将不会是什么好事情，但幸运的是，在GT6中没有这样的东西。:P
-: 与NaOH的铝土矿处理从浸洗机(原文bath，我也不知道是不是这么翻译)进入这台机器。
-大多数石英类似物质都可以结晶，这也包括琥珀尘埃，ic2 - exp能量尘埃(有这东西？)(压缩配方现在被移除)和来自应用能源的石英种子。
-* [新增] 燃烧混合器。
-:这是混合器的防火变体。它被用来尽可能快地燃烧混合的结果。它需要一个点火器启动这个混合器，以及常用的马达/涡轮机。
-:一些我曾不常注意的化学配方将被移到这个混合器。
-:一旦我注意到一些合成我忘记移动它们的时候，也会有一些被移到这里。
-:如果你找到了需要燃烧的配方来产出一些东西，请通知我。(加热不算是燃烧!)
-氢+氧=水确实是燃烧的，这是一个很好的建议，以备将来参考。
+* [新增] 液态氧(与星空兼容)。以及关于它的一个冷冻配方。
+* [新增] 现在可以在焊机中制造转子。这也减少了1个螺丝的材料量。
+* [新增] 你不需要再把盐和水混合到电解盐水中(但这仍然是可行的)。这两种成分可以直接注入到电解机中，而无需预混合。岩盐(KCl)现在也有用了，在电解机中产出目前还无用的氢氧化钾(KOH)。
+* [新增] 混凝土和钢筋混凝土砖块。
+  在混凝土上行走时并不能加速，那仍然是沥青的功能。具体的配方是 石头 + 方解石 + 灰烬，然后将产生的粉末与水混合，然后放入烘干机中。它的增强版本需要在烘干机中使用一些铁或钢棒，或者只是使用类似于岩石类型的钻头。混凝土的默认颜色是浅灰色，可以很容易地画出来。与c -泡沫不同的是，它不是预先着色的，但你可以在干块上使用水和染料给它染色，就像沥青一样。它的质地非常光滑，比泡沫塑料更光滑。普通混凝土需要石镐水平，钢筋混凝土需要钻石镐水平，需要4倍的时间来打破它。普通混凝土和钢筋混凝土的防爆阻力为12(16和以上是TNT的威力不能穿透的)。比较:玄武岩= 18(强化后36)，c-泡沫=24，黑曜石=36(通过GT6和IC2得到此值)，黑色/红色花岗岩= 36(强化后72)。
+* [新增] 高压釜，与GT5的略有不同，用大量不锈钢制成。(单方块机器)
+  它是由底部的蒸汽直接驱动的，不能加速，因为它是一个以时间计算耗能的机器。
+  大多数(或者全部)配方运行时要不间断地使用每秒32mB蒸汽，但对大多数人来说，他们只会制造更强劲的锅炉以即时填补它，所以他们不需要扑灭燃烧室，这也很好。如果人们使用蒸汽储罐，那就不是什么好事情，但幸运的是，在GT6中没有蒸汽储罐这样的东西。:P
+  : NaOH处理铝土矿的配方从浸洗机转移到这台机器。
+  大多数石英类物质都可以结晶，这也包括琥珀粉，ic2 - exp能量水晶粉(压缩机配方已被移除)和来自AE的石英种子。
+* [新增] 燃烧反应器。
+  :这是搅拌机的防火版本。它被用来作为燃烧反应的反应容器。它需要一个点火器以及马达/涡轮机来启动。
+  :一些作者不曾注意的化学配方被移动到这个燃烧反应器。
+  :当作者注意到一些忘记修改的合成的时候，也会有一些被转移到这里。
+  :如果你找到了需要燃烧的配方来产出一些东西，请通知作者。(加热不算是燃烧!)
+  氢+氧=水确实是燃烧反应，这是一个很好的建议，以备将来参考。
 
 
 ## v6.05.33
-* [修复] 僵尸猪人不再会掉落我添加到僵尸身上的材料。相反，他们现在掉落更多不同的与地狱相关的材料。
-* [改动] 冒险模式斧现在是冒险模式刀。
-* [改动] 充满脏水和海水的木桶可以被偷偷的右键清空。
-* [改动] 现在所有的树的叶子都有快速腐烂的功能。如果需要，它可以在配置中关闭。这使得快速的叶子腐烂变得毫无价值，因为它现在被集成到GT6中。
+* [修复] 僵尸猪人不再会掉落添加到僵尸身上的材料。相反，它们现在掉落一些与地狱相关的材料。
+* [改动] 冒险模式斧现在是冒险模式小刀。
+* [改动] 装满脏水和海水的木桶可以被潜行右键清空。
+* [改动] 现在所有的树的叶子都有快速腐烂的功能。如果需要，它可以在配置中关闭。这使得**快速树叶掉落** *(FastLeafDecay)*变得毫无价值，因为它现在被集成到GT6中。
 * [添加] 僵尸现在也可以掉落普通的小石头，与燧石掉落几率相同。
-* [添加] 顺带一提，煤和褐煤可以用于点火。(之前忘了把它加到更新日志里了)
+* [添加] 煤和褐煤石子可以用于制作火把。(之前忘了把它加到更新日志里了)
+
+此线以上转载至function-z的翻译
+===========================================================分割线================================================
+
 
 ## v6.05.27
 * [改进] 部分沼泽水与海水的生成。并且也修复了新生成的海洋和沼泽群系中的光照问题，因为Minecraft太怠惰了。
@@ -72,19 +196,19 @@
 * [新增] Butter and Salted Butter. Currently a Mixing Bowl and Centrifuge Recipe with Heavy Cream.
 * [新增] 现在需要蒸馏新增的甜菜汁而不是甜菜才能制糖。
 * [新增]
-White and Red Grapes, with Crops, Juices, Smoothies, Wines and everything, simply because Growthcraft has Red Grapes and I only had Green and Purple. (also updated the Raisin Cookie/Dough Textures to reflect this colorful addition)
-Now Growthcrafts Grape Juice is the Purple one, Binnies old Grape Juices are Red and White, while the Green Grape Juice/Smoothie/Wine is just a GT6 thing now.
-Also Purple Grape Juice now turns into Ricardo Sanchez, what is a Wine that is named very similarily to a character in Rick&Morty. I got that Idea, because I literally saw a Bottle of it at home. (because people are gifting random Bottles of Alcohol to others during Holidays, that no one ever drinks, or that just get re-gifted)
+  White and Red Grapes, with Crops, Juices, Smoothies, Wines and everything, simply because Growthcraft has Red Grapes and I only had Green and Purple. (also updated the Raisin Cookie/Dough Textures to reflect this colorful addition)
+  Now Growthcrafts Grape Juice is the Purple one, Binnies old Grape Juices are Red and White, while the Green Grape Juice/Smoothie/Wine is just a GT6 thing now.
+  Also Purple Grape Juice now turns into Ricardo Sanchez, what is a Wine that is named very similarily to a character in Rick&Morty. I got that Idea, because I literally saw a Bottle of it at home. (because people are gifting random Bottles of Alcohol to others during Holidays, that no one ever drinks, or that just get re-gifted)
 * [新增]
-It was time that those get a bit updated, so GT6 Dungeons now spawn with the following Stuff:
-Colored Porcellain Cups and Coins in the Barracks and Libraries*, some of the Cups even being filled with a random Drink. (* = only with the Thaumcraft Library Design, Cups in any Library Design always have stretched Night Vision Potions, because that makes total sense, being a place where you need your eyes to read stuff)
-A new un-lit Nether Portal Room, similar to the already existing End Portal Room. (Does not always have to generate)
-The Crate Room now also contains Barrels and Drums with useful raw Materials (including Stainless Drums full of different kinds of Raw Oil).
-A Room with a Pool and random Glowtus Pads in it, which can contain up to 4 Chests with the Bonus Chest Loot.
-Barrels full of some randomly selected Drink for the Default Rooms. They can be Ironwood Barrels 33.3% of the time, and Purple Drink is the most likely Stuff contained in them compared to the others.
-A WaterDrum+Taps+Funnel+MixingBowl+Cauldron+BathingPot-Setup for the Default Rooms.
-A Corner to the Default Room, where there is the Safe, 3 Chests, a Crafting Table, a Mortar, some Coins, a Measuring Pot, an Advanced Crafting Table and 2 Mass Storages, which contain the Cobblestone Variant of the 2 Blocks that the Structure is made of (in order to make it easier to expand the Area)
-The T-Intersections in Corridors now have a few Coins and a Cup with a random Drink.
+  It was time that those get a bit updated, so GT6 Dungeons now spawn with the following Stuff:
+  Colored Porcellain Cups and Coins in the Barracks and Libraries*, some of the Cups even being filled with a random Drink. (* = only with the Thaumcraft Library Design, Cups in any Library Design always have stretched Night Vision Potions, because that makes total sense, being a place where you need your eyes to read stuff)
+  A new un-lit Nether Portal Room, similar to the already existing End Portal Room. (Does not always have to generate)
+  The Crate Room now also contains Barrels and Drums with useful raw Materials (including Stainless Drums full of different kinds of Raw Oil).
+  A Room with a Pool and random Glowtus Pads in it, which can contain up to 4 Chests with the Bonus Chest Loot.
+  Barrels full of some randomly selected Drink for the Default Rooms. They can be Ironwood Barrels 33.3% of the time, and Purple Drink is the most likely Stuff contained in them compared to the others.
+  A WaterDrum+Taps+Funnel+MixingBowl+Cauldron+BathingPot-Setup for the Default Rooms.
+  A Corner to the Default Room, where there is the Safe, 3 Chests, a Crafting Table, a Mortar, some Coins, a Measuring Pot, an Advanced Crafting Table and 2 Mass Storages, which contain the Cobblestone Variant of the 2 Blocks that the Structure is made of (in order to make it easier to expand the Area)
+  The T-Intersections in Corridors now have a few Coins and a Cup with a random Drink.
 
 
 ## v6.05.23
