@@ -8,6 +8,7 @@
     "Aerotheum": "和谐之空气",
     "Air": "空气",
     "Alduorite": "神秘蓝金",
+    "Alexandrite": "紫翠玉",
     "Alienated": "厌世",
     "Almandine": "铁铝榴石",
     "Alumina": "氧化铝",
@@ -960,6 +961,7 @@
     "Magnalium": "镁铝合金",
     "Magnesite": "菱镁矿",
     "Magnesium": "镁",
+    "Magnesium Carbonate": "碳酸镁",
     "Magnetic Iron": "磁化铁",
     "Magnetic Neodymium": "磁化钕",
     "Magnetic Steel": "磁化钢",
@@ -1356,5 +1358,7 @@
     "Yttrium-Barium-Cuprate": "钇钡铜氧合金",
     "Zeolite": "沸石",
     "Zinc": "锌",
-    "Zirconium": "锆"
+    "Zirconium": "锆",
+    "Tennantite": "石田(Unicode 未收录字)",
+    "Titanium Tetrachloride": "四氯化钛"
 }
