@@ -3769,7 +3769,7 @@ languagefile {
     S:gt.material.Farnsium=钫
     S:gt.material.Ferberite=钨铁矿
     S:gt.material.Fermium=镄
-    S:gt.material.FerricChloride=Ferric Chloride
+    S:gt.material.FerricChloride=氯化铁
     S:gt.material.Ferrite=铁氧体
     S:gt.material.Ferrovanadium=钒磁铁矿
     S:gt.material.FierySteel=炙热钢
@@ -4008,7 +4008,7 @@ languagefile {
     S:gt.material.Mint=薄荷
     S:gt.material.Mirabilite=芒硝
     S:gt.material.Mithril=秘银
-    S:gt.material.Molybdenite=辉钼矿
+    S:gt.material.Molybdenite=辉钼
     S:gt.material.Molybdenum=钼
     S:gt.material.Monazite=独居石
     S:gt.material.MoonStone=月球石头
@@ -4096,7 +4096,7 @@ languagefile {
     S:gt.material.PepperBlack=黑胡椒
     S:gt.material.Peridot=橄榄石
     S:gt.material.Perlite=珍珠岩
-    S:gt.material.PetCoke=PetCoke
+    S:gt.material.PetCoke=石油焦
     S:gt.material.PetrifiedWood=石化木
     S:gt.material.Petrol=汽油
     S:gt.material.Petroleum=石油
