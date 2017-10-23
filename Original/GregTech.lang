@@ -91,6 +91,7 @@ languagefile {
     S:enchantment.damage.slime=Dissolving
     S:enchantment.damage.werewolf=Werebane
     S:fluid.air=Air
+    S:fluid.ammonia=Ammonia
     S:fluid.applesmoothie=Apple Smoothie
     S:fluid.applevinegar=Apple Cider Vinegar
     S:fluid.apricotsmoothie=Apricot Smoothie
@@ -292,6 +293,7 @@ languagefile {
     S:fluid.hydrogen=Hydrogen
     S:fluid.hydrogenfluoride=Hydrogen Fluoride
     S:fluid.hydrogenperoxide=Hydrogen Peroxide
+    S:fluid.hydrosulfuricacid=Hydrosulfuric Acid
     S:fluid.ic2biomass=Biomass
     S:fluid.ic2constructionfoam=Construction Foam
     S:fluid.ic2distilledwater=Distilled Water
@@ -357,6 +359,7 @@ languagefile {
     S:fluid.molten.brass=Molten Brass
     S:fluid.molten.bronze=Molten Bronze
     S:fluid.molten.calcite=Molten Calcite
+    S:fluid.molten.calciumchloride=Molten Calcium Chloride
     S:fluid.molten.cheese=Molten Cheese
     S:fluid.molten.chocolate=Molten Chocolate
     S:fluid.molten.chromium=Molten Chromium
@@ -372,6 +375,7 @@ languagefile {
     S:fluid.molten.electrum=Molten Electrum
     S:fluid.molten.enderium=Molten Enderium
     S:fluid.molten.enderiumbase=Molten Enderium Base
+    S:fluid.molten.ferrouschloride=Molten Ferrous Chloride
     S:fluid.molten.fierysteel=Molten Fiery Steel
     S:fluid.molten.fluorite=Molten Fluorite
     S:fluid.molten.gold=Molten Gold
@@ -386,11 +390,14 @@ languagefile {
     S:fluid.molten.knightmetal=Molten Knightmetal
     S:fluid.molten.latex=Latex
     S:fluid.molten.lead=Molten Lead
+    S:fluid.molten.lithiumchloride=Molten Lithium Chloride
     S:fluid.molten.lumium=Molten Lumium
     S:fluid.molten.magnalium=Molten Magnalium
     S:fluid.molten.magnesium=Molten Magnesium
     S:fluid.molten.magnesiumcarbonate=Molten Magnesium Carbonate
+    S:fluid.molten.magnesiumchloride=Molten Magnesium Chloride
     S:fluid.molten.manganese=Molten Manganese
+    S:fluid.molten.manganesechloride=Molten Manganese Chloride
     S:fluid.molten.manyullyn=Molten Manyullyn
     S:fluid.molten.marsstone=Molten Mars
     S:fluid.molten.meteoriciron=Molten Meteoric Iron
@@ -405,6 +412,7 @@ languagefile {
     S:fluid.molten.osmiumelemental=Molten Osmium
     S:fluid.molten.pigiron=Molten Pig Iron
     S:fluid.molten.platinum=Molten Platinum
+    S:fluid.molten.potassiumcarbonate=Molten Potassium Carbonate
     S:fluid.molten.purplealloy=Molten Purple Alloy
     S:fluid.molten.redalloy=Molten Red Alloy
     S:fluid.molten.redsteel=Molten Red Steel
@@ -423,6 +431,7 @@ languagefile {
     S:fluid.molten.steel=Molten Steel
     S:fluid.molten.stone=Molten Stone
     S:fluid.molten.sugar=Molten Sugar
+    S:fluid.molten.sulfur=Molten Sulfur
     S:fluid.molten.tallow=Molten Magic Tallow
     S:fluid.molten.teslatite=Molten Teslatite
     S:fluid.molten.thaumium=Molten Thaumium
@@ -2802,6 +2811,7 @@ languagefile {
     S:gt.material.Americium241=Americium-241
     S:gt.material.Amethyst=Amethyst
     S:gt.material.AmethystEnder=Ender Amethyst
+    S:gt.material.Ammonia=Ammonia
     S:gt.material.Ammonium=Ammonium
     S:gt.material.Amordrine=Amordrine
     S:gt.material.Andesite=Andesite
@@ -3274,6 +3284,7 @@ languagefile {
     S:gt.material.AnyTungsten=Tungsten
     S:gt.material.AnyWax=Wax
     S:gt.material.AnyWood=Wood
+    S:gt.material.AnyWoodOrPlastic=Any Wood Or Plastic
     S:gt.material.Apatite=Apatite
     S:gt.material.AquaRegia=Aqua Regia
     S:gt.material.Aquamarine=Aquamarine
@@ -3463,8 +3474,10 @@ languagefile {
     S:gt.material.Caesium=Caesium
     S:gt.material.Calcite=Calcite
     S:gt.material.Calcium=Calcium
+    S:gt.material.CalciumChloride=Calcium Chloride
     S:gt.material.CalciumSulfate=Calcium Sulfate
     S:gt.material.CalciumSulphate=CalciumSulphate
+    S:gt.material.CalciumTungstate=CalciumTungstate
     S:gt.material.Californium=Californium
     S:gt.material.Carbide=Carbide
     S:gt.material.Carbon=Carbon
@@ -3627,6 +3640,7 @@ languagefile {
     S:gt.material.Fermium=Fermium
     S:gt.material.FerricChloride=Ferric Chloride
     S:gt.material.Ferrite=Ferrite
+    S:gt.material.FerrousChloride=Ferrous Chloride
     S:gt.material.Ferrovanadium=Ferrovanadium
     S:gt.material.FierySteel=Fiery Steel
     S:gt.material.Firestone=Firestone
@@ -3733,6 +3747,7 @@ languagefile {
     S:gt.material.HydrogenBorate=Hydrogen Borate
     S:gt.material.HydrogenFluoride=Hydrogen Fluoride
     S:gt.material.HydrogenPeroxide=Hydrogen Peroxide
+    S:gt.material.HydrosulfuricAcid=Hydrosulfuric Acid
     S:gt.material.Ice=Ice
     S:gt.material.Ignatius=Ignatius
     S:gt.material.Ilmenite=Ilmenite
@@ -3807,6 +3822,7 @@ languagefile {
     S:gt.material.LinOil=Lin Oil
     S:gt.material.Lithium=Lithium
     S:gt.material.Lithium6=Lithium-6
+    S:gt.material.LithiumChloride=Lithium Chloride
     S:gt.material.LithiumOxide=Lithium Oxide
     S:gt.material.LiveRoot=Liveroot
     S:gt.material.Livermorium=Livermorium
@@ -3830,6 +3846,7 @@ languagefile {
     S:gt.material.Malachite=Malachite
     S:gt.material.Manasteel=Manasteel
     S:gt.material.Manganese=Manganese
+    S:gt.material.ManganeseChloride=Manganese Chloride
     S:gt.material.Manyullyn=Manyullyn
     S:gt.material.Marble=Marble
     S:gt.material.MarsSand=Mars Sand
@@ -3983,16 +4000,23 @@ languagefile {
     S:gt.material.Positron=Positron
     S:gt.material.Potash=Potash
     S:gt.material.Potassium=Potassium
+    S:gt.material.PotassiumAluminate=Potassium Aluminate
     S:gt.material.PotassiumBisulfate=Potassium Bisulfate
     S:gt.material.PotassiumBisulphate=PotassiumBisulphate
+    S:gt.material.PotassiumCarbonate=Potassium Carbonate
     S:gt.material.PotassiumFeldspar=Potassium Feldspar
     S:gt.material.PotassiumHydroxide=Potassium Hydroxide
+    S:gt.material.PotassiumNitrate=Potassium Nitrate
+    S:gt.material.PotassiumPersulfate=Potassium Persulfate
+    S:gt.material.PotassiumPersulphate=PotassiumPersulphate
     S:gt.material.PotassiumPyrosulfate=Potassium Pyrosulfate
     S:gt.material.PotassiumPyrosulphate=PotassiumPyrosulphate
     S:gt.material.PotassiumSulfate=Potassium Sulfate
     S:gt.material.PotassiumSulfide=Potassium Sulfide
+    S:gt.material.PotassiumSulfite=Potassium Sulfite
     S:gt.material.PotassiumSulphate=PotassiumSulphate
     S:gt.material.PotassiumSulphide=PotassiumSulphide
+    S:gt.material.PotassiumSulphite=PotassiumSulphite
     S:gt.material.Potato=Potato
     S:gt.material.Powellite=Powellite
     S:gt.material.Praseodymium=Praseodymium
@@ -4102,7 +4126,10 @@ languagefile {
     S:gt.material.SodiumBisulfate=Sodium Bisulfate
     S:gt.material.SodiumBisulphate=SodiumBisulphate
     S:gt.material.SodiumCarbonate=Sodium Carbonate
+    S:gt.material.SodiumHydrogenSulfate=SodiumHydrogenSulfate
+    S:gt.material.SodiumHydrogenSulphate=SodiumHydrogenSulphate
     S:gt.material.SodiumHydroxide=Sodium Hydroxide
+    S:gt.material.SodiumNitrate=Sodium Nitrate
     S:gt.material.SodiumPeroxide=Sodium Peroxide
     S:gt.material.SodiumPersulfate=Sodium Persulfate
     S:gt.material.SodiumPersulphate=SodiumPersulphate
@@ -4311,9 +4338,12 @@ languagefile {
     S:gt.material.Tungstate=Tungstate
     S:gt.material.Tungsten=Tungsten
     S:gt.material.TungstenCarbide=Tungsten Carbide
+    S:gt.material.TungstenOxide=TungstenOxide
     S:gt.material.TungstenSintered=Sintered Tungsten
     S:gt.material.TungstenSteel=TungstenSteel
+    S:gt.material.TungstenTrioxide=Tungsten Trioxide
     S:gt.material.Tungstensteel=Tungstensteel
+    S:gt.material.TungsticAcid=Tungstic Acid
     S:gt.material.Turquoise=Turquoise
     S:gt.material.UUAmplifier=UU-Amplifier
     S:gt.material.UUMatter=UU-Matter
@@ -9677,6 +9707,7 @@ languagefile {
     S:gt.recipe.bumblequeen=Bumblebee Queen
     S:gt.recipe.burnmixer=Burner Mixer
     S:gt.recipe.byproductlist=Ore Byproduct List
+    S:gt.recipe.calciner=Calciner
     S:gt.recipe.canner=Canning Machine
     S:gt.recipe.centrifuge=Centrifuge
     S:gt.recipe.chisel=Chisel
@@ -10408,6 +10439,8 @@ languagefile {
     S:gt.tooltip.multiblock.tank3x3x3.1=3x3x3 Hollow of the Block you crafted this one with
     S:gt.tooltip.multiblock.tank3x3x3.2=This Block centered on Side/Top/Bottom and facing outwards
     S:gt.tooltip.multiblock.tank3x3x3.3=Auto-Emits Fluids from the Main Block if not against Gravity
+    S:gt.tooltip.pump.1=Usable to clear large Bodies of Fluid
+    S:gt.tooltip.pump.2=Not suitable for infinite Fluid Sources!
     S:gt.tooltip.sensor.bucketometer=Measures Fluids (In Cubic Meters)
     S:gt.tooltip.sensor.chronometer=Measures Time of Day
     S:gt.tooltip.sensor.electrometer=Measures Electricity Flow (In EU)
@@ -11321,6 +11354,7 @@ languagefile {
     S:oredict.blockDustCaesium.name=Block of Caesium Dust
     S:oredict.blockDustCalcite.name=Block of Calcite Dust
     S:oredict.blockDustCalcium.name=Block of Calcium Dust
+    S:oredict.blockDustCalciumChloride.name=Block of Calcium Chloride Dust
     S:oredict.blockDustCalciumSulfate.name=Block of Calcium Sulfate Dust
     S:oredict.blockDustCalifornium.name=Block of Californium Dust
     S:oredict.blockDustCarbon.name=Block of Carbon Dust
@@ -11437,9 +11471,11 @@ languagefile {
     S:oredict.blockDustEuropium.name=Block of Europium Dust
     S:oredict.blockDustEximite.name=Block of Eximite Dust
     S:oredict.blockDustFarnsium.name=Block of Farnsium Dust
+    S:oredict.blockDustFerberite.name=Block of Ferberite Dust
     S:oredict.blockDustFermium.name=Block of Fermium Dust
     S:oredict.blockDustFerricChloride.name=Block of Ferric Chloride Dust
     S:oredict.blockDustFerrite.name=Block of Ferrite Dust
+    S:oredict.blockDustFerrousChloride.name=Block of Ferrous Chloride Dust
     S:oredict.blockDustFerrovanadium.name=Block of Ferrovanadium Dust
     S:oredict.blockDustFierySteel.name=Block of Fiery Steel Dust
     S:oredict.blockDustFirestone.name=Block of Firestone Dust
@@ -11553,6 +11589,7 @@ languagefile {
     S:oredict.blockDustLimestone.name=Block of Limestone Dust
     S:oredict.blockDustLithium.name=Block of Lithium Dust
     S:oredict.blockDustLithium6.name=Block of Lithium-6 Dust
+    S:oredict.blockDustLithiumChloride.name=Block of Lithium Chloride Dust
     S:oredict.blockDustLithiumOxide.name=Block of Lithium Oxide Dust
     S:oredict.blockDustLiveRoot.name=Block of Liveroot Dust
     S:oredict.blockDustLivermorium.name=Block of Livermorium Dust
@@ -11570,6 +11607,7 @@ languagefile {
     S:oredict.blockDustMalachite.name=Block of Malachite Dust
     S:oredict.blockDustManasteel.name=Block of Manasteel Dust
     S:oredict.blockDustManganese.name=Block of Manganese Dust
+    S:oredict.blockDustManganeseChloride.name=Block of Manganese Chloride Dust
     S:oredict.blockDustManyullyn.name=Block of Manyullyn Dust
     S:oredict.blockDustMarble.name=Block of Marble Dust
     S:oredict.blockDustMarsSand.name=Block of Mars Turf
@@ -11663,12 +11701,17 @@ languagefile {
     S:oredict.blockDustPolonium.name=Block of Polonium Dust
     S:oredict.blockDustPorcelain.name=Block of Porcelain Dust
     S:oredict.blockDustPotassium.name=Block of Potassium Dust
+    S:oredict.blockDustPotassiumAluminate.name=Block of Potassium Aluminate Dust
     S:oredict.blockDustPotassiumBisulfate.name=Block of Potassium Bisulfate Dust
+    S:oredict.blockDustPotassiumCarbonate.name=Block of Potassium Carbonate Dust
     S:oredict.blockDustPotassiumFeldspar.name=Block of Potassium Feldspar Dust
     S:oredict.blockDustPotassiumHydroxide.name=Block of Potassium Hydroxide Dust
+    S:oredict.blockDustPotassiumNitrate.name=Block of Potassium Nitrate Dust
+    S:oredict.blockDustPotassiumPersulfate.name=Block of Potassium Persulfate Dust
     S:oredict.blockDustPotassiumPyrosulfate.name=Block of Potassium Pyrosulfate Dust
     S:oredict.blockDustPotassiumSulfate.name=Block of Potassium Sulfate Dust
     S:oredict.blockDustPotassiumSulfide.name=Block of Potassium Sulfide Dust
+    S:oredict.blockDustPotassiumSulfite.name=Block of Potassium Sulfite Dust
     S:oredict.blockDustPotato.name=Block of Ground Potato
     S:oredict.blockDustPowellite.name=Block of Powellite Dust
     S:oredict.blockDustPraseodymium.name=Block of Praseodymium Dust
@@ -11742,6 +11785,7 @@ languagefile {
     S:oredict.blockDustSodiumBisulfate.name=Block of Sodium Bisulfate Dust
     S:oredict.blockDustSodiumCarbonate.name=Block of Sodium Carbonate Dust
     S:oredict.blockDustSodiumHydroxide.name=Block of Sodium Hydroxide Dust
+    S:oredict.blockDustSodiumNitrate.name=Block of Sodium Nitrate Dust
     S:oredict.blockDustSodiumPersulfate.name=Block of Sodium Persulfate Dust
     S:oredict.blockDustSodiumPyrosulfate.name=Block of Sodium Pyrosulfate Dust
     S:oredict.blockDustSodiumSulfate.name=Block of Sodium Sulfate Dust
@@ -11809,7 +11853,9 @@ languagefile {
     S:oredict.blockDustTungstate.name=Block of Tungstate Dust
     S:oredict.blockDustTungsten.name=Block of Tungsten Dust
     S:oredict.blockDustTungstenCarbide.name=Block of Tungsten Carbide Dust
+    S:oredict.blockDustTungstenTrioxide.name=Block of Tungsten Trioxide Dust
     S:oredict.blockDustTungstensteel.name=Block of Tungstensteel Dust
+    S:oredict.blockDustTungsticAcid.name=Block of Tungstic Acid Dust
     S:oredict.blockDustUltimet.name=Block of Ultimet Dust
     S:oredict.blockDustUnbinilium.name=Block of Unbinilium Dust
     S:oredict.blockDustUnunennium.name=Block of Ununennium Dust
@@ -12125,6 +12171,7 @@ languagefile {
     S:oredict.blockIngotCadmium.name=Block of Cadmium Ingot
     S:oredict.blockIngotCaesium.name=Block of Caesium Ingot
     S:oredict.blockIngotCalcite.name=Block of Calcite Ingot
+    S:oredict.blockIngotCalciumChloride.name=Block of Calcium Chloride Ingot
     S:oredict.blockIngotCalifornium.name=Block of Californium Ingot
     S:oredict.blockIngotCarborundum.name=Block of Carborundum Ingot
     S:oredict.blockIngotCarmot.name=Block of Carmot Ingot
@@ -12176,6 +12223,7 @@ languagefile {
     S:oredict.blockIngotFarnsium.name=Block of Farnsium Ingot
     S:oredict.blockIngotFermium.name=Block of Fermium Ingot
     S:oredict.blockIngotFerrite.name=Block of Ferrite Ingot
+    S:oredict.blockIngotFerrousChloride.name=Block of Ferrous Chloride Ingot
     S:oredict.blockIngotFierySteel.name=Block of Fiery Steel Ingot
     S:oredict.blockIngotFishCooked.name=Block of Cooked Fishmeal Ingot
     S:oredict.blockIngotFishRaw.name=Block of Raw Fishmeal Ingot
@@ -12217,6 +12265,7 @@ languagefile {
     S:oredict.blockIngotLawrencium.name=Block of Lawrencium Ingot
     S:oredict.blockIngotLead.name=Block of Lead Ingot
     S:oredict.blockIngotLemurite.name=Block of Lemurite Ingot
+    S:oredict.blockIngotLithiumChloride.name=Block of Lithium Chloride Ingot
     S:oredict.blockIngotLivermorium.name=Block of Livermorium Ingot
     S:oredict.blockIngotLudicrite.name=Block of Ludicrite Ingot
     S:oredict.blockIngotLumium.name=Block of Lumium Ingot
@@ -12224,8 +12273,10 @@ languagefile {
     S:oredict.blockIngotMagnalium.name=Block of Magnalium Ingot
     S:oredict.blockIngotMagnesium.name=Block of Magnesium Ingot
     S:oredict.blockIngotMagnesiumCarbonate.name=Block of Magnesium Carbonate Ingot
+    S:oredict.blockIngotMagnesiumChloride.name=Block of Magnesium Chloride Ingot
     S:oredict.blockIngotManasteel.name=Block of Manasteel Ingot
     S:oredict.blockIngotManganese.name=Block of Manganese Ingot
+    S:oredict.blockIngotManganeseChloride.name=Block of Manganese Chloride Ingot
     S:oredict.blockIngotManyullyn.name=Block of Manyullyn Ingot
     S:oredict.blockIngotMeatCooked.name=Block of Cooked Meat Ingot
     S:oredict.blockIngotMeatRaw.name=Block of Raw Meat Ingot
@@ -12272,6 +12323,7 @@ languagefile {
     S:oredict.blockIngotPlutonium241.name=Block of Plutonium-241 Ingot
     S:oredict.blockIngotPlutonium243.name=Block of Plutonium-243 Ingot
     S:oredict.blockIngotPolonium.name=Block of Polonium Ingot
+    S:oredict.blockIngotPotassiumCarbonate.name=Block of Potassium Carbonate Ingot
     S:oredict.blockIngotPraseodymium.name=Block of Praseodymium Ingot
     S:oredict.blockIngotPrometheum.name=Block of Prometheum Ingot
     S:oredict.blockIngotPromethium.name=Block of Promethium Ingot
@@ -12564,6 +12616,7 @@ languagefile {
     S:oredict.blockPlateElectrum.name=Block of Electrum Plate
     S:oredict.blockPlateElectrumFlux.name=Block of Electrum Flux Plate
     S:oredict.blockPlateElvenElementium.name=Block of Elven Elementium Plate
+    S:oredict.blockPlateEmery.name=Block of Emery Plate
     S:oredict.blockPlateEmpty.name=Block of Empty Plate
     S:oredict.blockPlateEnderium.name=Block of Enderium Plate
     S:oredict.blockPlateEnderiumBase.name=Block of Enderium Base Plate
@@ -13037,6 +13090,7 @@ languagefile {
     S:oredict.blockSolidCadmium.name=Block of solid Cadmium
     S:oredict.blockSolidCaesium.name=Block of solid Caesium
     S:oredict.blockSolidCalcite.name=Block of solid Calcite
+    S:oredict.blockSolidCalciumChloride.name=Block of solid Calcium Chloride
     S:oredict.blockSolidCalifornium.name=Block of solid Californium
     S:oredict.blockSolidCarborundum.name=Block of solid Carborundum
     S:oredict.blockSolidCarmot.name=Block of solid Carmot
@@ -13088,6 +13142,7 @@ languagefile {
     S:oredict.blockSolidFarnsium.name=Block of solid Farnsium
     S:oredict.blockSolidFermium.name=Block of solid Fermium
     S:oredict.blockSolidFerrite.name=Block of solid Ferrite
+    S:oredict.blockSolidFerrousChloride.name=Block of solid Ferrous Chloride
     S:oredict.blockSolidFierySteel.name=Block of solid Fiery Steel
     S:oredict.blockSolidFishCooked.name=Block of solid Cooked Fishmeal
     S:oredict.blockSolidFishRaw.name=Block of solid Raw Fishmeal
@@ -13129,6 +13184,7 @@ languagefile {
     S:oredict.blockSolidLawrencium.name=Block of solid Lawrencium
     S:oredict.blockSolidLead.name=Block of solid Lead
     S:oredict.blockSolidLemurite.name=Block of solid Lemurite
+    S:oredict.blockSolidLithiumChloride.name=Block of solid Lithium Chloride
     S:oredict.blockSolidLivermorium.name=Block of solid Livermorium
     S:oredict.blockSolidLudicrite.name=Block of solid Ludicrite
     S:oredict.blockSolidLumium.name=Block of solid Lumium
@@ -13136,8 +13192,10 @@ languagefile {
     S:oredict.blockSolidMagnalium.name=Block of solid Magnalium
     S:oredict.blockSolidMagnesium.name=Block of solid Magnesium
     S:oredict.blockSolidMagnesiumCarbonate.name=Block of solid Magnesium Carbonate
+    S:oredict.blockSolidMagnesiumChloride.name=Block of solid Magnesium Chloride
     S:oredict.blockSolidManasteel.name=Block of solid Manasteel
     S:oredict.blockSolidManganese.name=Block of solid Manganese
+    S:oredict.blockSolidManganeseChloride.name=Block of solid Manganese Chloride
     S:oredict.blockSolidManyullyn.name=Block of solid Manyullyn
     S:oredict.blockSolidMeatCooked.name=Block of solid Cooked Meat
     S:oredict.blockSolidMeatRaw.name=Block of solid Raw Meat
@@ -13184,6 +13242,7 @@ languagefile {
     S:oredict.blockSolidPlutonium241.name=Block of solid Plutonium-241
     S:oredict.blockSolidPlutonium243.name=Block of solid Plutonium-243
     S:oredict.blockSolidPolonium.name=Block of solid Polonium
+    S:oredict.blockSolidPotassiumCarbonate.name=Block of solid Potassium Carbonate
     S:oredict.blockSolidPraseodymium.name=Block of solid Praseodymium
     S:oredict.blockSolidPrometheum.name=Block of solid Prometheum
     S:oredict.blockSolidPromethium.name=Block of solid Promethium
@@ -13504,6 +13563,7 @@ languagefile {
     S:oredict.boltElvenElementium.name=Elven Elementium Bolt
     S:oredict.boltEmeradic.name=Emeradic Bolt
     S:oredict.boltEmerald.name=Emerald Bolt
+    S:oredict.boltEmery.name=Emery Bolt
     S:oredict.boltEmpty.name=Empty Bolt
     S:oredict.boltEnderEye.name=Endereye Bolt
     S:oredict.boltEnderPearl.name=Enderpearl Bolt
@@ -13883,6 +13943,7 @@ languagefile {
     S:oredict.casingMachineDenseEnergeticAlloy.name=Dense Energetic Alloy Machine Casing
     S:oredict.casingMachineDenseEximite.name=Dense Eximite Machine Casing
     S:oredict.casingMachineDenseFierySteel.name=Dense Fiery Steel Machine Casing
+    S:oredict.casingMachineDenseGermanium.name=Dense Germanium Machine Casing
     S:oredict.casingMachineDenseGildedIron.name=Dense Gilded Iron Machine Casing
     S:oredict.casingMachineDenseGold.name=Dense Gold Machine Casing
     S:oredict.casingMachineDenseGoldInductive.name=Dense Inductive Alloy Machine Casing
@@ -13961,6 +14022,7 @@ languagefile {
     S:oredict.casingMachineDenseTitaniumIridium.name=Dense Iritanium Machine Casing
     S:oredict.casingMachineDenseTrinaquadalloy.name=Dense Trinaquadalloy Machine Casing
     S:oredict.casingMachineDenseTrinitanium.name=Dense Trinitanium Machine Casing
+    S:oredict.casingMachineDenseTrinium.name=Dense Trinium Machine Casing
     S:oredict.casingMachineDenseTritanium.name=Dense Tritanium Alloy Machine Casing
     S:oredict.casingMachineDenseTungsten.name=Dense Tungsten Machine Casing
     S:oredict.casingMachineDenseTungstenCarbide.name=Dense Tungsten Carbide Machine Casing
@@ -14040,6 +14102,7 @@ languagefile {
     S:oredict.casingMachineDoubleEnergeticAlloy.name=Robust Energetic Alloy Machine Casing
     S:oredict.casingMachineDoubleEximite.name=Robust Eximite Machine Casing
     S:oredict.casingMachineDoubleFierySteel.name=Robust Fiery Steel Machine Casing
+    S:oredict.casingMachineDoubleGermanium.name=Robust Germanium Machine Casing
     S:oredict.casingMachineDoubleGildedIron.name=Robust Gilded Iron Machine Casing
     S:oredict.casingMachineDoubleGold.name=Robust Gold Machine Casing
     S:oredict.casingMachineDoubleGoldInductive.name=Robust Inductive Alloy Machine Casing
@@ -14118,6 +14181,7 @@ languagefile {
     S:oredict.casingMachineDoubleTitaniumIridium.name=Robust Iritanium Machine Casing
     S:oredict.casingMachineDoubleTrinaquadalloy.name=Robust Trinaquadalloy Machine Casing
     S:oredict.casingMachineDoubleTrinitanium.name=Robust Trinitanium Machine Casing
+    S:oredict.casingMachineDoubleTrinium.name=Robust Trinium Machine Casing
     S:oredict.casingMachineDoubleTritanium.name=Robust Tritanium Alloy Machine Casing
     S:oredict.casingMachineDoubleTungsten.name=Robust Tungsten Machine Casing
     S:oredict.casingMachineDoubleTungstenCarbide.name=Robust Tungsten Carbide Machine Casing
@@ -14150,6 +14214,7 @@ languagefile {
     S:oredict.casingMachineEnergeticAlloy.name=Energetic Alloy Machine Casing
     S:oredict.casingMachineEximite.name=Eximite Machine Casing
     S:oredict.casingMachineFierySteel.name=Fiery Steel Machine Casing
+    S:oredict.casingMachineGermanium.name=Germanium Machine Casing
     S:oredict.casingMachineGildedIron.name=Gilded Iron Machine Casing
     S:oredict.casingMachineGold.name=Gold Machine Casing
     S:oredict.casingMachineGoldInductive.name=Inductive Alloy Machine Casing
@@ -14260,6 +14325,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleEnergeticAlloy.name=Reinforced Energetic Alloy Machine Casing
     S:oredict.casingMachineQuadrupleEximite.name=Reinforced Eximite Machine Casing
     S:oredict.casingMachineQuadrupleFierySteel.name=Reinforced Fiery Steel Machine Casing
+    S:oredict.casingMachineQuadrupleGermanium.name=Reinforced Germanium Machine Casing
     S:oredict.casingMachineQuadrupleGildedIron.name=Reinforced Gilded Iron Machine Casing
     S:oredict.casingMachineQuadrupleGold.name=Reinforced Gold Machine Casing
     S:oredict.casingMachineQuadrupleGoldInductive.name=Reinforced Inductive Alloy Machine Casing
@@ -14338,6 +14404,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleTitaniumIridium.name=Reinforced Iritanium Machine Casing
     S:oredict.casingMachineQuadrupleTrinaquadalloy.name=Reinforced Trinaquadalloy Machine Casing
     S:oredict.casingMachineQuadrupleTrinitanium.name=Reinforced Trinitanium Machine Casing
+    S:oredict.casingMachineQuadrupleTrinium.name=Reinforced Trinium Machine Casing
     S:oredict.casingMachineQuadrupleTritanium.name=Reinforced Tritanium Alloy Machine Casing
     S:oredict.casingMachineQuadrupleTungsten.name=Reinforced Tungsten Machine Casing
     S:oredict.casingMachineQuadrupleTungstenCarbide.name=Reinforced Tungsten Carbide Machine Casing
@@ -14383,6 +14450,7 @@ languagefile {
     S:oredict.casingMachineTitaniumIridium.name=Iritanium Machine Casing
     S:oredict.casingMachineTrinaquadalloy.name=Trinaquadalloy Machine Casing
     S:oredict.casingMachineTrinitanium.name=Trinitanium Machine Casing
+    S:oredict.casingMachineTrinium.name=Trinium Machine Casing
     S:oredict.casingMachineTritanium.name=Tritanium Alloy Machine Casing
     S:oredict.casingMachineTungsten.name=Tungsten Machine Casing
     S:oredict.casingMachineTungstenCarbide.name=Tungsten Carbide Machine Casing
@@ -14506,6 +14574,7 @@ languagefile {
     S:oredict.casingSmallFlint.name=Flint Item Casing
     S:oredict.casingSmallForce.name=Force Item Casing
     S:oredict.casingSmallGabbro.name=Gabbro Item Casing
+    S:oredict.casingSmallGermanium.name=Germanium Item Casing
     S:oredict.casingSmallGildedIron.name=Gilded Iron Item Casing
     S:oredict.casingSmallGlass.name=Glass Item Casing
     S:oredict.casingSmallGneiss.name=Gneiss Item Casing
@@ -14703,6 +14772,7 @@ languagefile {
     S:oredict.chemtubeAmericium241.name=Glass Tube containing Americium-241
     S:oredict.chemtubeAmethyst.name=Glass Tube containing Amethyst
     S:oredict.chemtubeAmethystEnder.name=Glass Tube containing Ender Amethyst
+    S:oredict.chemtubeAmmonia.name=Glass Tube containing Ammonia
     S:oredict.chemtubeAmordrine.name=Glass Tube containing Amordrine
     S:oredict.chemtubeAndesite.name=Glass Tube containing Andesite
     S:oredict.chemtubeAndradite.name=Glass Tube containing Andradite
@@ -15295,6 +15365,7 @@ languagefile {
     S:oredict.chemtubeCaesium.name=Glass Tube containing Caesium
     S:oredict.chemtubeCalcite.name=Glass Tube containing Calcite
     S:oredict.chemtubeCalcium.name=Glass Tube containing Calcium
+    S:oredict.chemtubeCalciumChloride.name=Glass Tube containing Calcium Chloride
     S:oredict.chemtubeCalciumSulfate.name=Glass Tube containing Calcium Sulfate
     S:oredict.chemtubeCalifornium.name=Glass Tube containing Californium
     S:oredict.chemtubeCarbon.name=Glass Tube containing Carbon
@@ -15422,9 +15493,11 @@ languagefile {
     S:oredict.chemtubeEuropium.name=Glass Tube containing Europium
     S:oredict.chemtubeEximite.name=Glass Tube containing Eximite
     S:oredict.chemtubeFarnsium.name=Glass Tube containing Farnsium
+    S:oredict.chemtubeFerberite.name=Glass Tube containing Ferberite
     S:oredict.chemtubeFermium.name=Glass Tube containing Fermium
     S:oredict.chemtubeFerricChloride.name=Glass Tube containing Ferric Chloride
     S:oredict.chemtubeFerrite.name=Glass Tube containing Ferrite
+    S:oredict.chemtubeFerrousChloride.name=Glass Tube containing Ferrous Chloride
     S:oredict.chemtubeFerrovanadium.name=Glass Tube containing Ferrovanadium
     S:oredict.chemtubeFierySteel.name=Glass Tube containing Fiery Blood
     S:oredict.chemtubeFirestone.name=Glass Tube containing Firestone
@@ -15514,6 +15587,7 @@ languagefile {
     S:oredict.chemtubeHydrogenBorate.name=Glass Tube containing Hydrogen Borate
     S:oredict.chemtubeHydrogenFluoride.name=Glass Tube containing Hydrogen Fluoride
     S:oredict.chemtubeHydrogenPeroxide.name=Glass Tube containing Hydrogen Peroxide
+    S:oredict.chemtubeHydrosulfuricAcid.name=Glass Tube containing Hydrosulfuric Acid
     S:oredict.chemtubeIce.name=Glass Tube containing Ice
     S:oredict.chemtubeIgnatius.name=Glass Tube containing Ignatius
     S:oredict.chemtubeIlmenite.name=Glass Tube containing Ilmenite
@@ -15566,6 +15640,7 @@ languagefile {
     S:oredict.chemtubeLinOil.name=Glass Tube containing Lin Oil
     S:oredict.chemtubeLithium.name=Glass Tube containing Lithium
     S:oredict.chemtubeLithium6.name=Glass Tube containing Lithium-6
+    S:oredict.chemtubeLithiumChloride.name=Glass Tube containing Lithium Chloride
     S:oredict.chemtubeLithiumOxide.name=Glass Tube containing Lithium Oxide
     S:oredict.chemtubeLiveRoot.name=Glass Tube containing Liveroot
     S:oredict.chemtubeLivermorium.name=Glass Tube containing Livermorium
@@ -15586,6 +15661,7 @@ languagefile {
     S:oredict.chemtubeMalachite.name=Glass Tube containing Malachite
     S:oredict.chemtubeManasteel.name=Glass Tube containing Manasteel
     S:oredict.chemtubeManganese.name=Glass Tube containing Manganese
+    S:oredict.chemtubeManganeseChloride.name=Glass Tube containing Manganese Chloride
     S:oredict.chemtubeManyullyn.name=Glass Tube containing Manyullyn
     S:oredict.chemtubeMarble.name=Glass Tube containing Marble
     S:oredict.chemtubeMarsSand.name=Glass Tube containing Mars Sand
@@ -15699,12 +15775,17 @@ languagefile {
     S:oredict.chemtubePorcelain.name=Glass Tube containing Porcelain
     S:oredict.chemtubePositron.name=Glass Tube containing Positron
     S:oredict.chemtubePotassium.name=Glass Tube containing Potassium
+    S:oredict.chemtubePotassiumAluminate.name=Glass Tube containing Potassium Aluminate
     S:oredict.chemtubePotassiumBisulfate.name=Glass Tube containing Potassium Bisulfate
+    S:oredict.chemtubePotassiumCarbonate.name=Glass Tube containing Potassium Carbonate
     S:oredict.chemtubePotassiumFeldspar.name=Glass Tube containing Potassium Feldspar
     S:oredict.chemtubePotassiumHydroxide.name=Glass Tube containing Potassium Hydroxide
+    S:oredict.chemtubePotassiumNitrate.name=Glass Tube containing Potassium Nitrate
+    S:oredict.chemtubePotassiumPersulfate.name=Glass Tube containing Potassium Persulfate
     S:oredict.chemtubePotassiumPyrosulfate.name=Glass Tube containing Potassium Pyrosulfate
     S:oredict.chemtubePotassiumSulfate.name=Glass Tube containing Potassium Sulfate
     S:oredict.chemtubePotassiumSulfide.name=Glass Tube containing Potassium Sulfide
+    S:oredict.chemtubePotassiumSulfite.name=Glass Tube containing Potassium Sulfite
     S:oredict.chemtubePotato.name=Glass Tube containing Potato
     S:oredict.chemtubePowellite.name=Glass Tube containing Powellite
     S:oredict.chemtubePraseodymium.name=Glass Tube containing Praseodymium
@@ -15787,6 +15868,7 @@ languagefile {
     S:oredict.chemtubeSodiumBisulfate.name=Glass Tube containing Sodium Bisulfate
     S:oredict.chemtubeSodiumCarbonate.name=Glass Tube containing Sodium Carbonate
     S:oredict.chemtubeSodiumHydroxide.name=Glass Tube containing Sodium Hydroxide
+    S:oredict.chemtubeSodiumNitrate.name=Glass Tube containing Sodium Nitrate
     S:oredict.chemtubeSodiumPersulfate.name=Glass Tube containing Sodium Persulfate
     S:oredict.chemtubeSodiumPyrosulfate.name=Glass Tube containing Sodium Pyrosulfate
     S:oredict.chemtubeSodiumSulfate.name=Glass Tube containing Sodium Sulfate
@@ -15963,7 +16045,9 @@ languagefile {
     S:oredict.chemtubeTungsten.name=Glass Tube containing Tungsten
     S:oredict.chemtubeTungstenCarbide.name=Glass Tube containing Tungsten Carbide
     S:oredict.chemtubeTungstenSintered.name=Glass Tube containing Sintered Tungsten
+    S:oredict.chemtubeTungstenTrioxide.name=Glass Tube containing Tungsten Trioxide
     S:oredict.chemtubeTungstensteel.name=Glass Tube containing Tungstensteel
+    S:oredict.chemtubeTungsticAcid.name=Glass Tube containing Tungstic Acid
     S:oredict.chemtubeUUAmplifier.name=Glass Tube containing UU-Amplifier
     S:oredict.chemtubeUUMatter.name=Glass Tube containing UU-Matter
     S:oredict.chemtubeUltimet.name=Glass Tube containing Ultimet
@@ -16249,6 +16333,7 @@ languagefile {
     S:oredict.chunkGtCadmium.name=Cadmium Chunk
     S:oredict.chunkGtCaesium.name=Caesium Chunk
     S:oredict.chunkGtCalcite.name=Calcite Chunk
+    S:oredict.chunkGtCalciumChloride.name=Calcium Chloride Chunk
     S:oredict.chunkGtCalifornium.name=Californium Chunk
     S:oredict.chunkGtCarborundum.name=Carborundum Chunk
     S:oredict.chunkGtCarmot.name=Carmot Chunk
@@ -16300,6 +16385,7 @@ languagefile {
     S:oredict.chunkGtFarnsium.name=Farnsium Chunk
     S:oredict.chunkGtFermium.name=Fermium Chunk
     S:oredict.chunkGtFerrite.name=Ferrite Chunk
+    S:oredict.chunkGtFerrousChloride.name=Ferrous Chloride Chunk
     S:oredict.chunkGtFierySteel.name=Fiery Steel Chunk
     S:oredict.chunkGtFishCooked.name=Cooked Fishmeal Chunk
     S:oredict.chunkGtFishRaw.name=Raw Fishmeal Chunk
@@ -16341,6 +16427,7 @@ languagefile {
     S:oredict.chunkGtLawrencium.name=Lawrencium Chunk
     S:oredict.chunkGtLead.name=Lead Chunk
     S:oredict.chunkGtLemurite.name=Lemurite Chunk
+    S:oredict.chunkGtLithiumChloride.name=Lithium Chloride Chunk
     S:oredict.chunkGtLivermorium.name=Livermorium Chunk
     S:oredict.chunkGtLudicrite.name=Ludicrite Chunk
     S:oredict.chunkGtLumium.name=Lumium Chunk
@@ -16348,8 +16435,10 @@ languagefile {
     S:oredict.chunkGtMagnalium.name=Magnalium Chunk
     S:oredict.chunkGtMagnesium.name=Magnesium Chunk
     S:oredict.chunkGtMagnesiumCarbonate.name=Magnesium Carbonate Chunk
+    S:oredict.chunkGtMagnesiumChloride.name=Magnesium Chloride Chunk
     S:oredict.chunkGtManasteel.name=Manasteel Chunk
     S:oredict.chunkGtManganese.name=Manganese Chunk
+    S:oredict.chunkGtManganeseChloride.name=Manganese Chloride Chunk
     S:oredict.chunkGtManyullyn.name=Manyullyn Chunk
     S:oredict.chunkGtMeatCooked.name=Cooked Meat Chunk
     S:oredict.chunkGtMeatRaw.name=Raw Meat Chunk
@@ -16396,6 +16485,7 @@ languagefile {
     S:oredict.chunkGtPlutonium241.name=Plutonium-241 Chunk
     S:oredict.chunkGtPlutonium243.name=Plutonium-243 Chunk
     S:oredict.chunkGtPolonium.name=Polonium Chunk
+    S:oredict.chunkGtPotassiumCarbonate.name=Potassium Carbonate Chunk
     S:oredict.chunkGtPraseodymium.name=Praseodymium Chunk
     S:oredict.chunkGtPrometheum.name=Prometheum Chunk
     S:oredict.chunkGtPromethium.name=Promethium Chunk
@@ -16703,6 +16793,7 @@ languagefile {
     S:oredict.crateGtDustCaesium.name=Crate of Caesium Dust
     S:oredict.crateGtDustCalcite.name=Crate of Calcite Dust
     S:oredict.crateGtDustCalcium.name=Crate of Calcium Dust
+    S:oredict.crateGtDustCalciumChloride.name=Crate of Calcium Chloride Dust
     S:oredict.crateGtDustCalciumSulfate.name=Crate of Calcium Sulfate Dust
     S:oredict.crateGtDustCalifornium.name=Crate of Californium Dust
     S:oredict.crateGtDustCarbon.name=Crate of Carbon Dust
@@ -16819,9 +16910,11 @@ languagefile {
     S:oredict.crateGtDustEuropium.name=Crate of Europium Dust
     S:oredict.crateGtDustEximite.name=Crate of Eximite Dust
     S:oredict.crateGtDustFarnsium.name=Crate of Farnsium Dust
+    S:oredict.crateGtDustFerberite.name=Crate of Ferberite Dust
     S:oredict.crateGtDustFermium.name=Crate of Fermium Dust
     S:oredict.crateGtDustFerricChloride.name=Crate of Ferric Chloride Dust
     S:oredict.crateGtDustFerrite.name=Crate of Ferrite Dust
+    S:oredict.crateGtDustFerrousChloride.name=Crate of Ferrous Chloride Dust
     S:oredict.crateGtDustFerrovanadium.name=Crate of Ferrovanadium Dust
     S:oredict.crateGtDustFierySteel.name=Crate of Fiery Steel Dust
     S:oredict.crateGtDustFirestone.name=Crate of Firestone Dust
@@ -16935,6 +17028,7 @@ languagefile {
     S:oredict.crateGtDustLimestone.name=Crate of Limestone Dust
     S:oredict.crateGtDustLithium.name=Crate of Lithium Dust
     S:oredict.crateGtDustLithium6.name=Crate of Lithium-6 Dust
+    S:oredict.crateGtDustLithiumChloride.name=Crate of Lithium Chloride Dust
     S:oredict.crateGtDustLithiumOxide.name=Crate of Lithium Oxide Dust
     S:oredict.crateGtDustLiveRoot.name=Crate of Liveroot Dust
     S:oredict.crateGtDustLivermorium.name=Crate of Livermorium Dust
@@ -16952,6 +17046,7 @@ languagefile {
     S:oredict.crateGtDustMalachite.name=Crate of Malachite Dust
     S:oredict.crateGtDustManasteel.name=Crate of Manasteel Dust
     S:oredict.crateGtDustManganese.name=Crate of Manganese Dust
+    S:oredict.crateGtDustManganeseChloride.name=Crate of Manganese Chloride Dust
     S:oredict.crateGtDustManyullyn.name=Crate of Manyullyn Dust
     S:oredict.crateGtDustMarble.name=Crate of Marble Dust
     S:oredict.crateGtDustMarsSand.name=Crate of Mars Turf
@@ -17045,12 +17140,17 @@ languagefile {
     S:oredict.crateGtDustPolonium.name=Crate of Polonium Dust
     S:oredict.crateGtDustPorcelain.name=Crate of Porcelain Dust
     S:oredict.crateGtDustPotassium.name=Crate of Potassium Dust
+    S:oredict.crateGtDustPotassiumAluminate.name=Crate of Potassium Aluminate Dust
     S:oredict.crateGtDustPotassiumBisulfate.name=Crate of Potassium Bisulfate Dust
+    S:oredict.crateGtDustPotassiumCarbonate.name=Crate of Potassium Carbonate Dust
     S:oredict.crateGtDustPotassiumFeldspar.name=Crate of Potassium Feldspar Dust
     S:oredict.crateGtDustPotassiumHydroxide.name=Crate of Potassium Hydroxide Dust
+    S:oredict.crateGtDustPotassiumNitrate.name=Crate of Potassium Nitrate Dust
+    S:oredict.crateGtDustPotassiumPersulfate.name=Crate of Potassium Persulfate Dust
     S:oredict.crateGtDustPotassiumPyrosulfate.name=Crate of Potassium Pyrosulfate Dust
     S:oredict.crateGtDustPotassiumSulfate.name=Crate of Potassium Sulfate Dust
     S:oredict.crateGtDustPotassiumSulfide.name=Crate of Potassium Sulfide Dust
+    S:oredict.crateGtDustPotassiumSulfite.name=Crate of Potassium Sulfite Dust
     S:oredict.crateGtDustPotato.name=Crate of Ground Potato
     S:oredict.crateGtDustPowellite.name=Crate of Powellite Dust
     S:oredict.crateGtDustPraseodymium.name=Crate of Praseodymium Dust
@@ -17124,6 +17224,7 @@ languagefile {
     S:oredict.crateGtDustSodiumBisulfate.name=Crate of Sodium Bisulfate Dust
     S:oredict.crateGtDustSodiumCarbonate.name=Crate of Sodium Carbonate Dust
     S:oredict.crateGtDustSodiumHydroxide.name=Crate of Sodium Hydroxide Dust
+    S:oredict.crateGtDustSodiumNitrate.name=Crate of Sodium Nitrate Dust
     S:oredict.crateGtDustSodiumPersulfate.name=Crate of Sodium Persulfate Dust
     S:oredict.crateGtDustSodiumPyrosulfate.name=Crate of Sodium Pyrosulfate Dust
     S:oredict.crateGtDustSodiumSulfate.name=Crate of Sodium Sulfate Dust
@@ -17191,7 +17292,9 @@ languagefile {
     S:oredict.crateGtDustTungstate.name=Crate of Tungstate Dust
     S:oredict.crateGtDustTungsten.name=Crate of Tungsten Dust
     S:oredict.crateGtDustTungstenCarbide.name=Crate of Tungsten Carbide Dust
+    S:oredict.crateGtDustTungstenTrioxide.name=Crate of Tungsten Trioxide Dust
     S:oredict.crateGtDustTungstensteel.name=Crate of Tungstensteel Dust
+    S:oredict.crateGtDustTungsticAcid.name=Crate of Tungstic Acid Dust
     S:oredict.crateGtDustUltimet.name=Crate of Ultimet Dust
     S:oredict.crateGtDustUnbinilium.name=Crate of Unbinilium Dust
     S:oredict.crateGtDustUnunennium.name=Crate of Ununennium Dust
@@ -17507,6 +17610,7 @@ languagefile {
     S:oredict.crateGtIngotCadmium.name=Crate of Cadmium Ingot
     S:oredict.crateGtIngotCaesium.name=Crate of Caesium Ingot
     S:oredict.crateGtIngotCalcite.name=Crate of Calcite Ingot
+    S:oredict.crateGtIngotCalciumChloride.name=Crate of Calcium Chloride Ingot
     S:oredict.crateGtIngotCalifornium.name=Crate of Californium Ingot
     S:oredict.crateGtIngotCarborundum.name=Crate of Carborundum Ingot
     S:oredict.crateGtIngotCarmot.name=Crate of Carmot Ingot
@@ -17558,6 +17662,7 @@ languagefile {
     S:oredict.crateGtIngotFarnsium.name=Crate of Farnsium Ingot
     S:oredict.crateGtIngotFermium.name=Crate of Fermium Ingot
     S:oredict.crateGtIngotFerrite.name=Crate of Ferrite Ingot
+    S:oredict.crateGtIngotFerrousChloride.name=Crate of Ferrous Chloride Ingot
     S:oredict.crateGtIngotFierySteel.name=Crate of Fiery Steel Ingot
     S:oredict.crateGtIngotFishCooked.name=Crate of Cooked Fishmeal Ingot
     S:oredict.crateGtIngotFishRaw.name=Crate of Raw Fishmeal Ingot
@@ -17599,6 +17704,7 @@ languagefile {
     S:oredict.crateGtIngotLawrencium.name=Crate of Lawrencium Ingot
     S:oredict.crateGtIngotLead.name=Crate of Lead Ingot
     S:oredict.crateGtIngotLemurite.name=Crate of Lemurite Ingot
+    S:oredict.crateGtIngotLithiumChloride.name=Crate of Lithium Chloride Ingot
     S:oredict.crateGtIngotLivermorium.name=Crate of Livermorium Ingot
     S:oredict.crateGtIngotLudicrite.name=Crate of Ludicrite Ingot
     S:oredict.crateGtIngotLumium.name=Crate of Lumium Ingot
@@ -17606,8 +17712,10 @@ languagefile {
     S:oredict.crateGtIngotMagnalium.name=Crate of Magnalium Ingot
     S:oredict.crateGtIngotMagnesium.name=Crate of Magnesium Ingot
     S:oredict.crateGtIngotMagnesiumCarbonate.name=Crate of Magnesium Carbonate Ingot
+    S:oredict.crateGtIngotMagnesiumChloride.name=Crate of Magnesium Chloride Ingot
     S:oredict.crateGtIngotManasteel.name=Crate of Manasteel Ingot
     S:oredict.crateGtIngotManganese.name=Crate of Manganese Ingot
+    S:oredict.crateGtIngotManganeseChloride.name=Crate of Manganese Chloride Ingot
     S:oredict.crateGtIngotManyullyn.name=Crate of Manyullyn Ingot
     S:oredict.crateGtIngotMeatCooked.name=Crate of Cooked Meat Ingot
     S:oredict.crateGtIngotMeatRaw.name=Crate of Raw Meat Ingot
@@ -17654,6 +17762,7 @@ languagefile {
     S:oredict.crateGtIngotPlutonium241.name=Crate of Plutonium-241 Ingot
     S:oredict.crateGtIngotPlutonium243.name=Crate of Plutonium-243 Ingot
     S:oredict.crateGtIngotPolonium.name=Crate of Polonium Ingot
+    S:oredict.crateGtIngotPotassiumCarbonate.name=Crate of Potassium Carbonate Ingot
     S:oredict.crateGtIngotPraseodymium.name=Crate of Praseodymium Ingot
     S:oredict.crateGtIngotPrometheum.name=Crate of Prometheum Ingot
     S:oredict.crateGtIngotPromethium.name=Crate of Promethium Ingot
@@ -17946,6 +18055,7 @@ languagefile {
     S:oredict.crateGtPlateElectrum.name=Crate of Electrum Plate
     S:oredict.crateGtPlateElectrumFlux.name=Crate of Electrum Flux Plate
     S:oredict.crateGtPlateElvenElementium.name=Crate of Elven Elementium Plate
+    S:oredict.crateGtPlateEmery.name=Crate of Emery Plate
     S:oredict.crateGtPlateEmpty.name=Crate of Empty Plate
     S:oredict.crateGtPlateEnderium.name=Crate of Enderium Plate
     S:oredict.crateGtPlateEnderiumBase.name=Crate of Enderium Base Plate
@@ -18446,6 +18556,7 @@ languagefile {
     S:oredict.crushedCaesium.name=Crushed Caesium Ore
     S:oredict.crushedCalcite.name=Crushed Calcite Ore
     S:oredict.crushedCalcium.name=Crushed Calcium Ore
+    S:oredict.crushedCalciumChloride.name=Crushed Calcium Chloride Ore
     S:oredict.crushedCalifornium.name=Crushed Californium Ore
     S:oredict.crushedCarbon.name=Crushed Carbon Ore
     S:oredict.crushedCarbon13.name=Crushed Carbon-13 Ore
@@ -18634,6 +18745,7 @@ languagefile {
     S:oredict.crushedCentrifugedCaesium.name=Refined Caesium Ore
     S:oredict.crushedCentrifugedCalcite.name=Refined Calcite Ore
     S:oredict.crushedCentrifugedCalcium.name=Refined Calcium Ore
+    S:oredict.crushedCentrifugedCalciumChloride.name=Refined Calcium Chloride Ore
     S:oredict.crushedCentrifugedCalifornium.name=Refined Californium Ore
     S:oredict.crushedCentrifugedCarbon.name=Refined Carbon Ore
     S:oredict.crushedCentrifugedCarbon13.name=Refined Carbon-13 Ore
@@ -18697,6 +18809,7 @@ languagefile {
     S:oredict.crushedCentrifugedEuropium.name=Refined Europium Ore
     S:oredict.crushedCentrifugedEximite.name=Refined Eximite Ore
     S:oredict.crushedCentrifugedFarnsium.name=Refined Farnsium Ore
+    S:oredict.crushedCentrifugedFerberite.name=Refined Ferberite Ore
     S:oredict.crushedCentrifugedFermium.name=Refined Fermium Ore
     S:oredict.crushedCentrifugedFerrite.name=Refined Ferrite Ore
     S:oredict.crushedCentrifugedFerrovanadium.name=Refined Ferrovanadium Ore
@@ -18771,6 +18884,7 @@ languagefile {
     S:oredict.crushedCentrifugedLigniteCoke.name=Refined Lignite Coke Ore
     S:oredict.crushedCentrifugedLithium.name=Refined Lithium Ore
     S:oredict.crushedCentrifugedLithium6.name=Refined Lithium-6 Ore
+    S:oredict.crushedCentrifugedLithiumChloride.name=Refined Lithium Chloride Ore
     S:oredict.crushedCentrifugedLivermorium.name=Refined Livermorium Ore
     S:oredict.crushedCentrifugedLonsdaleite.name=Refined Lonsdaleite Ore
     S:oredict.crushedCentrifugedLudicrite.name=Refined Ludicrite Ore
@@ -18839,6 +18953,7 @@ languagefile {
     S:oredict.crushedCentrifugedPolonium.name=Refined Polonium Ore
     S:oredict.crushedCentrifugedPotassium.name=Refined Potassium Ore
     S:oredict.crushedCentrifugedPotassiumFeldspar.name=Refined Potassium Feldspar Ore
+    S:oredict.crushedCentrifugedPotassiumNitrate.name=Refined Potassium Nitrate Ore
     S:oredict.crushedCentrifugedPowellite.name=Refined Powellite Ore
     S:oredict.crushedCentrifugedPraseodymium.name=Refined Praseodymium Ore
     S:oredict.crushedCentrifugedPrismane.name=Refined Prismane Ore
@@ -18886,6 +19001,7 @@ languagefile {
     S:oredict.crushedCentrifugedSoapstone.name=Refined Soapstone Ore
     S:oredict.crushedCentrifugedSodalite.name=Refined Sodalite Ore
     S:oredict.crushedCentrifugedSodium.name=Refined Sodium Ore
+    S:oredict.crushedCentrifugedSodiumNitrate.name=Refined Sodium Nitrate Ore
     S:oredict.crushedCentrifugedSperrylite.name=Refined Sperrylite Ore
     S:oredict.crushedCentrifugedSpessartine.name=Refined Spessartine Ore
     S:oredict.crushedCentrifugedSphalerite.name=Refined Sphalerite Ore
@@ -19089,6 +19205,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyCaesium.name=Tiny Refined Caesium Ore
     S:oredict.crushedCentrifugedTinyCalcite.name=Tiny Refined Calcite Ore
     S:oredict.crushedCentrifugedTinyCalcium.name=Tiny Refined Calcium Ore
+    S:oredict.crushedCentrifugedTinyCalciumChloride.name=Tiny Refined Calcium Chloride Ore
     S:oredict.crushedCentrifugedTinyCalifornium.name=Tiny Refined Californium Ore
     S:oredict.crushedCentrifugedTinyCarbon.name=Tiny Refined Carbon Ore
     S:oredict.crushedCentrifugedTinyCarbon13.name=Tiny Refined Carbon-13 Ore
@@ -19152,6 +19269,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyEuropium.name=Tiny Refined Europium Ore
     S:oredict.crushedCentrifugedTinyEximite.name=Tiny Refined Eximite Ore
     S:oredict.crushedCentrifugedTinyFarnsium.name=Tiny Refined Farnsium Ore
+    S:oredict.crushedCentrifugedTinyFerberite.name=Tiny Refined Ferberite Ore
     S:oredict.crushedCentrifugedTinyFermium.name=Tiny Refined Fermium Ore
     S:oredict.crushedCentrifugedTinyFerrite.name=Tiny Refined Ferrite Ore
     S:oredict.crushedCentrifugedTinyFerrovanadium.name=Tiny Refined Ferrovanadium Ore
@@ -19226,6 +19344,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyLigniteCoke.name=Tiny Refined Lignite Coke Ore
     S:oredict.crushedCentrifugedTinyLithium.name=Tiny Refined Lithium Ore
     S:oredict.crushedCentrifugedTinyLithium6.name=Tiny Refined Lithium-6 Ore
+    S:oredict.crushedCentrifugedTinyLithiumChloride.name=Tiny Refined Lithium Chloride Ore
     S:oredict.crushedCentrifugedTinyLivermorium.name=Tiny Refined Livermorium Ore
     S:oredict.crushedCentrifugedTinyLonsdaleite.name=Tiny Refined Lonsdaleite Ore
     S:oredict.crushedCentrifugedTinyLudicrite.name=Tiny Refined Ludicrite Ore
@@ -19294,6 +19413,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyPolonium.name=Tiny Refined Polonium Ore
     S:oredict.crushedCentrifugedTinyPotassium.name=Tiny Refined Potassium Ore
     S:oredict.crushedCentrifugedTinyPotassiumFeldspar.name=Tiny Refined Potassium Feldspar Ore
+    S:oredict.crushedCentrifugedTinyPotassiumNitrate.name=Tiny Refined Potassium Nitrate Ore
     S:oredict.crushedCentrifugedTinyPowellite.name=Tiny Refined Powellite Ore
     S:oredict.crushedCentrifugedTinyPraseodymium.name=Tiny Refined Praseodymium Ore
     S:oredict.crushedCentrifugedTinyPrismane.name=Tiny Refined Prismane Ore
@@ -19341,6 +19461,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinySoapstone.name=Tiny Refined Soapstone Ore
     S:oredict.crushedCentrifugedTinySodalite.name=Tiny Refined Sodalite Ore
     S:oredict.crushedCentrifugedTinySodium.name=Tiny Refined Sodium Ore
+    S:oredict.crushedCentrifugedTinySodiumNitrate.name=Tiny Refined Sodium Nitrate Ore
     S:oredict.crushedCentrifugedTinySperrylite.name=Tiny Refined Sperrylite Ore
     S:oredict.crushedCentrifugedTinySpessartine.name=Tiny Refined Spessartine Ore
     S:oredict.crushedCentrifugedTinySphalerite.name=Tiny Refined Sphalerite Ore
@@ -19378,6 +19499,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyTrona.name=Tiny Refined Trona Ore
     S:oredict.crushedCentrifugedTinyTungstate.name=Tiny Refined Tungstate Ore
     S:oredict.crushedCentrifugedTinyTungsten.name=Tiny Refined Tungsten Ore
+    S:oredict.crushedCentrifugedTinyTungstenTrioxide.name=Tiny Refined Tungsten Trioxide Ore
     S:oredict.crushedCentrifugedTinyUnbinilium.name=Tiny Refined Unbinilium Ore
     S:oredict.crushedCentrifugedTinyUnunennium.name=Tiny Refined Ununennium Ore
     S:oredict.crushedCentrifugedTinyUraninite.name=Tiny Refined Uraninite Ore
@@ -19417,6 +19539,7 @@ languagefile {
     S:oredict.crushedCentrifugedTrona.name=Refined Trona Ore
     S:oredict.crushedCentrifugedTungstate.name=Refined Tungstate Ore
     S:oredict.crushedCentrifugedTungsten.name=Refined Tungsten Ore
+    S:oredict.crushedCentrifugedTungstenTrioxide.name=Refined Tungsten Trioxide Ore
     S:oredict.crushedCentrifugedUnbinilium.name=Refined Unbinilium Ore
     S:oredict.crushedCentrifugedUnunennium.name=Refined Ununennium Ore
     S:oredict.crushedCentrifugedUraninite.name=Refined Uraninite Ore
@@ -19497,6 +19620,7 @@ languagefile {
     S:oredict.crushedEuropium.name=Crushed Europium Ore
     S:oredict.crushedEximite.name=Crushed Eximite Ore
     S:oredict.crushedFarnsium.name=Crushed Farnsium Ore
+    S:oredict.crushedFerberite.name=Crushed Ferberite Ore
     S:oredict.crushedFermium.name=Crushed Fermium Ore
     S:oredict.crushedFerrite.name=Crushed Ferrite Ore
     S:oredict.crushedFerrovanadium.name=Crushed Ferrovanadium Ore
@@ -19571,6 +19695,7 @@ languagefile {
     S:oredict.crushedLigniteCoke.name=Crushed Lignite Coke Ore
     S:oredict.crushedLithium.name=Crushed Lithium Ore
     S:oredict.crushedLithium6.name=Crushed Lithium-6 Ore
+    S:oredict.crushedLithiumChloride.name=Crushed Lithium Chloride Ore
     S:oredict.crushedLivermorium.name=Crushed Livermorium Ore
     S:oredict.crushedLonsdaleite.name=Crushed Lonsdaleite Ore
     S:oredict.crushedLudicrite.name=Crushed Ludicrite Ore
@@ -19639,6 +19764,7 @@ languagefile {
     S:oredict.crushedPolonium.name=Crushed Polonium Ore
     S:oredict.crushedPotassium.name=Crushed Potassium Ore
     S:oredict.crushedPotassiumFeldspar.name=Crushed Potassium Feldspar Ore
+    S:oredict.crushedPotassiumNitrate.name=Crushed Potassium Nitrate Ore
     S:oredict.crushedPowellite.name=Crushed Powellite Ore
     S:oredict.crushedPraseodymium.name=Crushed Praseodymium Ore
     S:oredict.crushedPrismane.name=Crushed Prismane Ore
@@ -19825,6 +19951,7 @@ languagefile {
     S:oredict.crushedPurifiedCaesium.name=Purified Caesium Ore
     S:oredict.crushedPurifiedCalcite.name=Purified Calcite Ore
     S:oredict.crushedPurifiedCalcium.name=Purified Calcium Ore
+    S:oredict.crushedPurifiedCalciumChloride.name=Purified Calcium Chloride Ore
     S:oredict.crushedPurifiedCalifornium.name=Purified Californium Ore
     S:oredict.crushedPurifiedCarbon.name=Purified Carbon Ore
     S:oredict.crushedPurifiedCarbon13.name=Purified Carbon-13 Ore
@@ -19888,6 +20015,7 @@ languagefile {
     S:oredict.crushedPurifiedEuropium.name=Purified Europium Ore
     S:oredict.crushedPurifiedEximite.name=Purified Eximite Ore
     S:oredict.crushedPurifiedFarnsium.name=Purified Farnsium Ore
+    S:oredict.crushedPurifiedFerberite.name=Purified Ferberite Ore
     S:oredict.crushedPurifiedFermium.name=Purified Fermium Ore
     S:oredict.crushedPurifiedFerrite.name=Purified Ferrite Ore
     S:oredict.crushedPurifiedFerrovanadium.name=Purified Ferrovanadium Ore
@@ -19962,6 +20090,7 @@ languagefile {
     S:oredict.crushedPurifiedLigniteCoke.name=Purified Lignite Coke Ore
     S:oredict.crushedPurifiedLithium.name=Purified Lithium Ore
     S:oredict.crushedPurifiedLithium6.name=Purified Lithium-6 Ore
+    S:oredict.crushedPurifiedLithiumChloride.name=Purified Lithium Chloride Ore
     S:oredict.crushedPurifiedLivermorium.name=Purified Livermorium Ore
     S:oredict.crushedPurifiedLonsdaleite.name=Purified Lonsdaleite Ore
     S:oredict.crushedPurifiedLudicrite.name=Purified Ludicrite Ore
@@ -20030,6 +20159,7 @@ languagefile {
     S:oredict.crushedPurifiedPolonium.name=Purified Polonium Ore
     S:oredict.crushedPurifiedPotassium.name=Purified Potassium Ore
     S:oredict.crushedPurifiedPotassiumFeldspar.name=Purified Potassium Feldspar Ore
+    S:oredict.crushedPurifiedPotassiumNitrate.name=Purified Potassium Nitrate Ore
     S:oredict.crushedPurifiedPowellite.name=Purified Powellite Ore
     S:oredict.crushedPurifiedPraseodymium.name=Purified Praseodymium Ore
     S:oredict.crushedPurifiedPrismane.name=Purified Prismane Ore
@@ -20077,6 +20207,7 @@ languagefile {
     S:oredict.crushedPurifiedSoapstone.name=Purified Soapstone Ore
     S:oredict.crushedPurifiedSodalite.name=Purified Sodalite Ore
     S:oredict.crushedPurifiedSodium.name=Purified Sodium Ore
+    S:oredict.crushedPurifiedSodiumNitrate.name=Purified Sodium Nitrate Ore
     S:oredict.crushedPurifiedSperrylite.name=Purified Sperrylite Ore
     S:oredict.crushedPurifiedSpessartine.name=Purified Spessartine Ore
     S:oredict.crushedPurifiedSphalerite.name=Purified Sphalerite Ore
@@ -20280,6 +20411,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyCaesium.name=Tiny Purified Caesium Ore
     S:oredict.crushedPurifiedTinyCalcite.name=Tiny Purified Calcite Ore
     S:oredict.crushedPurifiedTinyCalcium.name=Tiny Purified Calcium Ore
+    S:oredict.crushedPurifiedTinyCalciumChloride.name=Tiny Purified Calcium Chloride Ore
     S:oredict.crushedPurifiedTinyCalifornium.name=Tiny Purified Californium Ore
     S:oredict.crushedPurifiedTinyCarbon.name=Tiny Purified Carbon Ore
     S:oredict.crushedPurifiedTinyCarbon13.name=Tiny Purified Carbon-13 Ore
@@ -20343,6 +20475,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyEuropium.name=Tiny Purified Europium Ore
     S:oredict.crushedPurifiedTinyEximite.name=Tiny Purified Eximite Ore
     S:oredict.crushedPurifiedTinyFarnsium.name=Tiny Purified Farnsium Ore
+    S:oredict.crushedPurifiedTinyFerberite.name=Tiny Purified Ferberite Ore
     S:oredict.crushedPurifiedTinyFermium.name=Tiny Purified Fermium Ore
     S:oredict.crushedPurifiedTinyFerrite.name=Tiny Purified Ferrite Ore
     S:oredict.crushedPurifiedTinyFerrovanadium.name=Tiny Purified Ferrovanadium Ore
@@ -20417,6 +20550,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyLigniteCoke.name=Tiny Purified Lignite Coke Ore
     S:oredict.crushedPurifiedTinyLithium.name=Tiny Purified Lithium Ore
     S:oredict.crushedPurifiedTinyLithium6.name=Tiny Purified Lithium-6 Ore
+    S:oredict.crushedPurifiedTinyLithiumChloride.name=Tiny Purified Lithium Chloride Ore
     S:oredict.crushedPurifiedTinyLivermorium.name=Tiny Purified Livermorium Ore
     S:oredict.crushedPurifiedTinyLonsdaleite.name=Tiny Purified Lonsdaleite Ore
     S:oredict.crushedPurifiedTinyLudicrite.name=Tiny Purified Ludicrite Ore
@@ -20485,6 +20619,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyPolonium.name=Tiny Purified Polonium Ore
     S:oredict.crushedPurifiedTinyPotassium.name=Tiny Purified Potassium Ore
     S:oredict.crushedPurifiedTinyPotassiumFeldspar.name=Tiny Purified Potassium Feldspar Ore
+    S:oredict.crushedPurifiedTinyPotassiumNitrate.name=Tiny Purified Potassium Nitrate Ore
     S:oredict.crushedPurifiedTinyPowellite.name=Tiny Purified Powellite Ore
     S:oredict.crushedPurifiedTinyPraseodymium.name=Tiny Purified Praseodymium Ore
     S:oredict.crushedPurifiedTinyPrismane.name=Tiny Purified Prismane Ore
@@ -20532,6 +20667,7 @@ languagefile {
     S:oredict.crushedPurifiedTinySoapstone.name=Tiny Purified Soapstone Ore
     S:oredict.crushedPurifiedTinySodalite.name=Tiny Purified Sodalite Ore
     S:oredict.crushedPurifiedTinySodium.name=Tiny Purified Sodium Ore
+    S:oredict.crushedPurifiedTinySodiumNitrate.name=Tiny Purified Sodium Nitrate Ore
     S:oredict.crushedPurifiedTinySperrylite.name=Tiny Purified Sperrylite Ore
     S:oredict.crushedPurifiedTinySpessartine.name=Tiny Purified Spessartine Ore
     S:oredict.crushedPurifiedTinySphalerite.name=Tiny Purified Sphalerite Ore
@@ -20569,6 +20705,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyTrona.name=Tiny Purified Trona Ore
     S:oredict.crushedPurifiedTinyTungstate.name=Tiny Purified Tungstate Ore
     S:oredict.crushedPurifiedTinyTungsten.name=Tiny Purified Tungsten Ore
+    S:oredict.crushedPurifiedTinyTungstenTrioxide.name=Tiny Purified Tungsten Trioxide Ore
     S:oredict.crushedPurifiedTinyUnbinilium.name=Tiny Purified Unbinilium Ore
     S:oredict.crushedPurifiedTinyUnunennium.name=Tiny Purified Ununennium Ore
     S:oredict.crushedPurifiedTinyUraninite.name=Tiny Purified Uraninite Ore
@@ -20608,6 +20745,7 @@ languagefile {
     S:oredict.crushedPurifiedTrona.name=Purified Trona Ore
     S:oredict.crushedPurifiedTungstate.name=Purified Tungstate Ore
     S:oredict.crushedPurifiedTungsten.name=Purified Tungsten Ore
+    S:oredict.crushedPurifiedTungstenTrioxide.name=Purified Tungsten Trioxide Ore
     S:oredict.crushedPurifiedUnbinilium.name=Purified Unbinilium Ore
     S:oredict.crushedPurifiedUnunennium.name=Purified Ununennium Ore
     S:oredict.crushedPurifiedUraninite.name=Purified Uraninite Ore
@@ -20674,6 +20812,7 @@ languagefile {
     S:oredict.crushedSoapstone.name=Crushed Soapstone Ore
     S:oredict.crushedSodalite.name=Crushed Sodalite Ore
     S:oredict.crushedSodium.name=Crushed Sodium Ore
+    S:oredict.crushedSodiumNitrate.name=Crushed Sodium Nitrate Ore
     S:oredict.crushedSperrylite.name=Crushed Sperrylite Ore
     S:oredict.crushedSpessartine.name=Crushed Spessartine Ore
     S:oredict.crushedSphalerite.name=Crushed Sphalerite Ore
@@ -20877,6 +21016,7 @@ languagefile {
     S:oredict.crushedTinyCaesium.name=Tiny Crushed Caesium Ore
     S:oredict.crushedTinyCalcite.name=Tiny Crushed Calcite Ore
     S:oredict.crushedTinyCalcium.name=Tiny Crushed Calcium Ore
+    S:oredict.crushedTinyCalciumChloride.name=Tiny Crushed Calcium Chloride Ore
     S:oredict.crushedTinyCalifornium.name=Tiny Crushed Californium Ore
     S:oredict.crushedTinyCarbon.name=Tiny Crushed Carbon Ore
     S:oredict.crushedTinyCarbon13.name=Tiny Crushed Carbon-13 Ore
@@ -20940,6 +21080,7 @@ languagefile {
     S:oredict.crushedTinyEuropium.name=Tiny Crushed Europium Ore
     S:oredict.crushedTinyEximite.name=Tiny Crushed Eximite Ore
     S:oredict.crushedTinyFarnsium.name=Tiny Crushed Farnsium Ore
+    S:oredict.crushedTinyFerberite.name=Tiny Crushed Ferberite Ore
     S:oredict.crushedTinyFermium.name=Tiny Crushed Fermium Ore
     S:oredict.crushedTinyFerrite.name=Tiny Crushed Ferrite Ore
     S:oredict.crushedTinyFerrovanadium.name=Tiny Crushed Ferrovanadium Ore
@@ -21014,6 +21155,7 @@ languagefile {
     S:oredict.crushedTinyLigniteCoke.name=Tiny Crushed Lignite Coke Ore
     S:oredict.crushedTinyLithium.name=Tiny Crushed Lithium Ore
     S:oredict.crushedTinyLithium6.name=Tiny Crushed Lithium-6 Ore
+    S:oredict.crushedTinyLithiumChloride.name=Tiny Crushed Lithium Chloride Ore
     S:oredict.crushedTinyLivermorium.name=Tiny Crushed Livermorium Ore
     S:oredict.crushedTinyLonsdaleite.name=Tiny Crushed Lonsdaleite Ore
     S:oredict.crushedTinyLudicrite.name=Tiny Crushed Ludicrite Ore
@@ -21082,6 +21224,7 @@ languagefile {
     S:oredict.crushedTinyPolonium.name=Tiny Crushed Polonium Ore
     S:oredict.crushedTinyPotassium.name=Tiny Crushed Potassium Ore
     S:oredict.crushedTinyPotassiumFeldspar.name=Tiny Crushed Potassium Feldspar Ore
+    S:oredict.crushedTinyPotassiumNitrate.name=Tiny Crushed Potassium Nitrate Ore
     S:oredict.crushedTinyPowellite.name=Tiny Crushed Powellite Ore
     S:oredict.crushedTinyPraseodymium.name=Tiny Crushed Praseodymium Ore
     S:oredict.crushedTinyPrismane.name=Tiny Crushed Prismane Ore
@@ -21129,6 +21272,7 @@ languagefile {
     S:oredict.crushedTinySoapstone.name=Tiny Crushed Soapstone Ore
     S:oredict.crushedTinySodalite.name=Tiny Crushed Sodalite Ore
     S:oredict.crushedTinySodium.name=Tiny Crushed Sodium Ore
+    S:oredict.crushedTinySodiumNitrate.name=Tiny Crushed Sodium Nitrate Ore
     S:oredict.crushedTinySperrylite.name=Tiny Crushed Sperrylite Ore
     S:oredict.crushedTinySpessartine.name=Tiny Crushed Spessartine Ore
     S:oredict.crushedTinySphalerite.name=Tiny Crushed Sphalerite Ore
@@ -21166,6 +21310,7 @@ languagefile {
     S:oredict.crushedTinyTrona.name=Tiny Crushed Trona Ore
     S:oredict.crushedTinyTungstate.name=Tiny Crushed Tungstate Ore
     S:oredict.crushedTinyTungsten.name=Tiny Crushed Tungsten Ore
+    S:oredict.crushedTinyTungstenTrioxide.name=Tiny Crushed Tungsten Trioxide Ore
     S:oredict.crushedTinyUnbinilium.name=Tiny Crushed Unbinilium Ore
     S:oredict.crushedTinyUnunennium.name=Tiny Crushed Ununennium Ore
     S:oredict.crushedTinyUraninite.name=Tiny Crushed Uraninite Ore
@@ -21205,6 +21350,7 @@ languagefile {
     S:oredict.crushedTrona.name=Crushed Trona Ore
     S:oredict.crushedTungstate.name=Crushed Tungstate Ore
     S:oredict.crushedTungsten.name=Crushed Tungsten Ore
+    S:oredict.crushedTungstenTrioxide.name=Crushed Tungsten Trioxide Ore
     S:oredict.crushedUnbinilium.name=Crushed Unbinilium Ore
     S:oredict.crushedUnunennium.name=Crushed Ununennium Ore
     S:oredict.crushedUraninite.name=Crushed Uraninite Ore
@@ -21443,6 +21589,7 @@ languagefile {
     S:oredict.dustCaesium.name=Caesium Dust
     S:oredict.dustCalcite.name=Calcite Dust
     S:oredict.dustCalcium.name=Calcium Dust
+    S:oredict.dustCalciumChloride.name=Calcium Chloride Dust
     S:oredict.dustCalciumSulfate.name=Calcium Sulfate Dust
     S:oredict.dustCalifornium.name=Californium Dust
     S:oredict.dustCarbon.name=Carbon Dust
@@ -21733,6 +21880,7 @@ languagefile {
     S:oredict.dustDiv72Caesium.name=1/72nd of a Pile of Caesium Dust
     S:oredict.dustDiv72Calcite.name=1/72nd of a Pile of Calcite Dust
     S:oredict.dustDiv72Calcium.name=1/72nd of a Pile of Calcium Dust
+    S:oredict.dustDiv72CalciumChloride.name=1/72nd of a Pile of Calcium Chloride Dust
     S:oredict.dustDiv72CalciumSulfate.name=1/72nd of a Pile of Calcium Sulfate Dust
     S:oredict.dustDiv72Californium.name=1/72nd of a Pile of Californium Dust
     S:oredict.dustDiv72Carbon.name=1/72nd of a Pile of Carbon Dust
@@ -21849,9 +21997,11 @@ languagefile {
     S:oredict.dustDiv72Europium.name=1/72nd of a Pile of Europium Dust
     S:oredict.dustDiv72Eximite.name=1/72nd of a Pile of Eximite Dust
     S:oredict.dustDiv72Farnsium.name=1/72nd of a Pile of Farnsium Dust
+    S:oredict.dustDiv72Ferberite.name=1/72nd of a Pile of Ferberite Dust
     S:oredict.dustDiv72Fermium.name=1/72nd of a Pile of Fermium Dust
     S:oredict.dustDiv72FerricChloride.name=1/72nd of a Pile of Ferric Chloride Dust
     S:oredict.dustDiv72Ferrite.name=1/72nd of a Pile of Ferrite Dust
+    S:oredict.dustDiv72FerrousChloride.name=1/72nd of a Pile of Ferrous Chloride Dust
     S:oredict.dustDiv72Ferrovanadium.name=1/72nd of a Pile of Ferrovanadium Dust
     S:oredict.dustDiv72FierySteel.name=1/72nd of a Pile of Fiery Steel Dust
     S:oredict.dustDiv72Firestone.name=1/72nd of a Pile of Firestone Dust
@@ -21965,6 +22115,7 @@ languagefile {
     S:oredict.dustDiv72Limestone.name=1/72nd of a Pile of Limestone Dust
     S:oredict.dustDiv72Lithium.name=1/72nd of a Pile of Lithium Dust
     S:oredict.dustDiv72Lithium6.name=1/72nd of a Pile of Lithium-6 Dust
+    S:oredict.dustDiv72LithiumChloride.name=1/72nd of a Pile of Lithium Chloride Dust
     S:oredict.dustDiv72LithiumOxide.name=1/72nd of a Pile of Lithium Oxide Dust
     S:oredict.dustDiv72LiveRoot.name=1/72nd of a Pile of Liveroot Dust
     S:oredict.dustDiv72Livermorium.name=1/72nd of a Pile of Livermorium Dust
@@ -21982,6 +22133,7 @@ languagefile {
     S:oredict.dustDiv72Malachite.name=1/72nd of a Pile of Malachite Dust
     S:oredict.dustDiv72Manasteel.name=1/72nd of a Pile of Manasteel Dust
     S:oredict.dustDiv72Manganese.name=1/72nd of a Pile of Manganese Dust
+    S:oredict.dustDiv72ManganeseChloride.name=1/72nd of a Pile of Manganese Chloride Dust
     S:oredict.dustDiv72Manyullyn.name=1/72nd of a Pile of Manyullyn Dust
     S:oredict.dustDiv72Marble.name=1/72nd of a Pile of Marble Dust
     S:oredict.dustDiv72MarsSand.name=1/72nd of a Pile of Mars Turf
@@ -22075,12 +22227,17 @@ languagefile {
     S:oredict.dustDiv72Polonium.name=1/72nd of a Pile of Polonium Dust
     S:oredict.dustDiv72Porcelain.name=1/72nd of a Pile of Porcelain Dust
     S:oredict.dustDiv72Potassium.name=1/72nd of a Pile of Potassium Dust
+    S:oredict.dustDiv72PotassiumAluminate.name=1/72nd of a Pile of Potassium Aluminate Dust
     S:oredict.dustDiv72PotassiumBisulfate.name=1/72nd of a Pile of Potassium Bisulfate Dust
+    S:oredict.dustDiv72PotassiumCarbonate.name=1/72nd of a Pile of Potassium Carbonate Dust
     S:oredict.dustDiv72PotassiumFeldspar.name=1/72nd of a Pile of Potassium Feldspar Dust
     S:oredict.dustDiv72PotassiumHydroxide.name=1/72nd of a Pile of Potassium Hydroxide Dust
+    S:oredict.dustDiv72PotassiumNitrate.name=1/72nd of a Pile of Potassium Nitrate Dust
+    S:oredict.dustDiv72PotassiumPersulfate.name=1/72nd of a Pile of Potassium Persulfate Dust
     S:oredict.dustDiv72PotassiumPyrosulfate.name=1/72nd of a Pile of Potassium Pyrosulfate Dust
     S:oredict.dustDiv72PotassiumSulfate.name=1/72nd of a Pile of Potassium Sulfate Dust
     S:oredict.dustDiv72PotassiumSulfide.name=1/72nd of a Pile of Potassium Sulfide Dust
+    S:oredict.dustDiv72PotassiumSulfite.name=1/72nd of a Pile of Potassium Sulfite Dust
     S:oredict.dustDiv72Potato.name=1/72nd of a Pile of Ground Potato
     S:oredict.dustDiv72Powellite.name=1/72nd of a Pile of Powellite Dust
     S:oredict.dustDiv72Praseodymium.name=1/72nd of a Pile of Praseodymium Dust
@@ -22154,6 +22311,7 @@ languagefile {
     S:oredict.dustDiv72SodiumBisulfate.name=1/72nd of a Pile of Sodium Bisulfate Dust
     S:oredict.dustDiv72SodiumCarbonate.name=1/72nd of a Pile of Sodium Carbonate Dust
     S:oredict.dustDiv72SodiumHydroxide.name=1/72nd of a Pile of Sodium Hydroxide Dust
+    S:oredict.dustDiv72SodiumNitrate.name=1/72nd of a Pile of Sodium Nitrate Dust
     S:oredict.dustDiv72SodiumPersulfate.name=1/72nd of a Pile of Sodium Persulfate Dust
     S:oredict.dustDiv72SodiumPyrosulfate.name=1/72nd of a Pile of Sodium Pyrosulfate Dust
     S:oredict.dustDiv72SodiumSulfate.name=1/72nd of a Pile of Sodium Sulfate Dust
@@ -22221,7 +22379,9 @@ languagefile {
     S:oredict.dustDiv72Tungstate.name=1/72nd of a Pile of Tungstate Dust
     S:oredict.dustDiv72Tungsten.name=1/72nd of a Pile of Tungsten Dust
     S:oredict.dustDiv72TungstenCarbide.name=1/72nd of a Pile of Tungsten Carbide Dust
+    S:oredict.dustDiv72TungstenTrioxide.name=1/72nd of a Pile of Tungsten Trioxide Dust
     S:oredict.dustDiv72Tungstensteel.name=1/72nd of a Pile of Tungstensteel Dust
+    S:oredict.dustDiv72TungsticAcid.name=1/72nd of a Pile of Tungstic Acid Dust
     S:oredict.dustDiv72Ultimet.name=1/72nd of a Pile of Ultimet Dust
     S:oredict.dustDiv72Unbinilium.name=1/72nd of a Pile of Unbinilium Dust
     S:oredict.dustDiv72Ununennium.name=1/72nd of a Pile of Ununennium Dust
@@ -22313,9 +22473,11 @@ languagefile {
     S:oredict.dustEuropium.name=Europium Dust
     S:oredict.dustEximite.name=Eximite Dust
     S:oredict.dustFarnsium.name=Farnsium Dust
+    S:oredict.dustFerberite.name=Ferberite Dust
     S:oredict.dustFermium.name=Fermium Dust
     S:oredict.dustFerricChloride.name=Ferric Chloride Dust
     S:oredict.dustFerrite.name=Ferrite Dust
+    S:oredict.dustFerrousChloride.name=Ferrous Chloride Dust
     S:oredict.dustFerrovanadium.name=Ferrovanadium Dust
     S:oredict.dustFierySteel.name=Fiery Steel Dust
     S:oredict.dustFirestone.name=Firestone Dust
@@ -22570,6 +22732,7 @@ languagefile {
     S:oredict.dustImpureCaesium.name=Impure Pile of Caesium Dust
     S:oredict.dustImpureCalcite.name=Impure Pile of Calcite Dust
     S:oredict.dustImpureCalcium.name=Impure Pile of Calcium Dust
+    S:oredict.dustImpureCalciumChloride.name=Impure Pile of Calcium Chloride Dust
     S:oredict.dustImpureCalifornium.name=Impure Pile of Californium Dust
     S:oredict.dustImpureCarbon.name=Impure Pile of Carbon Dust
     S:oredict.dustImpureCarbon13.name=Impure Pile of Carbon-13 Dust
@@ -22640,6 +22803,7 @@ languagefile {
     S:oredict.dustImpureEuropium.name=Impure Pile of Europium Dust
     S:oredict.dustImpureEximite.name=Impure Pile of Eximite Dust
     S:oredict.dustImpureFarnsium.name=Impure Pile of Farnsium Dust
+    S:oredict.dustImpureFerberite.name=Impure Pile of Ferberite Dust
     S:oredict.dustImpureFermium.name=Impure Pile of Fermium Dust
     S:oredict.dustImpureFerrite.name=Impure Pile of Ferrite Dust
     S:oredict.dustImpureFerrovanadium.name=Impure Pile of Ferrovanadium Dust
@@ -22724,6 +22888,7 @@ languagefile {
     S:oredict.dustImpureLimestone.name=Impure Pile of Limestone Dust
     S:oredict.dustImpureLithium.name=Impure Pile of Lithium Dust
     S:oredict.dustImpureLithium6.name=Impure Pile of Lithium-6 Dust
+    S:oredict.dustImpureLithiumChloride.name=Impure Pile of Lithium Chloride Dust
     S:oredict.dustImpureLivermorium.name=Impure Pile of Livermorium Dust
     S:oredict.dustImpureLonsdaleite.name=Impure Pile of Lonsdaleite Dust
     S:oredict.dustImpureLudicrite.name=Impure Pile of Ludicrite Dust
@@ -22800,6 +22965,7 @@ languagefile {
     S:oredict.dustImpurePolonium.name=Impure Pile of Polonium Dust
     S:oredict.dustImpurePotassium.name=Impure Pile of Potassium Dust
     S:oredict.dustImpurePotassiumFeldspar.name=Impure Pile of Potassium Feldspar Dust
+    S:oredict.dustImpurePotassiumNitrate.name=Impure Pile of Potassium Nitrate Dust
     S:oredict.dustImpurePowellite.name=Impure Pile of Powellite Dust
     S:oredict.dustImpurePraseodymium.name=Impure Pile of Praseodymium Dust
     S:oredict.dustImpurePrismane.name=Impure Pile of Prismane Dust
@@ -22851,6 +23017,7 @@ languagefile {
     S:oredict.dustImpureSoapstone.name=Impure Pile of Soapstone Dust
     S:oredict.dustImpureSodalite.name=Impure Pile of Sodalite Dust
     S:oredict.dustImpureSodium.name=Impure Pile of Sodium Dust
+    S:oredict.dustImpureSodiumNitrate.name=Impure Pile of Sodium Nitrate Dust
     S:oredict.dustImpureSpaceStone.name=Impure Pile of Space Dust
     S:oredict.dustImpureSperrylite.name=Impure Pile of Sperrylite Dust
     S:oredict.dustImpureSpessartine.name=Impure Pile of Spessartine Dust
@@ -22890,6 +23057,7 @@ languagefile {
     S:oredict.dustImpureTrona.name=Impure Pile of Trona Dust
     S:oredict.dustImpureTungstate.name=Impure Pile of Tungstate Dust
     S:oredict.dustImpureTungsten.name=Impure Pile of Tungsten Dust
+    S:oredict.dustImpureTungstenTrioxide.name=Impure Pile of Tungsten Trioxide Dust
     S:oredict.dustImpureUnbinilium.name=Impure Pile of Unbinilium Dust
     S:oredict.dustImpureUnunennium.name=Impure Pile of Ununennium Dust
     S:oredict.dustImpureUraninite.name=Impure Pile of Uraninite Dust
@@ -22957,6 +23125,7 @@ languagefile {
     S:oredict.dustLimestone.name=Limestone Dust
     S:oredict.dustLithium.name=Lithium Dust
     S:oredict.dustLithium6.name=Lithium-6 Dust
+    S:oredict.dustLithiumChloride.name=Lithium Chloride Dust
     S:oredict.dustLithiumOxide.name=Lithium Oxide Dust
     S:oredict.dustLiveRoot.name=Liveroot Dust
     S:oredict.dustLivermorium.name=Livermorium Dust
@@ -22974,6 +23143,7 @@ languagefile {
     S:oredict.dustMalachite.name=Malachite Dust
     S:oredict.dustManasteel.name=Manasteel Dust
     S:oredict.dustManganese.name=Manganese Dust
+    S:oredict.dustManganeseChloride.name=Manganese Chloride Dust
     S:oredict.dustManyullyn.name=Manyullyn Dust
     S:oredict.dustMarble.name=Marble Dust
     S:oredict.dustMarsSand.name=Mars Turf
@@ -23067,12 +23237,17 @@ languagefile {
     S:oredict.dustPolonium.name=Polonium Dust
     S:oredict.dustPorcelain.name=Porcelain Dust
     S:oredict.dustPotassium.name=Potassium Dust
+    S:oredict.dustPotassiumAluminate.name=Potassium Aluminate Dust
     S:oredict.dustPotassiumBisulfate.name=Potassium Bisulfate Dust
+    S:oredict.dustPotassiumCarbonate.name=Potassium Carbonate Dust
     S:oredict.dustPotassiumFeldspar.name=Potassium Feldspar Dust
     S:oredict.dustPotassiumHydroxide.name=Potassium Hydroxide Dust
+    S:oredict.dustPotassiumNitrate.name=Potassium Nitrate Dust
+    S:oredict.dustPotassiumPersulfate.name=Potassium Persulfate Dust
     S:oredict.dustPotassiumPyrosulfate.name=Potassium Pyrosulfate Dust
     S:oredict.dustPotassiumSulfate.name=Potassium Sulfate Dust
     S:oredict.dustPotassiumSulfide.name=Potassium Sulfide Dust
+    S:oredict.dustPotassiumSulfite.name=Potassium Sulfite Dust
     S:oredict.dustPotato.name=Ground Potato
     S:oredict.dustPowellite.name=Powellite Dust
     S:oredict.dustPraseodymium.name=Praseodymium Dust
@@ -23266,6 +23441,7 @@ languagefile {
     S:oredict.dustPureCaesium.name=Purified Pile of Caesium Dust
     S:oredict.dustPureCalcite.name=Purified Pile of Calcite Dust
     S:oredict.dustPureCalcium.name=Purified Pile of Calcium Dust
+    S:oredict.dustPureCalciumChloride.name=Purified Pile of Calcium Chloride Dust
     S:oredict.dustPureCalifornium.name=Purified Pile of Californium Dust
     S:oredict.dustPureCarbon.name=Purified Pile of Carbon Dust
     S:oredict.dustPureCarbon13.name=Purified Pile of Carbon-13 Dust
@@ -23336,6 +23512,7 @@ languagefile {
     S:oredict.dustPureEuropium.name=Purified Pile of Europium Dust
     S:oredict.dustPureEximite.name=Purified Pile of Eximite Dust
     S:oredict.dustPureFarnsium.name=Purified Pile of Farnsium Dust
+    S:oredict.dustPureFerberite.name=Purified Pile of Ferberite Dust
     S:oredict.dustPureFermium.name=Purified Pile of Fermium Dust
     S:oredict.dustPureFerrite.name=Purified Pile of Ferrite Dust
     S:oredict.dustPureFerrovanadium.name=Purified Pile of Ferrovanadium Dust
@@ -23420,6 +23597,7 @@ languagefile {
     S:oredict.dustPureLimestone.name=Purified Pile of Limestone Dust
     S:oredict.dustPureLithium.name=Purified Pile of Lithium Dust
     S:oredict.dustPureLithium6.name=Purified Pile of Lithium-6 Dust
+    S:oredict.dustPureLithiumChloride.name=Purified Pile of Lithium Chloride Dust
     S:oredict.dustPureLivermorium.name=Purified Pile of Livermorium Dust
     S:oredict.dustPureLonsdaleite.name=Purified Pile of Lonsdaleite Dust
     S:oredict.dustPureLudicrite.name=Purified Pile of Ludicrite Dust
@@ -23496,6 +23674,7 @@ languagefile {
     S:oredict.dustPurePolonium.name=Purified Pile of Polonium Dust
     S:oredict.dustPurePotassium.name=Purified Pile of Potassium Dust
     S:oredict.dustPurePotassiumFeldspar.name=Purified Pile of Potassium Feldspar Dust
+    S:oredict.dustPurePotassiumNitrate.name=Purified Pile of Potassium Nitrate Dust
     S:oredict.dustPurePowellite.name=Purified Pile of Powellite Dust
     S:oredict.dustPurePraseodymium.name=Purified Pile of Praseodymium Dust
     S:oredict.dustPurePrismane.name=Purified Pile of Prismane Dust
@@ -23547,6 +23726,7 @@ languagefile {
     S:oredict.dustPureSoapstone.name=Purified Pile of Soapstone Dust
     S:oredict.dustPureSodalite.name=Purified Pile of Sodalite Dust
     S:oredict.dustPureSodium.name=Purified Pile of Sodium Dust
+    S:oredict.dustPureSodiumNitrate.name=Purified Pile of Sodium Nitrate Dust
     S:oredict.dustPureSpaceStone.name=Purified Pile of Space Dust
     S:oredict.dustPureSperrylite.name=Purified Pile of Sperrylite Dust
     S:oredict.dustPureSpessartine.name=Purified Pile of Spessartine Dust
@@ -23586,6 +23766,7 @@ languagefile {
     S:oredict.dustPureTrona.name=Purified Pile of Trona Dust
     S:oredict.dustPureTungstate.name=Purified Pile of Tungstate Dust
     S:oredict.dustPureTungsten.name=Purified Pile of Tungsten Dust
+    S:oredict.dustPureTungstenTrioxide.name=Purified Pile of Tungsten Trioxide Dust
     S:oredict.dustPureUnbinilium.name=Purified Pile of Unbinilium Dust
     S:oredict.dustPureUnunennium.name=Purified Pile of Ununennium Dust
     S:oredict.dustPureUraninite.name=Purified Pile of Uraninite Dust
@@ -23880,6 +24061,7 @@ languagefile {
     S:oredict.dustSmallCaesium.name=Small Pile of Caesium Dust
     S:oredict.dustSmallCalcite.name=Small Pile of Calcite Dust
     S:oredict.dustSmallCalcium.name=Small Pile of Calcium Dust
+    S:oredict.dustSmallCalciumChloride.name=Small Pile of Calcium Chloride Dust
     S:oredict.dustSmallCalciumSulfate.name=Small Pile of Calcium Sulfate Dust
     S:oredict.dustSmallCalifornium.name=Small Pile of Californium Dust
     S:oredict.dustSmallCarbon.name=Small Pile of Carbon Dust
@@ -23996,9 +24178,11 @@ languagefile {
     S:oredict.dustSmallEuropium.name=Small Pile of Europium Dust
     S:oredict.dustSmallEximite.name=Small Pile of Eximite Dust
     S:oredict.dustSmallFarnsium.name=Small Pile of Farnsium Dust
+    S:oredict.dustSmallFerberite.name=Small Pile of Ferberite Dust
     S:oredict.dustSmallFermium.name=Small Pile of Fermium Dust
     S:oredict.dustSmallFerricChloride.name=Small Pile of Ferric Chloride Dust
     S:oredict.dustSmallFerrite.name=Small Pile of Ferrite Dust
+    S:oredict.dustSmallFerrousChloride.name=Small Pile of Ferrous Chloride Dust
     S:oredict.dustSmallFerrovanadium.name=Small Pile of Ferrovanadium Dust
     S:oredict.dustSmallFierySteel.name=Small Pile of Fiery Steel Dust
     S:oredict.dustSmallFirestone.name=Small Pile of Firestone Dust
@@ -24112,6 +24296,7 @@ languagefile {
     S:oredict.dustSmallLimestone.name=Small Pile of Limestone Dust
     S:oredict.dustSmallLithium.name=Small Pile of Lithium Dust
     S:oredict.dustSmallLithium6.name=Small Pile of Lithium-6 Dust
+    S:oredict.dustSmallLithiumChloride.name=Small Pile of Lithium Chloride Dust
     S:oredict.dustSmallLithiumOxide.name=Small Pile of Lithium Oxide Dust
     S:oredict.dustSmallLiveRoot.name=Small Pile of Liveroot Dust
     S:oredict.dustSmallLivermorium.name=Small Pile of Livermorium Dust
@@ -24129,6 +24314,7 @@ languagefile {
     S:oredict.dustSmallMalachite.name=Small Pile of Malachite Dust
     S:oredict.dustSmallManasteel.name=Small Pile of Manasteel Dust
     S:oredict.dustSmallManganese.name=Small Pile of Manganese Dust
+    S:oredict.dustSmallManganeseChloride.name=Small Pile of Manganese Chloride Dust
     S:oredict.dustSmallManyullyn.name=Small Pile of Manyullyn Dust
     S:oredict.dustSmallMarble.name=Small Pile of Marble Dust
     S:oredict.dustSmallMarsSand.name=Small Pile of Mars Turf
@@ -24222,12 +24408,17 @@ languagefile {
     S:oredict.dustSmallPolonium.name=Small Pile of Polonium Dust
     S:oredict.dustSmallPorcelain.name=Small Pile of Porcelain Dust
     S:oredict.dustSmallPotassium.name=Small Pile of Potassium Dust
+    S:oredict.dustSmallPotassiumAluminate.name=Small Pile of Potassium Aluminate Dust
     S:oredict.dustSmallPotassiumBisulfate.name=Small Pile of Potassium Bisulfate Dust
+    S:oredict.dustSmallPotassiumCarbonate.name=Small Pile of Potassium Carbonate Dust
     S:oredict.dustSmallPotassiumFeldspar.name=Small Pile of Potassium Feldspar Dust
     S:oredict.dustSmallPotassiumHydroxide.name=Small Pile of Potassium Hydroxide Dust
+    S:oredict.dustSmallPotassiumNitrate.name=Small Pile of Potassium Nitrate Dust
+    S:oredict.dustSmallPotassiumPersulfate.name=Small Pile of Potassium Persulfate Dust
     S:oredict.dustSmallPotassiumPyrosulfate.name=Small Pile of Potassium Pyrosulfate Dust
     S:oredict.dustSmallPotassiumSulfate.name=Small Pile of Potassium Sulfate Dust
     S:oredict.dustSmallPotassiumSulfide.name=Small Pile of Potassium Sulfide Dust
+    S:oredict.dustSmallPotassiumSulfite.name=Small Pile of Potassium Sulfite Dust
     S:oredict.dustSmallPotato.name=Small Pile of Ground Potato
     S:oredict.dustSmallPowellite.name=Small Pile of Powellite Dust
     S:oredict.dustSmallPraseodymium.name=Small Pile of Praseodymium Dust
@@ -24301,6 +24492,7 @@ languagefile {
     S:oredict.dustSmallSodiumBisulfate.name=Small Pile of Sodium Bisulfate Dust
     S:oredict.dustSmallSodiumCarbonate.name=Small Pile of Sodium Carbonate Dust
     S:oredict.dustSmallSodiumHydroxide.name=Small Pile of Sodium Hydroxide Dust
+    S:oredict.dustSmallSodiumNitrate.name=Small Pile of Sodium Nitrate Dust
     S:oredict.dustSmallSodiumPersulfate.name=Small Pile of Sodium Persulfate Dust
     S:oredict.dustSmallSodiumPyrosulfate.name=Small Pile of Sodium Pyrosulfate Dust
     S:oredict.dustSmallSodiumSulfate.name=Small Pile of Sodium Sulfate Dust
@@ -24368,7 +24560,9 @@ languagefile {
     S:oredict.dustSmallTungstate.name=Small Pile of Tungstate Dust
     S:oredict.dustSmallTungsten.name=Small Pile of Tungsten Dust
     S:oredict.dustSmallTungstenCarbide.name=Small Pile of Tungsten Carbide Dust
+    S:oredict.dustSmallTungstenTrioxide.name=Small Pile of Tungsten Trioxide Dust
     S:oredict.dustSmallTungstensteel.name=Small Pile of Tungstensteel Dust
+    S:oredict.dustSmallTungsticAcid.name=Small Pile of Tungstic Acid Dust
     S:oredict.dustSmallUltimet.name=Small Pile of Ultimet Dust
     S:oredict.dustSmallUnbinilium.name=Small Pile of Unbinilium Dust
     S:oredict.dustSmallUnunennium.name=Small Pile of Ununennium Dust
@@ -24429,6 +24623,7 @@ languagefile {
     S:oredict.dustSodiumBisulfate.name=Sodium Bisulfate Dust
     S:oredict.dustSodiumCarbonate.name=Sodium Carbonate Dust
     S:oredict.dustSodiumHydroxide.name=Sodium Hydroxide Dust
+    S:oredict.dustSodiumNitrate.name=Sodium Nitrate Dust
     S:oredict.dustSodiumPersulfate.name=Sodium Persulfate Dust
     S:oredict.dustSodiumPyrosulfate.name=Sodium Pyrosulfate Dust
     S:oredict.dustSodiumSulfate.name=Sodium Sulfate Dust
@@ -24689,6 +24884,7 @@ languagefile {
     S:oredict.dustTinyCaesium.name=Tiny Pile of Caesium Dust
     S:oredict.dustTinyCalcite.name=Tiny Pile of Calcite Dust
     S:oredict.dustTinyCalcium.name=Tiny Pile of Calcium Dust
+    S:oredict.dustTinyCalciumChloride.name=Tiny Pile of Calcium Chloride Dust
     S:oredict.dustTinyCalciumSulfate.name=Tiny Pile of Calcium Sulfate Dust
     S:oredict.dustTinyCalifornium.name=Tiny Pile of Californium Dust
     S:oredict.dustTinyCarbon.name=Tiny Pile of Carbon Dust
@@ -24805,9 +25001,11 @@ languagefile {
     S:oredict.dustTinyEuropium.name=Tiny Pile of Europium Dust
     S:oredict.dustTinyEximite.name=Tiny Pile of Eximite Dust
     S:oredict.dustTinyFarnsium.name=Tiny Pile of Farnsium Dust
+    S:oredict.dustTinyFerberite.name=Tiny Pile of Ferberite Dust
     S:oredict.dustTinyFermium.name=Tiny Pile of Fermium Dust
     S:oredict.dustTinyFerricChloride.name=Tiny Pile of Ferric Chloride Dust
     S:oredict.dustTinyFerrite.name=Tiny Pile of Ferrite Dust
+    S:oredict.dustTinyFerrousChloride.name=Tiny Pile of Ferrous Chloride Dust
     S:oredict.dustTinyFerrovanadium.name=Tiny Pile of Ferrovanadium Dust
     S:oredict.dustTinyFierySteel.name=Tiny Pile of Fiery Steel Dust
     S:oredict.dustTinyFirestone.name=Tiny Pile of Firestone Dust
@@ -24921,6 +25119,7 @@ languagefile {
     S:oredict.dustTinyLimestone.name=Tiny Pile of Limestone Dust
     S:oredict.dustTinyLithium.name=Tiny Pile of Lithium Dust
     S:oredict.dustTinyLithium6.name=Tiny Pile of Lithium-6 Dust
+    S:oredict.dustTinyLithiumChloride.name=Tiny Pile of Lithium Chloride Dust
     S:oredict.dustTinyLithiumOxide.name=Tiny Pile of Lithium Oxide Dust
     S:oredict.dustTinyLiveRoot.name=Tiny Pile of Liveroot Dust
     S:oredict.dustTinyLivermorium.name=Tiny Pile of Livermorium Dust
@@ -24938,6 +25137,7 @@ languagefile {
     S:oredict.dustTinyMalachite.name=Tiny Pile of Malachite Dust
     S:oredict.dustTinyManasteel.name=Tiny Pile of Manasteel Dust
     S:oredict.dustTinyManganese.name=Tiny Pile of Manganese Dust
+    S:oredict.dustTinyManganeseChloride.name=Tiny Pile of Manganese Chloride Dust
     S:oredict.dustTinyManyullyn.name=Tiny Pile of Manyullyn Dust
     S:oredict.dustTinyMarble.name=Tiny Pile of Marble Dust
     S:oredict.dustTinyMarsSand.name=Tiny Pile of Mars Turf
@@ -25031,12 +25231,17 @@ languagefile {
     S:oredict.dustTinyPolonium.name=Tiny Pile of Polonium Dust
     S:oredict.dustTinyPorcelain.name=Tiny Pile of Porcelain Dust
     S:oredict.dustTinyPotassium.name=Tiny Pile of Potassium Dust
+    S:oredict.dustTinyPotassiumAluminate.name=Tiny Pile of Potassium Aluminate Dust
     S:oredict.dustTinyPotassiumBisulfate.name=Tiny Pile of Potassium Bisulfate Dust
+    S:oredict.dustTinyPotassiumCarbonate.name=Tiny Pile of Potassium Carbonate Dust
     S:oredict.dustTinyPotassiumFeldspar.name=Tiny Pile of Potassium Feldspar Dust
     S:oredict.dustTinyPotassiumHydroxide.name=Tiny Pile of Potassium Hydroxide Dust
+    S:oredict.dustTinyPotassiumNitrate.name=Tiny Pile of Potassium Nitrate Dust
+    S:oredict.dustTinyPotassiumPersulfate.name=Tiny Pile of Potassium Persulfate Dust
     S:oredict.dustTinyPotassiumPyrosulfate.name=Tiny Pile of Potassium Pyrosulfate Dust
     S:oredict.dustTinyPotassiumSulfate.name=Tiny Pile of Potassium Sulfate Dust
     S:oredict.dustTinyPotassiumSulfide.name=Tiny Pile of Potassium Sulfide Dust
+    S:oredict.dustTinyPotassiumSulfite.name=Tiny Pile of Potassium Sulfite Dust
     S:oredict.dustTinyPotato.name=Tiny Pile of Ground Potato
     S:oredict.dustTinyPowellite.name=Tiny Pile of Powellite Dust
     S:oredict.dustTinyPraseodymium.name=Tiny Pile of Praseodymium Dust
@@ -25110,6 +25315,7 @@ languagefile {
     S:oredict.dustTinySodiumBisulfate.name=Tiny Pile of Sodium Bisulfate Dust
     S:oredict.dustTinySodiumCarbonate.name=Tiny Pile of Sodium Carbonate Dust
     S:oredict.dustTinySodiumHydroxide.name=Tiny Pile of Sodium Hydroxide Dust
+    S:oredict.dustTinySodiumNitrate.name=Tiny Pile of Sodium Nitrate Dust
     S:oredict.dustTinySodiumPersulfate.name=Tiny Pile of Sodium Persulfate Dust
     S:oredict.dustTinySodiumPyrosulfate.name=Tiny Pile of Sodium Pyrosulfate Dust
     S:oredict.dustTinySodiumSulfate.name=Tiny Pile of Sodium Sulfate Dust
@@ -25177,7 +25383,9 @@ languagefile {
     S:oredict.dustTinyTungstate.name=Tiny Pile of Tungstate Dust
     S:oredict.dustTinyTungsten.name=Tiny Pile of Tungsten Dust
     S:oredict.dustTinyTungstenCarbide.name=Tiny Pile of Tungsten Carbide Dust
+    S:oredict.dustTinyTungstenTrioxide.name=Tiny Pile of Tungsten Trioxide Dust
     S:oredict.dustTinyTungstensteel.name=Tiny Pile of Tungstensteel Dust
+    S:oredict.dustTinyTungsticAcid.name=Tiny Pile of Tungstic Acid Dust
     S:oredict.dustTinyUltimet.name=Tiny Pile of Ultimet Dust
     S:oredict.dustTinyUnbinilium.name=Tiny Pile of Unbinilium Dust
     S:oredict.dustTinyUnunennium.name=Tiny Pile of Ununennium Dust
@@ -25249,7 +25457,9 @@ languagefile {
     S:oredict.dustTungstate.name=Tungstate Dust
     S:oredict.dustTungsten.name=Tungsten Dust
     S:oredict.dustTungstenCarbide.name=Tungsten Carbide Dust
+    S:oredict.dustTungstenTrioxide.name=Tungsten Trioxide Dust
     S:oredict.dustTungstensteel.name=Tungstensteel Dust
+    S:oredict.dustTungsticAcid.name=Tungstic Acid Dust
     S:oredict.dustUltimet.name=Ultimet Dust
     S:oredict.dustUnbinilium.name=Unbinilium Dust
     S:oredict.dustUnunennium.name=Ununennium Dust
@@ -25780,6 +25990,7 @@ languagefile {
     S:oredict.gearGtFlint.name=Flint Gear
     S:oredict.gearGtForce.name=Force Gear
     S:oredict.gearGtGabbro.name=Gabbro Gear
+    S:oredict.gearGtGermanium.name=Germanium Gear
     S:oredict.gearGtGildedIron.name=Gilded Iron Gear
     S:oredict.gearGtGlass.name=Glass Gear
     S:oredict.gearGtGneiss.name=Gneiss Gear
@@ -25998,6 +26209,7 @@ languagefile {
     S:oredict.gearGtSmallFlint.name=Small Flint Gear
     S:oredict.gearGtSmallForce.name=Small Force Gear
     S:oredict.gearGtSmallGabbro.name=Small Gabbro Gear
+    S:oredict.gearGtSmallGermanium.name=Small Germanium Gear
     S:oredict.gearGtSmallGildedIron.name=Small Gilded Iron Gear
     S:oredict.gearGtSmallGlass.name=Small Glass Gear
     S:oredict.gearGtSmallGneiss.name=Small Gneiss Gear
@@ -26755,6 +26967,7 @@ languagefile {
     S:oredict.ingotCadmium.name=Cadmium Ingot
     S:oredict.ingotCaesium.name=Caesium Ingot
     S:oredict.ingotCalcite.name=Calcite Ingot
+    S:oredict.ingotCalciumChloride.name=Calcium Chloride Ingot
     S:oredict.ingotCalifornium.name=Californium Ingot
     S:oredict.ingotCarborundum.name=Carborundum Ingot
     S:oredict.ingotCarmot.name=Carmot Ingot
@@ -27170,6 +27383,7 @@ languagefile {
     S:oredict.ingotFarnsium.name=Farnsium Ingot
     S:oredict.ingotFermium.name=Fermium Ingot
     S:oredict.ingotFerrite.name=Ferrite Ingot
+    S:oredict.ingotFerrousChloride.name=Ferrous Chloride Ingot
     S:oredict.ingotFierySteel.name=Fiery Steel Ingot
     S:oredict.ingotFishRotten.name=Rotten Fishmeal Ingot
     S:oredict.ingotFlerovium.name=Flerovium Ingot
@@ -27571,6 +27785,7 @@ languagefile {
     S:oredict.ingotLawrencium.name=Lawrencium Ingot
     S:oredict.ingotLead.name=Lead Ingot
     S:oredict.ingotLemurite.name=Lemurite Ingot
+    S:oredict.ingotLithiumChloride.name=Lithium Chloride Ingot
     S:oredict.ingotLivermorium.name=Livermorium Ingot
     S:oredict.ingotLudicrite.name=Ludicrite Ingot
     S:oredict.ingotLumium.name=Lumium Ingot
@@ -27578,8 +27793,10 @@ languagefile {
     S:oredict.ingotMagnalium.name=Magnalium Ingot
     S:oredict.ingotMagnesium.name=Magnesium Ingot
     S:oredict.ingotMagnesiumCarbonate.name=Magnesium Carbonate Ingot
+    S:oredict.ingotMagnesiumChloride.name=Magnesium Chloride Ingot
     S:oredict.ingotManasteel.name=Manasteel Ingot
     S:oredict.ingotManganese.name=Manganese Ingot
+    S:oredict.ingotManganeseChloride.name=Manganese Chloride Ingot
     S:oredict.ingotManyullyn.name=Manyullyn Ingot
     S:oredict.ingotMeatRotten.name=Rotten Meat Ingot
     S:oredict.ingotMeitnerium.name=Meitnerium Ingot
@@ -27623,6 +27840,7 @@ languagefile {
     S:oredict.ingotPlutonium241.name=Plutonium-241 Ingot
     S:oredict.ingotPlutonium243.name=Plutonium-243 Ingot
     S:oredict.ingotPolonium.name=Polonium Ingot
+    S:oredict.ingotPotassiumCarbonate.name=Potassium Carbonate Ingot
     S:oredict.ingotPraseodymium.name=Praseodymium Ingot
     S:oredict.ingotPrometheum.name=Prometheum Ingot
     S:oredict.ingotPromethium.name=Promethium Ingot
@@ -28927,6 +29145,7 @@ languagefile {
     S:oredict.minecartWheelsEnergeticAlloy.name=Energetic Alloy Cart Wheels
     S:oredict.minecartWheelsEximite.name=Eximite Cart Wheels
     S:oredict.minecartWheelsFierySteel.name=Fiery Steel Cart Wheels
+    S:oredict.minecartWheelsGermanium.name=Germanium Cart Wheels
     S:oredict.minecartWheelsGildedIron.name=Gilded Iron Cart Wheels
     S:oredict.minecartWheelsGold.name=Gold Cart Wheels
     S:oredict.minecartWheelsGoldInductive.name=Inductive Alloy Cart Wheels
@@ -29005,6 +29224,7 @@ languagefile {
     S:oredict.minecartWheelsTitaniumIridium.name=Iritanium Cart Wheels
     S:oredict.minecartWheelsTrinaquadalloy.name=Trinaquadalloy Cart Wheels
     S:oredict.minecartWheelsTrinitanium.name=Trinitanium Cart Wheels
+    S:oredict.minecartWheelsTrinium.name=Trinium Cart Wheels
     S:oredict.minecartWheelsTritanium.name=Tritanium Alloy Cart Wheels
     S:oredict.minecartWheelsTungsten.name=Tungsten Cart Wheels
     S:oredict.minecartWheelsTungstenCarbide.name=Tungsten Carbide Cart Wheels
@@ -29175,6 +29395,7 @@ languagefile {
     S:oredict.nuggetCadmium.name=Cadmium Nugget
     S:oredict.nuggetCaesium.name=Caesium Nugget
     S:oredict.nuggetCalcite.name=Calcite Nugget
+    S:oredict.nuggetCalciumChloride.name=Calcium Chloride Nugget
     S:oredict.nuggetCalifornium.name=Californium Nugget
     S:oredict.nuggetCarborundum.name=Carborundum Nugget
     S:oredict.nuggetCarmot.name=Carmot Nugget
@@ -29226,6 +29447,7 @@ languagefile {
     S:oredict.nuggetFarnsium.name=Farnsium Nugget
     S:oredict.nuggetFermium.name=Fermium Nugget
     S:oredict.nuggetFerrite.name=Ferrite Nugget
+    S:oredict.nuggetFerrousChloride.name=Ferrous Chloride Nugget
     S:oredict.nuggetFierySteel.name=Fiery Steel Nugget
     S:oredict.nuggetFishCooked.name=Cooked Fishmeal Nugget
     S:oredict.nuggetFishRaw.name=Raw Fishmeal Nugget
@@ -29266,6 +29488,7 @@ languagefile {
     S:oredict.nuggetLawrencium.name=Lawrencium Nugget
     S:oredict.nuggetLead.name=Lead Nugget
     S:oredict.nuggetLemurite.name=Lemurite Nugget
+    S:oredict.nuggetLithiumChloride.name=Lithium Chloride Nugget
     S:oredict.nuggetLivermorium.name=Livermorium Nugget
     S:oredict.nuggetLudicrite.name=Ludicrite Nugget
     S:oredict.nuggetLumium.name=Lumium Nugget
@@ -29273,8 +29496,10 @@ languagefile {
     S:oredict.nuggetMagnalium.name=Magnalium Nugget
     S:oredict.nuggetMagnesium.name=Magnesium Nugget
     S:oredict.nuggetMagnesiumCarbonate.name=Magnesium Carbonate Nugget
+    S:oredict.nuggetMagnesiumChloride.name=Magnesium Chloride Nugget
     S:oredict.nuggetManasteel.name=Manasteel Nugget
     S:oredict.nuggetManganese.name=Manganese Nugget
+    S:oredict.nuggetManganeseChloride.name=Manganese Chloride Nugget
     S:oredict.nuggetManyullyn.name=Manyullyn Nugget
     S:oredict.nuggetMeatCooked.name=Cooked Meat Nugget
     S:oredict.nuggetMeatRaw.name=Raw Meat Nugget
@@ -29321,6 +29546,7 @@ languagefile {
     S:oredict.nuggetPlutonium241.name=Plutonium-241 Nugget
     S:oredict.nuggetPlutonium243.name=Plutonium-243 Nugget
     S:oredict.nuggetPolonium.name=Polonium Nugget
+    S:oredict.nuggetPotassiumCarbonate.name=Potassium Carbonate Nugget
     S:oredict.nuggetPraseodymium.name=Praseodymium Nugget
     S:oredict.nuggetPrometheum.name=Prometheum Nugget
     S:oredict.nuggetPromethium.name=Promethium Nugget
@@ -29610,6 +29836,7 @@ languagefile {
     S:oredict.oreAndesiteCaesium.name=Andesite Caesium Ore
     S:oredict.oreAndesiteCalcite.name=Andesite Calcite Ore
     S:oredict.oreAndesiteCalcium.name=Andesite Calcium Ore
+    S:oredict.oreAndesiteCalciumChloride.name=Andesite Calcium Chloride Ore
     S:oredict.oreAndesiteCalifornium.name=Andesite Californium Ore
     S:oredict.oreAndesiteCarbon.name=Andesite Carbon Ore
     S:oredict.oreAndesiteCarbon13.name=Andesite Carbon-13 Ore
@@ -29673,6 +29900,7 @@ languagefile {
     S:oredict.oreAndesiteEuropium.name=Andesite Europium Ore
     S:oredict.oreAndesiteEximite.name=Andesite Eximite Ore
     S:oredict.oreAndesiteFarnsium.name=Andesite Farnsium Ore
+    S:oredict.oreAndesiteFerberite.name=Andesite Ferberite Ore
     S:oredict.oreAndesiteFermium.name=Andesite Fermium Ore
     S:oredict.oreAndesiteFerrite.name=Andesite Ferrite Ore
     S:oredict.oreAndesiteFerrovanadium.name=Andesite Ferrovanadium Ore
@@ -29747,6 +29975,7 @@ languagefile {
     S:oredict.oreAndesiteLigniteCoke.name=Andesite Lignite Coke Ore
     S:oredict.oreAndesiteLithium.name=Andesite Lithium Ore
     S:oredict.oreAndesiteLithium6.name=Andesite Lithium-6 Ore
+    S:oredict.oreAndesiteLithiumChloride.name=Andesite Lithium Chloride Ore
     S:oredict.oreAndesiteLivermorium.name=Andesite Livermorium Ore
     S:oredict.oreAndesiteLonsdaleite.name=Andesite Lonsdaleite Ore
     S:oredict.oreAndesiteLudicrite.name=Andesite Ludicrite Ore
@@ -29815,6 +30044,7 @@ languagefile {
     S:oredict.oreAndesitePolonium.name=Andesite Polonium Ore
     S:oredict.oreAndesitePotassium.name=Andesite Potassium Ore
     S:oredict.oreAndesitePotassiumFeldspar.name=Andesite Potassium Feldspar Ore
+    S:oredict.oreAndesitePotassiumNitrate.name=Andesite Potassium Nitrate Ore
     S:oredict.oreAndesitePowellite.name=Andesite Powellite Ore
     S:oredict.oreAndesitePraseodymium.name=Andesite Praseodymium Ore
     S:oredict.oreAndesitePrismane.name=Andesite Prismane Ore
@@ -29862,6 +30092,7 @@ languagefile {
     S:oredict.oreAndesiteSoapstone.name=Andesite Soapstone Ore
     S:oredict.oreAndesiteSodalite.name=Andesite Sodalite Ore
     S:oredict.oreAndesiteSodium.name=Andesite Sodium Ore
+    S:oredict.oreAndesiteSodiumNitrate.name=Andesite Sodium Nitrate Ore
     S:oredict.oreAndesiteSperrylite.name=Andesite Sperrylite Ore
     S:oredict.oreAndesiteSpessartine.name=Andesite Spessartine Ore
     S:oredict.oreAndesiteSphalerite.name=Andesite Sphalerite Ore
@@ -29899,6 +30130,7 @@ languagefile {
     S:oredict.oreAndesiteTrona.name=Andesite Trona Ore
     S:oredict.oreAndesiteTungstate.name=Andesite Tungstate Ore
     S:oredict.oreAndesiteTungsten.name=Andesite Tungsten Ore
+    S:oredict.oreAndesiteTungstenTrioxide.name=Andesite Tungsten Trioxide Ore
     S:oredict.oreAndesiteUnbinilium.name=Andesite Unbinilium Ore
     S:oredict.oreAndesiteUnunennium.name=Andesite Ununennium Ore
     S:oredict.oreAndesiteUraninite.name=Andesite Uraninite Ore
@@ -30245,6 +30477,7 @@ languagefile {
     S:oredict.oreBasaltCaesium.name=Basalt Caesium Ore
     S:oredict.oreBasaltCalcite.name=Basalt Calcite Ore
     S:oredict.oreBasaltCalcium.name=Basalt Calcium Ore
+    S:oredict.oreBasaltCalciumChloride.name=Basalt Calcium Chloride Ore
     S:oredict.oreBasaltCalifornium.name=Basalt Californium Ore
     S:oredict.oreBasaltCarbon.name=Basalt Carbon Ore
     S:oredict.oreBasaltCarbon13.name=Basalt Carbon-13 Ore
@@ -30308,6 +30541,7 @@ languagefile {
     S:oredict.oreBasaltEuropium.name=Basalt Europium Ore
     S:oredict.oreBasaltEximite.name=Basalt Eximite Ore
     S:oredict.oreBasaltFarnsium.name=Basalt Farnsium Ore
+    S:oredict.oreBasaltFerberite.name=Basalt Ferberite Ore
     S:oredict.oreBasaltFermium.name=Basalt Fermium Ore
     S:oredict.oreBasaltFerrite.name=Basalt Ferrite Ore
     S:oredict.oreBasaltFerrovanadium.name=Basalt Ferrovanadium Ore
@@ -30382,6 +30616,7 @@ languagefile {
     S:oredict.oreBasaltLigniteCoke.name=Basalt Lignite Coke Ore
     S:oredict.oreBasaltLithium.name=Basalt Lithium Ore
     S:oredict.oreBasaltLithium6.name=Basalt Lithium-6 Ore
+    S:oredict.oreBasaltLithiumChloride.name=Basalt Lithium Chloride Ore
     S:oredict.oreBasaltLivermorium.name=Basalt Livermorium Ore
     S:oredict.oreBasaltLonsdaleite.name=Basalt Lonsdaleite Ore
     S:oredict.oreBasaltLudicrite.name=Basalt Ludicrite Ore
@@ -30450,6 +30685,7 @@ languagefile {
     S:oredict.oreBasaltPolonium.name=Basalt Polonium Ore
     S:oredict.oreBasaltPotassium.name=Basalt Potassium Ore
     S:oredict.oreBasaltPotassiumFeldspar.name=Basalt Potassium Feldspar Ore
+    S:oredict.oreBasaltPotassiumNitrate.name=Basalt Potassium Nitrate Ore
     S:oredict.oreBasaltPowellite.name=Basalt Powellite Ore
     S:oredict.oreBasaltPraseodymium.name=Basalt Praseodymium Ore
     S:oredict.oreBasaltPrismane.name=Basalt Prismane Ore
@@ -30497,6 +30733,7 @@ languagefile {
     S:oredict.oreBasaltSoapstone.name=Basalt Soapstone Ore
     S:oredict.oreBasaltSodalite.name=Basalt Sodalite Ore
     S:oredict.oreBasaltSodium.name=Basalt Sodium Ore
+    S:oredict.oreBasaltSodiumNitrate.name=Basalt Sodium Nitrate Ore
     S:oredict.oreBasaltSperrylite.name=Basalt Sperrylite Ore
     S:oredict.oreBasaltSpessartine.name=Basalt Spessartine Ore
     S:oredict.oreBasaltSphalerite.name=Basalt Sphalerite Ore
@@ -30534,6 +30771,7 @@ languagefile {
     S:oredict.oreBasaltTrona.name=Basalt Trona Ore
     S:oredict.oreBasaltTungstate.name=Basalt Tungstate Ore
     S:oredict.oreBasaltTungsten.name=Basalt Tungsten Ore
+    S:oredict.oreBasaltTungstenTrioxide.name=Basalt Tungsten Trioxide Ore
     S:oredict.oreBasaltUnbinilium.name=Basalt Unbinilium Ore
     S:oredict.oreBasaltUnunennium.name=Basalt Ununennium Ore
     S:oredict.oreBasaltUraninite.name=Basalt Uraninite Ore
@@ -30742,6 +30980,7 @@ languagefile {
     S:oredict.oreBedrockCaesium.name=Bedrock Caesium Ore
     S:oredict.oreBedrockCalcite.name=Bedrock Calcite Ore
     S:oredict.oreBedrockCalcium.name=Bedrock Calcium Ore
+    S:oredict.oreBedrockCalciumChloride.name=Bedrock Calcium Chloride Ore
     S:oredict.oreBedrockCalifornium.name=Bedrock Californium Ore
     S:oredict.oreBedrockCarbon.name=Bedrock Carbon Ore
     S:oredict.oreBedrockCarbon13.name=Bedrock Carbon-13 Ore
@@ -30805,6 +31044,7 @@ languagefile {
     S:oredict.oreBedrockEuropium.name=Bedrock Europium Ore
     S:oredict.oreBedrockEximite.name=Bedrock Eximite Ore
     S:oredict.oreBedrockFarnsium.name=Bedrock Farnsium Ore
+    S:oredict.oreBedrockFerberite.name=Bedrock Ferberite Ore
     S:oredict.oreBedrockFermium.name=Bedrock Fermium Ore
     S:oredict.oreBedrockFerrite.name=Bedrock Ferrite Ore
     S:oredict.oreBedrockFerrovanadium.name=Bedrock Ferrovanadium Ore
@@ -30879,6 +31119,7 @@ languagefile {
     S:oredict.oreBedrockLigniteCoke.name=Bedrock Lignite Coke Ore
     S:oredict.oreBedrockLithium.name=Bedrock Lithium Ore
     S:oredict.oreBedrockLithium6.name=Bedrock Lithium-6 Ore
+    S:oredict.oreBedrockLithiumChloride.name=Bedrock Lithium Chloride Ore
     S:oredict.oreBedrockLivermorium.name=Bedrock Livermorium Ore
     S:oredict.oreBedrockLonsdaleite.name=Bedrock Lonsdaleite Ore
     S:oredict.oreBedrockLudicrite.name=Bedrock Ludicrite Ore
@@ -30947,6 +31188,7 @@ languagefile {
     S:oredict.oreBedrockPolonium.name=Bedrock Polonium Ore
     S:oredict.oreBedrockPotassium.name=Bedrock Potassium Ore
     S:oredict.oreBedrockPotassiumFeldspar.name=Bedrock Potassium Feldspar Ore
+    S:oredict.oreBedrockPotassiumNitrate.name=Bedrock Potassium Nitrate Ore
     S:oredict.oreBedrockPowellite.name=Bedrock Powellite Ore
     S:oredict.oreBedrockPraseodymium.name=Bedrock Praseodymium Ore
     S:oredict.oreBedrockPrismane.name=Bedrock Prismane Ore
@@ -30994,6 +31236,7 @@ languagefile {
     S:oredict.oreBedrockSoapstone.name=Bedrock Soapstone Ore
     S:oredict.oreBedrockSodalite.name=Bedrock Sodalite Ore
     S:oredict.oreBedrockSodium.name=Bedrock Sodium Ore
+    S:oredict.oreBedrockSodiumNitrate.name=Bedrock Sodium Nitrate Ore
     S:oredict.oreBedrockSperrylite.name=Bedrock Sperrylite Ore
     S:oredict.oreBedrockSpessartine.name=Bedrock Spessartine Ore
     S:oredict.oreBedrockSphalerite.name=Bedrock Sphalerite Ore
@@ -31031,6 +31274,7 @@ languagefile {
     S:oredict.oreBedrockTrona.name=Bedrock Trona Ore
     S:oredict.oreBedrockTungstate.name=Bedrock Tungstate Ore
     S:oredict.oreBedrockTungsten.name=Bedrock Tungsten Ore
+    S:oredict.oreBedrockTungstenTrioxide.name=Bedrock Tungsten Trioxide Ore
     S:oredict.oreBedrockUnbinilium.name=Bedrock Unbinilium Ore
     S:oredict.oreBedrockUnunennium.name=Bedrock Ununennium Ore
     S:oredict.oreBedrockUraninite.name=Bedrock Uraninite Ore
@@ -31242,6 +31486,7 @@ languagefile {
     S:oredict.oreBlackgraniteCaesium.name=Granite Caesium Ore
     S:oredict.oreBlackgraniteCalcite.name=Granite Calcite Ore
     S:oredict.oreBlackgraniteCalcium.name=Granite Calcium Ore
+    S:oredict.oreBlackgraniteCalciumChloride.name=Granite Calcium Chloride Ore
     S:oredict.oreBlackgraniteCalifornium.name=Granite Californium Ore
     S:oredict.oreBlackgraniteCarbon.name=Granite Carbon Ore
     S:oredict.oreBlackgraniteCarbon13.name=Granite Carbon-13 Ore
@@ -31305,6 +31550,7 @@ languagefile {
     S:oredict.oreBlackgraniteEuropium.name=Granite Europium Ore
     S:oredict.oreBlackgraniteEximite.name=Granite Eximite Ore
     S:oredict.oreBlackgraniteFarnsium.name=Granite Farnsium Ore
+    S:oredict.oreBlackgraniteFerberite.name=Granite Ferberite Ore
     S:oredict.oreBlackgraniteFermium.name=Granite Fermium Ore
     S:oredict.oreBlackgraniteFerrite.name=Granite Ferrite Ore
     S:oredict.oreBlackgraniteFerrovanadium.name=Granite Ferrovanadium Ore
@@ -31379,6 +31625,7 @@ languagefile {
     S:oredict.oreBlackgraniteLigniteCoke.name=Granite Lignite Coke Ore
     S:oredict.oreBlackgraniteLithium.name=Granite Lithium Ore
     S:oredict.oreBlackgraniteLithium6.name=Granite Lithium-6 Ore
+    S:oredict.oreBlackgraniteLithiumChloride.name=Granite Lithium Chloride Ore
     S:oredict.oreBlackgraniteLivermorium.name=Granite Livermorium Ore
     S:oredict.oreBlackgraniteLonsdaleite.name=Granite Lonsdaleite Ore
     S:oredict.oreBlackgraniteLudicrite.name=Granite Ludicrite Ore
@@ -31447,6 +31694,7 @@ languagefile {
     S:oredict.oreBlackgranitePolonium.name=Granite Polonium Ore
     S:oredict.oreBlackgranitePotassium.name=Granite Potassium Ore
     S:oredict.oreBlackgranitePotassiumFeldspar.name=Granite Potassium Feldspar Ore
+    S:oredict.oreBlackgranitePotassiumNitrate.name=Granite Potassium Nitrate Ore
     S:oredict.oreBlackgranitePowellite.name=Granite Powellite Ore
     S:oredict.oreBlackgranitePraseodymium.name=Granite Praseodymium Ore
     S:oredict.oreBlackgranitePrismane.name=Granite Prismane Ore
@@ -31494,6 +31742,7 @@ languagefile {
     S:oredict.oreBlackgraniteSoapstone.name=Granite Soapstone Ore
     S:oredict.oreBlackgraniteSodalite.name=Granite Sodalite Ore
     S:oredict.oreBlackgraniteSodium.name=Granite Sodium Ore
+    S:oredict.oreBlackgraniteSodiumNitrate.name=Granite Sodium Nitrate Ore
     S:oredict.oreBlackgraniteSperrylite.name=Granite Sperrylite Ore
     S:oredict.oreBlackgraniteSpessartine.name=Granite Spessartine Ore
     S:oredict.oreBlackgraniteSphalerite.name=Granite Sphalerite Ore
@@ -31531,6 +31780,7 @@ languagefile {
     S:oredict.oreBlackgraniteTrona.name=Granite Trona Ore
     S:oredict.oreBlackgraniteTungstate.name=Granite Tungstate Ore
     S:oredict.oreBlackgraniteTungsten.name=Granite Tungsten Ore
+    S:oredict.oreBlackgraniteTungstenTrioxide.name=Granite Tungsten Trioxide Ore
     S:oredict.oreBlackgraniteUnbinilium.name=Granite Unbinilium Ore
     S:oredict.oreBlackgraniteUnunennium.name=Granite Ununennium Ore
     S:oredict.oreBlackgraniteUraninite.name=Granite Uraninite Ore
@@ -31569,6 +31819,7 @@ languagefile {
     S:oredict.oreCaesium.name=Caesium Ore
     S:oredict.oreCalcite.name=Calcite Ore
     S:oredict.oreCalcium.name=Calcium Ore
+    S:oredict.oreCalciumChloride.name=Calcium Chloride Ore
     S:oredict.oreCalifornium.name=Californium Ore
     S:oredict.oreCarbon.name=Carbon Ore
     S:oredict.oreCarbon13.name=Carbon-13 Ore
@@ -31790,6 +32041,7 @@ languagefile {
     S:oredict.oreDioriteCaesium.name=Diorite Caesium Ore
     S:oredict.oreDioriteCalcite.name=Diorite Calcite Ore
     S:oredict.oreDioriteCalcium.name=Diorite Calcium Ore
+    S:oredict.oreDioriteCalciumChloride.name=Diorite Calcium Chloride Ore
     S:oredict.oreDioriteCalifornium.name=Diorite Californium Ore
     S:oredict.oreDioriteCarbon.name=Diorite Carbon Ore
     S:oredict.oreDioriteCarbon13.name=Diorite Carbon-13 Ore
@@ -31853,6 +32105,7 @@ languagefile {
     S:oredict.oreDioriteEuropium.name=Diorite Europium Ore
     S:oredict.oreDioriteEximite.name=Diorite Eximite Ore
     S:oredict.oreDioriteFarnsium.name=Diorite Farnsium Ore
+    S:oredict.oreDioriteFerberite.name=Diorite Ferberite Ore
     S:oredict.oreDioriteFermium.name=Diorite Fermium Ore
     S:oredict.oreDioriteFerrite.name=Diorite Ferrite Ore
     S:oredict.oreDioriteFerrovanadium.name=Diorite Ferrovanadium Ore
@@ -31927,6 +32180,7 @@ languagefile {
     S:oredict.oreDioriteLigniteCoke.name=Diorite Lignite Coke Ore
     S:oredict.oreDioriteLithium.name=Diorite Lithium Ore
     S:oredict.oreDioriteLithium6.name=Diorite Lithium-6 Ore
+    S:oredict.oreDioriteLithiumChloride.name=Diorite Lithium Chloride Ore
     S:oredict.oreDioriteLivermorium.name=Diorite Livermorium Ore
     S:oredict.oreDioriteLonsdaleite.name=Diorite Lonsdaleite Ore
     S:oredict.oreDioriteLudicrite.name=Diorite Ludicrite Ore
@@ -31995,6 +32249,7 @@ languagefile {
     S:oredict.oreDioritePolonium.name=Diorite Polonium Ore
     S:oredict.oreDioritePotassium.name=Diorite Potassium Ore
     S:oredict.oreDioritePotassiumFeldspar.name=Diorite Potassium Feldspar Ore
+    S:oredict.oreDioritePotassiumNitrate.name=Diorite Potassium Nitrate Ore
     S:oredict.oreDioritePowellite.name=Diorite Powellite Ore
     S:oredict.oreDioritePraseodymium.name=Diorite Praseodymium Ore
     S:oredict.oreDioritePrismane.name=Diorite Prismane Ore
@@ -32042,6 +32297,7 @@ languagefile {
     S:oredict.oreDioriteSoapstone.name=Diorite Soapstone Ore
     S:oredict.oreDioriteSodalite.name=Diorite Sodalite Ore
     S:oredict.oreDioriteSodium.name=Diorite Sodium Ore
+    S:oredict.oreDioriteSodiumNitrate.name=Diorite Sodium Nitrate Ore
     S:oredict.oreDioriteSperrylite.name=Diorite Sperrylite Ore
     S:oredict.oreDioriteSpessartine.name=Diorite Spessartine Ore
     S:oredict.oreDioriteSphalerite.name=Diorite Sphalerite Ore
@@ -32079,6 +32335,7 @@ languagefile {
     S:oredict.oreDioriteTrona.name=Diorite Trona Ore
     S:oredict.oreDioriteTungstate.name=Diorite Tungstate Ore
     S:oredict.oreDioriteTungsten.name=Diorite Tungsten Ore
+    S:oredict.oreDioriteTungstenTrioxide.name=Diorite Tungsten Trioxide Ore
     S:oredict.oreDioriteUnbinilium.name=Diorite Unbinilium Ore
     S:oredict.oreDioriteUnunennium.name=Diorite Ununennium Ore
     S:oredict.oreDioriteUraninite.name=Diorite Uraninite Ore
@@ -32301,6 +32558,7 @@ languagefile {
     S:oredict.oreEndstoneCaesium.name=End Caesium Ore
     S:oredict.oreEndstoneCalcite.name=End Calcite Ore
     S:oredict.oreEndstoneCalcium.name=End Calcium Ore
+    S:oredict.oreEndstoneCalciumChloride.name=End Calcium Chloride Ore
     S:oredict.oreEndstoneCalifornium.name=End Californium Ore
     S:oredict.oreEndstoneCarbon.name=End Carbon Ore
     S:oredict.oreEndstoneCarbon13.name=End Carbon-13 Ore
@@ -32364,6 +32622,7 @@ languagefile {
     S:oredict.oreEndstoneEuropium.name=End Europium Ore
     S:oredict.oreEndstoneEximite.name=End Eximite Ore
     S:oredict.oreEndstoneFarnsium.name=End Farnsium Ore
+    S:oredict.oreEndstoneFerberite.name=End Ferberite Ore
     S:oredict.oreEndstoneFermium.name=End Fermium Ore
     S:oredict.oreEndstoneFerrite.name=End Ferrite Ore
     S:oredict.oreEndstoneFerrovanadium.name=End Ferrovanadium Ore
@@ -32438,6 +32697,7 @@ languagefile {
     S:oredict.oreEndstoneLigniteCoke.name=End Lignite Coke Ore
     S:oredict.oreEndstoneLithium.name=End Lithium Ore
     S:oredict.oreEndstoneLithium6.name=End Lithium-6 Ore
+    S:oredict.oreEndstoneLithiumChloride.name=End Lithium Chloride Ore
     S:oredict.oreEndstoneLivermorium.name=End Livermorium Ore
     S:oredict.oreEndstoneLonsdaleite.name=End Lonsdaleite Ore
     S:oredict.oreEndstoneLudicrite.name=End Ludicrite Ore
@@ -32506,6 +32766,7 @@ languagefile {
     S:oredict.oreEndstonePolonium.name=End Polonium Ore
     S:oredict.oreEndstonePotassium.name=End Potassium Ore
     S:oredict.oreEndstonePotassiumFeldspar.name=End Potassium Feldspar Ore
+    S:oredict.oreEndstonePotassiumNitrate.name=End Potassium Nitrate Ore
     S:oredict.oreEndstonePowellite.name=End Powellite Ore
     S:oredict.oreEndstonePraseodymium.name=End Praseodymium Ore
     S:oredict.oreEndstonePrismane.name=End Prismane Ore
@@ -32553,6 +32814,7 @@ languagefile {
     S:oredict.oreEndstoneSoapstone.name=End Soapstone Ore
     S:oredict.oreEndstoneSodalite.name=End Sodalite Ore
     S:oredict.oreEndstoneSodium.name=End Sodium Ore
+    S:oredict.oreEndstoneSodiumNitrate.name=End Sodium Nitrate Ore
     S:oredict.oreEndstoneSperrylite.name=End Sperrylite Ore
     S:oredict.oreEndstoneSpessartine.name=End Spessartine Ore
     S:oredict.oreEndstoneSphalerite.name=End Sphalerite Ore
@@ -32590,6 +32852,7 @@ languagefile {
     S:oredict.oreEndstoneTrona.name=End Trona Ore
     S:oredict.oreEndstoneTungstate.name=End Tungstate Ore
     S:oredict.oreEndstoneTungsten.name=End Tungsten Ore
+    S:oredict.oreEndstoneTungstenTrioxide.name=End Tungsten Trioxide Ore
     S:oredict.oreEndstoneUnbinilium.name=End Unbinilium Ore
     S:oredict.oreEndstoneUnunennium.name=End Ununennium Ore
     S:oredict.oreEndstoneUraninite.name=End Uraninite Ore
@@ -32620,6 +32883,7 @@ languagefile {
     S:oredict.oreEuropium.name=Europium Ore
     S:oredict.oreEximite.name=Eximite Ore
     S:oredict.oreFarnsium.name=Farnsium Ore
+    S:oredict.oreFerberite.name=Ferberite Ore
     S:oredict.oreFermium.name=Fermium Ore
     S:oredict.oreFerrite.name=Ferrite Ore
     S:oredict.oreFerrovanadium.name=Ferrovanadium Ore
@@ -32832,6 +33096,7 @@ languagefile {
     S:oredict.oreGravelCaesium.name=Gravel Caesium Ore
     S:oredict.oreGravelCalcite.name=Gravel Calcite Ore
     S:oredict.oreGravelCalcium.name=Gravel Calcium Ore
+    S:oredict.oreGravelCalciumChloride.name=Gravel Calcium Chloride Ore
     S:oredict.oreGravelCalifornium.name=Gravel Californium Ore
     S:oredict.oreGravelCarbon.name=Gravel Carbon Ore
     S:oredict.oreGravelCarbon13.name=Gravel Carbon-13 Ore
@@ -32895,6 +33160,7 @@ languagefile {
     S:oredict.oreGravelEuropium.name=Gravel Europium Ore
     S:oredict.oreGravelEximite.name=Gravel Eximite Ore
     S:oredict.oreGravelFarnsium.name=Gravel Farnsium Ore
+    S:oredict.oreGravelFerberite.name=Gravel Ferberite Ore
     S:oredict.oreGravelFermium.name=Gravel Fermium Ore
     S:oredict.oreGravelFerrite.name=Gravel Ferrite Ore
     S:oredict.oreGravelFerrovanadium.name=Gravel Ferrovanadium Ore
@@ -32969,6 +33235,7 @@ languagefile {
     S:oredict.oreGravelLigniteCoke.name=Gravel Lignite Coke Ore
     S:oredict.oreGravelLithium.name=Gravel Lithium Ore
     S:oredict.oreGravelLithium6.name=Gravel Lithium-6 Ore
+    S:oredict.oreGravelLithiumChloride.name=Gravel Lithium Chloride Ore
     S:oredict.oreGravelLivermorium.name=Gravel Livermorium Ore
     S:oredict.oreGravelLonsdaleite.name=Gravel Lonsdaleite Ore
     S:oredict.oreGravelLudicrite.name=Gravel Ludicrite Ore
@@ -33037,6 +33304,7 @@ languagefile {
     S:oredict.oreGravelPolonium.name=Gravel Polonium Ore
     S:oredict.oreGravelPotassium.name=Gravel Potassium Ore
     S:oredict.oreGravelPotassiumFeldspar.name=Gravel Potassium Feldspar Ore
+    S:oredict.oreGravelPotassiumNitrate.name=Gravel Potassium Nitrate Ore
     S:oredict.oreGravelPowellite.name=Gravel Powellite Ore
     S:oredict.oreGravelPraseodymium.name=Gravel Praseodymium Ore
     S:oredict.oreGravelPrismane.name=Gravel Prismane Ore
@@ -33084,6 +33352,7 @@ languagefile {
     S:oredict.oreGravelSoapstone.name=Gravel Soapstone Ore
     S:oredict.oreGravelSodalite.name=Gravel Sodalite Ore
     S:oredict.oreGravelSodium.name=Gravel Sodium Ore
+    S:oredict.oreGravelSodiumNitrate.name=Gravel Sodium Nitrate Ore
     S:oredict.oreGravelSperrylite.name=Gravel Sperrylite Ore
     S:oredict.oreGravelSpessartine.name=Gravel Spessartine Ore
     S:oredict.oreGravelSphalerite.name=Gravel Sphalerite Ore
@@ -33121,6 +33390,7 @@ languagefile {
     S:oredict.oreGravelTrona.name=Gravel Trona Ore
     S:oredict.oreGravelTungstate.name=Gravel Tungstate Ore
     S:oredict.oreGravelTungsten.name=Gravel Tungsten Ore
+    S:oredict.oreGravelTungstenTrioxide.name=Gravel Tungsten Trioxide Ore
     S:oredict.oreGravelUnbinilium.name=Gravel Unbinilium Ore
     S:oredict.oreGravelUnunennium.name=Gravel Ununennium Ore
     S:oredict.oreGravelUraninite.name=Gravel Uraninite Ore
@@ -33365,6 +33635,7 @@ languagefile {
     S:oredict.oreLimestoneCaesium.name=Limestone Caesium Ore
     S:oredict.oreLimestoneCalcite.name=Limestone Calcite Ore
     S:oredict.oreLimestoneCalcium.name=Limestone Calcium Ore
+    S:oredict.oreLimestoneCalciumChloride.name=Limestone Calcium Chloride Ore
     S:oredict.oreLimestoneCalifornium.name=Limestone Californium Ore
     S:oredict.oreLimestoneCarbon.name=Limestone Carbon Ore
     S:oredict.oreLimestoneCarbon13.name=Limestone Carbon-13 Ore
@@ -33428,6 +33699,7 @@ languagefile {
     S:oredict.oreLimestoneEuropium.name=Limestone Europium Ore
     S:oredict.oreLimestoneEximite.name=Limestone Eximite Ore
     S:oredict.oreLimestoneFarnsium.name=Limestone Farnsium Ore
+    S:oredict.oreLimestoneFerberite.name=Limestone Ferberite Ore
     S:oredict.oreLimestoneFermium.name=Limestone Fermium Ore
     S:oredict.oreLimestoneFerrite.name=Limestone Ferrite Ore
     S:oredict.oreLimestoneFerrovanadium.name=Limestone Ferrovanadium Ore
@@ -33502,6 +33774,7 @@ languagefile {
     S:oredict.oreLimestoneLigniteCoke.name=Limestone Lignite Coke Ore
     S:oredict.oreLimestoneLithium.name=Limestone Lithium Ore
     S:oredict.oreLimestoneLithium6.name=Limestone Lithium-6 Ore
+    S:oredict.oreLimestoneLithiumChloride.name=Limestone Lithium Chloride Ore
     S:oredict.oreLimestoneLivermorium.name=Limestone Livermorium Ore
     S:oredict.oreLimestoneLonsdaleite.name=Limestone Lonsdaleite Ore
     S:oredict.oreLimestoneLudicrite.name=Limestone Ludicrite Ore
@@ -33570,6 +33843,7 @@ languagefile {
     S:oredict.oreLimestonePolonium.name=Limestone Polonium Ore
     S:oredict.oreLimestonePotassium.name=Limestone Potassium Ore
     S:oredict.oreLimestonePotassiumFeldspar.name=Limestone Potassium Feldspar Ore
+    S:oredict.oreLimestonePotassiumNitrate.name=Limestone Potassium Nitrate Ore
     S:oredict.oreLimestonePowellite.name=Limestone Powellite Ore
     S:oredict.oreLimestonePraseodymium.name=Limestone Praseodymium Ore
     S:oredict.oreLimestonePrismane.name=Limestone Prismane Ore
@@ -33617,6 +33891,7 @@ languagefile {
     S:oredict.oreLimestoneSoapstone.name=Limestone Soapstone Ore
     S:oredict.oreLimestoneSodalite.name=Limestone Sodalite Ore
     S:oredict.oreLimestoneSodium.name=Limestone Sodium Ore
+    S:oredict.oreLimestoneSodiumNitrate.name=Limestone Sodium Nitrate Ore
     S:oredict.oreLimestoneSperrylite.name=Limestone Sperrylite Ore
     S:oredict.oreLimestoneSpessartine.name=Limestone Spessartine Ore
     S:oredict.oreLimestoneSphalerite.name=Limestone Sphalerite Ore
@@ -33654,6 +33929,7 @@ languagefile {
     S:oredict.oreLimestoneTrona.name=Limestone Trona Ore
     S:oredict.oreLimestoneTungstate.name=Limestone Tungstate Ore
     S:oredict.oreLimestoneTungsten.name=Limestone Tungsten Ore
+    S:oredict.oreLimestoneTungstenTrioxide.name=Limestone Tungsten Trioxide Ore
     S:oredict.oreLimestoneUnbinilium.name=Limestone Unbinilium Ore
     S:oredict.oreLimestoneUnunennium.name=Limestone Ununennium Ore
     S:oredict.oreLimestoneUraninite.name=Limestone Uraninite Ore
@@ -33682,6 +33958,7 @@ languagefile {
     S:oredict.oreLimestoneZirconium.name=Limestone Zirconium Ore
     S:oredict.oreLithium.name=Lithium Ore
     S:oredict.oreLithium6.name=Lithium-6 Ore
+    S:oredict.oreLithiumChloride.name=Lithium Chloride Ore
     S:oredict.oreLivermorium.name=Livermorium Ore
     S:oredict.oreLonsdaleite.name=Lonsdaleite Ore
     S:oredict.oreLudicrite.name=Ludicrite Ore
@@ -33872,6 +34149,7 @@ languagefile {
     S:oredict.oreMarbleCaesium.name=Marble Caesium Ore
     S:oredict.oreMarbleCalcite.name=Marble Calcite Ore
     S:oredict.oreMarbleCalcium.name=Marble Calcium Ore
+    S:oredict.oreMarbleCalciumChloride.name=Marble Calcium Chloride Ore
     S:oredict.oreMarbleCalifornium.name=Marble Californium Ore
     S:oredict.oreMarbleCarbon.name=Marble Carbon Ore
     S:oredict.oreMarbleCarbon13.name=Marble Carbon-13 Ore
@@ -33935,6 +34213,7 @@ languagefile {
     S:oredict.oreMarbleEuropium.name=Marble Europium Ore
     S:oredict.oreMarbleEximite.name=Marble Eximite Ore
     S:oredict.oreMarbleFarnsium.name=Marble Farnsium Ore
+    S:oredict.oreMarbleFerberite.name=Marble Ferberite Ore
     S:oredict.oreMarbleFermium.name=Marble Fermium Ore
     S:oredict.oreMarbleFerrite.name=Marble Ferrite Ore
     S:oredict.oreMarbleFerrovanadium.name=Marble Ferrovanadium Ore
@@ -34009,6 +34288,7 @@ languagefile {
     S:oredict.oreMarbleLigniteCoke.name=Marble Lignite Coke Ore
     S:oredict.oreMarbleLithium.name=Marble Lithium Ore
     S:oredict.oreMarbleLithium6.name=Marble Lithium-6 Ore
+    S:oredict.oreMarbleLithiumChloride.name=Marble Lithium Chloride Ore
     S:oredict.oreMarbleLivermorium.name=Marble Livermorium Ore
     S:oredict.oreMarbleLonsdaleite.name=Marble Lonsdaleite Ore
     S:oredict.oreMarbleLudicrite.name=Marble Ludicrite Ore
@@ -34077,6 +34357,7 @@ languagefile {
     S:oredict.oreMarblePolonium.name=Marble Polonium Ore
     S:oredict.oreMarblePotassium.name=Marble Potassium Ore
     S:oredict.oreMarblePotassiumFeldspar.name=Marble Potassium Feldspar Ore
+    S:oredict.oreMarblePotassiumNitrate.name=Marble Potassium Nitrate Ore
     S:oredict.oreMarblePowellite.name=Marble Powellite Ore
     S:oredict.oreMarblePraseodymium.name=Marble Praseodymium Ore
     S:oredict.oreMarblePrismane.name=Marble Prismane Ore
@@ -34124,6 +34405,7 @@ languagefile {
     S:oredict.oreMarbleSoapstone.name=Marble Soapstone Ore
     S:oredict.oreMarbleSodalite.name=Marble Sodalite Ore
     S:oredict.oreMarbleSodium.name=Marble Sodium Ore
+    S:oredict.oreMarbleSodiumNitrate.name=Marble Sodium Nitrate Ore
     S:oredict.oreMarbleSperrylite.name=Marble Sperrylite Ore
     S:oredict.oreMarbleSpessartine.name=Marble Spessartine Ore
     S:oredict.oreMarbleSphalerite.name=Marble Sphalerite Ore
@@ -34161,6 +34443,7 @@ languagefile {
     S:oredict.oreMarbleTrona.name=Marble Trona Ore
     S:oredict.oreMarbleTungstate.name=Marble Tungstate Ore
     S:oredict.oreMarbleTungsten.name=Marble Tungsten Ore
+    S:oredict.oreMarbleTungstenTrioxide.name=Marble Tungsten Trioxide Ore
     S:oredict.oreMarbleUnbinilium.name=Marble Unbinilium Ore
     S:oredict.oreMarbleUnunennium.name=Marble Ununennium Ore
     S:oredict.oreMarbleUraninite.name=Marble Uraninite Ore
@@ -34366,6 +34649,7 @@ languagefile {
     S:oredict.oreMarsCaesium.name=Mars Caesium Ore
     S:oredict.oreMarsCalcite.name=Mars Calcite Ore
     S:oredict.oreMarsCalcium.name=Mars Calcium Ore
+    S:oredict.oreMarsCalciumChloride.name=Mars Calcium Chloride Ore
     S:oredict.oreMarsCalifornium.name=Mars Californium Ore
     S:oredict.oreMarsCarbon.name=Mars Carbon Ore
     S:oredict.oreMarsCarbon13.name=Mars Carbon-13 Ore
@@ -34429,6 +34713,7 @@ languagefile {
     S:oredict.oreMarsEuropium.name=Mars Europium Ore
     S:oredict.oreMarsEximite.name=Mars Eximite Ore
     S:oredict.oreMarsFarnsium.name=Mars Farnsium Ore
+    S:oredict.oreMarsFerberite.name=Mars Ferberite Ore
     S:oredict.oreMarsFermium.name=Mars Fermium Ore
     S:oredict.oreMarsFerrite.name=Mars Ferrite Ore
     S:oredict.oreMarsFerrovanadium.name=Mars Ferrovanadium Ore
@@ -34503,6 +34788,7 @@ languagefile {
     S:oredict.oreMarsLigniteCoke.name=Mars Lignite Coke Ore
     S:oredict.oreMarsLithium.name=Mars Lithium Ore
     S:oredict.oreMarsLithium6.name=Mars Lithium-6 Ore
+    S:oredict.oreMarsLithiumChloride.name=Mars Lithium Chloride Ore
     S:oredict.oreMarsLivermorium.name=Mars Livermorium Ore
     S:oredict.oreMarsLonsdaleite.name=Mars Lonsdaleite Ore
     S:oredict.oreMarsLudicrite.name=Mars Ludicrite Ore
@@ -34571,6 +34857,7 @@ languagefile {
     S:oredict.oreMarsPolonium.name=Mars Polonium Ore
     S:oredict.oreMarsPotassium.name=Mars Potassium Ore
     S:oredict.oreMarsPotassiumFeldspar.name=Mars Potassium Feldspar Ore
+    S:oredict.oreMarsPotassiumNitrate.name=Mars Potassium Nitrate Ore
     S:oredict.oreMarsPowellite.name=Mars Powellite Ore
     S:oredict.oreMarsPraseodymium.name=Mars Praseodymium Ore
     S:oredict.oreMarsPrismane.name=Mars Prismane Ore
@@ -34618,6 +34905,7 @@ languagefile {
     S:oredict.oreMarsSoapstone.name=Mars Soapstone Ore
     S:oredict.oreMarsSodalite.name=Mars Sodalite Ore
     S:oredict.oreMarsSodium.name=Mars Sodium Ore
+    S:oredict.oreMarsSodiumNitrate.name=Mars Sodium Nitrate Ore
     S:oredict.oreMarsSperrylite.name=Mars Sperrylite Ore
     S:oredict.oreMarsSpessartine.name=Mars Spessartine Ore
     S:oredict.oreMarsSphalerite.name=Mars Sphalerite Ore
@@ -34655,6 +34943,7 @@ languagefile {
     S:oredict.oreMarsTrona.name=Mars Trona Ore
     S:oredict.oreMarsTungstate.name=Mars Tungstate Ore
     S:oredict.oreMarsTungsten.name=Mars Tungsten Ore
+    S:oredict.oreMarsTungstenTrioxide.name=Mars Tungsten Trioxide Ore
     S:oredict.oreMarsUnbinilium.name=Mars Unbinilium Ore
     S:oredict.oreMarsUnunennium.name=Mars Ununennium Ore
     S:oredict.oreMarsUraninite.name=Mars Uraninite Ore
@@ -34873,6 +35162,7 @@ languagefile {
     S:oredict.oreMoonCaesium.name=Moon Caesium Ore
     S:oredict.oreMoonCalcite.name=Moon Calcite Ore
     S:oredict.oreMoonCalcium.name=Moon Calcium Ore
+    S:oredict.oreMoonCalciumChloride.name=Moon Calcium Chloride Ore
     S:oredict.oreMoonCalifornium.name=Moon Californium Ore
     S:oredict.oreMoonCarbon.name=Moon Carbon Ore
     S:oredict.oreMoonCarbon13.name=Moon Carbon-13 Ore
@@ -34936,6 +35226,7 @@ languagefile {
     S:oredict.oreMoonEuropium.name=Moon Europium Ore
     S:oredict.oreMoonEximite.name=Moon Eximite Ore
     S:oredict.oreMoonFarnsium.name=Moon Farnsium Ore
+    S:oredict.oreMoonFerberite.name=Moon Ferberite Ore
     S:oredict.oreMoonFermium.name=Moon Fermium Ore
     S:oredict.oreMoonFerrite.name=Moon Ferrite Ore
     S:oredict.oreMoonFerrovanadium.name=Moon Ferrovanadium Ore
@@ -35010,6 +35301,7 @@ languagefile {
     S:oredict.oreMoonLigniteCoke.name=Moon Lignite Coke Ore
     S:oredict.oreMoonLithium.name=Moon Lithium Ore
     S:oredict.oreMoonLithium6.name=Moon Lithium-6 Ore
+    S:oredict.oreMoonLithiumChloride.name=Moon Lithium Chloride Ore
     S:oredict.oreMoonLivermorium.name=Moon Livermorium Ore
     S:oredict.oreMoonLonsdaleite.name=Moon Lonsdaleite Ore
     S:oredict.oreMoonLudicrite.name=Moon Ludicrite Ore
@@ -35078,6 +35370,7 @@ languagefile {
     S:oredict.oreMoonPolonium.name=Moon Polonium Ore
     S:oredict.oreMoonPotassium.name=Moon Potassium Ore
     S:oredict.oreMoonPotassiumFeldspar.name=Moon Potassium Feldspar Ore
+    S:oredict.oreMoonPotassiumNitrate.name=Moon Potassium Nitrate Ore
     S:oredict.oreMoonPowellite.name=Moon Powellite Ore
     S:oredict.oreMoonPraseodymium.name=Moon Praseodymium Ore
     S:oredict.oreMoonPrismane.name=Moon Prismane Ore
@@ -35125,6 +35418,7 @@ languagefile {
     S:oredict.oreMoonSoapstone.name=Moon Soapstone Ore
     S:oredict.oreMoonSodalite.name=Moon Sodalite Ore
     S:oredict.oreMoonSodium.name=Moon Sodium Ore
+    S:oredict.oreMoonSodiumNitrate.name=Moon Sodium Nitrate Ore
     S:oredict.oreMoonSperrylite.name=Moon Sperrylite Ore
     S:oredict.oreMoonSpessartine.name=Moon Spessartine Ore
     S:oredict.oreMoonSphalerite.name=Moon Sphalerite Ore
@@ -35162,6 +35456,7 @@ languagefile {
     S:oredict.oreMoonTrona.name=Moon Trona Ore
     S:oredict.oreMoonTungstate.name=Moon Tungstate Ore
     S:oredict.oreMoonTungsten.name=Moon Tungsten Ore
+    S:oredict.oreMoonTungstenTrioxide.name=Moon Tungsten Trioxide Ore
     S:oredict.oreMoonUnbinilium.name=Moon Unbinilium Ore
     S:oredict.oreMoonUnunennium.name=Moon Ununennium Ore
     S:oredict.oreMoonUraninite.name=Moon Uraninite Ore
@@ -35369,6 +35664,7 @@ languagefile {
     S:oredict.oreMudCaesium.name=Mud Caesium Ore
     S:oredict.oreMudCalcite.name=Mud Calcite Ore
     S:oredict.oreMudCalcium.name=Mud Calcium Ore
+    S:oredict.oreMudCalciumChloride.name=Mud Calcium Chloride Ore
     S:oredict.oreMudCalifornium.name=Mud Californium Ore
     S:oredict.oreMudCarbon.name=Mud Carbon Ore
     S:oredict.oreMudCarbon13.name=Mud Carbon-13 Ore
@@ -35432,6 +35728,7 @@ languagefile {
     S:oredict.oreMudEuropium.name=Mud Europium Ore
     S:oredict.oreMudEximite.name=Mud Eximite Ore
     S:oredict.oreMudFarnsium.name=Mud Farnsium Ore
+    S:oredict.oreMudFerberite.name=Mud Ferberite Ore
     S:oredict.oreMudFermium.name=Mud Fermium Ore
     S:oredict.oreMudFerrite.name=Mud Ferrite Ore
     S:oredict.oreMudFerrovanadium.name=Mud Ferrovanadium Ore
@@ -35506,6 +35803,7 @@ languagefile {
     S:oredict.oreMudLigniteCoke.name=Mud Lignite Coke Ore
     S:oredict.oreMudLithium.name=Mud Lithium Ore
     S:oredict.oreMudLithium6.name=Mud Lithium-6 Ore
+    S:oredict.oreMudLithiumChloride.name=Mud Lithium Chloride Ore
     S:oredict.oreMudLivermorium.name=Mud Livermorium Ore
     S:oredict.oreMudLonsdaleite.name=Mud Lonsdaleite Ore
     S:oredict.oreMudLudicrite.name=Mud Ludicrite Ore
@@ -35574,6 +35872,7 @@ languagefile {
     S:oredict.oreMudPolonium.name=Mud Polonium Ore
     S:oredict.oreMudPotassium.name=Mud Potassium Ore
     S:oredict.oreMudPotassiumFeldspar.name=Mud Potassium Feldspar Ore
+    S:oredict.oreMudPotassiumNitrate.name=Mud Potassium Nitrate Ore
     S:oredict.oreMudPowellite.name=Mud Powellite Ore
     S:oredict.oreMudPraseodymium.name=Mud Praseodymium Ore
     S:oredict.oreMudPrismane.name=Mud Prismane Ore
@@ -35621,6 +35920,7 @@ languagefile {
     S:oredict.oreMudSoapstone.name=Mud Soapstone Ore
     S:oredict.oreMudSodalite.name=Mud Sodalite Ore
     S:oredict.oreMudSodium.name=Mud Sodium Ore
+    S:oredict.oreMudSodiumNitrate.name=Mud Sodium Nitrate Ore
     S:oredict.oreMudSperrylite.name=Mud Sperrylite Ore
     S:oredict.oreMudSpessartine.name=Mud Spessartine Ore
     S:oredict.oreMudSphalerite.name=Mud Sphalerite Ore
@@ -35658,6 +35958,7 @@ languagefile {
     S:oredict.oreMudTrona.name=Mud Trona Ore
     S:oredict.oreMudTungstate.name=Mud Tungstate Ore
     S:oredict.oreMudTungsten.name=Mud Tungsten Ore
+    S:oredict.oreMudTungstenTrioxide.name=Mud Tungsten Trioxide Ore
     S:oredict.oreMudUnbinilium.name=Mud Unbinilium Ore
     S:oredict.oreMudUnunennium.name=Mud Ununennium Ore
     S:oredict.oreMudUraninite.name=Mud Uraninite Ore
@@ -35869,6 +36170,7 @@ languagefile {
     S:oredict.oreNetherrackCaesium.name=Nether Caesium Ore
     S:oredict.oreNetherrackCalcite.name=Nether Calcite Ore
     S:oredict.oreNetherrackCalcium.name=Nether Calcium Ore
+    S:oredict.oreNetherrackCalciumChloride.name=Nether Calcium Chloride Ore
     S:oredict.oreNetherrackCalifornium.name=Nether Californium Ore
     S:oredict.oreNetherrackCarbon.name=Nether Carbon Ore
     S:oredict.oreNetherrackCarbon13.name=Nether Carbon-13 Ore
@@ -35932,6 +36234,7 @@ languagefile {
     S:oredict.oreNetherrackEuropium.name=Nether Europium Ore
     S:oredict.oreNetherrackEximite.name=Nether Eximite Ore
     S:oredict.oreNetherrackFarnsium.name=Nether Farnsium Ore
+    S:oredict.oreNetherrackFerberite.name=Nether Ferberite Ore
     S:oredict.oreNetherrackFermium.name=Nether Fermium Ore
     S:oredict.oreNetherrackFerrite.name=Nether Ferrite Ore
     S:oredict.oreNetherrackFerrovanadium.name=Nether Ferrovanadium Ore
@@ -36006,6 +36309,7 @@ languagefile {
     S:oredict.oreNetherrackLigniteCoke.name=Nether Lignite Coke Ore
     S:oredict.oreNetherrackLithium.name=Nether Lithium Ore
     S:oredict.oreNetherrackLithium6.name=Nether Lithium-6 Ore
+    S:oredict.oreNetherrackLithiumChloride.name=Nether Lithium Chloride Ore
     S:oredict.oreNetherrackLivermorium.name=Nether Livermorium Ore
     S:oredict.oreNetherrackLonsdaleite.name=Nether Lonsdaleite Ore
     S:oredict.oreNetherrackLudicrite.name=Nether Ludicrite Ore
@@ -36074,6 +36378,7 @@ languagefile {
     S:oredict.oreNetherrackPolonium.name=Nether Polonium Ore
     S:oredict.oreNetherrackPotassium.name=Nether Potassium Ore
     S:oredict.oreNetherrackPotassiumFeldspar.name=Nether Potassium Feldspar Ore
+    S:oredict.oreNetherrackPotassiumNitrate.name=Nether Potassium Nitrate Ore
     S:oredict.oreNetherrackPowellite.name=Nether Powellite Ore
     S:oredict.oreNetherrackPraseodymium.name=Nether Praseodymium Ore
     S:oredict.oreNetherrackPrismane.name=Nether Prismane Ore
@@ -36121,6 +36426,7 @@ languagefile {
     S:oredict.oreNetherrackSoapstone.name=Nether Soapstone Ore
     S:oredict.oreNetherrackSodalite.name=Nether Sodalite Ore
     S:oredict.oreNetherrackSodium.name=Nether Sodium Ore
+    S:oredict.oreNetherrackSodiumNitrate.name=Nether Sodium Nitrate Ore
     S:oredict.oreNetherrackSperrylite.name=Nether Sperrylite Ore
     S:oredict.oreNetherrackSpessartine.name=Nether Spessartine Ore
     S:oredict.oreNetherrackSphalerite.name=Nether Sphalerite Ore
@@ -36158,6 +36464,7 @@ languagefile {
     S:oredict.oreNetherrackTrona.name=Nether Trona Ore
     S:oredict.oreNetherrackTungstate.name=Nether Tungstate Ore
     S:oredict.oreNetherrackTungsten.name=Nether Tungsten Ore
+    S:oredict.oreNetherrackTungstenTrioxide.name=Nether Tungsten Trioxide Ore
     S:oredict.oreNetherrackUnbinilium.name=Nether Unbinilium Ore
     S:oredict.oreNetherrackUnunennium.name=Nether Ununennium Ore
     S:oredict.oreNetherrackUraninite.name=Nether Uraninite Ore
@@ -36220,6 +36527,7 @@ languagefile {
     S:oredict.orePolonium.name=Polonium Ore
     S:oredict.orePotassium.name=Potassium Ore
     S:oredict.orePotassiumFeldspar.name=Potassium Feldspar Ore
+    S:oredict.orePotassiumNitrate.name=Potassium Nitrate Ore
     S:oredict.orePowellite.name=Powellite Ore
     S:oredict.orePraseodymium.name=Praseodymium Ore
     S:oredict.orePrismane.name=Prismane Ore
@@ -36415,6 +36723,7 @@ languagefile {
     S:oredict.oreRedSandCaesium.name=Sand Caesium Ore
     S:oredict.oreRedSandCalcite.name=Sand Calcite Ore
     S:oredict.oreRedSandCalcium.name=Sand Calcium Ore
+    S:oredict.oreRedSandCalciumChloride.name=Sand Calcium Chloride Ore
     S:oredict.oreRedSandCalifornium.name=Sand Californium Ore
     S:oredict.oreRedSandCarbon.name=Sand Carbon Ore
     S:oredict.oreRedSandCarbon13.name=Sand Carbon-13 Ore
@@ -36478,6 +36787,7 @@ languagefile {
     S:oredict.oreRedSandEuropium.name=Sand Europium Ore
     S:oredict.oreRedSandEximite.name=Sand Eximite Ore
     S:oredict.oreRedSandFarnsium.name=Sand Farnsium Ore
+    S:oredict.oreRedSandFerberite.name=Sand Ferberite Ore
     S:oredict.oreRedSandFermium.name=Sand Fermium Ore
     S:oredict.oreRedSandFerrite.name=Sand Ferrite Ore
     S:oredict.oreRedSandFerrovanadium.name=Sand Ferrovanadium Ore
@@ -36552,6 +36862,7 @@ languagefile {
     S:oredict.oreRedSandLigniteCoke.name=Sand Lignite Coke Ore
     S:oredict.oreRedSandLithium.name=Sand Lithium Ore
     S:oredict.oreRedSandLithium6.name=Sand Lithium-6 Ore
+    S:oredict.oreRedSandLithiumChloride.name=Sand Lithium Chloride Ore
     S:oredict.oreRedSandLivermorium.name=Sand Livermorium Ore
     S:oredict.oreRedSandLonsdaleite.name=Sand Lonsdaleite Ore
     S:oredict.oreRedSandLudicrite.name=Sand Ludicrite Ore
@@ -36620,6 +36931,7 @@ languagefile {
     S:oredict.oreRedSandPolonium.name=Sand Polonium Ore
     S:oredict.oreRedSandPotassium.name=Sand Potassium Ore
     S:oredict.oreRedSandPotassiumFeldspar.name=Sand Potassium Feldspar Ore
+    S:oredict.oreRedSandPotassiumNitrate.name=Sand Potassium Nitrate Ore
     S:oredict.oreRedSandPowellite.name=Sand Powellite Ore
     S:oredict.oreRedSandPraseodymium.name=Sand Praseodymium Ore
     S:oredict.oreRedSandPrismane.name=Sand Prismane Ore
@@ -36667,6 +36979,7 @@ languagefile {
     S:oredict.oreRedSandSoapstone.name=Sand Soapstone Ore
     S:oredict.oreRedSandSodalite.name=Sand Sodalite Ore
     S:oredict.oreRedSandSodium.name=Sand Sodium Ore
+    S:oredict.oreRedSandSodiumNitrate.name=Sand Sodium Nitrate Ore
     S:oredict.oreRedSandSperrylite.name=Sand Sperrylite Ore
     S:oredict.oreRedSandSpessartine.name=Sand Spessartine Ore
     S:oredict.oreRedSandSphalerite.name=Sand Sphalerite Ore
@@ -36704,6 +37017,7 @@ languagefile {
     S:oredict.oreRedSandTrona.name=Sand Trona Ore
     S:oredict.oreRedSandTungstate.name=Sand Tungstate Ore
     S:oredict.oreRedSandTungsten.name=Sand Tungsten Ore
+    S:oredict.oreRedSandTungstenTrioxide.name=Sand Tungsten Trioxide Ore
     S:oredict.oreRedSandUnbinilium.name=Sand Unbinilium Ore
     S:oredict.oreRedSandUnunennium.name=Sand Ununennium Ore
     S:oredict.oreRedSandUraninite.name=Sand Uraninite Ore
@@ -36909,6 +37223,7 @@ languagefile {
     S:oredict.oreRedgraniteCaesium.name=Granite Caesium Ore
     S:oredict.oreRedgraniteCalcite.name=Granite Calcite Ore
     S:oredict.oreRedgraniteCalcium.name=Granite Calcium Ore
+    S:oredict.oreRedgraniteCalciumChloride.name=Granite Calcium Chloride Ore
     S:oredict.oreRedgraniteCalifornium.name=Granite Californium Ore
     S:oredict.oreRedgraniteCarbon.name=Granite Carbon Ore
     S:oredict.oreRedgraniteCarbon13.name=Granite Carbon-13 Ore
@@ -36972,6 +37287,7 @@ languagefile {
     S:oredict.oreRedgraniteEuropium.name=Granite Europium Ore
     S:oredict.oreRedgraniteEximite.name=Granite Eximite Ore
     S:oredict.oreRedgraniteFarnsium.name=Granite Farnsium Ore
+    S:oredict.oreRedgraniteFerberite.name=Granite Ferberite Ore
     S:oredict.oreRedgraniteFermium.name=Granite Fermium Ore
     S:oredict.oreRedgraniteFerrite.name=Granite Ferrite Ore
     S:oredict.oreRedgraniteFerrovanadium.name=Granite Ferrovanadium Ore
@@ -37046,6 +37362,7 @@ languagefile {
     S:oredict.oreRedgraniteLigniteCoke.name=Granite Lignite Coke Ore
     S:oredict.oreRedgraniteLithium.name=Granite Lithium Ore
     S:oredict.oreRedgraniteLithium6.name=Granite Lithium-6 Ore
+    S:oredict.oreRedgraniteLithiumChloride.name=Granite Lithium Chloride Ore
     S:oredict.oreRedgraniteLivermorium.name=Granite Livermorium Ore
     S:oredict.oreRedgraniteLonsdaleite.name=Granite Lonsdaleite Ore
     S:oredict.oreRedgraniteLudicrite.name=Granite Ludicrite Ore
@@ -37114,6 +37431,7 @@ languagefile {
     S:oredict.oreRedgranitePolonium.name=Granite Polonium Ore
     S:oredict.oreRedgranitePotassium.name=Granite Potassium Ore
     S:oredict.oreRedgranitePotassiumFeldspar.name=Granite Potassium Feldspar Ore
+    S:oredict.oreRedgranitePotassiumNitrate.name=Granite Potassium Nitrate Ore
     S:oredict.oreRedgranitePowellite.name=Granite Powellite Ore
     S:oredict.oreRedgranitePraseodymium.name=Granite Praseodymium Ore
     S:oredict.oreRedgranitePrismane.name=Granite Prismane Ore
@@ -37161,6 +37479,7 @@ languagefile {
     S:oredict.oreRedgraniteSoapstone.name=Granite Soapstone Ore
     S:oredict.oreRedgraniteSodalite.name=Granite Sodalite Ore
     S:oredict.oreRedgraniteSodium.name=Granite Sodium Ore
+    S:oredict.oreRedgraniteSodiumNitrate.name=Granite Sodium Nitrate Ore
     S:oredict.oreRedgraniteSperrylite.name=Granite Sperrylite Ore
     S:oredict.oreRedgraniteSpessartine.name=Granite Spessartine Ore
     S:oredict.oreRedgraniteSphalerite.name=Granite Sphalerite Ore
@@ -37198,6 +37517,7 @@ languagefile {
     S:oredict.oreRedgraniteTrona.name=Granite Trona Ore
     S:oredict.oreRedgraniteTungstate.name=Granite Tungstate Ore
     S:oredict.oreRedgraniteTungsten.name=Granite Tungsten Ore
+    S:oredict.oreRedgraniteTungstenTrioxide.name=Granite Tungsten Trioxide Ore
     S:oredict.oreRedgraniteUnbinilium.name=Granite Unbinilium Ore
     S:oredict.oreRedgraniteUnunennium.name=Granite Ununennium Ore
     S:oredict.oreRedgraniteUraninite.name=Granite Uraninite Ore
@@ -37418,6 +37738,7 @@ languagefile {
     S:oredict.oreSandCaesium.name=Sand Caesium Ore
     S:oredict.oreSandCalcite.name=Sand Calcite Ore
     S:oredict.oreSandCalcium.name=Sand Calcium Ore
+    S:oredict.oreSandCalciumChloride.name=Sand Calcium Chloride Ore
     S:oredict.oreSandCalifornium.name=Sand Californium Ore
     S:oredict.oreSandCarbon.name=Sand Carbon Ore
     S:oredict.oreSandCarbon13.name=Sand Carbon-13 Ore
@@ -37481,6 +37802,7 @@ languagefile {
     S:oredict.oreSandEuropium.name=Sand Europium Ore
     S:oredict.oreSandEximite.name=Sand Eximite Ore
     S:oredict.oreSandFarnsium.name=Sand Farnsium Ore
+    S:oredict.oreSandFerberite.name=Sand Ferberite Ore
     S:oredict.oreSandFermium.name=Sand Fermium Ore
     S:oredict.oreSandFerrite.name=Sand Ferrite Ore
     S:oredict.oreSandFerrovanadium.name=Sand Ferrovanadium Ore
@@ -37555,6 +37877,7 @@ languagefile {
     S:oredict.oreSandLigniteCoke.name=Sand Lignite Coke Ore
     S:oredict.oreSandLithium.name=Sand Lithium Ore
     S:oredict.oreSandLithium6.name=Sand Lithium-6 Ore
+    S:oredict.oreSandLithiumChloride.name=Sand Lithium Chloride Ore
     S:oredict.oreSandLivermorium.name=Sand Livermorium Ore
     S:oredict.oreSandLonsdaleite.name=Sand Lonsdaleite Ore
     S:oredict.oreSandLudicrite.name=Sand Ludicrite Ore
@@ -37623,6 +37946,7 @@ languagefile {
     S:oredict.oreSandPolonium.name=Sand Polonium Ore
     S:oredict.oreSandPotassium.name=Sand Potassium Ore
     S:oredict.oreSandPotassiumFeldspar.name=Sand Potassium Feldspar Ore
+    S:oredict.oreSandPotassiumNitrate.name=Sand Potassium Nitrate Ore
     S:oredict.oreSandPowellite.name=Sand Powellite Ore
     S:oredict.oreSandPraseodymium.name=Sand Praseodymium Ore
     S:oredict.oreSandPrismane.name=Sand Prismane Ore
@@ -37670,6 +37994,7 @@ languagefile {
     S:oredict.oreSandSoapstone.name=Sand Soapstone Ore
     S:oredict.oreSandSodalite.name=Sand Sodalite Ore
     S:oredict.oreSandSodium.name=Sand Sodium Ore
+    S:oredict.oreSandSodiumNitrate.name=Sand Sodium Nitrate Ore
     S:oredict.oreSandSperrylite.name=Sand Sperrylite Ore
     S:oredict.oreSandSpessartine.name=Sand Spessartine Ore
     S:oredict.oreSandSphalerite.name=Sand Sphalerite Ore
@@ -37707,6 +38032,7 @@ languagefile {
     S:oredict.oreSandTrona.name=Sand Trona Ore
     S:oredict.oreSandTungstate.name=Sand Tungstate Ore
     S:oredict.oreSandTungsten.name=Sand Tungsten Ore
+    S:oredict.oreSandTungstenTrioxide.name=Sand Tungsten Trioxide Ore
     S:oredict.oreSandUnbinilium.name=Sand Unbinilium Ore
     S:oredict.oreSandUnunennium.name=Sand Ununennium Ore
     S:oredict.oreSandUraninite.name=Sand Uraninite Ore
@@ -37912,6 +38238,7 @@ languagefile {
     S:oredict.oreSandstoneCaesium.name=Sandstone Caesium Ore
     S:oredict.oreSandstoneCalcite.name=Sandstone Calcite Ore
     S:oredict.oreSandstoneCalcium.name=Sandstone Calcium Ore
+    S:oredict.oreSandstoneCalciumChloride.name=Sandstone Calcium Chloride Ore
     S:oredict.oreSandstoneCalifornium.name=Sandstone Californium Ore
     S:oredict.oreSandstoneCarbon.name=Sandstone Carbon Ore
     S:oredict.oreSandstoneCarbon13.name=Sandstone Carbon-13 Ore
@@ -37975,6 +38302,7 @@ languagefile {
     S:oredict.oreSandstoneEuropium.name=Sandstone Europium Ore
     S:oredict.oreSandstoneEximite.name=Sandstone Eximite Ore
     S:oredict.oreSandstoneFarnsium.name=Sandstone Farnsium Ore
+    S:oredict.oreSandstoneFerberite.name=Sandstone Ferberite Ore
     S:oredict.oreSandstoneFermium.name=Sandstone Fermium Ore
     S:oredict.oreSandstoneFerrite.name=Sandstone Ferrite Ore
     S:oredict.oreSandstoneFerrovanadium.name=Sandstone Ferrovanadium Ore
@@ -38049,6 +38377,7 @@ languagefile {
     S:oredict.oreSandstoneLigniteCoke.name=Sandstone Lignite Coke Ore
     S:oredict.oreSandstoneLithium.name=Sandstone Lithium Ore
     S:oredict.oreSandstoneLithium6.name=Sandstone Lithium-6 Ore
+    S:oredict.oreSandstoneLithiumChloride.name=Sandstone Lithium Chloride Ore
     S:oredict.oreSandstoneLivermorium.name=Sandstone Livermorium Ore
     S:oredict.oreSandstoneLonsdaleite.name=Sandstone Lonsdaleite Ore
     S:oredict.oreSandstoneLudicrite.name=Sandstone Ludicrite Ore
@@ -38117,6 +38446,7 @@ languagefile {
     S:oredict.oreSandstonePolonium.name=Sandstone Polonium Ore
     S:oredict.oreSandstonePotassium.name=Sandstone Potassium Ore
     S:oredict.oreSandstonePotassiumFeldspar.name=Sandstone Potassium Feldspar Ore
+    S:oredict.oreSandstonePotassiumNitrate.name=Sandstone Potassium Nitrate Ore
     S:oredict.oreSandstonePowellite.name=Sandstone Powellite Ore
     S:oredict.oreSandstonePraseodymium.name=Sandstone Praseodymium Ore
     S:oredict.oreSandstonePrismane.name=Sandstone Prismane Ore
@@ -38164,6 +38494,7 @@ languagefile {
     S:oredict.oreSandstoneSoapstone.name=Sandstone Soapstone Ore
     S:oredict.oreSandstoneSodalite.name=Sandstone Sodalite Ore
     S:oredict.oreSandstoneSodium.name=Sandstone Sodium Ore
+    S:oredict.oreSandstoneSodiumNitrate.name=Sandstone Sodium Nitrate Ore
     S:oredict.oreSandstoneSperrylite.name=Sandstone Sperrylite Ore
     S:oredict.oreSandstoneSpessartine.name=Sandstone Spessartine Ore
     S:oredict.oreSandstoneSphalerite.name=Sandstone Sphalerite Ore
@@ -38201,6 +38532,7 @@ languagefile {
     S:oredict.oreSandstoneTrona.name=Sandstone Trona Ore
     S:oredict.oreSandstoneTungstate.name=Sandstone Tungstate Ore
     S:oredict.oreSandstoneTungsten.name=Sandstone Tungsten Ore
+    S:oredict.oreSandstoneTungstenTrioxide.name=Sandstone Tungsten Trioxide Ore
     S:oredict.oreSandstoneUnbinilium.name=Sandstone Unbinilium Ore
     S:oredict.oreSandstoneUnunennium.name=Sandstone Ununennium Ore
     S:oredict.oreSandstoneUraninite.name=Sandstone Uraninite Ore
@@ -38418,6 +38750,7 @@ languagefile {
     S:oredict.oreSmallCaesium.name=Small Caesium Ore
     S:oredict.oreSmallCalcite.name=Small Calcite Ore
     S:oredict.oreSmallCalcium.name=Small Calcium Ore
+    S:oredict.oreSmallCalciumChloride.name=Small Calcium Chloride Ore
     S:oredict.oreSmallCalifornium.name=Small Californium Ore
     S:oredict.oreSmallCarbon.name=Small Carbon Ore
     S:oredict.oreSmallCarbon13.name=Small Carbon-13 Ore
@@ -38481,6 +38814,7 @@ languagefile {
     S:oredict.oreSmallEuropium.name=Small Europium Ore
     S:oredict.oreSmallEximite.name=Small Eximite Ore
     S:oredict.oreSmallFarnsium.name=Small Farnsium Ore
+    S:oredict.oreSmallFerberite.name=Small Ferberite Ore
     S:oredict.oreSmallFermium.name=Small Fermium Ore
     S:oredict.oreSmallFerrite.name=Small Ferrite Ore
     S:oredict.oreSmallFerrovanadium.name=Small Ferrovanadium Ore
@@ -38555,6 +38889,7 @@ languagefile {
     S:oredict.oreSmallLigniteCoke.name=Small Lignite Coke Ore
     S:oredict.oreSmallLithium.name=Small Lithium Ore
     S:oredict.oreSmallLithium6.name=Small Lithium-6 Ore
+    S:oredict.oreSmallLithiumChloride.name=Small Lithium Chloride Ore
     S:oredict.oreSmallLivermorium.name=Small Livermorium Ore
     S:oredict.oreSmallLonsdaleite.name=Small Lonsdaleite Ore
     S:oredict.oreSmallLudicrite.name=Small Ludicrite Ore
@@ -38623,6 +38958,7 @@ languagefile {
     S:oredict.oreSmallPolonium.name=Small Polonium Ore
     S:oredict.oreSmallPotassium.name=Small Potassium Ore
     S:oredict.oreSmallPotassiumFeldspar.name=Small Potassium Feldspar Ore
+    S:oredict.oreSmallPotassiumNitrate.name=Small Potassium Nitrate Ore
     S:oredict.oreSmallPowellite.name=Small Powellite Ore
     S:oredict.oreSmallPraseodymium.name=Small Praseodymium Ore
     S:oredict.oreSmallPrismane.name=Small Prismane Ore
@@ -38670,6 +39006,7 @@ languagefile {
     S:oredict.oreSmallSoapstone.name=Small Soapstone Ore
     S:oredict.oreSmallSodalite.name=Small Sodalite Ore
     S:oredict.oreSmallSodium.name=Small Sodium Ore
+    S:oredict.oreSmallSodiumNitrate.name=Small Sodium Nitrate Ore
     S:oredict.oreSmallSperrylite.name=Small Sperrylite Ore
     S:oredict.oreSmallSpessartine.name=Small Spessartine Ore
     S:oredict.oreSmallSphalerite.name=Small Sphalerite Ore
@@ -38707,6 +39044,7 @@ languagefile {
     S:oredict.oreSmallTrona.name=Small Trona Ore
     S:oredict.oreSmallTungstate.name=Small Tungstate Ore
     S:oredict.oreSmallTungsten.name=Small Tungsten Ore
+    S:oredict.oreSmallTungstenTrioxide.name=Small Tungsten Trioxide Ore
     S:oredict.oreSmallUnbinilium.name=Small Unbinilium Ore
     S:oredict.oreSmallUnunennium.name=Small Ununennium Ore
     S:oredict.oreSmallUraninite.name=Small Uraninite Ore
@@ -38737,6 +39075,7 @@ languagefile {
     S:oredict.oreSoapstone.name=Soapstone Ore
     S:oredict.oreSodalite.name=Sodalite Ore
     S:oredict.oreSodium.name=Sodium Ore
+    S:oredict.oreSodiumNitrate.name=Sodium Nitrate Ore
     S:oredict.oreSpaceActinium.name=Space Actinium Ore
     S:oredict.oreSpaceAdamantine.name=Space Adamantine Ore
     S:oredict.oreSpaceAdamantite.name=Space Adamantite Ore
@@ -38916,6 +39255,7 @@ languagefile {
     S:oredict.oreSpaceCaesium.name=Space Caesium Ore
     S:oredict.oreSpaceCalcite.name=Space Calcite Ore
     S:oredict.oreSpaceCalcium.name=Space Calcium Ore
+    S:oredict.oreSpaceCalciumChloride.name=Space Calcium Chloride Ore
     S:oredict.oreSpaceCalifornium.name=Space Californium Ore
     S:oredict.oreSpaceCarbon.name=Space Carbon Ore
     S:oredict.oreSpaceCarbon13.name=Space Carbon-13 Ore
@@ -38979,6 +39319,7 @@ languagefile {
     S:oredict.oreSpaceEuropium.name=Space Europium Ore
     S:oredict.oreSpaceEximite.name=Space Eximite Ore
     S:oredict.oreSpaceFarnsium.name=Space Farnsium Ore
+    S:oredict.oreSpaceFerberite.name=Space Ferberite Ore
     S:oredict.oreSpaceFermium.name=Space Fermium Ore
     S:oredict.oreSpaceFerrite.name=Space Ferrite Ore
     S:oredict.oreSpaceFerrovanadium.name=Space Ferrovanadium Ore
@@ -39053,6 +39394,7 @@ languagefile {
     S:oredict.oreSpaceLigniteCoke.name=Space Lignite Coke Ore
     S:oredict.oreSpaceLithium.name=Space Lithium Ore
     S:oredict.oreSpaceLithium6.name=Space Lithium-6 Ore
+    S:oredict.oreSpaceLithiumChloride.name=Space Lithium Chloride Ore
     S:oredict.oreSpaceLivermorium.name=Space Livermorium Ore
     S:oredict.oreSpaceLonsdaleite.name=Space Lonsdaleite Ore
     S:oredict.oreSpaceLudicrite.name=Space Ludicrite Ore
@@ -39121,6 +39463,7 @@ languagefile {
     S:oredict.oreSpacePolonium.name=Space Polonium Ore
     S:oredict.oreSpacePotassium.name=Space Potassium Ore
     S:oredict.oreSpacePotassiumFeldspar.name=Space Potassium Feldspar Ore
+    S:oredict.oreSpacePotassiumNitrate.name=Space Potassium Nitrate Ore
     S:oredict.oreSpacePowellite.name=Space Powellite Ore
     S:oredict.oreSpacePraseodymium.name=Space Praseodymium Ore
     S:oredict.oreSpacePrismane.name=Space Prismane Ore
@@ -39168,6 +39511,7 @@ languagefile {
     S:oredict.oreSpaceSoapstone.name=Space Soapstone Ore
     S:oredict.oreSpaceSodalite.name=Space Sodalite Ore
     S:oredict.oreSpaceSodium.name=Space Sodium Ore
+    S:oredict.oreSpaceSodiumNitrate.name=Space Sodium Nitrate Ore
     S:oredict.oreSpaceSperrylite.name=Space Sperrylite Ore
     S:oredict.oreSpaceSpessartine.name=Space Spessartine Ore
     S:oredict.oreSpaceSphalerite.name=Space Sphalerite Ore
@@ -39205,6 +39549,7 @@ languagefile {
     S:oredict.oreSpaceTrona.name=Space Trona Ore
     S:oredict.oreSpaceTungstate.name=Space Tungstate Ore
     S:oredict.oreSpaceTungsten.name=Space Tungsten Ore
+    S:oredict.oreSpaceTungstenTrioxide.name=Space Tungsten Trioxide Ore
     S:oredict.oreSpaceUnbinilium.name=Space Unbinilium Ore
     S:oredict.oreSpaceUnunennium.name=Space Ununennium Ore
     S:oredict.oreSpaceUraninite.name=Space Uraninite Ore
@@ -39268,6 +39613,7 @@ languagefile {
     S:oredict.oreTrona.name=Trona Ore
     S:oredict.oreTungstate.name=Tungstate Ore
     S:oredict.oreTungsten.name=Tungsten Ore
+    S:oredict.oreTungstenTrioxide.name=Tungsten Trioxide Ore
     S:oredict.oreUnbinilium.name=Unbinilium Ore
     S:oredict.oreUnunennium.name=Ununennium Ore
     S:oredict.oreUraninite.name=Uraninite Ore
@@ -39317,6 +39663,7 @@ languagefile {
     S:oredict.plantGtBerryAmericium241.name=Americium-241 Berry
     S:oredict.plantGtBerryAmethyst.name=Amethyst Berry
     S:oredict.plantGtBerryAmethystEnder.name=Ender Amethyst Berry
+    S:oredict.plantGtBerryAmmonia.name=Ammonia Berry
     S:oredict.plantGtBerryAmordrine.name=Amordrine Berry
     S:oredict.plantGtBerryAndesite.name=Andesite Berry
     S:oredict.plantGtBerryAndradite.name=Andradite Berry
@@ -39515,6 +39862,7 @@ languagefile {
     S:oredict.plantGtBerryCaesium.name=Caesium Berry
     S:oredict.plantGtBerryCalcite.name=Calcite Berry
     S:oredict.plantGtBerryCalcium.name=Calcium Berry
+    S:oredict.plantGtBerryCalciumChloride.name=Calcium Chloride Berry
     S:oredict.plantGtBerryCalciumSulfate.name=Calcium Sulfate Berry
     S:oredict.plantGtBerryCalifornium.name=Californium Berry
     S:oredict.plantGtBerryCarbon.name=Carbon Berry
@@ -39639,9 +39987,11 @@ languagefile {
     S:oredict.plantGtBerryEuropium.name=Europium Berry
     S:oredict.plantGtBerryEximite.name=Eximite Berry
     S:oredict.plantGtBerryFarnsium.name=Farnsium Berry
+    S:oredict.plantGtBerryFerberite.name=Ferberite Berry
     S:oredict.plantGtBerryFermium.name=Fermium Berry
     S:oredict.plantGtBerryFerricChloride.name=Ferric Chloride Berry
     S:oredict.plantGtBerryFerrite.name=Ferrite Berry
+    S:oredict.plantGtBerryFerrousChloride.name=Ferrous Chloride Berry
     S:oredict.plantGtBerryFerrovanadium.name=Ferrovanadium Berry
     S:oredict.plantGtBerryFierySteel.name=Fiery Steel Berry
     S:oredict.plantGtBerryFirestone.name=Firestone Berry
@@ -39728,6 +40078,7 @@ languagefile {
     S:oredict.plantGtBerryHydrogenBorate.name=Hydrogen Borate Berry
     S:oredict.plantGtBerryHydrogenFluoride.name=Hydrogen Fluoride Berry
     S:oredict.plantGtBerryHydrogenPeroxide.name=Hydrogen Peroxide Berry
+    S:oredict.plantGtBerryHydrosulfuricAcid.name=Hydrosulfuric Acid Berry
     S:oredict.plantGtBerryIce.name=Ice Berry
     S:oredict.plantGtBerryIgnatius.name=Ignatius Berry
     S:oredict.plantGtBerryIlmenite.name=Ilmenite Berry
@@ -39776,6 +40127,7 @@ languagefile {
     S:oredict.plantGtBerryLinOil.name=Lin Oil Berry
     S:oredict.plantGtBerryLithium.name=Lithium Berry
     S:oredict.plantGtBerryLithium6.name=Lithium-6 Berry
+    S:oredict.plantGtBerryLithiumChloride.name=Lithium Chloride Berry
     S:oredict.plantGtBerryLithiumOxide.name=Lithium Oxide Berry
     S:oredict.plantGtBerryLiveRoot.name=Liveroot Berry
     S:oredict.plantGtBerryLivermorium.name=Livermorium Berry
@@ -39795,6 +40147,7 @@ languagefile {
     S:oredict.plantGtBerryMalachite.name=Malachite Berry
     S:oredict.plantGtBerryManasteel.name=Manasteel Berry
     S:oredict.plantGtBerryManganese.name=Manganese Berry
+    S:oredict.plantGtBerryManganeseChloride.name=Manganese Chloride Berry
     S:oredict.plantGtBerryManyullyn.name=Manyullyn Berry
     S:oredict.plantGtBerryMarble.name=Marble Berry
     S:oredict.plantGtBerryMarsSand.name=Mars Sand Berry
@@ -39900,12 +40253,17 @@ languagefile {
     S:oredict.plantGtBerryPolonium.name=Polonium Berry
     S:oredict.plantGtBerryPorcelain.name=Porcelain Berry
     S:oredict.plantGtBerryPotassium.name=Potassium Berry
+    S:oredict.plantGtBerryPotassiumAluminate.name=Potassium Aluminate Berry
     S:oredict.plantGtBerryPotassiumBisulfate.name=Potassium Bisulfate Berry
+    S:oredict.plantGtBerryPotassiumCarbonate.name=Potassium Carbonate Berry
     S:oredict.plantGtBerryPotassiumFeldspar.name=Potassium Feldspar Berry
     S:oredict.plantGtBerryPotassiumHydroxide.name=Potassium Hydroxide Berry
+    S:oredict.plantGtBerryPotassiumNitrate.name=Potassium Nitrate Berry
+    S:oredict.plantGtBerryPotassiumPersulfate.name=Potassium Persulfate Berry
     S:oredict.plantGtBerryPotassiumPyrosulfate.name=Potassium Pyrosulfate Berry
     S:oredict.plantGtBerryPotassiumSulfate.name=Potassium Sulfate Berry
     S:oredict.plantGtBerryPotassiumSulfide.name=Potassium Sulfide Berry
+    S:oredict.plantGtBerryPotassiumSulfite.name=Potassium Sulfite Berry
     S:oredict.plantGtBerryPotato.name=Potato Berry
     S:oredict.plantGtBerryPowellite.name=Powellite Berry
     S:oredict.plantGtBerryPraseodymium.name=Praseodymium Berry
@@ -39984,6 +40342,7 @@ languagefile {
     S:oredict.plantGtBerrySodiumBisulfate.name=Sodium Bisulfate Berry
     S:oredict.plantGtBerrySodiumCarbonate.name=Sodium Carbonate Berry
     S:oredict.plantGtBerrySodiumHydroxide.name=Sodium Hydroxide Berry
+    S:oredict.plantGtBerrySodiumNitrate.name=Sodium Nitrate Berry
     S:oredict.plantGtBerrySodiumPersulfate.name=Sodium Persulfate Berry
     S:oredict.plantGtBerrySodiumPyrosulfate.name=Sodium Pyrosulfate Berry
     S:oredict.plantGtBerrySodiumSulfate.name=Sodium Sulfate Berry
@@ -40057,7 +40416,9 @@ languagefile {
     S:oredict.plantGtBerryTungstate.name=Tungstate Berry
     S:oredict.plantGtBerryTungsten.name=Tungsten Berry
     S:oredict.plantGtBerryTungstenCarbide.name=Tungsten Carbide Berry
+    S:oredict.plantGtBerryTungstenTrioxide.name=Tungsten Trioxide Berry
     S:oredict.plantGtBerryTungstensteel.name=Tungstensteel Berry
+    S:oredict.plantGtBerryTungsticAcid.name=Tungstic Acid Berry
     S:oredict.plantGtBerryUUAmplifier.name=UU-Amplifier Berry
     S:oredict.plantGtBerryUUMatter.name=UU-Matter Berry
     S:oredict.plantGtBerryUltimet.name=Ultimet Berry
@@ -40139,6 +40500,7 @@ languagefile {
     S:oredict.plantGtBlossomAmericium241.name=Americium-241 Blossom
     S:oredict.plantGtBlossomAmethyst.name=Amethyst Blossom
     S:oredict.plantGtBlossomAmethystEnder.name=Ender Amethyst Blossom
+    S:oredict.plantGtBlossomAmmonia.name=Ammonia Blossom
     S:oredict.plantGtBlossomAmordrine.name=Amordrine Blossom
     S:oredict.plantGtBlossomAndesite.name=Andesite Blossom
     S:oredict.plantGtBlossomAndradite.name=Andradite Blossom
@@ -40337,6 +40699,7 @@ languagefile {
     S:oredict.plantGtBlossomCaesium.name=Caesium Blossom
     S:oredict.plantGtBlossomCalcite.name=Calcite Blossom
     S:oredict.plantGtBlossomCalcium.name=Calcium Blossom
+    S:oredict.plantGtBlossomCalciumChloride.name=Calcium Chloride Blossom
     S:oredict.plantGtBlossomCalciumSulfate.name=Calcium Sulfate Blossom
     S:oredict.plantGtBlossomCalifornium.name=Californium Blossom
     S:oredict.plantGtBlossomCarbon.name=Carbon Blossom
@@ -40461,9 +40824,11 @@ languagefile {
     S:oredict.plantGtBlossomEuropium.name=Europium Blossom
     S:oredict.plantGtBlossomEximite.name=Eximite Blossom
     S:oredict.plantGtBlossomFarnsium.name=Farnsium Blossom
+    S:oredict.plantGtBlossomFerberite.name=Ferberite Blossom
     S:oredict.plantGtBlossomFermium.name=Fermium Blossom
     S:oredict.plantGtBlossomFerricChloride.name=Ferric Chloride Blossom
     S:oredict.plantGtBlossomFerrite.name=Ferrite Blossom
+    S:oredict.plantGtBlossomFerrousChloride.name=Ferrous Chloride Blossom
     S:oredict.plantGtBlossomFerrovanadium.name=Ferrovanadium Blossom
     S:oredict.plantGtBlossomFierySteel.name=Fiery Steel Blossom
     S:oredict.plantGtBlossomFirestone.name=Firestone Blossom
@@ -40550,6 +40915,7 @@ languagefile {
     S:oredict.plantGtBlossomHydrogenBorate.name=Hydrogen Borate Blossom
     S:oredict.plantGtBlossomHydrogenFluoride.name=Hydrogen Fluoride Blossom
     S:oredict.plantGtBlossomHydrogenPeroxide.name=Hydrogen Peroxide Blossom
+    S:oredict.plantGtBlossomHydrosulfuricAcid.name=Hydrosulfuric Acid Blossom
     S:oredict.plantGtBlossomIce.name=Ice Blossom
     S:oredict.plantGtBlossomIgnatius.name=Ignatius Blossom
     S:oredict.plantGtBlossomIlmenite.name=Ilmenite Blossom
@@ -40598,6 +40964,7 @@ languagefile {
     S:oredict.plantGtBlossomLinOil.name=Lin Oil Blossom
     S:oredict.plantGtBlossomLithium.name=Lithium Blossom
     S:oredict.plantGtBlossomLithium6.name=Lithium-6 Blossom
+    S:oredict.plantGtBlossomLithiumChloride.name=Lithium Chloride Blossom
     S:oredict.plantGtBlossomLithiumOxide.name=Lithium Oxide Blossom
     S:oredict.plantGtBlossomLiveRoot.name=Liveroot Blossom
     S:oredict.plantGtBlossomLivermorium.name=Livermorium Blossom
@@ -40617,6 +40984,7 @@ languagefile {
     S:oredict.plantGtBlossomMalachite.name=Malachite Blossom
     S:oredict.plantGtBlossomManasteel.name=Manasteel Blossom
     S:oredict.plantGtBlossomManganese.name=Manganese Blossom
+    S:oredict.plantGtBlossomManganeseChloride.name=Manganese Chloride Blossom
     S:oredict.plantGtBlossomManyullyn.name=Manyullyn Blossom
     S:oredict.plantGtBlossomMarble.name=Marble Blossom
     S:oredict.plantGtBlossomMarsSand.name=Mars Sand Blossom
@@ -40722,12 +41090,17 @@ languagefile {
     S:oredict.plantGtBlossomPolonium.name=Polonium Blossom
     S:oredict.plantGtBlossomPorcelain.name=Porcelain Blossom
     S:oredict.plantGtBlossomPotassium.name=Potassium Blossom
+    S:oredict.plantGtBlossomPotassiumAluminate.name=Potassium Aluminate Blossom
     S:oredict.plantGtBlossomPotassiumBisulfate.name=Potassium Bisulfate Blossom
+    S:oredict.plantGtBlossomPotassiumCarbonate.name=Potassium Carbonate Blossom
     S:oredict.plantGtBlossomPotassiumFeldspar.name=Potassium Feldspar Blossom
     S:oredict.plantGtBlossomPotassiumHydroxide.name=Potassium Hydroxide Blossom
+    S:oredict.plantGtBlossomPotassiumNitrate.name=Potassium Nitrate Blossom
+    S:oredict.plantGtBlossomPotassiumPersulfate.name=Potassium Persulfate Blossom
     S:oredict.plantGtBlossomPotassiumPyrosulfate.name=Potassium Pyrosulfate Blossom
     S:oredict.plantGtBlossomPotassiumSulfate.name=Potassium Sulfate Blossom
     S:oredict.plantGtBlossomPotassiumSulfide.name=Potassium Sulfide Blossom
+    S:oredict.plantGtBlossomPotassiumSulfite.name=Potassium Sulfite Blossom
     S:oredict.plantGtBlossomPotato.name=Potato Blossom
     S:oredict.plantGtBlossomPowellite.name=Powellite Blossom
     S:oredict.plantGtBlossomPraseodymium.name=Praseodymium Blossom
@@ -40806,6 +41179,7 @@ languagefile {
     S:oredict.plantGtBlossomSodiumBisulfate.name=Sodium Bisulfate Blossom
     S:oredict.plantGtBlossomSodiumCarbonate.name=Sodium Carbonate Blossom
     S:oredict.plantGtBlossomSodiumHydroxide.name=Sodium Hydroxide Blossom
+    S:oredict.plantGtBlossomSodiumNitrate.name=Sodium Nitrate Blossom
     S:oredict.plantGtBlossomSodiumPersulfate.name=Sodium Persulfate Blossom
     S:oredict.plantGtBlossomSodiumPyrosulfate.name=Sodium Pyrosulfate Blossom
     S:oredict.plantGtBlossomSodiumSulfate.name=Sodium Sulfate Blossom
@@ -40879,7 +41253,9 @@ languagefile {
     S:oredict.plantGtBlossomTungstate.name=Tungstate Blossom
     S:oredict.plantGtBlossomTungsten.name=Tungsten Blossom
     S:oredict.plantGtBlossomTungstenCarbide.name=Tungsten Carbide Blossom
+    S:oredict.plantGtBlossomTungstenTrioxide.name=Tungsten Trioxide Blossom
     S:oredict.plantGtBlossomTungstensteel.name=Tungstensteel Blossom
+    S:oredict.plantGtBlossomTungsticAcid.name=Tungstic Acid Blossom
     S:oredict.plantGtBlossomUUAmplifier.name=UU-Amplifier Blossom
     S:oredict.plantGtBlossomUUMatter.name=UU-Matter Blossom
     S:oredict.plantGtBlossomUltimet.name=Ultimet Blossom
@@ -40961,6 +41337,7 @@ languagefile {
     S:oredict.plantGtFiberAmericium241.name=Raw Americium-241 Fiber
     S:oredict.plantGtFiberAmethyst.name=Raw Amethyst Fiber
     S:oredict.plantGtFiberAmethystEnder.name=Raw Ender Amethyst Fiber
+    S:oredict.plantGtFiberAmmonia.name=Raw Ammonia Fiber
     S:oredict.plantGtFiberAmordrine.name=Raw Amordrine Fiber
     S:oredict.plantGtFiberAndesite.name=Raw Andesite Fiber
     S:oredict.plantGtFiberAndradite.name=Raw Andradite Fiber
@@ -41159,6 +41536,7 @@ languagefile {
     S:oredict.plantGtFiberCaesium.name=Raw Caesium Fiber
     S:oredict.plantGtFiberCalcite.name=Raw Calcite Fiber
     S:oredict.plantGtFiberCalcium.name=Raw Calcium Fiber
+    S:oredict.plantGtFiberCalciumChloride.name=Raw Calcium Chloride Fiber
     S:oredict.plantGtFiberCalciumSulfate.name=Raw Calcium Sulfate Fiber
     S:oredict.plantGtFiberCalifornium.name=Raw Californium Fiber
     S:oredict.plantGtFiberCarbon.name=Raw Carbon Fiber
@@ -41283,9 +41661,11 @@ languagefile {
     S:oredict.plantGtFiberEuropium.name=Raw Europium Fiber
     S:oredict.plantGtFiberEximite.name=Raw Eximite Fiber
     S:oredict.plantGtFiberFarnsium.name=Raw Farnsium Fiber
+    S:oredict.plantGtFiberFerberite.name=Raw Ferberite Fiber
     S:oredict.plantGtFiberFermium.name=Raw Fermium Fiber
     S:oredict.plantGtFiberFerricChloride.name=Raw Ferric Chloride Fiber
     S:oredict.plantGtFiberFerrite.name=Raw Ferrite Fiber
+    S:oredict.plantGtFiberFerrousChloride.name=Raw Ferrous Chloride Fiber
     S:oredict.plantGtFiberFerrovanadium.name=Raw Ferrovanadium Fiber
     S:oredict.plantGtFiberFierySteel.name=Raw Fiery Steel Fiber
     S:oredict.plantGtFiberFirestone.name=Raw Firestone Fiber
@@ -41372,6 +41752,7 @@ languagefile {
     S:oredict.plantGtFiberHydrogenBorate.name=Raw Hydrogen Borate Fiber
     S:oredict.plantGtFiberHydrogenFluoride.name=Raw Hydrogen Fluoride Fiber
     S:oredict.plantGtFiberHydrogenPeroxide.name=Raw Hydrogen Peroxide Fiber
+    S:oredict.plantGtFiberHydrosulfuricAcid.name=Raw Hydrosulfuric Acid Fiber
     S:oredict.plantGtFiberIce.name=Raw Ice Fiber
     S:oredict.plantGtFiberIgnatius.name=Raw Ignatius Fiber
     S:oredict.plantGtFiberIlmenite.name=Raw Ilmenite Fiber
@@ -41420,6 +41801,7 @@ languagefile {
     S:oredict.plantGtFiberLinOil.name=Raw Lin Oil Fiber
     S:oredict.plantGtFiberLithium.name=Raw Lithium Fiber
     S:oredict.plantGtFiberLithium6.name=Raw Lithium-6 Fiber
+    S:oredict.plantGtFiberLithiumChloride.name=Raw Lithium Chloride Fiber
     S:oredict.plantGtFiberLithiumOxide.name=Raw Lithium Oxide Fiber
     S:oredict.plantGtFiberLiveRoot.name=Raw Liveroot Fiber
     S:oredict.plantGtFiberLivermorium.name=Raw Livermorium Fiber
@@ -41439,6 +41821,7 @@ languagefile {
     S:oredict.plantGtFiberMalachite.name=Raw Malachite Fiber
     S:oredict.plantGtFiberManasteel.name=Raw Manasteel Fiber
     S:oredict.plantGtFiberManganese.name=Raw Manganese Fiber
+    S:oredict.plantGtFiberManganeseChloride.name=Raw Manganese Chloride Fiber
     S:oredict.plantGtFiberManyullyn.name=Raw Manyullyn Fiber
     S:oredict.plantGtFiberMarble.name=Raw Marble Fiber
     S:oredict.plantGtFiberMarsSand.name=Raw Mars Sand Fiber
@@ -41544,12 +41927,17 @@ languagefile {
     S:oredict.plantGtFiberPolonium.name=Raw Polonium Fiber
     S:oredict.plantGtFiberPorcelain.name=Raw Porcelain Fiber
     S:oredict.plantGtFiberPotassium.name=Raw Potassium Fiber
+    S:oredict.plantGtFiberPotassiumAluminate.name=Raw Potassium Aluminate Fiber
     S:oredict.plantGtFiberPotassiumBisulfate.name=Raw Potassium Bisulfate Fiber
+    S:oredict.plantGtFiberPotassiumCarbonate.name=Raw Potassium Carbonate Fiber
     S:oredict.plantGtFiberPotassiumFeldspar.name=Raw Potassium Feldspar Fiber
     S:oredict.plantGtFiberPotassiumHydroxide.name=Raw Potassium Hydroxide Fiber
+    S:oredict.plantGtFiberPotassiumNitrate.name=Raw Potassium Nitrate Fiber
+    S:oredict.plantGtFiberPotassiumPersulfate.name=Raw Potassium Persulfate Fiber
     S:oredict.plantGtFiberPotassiumPyrosulfate.name=Raw Potassium Pyrosulfate Fiber
     S:oredict.plantGtFiberPotassiumSulfate.name=Raw Potassium Sulfate Fiber
     S:oredict.plantGtFiberPotassiumSulfide.name=Raw Potassium Sulfide Fiber
+    S:oredict.plantGtFiberPotassiumSulfite.name=Raw Potassium Sulfite Fiber
     S:oredict.plantGtFiberPotato.name=Raw Potato Fiber
     S:oredict.plantGtFiberPowellite.name=Raw Powellite Fiber
     S:oredict.plantGtFiberPraseodymium.name=Raw Praseodymium Fiber
@@ -41628,6 +42016,7 @@ languagefile {
     S:oredict.plantGtFiberSodiumBisulfate.name=Raw Sodium Bisulfate Fiber
     S:oredict.plantGtFiberSodiumCarbonate.name=Raw Sodium Carbonate Fiber
     S:oredict.plantGtFiberSodiumHydroxide.name=Raw Sodium Hydroxide Fiber
+    S:oredict.plantGtFiberSodiumNitrate.name=Raw Sodium Nitrate Fiber
     S:oredict.plantGtFiberSodiumPersulfate.name=Raw Sodium Persulfate Fiber
     S:oredict.plantGtFiberSodiumPyrosulfate.name=Raw Sodium Pyrosulfate Fiber
     S:oredict.plantGtFiberSodiumSulfate.name=Raw Sodium Sulfate Fiber
@@ -41701,7 +42090,9 @@ languagefile {
     S:oredict.plantGtFiberTungstate.name=Raw Tungstate Fiber
     S:oredict.plantGtFiberTungsten.name=Raw Tungsten Fiber
     S:oredict.plantGtFiberTungstenCarbide.name=Raw Tungsten Carbide Fiber
+    S:oredict.plantGtFiberTungstenTrioxide.name=Raw Tungsten Trioxide Fiber
     S:oredict.plantGtFiberTungstensteel.name=Raw Tungstensteel Fiber
+    S:oredict.plantGtFiberTungsticAcid.name=Raw Tungstic Acid Fiber
     S:oredict.plantGtFiberUUAmplifier.name=Raw UU-Amplifier Fiber
     S:oredict.plantGtFiberUUMatter.name=Raw UU-Matter Fiber
     S:oredict.plantGtFiberUltimet.name=Raw Ultimet Fiber
@@ -41783,6 +42174,7 @@ languagefile {
     S:oredict.plantGtTwigAmericium241.name=Americium-241 Twig
     S:oredict.plantGtTwigAmethyst.name=Amethyst Twig
     S:oredict.plantGtTwigAmethystEnder.name=Ender Amethyst Twig
+    S:oredict.plantGtTwigAmmonia.name=Ammonia Twig
     S:oredict.plantGtTwigAmordrine.name=Amordrine Twig
     S:oredict.plantGtTwigAndesite.name=Andesite Twig
     S:oredict.plantGtTwigAndradite.name=Andradite Twig
@@ -41981,6 +42373,7 @@ languagefile {
     S:oredict.plantGtTwigCaesium.name=Caesium Twig
     S:oredict.plantGtTwigCalcite.name=Calcite Twig
     S:oredict.plantGtTwigCalcium.name=Calcium Twig
+    S:oredict.plantGtTwigCalciumChloride.name=Calcium Chloride Twig
     S:oredict.plantGtTwigCalciumSulfate.name=Calcium Sulfate Twig
     S:oredict.plantGtTwigCalifornium.name=Californium Twig
     S:oredict.plantGtTwigCarbon.name=Carbon Twig
@@ -42105,9 +42498,11 @@ languagefile {
     S:oredict.plantGtTwigEuropium.name=Europium Twig
     S:oredict.plantGtTwigEximite.name=Eximite Twig
     S:oredict.plantGtTwigFarnsium.name=Farnsium Twig
+    S:oredict.plantGtTwigFerberite.name=Ferberite Twig
     S:oredict.plantGtTwigFermium.name=Fermium Twig
     S:oredict.plantGtTwigFerricChloride.name=Ferric Chloride Twig
     S:oredict.plantGtTwigFerrite.name=Ferrite Twig
+    S:oredict.plantGtTwigFerrousChloride.name=Ferrous Chloride Twig
     S:oredict.plantGtTwigFerrovanadium.name=Ferrovanadium Twig
     S:oredict.plantGtTwigFierySteel.name=Fiery Steel Twig
     S:oredict.plantGtTwigFirestone.name=Firestone Twig
@@ -42194,6 +42589,7 @@ languagefile {
     S:oredict.plantGtTwigHydrogenBorate.name=Hydrogen Borate Twig
     S:oredict.plantGtTwigHydrogenFluoride.name=Hydrogen Fluoride Twig
     S:oredict.plantGtTwigHydrogenPeroxide.name=Hydrogen Peroxide Twig
+    S:oredict.plantGtTwigHydrosulfuricAcid.name=Hydrosulfuric Acid Twig
     S:oredict.plantGtTwigIce.name=Ice Twig
     S:oredict.plantGtTwigIgnatius.name=Ignatius Twig
     S:oredict.plantGtTwigIlmenite.name=Ilmenite Twig
@@ -42242,6 +42638,7 @@ languagefile {
     S:oredict.plantGtTwigLinOil.name=Lin Oil Twig
     S:oredict.plantGtTwigLithium.name=Lithium Twig
     S:oredict.plantGtTwigLithium6.name=Lithium-6 Twig
+    S:oredict.plantGtTwigLithiumChloride.name=Lithium Chloride Twig
     S:oredict.plantGtTwigLithiumOxide.name=Lithium Oxide Twig
     S:oredict.plantGtTwigLiveRoot.name=Liveroot Twig
     S:oredict.plantGtTwigLivermorium.name=Livermorium Twig
@@ -42261,6 +42658,7 @@ languagefile {
     S:oredict.plantGtTwigMalachite.name=Malachite Twig
     S:oredict.plantGtTwigManasteel.name=Manasteel Twig
     S:oredict.plantGtTwigManganese.name=Manganese Twig
+    S:oredict.plantGtTwigManganeseChloride.name=Manganese Chloride Twig
     S:oredict.plantGtTwigManyullyn.name=Manyullyn Twig
     S:oredict.plantGtTwigMarble.name=Marble Twig
     S:oredict.plantGtTwigMarsSand.name=Mars Sand Twig
@@ -42366,12 +42764,17 @@ languagefile {
     S:oredict.plantGtTwigPolonium.name=Polonium Twig
     S:oredict.plantGtTwigPorcelain.name=Porcelain Twig
     S:oredict.plantGtTwigPotassium.name=Potassium Twig
+    S:oredict.plantGtTwigPotassiumAluminate.name=Potassium Aluminate Twig
     S:oredict.plantGtTwigPotassiumBisulfate.name=Potassium Bisulfate Twig
+    S:oredict.plantGtTwigPotassiumCarbonate.name=Potassium Carbonate Twig
     S:oredict.plantGtTwigPotassiumFeldspar.name=Potassium Feldspar Twig
     S:oredict.plantGtTwigPotassiumHydroxide.name=Potassium Hydroxide Twig
+    S:oredict.plantGtTwigPotassiumNitrate.name=Potassium Nitrate Twig
+    S:oredict.plantGtTwigPotassiumPersulfate.name=Potassium Persulfate Twig
     S:oredict.plantGtTwigPotassiumPyrosulfate.name=Potassium Pyrosulfate Twig
     S:oredict.plantGtTwigPotassiumSulfate.name=Potassium Sulfate Twig
     S:oredict.plantGtTwigPotassiumSulfide.name=Potassium Sulfide Twig
+    S:oredict.plantGtTwigPotassiumSulfite.name=Potassium Sulfite Twig
     S:oredict.plantGtTwigPotato.name=Potato Twig
     S:oredict.plantGtTwigPowellite.name=Powellite Twig
     S:oredict.plantGtTwigPraseodymium.name=Praseodymium Twig
@@ -42450,6 +42853,7 @@ languagefile {
     S:oredict.plantGtTwigSodiumBisulfate.name=Sodium Bisulfate Twig
     S:oredict.plantGtTwigSodiumCarbonate.name=Sodium Carbonate Twig
     S:oredict.plantGtTwigSodiumHydroxide.name=Sodium Hydroxide Twig
+    S:oredict.plantGtTwigSodiumNitrate.name=Sodium Nitrate Twig
     S:oredict.plantGtTwigSodiumPersulfate.name=Sodium Persulfate Twig
     S:oredict.plantGtTwigSodiumPyrosulfate.name=Sodium Pyrosulfate Twig
     S:oredict.plantGtTwigSodiumSulfate.name=Sodium Sulfate Twig
@@ -42523,7 +42927,9 @@ languagefile {
     S:oredict.plantGtTwigTungstate.name=Tungstate Twig
     S:oredict.plantGtTwigTungsten.name=Tungsten Twig
     S:oredict.plantGtTwigTungstenCarbide.name=Tungsten Carbide Twig
+    S:oredict.plantGtTwigTungstenTrioxide.name=Tungsten Trioxide Twig
     S:oredict.plantGtTwigTungstensteel.name=Tungstensteel Twig
+    S:oredict.plantGtTwigTungsticAcid.name=Tungstic Acid Twig
     S:oredict.plantGtTwigUUAmplifier.name=UU-Amplifier Twig
     S:oredict.plantGtTwigUUMatter.name=UU-Matter Twig
     S:oredict.plantGtTwigUltimet.name=Ultimet Twig
@@ -42605,6 +43011,7 @@ languagefile {
     S:oredict.plantGtWartAmericium241.name=Americium-241 Wart
     S:oredict.plantGtWartAmethyst.name=Amethyst Wart
     S:oredict.plantGtWartAmethystEnder.name=Ender Amethyst Wart
+    S:oredict.plantGtWartAmmonia.name=Ammonia Wart
     S:oredict.plantGtWartAmordrine.name=Amordrine Wart
     S:oredict.plantGtWartAndesite.name=Andesite Wart
     S:oredict.plantGtWartAndradite.name=Andradite Wart
@@ -42803,6 +43210,7 @@ languagefile {
     S:oredict.plantGtWartCaesium.name=Caesium Wart
     S:oredict.plantGtWartCalcite.name=Calcite Wart
     S:oredict.plantGtWartCalcium.name=Calcium Wart
+    S:oredict.plantGtWartCalciumChloride.name=Calcium Chloride Wart
     S:oredict.plantGtWartCalciumSulfate.name=Calcium Sulfate Wart
     S:oredict.plantGtWartCalifornium.name=Californium Wart
     S:oredict.plantGtWartCarbon.name=Carbon Wart
@@ -42927,9 +43335,11 @@ languagefile {
     S:oredict.plantGtWartEuropium.name=Europium Wart
     S:oredict.plantGtWartEximite.name=Eximite Wart
     S:oredict.plantGtWartFarnsium.name=Farnsium Wart
+    S:oredict.plantGtWartFerberite.name=Ferberite Wart
     S:oredict.plantGtWartFermium.name=Fermium Wart
     S:oredict.plantGtWartFerricChloride.name=Ferric Chloride Wart
     S:oredict.plantGtWartFerrite.name=Ferrite Wart
+    S:oredict.plantGtWartFerrousChloride.name=Ferrous Chloride Wart
     S:oredict.plantGtWartFerrovanadium.name=Ferrovanadium Wart
     S:oredict.plantGtWartFierySteel.name=Fiery Steel Wart
     S:oredict.plantGtWartFirestone.name=Firestone Wart
@@ -43016,6 +43426,7 @@ languagefile {
     S:oredict.plantGtWartHydrogenBorate.name=Hydrogen Borate Wart
     S:oredict.plantGtWartHydrogenFluoride.name=Hydrogen Fluoride Wart
     S:oredict.plantGtWartHydrogenPeroxide.name=Hydrogen Peroxide Wart
+    S:oredict.plantGtWartHydrosulfuricAcid.name=Hydrosulfuric Acid Wart
     S:oredict.plantGtWartIce.name=Ice Wart
     S:oredict.plantGtWartIgnatius.name=Ignatius Wart
     S:oredict.plantGtWartIlmenite.name=Ilmenite Wart
@@ -43064,6 +43475,7 @@ languagefile {
     S:oredict.plantGtWartLinOil.name=Lin Oil Wart
     S:oredict.plantGtWartLithium.name=Lithium Wart
     S:oredict.plantGtWartLithium6.name=Lithium-6 Wart
+    S:oredict.plantGtWartLithiumChloride.name=Lithium Chloride Wart
     S:oredict.plantGtWartLithiumOxide.name=Lithium Oxide Wart
     S:oredict.plantGtWartLiveRoot.name=Liveroot Wart
     S:oredict.plantGtWartLivermorium.name=Livermorium Wart
@@ -43083,6 +43495,7 @@ languagefile {
     S:oredict.plantGtWartMalachite.name=Malachite Wart
     S:oredict.plantGtWartManasteel.name=Manasteel Wart
     S:oredict.plantGtWartManganese.name=Manganese Wart
+    S:oredict.plantGtWartManganeseChloride.name=Manganese Chloride Wart
     S:oredict.plantGtWartManyullyn.name=Manyullyn Wart
     S:oredict.plantGtWartMarble.name=Marble Wart
     S:oredict.plantGtWartMarsSand.name=Mars Sand Wart
@@ -43188,12 +43601,17 @@ languagefile {
     S:oredict.plantGtWartPolonium.name=Polonium Wart
     S:oredict.plantGtWartPorcelain.name=Porcelain Wart
     S:oredict.plantGtWartPotassium.name=Potassium Wart
+    S:oredict.plantGtWartPotassiumAluminate.name=Potassium Aluminate Wart
     S:oredict.plantGtWartPotassiumBisulfate.name=Potassium Bisulfate Wart
+    S:oredict.plantGtWartPotassiumCarbonate.name=Potassium Carbonate Wart
     S:oredict.plantGtWartPotassiumFeldspar.name=Potassium Feldspar Wart
     S:oredict.plantGtWartPotassiumHydroxide.name=Potassium Hydroxide Wart
+    S:oredict.plantGtWartPotassiumNitrate.name=Potassium Nitrate Wart
+    S:oredict.plantGtWartPotassiumPersulfate.name=Potassium Persulfate Wart
     S:oredict.plantGtWartPotassiumPyrosulfate.name=Potassium Pyrosulfate Wart
     S:oredict.plantGtWartPotassiumSulfate.name=Potassium Sulfate Wart
     S:oredict.plantGtWartPotassiumSulfide.name=Potassium Sulfide Wart
+    S:oredict.plantGtWartPotassiumSulfite.name=Potassium Sulfite Wart
     S:oredict.plantGtWartPotato.name=Potato Wart
     S:oredict.plantGtWartPowellite.name=Powellite Wart
     S:oredict.plantGtWartPraseodymium.name=Praseodymium Wart
@@ -43272,6 +43690,7 @@ languagefile {
     S:oredict.plantGtWartSodiumBisulfate.name=Sodium Bisulfate Wart
     S:oredict.plantGtWartSodiumCarbonate.name=Sodium Carbonate Wart
     S:oredict.plantGtWartSodiumHydroxide.name=Sodium Hydroxide Wart
+    S:oredict.plantGtWartSodiumNitrate.name=Sodium Nitrate Wart
     S:oredict.plantGtWartSodiumPersulfate.name=Sodium Persulfate Wart
     S:oredict.plantGtWartSodiumPyrosulfate.name=Sodium Pyrosulfate Wart
     S:oredict.plantGtWartSodiumSulfate.name=Sodium Sulfate Wart
@@ -43345,7 +43764,9 @@ languagefile {
     S:oredict.plantGtWartTungstate.name=Tungstate Wart
     S:oredict.plantGtWartTungsten.name=Tungsten Wart
     S:oredict.plantGtWartTungstenCarbide.name=Tungsten Carbide Wart
+    S:oredict.plantGtWartTungstenTrioxide.name=Tungsten Trioxide Wart
     S:oredict.plantGtWartTungstensteel.name=Tungstensteel Wart
+    S:oredict.plantGtWartTungsticAcid.name=Tungstic Acid Wart
     S:oredict.plantGtWartUUAmplifier.name=UU-Amplifier Wart
     S:oredict.plantGtWartUUMatter.name=UU-Matter Wart
     S:oredict.plantGtWartUltimet.name=Ultimet Wart
@@ -43777,6 +44198,7 @@ languagefile {
     S:oredict.plateCurvedElectrum.name=Curved Electrum Plate
     S:oredict.plateCurvedElectrumFlux.name=Curved Electrum Flux Plate
     S:oredict.plateCurvedElvenElementium.name=Curved Elven Elementium Plate
+    S:oredict.plateCurvedEmery.name=Curved Emery Plate
     S:oredict.plateCurvedEmpty.name=Curved Empty Plate
     S:oredict.plateCurvedEnderium.name=Curved Enderium Plate
     S:oredict.plateCurvedEnderiumBase.name=Curved Enderium Base Plate
@@ -44762,6 +45184,7 @@ languagefile {
     S:oredict.plateElectrum.name=Electrum Plate
     S:oredict.plateElectrumFlux.name=Electrum Flux Plate
     S:oredict.plateElvenElementium.name=Elven Elementium Plate
+    S:oredict.plateEmery.name=Emery Plate
     S:oredict.plateEmpty.name=Empty Plate
     S:oredict.plateEnderium.name=Enderium Plate
     S:oredict.plateEnderiumBase.name=Enderium Base Plate
@@ -46063,6 +46486,7 @@ languagefile {
     S:oredict.plateTinyElectrum.name=Tiny Electrum Plate
     S:oredict.plateTinyElectrumFlux.name=Tiny Electrum Flux Plate
     S:oredict.plateTinyElvenElementium.name=Tiny Elven Elementium Plate
+    S:oredict.plateTinyEmery.name=Tiny Emery Plate
     S:oredict.plateTinyEmpty.name=Tiny Empty Plate
     S:oredict.plateTinyEnderium.name=Tiny Enderium Plate
     S:oredict.plateTinyEnderiumBase.name=Tiny Enderium Base Plate
@@ -46823,6 +47247,7 @@ languagefile {
     S:oredict.ringFlint.name=Flint Ring
     S:oredict.ringForce.name=Force Ring
     S:oredict.ringGabbro.name=Gabbro Ring
+    S:oredict.ringGermanium.name=Germanium Ring
     S:oredict.ringGildedIron.name=Gilded Iron Ring
     S:oredict.ringGlass.name=Glass Ring
     S:oredict.ringGneiss.name=Gneiss Ring
@@ -47181,6 +47606,7 @@ languagefile {
     S:oredict.rockGtCaesium.name=Caesium bearing Rock
     S:oredict.rockGtCalcite.name=Calcite bearing Rock
     S:oredict.rockGtCalcium.name=Calcium bearing Rock
+    S:oredict.rockGtCalciumChloride.name=Calcium Chloride bearing Rock
     S:oredict.rockGtCalifornium.name=Californium bearing Rock
     S:oredict.rockGtCarbon.name=Carbon bearing Rock
     S:oredict.rockGtCarbon13.name=Carbon-13 bearing Rock
@@ -47252,6 +47678,7 @@ languagefile {
     S:oredict.rockGtEuropium.name=Europium bearing Rock
     S:oredict.rockGtEximite.name=Eximite bearing Rock
     S:oredict.rockGtFarnsium.name=Farnsium bearing Rock
+    S:oredict.rockGtFerberite.name=Ferberite bearing Rock
     S:oredict.rockGtFermium.name=Fermium bearing Rock
     S:oredict.rockGtFerrite.name=Ferrite bearing Rock
     S:oredict.rockGtFerrovanadium.name=Ferrovanadium bearing Rock
@@ -47337,6 +47764,7 @@ languagefile {
     S:oredict.rockGtLimestone.name=Limestone Rock
     S:oredict.rockGtLithium.name=Lithium bearing Rock
     S:oredict.rockGtLithium6.name=Lithium-6 bearing Rock
+    S:oredict.rockGtLithiumChloride.name=Lithium Chloride bearing Rock
     S:oredict.rockGtLivermorium.name=Livermorium bearing Rock
     S:oredict.rockGtLonsdaleite.name=Lonsdaleite bearing Rock
     S:oredict.rockGtLudicrite.name=Ludicrite bearing Rock
@@ -47414,6 +47842,7 @@ languagefile {
     S:oredict.rockGtPolonium.name=Polonium bearing Rock
     S:oredict.rockGtPotassium.name=Potassium bearing Rock
     S:oredict.rockGtPotassiumFeldspar.name=Potassium Feldspar bearing Rock
+    S:oredict.rockGtPotassiumNitrate.name=Potassium Nitrate bearing Rock
     S:oredict.rockGtPowellite.name=Powellite bearing Rock
     S:oredict.rockGtPraseodymium.name=Praseodymium bearing Rock
     S:oredict.rockGtPrismane.name=Prismane bearing Rock
@@ -47465,6 +47894,7 @@ languagefile {
     S:oredict.rockGtSoapstone.name=Soapstone bearing Rock
     S:oredict.rockGtSodalite.name=Sodalite bearing Rock
     S:oredict.rockGtSodium.name=Sodium bearing Rock
+    S:oredict.rockGtSodiumNitrate.name=Sodium Nitrate bearing Rock
     S:oredict.rockGtSpaceStone.name=Space Rock
     S:oredict.rockGtSperrylite.name=Sperrylite bearing Rock
     S:oredict.rockGtSpessartine.name=Spessartine bearing Rock
@@ -47504,6 +47934,7 @@ languagefile {
     S:oredict.rockGtTrona.name=Trona bearing Rock
     S:oredict.rockGtTungstate.name=Tungstate bearing Rock
     S:oredict.rockGtTungsten.name=Tungsten bearing Rock
+    S:oredict.rockGtTungstenTrioxide.name=Tungsten Trioxide bearing Rock
     S:oredict.rockGtUnbinilium.name=Unbinilium bearing Rock
     S:oredict.rockGtUnunennium.name=Ununennium bearing Rock
     S:oredict.rockGtUraninite.name=Uraninite bearing Rock
@@ -47635,6 +48066,7 @@ languagefile {
     S:oredict.rotorFlint.name=Flint Rotor
     S:oredict.rotorForce.name=Force Rotor
     S:oredict.rotorGabbro.name=Gabbro Rotor
+    S:oredict.rotorGermanium.name=Germanium Rotor
     S:oredict.rotorGildedIron.name=Gilded Iron Rotor
     S:oredict.rotorGlass.name=Glass Rotor
     S:oredict.rotorGneiss.name=Gneiss Rotor
@@ -47914,6 +48346,7 @@ languagefile {
     S:oredict.roundFlint.name=Flint Round
     S:oredict.roundForce.name=Force Round
     S:oredict.roundGabbro.name=Gabbro Round
+    S:oredict.roundGermanium.name=Germanium Round
     S:oredict.roundGildedIron.name=Gilded Iron Round
     S:oredict.roundGlass.name=Glass Round
     S:oredict.roundGneiss.name=Gneiss Round
@@ -48304,6 +48737,7 @@ languagefile {
     S:oredict.scrapGtCaesium.name=Caesium Scrap
     S:oredict.scrapGtCalcite.name=Calcite Scrap
     S:oredict.scrapGtCalcium.name=Calcium Scrap
+    S:oredict.scrapGtCalciumChloride.name=Calcium Chloride Scrap
     S:oredict.scrapGtCalciumSulfate.name=Calcium Sulfate Scrap
     S:oredict.scrapGtCalifornium.name=Californium Scrap
     S:oredict.scrapGtCarbon.name=Carbon Scrap
@@ -48420,9 +48854,11 @@ languagefile {
     S:oredict.scrapGtEuropium.name=Europium Scrap
     S:oredict.scrapGtEximite.name=Eximite Scrap
     S:oredict.scrapGtFarnsium.name=Farnsium Scrap
+    S:oredict.scrapGtFerberite.name=Ferberite Scrap
     S:oredict.scrapGtFermium.name=Fermium Scrap
     S:oredict.scrapGtFerricChloride.name=Ferric Chloride Scrap
     S:oredict.scrapGtFerrite.name=Ferrite Scrap
+    S:oredict.scrapGtFerrousChloride.name=Ferrous Chloride Scrap
     S:oredict.scrapGtFerrovanadium.name=Ferrovanadium Scrap
     S:oredict.scrapGtFierySteel.name=Fiery Steel Scrap
     S:oredict.scrapGtFirestone.name=Firestone Scrap
@@ -48538,6 +48974,7 @@ languagefile {
     S:oredict.scrapGtLimestone.name=Limestone Scrap
     S:oredict.scrapGtLithium.name=Lithium Scrap
     S:oredict.scrapGtLithium6.name=Lithium-6 Scrap
+    S:oredict.scrapGtLithiumChloride.name=Lithium Chloride Scrap
     S:oredict.scrapGtLithiumOxide.name=Lithium Oxide Scrap
     S:oredict.scrapGtLiveRoot.name=Liveroot Scrap
     S:oredict.scrapGtLivermorium.name=Livermorium Scrap
@@ -48555,6 +48992,7 @@ languagefile {
     S:oredict.scrapGtMalachite.name=Malachite Scrap
     S:oredict.scrapGtManasteel.name=Manasteel Scrap
     S:oredict.scrapGtManganese.name=Manganese Scrap
+    S:oredict.scrapGtManganeseChloride.name=Manganese Chloride Scrap
     S:oredict.scrapGtManyullyn.name=Manyullyn Scrap
     S:oredict.scrapGtMarble.name=Marble Scrap
     S:oredict.scrapGtMarsSand.name=Mars Sand Scrap
@@ -48649,12 +49087,17 @@ languagefile {
     S:oredict.scrapGtPolonium.name=Polonium Scrap
     S:oredict.scrapGtPorcelain.name=Porcelain Scrap
     S:oredict.scrapGtPotassium.name=Potassium Scrap
+    S:oredict.scrapGtPotassiumAluminate.name=Potassium Aluminate Scrap
     S:oredict.scrapGtPotassiumBisulfate.name=Potassium Bisulfate Scrap
+    S:oredict.scrapGtPotassiumCarbonate.name=Potassium Carbonate Scrap
     S:oredict.scrapGtPotassiumFeldspar.name=Potassium Feldspar Scrap
     S:oredict.scrapGtPotassiumHydroxide.name=Potassium Hydroxide Scrap
+    S:oredict.scrapGtPotassiumNitrate.name=Potassium Nitrate Scrap
+    S:oredict.scrapGtPotassiumPersulfate.name=Potassium Persulfate Scrap
     S:oredict.scrapGtPotassiumPyrosulfate.name=Potassium Pyrosulfate Scrap
     S:oredict.scrapGtPotassiumSulfate.name=Potassium Sulfate Scrap
     S:oredict.scrapGtPotassiumSulfide.name=Potassium Sulfide Scrap
+    S:oredict.scrapGtPotassiumSulfite.name=Potassium Sulfite Scrap
     S:oredict.scrapGtPotato.name=Potato Scrap
     S:oredict.scrapGtPowellite.name=Powellite Scrap
     S:oredict.scrapGtPraseodymium.name=Praseodymium Scrap
@@ -48729,6 +49172,7 @@ languagefile {
     S:oredict.scrapGtSodiumBisulfate.name=Sodium Bisulfate Scrap
     S:oredict.scrapGtSodiumCarbonate.name=Sodium Carbonate Scrap
     S:oredict.scrapGtSodiumHydroxide.name=Sodium Hydroxide Scrap
+    S:oredict.scrapGtSodiumNitrate.name=Sodium Nitrate Scrap
     S:oredict.scrapGtSodiumPersulfate.name=Sodium Persulfate Scrap
     S:oredict.scrapGtSodiumPyrosulfate.name=Sodium Pyrosulfate Scrap
     S:oredict.scrapGtSodiumSulfate.name=Sodium Sulfate Scrap
@@ -48798,7 +49242,9 @@ languagefile {
     S:oredict.scrapGtTungsten.name=Tungsten Scrap
     S:oredict.scrapGtTungstenCarbide.name=Tungsten Carbide Scrap
     S:oredict.scrapGtTungstenSintered.name=Sintered Tungsten Scrap
+    S:oredict.scrapGtTungstenTrioxide.name=Tungsten Trioxide Scrap
     S:oredict.scrapGtTungstensteel.name=Tungstensteel Scrap
+    S:oredict.scrapGtTungsticAcid.name=Tungstic Acid Scrap
     S:oredict.scrapGtUltimet.name=Ultimet Scrap
     S:oredict.scrapGtUnbinilium.name=Unbinilium Scrap
     S:oredict.scrapGtUnunennium.name=Ununennium Scrap
@@ -49078,6 +49524,7 @@ languagefile {
     S:oredict.screwElvenElementium.name=Elven Elementium Screw
     S:oredict.screwEmeradic.name=Emeradic Screw
     S:oredict.screwEmerald.name=Emerald Screw
+    S:oredict.screwEmery.name=Emery Screw
     S:oredict.screwEmpty.name=Empty Screw
     S:oredict.screwEnderEye.name=Endereye Screw
     S:oredict.screwEnderPearl.name=Enderpearl Screw
@@ -49425,6 +49872,7 @@ languagefile {
     S:oredict.springEximite.name=Eximite Spring
     S:oredict.springFierySteel.name=Fiery Steel Spring
     S:oredict.springForce.name=Force Spring
+    S:oredict.springGermanium.name=Germanium Spring
     S:oredict.springGildedIron.name=Gilded Iron Spring
     S:oredict.springGneiss.name=Gneiss Spring
     S:oredict.springGold.name=Gold Spring
@@ -49570,6 +50018,7 @@ languagefile {
     S:oredict.springSmallEximite.name=Small Eximite Spring
     S:oredict.springSmallFierySteel.name=Small Fiery Steel Spring
     S:oredict.springSmallForce.name=Small Force Spring
+    S:oredict.springSmallGermanium.name=Small Germanium Spring
     S:oredict.springSmallGildedIron.name=Small Gilded Iron Spring
     S:oredict.springSmallGneiss.name=Small Gneiss Spring
     S:oredict.springSmallGold.name=Small Gold Spring
@@ -49964,6 +50413,7 @@ languagefile {
     S:oredict.stickElvenElementium.name=Elven Elementium Rod
     S:oredict.stickEmeradic.name=Emeradic Rod
     S:oredict.stickEmerald.name=Emerald Rod
+    S:oredict.stickEmery.name=Emery Rod
     S:oredict.stickEmpty.name=Empty Rod
     S:oredict.stickEnderEye.name=Endereye Rod
     S:oredict.stickEnderPearl.name=Enderpearl Rod
@@ -50279,6 +50729,7 @@ languagefile {
     S:oredict.stickLongElvenElementium.name=Long Elven Elementium Rod
     S:oredict.stickLongEmeradic.name=Long Emeradic Rod
     S:oredict.stickLongEmerald.name=Long Emerald Rod
+    S:oredict.stickLongEmery.name=Long Emery Rod
     S:oredict.stickLongEmpty.name=Long Empty Rod
     S:oredict.stickLongEnderEye.name=Long Endereye Rod
     S:oredict.stickLongEnderPearl.name=Long Enderpearl Rod
@@ -58789,6 +59240,7 @@ languagefile {
     S:oredict.wireFineEnergeticAlloy.name=Fine Energetic Alloy Wire
     S:oredict.wireFineEximite.name=Fine Eximite Wire
     S:oredict.wireFineFierySteel.name=Fine Fiery Steel Wire
+    S:oredict.wireFineGermanium.name=Fine Germanium Wire
     S:oredict.wireFineGildedIron.name=Fine Gilded Iron Wire
     S:oredict.wireFineGold.name=Fine Gold Wire
     S:oredict.wireFineGoldInductive.name=Fine Inductive Alloy Wire
@@ -58870,6 +59322,7 @@ languagefile {
     S:oredict.wireFineTitaniumIridium.name=Fine Iritanium Wire
     S:oredict.wireFineTrinaquadalloy.name=Fine Trinaquadalloy Wire
     S:oredict.wireFineTrinitanium.name=Fine Trinitanium Wire
+    S:oredict.wireFineTrinium.name=Fine Trinium Wire
     S:oredict.wireFineTritanium.name=Fine Tritanium Alloy Wire
     S:oredict.wireFineTungsten.name=Fine Tungsten Wire
     S:oredict.wireFineTungstenCarbide.name=Fine Tungsten Carbide Wire
