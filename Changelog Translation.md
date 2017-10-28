@@ -1,4 +1,43 @@
 更新日志 *(1.7.10)*
+## V6.05.48:
+[FIXED] Fluid Funnels now allow partial Amounts of Fluid to be transferred.
+[ADDED] Nozzles, the Fluid Tap equivalent for Gasses.
+
+
+## V6.05.47:
+[FIXED] The Names of Railcraft Plates. No longer Confusion caused by "Tin Plates" and "item.lead.plate.name" or whatever that one was.
+[CHANGED] Mud is now affected by Gravity, like Sand. Also Gravity is now mentioned in Block Tooltips if it applies.
+[ADDED] Magnetic Separator Recipes for impure and pure Dusts, so you dont have to use purified-crushed Ores for it.
+[ADDED] All GT6 Tools can now harvest Torches directly, and in that specific case they will always be "Magnetic" and won't lose any Durability in the Process (aka: Tool + Leftclick = Pick up a Torch from the Wall directly into your Inventory).
+[ADDED] Treated Planks in Block Form, the Item variant got removed and will automatically turn into the Block Form in all GT6 Blocks and your Inventory. It can be crafted into the Immersive Engineering Variant and back if needed.
+[ADDED]
+Black Sand to Rivers that aren't adjacent to Oceans or Swamps.
+It can be used similarily to Magnetite in a lot of Recipes, also using the Centrifuge you can get Ferrovanadium out of Black Sand, so no need to worry about getting your Vanadium Pentoxide.
+The Sand generates similarily to the Clay Pits, but is only 2 Blocks deep. It is NOT Part of the Ore Vein Grid!!!
+Magnetite Ore itself in any form will no longer generate, in favour of the new Black Sand.
+I did increase the amount of Small Hematite Ores to compensate the new lack of small Magnetite Ores. You can be happy that you have 2 more Inventory slots free for Ores that way lol.
+As for the Large Magnetite Veins (that includes Ferrovanadium too), they will no longer happen in new Terrain, meaning that all other Large Veins have a slightly higher chance of spawning now.
+
+##6.05.46:
+[NOTE] I have hit the 2^16 Byte Limit of Code on MT.java yet again and needed to trim it down further in order to get GT6 to compile, this means large Code changes and some removals inside that File.
+[FIXED] Several Tools being available for Stone despite not being intended to be like that.
+[FIXED] Dust Funnels not dropping their partial Content when broken. They will no longer store it, making it possible to clear a Dust from the Dust Funnels.
+[FIXED] Sealed Wood Pipes were unintentionally Gas Proof (back then it might have been intended but we have better solutions now). I fixed that by making them leak Gasses aswell, and buffing their Capacity from 50 to 75.
+[CHANGED] Some Acids can no longer be electrolyzed into their Components anymore. Same goes for most Sulfur containing Chemicals.
+[CHANGED] Fake 'Osmium' is now easier obtainable when Mekanism is installed. It can be processed in a Furnace too now.
+[CHANGED] If a Material has a Fluid form and can be electrolyzed or centrifuged, you are going to have to use said Fluid form for that now, and can't use Dusts for it anymore.
+[CHANGED] Tungsten Ore, if you happen to find any (due to other Mods or old GT6 Worldgen) will crush into 2x Scheelite instead, to ensure proper processing, while also giving a slight Bonus compared to actual Scheelite.
+[CHANGED] Small Tungsten or Pinalite Ores of GT6 to Scheelite Ores. And added small Pyrolusite Ore with the same location and rarity as small Gold and Silver Ores.
+[ADDED] Plastic Rods can now also be used instead of Wooden Sticks for most Tool Handles.
+[ADDED] Made GC Rockets Recycleable.
+[ADDED] Selenium as Byproduct of some Ores (I will likely use it for Batteries). I also added it into the Moon-Cheese Veins, since Selenium is literally named after the Moon.
+[ADDED] Sodium Nitrate and a bunch of Saltpeter related Chemical Recipes.
+[ADDED] New Processing for getting Elemental Sulfur from Sulfur Dioxide. It is similar to the Claus Process but far easier, due to not having to Filter other Materials out of the SO2.
+[ADDED] Potassium and Sodium based Chemicals can now be interchanged in a lot of Recipes, but not all of them.
+[ADDED] Lots of Chemistry related Materials and Recipes that didn't exist before, to make things more complete.
+[ADDED] Crowbarred Covers now go directly into the Inventory if possible.
+[ADDED] Tungsten Chemical Processing for Tungsten containing Ores.
+[ADDED] Pyrolusite + Hydrochloric Acid Processing and removed its Electrolyzer Recipe.
 
 ## V6.05.45
 
@@ -76,7 +115,7 @@ Did I mention that you can paint them too, just like all the other GT6 Container
 [ADDED] A Book containing Descriptions of all current GT6 Tools. It is added to all Loot Lists that contain Books of that kind.
 
 ## V6.05.41
-**##Caution:更新至此版本前务必备份存档！！！！！
+**##Caution:更新至此版本前务必备份存档！！！！！**
 [REWRITE]
 The Worldgen Code of GT6 got improved a lot, and that did change quite a lot of internals on how my Worldgen works, including the Config Files. This will also let GalacticGreg crash very hard, due to the massive Changes I made (not that that Addon is needed anymore since I add that Compat myself now).
 [COMPAT] Galacticraft & GalaxySpace
