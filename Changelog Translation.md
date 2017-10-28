@@ -1,7 +1,7 @@
 更新日志 *(1.7.10)*
 ## V6.05.48:
-[FIXED] Fluid Funnels now allow partial Amounts of Fluid to be transferred.
-[ADDED] Nozzles, the Fluid Tap equivalent for Gasses.
+[修复] 如今小漏斗能够装填不足1000L的流体了。
+[添加] 喷嘴,气体版的龙头。
 
 
 ## V6.05.47:
@@ -155,7 +155,7 @@ Blacklisted Oxygen Canisters for the Tap and some other things! The only GT6 thi
 [CHANGED] Made Chisel Purpur Blocks compatible with Et-Futurum Purpur whereever possible, and removed the Chisel Purpur Block Recipe if Et-Futurum is installed.
 [CHANGED] Ender Bumblebees now have slightly different requirements if Et-Futurum is installed. They will in that case always require either Chorus Flowers or the Dragon Egg, anything else that they usually accept doesn't count then.
 
-
+===========================================================分割线=================================================
 
 ## v6.05.39
 
@@ -186,11 +186,11 @@ Blacklisted Oxygen Canisters for the Tap and some other things! The only GT6 thi
 * [修复] 僵尸猪人不再会掉落添加到僵尸身上的材料。相反，它们现在掉落一些与地狱相关的材料。
 * [改动] 冒险模式斧现在是冒险模式小刀。
 * [改动] 装满脏水和海水的木桶可以被潜行右键清空。
-* [改动] 现在所有的树的叶子都有快速腐烂的功能。如果需要，它可以在配置中关闭。这使得**快速树叶掉落** *(FastLeafDecay)*变得毫无价值，因为它现在被集成到GT6中。
+* [改动] 现在所有的树的叶子都有快速腐烂的功能。如果需要，它可以在配置中关闭。这使得**快速树叶掉落** *(FastLeafDecay)* 变得毫无价值，因为它现在被集成到GT6中。
 * [添加] 僵尸现在也可以掉落普通的小石头，与燧石掉落几率相同。
 * [添加] 煤和褐煤石子可以用于制作火把。(之前忘了把它加到更新日志里了)
 
-此线以上转载至function-z的翻译
+此线以上转载至function-z的翻译，并由NH4HCr2O7修改
 ===========================================================分割线================================================
 
 
