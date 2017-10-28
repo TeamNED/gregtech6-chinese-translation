@@ -2270,6 +2270,8 @@ languagefile {
     S:gt.block.rail.tungstencarbide.name=碳化钨轨道
     S:gt.block.rail.tungstensteel.32767.name=所有此铁轨的子铁轨
     S:gt.block.rail.tungstensteel.name=钨钢轨道
+    S:gt.block.sands.0.name=Black Sand
+    S:gt.block.sands.32767.name=Any Sub-Block of this one
     S:gt.block.sapling.0.name=橡胶树苗
     S:gt.block.sapling.1.name=枫树苗
     S:gt.block.sapling.10.name=柳树苗
@@ -2750,6 +2752,7 @@ languagefile {
     S:gt.lang.face.top=顶面
     S:gt.lang.fluid.input=液体输入
     S:gt.lang.fluid.output=液体输出
+    S:gt.lang.gravity=This Block is affected by Gravity
     S:gt.lang.has.shapeless=存在无序合成配方的数量为：
     S:gt.lang.hazard.contact=当它在运作的时候接触会受伤！
     S:gt.lang.hazard.explosion.steam=蒸汽压力过高时会爆炸！
@@ -2779,6 +2782,12 @@ languagefile {
     S:gt.lang.proof.gas=不漏气
     S:gt.lang.proof.heat=内容物限定温度:
     S:gt.lang.proof.plasma=可以存储等离子
+    S:gt.lang.prospecting.air=There is an Air Pocket behind this Rock.
+    S:gt.lang.prospecting.change=Material is changing behind this Rock.
+    S:gt.lang.prospecting.lava=There is Lava behind this Rock.
+    S:gt.lang.prospecting.liquid=There is a Liquid behind this Rock.
+    S:gt.lang.prospecting.nothing=No traces of Ore found.
+    S:gt.lang.prospecting.traces=Found traces of
     S:gt.lang.railspeed=车速限制:
     S:gt.lang.recipe=配方
     S:gt.lang.recipes=配方
@@ -9506,6 +9515,11 @@ languagefile {
     S:gt.multitileentity.32743.name=不锈钢量杯
     S:gt.multitileentity.32744.name=钨量杯
     S:gt.multitileentity.32745.name=宝藏箱子
+    S:gt.multitileentity.32746.name=Ceramic Nozzle
+    S:gt.multitileentity.32747.name=Plastic Nozzle
+    S:gt.multitileentity.32748.name=Stainless Steel Nozzle
+    S:gt.multitileentity.32749.name=Tungsten Nozzle
+    S:gt.multitileentity.32750.name=Adamantium Nozzle
     S:gt.multitileentity.32755.name=黄蜂蜂巢
     S:gt.multitileentity.32756.name=木棍
     S:gt.multitileentity.32757.name=石头
