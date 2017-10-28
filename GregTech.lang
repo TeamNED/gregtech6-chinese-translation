@@ -169,7 +169,7 @@ languagefile {
     S:fluid.biomass=生物质
     S:fluid.blackberryjuice=黑莓汁
     S:fluid.blackberrysmoothie=黑莓冰沙
-    S:fluid.blackvitriol=硫酸铁
+    S:fluid.blackvitriol=硫化铁
     S:fluid.blaze=烈焰粘浆
     S:fluid.blueberryjuice=蓝莓汁
     S:fluid.blueberrysmoothie=蓝莓冰沙
@@ -3585,7 +3585,7 @@ languagefile {
     S:gt.material.Black=黑色
     S:gt.material.BlackBronze=乌铜
     S:gt.material.BlackSteel=碳钢
-    S:gt.material.BlackVitriol=硫酸铁
+    S:gt.material.BlackVitriol=硫化铁
     S:gt.material.Blaze=烈焰棒
     S:gt.material.Blitz=狂风
     S:gt.material.Blizz=暴雪
@@ -15111,7 +15111,7 @@ languagefile {
     S:oredict.cellArgon.name=氩单元
     S:oredict.cellBioFuel.name=生物柴油单元
     S:oredict.cellBiomass.name=生物质单元
-    S:oredict.cellBlackVitriol.name=硫酸铁单元
+    S:oredict.cellBlackVitriol.name=硫化铁单元
     S:oredict.cellBlueVitriol.name=五水合硫酸铜单元
     S:oredict.cellBromine.name=溴单元
     S:oredict.cellButane.name=丁烷单元
@@ -15837,7 +15837,7 @@ languagefile {
     S:oredict.chemtubeBlack.name=黑色试管
     S:oredict.chemtubeBlackBronze.name=乌铜试管
     S:oredict.chemtubeBlackSteel.name=碳钢试管
-    S:oredict.chemtubeBlackVitriol.name=硫酸铁试管
+    S:oredict.chemtubeBlackVitriol.name=硫化铁试管
     S:oredict.chemtubeBlaze.name=烈焰棒试管
     S:oredict.chemtubeBlitz.name=狂风试管
     S:oredict.chemtubeBlizz.name=暴雪试管
@@ -41227,7 +41227,7 @@ languagefile {
     S:oredict.plantGtBerryBlack.name=黑色梅
     S:oredict.plantGtBerryBlackBronze.name=乌铜梅
     S:oredict.plantGtBerryBlackSteel.name=碳钢梅
-    S:oredict.plantGtBerryBlackVitriol.name=硫酸铁梅
+    S:oredict.plantGtBerryBlackVitriol.name=硫化铁梅
     S:oredict.plantGtBerryBlaze.name=烈焰棒梅
     S:oredict.plantGtBerryBlitz.name=狂风梅
     S:oredict.plantGtBerryBlizz.name=暴雪梅
@@ -42088,7 +42088,7 @@ languagefile {
     S:oredict.plantGtBlossomBlack.name=黑色花
     S:oredict.plantGtBlossomBlackBronze.name=乌铜花
     S:oredict.plantGtBlossomBlackSteel.name=碳钢花
-    S:oredict.plantGtBlossomBlackVitriol.name=硫酸铁花
+    S:oredict.plantGtBlossomBlackVitriol.name=硫化铁花
     S:oredict.plantGtBlossomBlaze.name=烈焰棒花
     S:oredict.plantGtBlossomBlitz.name=狂风花
     S:oredict.plantGtBlossomBlizz.name=暴雪花
@@ -42948,7 +42948,7 @@ languagefile {
     S:oredict.plantGtFiberBlack.name=黑色纤维
     S:oredict.plantGtFiberBlackBronze.name=粗糙的乌铜纤维
     S:oredict.plantGtFiberBlackSteel.name=粗糙的碳钢纤维
-    S:oredict.plantGtFiberBlackVitriol.name=粗糙的硫酸铁纤维
+    S:oredict.plantGtFiberBlackVitriol.name=粗糙的硫化铁纤维
     S:oredict.plantGtFiberBlaze.name=粗糙的烈焰棒纤维
     S:oredict.plantGtFiberBlitz.name=粗糙的狂风纤维
     S:oredict.plantGtFiberBlizz.name=粗糙的暴雪纤维
@@ -43808,7 +43808,7 @@ languagefile {
     S:oredict.plantGtTwigBlack.name=黑色细枝
     S:oredict.plantGtTwigBlackBronze.name=乌铜细枝
     S:oredict.plantGtTwigBlackSteel.name=碳钢细枝
-    S:oredict.plantGtTwigBlackVitriol.name=硫酸铁细枝
+    S:oredict.plantGtTwigBlackVitriol.name=硫化铁细枝
     S:oredict.plantGtTwigBlaze.name=烈焰棒细枝
     S:oredict.plantGtTwigBlitz.name=狂风细枝
     S:oredict.plantGtTwigBlizz.name=暴雪细枝
@@ -44671,7 +44671,7 @@ languagefile {
     S:oredict.plantGtWartBlack.name=黑色疣
     S:oredict.plantGtWartBlackBronze.name=乌铜疣
     S:oredict.plantGtWartBlackSteel.name=碳钢疣
-    S:oredict.plantGtWartBlackVitriol.name=硫酸铁疣
+    S:oredict.plantGtWartBlackVitriol.name=硫化铁疣
     S:oredict.plantGtWartBlaze.name=烈焰棒疣
     S:oredict.plantGtWartBlitz.name=狂风疣
     S:oredict.plantGtWartBlizz.name=暴雪疣
