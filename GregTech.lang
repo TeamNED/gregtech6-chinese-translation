@@ -173,7 +173,7 @@ languagefile {
     S:fluid.blaze=烈焰粘浆
     S:fluid.blueberryjuice=蓝莓汁
     S:fluid.blueberrysmoothie=蓝莓冰沙
-    S:fluid.bluevitriol=五水合硫酸铜
+    S:fluid.bluevitriol=硫酸铜
     S:fluid.bromine=溴
     S:fluid.butane=丁烷
     S:fluid.cactuswater=仙人掌汁
@@ -3595,7 +3595,7 @@ languagefile {
     S:gt.material.BlueSapphire=蓝宝石
     S:gt.material.BlueSteel=蓝钢
     S:gt.material.BlueTopaz=蓝色黄玉
-    S:gt.material.BlueVitriol=五水合硫酸铜
+    S:gt.material.BlueVitriol=硫酸铜
     S:gt.material.Blueschist=蓝片岩
     S:gt.material.Bluestone=蓝石
     S:gt.material.Blutonium=蓝钚
@@ -15112,7 +15112,7 @@ languagefile {
     S:oredict.cellBioFuel.name=生物柴油单元
     S:oredict.cellBiomass.name=生物质单元
     S:oredict.cellBlackVitriol.name=硫化铁单元
-    S:oredict.cellBlueVitriol.name=五水合硫酸铜单元
+    S:oredict.cellBlueVitriol.name=硫酸铜单元
     S:oredict.cellBromine.name=溴单元
     S:oredict.cellButane.name=丁烷单元
     S:oredict.cellCarbonDioxide.name=二氧化碳单元
@@ -15846,7 +15846,7 @@ languagefile {
     S:oredict.chemtubeBlueSapphire.name=蓝宝石试管
     S:oredict.chemtubeBlueSteel.name=蓝钢试管
     S:oredict.chemtubeBlueTopaz.name=蓝色黄玉试管
-    S:oredict.chemtubeBlueVitriol.name=五水合硫酸铜试管
+    S:oredict.chemtubeBlueVitriol.name=硫酸铜试管
     S:oredict.chemtubeBlueschist.name=蓝片岩试管
     S:oredict.chemtubeBluestone.name=蓝石试管
     S:oredict.chemtubeBlutonium.name=蓝钚试管
@@ -41236,7 +41236,7 @@ languagefile {
     S:oredict.plantGtBerryBlueSapphire.name=蓝宝石梅
     S:oredict.plantGtBerryBlueSteel.name=蓝钢梅
     S:oredict.plantGtBerryBlueTopaz.name=蓝色黄玉梅
-    S:oredict.plantGtBerryBlueVitriol.name=五水合硫酸铜梅
+    S:oredict.plantGtBerryBlueVitriol.name=硫酸铜梅
     S:oredict.plantGtBerryBlueschist.name=蓝片岩梅
     S:oredict.plantGtBerryBluestone.name=蓝石梅
     S:oredict.plantGtBerryBlutonium.name=蓝钚梅
@@ -42097,7 +42097,7 @@ languagefile {
     S:oredict.plantGtBlossomBlueSapphire.name=蓝宝石花
     S:oredict.plantGtBlossomBlueSteel.name=蓝钢花
     S:oredict.plantGtBlossomBlueTopaz.name=蓝色黄玉花
-    S:oredict.plantGtBlossomBlueVitriol.name=五水合硫酸铜花
+    S:oredict.plantGtBlossomBlueVitriol.name=硫酸铜花
     S:oredict.plantGtBlossomBlueschist.name=蓝片岩花
     S:oredict.plantGtBlossomBluestone.name=蓝石花
     S:oredict.plantGtBlossomBlutonium.name=蓝钚花
@@ -42957,7 +42957,7 @@ languagefile {
     S:oredict.plantGtFiberBlueSapphire.name=粗糙的蓝宝石纤维
     S:oredict.plantGtFiberBlueSteel.name=粗糙的蓝钢纤维
     S:oredict.plantGtFiberBlueTopaz.name=粗糙的蓝色黄玉纤维
-    S:oredict.plantGtFiberBlueVitriol.name=粗糙的五水合硫酸铜纤维
+    S:oredict.plantGtFiberBlueVitriol.name=粗糙的硫酸铜纤维
     S:oredict.plantGtFiberBlueschist.name=粗糙的蓝片岩纤维
     S:oredict.plantGtFiberBluestone.name=粗糙的蓝石纤维
     S:oredict.plantGtFiberBlutonium.name=粗糙的蓝钚纤维
@@ -43817,7 +43817,7 @@ languagefile {
     S:oredict.plantGtTwigBlueSapphire.name=蓝宝石细枝
     S:oredict.plantGtTwigBlueSteel.name=蓝钢细枝
     S:oredict.plantGtTwigBlueTopaz.name=蓝色黄玉细枝
-    S:oredict.plantGtTwigBlueVitriol.name=五水合硫酸铜细枝
+    S:oredict.plantGtTwigBlueVitriol.name=硫酸铜细枝
     S:oredict.plantGtTwigBlueschist.name=蓝片岩细枝
     S:oredict.plantGtTwigBluestone.name=蓝石细枝
     S:oredict.plantGtTwigBlutonium.name=蓝钚细枝
@@ -44680,7 +44680,7 @@ languagefile {
     S:oredict.plantGtWartBlueSapphire.name=蓝宝石疣
     S:oredict.plantGtWartBlueSteel.name=蓝钢疣
     S:oredict.plantGtWartBlueTopaz.name=蓝色黄玉疣
-    S:oredict.plantGtWartBlueVitriol.name=五水合硫酸铜疣
+    S:oredict.plantGtWartBlueVitriol.name=硫酸铜疣
     S:oredict.plantGtWartBlueschist.name=蓝片岩疣
     S:oredict.plantGtWartBluestone.name=蓝石疣
     S:oredict.plantGtWartBlutonium.name=蓝钚疣
