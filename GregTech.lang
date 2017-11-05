@@ -305,6 +305,7 @@ languagefile {
     S:fluid.elderberrysmoothie=接骨木冰沙
     S:fluid.error=错误流体
     S:fluid.fieryblood=炙热的血
+    S:fluid.fierytears=Fiery Tears
     S:fluid.figjuice=无花果汁
     S:fluid.figsmoothie=无花果冰沙
     S:fluid.fishoil=鱼油
@@ -445,6 +446,7 @@ languagefile {
     S:fluid.molten.electrum=熔融琥珀金
     S:fluid.molten.enderium=熔融末影
     S:fluid.molten.enderiumbase=熔融末影锭粗胚
+    S:fluid.molten.enderpearl=Molten Enderpearls
     S:fluid.molten.ferrouschloride=熔融氯化亚铁
     S:fluid.molten.fierysteel=熔融炙热钢
     S:fluid.molten.fluorite=熔融氟石
@@ -8757,29 +8759,35 @@ languagefile {
     S:gt.multitileentity.20232.name=压力成型机 (钢)
     S:gt.multitileentity.20233.name=压力成型机 (钛)
     S:gt.multitileentity.20234.name=压力成型机 (钨钢)
+    S:gt.multitileentity.2024.name=Mechanical Meteoric Steel Safe
     S:gt.multitileentity.20241.name=液化炉 (钢)
     S:gt.multitileentity.20242.name=液化炉 (因瓦合金)
     S:gt.multitileentity.20243.name=液化炉 (钛)
     S:gt.multitileentity.20244.name=液化炉 (碳化钨)
+    S:gt.multitileentity.2025.name=Mechanical Knightmetal Safe
     S:gt.multitileentity.20251.name=结晶器 (钢)
     S:gt.multitileentity.20252.name=结晶器 (因瓦合金)
     S:gt.multitileentity.20253.name=结晶器 (钛)
     S:gt.multitileentity.20254.name=结晶器 (碳化钨)
+    S:gt.multitileentity.2026.name=Mechanical Tungsten Safe
     S:gt.multitileentity.20261.name=流体灌装机 (LV)
     S:gt.multitileentity.20262.name=流体灌装机 (MV)
     S:gt.multitileentity.20263.name=流体灌装机 (HV)
     S:gt.multitileentity.20264.name=流体灌装机 (EV)
     S:gt.multitileentity.20265.name=流体灌装机 (IV)
+    S:gt.multitileentity.2027.name=Mechanical Thaumium Safe
     S:gt.multitileentity.20271.name=打印机 (LV)
     S:gt.multitileentity.20272.name=打印机 (MV)
     S:gt.multitileentity.20273.name=打印机 (HV)
     S:gt.multitileentity.20274.name=打印机 (EV)
     S:gt.multitileentity.20275.name=打印机 (IV)
+    S:gt.multitileentity.2028.name=Mechanical Void Metal Safe
     S:gt.multitileentity.20281.name=扫描仪 (LV)
     S:gt.multitileentity.20282.name=扫描仪 (MV)
     S:gt.multitileentity.20283.name=扫描仪 (HV)
     S:gt.multitileentity.20284.name=扫描仪 (EV)
     S:gt.multitileentity.20285.name=扫描仪 (IV)
+    S:gt.multitileentity.2029.name=Mechanical Osmium Safe
     S:gt.multitileentity.20291.name=洗矿厂 (青铜)
     S:gt.multitileentity.20292.name=洗矿厂 (钢)
     S:gt.multitileentity.20293.name=洗矿厂 (钛)
@@ -8825,25 +8833,31 @@ languagefile {
     S:gt.multitileentity.20363.name=电力织布机 (HV)
     S:gt.multitileentity.20364.name=电力织布机 (EV)
     S:gt.multitileentity.20365.name=电力织布机 (IV)
+    S:gt.multitileentity.2037.name=Mechanical 'Osmium' Safe
     S:gt.multitileentity.20371.name=电动筛矿机 (LV)
     S:gt.multitileentity.20372.name=电动筛矿机 (MV)
     S:gt.multitileentity.20373.name=电动筛矿机 (HV)
     S:gt.multitileentity.20374.name=电动筛矿机 (EV)
     S:gt.multitileentity.20375.name=电动筛矿机 (IV)
+    S:gt.multitileentity.2038.name=Mechanical Ardite Safe
     S:gt.multitileentity.20381.name=切片器 (LV)
     S:gt.multitileentity.20382.name=切片器 (MV)
     S:gt.multitileentity.20383.name=切片器 (HV)
     S:gt.multitileentity.20384.name=切片器 (EV)
     S:gt.multitileentity.20385.name=切片器 (IV)
+    S:gt.multitileentity.2039.name=Mechanical Manyullyn Safe
     S:gt.multitileentity.20391.name=压模机 (钢)
     S:gt.multitileentity.20392.name=压模机 (因瓦合金)
     S:gt.multitileentity.20393.name=压模机 (钛)
     S:gt.multitileentity.20394.name=压模机 (碳化钨)
+    S:gt.multitileentity.2040.name=Mechanical Manasteel Safe
+    S:gt.multitileentity.2041.name=Mechanical Elven Elementium Safe
     S:gt.multitileentity.20411.name=物质制造器 (T1)
     S:gt.multitileentity.20412.name=物质制造器 (T2)
     S:gt.multitileentity.20413.name=物质制造器 (T3)
     S:gt.multitileentity.20414.name=物质制造器 (T4)
     S:gt.multitileentity.20415.name=物质制造器 (T5)
+    S:gt.multitileentity.2042.name=Mechanical Terrasteel Safe
     S:gt.multitileentity.20423.name=分子扫描仪 (T3)
     S:gt.multitileentity.20431.name=物质复制器 (T1)
     S:gt.multitileentity.20432.name=物质复制器 (T2)
@@ -8896,7 +8910,9 @@ languagefile {
     S:gt.multitileentity.22003.name=发酵器
     S:gt.multitileentity.22004.name=高压釜
     S:gt.multitileentity.23.name=锗箱子
+    S:gt.multitileentity.24.name=Meteoric Steel Chest
     S:gt.multitileentity.24900.name=光纤
+    S:gt.multitileentity.25.name=Knightmetal Chest
     S:gt.multitileentity.25002.name=黄铜物流管道
     S:gt.multitileentity.25003.name=大型黄铜物流管道
     S:gt.multitileentity.25004.name=巨型黄铜物流管道
@@ -8933,6 +8949,7 @@ languagefile {
     S:gt.multitileentity.25905.name=限制振金-银合金物流管道
     S:gt.multitileentity.25906.name=大型限制振金-银合金物流管道
     S:gt.multitileentity.25907.name=巨型限制振金-银合金物流管道
+    S:gt.multitileentity.26.name=Tungsten Chest
     S:gt.multitileentity.26000.name=微型木流体管道
     S:gt.multitileentity.26001.name=小型木流体管道
     S:gt.multitileentity.26002.name=木流体管道
@@ -9115,12 +9132,14 @@ languagefile {
     S:gt.multitileentity.26504.name=巨型碳流体管道
     S:gt.multitileentity.26505.name=四合一碳流体管道
     S:gt.multitileentity.26506.name=九合一碳流体管道
+    S:gt.multitileentity.27.name=Thaumium Chest
     S:gt.multitileentity.27000.name=红色合金线缆
     S:gt.multitileentity.27006.name=红色合金线缆
     S:gt.multitileentity.27050.name=信素线缆
     S:gt.multitileentity.27056.name=信素线缆
     S:gt.multitileentity.27500.name=流明线缆
     S:gt.multitileentity.27506.name=流明线缆
+    S:gt.multitileentity.28.name=Void Metal Chest
     S:gt.multitileentity.28050.name=1x 未绝缘锡线缆
     S:gt.multitileentity.28051.name=2x 未绝缘锡线缆
     S:gt.multitileentity.28053.name=4x 未绝缘锡线缆
@@ -9275,6 +9294,7 @@ languagefile {
     S:gt.multitileentity.28969.name=4x 绝缘钢线缆
     S:gt.multitileentity.28973.name=8x 绝缘钢线缆
     S:gt.multitileentity.28977.name=12x 绝缘钢线缆
+    S:gt.multitileentity.29.name=Osmium Chest
     S:gt.multitileentity.29000.name=1x 未绝缘铝线缆
     S:gt.multitileentity.29001.name=2x 未绝缘铝线缆
     S:gt.multitileentity.29003.name=4x 未绝缘铝线缆
@@ -9415,11 +9435,17 @@ languagefile {
     S:gt.multitileentity.3021.name=带锁的钴保险箱
     S:gt.multitileentity.3022.name=带锁的镍保险箱
     S:gt.multitileentity.3023.name=带锁的锗保险箱
+    S:gt.multitileentity.3024.name=Key Locked Meteoric Steel Safe
+    S:gt.multitileentity.3025.name=Key Locked Knightmetal Safe
     S:gt.multitileentity.30255.name=通用过滤器
     S:gt.multitileentity.30256.name=物品过滤器
     S:gt.multitileentity.30257.name=液体过滤器
     S:gt.multitileentity.30258.name=固/液过滤器
     S:gt.multitileentity.30259.name=矿辞过滤器
+    S:gt.multitileentity.3026.name=Key Locked Tungsten Safe
+    S:gt.multitileentity.3027.name=Key Locked Thaumium Safe
+    S:gt.multitileentity.3028.name=Key Locked Void Metal Safe
+    S:gt.multitileentity.3029.name=Key Locked Osmium Safe
     S:gt.multitileentity.3030.name=带锁的戴斯保险箱
     S:gt.multitileentity.3031.name=带锁的钍瑞铌保险箱
     S:gt.multitileentity.3032.name=带锁的钛金保险箱
@@ -9427,6 +9453,12 @@ languagefile {
     S:gt.multitileentity.3034.name=带锁的基岩合金保险箱
     S:gt.multitileentity.3035.name=带锁的龙保险箱
     S:gt.multitileentity.3036.name=带锁的觉醒龙保险箱
+    S:gt.multitileentity.3037.name=Key Locked 'Osmium' Safe
+    S:gt.multitileentity.3038.name=Key Locked Ardite Safe
+    S:gt.multitileentity.3039.name=Key Locked Manyullyn Safe
+    S:gt.multitileentity.3040.name=Key Locked Manasteel Safe
+    S:gt.multitileentity.3041.name=Key Locked Elven Elementium Safe
+    S:gt.multitileentity.3042.name=Key Locked Terrasteel Safe
     S:gt.multitileentity.31.name=钍瑞铌箱子
     S:gt.multitileentity.31000.name=温度传感器
     S:gt.multitileentity.31001.name=锅炉压力传感器(单位:Gibbl)
@@ -9520,6 +9552,7 @@ languagefile {
     S:gt.multitileentity.32748.name=不锈钢喷嘴
     S:gt.multitileentity.32749.name=钨喷嘴
     S:gt.multitileentity.32750.name=艾德曼合金喷嘴
+    S:gt.multitileentity.32751.name=Storage Inserter
     S:gt.multitileentity.32755.name=黄蜂蜂巢
     S:gt.multitileentity.32756.name=木棍
     S:gt.multitileentity.32757.name=石头
@@ -9536,7 +9569,56 @@ languagefile {
     S:gt.multitileentity.34.name=基岩合金箱子
     S:gt.multitileentity.35.name=龙箱子
     S:gt.multitileentity.36.name=觉醒龙箱子
+    S:gt.multitileentity.37.name='Osmium' Chest
+    S:gt.multitileentity.38.name=Ardite Chest
+    S:gt.multitileentity.39.name=Manyullyn Chest
     S:gt.multitileentity.4.name=铂箱子
+    S:gt.multitileentity.40.name=Manasteel Chest
+    S:gt.multitileentity.4000.name=Compartment Drawer (Lead)
+    S:gt.multitileentity.4001.name=Compartment Drawer (Aluminium)
+    S:gt.multitileentity.4002.name=Compartment Drawer (Gold)
+    S:gt.multitileentity.4003.name=Compartment Drawer (Silver)
+    S:gt.multitileentity.4004.name=Compartment Drawer (Platinum)
+    S:gt.multitileentity.4005.name=Compartment Drawer (Tin Alloy)
+    S:gt.multitileentity.4006.name=Compartment Drawer (Invar)
+    S:gt.multitileentity.4007.name=Compartment Drawer (Electrum)
+    S:gt.multitileentity.4008.name=Compartment Drawer (Brass)
+    S:gt.multitileentity.4009.name=Compartment Drawer (Bronze)
+    S:gt.multitileentity.4010.name=Compartment Drawer (Steel)
+    S:gt.multitileentity.4011.name=Compartment Drawer (Stainless Steel)
+    S:gt.multitileentity.4012.name=Compartment Drawer (Titanium)
+    S:gt.multitileentity.4013.name=Compartment Drawer (Chromium)
+    S:gt.multitileentity.4014.name=Compartment Drawer (Tungstensteel)
+    S:gt.multitileentity.4015.name=Compartment Drawer (Iridium)
+    S:gt.multitileentity.4016.name=Compartment Drawer (Bismuth)
+    S:gt.multitileentity.4017.name=Compartment Drawer (Tungsten Carbide)
+    S:gt.multitileentity.4018.name=Compartment Drawer (HSLA-Steel)
+    S:gt.multitileentity.4019.name=Compartment Drawer (Galvanized Steel)
+    S:gt.multitileentity.4020.name=Compartment Drawer (Gilded Iron)
+    S:gt.multitileentity.4021.name=Compartment Drawer (Cobalt)
+    S:gt.multitileentity.4022.name=Compartment Drawer (Nickel)
+    S:gt.multitileentity.4023.name=Compartment Drawer (Germanium)
+    S:gt.multitileentity.4024.name=Compartment Drawer (Meteoric Steel)
+    S:gt.multitileentity.4025.name=Compartment Drawer (Knightmetal)
+    S:gt.multitileentity.4026.name=Compartment Drawer (Tungsten)
+    S:gt.multitileentity.4027.name=Compartment Drawer (Thaumium)
+    S:gt.multitileentity.4028.name=Compartment Drawer (Void Metal)
+    S:gt.multitileentity.4029.name=Compartment Drawer (Osmium)
+    S:gt.multitileentity.4030.name=Compartment Drawer (Desh)
+    S:gt.multitileentity.4031.name=Compartment Drawer (Duranium Alloy)
+    S:gt.multitileentity.4032.name=Compartment Drawer (Tritanium Alloy)
+    S:gt.multitileentity.4033.name=Compartment Drawer (Adamantium)
+    S:gt.multitileentity.4034.name=Compartment Drawer (Bedrock-HSLA-Alloy)
+    S:gt.multitileentity.4035.name=Compartment Drawer (Draconium)
+    S:gt.multitileentity.4036.name=Compartment Drawer (Awakened Draconium)
+    S:gt.multitileentity.4037.name=Compartment Drawer ('Osmium')
+    S:gt.multitileentity.4038.name=Compartment Drawer (Ardite)
+    S:gt.multitileentity.4039.name=Compartment Drawer (Manyullyn)
+    S:gt.multitileentity.4040.name=Compartment Drawer (Manasteel)
+    S:gt.multitileentity.4041.name=Compartment Drawer (Elven Elementium)
+    S:gt.multitileentity.4042.name=Compartment Drawer (Terrasteel)
+    S:gt.multitileentity.41.name=Elven Elementium Chest
+    S:gt.multitileentity.42.name=Terrasteel Chest
     S:gt.multitileentity.5.name=锡合金箱子
     S:gt.multitileentity.500.name=铅强化木箱
     S:gt.multitileentity.5000.name=高级工作台 (铅)
@@ -9565,6 +9647,12 @@ languagefile {
     S:gt.multitileentity.5021.name=高级工作台 (Cobalt)
     S:gt.multitileentity.5022.name=高级工作台 (Nickel)
     S:gt.multitileentity.5023.name=高级工作台 (Germanium)
+    S:gt.multitileentity.5024.name=Advanced Crafting Table (Meteoric Steel)
+    S:gt.multitileentity.5025.name=Advanced Crafting Table (Knightmetal)
+    S:gt.multitileentity.5026.name=Advanced Crafting Table (Tungsten)
+    S:gt.multitileentity.5027.name=Advanced Crafting Table (Thaumium)
+    S:gt.multitileentity.5028.name=Advanced Crafting Table (Void Metal)
+    S:gt.multitileentity.5029.name=Advanced Crafting Table (Osmium)
     S:gt.multitileentity.503.name=银强化木箱
     S:gt.multitileentity.5030.name=高级工作台 (戴斯)
     S:gt.multitileentity.5031.name=高级工作台 (钍瑞铌)
@@ -9573,7 +9661,13 @@ languagefile {
     S:gt.multitileentity.5034.name=高级工作台 (基岩合金)
     S:gt.multitileentity.5035.name=高级工作台 (Draconium)
     S:gt.multitileentity.5036.name=高级工作台 (觉醒Draconium)
+    S:gt.multitileentity.5037.name=Advanced Crafting Table ('Osmium')
+    S:gt.multitileentity.5038.name=Advanced Crafting Table (Ardite)
+    S:gt.multitileentity.5039.name=Advanced Crafting Table (Manyullyn)
     S:gt.multitileentity.504.name=铂强化木箱
+    S:gt.multitileentity.5040.name=Advanced Crafting Table (Manasteel)
+    S:gt.multitileentity.5041.name=Advanced Crafting Table (Elven Elementium)
+    S:gt.multitileentity.5042.name=Advanced Crafting Table (Terrasteel)
     S:gt.multitileentity.505.name=锡合金强化木箱
     S:gt.multitileentity.506.name=因瓦合金强化木箱
     S:gt.multitileentity.507.name=琥珀金强化木箱
@@ -9593,6 +9687,12 @@ languagefile {
     S:gt.multitileentity.521.name=钴强化木箱
     S:gt.multitileentity.522.name=镍强化木箱
     S:gt.multitileentity.523.name=锗强化木箱
+    S:gt.multitileentity.524.name=Meteoric Steel reinforced wooden Chest
+    S:gt.multitileentity.525.name=Knightmetal reinforced wooden Chest
+    S:gt.multitileentity.526.name=Tungsten reinforced wooden Chest
+    S:gt.multitileentity.527.name=Thaumium reinforced wooden Chest
+    S:gt.multitileentity.528.name=Void Metal reinforced wooden Chest
+    S:gt.multitileentity.529.name=Osmium reinforced wooden Chest
     S:gt.multitileentity.530.name=戴斯强化木箱
     S:gt.multitileentity.531.name=钍瑞铌强化木箱
     S:gt.multitileentity.532.name=钛金强化木箱
@@ -9600,6 +9700,12 @@ languagefile {
     S:gt.multitileentity.534.name=基岩合金强化木箱
     S:gt.multitileentity.535.name=龙强化木箱
     S:gt.multitileentity.536.name=觉醒龙强化木箱
+    S:gt.multitileentity.537.name='Osmium' reinforced wooden Chest
+    S:gt.multitileentity.538.name=Ardite reinforced wooden Chest
+    S:gt.multitileentity.539.name=Manyullyn reinforced wooden Chest
+    S:gt.multitileentity.540.name=Manasteel reinforced wooden Chest
+    S:gt.multitileentity.541.name=Elven Elementium reinforced wooden Chest
+    S:gt.multitileentity.542.name=Terrasteel reinforced wooden Chest
     S:gt.multitileentity.5500.name=充能工作台 (铅)
     S:gt.multitileentity.5501.name=充能工作台 (铝)
     S:gt.multitileentity.5502.name=充能工作台 (金)
@@ -9624,6 +9730,12 @@ languagefile {
     S:gt.multitileentity.5521.name=充能工作台 (Cobalt)
     S:gt.multitileentity.5522.name=充能工作台 (Nickel)
     S:gt.multitileentity.5523.name=充能工作台 (Germanium)
+    S:gt.multitileentity.5524.name=Charging Crafting Table (Meteoric Steel)
+    S:gt.multitileentity.5525.name=Charging Crafting Table (Knightmetal)
+    S:gt.multitileentity.5526.name=Charging Crafting Table (Tungsten)
+    S:gt.multitileentity.5527.name=Charging Crafting Table (Thaumium)
+    S:gt.multitileentity.5528.name=Charging Crafting Table (Void Metal)
+    S:gt.multitileentity.5529.name=Charging Crafting Table (Osmium)
     S:gt.multitileentity.5530.name=充能工作台 (戴斯)
     S:gt.multitileentity.5531.name=充能工作台 (钍瑞铌)
     S:gt.multitileentity.5532.name=充能工作台 (钛金)
@@ -9631,6 +9743,12 @@ languagefile {
     S:gt.multitileentity.5534.name=充能工作台 (基岩合金)
     S:gt.multitileentity.5535.name=充能工作台 (Draconium)
     S:gt.multitileentity.5536.name=充能工作台 (觉醒Draconium)
+    S:gt.multitileentity.5537.name=Charging Crafting Table ('Osmium')
+    S:gt.multitileentity.5538.name=Charging Crafting Table (Ardite)
+    S:gt.multitileentity.5539.name=Charging Crafting Table (Manyullyn)
+    S:gt.multitileentity.5540.name=Charging Crafting Table (Manasteel)
+    S:gt.multitileentity.5541.name=Charging Crafting Table (Elven Elementium)
+    S:gt.multitileentity.5542.name=Charging Crafting Table (Terrasteel)
     S:gt.multitileentity.6.name=因瓦合金箱子
     S:gt.multitileentity.6000.name=量子存储器 (铅)
     S:gt.multitileentity.6001.name=量子存储器 (铝)
@@ -9656,6 +9774,12 @@ languagefile {
     S:gt.multitileentity.6021.name=Mass Storage (Cobalt)
     S:gt.multitileentity.6022.name=Mass Storage (Nickel)
     S:gt.multitileentity.6023.name=Mass Storage (Germanium)
+    S:gt.multitileentity.6024.name=Mass Storage (Meteoric Steel)
+    S:gt.multitileentity.6025.name=Mass Storage (Knightmetal)
+    S:gt.multitileentity.6026.name=Mass Storage (Tungsten)
+    S:gt.multitileentity.6027.name=Mass Storage (Thaumium)
+    S:gt.multitileentity.6028.name=Mass Storage (Void Metal)
+    S:gt.multitileentity.6029.name=Mass Storage (Osmium)
     S:gt.multitileentity.6030.name=量子存储器 (戴斯)
     S:gt.multitileentity.6031.name=量子存储器 (钍瑞铌)
     S:gt.multitileentity.6032.name=量子存储器 (钛金)
@@ -9663,6 +9787,12 @@ languagefile {
     S:gt.multitileentity.6034.name=量子存储器 (基岩合金)
     S:gt.multitileentity.6035.name=Mass Storage (Draconium)
     S:gt.multitileentity.6036.name=Mass Storage (觉醒Draconium)
+    S:gt.multitileentity.6037.name=Mass Storage ('Osmium')
+    S:gt.multitileentity.6038.name=Mass Storage (Ardite)
+    S:gt.multitileentity.6039.name=Mass Storage (Manyullyn)
+    S:gt.multitileentity.6040.name=Mass Storage (Manasteel)
+    S:gt.multitileentity.6041.name=Mass Storage (Elven Elementium)
+    S:gt.multitileentity.6042.name=Mass Storage (Terrasteel)
     S:gt.multitileentity.6997.name=铁木储物桶
     S:gt.multitileentity.6998.name=简易木储物桶
     S:gt.multitileentity.6999.name=物品储罐
@@ -9791,6 +9921,12 @@ languagefile {
     S:gt.multitileentity.7121.name=书架 (钴)
     S:gt.multitileentity.7122.name=书架 (Nickel)
     S:gt.multitileentity.7123.name=书架 (Germanium)
+    S:gt.multitileentity.7124.name=Bookshelf (Meteoric Steel)
+    S:gt.multitileentity.7125.name=Bookshelf (Knightmetal)
+    S:gt.multitileentity.7126.name=Bookshelf (Tungsten)
+    S:gt.multitileentity.7127.name=Bookshelf (Thaumium)
+    S:gt.multitileentity.7128.name=Bookshelf (Void Metal)
+    S:gt.multitileentity.7129.name=Bookshelf (Osmium)
     S:gt.multitileentity.7130.name=书架 (戴斯)
     S:gt.multitileentity.7131.name=书架 (钍瑞铌)
     S:gt.multitileentity.7132.name=书架 (钛金)
@@ -9798,6 +9934,12 @@ languagefile {
     S:gt.multitileentity.7134.name=书架 (基岩合金)
     S:gt.multitileentity.7135.name=书架 (龙)
     S:gt.multitileentity.7136.name=书架 (觉醒龙)
+    S:gt.multitileentity.7137.name=Bookshelf ('Osmium')
+    S:gt.multitileentity.7138.name=Bookshelf (Ardite)
+    S:gt.multitileentity.7139.name=Bookshelf (Manyullyn)
+    S:gt.multitileentity.7140.name=Bookshelf (Manasteel)
+    S:gt.multitileentity.7141.name=Bookshelf (Elven Elementium)
+    S:gt.multitileentity.7142.name=Bookshelf (Terrasteel)
     S:gt.multitileentity.8.name=黄铜箱子
     S:gt.multitileentity.8000.name=铅漏斗
     S:gt.multitileentity.8001.name=铝漏斗
@@ -9823,6 +9965,12 @@ languagefile {
     S:gt.multitileentity.8021.name=钴漏斗
     S:gt.multitileentity.8022.name=镍漏斗
     S:gt.multitileentity.8023.name=锗漏斗
+    S:gt.multitileentity.8024.name=Meteoric Steel Hopper
+    S:gt.multitileentity.8025.name=Knightmetal Hopper
+    S:gt.multitileentity.8026.name=Tungsten Hopper
+    S:gt.multitileentity.8027.name=Thaumium Hopper
+    S:gt.multitileentity.8028.name=Void Metal Hopper
+    S:gt.multitileentity.8029.name=Osmium Hopper
     S:gt.multitileentity.8030.name=戴斯漏斗
     S:gt.multitileentity.8031.name=钍瑞铌漏斗
     S:gt.multitileentity.8032.name=钛金漏斗
@@ -9830,6 +9978,12 @@ languagefile {
     S:gt.multitileentity.8034.name=HSLA基岩合金漏斗
     S:gt.multitileentity.8035.name=龙漏斗
     S:gt.multitileentity.8036.name=觉醒龙漏斗
+    S:gt.multitileentity.8037.name='Osmium' Hopper
+    S:gt.multitileentity.8038.name=Ardite Hopper
+    S:gt.multitileentity.8039.name=Manyullyn Hopper
+    S:gt.multitileentity.8040.name=Manasteel Hopper
+    S:gt.multitileentity.8041.name=Elven Elementium Hopper
+    S:gt.multitileentity.8042.name=Terrasteel Hopper
     S:gt.multitileentity.8200.name=铅队列漏斗(FIFO)
     S:gt.multitileentity.8201.name=铝队列漏斗(FIFO)
     S:gt.multitileentity.8202.name=金队列漏斗(FIFO)
@@ -9854,6 +10008,12 @@ languagefile {
     S:gt.multitileentity.8221.name=钴队列漏斗(FIFO)
     S:gt.multitileentity.8222.name=镍队列漏斗(FIFO)
     S:gt.multitileentity.8223.name=锗队列漏斗(FIFO)
+    S:gt.multitileentity.8224.name=Meteoric Steel Queue Hopper
+    S:gt.multitileentity.8225.name=Knightmetal Queue Hopper
+    S:gt.multitileentity.8226.name=Tungsten Queue Hopper
+    S:gt.multitileentity.8227.name=Thaumium Queue Hopper
+    S:gt.multitileentity.8228.name=Void Metal Queue Hopper
+    S:gt.multitileentity.8229.name=Osmium Queue Hopper
     S:gt.multitileentity.8230.name=戴斯队列漏斗(FIFO)
     S:gt.multitileentity.8231.name=钍瑞铌队列漏斗(FIFO)
     S:gt.multitileentity.8232.name=三钛队列漏斗(FIFO)
@@ -9861,6 +10021,12 @@ languagefile {
     S:gt.multitileentity.8234.name=HSLA基岩合金队列漏斗(FIFO)
     S:gt.multitileentity.8235.name=龙队列漏斗(FIFO)
     S:gt.multitileentity.8236.name=觉醒龙队列漏斗(FIFO)
+    S:gt.multitileentity.8237.name='Osmium' Queue Hopper
+    S:gt.multitileentity.8238.name=Ardite Queue Hopper
+    S:gt.multitileentity.8239.name=Manyullyn Queue Hopper
+    S:gt.multitileentity.8240.name=Manasteel Queue Hopper
+    S:gt.multitileentity.8241.name=Elven Elementium Queue Hopper
+    S:gt.multitileentity.8242.name=Terrasteel Queue Hopper
     S:gt.multitileentity.9.name=青铜箱子
     S:gt.multitileentity.data.switch.tooltip.1=Use adjacent to Machines that require USB Sticks to select Recipes
     S:gt.multitileentity.data.switch.tooltip.2=Add USB线缆 to Slot where USB Stick in the Recipe would go
@@ -10381,6 +10547,7 @@ languagefile {
     S:gt.td.long.energy.vis_perditio=混沌魔力
     S:gt.td.long.energy.vis_terra=地之魔力
     S:gt.td.long.nei.hidden=Hidden
+    S:gt.td.long.prefix.ammo_alike=Ammo
     S:gt.td.long.prefix.armor_alike=盔甲
     S:gt.td.long.prefix.block_based=基于方块
     S:gt.td.long.prefix.burnable=可燃
@@ -10542,6 +10709,7 @@ languagefile {
     S:gt.td.short.energy.vis_perditio=混沌
     S:gt.td.short.energy.vis_terra=地
     S:gt.td.short.nei.hidden=隐藏
+    S:gt.td.short.prefix.ammo_alike=Ammo
     S:gt.td.short.prefix.armor_alike=护甲
     S:gt.td.short.prefix.block_based=方块
     S:gt.td.short.prefix.burnable=可燃
@@ -10809,6 +10977,7 @@ languagefile {
     S:itemGroup.gt.multitileentity.32719=流体储存设备
     S:itemGroup.gt.multitileentity.32720=杂类工具方块
     S:itemGroup.gt.multitileentity.32745=箱子
+    S:itemGroup.gt.multitileentity.32751=Storage
     S:itemGroup.gt.multitileentity.32764=未分类
     S:itemGroup.gt.multitileentity.32765=建筑泡沫
     S:itemGroup.gt.multitileentity.32766=传送门
@@ -10988,6 +11157,7 @@ languagefile {
     S:oredict.arrowGtPlasticElectricalSteel.name=轻质电钢箭
     S:oredict.arrowGtPlasticElectrum.name=轻质琥珀金箭
     S:oredict.arrowGtPlasticElectrumFlux.name=轻质熔融琥珀金箭
+    S:oredict.arrowGtPlasticElvenElementium.name=Light Elven Elementium Arrow
     S:oredict.arrowGtPlasticEmeradic.name=轻质绿宝石水晶箭
     S:oredict.arrowGtPlasticEmerald.name=轻质绿宝石箭
     S:oredict.arrowGtPlasticEmpty.name=轻质空箭
@@ -11045,6 +11215,7 @@ languagefile {
     S:oredict.arrowGtPlasticLead.name=轻质铅箭
     S:oredict.arrowGtPlasticLimestone.name=轻质石灰石箭
     S:oredict.arrowGtPlasticMagnalium.name=轻质镁铝合金箭
+    S:oredict.arrowGtPlasticManasteel.name=Light Manasteel Arrow
     S:oredict.arrowGtPlasticManganese.name=轻质锰箭
     S:oredict.arrowGtPlasticManyullyn.name=轻质玛玉灵箭
     S:oredict.arrowGtPlasticMarble.name=轻质大理石箭
@@ -11126,6 +11297,7 @@ languagefile {
     S:oredict.arrowGtPlasticStone.name=轻质石箭
     S:oredict.arrowGtPlasticTanzanite.name=轻质坦桑石箭
     S:oredict.arrowGtPlasticTartarite.name=轻质溶火之石箭
+    S:oredict.arrowGtPlasticTerrasteel.name=Light Terrasteel Arrow
     S:oredict.arrowGtPlasticThaumium.name=轻质神秘箭
     S:oredict.arrowGtPlasticThorium.name=轻质钍箭
     S:oredict.arrowGtPlasticTinAlloy.name=轻质锡合金箭
@@ -11243,6 +11415,7 @@ languagefile {
     S:oredict.arrowGtWoodElectricalSteel.name=电钢箭
     S:oredict.arrowGtWoodElectrum.name=琥珀金箭
     S:oredict.arrowGtWoodElectrumFlux.name=熔融琥珀金箭
+    S:oredict.arrowGtWoodElvenElementium.name=Elven Elementium Arrow
     S:oredict.arrowGtWoodEmeradic.name=绿宝石水晶箭
     S:oredict.arrowGtWoodEmerald.name=绿宝石箭
     S:oredict.arrowGtWoodEmpty.name=空箭
@@ -11300,6 +11473,7 @@ languagefile {
     S:oredict.arrowGtWoodLead.name=铅箭
     S:oredict.arrowGtWoodLimestone.name=石灰石箭
     S:oredict.arrowGtWoodMagnalium.name=镁铝合金箭
+    S:oredict.arrowGtWoodManasteel.name=Manasteel Arrow
     S:oredict.arrowGtWoodManganese.name=锰箭
     S:oredict.arrowGtWoodManyullyn.name=玛玉灵箭
     S:oredict.arrowGtWoodMarble.name=大理石箭
@@ -11381,6 +11555,7 @@ languagefile {
     S:oredict.arrowGtWoodStone.name=石箭
     S:oredict.arrowGtWoodTanzanite.name=坦桑石箭
     S:oredict.arrowGtWoodTartarite.name=溶火之石箭
+    S:oredict.arrowGtWoodTerrasteel.name=Terrasteel Arrow
     S:oredict.arrowGtWoodThaumium.name=神秘箭
     S:oredict.arrowGtWoodThorium.name=钍箭
     S:oredict.arrowGtWoodTinAlloy.name=锡合金箭
@@ -52947,6 +53122,7 @@ languagefile {
     S:oredict.toolHeadArrowElectricalSteel.name=电钢箭头
     S:oredict.toolHeadArrowElectrum.name=琥珀金箭头
     S:oredict.toolHeadArrowElectrumFlux.name=熔融琥珀金箭头
+    S:oredict.toolHeadArrowElvenElementium.name=Elven Elementium Arrow Head
     S:oredict.toolHeadArrowEmeradic.name=绿宝石水晶箭头
     S:oredict.toolHeadArrowEmerald.name=绿宝石箭头
     S:oredict.toolHeadArrowEmpty.name=空箭头
@@ -53003,6 +53179,7 @@ languagefile {
     S:oredict.toolHeadArrowLead.name=铅箭头
     S:oredict.toolHeadArrowLimestone.name=石灰石箭头
     S:oredict.toolHeadArrowMagnalium.name=镁铝合金箭头
+    S:oredict.toolHeadArrowManasteel.name=Manasteel Arrow Head
     S:oredict.toolHeadArrowManganese.name=锰箭头
     S:oredict.toolHeadArrowManyullyn.name=玛玉灵箭头
     S:oredict.toolHeadArrowMarble.name=大理石箭头
@@ -53084,6 +53261,7 @@ languagefile {
     S:oredict.toolHeadArrowStone.name=石箭头
     S:oredict.toolHeadArrowTanzanite.name=坦桑石箭头
     S:oredict.toolHeadArrowTartarite.name=溶火之石箭头
+    S:oredict.toolHeadArrowTerrasteel.name=Terrasteel Arrow Head
     S:oredict.toolHeadArrowThaumium.name=神秘箭头
     S:oredict.toolHeadArrowThorium.name=钍箭头
     S:oredict.toolHeadArrowTinAlloy.name=锡合金箭头
@@ -53269,6 +53447,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleElectricalSteel.name=电钢双刃斧头
     S:oredict.toolHeadAxeDoubleElectrum.name=琥珀金双刃斧头
     S:oredict.toolHeadAxeDoubleElectrumFlux.name=熔融琥珀金双刃斧头
+    S:oredict.toolHeadAxeDoubleElvenElementium.name=Elven Elementium Double Axe Head
     S:oredict.toolHeadAxeDoubleEmeradic.name=绿宝石水晶双刃斧头
     S:oredict.toolHeadAxeDoubleEmerald.name=绿宝石双刃斧头
     S:oredict.toolHeadAxeDoubleEmpty.name=空双刃斧头
@@ -53316,6 +53495,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleKomatiite.name=科马提岩双刃斧头
     S:oredict.toolHeadAxeDoubleLead.name=铅双刃斧头
     S:oredict.toolHeadAxeDoubleMagnalium.name=镁铝合金双刃斧头
+    S:oredict.toolHeadAxeDoubleManasteel.name=Manasteel Double Axe Head
     S:oredict.toolHeadAxeDoubleManganese.name=锰双刃斧头
     S:oredict.toolHeadAxeDoubleManyullyn.name=玛玉灵双刃斧头
     S:oredict.toolHeadAxeDoubleMaxixe.name=Maxixe Double Axe Head
@@ -53385,6 +53565,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleSterlingSilver.name=标准银双刃斧头
     S:oredict.toolHeadAxeDoubleTanzanite.name=坦桑石双刃斧头
     S:oredict.toolHeadAxeDoubleTartarite.name=溶火之石双刃斧头
+    S:oredict.toolHeadAxeDoubleTerrasteel.name=Terrasteel Double Axe Head
     S:oredict.toolHeadAxeDoubleThaumium.name=神秘双刃斧头
     S:oredict.toolHeadAxeDoubleThorium.name=钍双刃斧头
     S:oredict.toolHeadAxeDoubleTinAlloy.name=锡合金双刃斧头
@@ -53425,6 +53606,7 @@ languagefile {
     S:oredict.toolHeadAxeElectricalSteel.name=电钢斧头
     S:oredict.toolHeadAxeElectrum.name=琥珀金斧头
     S:oredict.toolHeadAxeElectrumFlux.name=熔融琥珀金斧头
+    S:oredict.toolHeadAxeElvenElementium.name=Elven Elementium Axe Head
     S:oredict.toolHeadAxeEmeradic.name=绿宝石水晶斧头
     S:oredict.toolHeadAxeEmerald.name=绿宝石斧头
     S:oredict.toolHeadAxeEmpty.name=空斧头
@@ -53481,6 +53663,7 @@ languagefile {
     S:oredict.toolHeadAxeLead.name=铅斧头
     S:oredict.toolHeadAxeLimestone.name=石灰石斧头
     S:oredict.toolHeadAxeMagnalium.name=镁铝合金斧头
+    S:oredict.toolHeadAxeManasteel.name=Manasteel Axe Head
     S:oredict.toolHeadAxeManganese.name=锰斧头
     S:oredict.toolHeadAxeManyullyn.name=玛玉灵斧头
     S:oredict.toolHeadAxeMarble.name=大理石斧头
@@ -53562,6 +53745,7 @@ languagefile {
     S:oredict.toolHeadAxeStone.name=石斧头
     S:oredict.toolHeadAxeTanzanite.name=坦桑石斧头
     S:oredict.toolHeadAxeTartarite.name=溶火之石斧头
+    S:oredict.toolHeadAxeTerrasteel.name=Terrasteel Axe Head
     S:oredict.toolHeadAxeThaumium.name=神秘斧头
     S:oredict.toolHeadAxeThorium.name=钍斧头
     S:oredict.toolHeadAxeTinAlloy.name=锡合金斧头
@@ -53674,6 +53858,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawElectricalSteel.name=电钢圆锯片
     S:oredict.toolHeadBuzzSawElectrum.name=琥珀金圆锯片
     S:oredict.toolHeadBuzzSawElectrumFlux.name=熔融琥珀金圆锯片
+    S:oredict.toolHeadBuzzSawElvenElementium.name=Elven Elementium Buzzsaw Blade
     S:oredict.toolHeadBuzzSawEmeradic.name=Emeradic Buzzsaw Blade
     S:oredict.toolHeadBuzzSawEmerald.name=绿宝石圆锯片
     S:oredict.toolHeadBuzzSawEmpty.name=空圆锯片
@@ -53720,6 +53905,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawKomatiite.name=科马提岩圆锯片
     S:oredict.toolHeadBuzzSawLead.name=铅圆锯片
     S:oredict.toolHeadBuzzSawMagnalium.name=镁铝合金圆锯片
+    S:oredict.toolHeadBuzzSawManasteel.name=Manasteel Buzzsaw Blade
     S:oredict.toolHeadBuzzSawManganese.name=锰圆锯片
     S:oredict.toolHeadBuzzSawManyullyn.name=玛玉灵圆锯片
     S:oredict.toolHeadBuzzSawMaxixe.name=Maxixe Buzzsaw Blade
@@ -53786,6 +53972,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawSterlingSilver.name=标准银圆锯片
     S:oredict.toolHeadBuzzSawTanzanite.name=坦桑石圆锯片
     S:oredict.toolHeadBuzzSawTartarite.name=溶火之石圆锯片
+    S:oredict.toolHeadBuzzSawTerrasteel.name=Terrasteel Buzzsaw Blade
     S:oredict.toolHeadBuzzSawThaumium.name=神秘锭圆锯片
     S:oredict.toolHeadBuzzSawThorium.name=钍圆锯片
     S:oredict.toolHeadBuzzSawTinAlloy.name=锡合金圆锯片
@@ -53894,6 +54081,7 @@ languagefile {
     S:oredict.toolHeadChainsawElectricalSteel.name=电钢电锯头
     S:oredict.toolHeadChainsawElectrum.name=琥珀金电锯头
     S:oredict.toolHeadChainsawElectrumFlux.name=熔融琥珀金电锯头
+    S:oredict.toolHeadChainsawElvenElementium.name=Elven Elementium Chainsaw Tip
     S:oredict.toolHeadChainsawEmeradic.name=Emeradic Chainsaw Tip
     S:oredict.toolHeadChainsawEmerald.name=绿宝石电锯头
     S:oredict.toolHeadChainsawEmpty.name=空电锯头
@@ -53940,6 +54128,7 @@ languagefile {
     S:oredict.toolHeadChainsawKomatiite.name=科马提岩电锯头
     S:oredict.toolHeadChainsawLead.name=铅电锯头
     S:oredict.toolHeadChainsawMagnalium.name=镁铝合金电锯头
+    S:oredict.toolHeadChainsawManasteel.name=Manasteel Chainsaw Tip
     S:oredict.toolHeadChainsawManganese.name=锰电锯头
     S:oredict.toolHeadChainsawManyullyn.name=玛玉灵电锯头
     S:oredict.toolHeadChainsawMaxixe.name=Maxixe Chainsaw Tip
@@ -54006,6 +54195,7 @@ languagefile {
     S:oredict.toolHeadChainsawSterlingSilver.name=标准银电锯头
     S:oredict.toolHeadChainsawTanzanite.name=坦桑石电锯头
     S:oredict.toolHeadChainsawTartarite.name=溶火之石电锯头
+    S:oredict.toolHeadChainsawTerrasteel.name=Terrasteel Chainsaw Tip
     S:oredict.toolHeadChainsawThaumium.name=神秘锭电锯头
     S:oredict.toolHeadChainsawThorium.name=钍电锯头
     S:oredict.toolHeadChainsawTinAlloy.name=锡合金电锯头
@@ -54114,6 +54304,7 @@ languagefile {
     S:oredict.toolHeadChiselElectricalSteel.name=电钢凿子头
     S:oredict.toolHeadChiselElectrum.name=琥珀金凿子头
     S:oredict.toolHeadChiselElectrumFlux.name=熔融琥珀金凿子头
+    S:oredict.toolHeadChiselElvenElementium.name=Elven Elementium Chisel Head
     S:oredict.toolHeadChiselEmeradic.name=绿宝石水晶凿子头
     S:oredict.toolHeadChiselEmerald.name=绿宝石凿子头
     S:oredict.toolHeadChiselEmpty.name=空凿子头
@@ -54160,6 +54351,7 @@ languagefile {
     S:oredict.toolHeadChiselKomatiite.name=科马提岩凿子头
     S:oredict.toolHeadChiselLead.name=铅凿子头
     S:oredict.toolHeadChiselMagnalium.name=镁铝合金凿子头
+    S:oredict.toolHeadChiselManasteel.name=Manasteel Chisel Head
     S:oredict.toolHeadChiselManganese.name=锰凿子头
     S:oredict.toolHeadChiselManyullyn.name=玛玉灵凿子头
     S:oredict.toolHeadChiselMaxixe.name=Maxixe Chisel Head
@@ -54226,6 +54418,7 @@ languagefile {
     S:oredict.toolHeadChiselSterlingSilver.name=标准银凿子头
     S:oredict.toolHeadChiselTanzanite.name=坦桑石凿子头
     S:oredict.toolHeadChiselTartarite.name=溶火之石凿子头
+    S:oredict.toolHeadChiselTerrasteel.name=Terrasteel Chisel Head
     S:oredict.toolHeadChiselThaumium.name=神秘凿子头
     S:oredict.toolHeadChiselThorium.name=钍凿子头
     S:oredict.toolHeadChiselTinAlloy.name=锡合金凿子头
@@ -54334,6 +54527,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeElectricalSteel.name=电钢建筑镐头
     S:oredict.toolHeadConstructionPickaxeElectrum.name=琥珀金建筑镐头
     S:oredict.toolHeadConstructionPickaxeElectrumFlux.name=熔融琥珀金建筑镐头
+    S:oredict.toolHeadConstructionPickaxeElvenElementium.name=Elven Elementium Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeEmeradic.name=Emeradic Construction 镐头
     S:oredict.toolHeadConstructionPickaxeEmerald.name=绿宝石建筑镐头
     S:oredict.toolHeadConstructionPickaxeEmpty.name=空建筑镐头
@@ -54381,6 +54575,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeKomatiite.name=科马提岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeLead.name=铅建筑镐头
     S:oredict.toolHeadConstructionPickaxeMagnalium.name=镁铝合金建筑镐头
+    S:oredict.toolHeadConstructionPickaxeManasteel.name=Manasteel Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeManganese.name=锰建筑镐头
     S:oredict.toolHeadConstructionPickaxeManyullyn.name=玛玉灵建筑镐头
     S:oredict.toolHeadConstructionPickaxeMaxixe.name=Maxixe Construction 镐头
@@ -54450,6 +54645,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeSterlingSilver.name=标准银建筑镐头
     S:oredict.toolHeadConstructionPickaxeTanzanite.name=坦桑石建筑镐头
     S:oredict.toolHeadConstructionPickaxeTartarite.name=溶火之石建筑镐头
+    S:oredict.toolHeadConstructionPickaxeTerrasteel.name=Terrasteel Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeThaumium.name=神秘锭建筑镐头
     S:oredict.toolHeadConstructionPickaxeThorium.name=钍建筑镐头
     S:oredict.toolHeadConstructionPickaxeTinAlloy.name=锡合金建筑镐头
@@ -54558,6 +54754,7 @@ languagefile {
     S:oredict.toolHeadDrillElectricalSteel.name=电钢钻头
     S:oredict.toolHeadDrillElectrum.name=琥珀金钻头
     S:oredict.toolHeadDrillElectrumFlux.name=熔融琥珀金钻头
+    S:oredict.toolHeadDrillElvenElementium.name=Elven Elementium Drill Tip
     S:oredict.toolHeadDrillEmeradic.name=绿宝石水晶钻头
     S:oredict.toolHeadDrillEmerald.name=绿宝石钻头
     S:oredict.toolHeadDrillEmpty.name=空钻头
@@ -54604,6 +54801,7 @@ languagefile {
     S:oredict.toolHeadDrillKomatiite.name=科马提岩钻头
     S:oredict.toolHeadDrillLead.name=铅钻头
     S:oredict.toolHeadDrillMagnalium.name=镁铝合金钻头
+    S:oredict.toolHeadDrillManasteel.name=Manasteel Drill Tip
     S:oredict.toolHeadDrillManganese.name=锰钻头
     S:oredict.toolHeadDrillManyullyn.name=玛玉灵钻头
     S:oredict.toolHeadDrillMaxixe.name=Maxixe Drill Tip
@@ -54670,6 +54868,7 @@ languagefile {
     S:oredict.toolHeadDrillSterlingSilver.name=标准银钻头
     S:oredict.toolHeadDrillTanzanite.name=坦桑石钻头
     S:oredict.toolHeadDrillTartarite.name=溶火之石钻头
+    S:oredict.toolHeadDrillTerrasteel.name=Terrasteel Drill Tip
     S:oredict.toolHeadDrillThaumium.name=神秘钻头
     S:oredict.toolHeadDrillThorium.name=钍钻头
     S:oredict.toolHeadDrillTinAlloy.name=锡合金钻头
@@ -54778,6 +54977,7 @@ languagefile {
     S:oredict.toolHeadFileElectricalSteel.name=电钢锉刀头
     S:oredict.toolHeadFileElectrum.name=琥珀金锉刀头
     S:oredict.toolHeadFileElectrumFlux.name=熔融琥珀金锉刀头
+    S:oredict.toolHeadFileElvenElementium.name=Elven Elementium File Head
     S:oredict.toolHeadFileEmeradic.name=Emeradic File Head
     S:oredict.toolHeadFileEmerald.name=绿宝石锉刀头
     S:oredict.toolHeadFileEmpty.name=空锉刀头
@@ -54824,6 +55024,7 @@ languagefile {
     S:oredict.toolHeadFileKomatiite.name=科马提岩锉刀头
     S:oredict.toolHeadFileLead.name=铅锉刀头
     S:oredict.toolHeadFileMagnalium.name=镁铝合金锉刀头
+    S:oredict.toolHeadFileManasteel.name=Manasteel File Head
     S:oredict.toolHeadFileManganese.name=锰锉刀头
     S:oredict.toolHeadFileManyullyn.name=玛玉灵锉刀头
     S:oredict.toolHeadFileMaxixe.name=Maxixe File Head
@@ -54890,6 +55091,7 @@ languagefile {
     S:oredict.toolHeadFileSterlingSilver.name=标准银锉刀头
     S:oredict.toolHeadFileTanzanite.name=坦桑石锉刀头
     S:oredict.toolHeadFileTartarite.name=溶火之石锉刀头
+    S:oredict.toolHeadFileTerrasteel.name=Terrasteel File Head
     S:oredict.toolHeadFileThaumium.name=神秘锭锉刀头
     S:oredict.toolHeadFileThorium.name=钍锉刀头
     S:oredict.toolHeadFileTinAlloy.name=锡合金锉刀头
@@ -54998,6 +55200,7 @@ languagefile {
     S:oredict.toolHeadHammerElectricalSteel.name=电钢锤头
     S:oredict.toolHeadHammerElectrum.name=琥珀金锤头
     S:oredict.toolHeadHammerElectrumFlux.name=熔融琥珀金锤头
+    S:oredict.toolHeadHammerElvenElementium.name=Elven Elementium Hammer Head
     S:oredict.toolHeadHammerEmeradic.name=绿宝石水晶锤头
     S:oredict.toolHeadHammerEmerald.name=绿宝石锤头
     S:oredict.toolHeadHammerEmpty.name=空锤头
@@ -55052,6 +55255,7 @@ languagefile {
     S:oredict.toolHeadHammerLead.name=铅锤头
     S:oredict.toolHeadHammerLimestone.name=石灰石锤头
     S:oredict.toolHeadHammerMagnalium.name=镁铝合金锤头
+    S:oredict.toolHeadHammerManasteel.name=Manasteel Hammer Head
     S:oredict.toolHeadHammerManganese.name=锰锤头
     S:oredict.toolHeadHammerManyullyn.name=玛玉灵锤头
     S:oredict.toolHeadHammerMarble.name=大理石锤头
@@ -55131,6 +55335,7 @@ languagefile {
     S:oredict.toolHeadHammerStone.name=石锤头
     S:oredict.toolHeadHammerTanzanite.name=坦桑石锤头
     S:oredict.toolHeadHammerTartarite.name=溶火之石锤头
+    S:oredict.toolHeadHammerTerrasteel.name=Terrasteel Hammer Head
     S:oredict.toolHeadHammerThaumium.name=神秘锤头
     S:oredict.toolHeadHammerThorium.name=钍锤头
     S:oredict.toolHeadHammerTinAlloy.name=锡合金锤头
@@ -55248,6 +55453,7 @@ languagefile {
     S:oredict.toolHeadHoeElectricalSteel.name=电钢锄头
     S:oredict.toolHeadHoeElectrum.name=琥珀金锄头
     S:oredict.toolHeadHoeElectrumFlux.name=熔融琥珀金锄头
+    S:oredict.toolHeadHoeElvenElementium.name=Elven Elementium Hoe Head
     S:oredict.toolHeadHoeEmeradic.name=绿宝石水晶锄头
     S:oredict.toolHeadHoeEmerald.name=绿宝石锄头
     S:oredict.toolHeadHoeEmpty.name=空锄头
@@ -55304,6 +55510,7 @@ languagefile {
     S:oredict.toolHeadHoeLead.name=铅锄头
     S:oredict.toolHeadHoeLimestone.name=石灰石锄头
     S:oredict.toolHeadHoeMagnalium.name=镁铝合金锄头
+    S:oredict.toolHeadHoeManasteel.name=Manasteel Hoe Head
     S:oredict.toolHeadHoeManganese.name=锰锄头
     S:oredict.toolHeadHoeManyullyn.name=玛玉灵锄头
     S:oredict.toolHeadHoeMarble.name=大理石锄头
@@ -55385,6 +55592,7 @@ languagefile {
     S:oredict.toolHeadHoeStone.name=石锄头
     S:oredict.toolHeadHoeTanzanite.name=坦桑石锄头
     S:oredict.toolHeadHoeTartarite.name=溶火之石锄头
+    S:oredict.toolHeadHoeTerrasteel.name=Terrasteel Hoe Head
     S:oredict.toolHeadHoeThaumium.name=神秘锄头
     S:oredict.toolHeadHoeThorium.name=钍锄头
     S:oredict.toolHeadHoeTinAlloy.name=锡合金锄头
@@ -55502,6 +55710,7 @@ languagefile {
     S:oredict.toolHeadPickaxeElectricalSteel.name=电钢镐头
     S:oredict.toolHeadPickaxeElectrum.name=琥珀金镐头
     S:oredict.toolHeadPickaxeElectrumFlux.name=熔融琥珀金镐头
+    S:oredict.toolHeadPickaxeElvenElementium.name=Elven Elementium Pickaxe Head
     S:oredict.toolHeadPickaxeEmeradic.name=绿宝石水晶镐头
     S:oredict.toolHeadPickaxeEmerald.name=绿宝石镐头
     S:oredict.toolHeadPickaxeEmpty.name=空镐头
@@ -55607,6 +55816,7 @@ languagefile {
     S:oredict.toolHeadPickaxeLead.name=铅镐头
     S:oredict.toolHeadPickaxeLimestone.name=石灰石镐头
     S:oredict.toolHeadPickaxeMagnalium.name=镁铝合金镐头
+    S:oredict.toolHeadPickaxeManasteel.name=Manasteel Pickaxe Head
     S:oredict.toolHeadPickaxeManganese.name=锰镐头
     S:oredict.toolHeadPickaxeManyullyn.name=玛玉灵镐头
     S:oredict.toolHeadPickaxeMarble.name=大理石镐头
@@ -55688,6 +55898,7 @@ languagefile {
     S:oredict.toolHeadPickaxeStone.name=石镐头
     S:oredict.toolHeadPickaxeTanzanite.name=坦桑石镐头
     S:oredict.toolHeadPickaxeTartarite.name=溶火之石镐头
+    S:oredict.toolHeadPickaxeTerrasteel.name=Terrasteel Pickaxe Head
     S:oredict.toolHeadPickaxeThaumium.name=神秘镐头
     S:oredict.toolHeadPickaxeThorium.name=钍镐头
     S:oredict.toolHeadPickaxeTinAlloy.name=锡合金镐头
@@ -55805,6 +56016,7 @@ languagefile {
     S:oredict.toolHeadPlowElectricalSteel.name=电钢犁头
     S:oredict.toolHeadPlowElectrum.name=琥珀金犁头
     S:oredict.toolHeadPlowElectrumFlux.name=熔融琥珀金犁头
+    S:oredict.toolHeadPlowElvenElementium.name=Elven Elementium Plow Head
     S:oredict.toolHeadPlowEmeradic.name=绿宝石水晶犁头
     S:oredict.toolHeadPlowEmerald.name=绿宝石犁头
     S:oredict.toolHeadPlowEmpty.name=空犁头
@@ -55861,6 +56073,7 @@ languagefile {
     S:oredict.toolHeadPlowLead.name=铅犁头
     S:oredict.toolHeadPlowLimestone.name=石灰石犁头
     S:oredict.toolHeadPlowMagnalium.name=镁铝合金犁头
+    S:oredict.toolHeadPlowManasteel.name=Manasteel Plow Head
     S:oredict.toolHeadPlowManganese.name=锰犁头
     S:oredict.toolHeadPlowManyullyn.name=玛玉灵犁头
     S:oredict.toolHeadPlowMarble.name=大理石犁头
@@ -55942,6 +56155,7 @@ languagefile {
     S:oredict.toolHeadPlowStone.name=石犁头
     S:oredict.toolHeadPlowTanzanite.name=坦桑石犁头
     S:oredict.toolHeadPlowTartarite.name=溶火之石犁头
+    S:oredict.toolHeadPlowTerrasteel.name=Terrasteel Plow Head
     S:oredict.toolHeadPlowThaumium.name=神秘犁头
     S:oredict.toolHeadPlowThorium.name=钍犁头
     S:oredict.toolHeadPlowTinAlloy.name=锡合金犁头
@@ -56059,6 +56273,7 @@ languagefile {
     S:oredict.toolHeadRawArrowElectricalSteel.name=粗糙的电钢箭头
     S:oredict.toolHeadRawArrowElectrum.name=粗糙的琥珀金箭头
     S:oredict.toolHeadRawArrowElectrumFlux.name=粗糙的熔融琥珀金箭头
+    S:oredict.toolHeadRawArrowElvenElementium.name=Raw Elven Elementium Arrow Head
     S:oredict.toolHeadRawArrowEmeradic.name=粗糙的绿宝石水晶箭头
     S:oredict.toolHeadRawArrowEmerald.name=粗糙的绿宝石箭头
     S:oredict.toolHeadRawArrowEmpty.name=粗糙的空箭头
@@ -56115,6 +56330,7 @@ languagefile {
     S:oredict.toolHeadRawArrowLead.name=粗糙的铅箭头
     S:oredict.toolHeadRawArrowLimestone.name=粗糙的石灰石箭头
     S:oredict.toolHeadRawArrowMagnalium.name=粗糙的镁铝合金箭头
+    S:oredict.toolHeadRawArrowManasteel.name=Raw Manasteel Arrow Head
     S:oredict.toolHeadRawArrowManganese.name=粗糙的锰箭头
     S:oredict.toolHeadRawArrowManyullyn.name=粗糙的玛玉灵箭头
     S:oredict.toolHeadRawArrowMarble.name=粗糙的大理石箭头
@@ -56196,6 +56412,7 @@ languagefile {
     S:oredict.toolHeadRawArrowStone.name=粗糙的石箭头
     S:oredict.toolHeadRawArrowTanzanite.name=粗糙的坦桑石箭头
     S:oredict.toolHeadRawArrowTartarite.name=粗糙的溶火之石箭头
+    S:oredict.toolHeadRawArrowTerrasteel.name=Raw Terrasteel Arrow Head
     S:oredict.toolHeadRawArrowThaumium.name=粗糙的神秘箭头
     S:oredict.toolHeadRawArrowThorium.name=粗糙的钍箭头
     S:oredict.toolHeadRawArrowTinAlloy.name=粗糙的锡合金箭头
@@ -56381,6 +56598,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleElectricalSteel.name=粗糙的电钢双刃斧头
     S:oredict.toolHeadRawAxeDoubleElectrum.name=粗糙的琥珀金双刃斧头
     S:oredict.toolHeadRawAxeDoubleElectrumFlux.name=粗糙的熔融琥珀金双刃斧头
+    S:oredict.toolHeadRawAxeDoubleElvenElementium.name=Raw Elven Elementium Double Axe Head
     S:oredict.toolHeadRawAxeDoubleEmeradic.name=粗糙的绿宝石水晶双刃斧头
     S:oredict.toolHeadRawAxeDoubleEmerald.name=粗糙的绿宝石双刃斧头
     S:oredict.toolHeadRawAxeDoubleEmpty.name=粗糙的空双刃斧头
@@ -56428,6 +56646,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleKomatiite.name=粗糙的科马提岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleLead.name=粗糙的铅双刃斧头
     S:oredict.toolHeadRawAxeDoubleMagnalium.name=粗糙的镁铝合金双刃斧头
+    S:oredict.toolHeadRawAxeDoubleManasteel.name=Raw Manasteel Double Axe Head
     S:oredict.toolHeadRawAxeDoubleManganese.name=粗糙的锰双刃斧头
     S:oredict.toolHeadRawAxeDoubleManyullyn.name=粗糙的玛玉灵双刃斧头
     S:oredict.toolHeadRawAxeDoubleMaxixe.name=Raw Maxixe Double Axe Head
@@ -56497,6 +56716,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleSterlingSilver.name=粗糙的标准银双刃斧头
     S:oredict.toolHeadRawAxeDoubleTanzanite.name=粗糙的坦桑石双刃斧头
     S:oredict.toolHeadRawAxeDoubleTartarite.name=粗糙的溶火之石双刃斧头
+    S:oredict.toolHeadRawAxeDoubleTerrasteel.name=Raw Terrasteel Double Axe Head
     S:oredict.toolHeadRawAxeDoubleThaumium.name=粗糙的神秘双刃斧头
     S:oredict.toolHeadRawAxeDoubleThorium.name=粗糙的钍双刃斧头
     S:oredict.toolHeadRawAxeDoubleTinAlloy.name=粗糙的锡合金双刃斧头
@@ -56537,6 +56757,7 @@ languagefile {
     S:oredict.toolHeadRawAxeElectricalSteel.name=粗糙的电钢斧头
     S:oredict.toolHeadRawAxeElectrum.name=粗糙的琥珀金斧头
     S:oredict.toolHeadRawAxeElectrumFlux.name=粗糙的熔融琥珀金斧头
+    S:oredict.toolHeadRawAxeElvenElementium.name=Raw Elven Elementium Axe Head
     S:oredict.toolHeadRawAxeEmeradic.name=粗糙的绿宝石水晶斧头
     S:oredict.toolHeadRawAxeEmerald.name=粗糙的绿宝石斧头
     S:oredict.toolHeadRawAxeEmpty.name=粗糙的空斧头
@@ -56593,6 +56814,7 @@ languagefile {
     S:oredict.toolHeadRawAxeLead.name=粗糙的铅斧头
     S:oredict.toolHeadRawAxeLimestone.name=粗糙的石灰石斧头
     S:oredict.toolHeadRawAxeMagnalium.name=粗糙的镁铝合金斧头
+    S:oredict.toolHeadRawAxeManasteel.name=Raw Manasteel Axe Head
     S:oredict.toolHeadRawAxeManganese.name=粗糙的锰斧头
     S:oredict.toolHeadRawAxeManyullyn.name=粗糙的玛玉灵斧头
     S:oredict.toolHeadRawAxeMarble.name=粗糙的大理石斧头
@@ -56674,6 +56896,7 @@ languagefile {
     S:oredict.toolHeadRawAxeStone.name=粗糙的石斧头
     S:oredict.toolHeadRawAxeTanzanite.name=粗糙的坦桑石斧头
     S:oredict.toolHeadRawAxeTartarite.name=粗糙的溶火之石斧头
+    S:oredict.toolHeadRawAxeTerrasteel.name=Raw Terrasteel Axe Head
     S:oredict.toolHeadRawAxeThaumium.name=粗糙的神秘斧头
     S:oredict.toolHeadRawAxeThorium.name=粗糙的钍斧头
     S:oredict.toolHeadRawAxeTinAlloy.name=粗糙的锡合金斧头
@@ -56786,6 +57009,7 @@ languagefile {
     S:oredict.toolHeadRawChiselElectricalSteel.name=粗糙的电钢凿子头
     S:oredict.toolHeadRawChiselElectrum.name=粗糙的琥珀金凿子头
     S:oredict.toolHeadRawChiselElectrumFlux.name=粗糙的熔融琥珀金凿子头
+    S:oredict.toolHeadRawChiselElvenElementium.name=Raw Elven Elementium Chisel Head
     S:oredict.toolHeadRawChiselEmeradic.name=粗糙的绿宝石水晶凿子头
     S:oredict.toolHeadRawChiselEmerald.name=粗糙的绿宝石凿子头
     S:oredict.toolHeadRawChiselEmpty.name=粗糙的空凿子头
@@ -56832,6 +57056,7 @@ languagefile {
     S:oredict.toolHeadRawChiselKomatiite.name=粗糙的科马提岩凿子头
     S:oredict.toolHeadRawChiselLead.name=粗糙的铅凿子头
     S:oredict.toolHeadRawChiselMagnalium.name=粗糙的镁铝合金凿子头
+    S:oredict.toolHeadRawChiselManasteel.name=Raw Manasteel Chisel Head
     S:oredict.toolHeadRawChiselManganese.name=粗糙的锰凿子头
     S:oredict.toolHeadRawChiselManyullyn.name=粗糙的玛玉灵凿子头
     S:oredict.toolHeadRawChiselMaxixe.name=Raw Maxixe Chisel Head
@@ -56898,6 +57123,7 @@ languagefile {
     S:oredict.toolHeadRawChiselSterlingSilver.name=粗糙的标准银凿子头
     S:oredict.toolHeadRawChiselTanzanite.name=粗糙的坦桑石凿子头
     S:oredict.toolHeadRawChiselTartarite.name=粗糙的溶火之石凿子头
+    S:oredict.toolHeadRawChiselTerrasteel.name=Raw Terrasteel Chisel Head
     S:oredict.toolHeadRawChiselThaumium.name=粗糙的神秘凿子头
     S:oredict.toolHeadRawChiselThorium.name=粗糙的钍凿子头
     S:oredict.toolHeadRawChiselTinAlloy.name=粗糙的锡合金凿子头
@@ -57011,6 +57237,7 @@ languagefile {
     S:oredict.toolHeadRawHoeElectricalSteel.name=粗糙的电钢锄头
     S:oredict.toolHeadRawHoeElectrum.name=粗糙的琥珀金锄头
     S:oredict.toolHeadRawHoeElectrumFlux.name=粗糙的熔融琥珀金锄头
+    S:oredict.toolHeadRawHoeElvenElementium.name=Raw Elven Elementium Hoe Head
     S:oredict.toolHeadRawHoeEmeradic.name=粗糙的绿宝石水晶锄头
     S:oredict.toolHeadRawHoeEmerald.name=粗糙的绿宝石锄头
     S:oredict.toolHeadRawHoeEmpty.name=粗糙的空锄头
@@ -57067,6 +57294,7 @@ languagefile {
     S:oredict.toolHeadRawHoeLead.name=粗糙的铅锄头
     S:oredict.toolHeadRawHoeLimestone.name=粗糙的石灰石锄头
     S:oredict.toolHeadRawHoeMagnalium.name=粗糙的镁铝合金锄头
+    S:oredict.toolHeadRawHoeManasteel.name=Raw Manasteel Hoe Head
     S:oredict.toolHeadRawHoeManganese.name=粗糙的锰锄头
     S:oredict.toolHeadRawHoeManyullyn.name=粗糙的玛玉灵锄头
     S:oredict.toolHeadRawHoeMarble.name=粗糙的大理石锄头
@@ -57148,6 +57376,7 @@ languagefile {
     S:oredict.toolHeadRawHoeStone.name=粗糙的石锄头
     S:oredict.toolHeadRawHoeTanzanite.name=粗糙的坦桑石锄头
     S:oredict.toolHeadRawHoeTartarite.name=粗糙的溶火之石锄头
+    S:oredict.toolHeadRawHoeTerrasteel.name=Raw Terrasteel Hoe Head
     S:oredict.toolHeadRawHoeThaumium.name=粗糙的神秘锄头
     S:oredict.toolHeadRawHoeThorium.name=粗糙的钍锄头
     S:oredict.toolHeadRawHoeTinAlloy.name=粗糙的锡合金锄头
@@ -57265,6 +57494,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeElectricalSteel.name=粗糙的电钢镐头
     S:oredict.toolHeadRawPickaxeElectrum.name=粗糙的琥珀金镐头
     S:oredict.toolHeadRawPickaxeElectrumFlux.name=粗糙的熔融琥珀金镐头
+    S:oredict.toolHeadRawPickaxeElvenElementium.name=Raw Elven Elementium Pickaxe Head
     S:oredict.toolHeadRawPickaxeEmeradic.name=粗糙的绿宝石水晶镐头
     S:oredict.toolHeadRawPickaxeEmerald.name=粗糙的绿宝石镐头
     S:oredict.toolHeadRawPickaxeEmpty.name=粗糙的空镐头
@@ -57321,6 +57551,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeLead.name=粗糙的铅镐头
     S:oredict.toolHeadRawPickaxeLimestone.name=粗糙的石灰石镐头
     S:oredict.toolHeadRawPickaxeMagnalium.name=粗糙的镁铝合金镐头
+    S:oredict.toolHeadRawPickaxeManasteel.name=Raw Manasteel Pickaxe Head
     S:oredict.toolHeadRawPickaxeManganese.name=粗糙的锰镐头
     S:oredict.toolHeadRawPickaxeManyullyn.name=粗糙的玛玉灵镐头
     S:oredict.toolHeadRawPickaxeMarble.name=粗糙的大理石镐头
@@ -57402,6 +57633,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeStone.name=粗糙的石镐头
     S:oredict.toolHeadRawPickaxeTanzanite.name=粗糙的坦桑石镐头
     S:oredict.toolHeadRawPickaxeTartarite.name=粗糙的溶火之石镐头
+    S:oredict.toolHeadRawPickaxeTerrasteel.name=Raw Terrasteel Pickaxe Head
     S:oredict.toolHeadRawPickaxeThaumium.name=粗糙的神秘镐头
     S:oredict.toolHeadRawPickaxeThorium.name=粗糙的钍镐头
     S:oredict.toolHeadRawPickaxeTinAlloy.name=粗糙的锡合金镐头
@@ -57519,6 +57751,7 @@ languagefile {
     S:oredict.toolHeadRawPlowElectricalSteel.name=粗糙的电钢犁头
     S:oredict.toolHeadRawPlowElectrum.name=粗糙的琥珀金犁头
     S:oredict.toolHeadRawPlowElectrumFlux.name=粗糙的熔融琥珀金犁头
+    S:oredict.toolHeadRawPlowElvenElementium.name=Raw Elven Elementium Plow Head
     S:oredict.toolHeadRawPlowEmeradic.name=粗糙的绿宝石水晶犁头
     S:oredict.toolHeadRawPlowEmerald.name=粗糙的绿宝石犁头
     S:oredict.toolHeadRawPlowEmpty.name=粗糙的空犁头
@@ -57575,6 +57808,7 @@ languagefile {
     S:oredict.toolHeadRawPlowLead.name=粗糙的铅犁头
     S:oredict.toolHeadRawPlowLimestone.name=粗糙的石灰石犁头
     S:oredict.toolHeadRawPlowMagnalium.name=粗糙的镁铝合金犁头
+    S:oredict.toolHeadRawPlowManasteel.name=Raw Manasteel Plow Head
     S:oredict.toolHeadRawPlowManganese.name=粗糙的锰犁头
     S:oredict.toolHeadRawPlowManyullyn.name=粗糙的玛玉灵犁头
     S:oredict.toolHeadRawPlowMarble.name=粗糙的大理石犁头
@@ -57656,6 +57890,7 @@ languagefile {
     S:oredict.toolHeadRawPlowStone.name=粗糙的石犁头
     S:oredict.toolHeadRawPlowTanzanite.name=粗糙的坦桑石犁头
     S:oredict.toolHeadRawPlowTartarite.name=粗糙的溶火之石犁头
+    S:oredict.toolHeadRawPlowTerrasteel.name=Raw Terrasteel Plow Head
     S:oredict.toolHeadRawPlowThaumium.name=粗糙的神秘犁头
     S:oredict.toolHeadRawPlowThorium.name=粗糙的钍犁头
     S:oredict.toolHeadRawPlowTinAlloy.name=粗糙的锡合金犁头
@@ -57768,6 +58003,7 @@ languagefile {
     S:oredict.toolHeadRawSawElectricalSteel.name=粗糙的电钢圆锯片
     S:oredict.toolHeadRawSawElectrum.name=粗糙的琥珀金锯片
     S:oredict.toolHeadRawSawElectrumFlux.name=粗糙的熔融琥珀金锯片
+    S:oredict.toolHeadRawSawElvenElementium.name=Raw Elven Elementium Saw Blade
     S:oredict.toolHeadRawSawEmeradic.name=Raw Emeradic Saw Blade
     S:oredict.toolHeadRawSawEmerald.name=粗糙的绿宝石锯片
     S:oredict.toolHeadRawSawEmpty.name=粗糙的空锯片
@@ -57814,6 +58050,7 @@ languagefile {
     S:oredict.toolHeadRawSawKomatiite.name=粗糙的科马提岩圆锯片
     S:oredict.toolHeadRawSawLead.name=粗糙的铅锯片
     S:oredict.toolHeadRawSawMagnalium.name=粗糙的镁铝合金锯片
+    S:oredict.toolHeadRawSawManasteel.name=Raw Manasteel Saw Blade
     S:oredict.toolHeadRawSawManganese.name=粗糙的锰锯片
     S:oredict.toolHeadRawSawManyullyn.name=粗糙的玛玉灵锯片
     S:oredict.toolHeadRawSawMaxixe.name=Raw Maxixe Saw Blade
@@ -57880,6 +58117,7 @@ languagefile {
     S:oredict.toolHeadRawSawSterlingSilver.name=粗糙的标准银锯片
     S:oredict.toolHeadRawSawTanzanite.name=粗糙的坦桑石锯片
     S:oredict.toolHeadRawSawTartarite.name=粗糙的溶火之石锯片
+    S:oredict.toolHeadRawSawTerrasteel.name=Raw Terrasteel Saw Blade
     S:oredict.toolHeadRawSawThaumium.name=粗糙的神秘锭锯片
     S:oredict.toolHeadRawSawThorium.name=粗糙的钍锯片
     S:oredict.toolHeadRawSawTinAlloy.name=粗糙的锡合金锯片
@@ -57993,6 +58231,7 @@ languagefile {
     S:oredict.toolHeadRawSenseElectricalSteel.name=粗糙的电钢镰刀片
     S:oredict.toolHeadRawSenseElectrum.name=粗糙的琥珀金镰刀片
     S:oredict.toolHeadRawSenseElectrumFlux.name=粗糙的熔融琥珀金镰刀片
+    S:oredict.toolHeadRawSenseElvenElementium.name=Raw Elven Elementium Sense Blade
     S:oredict.toolHeadRawSenseEmeradic.name=粗糙的绿宝石水晶镰刀片
     S:oredict.toolHeadRawSenseEmerald.name=粗糙的绿宝石镰刀片
     S:oredict.toolHeadRawSenseEmpty.name=粗糙的空镰刀片
@@ -58049,6 +58288,7 @@ languagefile {
     S:oredict.toolHeadRawSenseLead.name=粗糙的铅镰刀片
     S:oredict.toolHeadRawSenseLimestone.name=粗糙的石灰石镰刀片
     S:oredict.toolHeadRawSenseMagnalium.name=粗糙的镁铝合金镰刀片
+    S:oredict.toolHeadRawSenseManasteel.name=Raw Manasteel Sense Blade
     S:oredict.toolHeadRawSenseManganese.name=粗糙的锰镰刀片
     S:oredict.toolHeadRawSenseManyullyn.name=粗糙的玛玉灵镰刀片
     S:oredict.toolHeadRawSenseMarble.name=粗糙的大理石镰刀片
@@ -58130,6 +58370,7 @@ languagefile {
     S:oredict.toolHeadRawSenseStone.name=粗糙的石镰刀片
     S:oredict.toolHeadRawSenseTanzanite.name=粗糙的坦桑石镰刀片
     S:oredict.toolHeadRawSenseTartarite.name=粗糙的溶火之石镰刀片
+    S:oredict.toolHeadRawSenseTerrasteel.name=Raw Terrasteel Sense Blade
     S:oredict.toolHeadRawSenseThaumium.name=粗糙的神秘镰刀片
     S:oredict.toolHeadRawSenseThorium.name=粗糙的钍镰刀片
     S:oredict.toolHeadRawSenseTinAlloy.name=粗糙的锡合金镰刀片
@@ -58247,6 +58488,7 @@ languagefile {
     S:oredict.toolHeadRawShovelElectricalSteel.name=粗糙的电钢锹头
     S:oredict.toolHeadRawShovelElectrum.name=粗糙的琥珀金锹头
     S:oredict.toolHeadRawShovelElectrumFlux.name=粗糙的熔融琥珀金锹头
+    S:oredict.toolHeadRawShovelElvenElementium.name=Raw Elven Elementium Shovel Head
     S:oredict.toolHeadRawShovelEmeradic.name=粗糙的绿宝石水晶锹头
     S:oredict.toolHeadRawShovelEmerald.name=粗糙的绿宝石锹头
     S:oredict.toolHeadRawShovelEmpty.name=粗糙的空锹头
@@ -58303,6 +58545,7 @@ languagefile {
     S:oredict.toolHeadRawShovelLead.name=粗糙的铅锹头
     S:oredict.toolHeadRawShovelLimestone.name=粗糙的石灰石锹头
     S:oredict.toolHeadRawShovelMagnalium.name=粗糙的镁铝合金锹头
+    S:oredict.toolHeadRawShovelManasteel.name=Raw Manasteel Shovel Head
     S:oredict.toolHeadRawShovelManganese.name=粗糙的锰锹头
     S:oredict.toolHeadRawShovelManyullyn.name=粗糙的玛玉灵锹头
     S:oredict.toolHeadRawShovelMarble.name=粗糙的大理石锹头
@@ -58384,6 +58627,7 @@ languagefile {
     S:oredict.toolHeadRawShovelStone.name=粗糙的石锹头
     S:oredict.toolHeadRawShovelTanzanite.name=粗糙的坦桑石锹头
     S:oredict.toolHeadRawShovelTartarite.name=粗糙的溶火之石锹头
+    S:oredict.toolHeadRawShovelTerrasteel.name=Raw Terrasteel Shovel Head
     S:oredict.toolHeadRawShovelThaumium.name=粗糙的神秘锹头
     S:oredict.toolHeadRawShovelThorium.name=粗糙的钍锹头
     S:oredict.toolHeadRawShovelTinAlloy.name=粗糙的锡合金锹头
@@ -58501,6 +58745,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeElectricalSteel.name=粗糙的电钢铲头
     S:oredict.toolHeadRawSpadeElectrum.name=粗糙的琥珀金铲头
     S:oredict.toolHeadRawSpadeElectrumFlux.name=粗糙的熔融琥珀金铲头
+    S:oredict.toolHeadRawSpadeElvenElementium.name=Raw Elven Elementium Spade Head
     S:oredict.toolHeadRawSpadeEmeradic.name=粗糙的绿宝石水晶铲头
     S:oredict.toolHeadRawSpadeEmerald.name=粗糙的绿宝石铲头
     S:oredict.toolHeadRawSpadeEmpty.name=粗糙的空铲头
@@ -58557,6 +58802,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeLead.name=粗糙的铅铲头
     S:oredict.toolHeadRawSpadeLimestone.name=粗糙的石灰石铲头
     S:oredict.toolHeadRawSpadeMagnalium.name=粗糙的镁铝合金铲头
+    S:oredict.toolHeadRawSpadeManasteel.name=Raw Manasteel Spade Head
     S:oredict.toolHeadRawSpadeManganese.name=粗糙的锰铲头
     S:oredict.toolHeadRawSpadeManyullyn.name=粗糙的玛玉灵铲头
     S:oredict.toolHeadRawSpadeMarble.name=粗糙的大理石铲头
@@ -58638,6 +58884,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeStone.name=粗糙的石铲头
     S:oredict.toolHeadRawSpadeTanzanite.name=粗糙的坦桑石铲头
     S:oredict.toolHeadRawSpadeTartarite.name=粗糙的溶火之石铲头
+    S:oredict.toolHeadRawSpadeTerrasteel.name=Raw Terrasteel Spade Head
     S:oredict.toolHeadRawSpadeThaumium.name=粗糙的神秘铲头
     S:oredict.toolHeadRawSpadeThorium.name=粗糙的钍铲头
     S:oredict.toolHeadRawSpadeTinAlloy.name=粗糙的锡合金铲头
@@ -58755,6 +59002,7 @@ languagefile {
     S:oredict.toolHeadRawSwordElectricalSteel.name=粗糙的电钢剑身
     S:oredict.toolHeadRawSwordElectrum.name=粗糙的琥珀金剑身
     S:oredict.toolHeadRawSwordElectrumFlux.name=粗糙的熔融琥珀金剑身
+    S:oredict.toolHeadRawSwordElvenElementium.name=Raw Elven Elementium Sword Blade
     S:oredict.toolHeadRawSwordEmeradic.name=粗糙的绿宝石水晶剑身
     S:oredict.toolHeadRawSwordEmerald.name=粗糙的绿宝石剑身
     S:oredict.toolHeadRawSwordEmpty.name=粗糙的空剑身
@@ -58811,6 +59059,7 @@ languagefile {
     S:oredict.toolHeadRawSwordLead.name=粗糙的铅剑身
     S:oredict.toolHeadRawSwordLimestone.name=粗糙的石灰石剑身
     S:oredict.toolHeadRawSwordMagnalium.name=粗糙的镁铝合金剑身
+    S:oredict.toolHeadRawSwordManasteel.name=Raw Manasteel Sword Blade
     S:oredict.toolHeadRawSwordManganese.name=粗糙的锰剑身
     S:oredict.toolHeadRawSwordManyullyn.name=粗糙的玛玉灵剑身
     S:oredict.toolHeadRawSwordMarble.name=粗糙的大理石剑身
@@ -58892,6 +59141,7 @@ languagefile {
     S:oredict.toolHeadRawSwordStone.name=粗糙的石剑身
     S:oredict.toolHeadRawSwordTanzanite.name=粗糙的坦桑石剑身
     S:oredict.toolHeadRawSwordTartarite.name=粗糙的溶火之石剑身
+    S:oredict.toolHeadRawSwordTerrasteel.name=Raw Terrasteel Sword Blade
     S:oredict.toolHeadRawSwordThaumium.name=粗糙的神秘剑身
     S:oredict.toolHeadRawSwordThorium.name=粗糙的钍剑身
     S:oredict.toolHeadRawSwordTinAlloy.name=粗糙的锡合金剑身
@@ -59004,6 +59254,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeElectricalSteel.name=粗糙的电钢万用铲头
     S:oredict.toolHeadRawUniversalSpadeElectrum.name=粗糙的琥珀金万用铲头
     S:oredict.toolHeadRawUniversalSpadeElectrumFlux.name=粗糙的熔融琥珀金万用铲头
+    S:oredict.toolHeadRawUniversalSpadeElvenElementium.name=Raw Elven Elementium Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeEmeradic.name=Raw Emeradic 万用铲头
     S:oredict.toolHeadRawUniversalSpadeEmerald.name=粗糙的绿宝石万用铲头
     S:oredict.toolHeadRawUniversalSpadeEmpty.name=粗糙的空万用铲头
@@ -59050,6 +59301,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeKomatiite.name=粗糙的科马提岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeLead.name=粗糙的铅万用铲头
     S:oredict.toolHeadRawUniversalSpadeMagnalium.name=粗糙的镁铝合金万用铲头
+    S:oredict.toolHeadRawUniversalSpadeManasteel.name=Raw Manasteel Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeManganese.name=粗糙的锰万用铲头
     S:oredict.toolHeadRawUniversalSpadeManyullyn.name=粗糙的玛玉灵万用铲头
     S:oredict.toolHeadRawUniversalSpadeMaxixe.name=Raw Maxixe 万用铲头
@@ -59116,6 +59368,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeSterlingSilver.name=粗糙的标准银万用铲头
     S:oredict.toolHeadRawUniversalSpadeTanzanite.name=粗糙的坦桑石万用铲头
     S:oredict.toolHeadRawUniversalSpadeTartarite.name=粗糙的溶火之石万用铲头
+    S:oredict.toolHeadRawUniversalSpadeTerrasteel.name=Raw Terrasteel Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeThaumium.name=粗糙的神秘锭万用铲头
     S:oredict.toolHeadRawUniversalSpadeThorium.name=粗糙的钍万用铲头
     S:oredict.toolHeadRawUniversalSpadeTinAlloy.name=粗糙的锡合金万用铲头
@@ -59224,6 +59477,7 @@ languagefile {
     S:oredict.toolHeadSawElectricalSteel.name=电钢锯片
     S:oredict.toolHeadSawElectrum.name=琥珀金锯片
     S:oredict.toolHeadSawElectrumFlux.name=熔融琥珀金锯片
+    S:oredict.toolHeadSawElvenElementium.name=Elven Elementium Saw Blade
     S:oredict.toolHeadSawEmeradic.name=Emeradic Saw Blade
     S:oredict.toolHeadSawEmerald.name=绿宝石锯片
     S:oredict.toolHeadSawEmpty.name=空锯片
@@ -59270,6 +59524,7 @@ languagefile {
     S:oredict.toolHeadSawKomatiite.name=科马提岩锯片
     S:oredict.toolHeadSawLead.name=铅锯片
     S:oredict.toolHeadSawMagnalium.name=镁铝合金锯片
+    S:oredict.toolHeadSawManasteel.name=Manasteel Saw Blade
     S:oredict.toolHeadSawManganese.name=锰锯片
     S:oredict.toolHeadSawManyullyn.name=玛玉灵锯片
     S:oredict.toolHeadSawMaxixe.name=Maxixe Saw Blade
@@ -59336,6 +59591,7 @@ languagefile {
     S:oredict.toolHeadSawSterlingSilver.name=标准银锯片
     S:oredict.toolHeadSawTanzanite.name=坦桑石锯片
     S:oredict.toolHeadSawTartarite.name=溶火之石锯片
+    S:oredict.toolHeadSawTerrasteel.name=Terrasteel Saw Blade
     S:oredict.toolHeadSawThaumium.name=神秘锭锯片
     S:oredict.toolHeadSawThorium.name=钍锯片
     S:oredict.toolHeadSawTinAlloy.name=锡合金锯片
@@ -59444,6 +59700,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverElectricalSteel.name=电钢螺丝刀头
     S:oredict.toolHeadScrewdriverElectrum.name=琥珀金螺丝刀头
     S:oredict.toolHeadScrewdriverElectrumFlux.name=熔融琥珀金螺丝刀头
+    S:oredict.toolHeadScrewdriverElvenElementium.name=Elven Elementium Screwdriver Tip
     S:oredict.toolHeadScrewdriverEmeradic.name=Emeradic 螺丝刀头
     S:oredict.toolHeadScrewdriverEmerald.name=绿宝石螺丝刀头
     S:oredict.toolHeadScrewdriverEmpty.name=空螺丝刀头
@@ -59491,6 +59748,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverKomatiite.name=科马提岩螺丝刀头
     S:oredict.toolHeadScrewdriverLead.name=铅螺丝刀头
     S:oredict.toolHeadScrewdriverMagnalium.name=镁铝合金螺丝刀头
+    S:oredict.toolHeadScrewdriverManasteel.name=Manasteel Screwdriver Tip
     S:oredict.toolHeadScrewdriverManganese.name=锰螺丝刀头
     S:oredict.toolHeadScrewdriverManyullyn.name=玛玉灵螺丝刀头
     S:oredict.toolHeadScrewdriverMaxixe.name=Maxixe 螺丝刀头
@@ -59560,6 +59818,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverSterlingSilver.name=标准银螺丝刀头
     S:oredict.toolHeadScrewdriverTanzanite.name=坦桑石螺丝刀头
     S:oredict.toolHeadScrewdriverTartarite.name=溶火之石螺丝刀头
+    S:oredict.toolHeadScrewdriverTerrasteel.name=Terrasteel Screwdriver Tip
     S:oredict.toolHeadScrewdriverThaumium.name=神秘锭螺丝刀头
     S:oredict.toolHeadScrewdriverThorium.name=钍螺丝刀头
     S:oredict.toolHeadScrewdriverTinAlloy.name=锡合金螺丝刀头
@@ -59673,6 +59932,7 @@ languagefile {
     S:oredict.toolHeadSenseElectricalSteel.name=电钢镰刀片
     S:oredict.toolHeadSenseElectrum.name=琥珀金镰刀片
     S:oredict.toolHeadSenseElectrumFlux.name=熔融琥珀金镰刀片
+    S:oredict.toolHeadSenseElvenElementium.name=Elven Elementium Sense Blade
     S:oredict.toolHeadSenseEmeradic.name=绿宝石水晶镰刀片
     S:oredict.toolHeadSenseEmerald.name=绿宝石镰刀片
     S:oredict.toolHeadSenseEmpty.name=空镰刀片
@@ -59729,6 +59989,7 @@ languagefile {
     S:oredict.toolHeadSenseLead.name=铅镰刀片
     S:oredict.toolHeadSenseLimestone.name=石灰石镰刀片
     S:oredict.toolHeadSenseMagnalium.name=镁铝合金镰刀片
+    S:oredict.toolHeadSenseManasteel.name=Manasteel Sense Blade
     S:oredict.toolHeadSenseManganese.name=锰镰刀片
     S:oredict.toolHeadSenseManyullyn.name=玛玉灵镰刀片
     S:oredict.toolHeadSenseMarble.name=大理石镰刀片
@@ -59810,6 +60071,7 @@ languagefile {
     S:oredict.toolHeadSenseStone.name=石镰刀片
     S:oredict.toolHeadSenseTanzanite.name=坦桑石镰刀片
     S:oredict.toolHeadSenseTartarite.name=溶火之石镰刀片
+    S:oredict.toolHeadSenseTerrasteel.name=Terrasteel Sense Blade
     S:oredict.toolHeadSenseThaumium.name=神秘镰刀片
     S:oredict.toolHeadSenseThorium.name=钍镰刀片
     S:oredict.toolHeadSenseTinAlloy.name=锡合金镰刀片
@@ -59927,6 +60189,7 @@ languagefile {
     S:oredict.toolHeadShovelElectricalSteel.name=电钢锹头
     S:oredict.toolHeadShovelElectrum.name=琥珀金锹头
     S:oredict.toolHeadShovelElectrumFlux.name=熔融琥珀金锹头
+    S:oredict.toolHeadShovelElvenElementium.name=Elven Elementium Shovel Head
     S:oredict.toolHeadShovelEmeradic.name=绿宝石水晶锹头
     S:oredict.toolHeadShovelEmerald.name=绿宝石锹头
     S:oredict.toolHeadShovelEmpty.name=空锹头
@@ -59983,6 +60246,7 @@ languagefile {
     S:oredict.toolHeadShovelLead.name=铅锹头
     S:oredict.toolHeadShovelLimestone.name=石灰石锹头
     S:oredict.toolHeadShovelMagnalium.name=镁铝合金锹头
+    S:oredict.toolHeadShovelManasteel.name=Manasteel Shovel Head
     S:oredict.toolHeadShovelManganese.name=锰锹头
     S:oredict.toolHeadShovelManyullyn.name=玛玉灵锹头
     S:oredict.toolHeadShovelMarble.name=大理石锹头
@@ -60064,6 +60328,7 @@ languagefile {
     S:oredict.toolHeadShovelStone.name=石锹头
     S:oredict.toolHeadShovelTanzanite.name=坦桑石锹头
     S:oredict.toolHeadShovelTartarite.name=溶火之石锹头
+    S:oredict.toolHeadShovelTerrasteel.name=Terrasteel Shovel Head
     S:oredict.toolHeadShovelThaumium.name=神秘锹头
     S:oredict.toolHeadShovelThorium.name=钍锹头
     S:oredict.toolHeadShovelTinAlloy.name=锡合金锹头
@@ -60181,6 +60446,7 @@ languagefile {
     S:oredict.toolHeadSpadeElectricalSteel.name=电钢铲头
     S:oredict.toolHeadSpadeElectrum.name=琥珀金铲头
     S:oredict.toolHeadSpadeElectrumFlux.name=熔融琥珀金铲头
+    S:oredict.toolHeadSpadeElvenElementium.name=Elven Elementium Spade Head
     S:oredict.toolHeadSpadeEmeradic.name=绿宝石水晶铲头
     S:oredict.toolHeadSpadeEmerald.name=绿宝石铲头
     S:oredict.toolHeadSpadeEmpty.name=空铲头
@@ -60237,6 +60503,7 @@ languagefile {
     S:oredict.toolHeadSpadeLead.name=铅铲头
     S:oredict.toolHeadSpadeLimestone.name=石灰石铲头
     S:oredict.toolHeadSpadeMagnalium.name=镁铝合金铲头
+    S:oredict.toolHeadSpadeManasteel.name=Manasteel Spade Head
     S:oredict.toolHeadSpadeManganese.name=锰铲头
     S:oredict.toolHeadSpadeManyullyn.name=玛玉灵铲头
     S:oredict.toolHeadSpadeMarble.name=大理石铲头
@@ -60318,6 +60585,7 @@ languagefile {
     S:oredict.toolHeadSpadeStone.name=石铲头
     S:oredict.toolHeadSpadeTanzanite.name=坦桑石铲头
     S:oredict.toolHeadSpadeTartarite.name=溶火之石铲头
+    S:oredict.toolHeadSpadeTerrasteel.name=Terrasteel Spade Head
     S:oredict.toolHeadSpadeThaumium.name=神秘铲头
     S:oredict.toolHeadSpadeThorium.name=钍铲头
     S:oredict.toolHeadSpadeTinAlloy.name=锡合金铲头
@@ -60435,6 +60703,7 @@ languagefile {
     S:oredict.toolHeadSwordElectricalSteel.name=电钢剑身
     S:oredict.toolHeadSwordElectrum.name=琥珀金剑身
     S:oredict.toolHeadSwordElectrumFlux.name=熔融琥珀金剑身
+    S:oredict.toolHeadSwordElvenElementium.name=Elven Elementium Sword Blade
     S:oredict.toolHeadSwordEmeradic.name=绿宝石水晶剑身
     S:oredict.toolHeadSwordEmerald.name=绿宝石剑身
     S:oredict.toolHeadSwordEmpty.name=空剑身
@@ -60491,6 +60760,7 @@ languagefile {
     S:oredict.toolHeadSwordLead.name=铅剑身
     S:oredict.toolHeadSwordLimestone.name=石灰石剑身
     S:oredict.toolHeadSwordMagnalium.name=镁铝合金剑身
+    S:oredict.toolHeadSwordManasteel.name=Manasteel Sword Blade
     S:oredict.toolHeadSwordManganese.name=锰剑身
     S:oredict.toolHeadSwordManyullyn.name=玛玉灵剑身
     S:oredict.toolHeadSwordMarble.name=大理石剑身
@@ -60572,6 +60842,7 @@ languagefile {
     S:oredict.toolHeadSwordStone.name=石剑身
     S:oredict.toolHeadSwordTanzanite.name=坦桑石剑身
     S:oredict.toolHeadSwordTartarite.name=溶火之石剑身
+    S:oredict.toolHeadSwordTerrasteel.name=Terrasteel Sword Blade
     S:oredict.toolHeadSwordThaumium.name=神秘剑身
     S:oredict.toolHeadSwordThorium.name=钍剑身
     S:oredict.toolHeadSwordTinAlloy.name=锡合金剑身
@@ -60684,6 +60955,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeElectricalSteel.name=电钢万用铲头
     S:oredict.toolHeadUniversalSpadeElectrum.name=琥珀金万用铲头
     S:oredict.toolHeadUniversalSpadeElectrumFlux.name=熔融琥珀金万用铲头
+    S:oredict.toolHeadUniversalSpadeElvenElementium.name=Elven Elementium Universal Spade Head
     S:oredict.toolHeadUniversalSpadeEmeradic.name=Emeradic 万用铲头
     S:oredict.toolHeadUniversalSpadeEmerald.name=绿宝石万用铲头
     S:oredict.toolHeadUniversalSpadeEmpty.name=空万用铲头
@@ -60730,6 +61002,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeKomatiite.name=科马提岩万用铲头
     S:oredict.toolHeadUniversalSpadeLead.name=铅万用铲头
     S:oredict.toolHeadUniversalSpadeMagnalium.name=镁铝合金万用铲头
+    S:oredict.toolHeadUniversalSpadeManasteel.name=Manasteel Universal Spade Head
     S:oredict.toolHeadUniversalSpadeManganese.name=锰万用铲头
     S:oredict.toolHeadUniversalSpadeManyullyn.name=玛玉灵万用铲头
     S:oredict.toolHeadUniversalSpadeMaxixe.name=Maxixe 万用铲头
@@ -60796,6 +61069,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeSterlingSilver.name=标准银万用铲头
     S:oredict.toolHeadUniversalSpadeTanzanite.name=坦桑石万用铲头
     S:oredict.toolHeadUniversalSpadeTartarite.name=溶火之石万用铲头
+    S:oredict.toolHeadUniversalSpadeTerrasteel.name=Terrasteel Universal Spade Head
     S:oredict.toolHeadUniversalSpadeThaumium.name=神秘锭万用铲头
     S:oredict.toolHeadUniversalSpadeThorium.name=钍万用铲头
     S:oredict.toolHeadUniversalSpadeTinAlloy.name=锡合金万用铲头
@@ -60904,6 +61178,7 @@ languagefile {
     S:oredict.toolHeadWrenchElectricalSteel.name=电钢扳手头
     S:oredict.toolHeadWrenchElectrum.name=琥珀金扳手头
     S:oredict.toolHeadWrenchElectrumFlux.name=熔融琥珀金扳手头
+    S:oredict.toolHeadWrenchElvenElementium.name=Elven Elementium Wrench Tip
     S:oredict.toolHeadWrenchEmeradic.name=Emeradic 扳手头
     S:oredict.toolHeadWrenchEmerald.name=绿宝石扳手头
     S:oredict.toolHeadWrenchEmpty.name=空扳手头
@@ -60950,6 +61225,7 @@ languagefile {
     S:oredict.toolHeadWrenchKomatiite.name=科马提岩扳手头
     S:oredict.toolHeadWrenchLead.name=铅扳手头
     S:oredict.toolHeadWrenchMagnalium.name=镁铝合金扳手头
+    S:oredict.toolHeadWrenchManasteel.name=Manasteel Wrench Tip
     S:oredict.toolHeadWrenchManganese.name=锰扳手头
     S:oredict.toolHeadWrenchManyullyn.name=玛玉灵扳手头
     S:oredict.toolHeadWrenchMaxixe.name=Maxixe 扳手头
@@ -61016,6 +61292,7 @@ languagefile {
     S:oredict.toolHeadWrenchSterlingSilver.name=标准银扳手头
     S:oredict.toolHeadWrenchTanzanite.name=坦桑石扳手头
     S:oredict.toolHeadWrenchTartarite.name=溶火之石扳手头
+    S:oredict.toolHeadWrenchTerrasteel.name=Terrasteel Wrench Tip
     S:oredict.toolHeadWrenchThaumium.name=神秘锭扳手头
     S:oredict.toolHeadWrenchThorium.name=钍扳手头
     S:oredict.toolHeadWrenchTinAlloy.name=锡合金扳手头
