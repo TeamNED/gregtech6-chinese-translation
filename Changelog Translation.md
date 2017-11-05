@@ -1,4 +1,39 @@
 更新日志 *(1.7.10)*
+## V6.05.50:
+[FIXED] Some things I noticed while writing the Patreon Post.
+[ADDED] Small Vinteum Ore now generates automatically when Ars Magica is installed.
+[ADDED] The Primal Mana Fluid from Thermal Foundation (can't be produced atm afaik), can be used to make certain Magical Materials, such as Astral Silver, Midasium, Mithril and Thaumium.
+
+
+## V6.05.49:
+[COMPAT] AE Devices can now accept GT6 EU Directly if it is HV or less. If it is EV or more it will explode! SO BE WARNED!!!
+[COMPAT] Thermal Expansion
+Tectonic Petrotheum can now be used in the Sluice for washing Ore instead of Water. (This was SUPPOSED to be already possible, but there was a Bug, preventing that from working on my end).
+Blizz, Blitz and Basalz Powder can now be created in the Injector with their respective Item and Fluid Redstone.
+A lot (if not all) of Recipes for filling Energy Cells, Tesseracts, Plates and Conduits with Redstone/Glowstone/Ender/Cryotheum/Aerotheum are now doable in the GT6 Canning Machine AND inside the Injector aswell (for convenience, due to the Blitz/Blizz/Basalz Recipes being Injector Only).
+In the newly added Recipes, Molten and Destabilized Redstone work just fine for doing the Job. Same goes for Resonant Ender and Molten Enderpearls.
+Filling a vanilla Bucket with 1440L Molten Redstone or 576L Molten Enderpearls using any GT6 thing (Taps, Canners, Crucibles etc.), will make it turn into the TE-Bucket, making an easy conversion possible without relying on the Generifier.
+Blizz, Blitz and Basalz Rods use the "craft = 1 powder, mortar = 2 powder, shredder = 4 powder"-System now.
+[FIXED] GregTech Worldgen and Burning Box Fire Placement no longer overwrite Thaumcraft Nodes as if they were Air.
+[FIXED] Applecore caused Water to have Food Value for some reason despite me having clearly declared a Food Value of Zero.
+[CHANGED] Barrels, Drums, Pots and other Fluid Containers can now be stacked when empty. The only ones Stackable when full are still the Capsule-Cell-Containers.
+[CHANGED] A lot of Sluice, Bath and Magnetic Separator Recipes changed to make it possible to process singular Tiny Crushed and Purified Ores.
+[ADDED] An example Recipe for each of the Handle based Tools.
+[ADDED] A Compartment Drawer that has 4 Drawers with 36 regular Inventory Slots each, and is compatible with adjacent Advanced Workbenches. The Crafting Recipe needs overall 32 Units of a Metal (the Metals you can make the Chests of)
+[ADDED]
+Storage Inserter
+It is SOMEWHAT like a Drawer Controller, but it only works for inserting Items BY HAND into a Wall Shaped Area of Mass Storages and/or Item Barrels.
+The Wall of Mass Storages can be 50 Meters long in each direction, and 7 Meters tall counting from the Floor below it.
+There are some quirks to scanning the Area, for example there has to be a Floor in front of the Wall of Mass Storages, and they aren't allowed to be obstructed nor to face the wrong way.
+This whole thing is based on "simulating a person* running in front of the Wall and rightclicking every single Storage from bottom to top", so just make sure that THAT is possible to be done and it should work.
+The direction the Insert will scan does depend on what side of it you click. It will essentially behave like "spawning a person* on the side you click" and then run that "person*" in all 4 compass directions trying to insert Stuff from bottom to top.
+As Floor counts the following: Slabs/Stairs (any rotation possible, and most modded ones work too), Full Blocks and Blocks with a solid Top Side.
+It will insert the held Item in the Hotbar when you click it, if it can.
+If you click it with an Empty Hand, it will try to insert all Items in the 27 Slot Player Inventory, except things with a Max Stacksize of 1 (such as Tools), Ammunition (Arrows) and Tool-Rightclick-Placeable-Torches (because that would be annoying, if you have a Torch Item Barrel or something).
+Placement for the Inserter is advised to be either as Part of the Storage Wall, or inside the Floor in front of the Storage Wall.
+You can NOT, I repeat CANNOT, attach Pipes to the Storage Insert AT ALL and I will NOT add that Functionality to it!!!
+(* = its not actually a person, this is just a metaphor, it only checks if the Blocks in front either don't have a Collision Box or are Carpets)
+
 ## V6.05.48:
 [修复] 如今小漏斗能够装填不足1000L的流体了。
 [添加] 喷嘴,气体版的龙头。
