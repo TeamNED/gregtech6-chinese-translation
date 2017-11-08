@@ -10752,7 +10752,7 @@ languagefile {
     S:gt.td.short.processing.extrudable_simple=Extrudable (Low Tech)
     S:gt.td.short.processing.furnace=可在熔炉中熔化
     S:gt.td.short.processing.fusion_synthesisable=Fusion Synthesisable
-    S:gt.td.short.processing.melting=Meltable
+    S:gt.td.short.processing.melting=可熔化
     S:gt.td.short.processing.mortar_grindable=Mortal Grindable
     S:gt.td.short.processing.pulverizing_cinnabar=朱砂 Pulverisation Byproduct
     S:gt.td.short.processing.reacts_with_glass=与玻璃反应
@@ -10783,7 +10783,7 @@ languagefile {
     S:gt.td.short.properties.has_tool_stats=Has Tool Stats
     S:gt.td.short.properties.ignore_in_color_log=Ignored in 颜色 Log
     S:gt.td.short.properties.invalid_material=Invalid Material
-    S:gt.td.short.properties.invisible=Invisible
+    S:gt.td.short.properties.invisible=不可见
     S:gt.td.short.properties.lighting=发光
     S:gt.td.short.properties.liquid=液体
     S:gt.td.short.properties.magical=有魔力的
@@ -10800,7 +10800,7 @@ languagefile {
     S:gt.td.short.properties.stretchy=Stretchy
     S:gt.td.short.properties.transparent=透明
     S:gt.td.short.properties.unburnable=不可燃
-    S:gt.td.short.properties.unused_material=Unused Material
+    S:gt.td.short.properties.unused_material=未使用物质
     S:gt.td.short.properties.valuable=Valuable
     S:gt.td.short.properties.wither_proof=可以抵抗凋灵
     S:gt.td.short.properties.wood=木头
@@ -10846,8 +10846,8 @@ languagefile {
     S:gt.tooltip.multiblock.tank3x3x3.1=3x3x3 相应材料的蓄水槽壁板
     S:gt.tooltip.multiblock.tank3x3x3.2=这个阀门方块放在结构顶面/底面/侧面的中心，正面朝外
     S:gt.tooltip.multiblock.tank3x3x3.3=如果阀门的位置允许液体由于重力自然流出，该阀门可以自动输出液体
-    S:gt.tooltip.pump.1=Usable to clear large Bodies of Fluid
-    S:gt.tooltip.pump.2=Not suitable for infinite Fluid Sources!
+    S:gt.tooltip.pump.1=用于清除大量流体
+    S:gt.tooltip.pump.2=对无限流体源不适用!
     S:gt.tooltip.sensor.bucketometer=测量液体(单位:立方米)
     S:gt.tooltip.sensor.chronometer=测量当时的时间
     S:gt.tooltip.sensor.electrometer=测量电力流(单位:EU)
