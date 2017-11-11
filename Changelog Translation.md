@@ -1,4 +1,23 @@
 更新日志 *(1.7.10)*
+## V6.05.51:
+[COMPAT] Galacticraft Machines now also have the HV Limit before exploding.
+[COMPAT] Open Modular Turrets Stuff
+The Turret Bases can now accept GT6 EU directly if it is HV or less. If it is EV or more it will explode! SO BE WARNED!!!
+I added Blast Resistance Tooltips to the Hard Walls, so that you know how strong they actually are. The Tier 1 Hard Wall doesn't even contain a TNT Blast, you need Tier 2 or above for that.
+[COMPAT] Made sure Lycanite Mobs things were compatible.
+Fixed the "Pure Lava Bucket" Recipe duping Iron Buckets, by making it a Mixing Bowl Recipe for Lava + Ghast Tears instead.
+Made GT6 Axes and Saws drop more Oak Logs when being used on Ents (Axes are better). The Amount of Logs depends on the amount of Hearts worth of Normal Non-Magic Damage you deal to it (regardless of how much Health it has left). It can go up to additional 64 Logs per swing.
+Wargs drop Dog Meat now.
+[FIXED] Bumblebees won't work in the Vacuum of Galacticraft Space now.
+[FIXED] Fluid Display Icons from all Mods, that somehow fail to properly assign Fluid Icons, despite having a fully working Fluid Block. This fixes Pure Lava and Ooze from Lycanites for example.
+[REMOVED] The Collision Box from Paper Covers, because it doesn't make sense that you can stand on it. Let's see how many people use Paper to protect themselves from Pipes and don't read this line.
+[ADDED] Limestone Rock, it has the same properties and spawning as Marble, and the same Textures GT5 Concrete had. Might be useful if Calcite is needed.
+[ADDED] Recipes to Un-Curve the Curved Plates with a Hammer or the Rolling Mill.
+[ADDED] Wooden Panels, they are simply Wooden Covers, so you don't need to use Canvas for Wood Textures. Available in all Variants the Wooden Bookshelves are available as. Also requires an Iron or Steel Screw per Panel (Recipe gives 6 per craft).
+[ADDED] Concrete, C-Foam and Asphalt Panels (also just Covers). The Asphalt ones will give you a speed boost, just like the Asphalt Blocks!
+[ADDED] The Locker. It is basically an Armor Swapper, so you can put on Armors easily with it, without messing around with the Inventory, and without having an FPS Lag Source of an Armor Stand being around. Available in multiple Materials, just like Compartment Drawers for example. It works with the 4 Basic Activity Detectors as indicator of having Armor Parts.
+[ADDED] The Charging Locker. It can Charge IC2 Armor. Make sure the Voltage is proper to charge the actual Armor. The "Processing" and "Success" Activity Detectors can check if all contained Armor Pieces are charged fully.
+
 ## V6.05.50:
 [FIXED] Some things I noticed while writing the Patreon Post.
 [ADDED] Small Vinteum Ore now generates automatically when Ars Magica is installed.
