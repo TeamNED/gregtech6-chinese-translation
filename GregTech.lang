@@ -3689,7 +3689,7 @@ languagefile {
     S:gt.material.CoffeeDust=咖啡粉
     S:gt.material.Coke=炭
     S:gt.material.Concrete=混凝土
-    S:gt.material.ConductiveIron=导电铁
+    S:gt.material.ConductiveIron=导体铁
     S:gt.material.Constantan=康铜
     S:gt.material.ConstructionFoam=建筑泡沫
     S:gt.material.Cooperite=硫砷铂矿
@@ -3767,7 +3767,7 @@ languagefile {
     S:gt.material.Electrum=琥珀金
     S:gt.material.ElectrumFlux=熔融琥珀金
     S:gt.material.Elite=精华
-    S:gt.material.ElvenElementium=源质钢
+    S:gt.material.ElvenElementium=精灵原质
     S:gt.material.Emeradic=Emeradic
     S:gt.material.Emerald=绿宝石
     S:gt.material.Emery=金刚砂
@@ -11448,7 +11448,7 @@ languagefile {
     S:oredict.arrowGtPlasticCobalt60.name=轻质钴-60箭
     S:oredict.arrowGtPlasticCobaltBrass.name=轻质钴黄铜箭
     S:oredict.arrowGtPlasticConcrete.name=轻质混凝土箭
-    S:oredict.arrowGtPlasticConductiveIron.name=轻质导电铁箭
+    S:oredict.arrowGtPlasticConductiveIron.name=轻质导体铁箭
     S:oredict.arrowGtPlasticConstantan.name=轻质康铜箭
     S:oredict.arrowGtPlasticCopper.name=轻质铜箭
     S:oredict.arrowGtPlasticCraponite.name=轻质焦屎石箭
@@ -11706,7 +11706,7 @@ languagefile {
     S:oredict.arrowGtWoodCobalt60.name=钴-60箭
     S:oredict.arrowGtWoodCobaltBrass.name=钴黄铜箭
     S:oredict.arrowGtWoodConcrete.name=混凝土箭
-    S:oredict.arrowGtWoodConductiveIron.name=导电铁箭
+    S:oredict.arrowGtWoodConductiveIron.name=导体铁箭
     S:oredict.arrowGtWoodConstantan.name=康铜箭
     S:oredict.arrowGtWoodCopper.name=铜箭
     S:oredict.arrowGtWoodCraponite.name=焦屎石箭
@@ -12170,7 +12170,7 @@ languagefile {
     S:oredict.blockDustCocoa.name=可可粉块
     S:oredict.blockDustCoffee.name=咖啡粉块
     S:oredict.blockDustConcrete.name=混凝土粉块
-    S:oredict.blockDustConductiveIron.name=导电铁粉块
+    S:oredict.blockDustConductiveIron.name=导体铁粉块
     S:oredict.blockDustConstantan.name=康铜粉块
     S:oredict.blockDustConstructionFoam.name=建筑泡沫粉块
     S:oredict.blockDustCooperite.name=硫砷铂粉块
@@ -12228,7 +12228,7 @@ languagefile {
     S:oredict.blockDustElectrotineAlloy.name=蓝石合金粉块
     S:oredict.blockDustElectrum.name=琥珀金粉块
     S:oredict.blockDustElectrumFlux.name=熔融琥珀金粉块
-    S:oredict.blockDustElvenElementium.name=源质钢粉块
+    S:oredict.blockDustElvenElementium.name=精灵原质粉块
     S:oredict.blockDustEmeradic.name=绿宝石水晶粉块
     S:oredict.blockDustEmerald.name=绿宝石粉块
     S:oredict.blockDustEmery.name=金刚砂粉块
@@ -12982,7 +12982,7 @@ languagefile {
     S:oredict.blockIngotCobalt.name=钴锭块
     S:oredict.blockIngotCobalt60.name=钴-60锭块
     S:oredict.blockIngotCobaltBrass.name=钴黄铜锭块
-    S:oredict.blockIngotConductiveIron.name=导电铁锭块
+    S:oredict.blockIngotConductiveIron.name=导体铁锭块
     S:oredict.blockIngotConstantan.name=康铜锭块
     S:oredict.blockIngotCopernicium.name=鎶锭块
     S:oredict.blockIngotCopper.name=铜锭块
@@ -13009,7 +13009,7 @@ languagefile {
     S:oredict.blockIngotElectrotineAlloy.name=蓝石合金锭块
     S:oredict.blockIngotElectrum.name=琥珀金锭块
     S:oredict.blockIngotElectrumFlux.name=熔融琥珀金锭块
-    S:oredict.blockIngotElvenElementium.name=源质钢锭块
+    S:oredict.blockIngotElvenElementium.name=精灵原质锭块
     S:oredict.blockIngotEmpty.name=空锭块
     S:oredict.blockIngotEnderium.name=末影锭块
     S:oredict.blockIngotEnderiumBase.name=末影锭粗胚锭块
@@ -13389,7 +13389,7 @@ languagefile {
     S:oredict.blockPlateCobalt60.name=钴-60板块
     S:oredict.blockPlateCobaltBrass.name=钴黄铜板块
     S:oredict.blockPlateConcrete.name=混凝土板块
-    S:oredict.blockPlateConductiveIron.name=导电铁板块
+    S:oredict.blockPlateConductiveIron.name=导体铁板块
     S:oredict.blockPlateConstantan.name=康铜板块
     S:oredict.blockPlateCopernicium.name=鎶板块
     S:oredict.blockPlateCopper.name=铜板块
@@ -13419,7 +13419,7 @@ languagefile {
     S:oredict.blockPlateElectrotineAlloy.name=蓝石合金板块
     S:oredict.blockPlateElectrum.name=琥珀金板块
     S:oredict.blockPlateElectrumFlux.name=熔融琥珀金板块
-    S:oredict.blockPlateElvenElementium.name=源质钢板块
+    S:oredict.blockPlateElvenElementium.name=精灵原质板块
     S:oredict.blockPlateEmery.name=Block of Emery Plate
     S:oredict.blockPlateEmpty.name=空板块
     S:oredict.blockPlateEnderium.name=末影板块
@@ -13921,7 +13921,7 @@ languagefile {
     S:oredict.blockSolidCobalt.name=铸造钴块
     S:oredict.blockSolidCobalt60.name=铸造钴-60块
     S:oredict.blockSolidCobaltBrass.name=铸造钴黄铜块
-    S:oredict.blockSolidConductiveIron.name=铸造导电铁块
+    S:oredict.blockSolidConductiveIron.name=铸造导体铁块
     S:oredict.blockSolidConstantan.name=铸造康铜块
     S:oredict.blockSolidCopernicium.name=铸造鎶块
     S:oredict.blockSolidCopper.name=铸造铜块
@@ -13948,7 +13948,7 @@ languagefile {
     S:oredict.blockSolidElectrotineAlloy.name=铸造蓝石合金块
     S:oredict.blockSolidElectrum.name=铸造琥珀金块
     S:oredict.blockSolidElectrumFlux.name=铸造熔融琥珀金块
-    S:oredict.blockSolidElvenElementium.name=铸造源质钢块
+    S:oredict.blockSolidElvenElementium.name=铸造精灵原质块
     S:oredict.blockSolidEmpty.name=铸造空块
     S:oredict.blockSolidEnderium.name=铸造末影块
     S:oredict.blockSolidEnderiumBase.name=铸造末影锭粗胚块
@@ -14348,7 +14348,7 @@ languagefile {
     S:oredict.boltCobalt60.name=钴-60螺栓
     S:oredict.boltCobaltBrass.name=钴黄铜螺栓
     S:oredict.boltConcrete.name=混凝土螺栓
-    S:oredict.boltConductiveIron.name=导电铁螺栓
+    S:oredict.boltConductiveIron.name=导体铁螺栓
     S:oredict.boltConstantan.name=康铜螺栓
     S:oredict.boltCopernicium.name=鎶螺栓
     S:oredict.boltCopper.name=铜螺栓
@@ -14383,7 +14383,7 @@ languagefile {
     S:oredict.boltElectrotineAlloy.name=蓝石合金螺栓
     S:oredict.boltElectrum.name=琥珀金螺栓
     S:oredict.boltElectrumFlux.name=熔融琥珀金螺栓
-    S:oredict.boltElvenElementium.name=源质钢螺栓
+    S:oredict.boltElvenElementium.name=精灵原质螺栓
     S:oredict.boltEmeradic.name=绿宝石水晶螺栓
     S:oredict.boltEmerald.name=绿宝石螺栓
     S:oredict.boltEmery.name=Emery Bolt
@@ -14708,7 +14708,7 @@ languagefile {
     S:oredict.casingMachineCobalt.name=钴机械外壳
     S:oredict.casingMachineCobalt60.name=钴-60机械外壳
     S:oredict.casingMachineCobaltBrass.name=钴黄铜机械外壳
-    S:oredict.casingMachineConductiveIron.name=导电铁机械外壳
+    S:oredict.casingMachineConductiveIron.name=导体铁机械外壳
     S:oredict.casingMachineConstantan.name=康铜机械外壳
     S:oredict.casingMachineCopper.name=铜机械外壳
     S:oredict.casingMachineCupronickel.name=白铜机械外壳
@@ -14752,7 +14752,7 @@ languagefile {
     S:oredict.casingMachineDenseCobalt.name=致密钴机械外壳
     S:oredict.casingMachineDenseCobalt60.name=致密钴-60机械外壳
     S:oredict.casingMachineDenseCobaltBrass.name=致密钴黄铜机械外壳
-    S:oredict.casingMachineDenseConductiveIron.name=致密导电铁机械外壳
+    S:oredict.casingMachineDenseConductiveIron.name=致密导体铁机械外壳
     S:oredict.casingMachineDenseConstantan.name=致密康铜机械外壳
     S:oredict.casingMachineDenseCopper.name=致密铜机械外壳
     S:oredict.casingMachineDenseCupronickel.name=致密白铜机械外壳
@@ -14770,7 +14770,7 @@ languagefile {
     S:oredict.casingMachineDenseElectricalSteel.name=致密电钢机械外壳
     S:oredict.casingMachineDenseElectrum.name=致密琥珀金机械外壳
     S:oredict.casingMachineDenseElectrumFlux.name=致密熔融琥珀金机械外壳
-    S:oredict.casingMachineDenseElvenElementium.name=致密源质钢机械外壳
+    S:oredict.casingMachineDenseElvenElementium.name=致密精灵原质机械外壳
     S:oredict.casingMachineDenseEmpty.name=致密空机械外壳
     S:oredict.casingMachineDenseEnderium.name=致密末影机械外壳
     S:oredict.casingMachineDenseEnderiumBase.name=致密末影粗胚机械外壳
@@ -14913,7 +14913,7 @@ languagefile {
     S:oredict.casingMachineDoubleCobalt.name=加强钴机械外壳
     S:oredict.casingMachineDoubleCobalt60.name=加强钴-60机械外壳
     S:oredict.casingMachineDoubleCobaltBrass.name=加强钴 黄铜机械外壳
-    S:oredict.casingMachineDoubleConductiveIron.name=加强导电铁机械外壳
+    S:oredict.casingMachineDoubleConductiveIron.name=加强导体铁机械外壳
     S:oredict.casingMachineDoubleConstantan.name=加强康铜机械外壳
     S:oredict.casingMachineDoubleCopper.name=加强铜机械外壳
     S:oredict.casingMachineDoubleCupronickel.name=加强白铜机械外壳
@@ -14931,7 +14931,7 @@ languagefile {
     S:oredict.casingMachineDoubleElectricalSteel.name=加强电钢机械外壳
     S:oredict.casingMachineDoubleElectrum.name=加强琥珀金机械外壳
     S:oredict.casingMachineDoubleElectrumFlux.name=加强熔融琥珀金机械外壳
-    S:oredict.casingMachineDoubleElvenElementium.name=加强源质钢机械外壳
+    S:oredict.casingMachineDoubleElvenElementium.name=加强精灵原质机械外壳
     S:oredict.casingMachineDoubleEmpty.name=加强空机械外壳
     S:oredict.casingMachineDoubleEnderium.name=加强末影机械外壳
     S:oredict.casingMachineDoubleEnderiumBase.name=加强末影粗胚机械外壳
@@ -15044,7 +15044,7 @@ languagefile {
     S:oredict.casingMachineElectricalSteel.name=电钢机械外壳
     S:oredict.casingMachineElectrum.name=琥珀金机械外壳
     S:oredict.casingMachineElectrumFlux.name=熔融琥珀金机械外壳
-    S:oredict.casingMachineElvenElementium.name=源质钢机械外壳
+    S:oredict.casingMachineElvenElementium.name=精灵原质机械外壳
     S:oredict.casingMachineEmpty.name=空机械外壳
     S:oredict.casingMachineEnderium.name=末影锭机械外壳
     S:oredict.casingMachineEnderiumBase.name=末影锭粗胚机械外壳
@@ -15139,7 +15139,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleCobalt.name=高强度钴机械外壳
     S:oredict.casingMachineQuadrupleCobalt60.name=高强度钴-60机械外壳
     S:oredict.casingMachineQuadrupleCobaltBrass.name=高强度钴 黄铜机械外壳
-    S:oredict.casingMachineQuadrupleConductiveIron.name=高强度导电铁机械外壳
+    S:oredict.casingMachineQuadrupleConductiveIron.name=高强度导体铁机械外壳
     S:oredict.casingMachineQuadrupleConstantan.name=高强度康铜机械外壳
     S:oredict.casingMachineQuadrupleCopper.name=高强度铜机械外壳
     S:oredict.casingMachineQuadrupleCupronickel.name=高强度白铜机械外壳
@@ -15157,7 +15157,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleElectricalSteel.name=高强度电钢机械外壳
     S:oredict.casingMachineQuadrupleElectrum.name=高强度琥珀金机械外壳
     S:oredict.casingMachineQuadrupleElectrumFlux.name=高强度熔融琥珀金机械外壳
-    S:oredict.casingMachineQuadrupleElvenElementium.name=高强度源质钢机械外壳
+    S:oredict.casingMachineQuadrupleElvenElementium.name=高强度精灵原质机械外壳
     S:oredict.casingMachineQuadrupleEmpty.name=高强度空机械外壳
     S:oredict.casingMachineQuadrupleEnderium.name=高强度末影机械外壳
     S:oredict.casingMachineQuadrupleEnderiumBase.name=高强度末影粗胚机械外壳
@@ -15372,7 +15372,7 @@ languagefile {
     S:oredict.casingSmallCobalt60.name=钴-60外壳
     S:oredict.casingSmallCobaltBrass.name=钴黄铜外壳
     S:oredict.casingSmallConcrete.name=混凝土外壳
-    S:oredict.casingSmallConductiveIron.name=导电铁外壳
+    S:oredict.casingSmallConductiveIron.name=导体铁外壳
     S:oredict.casingSmallConstantan.name=康铜外壳
     S:oredict.casingSmallCopper.name=铜外壳
     S:oredict.casingSmallCraponite.name=焦屎石外壳
@@ -15398,7 +15398,7 @@ languagefile {
     S:oredict.casingSmallElectricalSteel.name=电钢外壳
     S:oredict.casingSmallElectrum.name=琥珀金外壳
     S:oredict.casingSmallElectrumFlux.name=熔融琥珀金外壳
-    S:oredict.casingSmallElvenElementium.name=源质钢外壳
+    S:oredict.casingSmallElvenElementium.name=精灵原质外壳
     S:oredict.casingSmallEmeradic.name=绿宝石水晶外壳
     S:oredict.casingSmallEmerald.name=绿宝石外壳
     S:oredict.casingSmallEmpty.name=空外壳
@@ -16418,7 +16418,7 @@ languagefile {
     S:oredict.chemtubeCocoa.name=可可试管
     S:oredict.chemtubeCoffee.name=咖啡试管
     S:oredict.chemtubeConcrete.name=混凝土试管
-    S:oredict.chemtubeConductiveIron.name=导电铁试管
+    S:oredict.chemtubeConductiveIron.name=导体铁试管
     S:oredict.chemtubeConstantan.name=康铜试管
     S:oredict.chemtubeConstructionFoam.name=建筑泡沫试管
     S:oredict.chemtubeCooperite.name=硫砷铂试管
@@ -16482,7 +16482,7 @@ languagefile {
     S:oredict.chemtubeElectrotineAlloy.name=蓝石合金试管
     S:oredict.chemtubeElectrum.name=琥珀金试管
     S:oredict.chemtubeElectrumFlux.name=熔融琥珀金试管
-    S:oredict.chemtubeElvenElementium.name=源质钢试管
+    S:oredict.chemtubeElvenElementium.name=精灵原质试管
     S:oredict.chemtubeEmeradic.name=绿宝石水晶试管
     S:oredict.chemtubeEmerald.name=绿宝石试管
     S:oredict.chemtubeEmery.name=金刚砂试管
@@ -17373,7 +17373,7 @@ languagefile {
     S:oredict.chunkGtCobalt.name=钴小块
     S:oredict.chunkGtCobalt60.name=钴-60小块
     S:oredict.chunkGtCobaltBrass.name=钴黄铜小块
-    S:oredict.chunkGtConductiveIron.name=导电铁小块
+    S:oredict.chunkGtConductiveIron.name=导体铁小块
     S:oredict.chunkGtConstantan.name=康铜小块
     S:oredict.chunkGtCopernicium.name=鎶小块
     S:oredict.chunkGtCopper.name=铜小块
@@ -17400,7 +17400,7 @@ languagefile {
     S:oredict.chunkGtElectrotineAlloy.name=蓝石合金小块
     S:oredict.chunkGtElectrum.name=琥珀金小块
     S:oredict.chunkGtElectrumFlux.name=熔融琥珀金小块
-    S:oredict.chunkGtElvenElementium.name=源质钢小块
+    S:oredict.chunkGtElvenElementium.name=精灵原质小块
     S:oredict.chunkGtEmpty.name=空小块
     S:oredict.chunkGtEnderium.name=末影小块
     S:oredict.chunkGtEnderiumBase.name=末影锭粗胚小块
@@ -17871,7 +17871,7 @@ languagefile {
     S:oredict.crateGtDustCocoa.name=可可粉板条箱
     S:oredict.crateGtDustCoffee.name=咖啡粉板条箱
     S:oredict.crateGtDustConcrete.name=混凝土粉板条箱
-    S:oredict.crateGtDustConductiveIron.name=导电铁粉板条箱
+    S:oredict.crateGtDustConductiveIron.name=导体铁粉板条箱
     S:oredict.crateGtDustConstantan.name=康铜粉板条箱
     S:oredict.crateGtDustConstructionFoam.name=泡沫粉板条箱
     S:oredict.crateGtDustCooperite.name=硫砷铂粉板条箱
@@ -17929,7 +17929,7 @@ languagefile {
     S:oredict.crateGtDustElectrotineAlloy.name=蓝石合金粉板条箱
     S:oredict.crateGtDustElectrum.name=琥珀金粉板条箱
     S:oredict.crateGtDustElectrumFlux.name=熔融琥珀金粉板条箱
-    S:oredict.crateGtDustElvenElementium.name=源质钢粉板条箱
+    S:oredict.crateGtDustElvenElementium.name=精灵原质粉板条箱
     S:oredict.crateGtDustEmeradic.name=绿宝石水晶粉板条箱
     S:oredict.crateGtDustEmerald.name=绿宝石粉板条箱
     S:oredict.crateGtDustEmery.name=金刚砂粉板条箱
@@ -18682,7 +18682,7 @@ languagefile {
     S:oredict.crateGtIngotCobalt.name=钴锭板条箱
     S:oredict.crateGtIngotCobalt60.name=钴-60锭板条箱
     S:oredict.crateGtIngotCobaltBrass.name=钴黄铜锭板条箱
-    S:oredict.crateGtIngotConductiveIron.name=导电铁锭板条箱
+    S:oredict.crateGtIngotConductiveIron.name=导体铁锭板条箱
     S:oredict.crateGtIngotConstantan.name=康铜锭板条箱
     S:oredict.crateGtIngotCopernicium.name=鎶锭板条箱
     S:oredict.crateGtIngotCopper.name=铜锭板条箱
@@ -18709,7 +18709,7 @@ languagefile {
     S:oredict.crateGtIngotElectrotineAlloy.name=蓝石合金锭板条箱
     S:oredict.crateGtIngotElectrum.name=琥珀金锭板条箱
     S:oredict.crateGtIngotElectrumFlux.name=熔融琥珀金锭板条箱
-    S:oredict.crateGtIngotElvenElementium.name=源质钢锭板条箱
+    S:oredict.crateGtIngotElvenElementium.name=精灵原质锭板条箱
     S:oredict.crateGtIngotEmpty.name=空锭板条箱
     S:oredict.crateGtIngotEnderium.name=末影锭板条箱
     S:oredict.crateGtIngotEnderiumBase.name=末影粗胚锭板条箱
@@ -19088,7 +19088,7 @@ languagefile {
     S:oredict.crateGtPlateCobalt60.name=钴-60板板条箱
     S:oredict.crateGtPlateCobaltBrass.name=钴黄铜板板条箱
     S:oredict.crateGtPlateConcrete.name=混凝土板板条箱
-    S:oredict.crateGtPlateConductiveIron.name=导电铁板板条箱
+    S:oredict.crateGtPlateConductiveIron.name=导体铁板板条箱
     S:oredict.crateGtPlateConstantan.name=康铜板板条箱
     S:oredict.crateGtPlateCopernicium.name=鎶板板条箱
     S:oredict.crateGtPlateCopper.name=铜板板条箱
@@ -19118,7 +19118,7 @@ languagefile {
     S:oredict.crateGtPlateElectrotineAlloy.name=蓝石合金板板条箱
     S:oredict.crateGtPlateElectrum.name=琥珀金板板条箱
     S:oredict.crateGtPlateElectrumFlux.name=熔融琥珀金板板条箱
-    S:oredict.crateGtPlateElvenElementium.name=源质钢板板条箱
+    S:oredict.crateGtPlateElvenElementium.name=精灵原质板板条箱
     S:oredict.crateGtPlateEmery.name=Crate of Emery Plate
     S:oredict.crateGtPlateEmpty.name=空板板条箱
     S:oredict.crateGtPlateEnderium.name=末影板板条箱
@@ -22789,7 +22789,7 @@ languagefile {
     S:oredict.dustCocoa.name=可可粉
     S:oredict.dustCoffee.name=咖啡粉
     S:oredict.dustConcrete.name=混凝土粉
-    S:oredict.dustConductiveIron.name=导电铁粉
+    S:oredict.dustConductiveIron.name=导体铁粉
     S:oredict.dustConstantan.name=康铜粉
     S:oredict.dustConstructionFoam.name=建筑泡沫粉
     S:oredict.dustCooperite.name=硫砷铂粉
@@ -23083,7 +23083,7 @@ languagefile {
     S:oredict.dustDiv72Cocoa.name=1/72份可可粉
     S:oredict.dustDiv72Coffee.name=1/72份咖啡粉
     S:oredict.dustDiv72Concrete.name=1/72份混凝土粉
-    S:oredict.dustDiv72ConductiveIron.name=1/72份导电铁粉
+    S:oredict.dustDiv72ConductiveIron.name=1/72份导体铁粉
     S:oredict.dustDiv72Constantan.name=1/72份康铜粉
     S:oredict.dustDiv72ConstructionFoam.name=1/72份建筑泡沫粉
     S:oredict.dustDiv72Cooperite.name=1/72份硫砷铂粉
@@ -23141,7 +23141,7 @@ languagefile {
     S:oredict.dustDiv72ElectrotineAlloy.name=1/72份蓝石合金粉
     S:oredict.dustDiv72Electrum.name=1/72份琥珀金粉
     S:oredict.dustDiv72ElectrumFlux.name=1/72份熔融琥珀金粉
-    S:oredict.dustDiv72ElvenElementium.name=1/72份源质钢粉
+    S:oredict.dustDiv72ElvenElementium.name=1/72份精灵原质粉
     S:oredict.dustDiv72Emeradic.name=1/72份绿宝石水晶粉
     S:oredict.dustDiv72Emerald.name=1/72份绿宝石粉
     S:oredict.dustDiv72Emery.name=1/72份金刚砂粉
@@ -23621,7 +23621,7 @@ languagefile {
     S:oredict.dustElectrotineAlloy.name=蓝石合金粉
     S:oredict.dustElectrum.name=琥珀金粉
     S:oredict.dustElectrumFlux.name=熔融琥珀金粉
-    S:oredict.dustElvenElementium.name=源质钢粉
+    S:oredict.dustElvenElementium.name=精灵原质粉
     S:oredict.dustEmeradic.name=绿宝石水晶粉
     S:oredict.dustEmerald.name=绿宝石粉
     S:oredict.dustEmery.name=金刚砂粉
@@ -25306,7 +25306,7 @@ languagefile {
     S:oredict.dustSmallCocoa.name=小堆可可粉
     S:oredict.dustSmallCoffee.name=小堆咖啡粉
     S:oredict.dustSmallConcrete.name=小堆混凝土粉
-    S:oredict.dustSmallConductiveIron.name=小堆导电铁粉
+    S:oredict.dustSmallConductiveIron.name=小堆导体铁粉
     S:oredict.dustSmallConstantan.name=小堆康铜粉
     S:oredict.dustSmallConstructionFoam.name=小堆建筑泡沫粉
     S:oredict.dustSmallCooperite.name=小堆硫砷铂粉
@@ -25364,7 +25364,7 @@ languagefile {
     S:oredict.dustSmallElectrotineAlloy.name=小堆蓝石合金粉
     S:oredict.dustSmallElectrum.name=小堆琥珀金粉
     S:oredict.dustSmallElectrumFlux.name=小堆熔融琥珀金粉
-    S:oredict.dustSmallElvenElementium.name=小堆源质钢粉
+    S:oredict.dustSmallElvenElementium.name=小堆精灵原质粉
     S:oredict.dustSmallEmeradic.name=小堆绿宝石水晶粉
     S:oredict.dustSmallEmerald.name=小堆绿宝石粉
     S:oredict.dustSmallEmery.name=小堆金刚砂粉
@@ -26150,7 +26150,7 @@ languagefile {
     S:oredict.dustTinyCocoa.name=小撮可可粉
     S:oredict.dustTinyCoffee.name=小撮咖啡粉
     S:oredict.dustTinyConcrete.name=小撮混凝土粉
-    S:oredict.dustTinyConductiveIron.name=小撮导电铁粉
+    S:oredict.dustTinyConductiveIron.name=小撮导体铁粉
     S:oredict.dustTinyConstantan.name=小撮康铜粉
     S:oredict.dustTinyConstructionFoam.name=小撮建筑泡沫粉
     S:oredict.dustTinyCooperite.name=小撮硫砷铂粉
@@ -26208,7 +26208,7 @@ languagefile {
     S:oredict.dustTinyElectrotineAlloy.name=小撮蓝石合金粉
     S:oredict.dustTinyElectrum.name=小撮琥珀金粉
     S:oredict.dustTinyElectrumFlux.name=小撮熔融琥珀金粉
-    S:oredict.dustTinyElvenElementium.name=小撮源质钢粉
+    S:oredict.dustTinyElvenElementium.name=小撮精灵原质粉
     S:oredict.dustTinyEmeradic.name=小撮绿宝石水晶粉
     S:oredict.dustTinyEmerald.name=小撮绿宝石粉
     S:oredict.dustTinyEmery.name=小撮金刚砂粉
@@ -26914,7 +26914,7 @@ languagefile {
     S:oredict.foilCobalt.name=钴箔
     S:oredict.foilCobalt60.name=钴-60箔
     S:oredict.foilCobaltBrass.name=钴黄铜箔
-    S:oredict.foilConductiveIron.name=导电铁箔
+    S:oredict.foilConductiveIron.name=导体铁箔
     S:oredict.foilConstantan.name=康铜箔
     S:oredict.foilCopernicium.name=鎶箔
     S:oredict.foilCopper.name=铜箔
@@ -26940,7 +26940,7 @@ languagefile {
     S:oredict.foilElectrotineAlloy.name=蓝石合金箔
     S:oredict.foilElectrum.name=琥珀金箔
     S:oredict.foilElectrumFlux.name=熔融琥珀金箔
-    S:oredict.foilElvenElementium.name=源质钢箔
+    S:oredict.foilElvenElementium.name=精灵原质箔
     S:oredict.foilEmpty.name=空箔
     S:oredict.foilEnderium.name=末影箔
     S:oredict.foilEnderiumBase.name=末影锭粗胚箔
@@ -27199,7 +27199,7 @@ languagefile {
     S:oredict.gearGtCobalt60.name=钴-60齿轮
     S:oredict.gearGtCobaltBrass.name=钴黄铜齿轮
     S:oredict.gearGtConcrete.name=混凝土齿轮
-    S:oredict.gearGtConductiveIron.name=导电铁齿轮
+    S:oredict.gearGtConductiveIron.name=导体铁齿轮
     S:oredict.gearGtConstantan.name=康铜齿轮
     S:oredict.gearGtCopper.name=铜齿轮
     S:oredict.gearGtCraponite.name=焦屎石齿轮
@@ -27225,7 +27225,7 @@ languagefile {
     S:oredict.gearGtElectricalSteel.name=电钢齿轮
     S:oredict.gearGtElectrum.name=琥珀金齿轮
     S:oredict.gearGtElectrumFlux.name=熔融琥珀金齿轮
-    S:oredict.gearGtElvenElementium.name=源质钢齿轮
+    S:oredict.gearGtElvenElementium.name=精灵原质齿轮
     S:oredict.gearGtEmeradic.name=绿宝石水晶齿轮
     S:oredict.gearGtEmerald.name=绿宝石齿轮
     S:oredict.gearGtEmpty.name=空齿轮
@@ -27423,7 +27423,7 @@ languagefile {
     S:oredict.gearGtSmallCobalt60.name=小型钴-60齿轮
     S:oredict.gearGtSmallCobaltBrass.name=小型钴黄铜齿轮
     S:oredict.gearGtSmallConcrete.name=小型混凝土齿轮
-    S:oredict.gearGtSmallConductiveIron.name=小型导电铁齿轮
+    S:oredict.gearGtSmallConductiveIron.name=小型导体铁齿轮
     S:oredict.gearGtSmallConstantan.name=小型康铜齿轮
     S:oredict.gearGtSmallCopper.name=小型铜齿轮
     S:oredict.gearGtSmallCraponite.name=小型焦屎石齿轮
@@ -27449,7 +27449,7 @@ languagefile {
     S:oredict.gearGtSmallElectricalSteel.name=小型电钢齿轮
     S:oredict.gearGtSmallElectrum.name=小型琥珀金齿轮
     S:oredict.gearGtSmallElectrumFlux.name=小型熔融琥珀金齿轮
-    S:oredict.gearGtSmallElvenElementium.name=小型源质钢齿轮
+    S:oredict.gearGtSmallElvenElementium.name=小型精灵原质齿轮
     S:oredict.gearGtSmallEmeradic.name=小型绿宝石水晶齿轮
     S:oredict.gearGtSmallEmerald.name=小型绿宝石齿轮
     S:oredict.gearGtSmallEmpty.name=小型空齿轮
@@ -28258,7 +28258,7 @@ languagefile {
     S:oredict.ingotCobalt.name=钴锭
     S:oredict.ingotCobalt60.name=钴-60锭
     S:oredict.ingotCobaltBrass.name=钴黄铜锭
-    S:oredict.ingotConductiveIron.name=导电铁锭
+    S:oredict.ingotConductiveIron.name=导体铁锭
     S:oredict.ingotConstantan.name=康铜锭
     S:oredict.ingotCopernicium.name=鎶锭
     S:oredict.ingotCopper.name=铜锭
@@ -28434,7 +28434,7 @@ languagefile {
     S:oredict.ingotDoubleCobalt.name=两重钴锭
     S:oredict.ingotDoubleCobalt60.name=两重钴-60锭
     S:oredict.ingotDoubleCobaltBrass.name=两重钴黄铜锭
-    S:oredict.ingotDoubleConductiveIron.name=两重导电铁锭
+    S:oredict.ingotDoubleConductiveIron.name=两重导体铁锭
     S:oredict.ingotDoubleConstantan.name=两重康铜锭
     S:oredict.ingotDoubleCopernicium.name=两重鎶锭
     S:oredict.ingotDoubleCopper.name=两重铜锭
@@ -28460,7 +28460,7 @@ languagefile {
     S:oredict.ingotDoubleElectrotineAlloy.name=两重蓝石合金锭
     S:oredict.ingotDoubleElectrum.name=两重琥珀金锭
     S:oredict.ingotDoubleElectrumFlux.name=两重熔融琥珀金锭
-    S:oredict.ingotDoubleElvenElementium.name=两重源质钢锭
+    S:oredict.ingotDoubleElvenElementium.name=两重精灵原质锭
     S:oredict.ingotDoubleEmpty.name=两重空锭
     S:oredict.ingotDoubleEnderium.name=两重末影锭
     S:oredict.ingotDoubleEnderiumBase.name=两重末影锭粗胚锭
@@ -28657,7 +28657,7 @@ languagefile {
     S:oredict.ingotElectrotineAlloy.name=蓝石合金锭
     S:oredict.ingotElectrum.name=琥珀金锭
     S:oredict.ingotElectrumFlux.name=熔融琥珀金锭
-    S:oredict.ingotElvenElementium.name=源质钢锭
+    S:oredict.ingotElvenElementium.name=精灵原质锭
     S:oredict.ingotEmpty.name=空锭
     S:oredict.ingotEnderium.name=末影锭
     S:oredict.ingotEnderiumBase.name=末影锭粗胚锭
@@ -28849,7 +28849,7 @@ languagefile {
     S:oredict.ingotHotCobalt.name=热钴锭
     S:oredict.ingotHotCobalt60.name=热钴-60锭
     S:oredict.ingotHotCobaltBrass.name=热钴黄铜锭
-    S:oredict.ingotHotConductiveIron.name=热导电铁锭
+    S:oredict.ingotHotConductiveIron.name=热导体铁锭
     S:oredict.ingotHotConstantan.name=热康铜锭
     S:oredict.ingotHotCopernicium.name=热鎶锭
     S:oredict.ingotHotCopper.name=热铜锭
@@ -28875,7 +28875,7 @@ languagefile {
     S:oredict.ingotHotElectrotineAlloy.name=热蓝石合金锭
     S:oredict.ingotHotElectrum.name=热琥珀金锭
     S:oredict.ingotHotElectrumFlux.name=热熔融琥珀金锭
-    S:oredict.ingotHotElvenElementium.name=热源质钢锭
+    S:oredict.ingotHotElvenElementium.name=热精灵原质锭
     S:oredict.ingotHotEmpty.name=热空锭
     S:oredict.ingotHotEnderium.name=热末影锭
     S:oredict.ingotHotEnderiumBase.name=热末影锭粗胚锭
@@ -29299,7 +29299,7 @@ languagefile {
     S:oredict.ingotQuadrupleCobalt.name=四重钴锭
     S:oredict.ingotQuadrupleCobalt60.name=四重钴-60锭
     S:oredict.ingotQuadrupleCobaltBrass.name=四重钴黄铜锭
-    S:oredict.ingotQuadrupleConductiveIron.name=四重导电铁锭
+    S:oredict.ingotQuadrupleConductiveIron.name=四重导体铁锭
     S:oredict.ingotQuadrupleConstantan.name=四重康铜锭
     S:oredict.ingotQuadrupleCopernicium.name=四重鎶锭
     S:oredict.ingotQuadrupleCopper.name=四重铜锭
@@ -29325,7 +29325,7 @@ languagefile {
     S:oredict.ingotQuadrupleElectrotineAlloy.name=四重蓝石合金锭
     S:oredict.ingotQuadrupleElectrum.name=四重琥珀金锭
     S:oredict.ingotQuadrupleElectrumFlux.name=四重熔融琥珀金锭
-    S:oredict.ingotQuadrupleElvenElementium.name=四重源质钢锭
+    S:oredict.ingotQuadrupleElvenElementium.name=四重精灵原质锭
     S:oredict.ingotQuadrupleEmpty.name=四重空锭
     S:oredict.ingotQuadrupleEnderium.name=四重末影锭
     S:oredict.ingotQuadrupleEnderiumBase.name=四重末影锭粗胚锭
@@ -29671,7 +29671,7 @@ languagefile {
     S:oredict.ingotQuintupleCobalt.name=五重钴锭
     S:oredict.ingotQuintupleCobalt60.name=五重钴-60锭
     S:oredict.ingotQuintupleCobaltBrass.name=五重钴黄铜锭
-    S:oredict.ingotQuintupleConductiveIron.name=五重导电铁锭
+    S:oredict.ingotQuintupleConductiveIron.name=五重导体铁锭
     S:oredict.ingotQuintupleConstantan.name=五重康铜锭
     S:oredict.ingotQuintupleCopernicium.name=五重鎶锭
     S:oredict.ingotQuintupleCopper.name=五重铜锭
@@ -29697,7 +29697,7 @@ languagefile {
     S:oredict.ingotQuintupleElectrotineAlloy.name=五重蓝石合金锭
     S:oredict.ingotQuintupleElectrum.name=五重琥珀金锭
     S:oredict.ingotQuintupleElectrumFlux.name=五重熔融琥珀金锭
-    S:oredict.ingotQuintupleElvenElementium.name=五重源质钢锭
+    S:oredict.ingotQuintupleElvenElementium.name=五重精灵原质锭
     S:oredict.ingotQuintupleEmpty.name=五重空锭
     S:oredict.ingotQuintupleEnderium.name=五重末影锭
     S:oredict.ingotQuintupleEnderiumBase.name=五重末影锭粗胚锭
@@ -30095,7 +30095,7 @@ languagefile {
     S:oredict.ingotTripleCobalt.name=三重钴锭
     S:oredict.ingotTripleCobalt60.name=三重钴-60锭
     S:oredict.ingotTripleCobaltBrass.name=三重钴黄铜锭
-    S:oredict.ingotTripleConductiveIron.name=三重导电铁锭
+    S:oredict.ingotTripleConductiveIron.name=三重导体铁锭
     S:oredict.ingotTripleConstantan.name=三重康铜锭
     S:oredict.ingotTripleCopernicium.name=三重鎶锭
     S:oredict.ingotTripleCopper.name=三重铜锭
@@ -30121,7 +30121,7 @@ languagefile {
     S:oredict.ingotTripleElectrotineAlloy.name=三重蓝石合金锭
     S:oredict.ingotTripleElectrum.name=三重琥珀金锭
     S:oredict.ingotTripleElectrumFlux.name=三重熔融琥珀金锭
-    S:oredict.ingotTripleElvenElementium.name=三重源质钢锭
+    S:oredict.ingotTripleElvenElementium.name=三重精灵原质锭
     S:oredict.ingotTripleEmpty.name=三重空锭
     S:oredict.ingotTripleEnderium.name=三重末影锭
     S:oredict.ingotTripleEnderiumBase.name=三重末影锭粗胚锭
@@ -30438,7 +30438,7 @@ languagefile {
     S:oredict.minecartWheelsCobalt.name=钴车轮
     S:oredict.minecartWheelsCobalt60.name=钴-60车轮
     S:oredict.minecartWheelsCobaltBrass.name=钴黄铜车轮
-    S:oredict.minecartWheelsConductiveIron.name=导电铁车轮
+    S:oredict.minecartWheelsConductiveIron.name=导体铁车轮
     S:oredict.minecartWheelsConstantan.name=康铜车轮
     S:oredict.minecartWheelsCopper.name=铜车轮
     S:oredict.minecartWheelsCupronickel.name=白铜车轮
@@ -30456,7 +30456,7 @@ languagefile {
     S:oredict.minecartWheelsElectricalSteel.name=电钢车轮
     S:oredict.minecartWheelsElectrum.name=琥珀金车轮
     S:oredict.minecartWheelsElectrumFlux.name=熔融琥珀金车轮
-    S:oredict.minecartWheelsElvenElementium.name=源质钢车轮
+    S:oredict.minecartWheelsElvenElementium.name=精灵原质车轮
     S:oredict.minecartWheelsEmpty.name=空车轮
     S:oredict.minecartWheelsEnderium.name=末影锭车轮
     S:oredict.minecartWheelsEnderiumBase.name=末影锭粗胚车轮
@@ -30730,7 +30730,7 @@ languagefile {
     S:oredict.nuggetCobalt.name=钴粒
     S:oredict.nuggetCobalt60.name=钴-60粒
     S:oredict.nuggetCobaltBrass.name=钴黄铜粒
-    S:oredict.nuggetConductiveIron.name=导电铁粒
+    S:oredict.nuggetConductiveIron.name=导体铁粒
     S:oredict.nuggetConstantan.name=康铜粒
     S:oredict.nuggetCopernicium.name=鎶粒
     S:oredict.nuggetCopper.name=铜粒
@@ -30757,7 +30757,7 @@ languagefile {
     S:oredict.nuggetElectrotineAlloy.name=蓝石合金粒
     S:oredict.nuggetElectrum.name=琥珀金粒
     S:oredict.nuggetElectrumFlux.name=熔融琥珀金粒
-    S:oredict.nuggetElvenElementium.name=源质钢粒
+    S:oredict.nuggetElvenElementium.name=精灵原质粒
     S:oredict.nuggetEmpty.name=空粒
     S:oredict.nuggetEnderium.name=末影粒
     S:oredict.nuggetEnderiumBase.name=末影锭粗胚粒
@@ -41807,7 +41807,7 @@ languagefile {
     S:oredict.plantGtBerryCocoa.name=可可梅
     S:oredict.plantGtBerryCoffee.name=咖啡梅
     S:oredict.plantGtBerryConcrete.name=混凝土梅
-    S:oredict.plantGtBerryConductiveIron.name=导电铁梅
+    S:oredict.plantGtBerryConductiveIron.name=导体铁梅
     S:oredict.plantGtBerryConstantan.name=康铜梅
     S:oredict.plantGtBerryConstructionFoam.name=建筑泡沫梅
     S:oredict.plantGtBerryCooperite.name=硫砷铂梅
@@ -41869,7 +41869,7 @@ languagefile {
     S:oredict.plantGtBerryElectrotineAlloy.name=蓝石合金梅
     S:oredict.plantGtBerryElectrum.name=琥珀金梅
     S:oredict.plantGtBerryElectrumFlux.name=熔融琥珀金梅
-    S:oredict.plantGtBerryElvenElementium.name=源质钢梅
+    S:oredict.plantGtBerryElvenElementium.name=精灵原质梅
     S:oredict.plantGtBerryEmeradic.name=绿宝石水晶梅
     S:oredict.plantGtBerryEmerald.name=Bobs-Yer-Uncle-梅
     S:oredict.plantGtBerryEmery.name=金刚砂梅
@@ -42668,7 +42668,7 @@ languagefile {
     S:oredict.plantGtBlossomCocoa.name=可可花
     S:oredict.plantGtBlossomCoffee.name=咖啡花
     S:oredict.plantGtBlossomConcrete.name=混凝土花
-    S:oredict.plantGtBlossomConductiveIron.name=导电铁花
+    S:oredict.plantGtBlossomConductiveIron.name=导体铁花
     S:oredict.plantGtBlossomConstantan.name=康铜花
     S:oredict.plantGtBlossomConstructionFoam.name=建筑泡沫花
     S:oredict.plantGtBlossomCooperite.name=硫砷铂花
@@ -42730,7 +42730,7 @@ languagefile {
     S:oredict.plantGtBlossomElectrotineAlloy.name=蓝石合金花
     S:oredict.plantGtBlossomElectrum.name=琥珀金花
     S:oredict.plantGtBlossomElectrumFlux.name=熔融琥珀金花
-    S:oredict.plantGtBlossomElvenElementium.name=源质钢花
+    S:oredict.plantGtBlossomElvenElementium.name=精灵原质花
     S:oredict.plantGtBlossomEmeradic.name=绿宝石水晶花
     S:oredict.plantGtBlossomEmerald.name=绿宝石花
     S:oredict.plantGtBlossomEmery.name=金刚砂花
@@ -43528,7 +43528,7 @@ languagefile {
     S:oredict.plantGtFiberCocoa.name=粗糙的可可纤维
     S:oredict.plantGtFiberCoffee.name=粗糙的咖啡纤维
     S:oredict.plantGtFiberConcrete.name=粗糙的混凝土纤维
-    S:oredict.plantGtFiberConductiveIron.name=粗糙的导电铁纤维
+    S:oredict.plantGtFiberConductiveIron.name=粗糙的导体铁纤维
     S:oredict.plantGtFiberConstantan.name=粗糙的康铜纤维
     S:oredict.plantGtFiberConstructionFoam.name=粗糙的建筑泡沫纤维
     S:oredict.plantGtFiberCooperite.name=粗糙的硫砷铂纤维
@@ -43590,7 +43590,7 @@ languagefile {
     S:oredict.plantGtFiberElectrotineAlloy.name=粗糙的蓝石合金纤维
     S:oredict.plantGtFiberElectrum.name=粗糙的琥珀金纤维
     S:oredict.plantGtFiberElectrumFlux.name=粗糙的熔融琥珀金纤维
-    S:oredict.plantGtFiberElvenElementium.name=粗糙的源质钢纤维
+    S:oredict.plantGtFiberElvenElementium.name=粗糙的精灵原质纤维
     S:oredict.plantGtFiberEmeradic.name=粗糙的绿宝石水晶纤维
     S:oredict.plantGtFiberEmerald.name=粗糙的绿宝石纤维
     S:oredict.plantGtFiberEmery.name=粗糙的金刚砂纤维
@@ -44388,7 +44388,7 @@ languagefile {
     S:oredict.plantGtTwigCocoa.name=可可细枝
     S:oredict.plantGtTwigCoffee.name=咖啡细枝
     S:oredict.plantGtTwigConcrete.name=混凝土细枝
-    S:oredict.plantGtTwigConductiveIron.name=导电铁细枝
+    S:oredict.plantGtTwigConductiveIron.name=导体铁细枝
     S:oredict.plantGtTwigConstantan.name=康铜细枝
     S:oredict.plantGtTwigConstructionFoam.name=建筑泡沫细枝
     S:oredict.plantGtTwigCooperite.name=硫砷铂细枝
@@ -44450,7 +44450,7 @@ languagefile {
     S:oredict.plantGtTwigElectrotineAlloy.name=蓝石合金细枝
     S:oredict.plantGtTwigElectrum.name=琥珀金细枝
     S:oredict.plantGtTwigElectrumFlux.name=熔融琥珀金细枝
-    S:oredict.plantGtTwigElvenElementium.name=源质钢细枝
+    S:oredict.plantGtTwigElvenElementium.name=精灵原质细枝
     S:oredict.plantGtTwigEmeradic.name=绿宝石水晶细枝
     S:oredict.plantGtTwigEmerald.name=绿宝石细枝
     S:oredict.plantGtTwigEmery.name=金刚砂细枝
@@ -45251,7 +45251,7 @@ languagefile {
     S:oredict.plantGtWartCocoa.name=可可疣
     S:oredict.plantGtWartCoffee.name=咖啡疣
     S:oredict.plantGtWartConcrete.name=混凝土疣
-    S:oredict.plantGtWartConductiveIron.name=导电铁疣
+    S:oredict.plantGtWartConductiveIron.name=导体铁疣
     S:oredict.plantGtWartConstantan.name=康铜疣
     S:oredict.plantGtWartConstructionFoam.name=建筑泡沫疣
     S:oredict.plantGtWartCooperite.name=硫砷铂疣
@@ -45313,7 +45313,7 @@ languagefile {
     S:oredict.plantGtWartElectrotineAlloy.name=蓝石合金疣
     S:oredict.plantGtWartElectrum.name=琥珀金疣
     S:oredict.plantGtWartElectrumFlux.name=熔融琥珀金疣
-    S:oredict.plantGtWartElvenElementium.name=源质钢疣
+    S:oredict.plantGtWartElvenElementium.name=精灵原质疣
     S:oredict.plantGtWartEmeradic.name=绿宝石水晶疣
     S:oredict.plantGtWartEmerald.name=绿宝石疣
     S:oredict.plantGtWartEmery.name=金刚砂疣
@@ -46007,7 +46007,7 @@ languagefile {
     S:oredict.plateCobalt60.name=钴-60板
     S:oredict.plateCobaltBrass.name=钴黄铜板
     S:oredict.plateConcrete.name=混凝土板
-    S:oredict.plateConductiveIron.name=导电铁板
+    S:oredict.plateConductiveIron.name=导体铁板
     S:oredict.plateConstantan.name=康铜板
     S:oredict.plateCopernicium.name=鎶板
     S:oredict.plateCopper.name=铜板
@@ -46185,7 +46185,7 @@ languagefile {
     S:oredict.plateCurvedCobalt60.name=弯曲钴-60板
     S:oredict.plateCurvedCobaltBrass.name=弯曲钴黄铜板
     S:oredict.plateCurvedConcrete.name=弯曲混凝土板
-    S:oredict.plateCurvedConductiveIron.name=弯曲导电铁板
+    S:oredict.plateCurvedConductiveIron.name=弯曲导体铁板
     S:oredict.plateCurvedConstantan.name=弯曲康铜板
     S:oredict.plateCurvedCopernicium.name=弯曲鎶板
     S:oredict.plateCurvedCopper.name=弯曲铜板
@@ -46215,7 +46215,7 @@ languagefile {
     S:oredict.plateCurvedElectrotineAlloy.name=弯曲蓝石合金板
     S:oredict.plateCurvedElectrum.name=弯曲琥珀金板
     S:oredict.plateCurvedElectrumFlux.name=弯曲熔融琥珀金板
-    S:oredict.plateCurvedElvenElementium.name=弯曲源质钢板
+    S:oredict.plateCurvedElvenElementium.name=弯曲精灵原质板
     S:oredict.plateCurvedEmery.name=Curved Emery Plate
     S:oredict.plateCurvedEmpty.name=弯曲空板
     S:oredict.plateCurvedEnderium.name=弯曲末影板
@@ -46620,7 +46620,7 @@ languagefile {
     S:oredict.plateDenseCobalt.name=致密钴板
     S:oredict.plateDenseCobalt60.name=致密钴-60板
     S:oredict.plateDenseCobaltBrass.name=致密钴黄铜板
-    S:oredict.plateDenseConductiveIron.name=致密导电铁板
+    S:oredict.plateDenseConductiveIron.name=致密导体铁板
     S:oredict.plateDenseConstantan.name=致密康铜板
     S:oredict.plateDenseCopernicium.name=致密鎶板
     S:oredict.plateDenseCopper.name=致密铜板
@@ -46646,7 +46646,7 @@ languagefile {
     S:oredict.plateDenseElectrotineAlloy.name=致密蓝石合金板
     S:oredict.plateDenseElectrum.name=致密琥珀金板
     S:oredict.plateDenseElectrumFlux.name=致密熔融琥珀金板
-    S:oredict.plateDenseElvenElementium.name=致密源质钢板
+    S:oredict.plateDenseElvenElementium.name=致密精灵原质板
     S:oredict.plateDenseEmpty.name=致密空板
     S:oredict.plateDenseEnderium.name=致密末影板
     S:oredict.plateDenseEnderiumBase.name=致密末影锭粗胚板
@@ -47001,7 +47001,7 @@ languagefile {
     S:oredict.plateDoubleCobalt.name=两重钴板
     S:oredict.plateDoubleCobalt60.name=两重钴-60板
     S:oredict.plateDoubleCobaltBrass.name=两重钴黄铜板
-    S:oredict.plateDoubleConductiveIron.name=两重导电铁板
+    S:oredict.plateDoubleConductiveIron.name=两重导体铁板
     S:oredict.plateDoubleConstantan.name=两重康铜板
     S:oredict.plateDoubleCopernicium.name=两重鎶板
     S:oredict.plateDoubleCopper.name=两重铜板
@@ -47027,7 +47027,7 @@ languagefile {
     S:oredict.plateDoubleElectrotineAlloy.name=两重蓝石合金板
     S:oredict.plateDoubleElectrum.name=两重琥珀金板
     S:oredict.plateDoubleElectrumFlux.name=两重熔融琥珀金板
-    S:oredict.plateDoubleElvenElementium.name=两重源质钢板
+    S:oredict.plateDoubleElvenElementium.name=两重精灵原质板
     S:oredict.plateDoubleEmpty.name=两重空板
     S:oredict.plateDoubleEnderium.name=两重末影板
     S:oredict.plateDoubleEnderiumBase.name=两重末影锭粗胚板
@@ -47225,7 +47225,7 @@ languagefile {
     S:oredict.plateElectrotineAlloy.name=蓝石合金板
     S:oredict.plateElectrum.name=琥珀金板
     S:oredict.plateElectrumFlux.name=熔融琥珀金板
-    S:oredict.plateElvenElementium.name=源质钢板
+    S:oredict.plateElvenElementium.name=精灵原质板
     S:oredict.plateEmery.name=Emery Plate
     S:oredict.plateEmpty.name=空板
     S:oredict.plateEnderium.name=末影板
@@ -47716,7 +47716,7 @@ languagefile {
     S:oredict.plateQuadrupleCobalt.name=四重钴板
     S:oredict.plateQuadrupleCobalt60.name=四重钴-60板
     S:oredict.plateQuadrupleCobaltBrass.name=四重钴黄铜板
-    S:oredict.plateQuadrupleConductiveIron.name=四重导电铁板
+    S:oredict.plateQuadrupleConductiveIron.name=四重导体铁板
     S:oredict.plateQuadrupleConstantan.name=四重康铜板
     S:oredict.plateQuadrupleCopernicium.name=四重鎶板
     S:oredict.plateQuadrupleCopper.name=四重铜板
@@ -47742,7 +47742,7 @@ languagefile {
     S:oredict.plateQuadrupleElectrotineAlloy.name=四重蓝石合金板
     S:oredict.plateQuadrupleElectrum.name=四重琥珀金板
     S:oredict.plateQuadrupleElectrumFlux.name=四重熔融琥珀金板
-    S:oredict.plateQuadrupleElvenElementium.name=四重源质钢板
+    S:oredict.plateQuadrupleElvenElementium.name=四重精灵原质板
     S:oredict.plateQuadrupleEmpty.name=四重空板
     S:oredict.plateQuadrupleEnderium.name=四重末影板
     S:oredict.plateQuadrupleEnderiumBase.name=四重末影锭粗胚板
@@ -48090,7 +48090,7 @@ languagefile {
     S:oredict.plateQuintupleCobalt.name=五重钴板
     S:oredict.plateQuintupleCobalt60.name=五重钴-60板
     S:oredict.plateQuintupleCobaltBrass.name=五重钴黄铜板
-    S:oredict.plateQuintupleConductiveIron.name=五重导电铁板
+    S:oredict.plateQuintupleConductiveIron.name=五重导体铁板
     S:oredict.plateQuintupleConstantan.name=五重康铜板
     S:oredict.plateQuintupleCopernicium.name=五重鎶板
     S:oredict.plateQuintupleCopper.name=五重铜板
@@ -48116,7 +48116,7 @@ languagefile {
     S:oredict.plateQuintupleElectrotineAlloy.name=五重蓝石合金板
     S:oredict.plateQuintupleElectrum.name=五重琥珀金板
     S:oredict.plateQuintupleElectrumFlux.name=五重熔融琥珀金板
-    S:oredict.plateQuintupleElvenElementium.name=五重源质钢板
+    S:oredict.plateQuintupleElvenElementium.name=五重精灵原质板
     S:oredict.plateQuintupleEmpty.name=五重空板
     S:oredict.plateQuintupleEnderium.name=五重末影板
     S:oredict.plateQuintupleEnderiumBase.name=五重末影锭粗胚板
@@ -48524,7 +48524,7 @@ languagefile {
     S:oredict.plateTinyCobalt60.name=小块钴-60板
     S:oredict.plateTinyCobaltBrass.name=小块钴黄铜板
     S:oredict.plateTinyConcrete.name=小块混凝土板
-    S:oredict.plateTinyConductiveIron.name=小块导电铁板
+    S:oredict.plateTinyConductiveIron.name=小块导体铁板
     S:oredict.plateTinyConstantan.name=小块康铜板
     S:oredict.plateTinyCopernicium.name=小块鎶板
     S:oredict.plateTinyCopper.name=小块铜板
@@ -48554,7 +48554,7 @@ languagefile {
     S:oredict.plateTinyElectrotineAlloy.name=小块蓝石合金板
     S:oredict.plateTinyElectrum.name=小块琥珀金板
     S:oredict.plateTinyElectrumFlux.name=小块熔融琥珀金板
-    S:oredict.plateTinyElvenElementium.name=小块源质钢板
+    S:oredict.plateTinyElvenElementium.name=小块精灵原质板
     S:oredict.plateTinyEmery.name=Tiny Emery Plate
     S:oredict.plateTinyEmpty.name=小块空板
     S:oredict.plateTinyEnderium.name=小块末影板
@@ -48958,7 +48958,7 @@ languagefile {
     S:oredict.plateTripleCobalt.name=三重钴板
     S:oredict.plateTripleCobalt60.name=三重钴-60板
     S:oredict.plateTripleCobaltBrass.name=三重钴黄铜板
-    S:oredict.plateTripleConductiveIron.name=三重导电铁板
+    S:oredict.plateTripleConductiveIron.name=三重导体铁板
     S:oredict.plateTripleConstantan.name=三重康铜板
     S:oredict.plateTripleCopernicium.name=三重鎶板
     S:oredict.plateTripleCopper.name=三重铜板
@@ -48984,7 +48984,7 @@ languagefile {
     S:oredict.plateTripleElectrotineAlloy.name=三重蓝石合金板
     S:oredict.plateTripleElectrum.name=三重琥珀金板
     S:oredict.plateTripleElectrumFlux.name=三重熔融琥珀金板
-    S:oredict.plateTripleElvenElementium.name=三重源质钢板
+    S:oredict.plateTripleElvenElementium.name=三重精灵原质板
     S:oredict.plateTripleEmpty.name=三重空板
     S:oredict.plateTripleEnderium.name=三重末影板
     S:oredict.plateTripleEnderiumBase.name=三重末影锭粗胚板
@@ -49298,7 +49298,7 @@ languagefile {
     S:oredict.ringCobalt60.name=钴-60环
     S:oredict.ringCobaltBrass.name=钴黄铜环
     S:oredict.ringConcrete.name=混凝土环
-    S:oredict.ringConductiveIron.name=导电铁环
+    S:oredict.ringConductiveIron.name=导体铁环
     S:oredict.ringConstantan.name=康铜环
     S:oredict.ringCopper.name=铜环
     S:oredict.ringCraponite.name=焦屎石环
@@ -49324,7 +49324,7 @@ languagefile {
     S:oredict.ringElectricalSteel.name=电钢环
     S:oredict.ringElectrum.name=琥珀金环
     S:oredict.ringElectrumFlux.name=熔融琥珀金环
-    S:oredict.ringElvenElementium.name=源质钢环
+    S:oredict.ringElvenElementium.name=精灵原质环
     S:oredict.ringEmeradic.name=绿宝石水晶环
     S:oredict.ringEmerald.name=绿宝石环
     S:oredict.ringEmpty.name=空环
@@ -50124,7 +50124,7 @@ languagefile {
     S:oredict.rotorCobalt60.name=钴-60转子
     S:oredict.rotorCobaltBrass.name=钴黄铜转子
     S:oredict.rotorConcrete.name=混凝土转子
-    S:oredict.rotorConductiveIron.name=导电铁转子
+    S:oredict.rotorConductiveIron.name=导体铁转子
     S:oredict.rotorConstantan.name=康铜转子
     S:oredict.rotorCopper.name=铜转子
     S:oredict.rotorCraponite.name=焦屎石转子
@@ -50150,7 +50150,7 @@ languagefile {
     S:oredict.rotorElectricalSteel.name=电钢转子
     S:oredict.rotorElectrum.name=琥珀金转子
     S:oredict.rotorElectrumFlux.name=熔融琥珀金转子
-    S:oredict.rotorElvenElementium.name=源质钢转子
+    S:oredict.rotorElvenElementium.name=精灵原质转子
     S:oredict.rotorEmeradic.name=绿宝石水晶转子
     S:oredict.rotorEmerald.name=绿宝石转子
     S:oredict.rotorEmpty.name=空转子
@@ -50409,7 +50409,7 @@ languagefile {
     S:oredict.roundCobalt60.name=钴-60垫片
     S:oredict.roundCobaltBrass.name=钴黄铜垫片
     S:oredict.roundConcrete.name=混凝土垫片
-    S:oredict.roundConductiveIron.name=导电铁垫片
+    S:oredict.roundConductiveIron.name=导体铁垫片
     S:oredict.roundConstantan.name=康铜垫片
     S:oredict.roundCopper.name=铜垫片
     S:oredict.roundCraponite.name=焦屎石垫片
@@ -50435,7 +50435,7 @@ languagefile {
     S:oredict.roundElectricalSteel.name=电钢垫片
     S:oredict.roundElectrum.name=琥珀金垫片
     S:oredict.roundElectrumFlux.name=熔融琥珀金垫片
-    S:oredict.roundElvenElementium.name=源质钢垫片
+    S:oredict.roundElvenElementium.name=精灵原质垫片
     S:oredict.roundEmeradic.name=绿宝石水晶垫片
     S:oredict.roundEmerald.name=绿宝石垫片
     S:oredict.roundEmpty.name=空垫片
@@ -50897,7 +50897,7 @@ languagefile {
     S:oredict.scrapGtCocoa.name=可可废料
     S:oredict.scrapGtCoffee.name=咖啡废料
     S:oredict.scrapGtConcrete.name=混凝土废料
-    S:oredict.scrapGtConductiveIron.name=导电铁废料
+    S:oredict.scrapGtConductiveIron.name=导体铁废料
     S:oredict.scrapGtConstantan.name=康铜废料
     S:oredict.scrapGtConstructionFoam.name=建筑泡沫废料
     S:oredict.scrapGtCooperite.name=硫砷铂废料
@@ -50955,7 +50955,7 @@ languagefile {
     S:oredict.scrapGtElectrotineAlloy.name=蓝石合金废料
     S:oredict.scrapGtElectrum.name=琥珀金废料
     S:oredict.scrapGtElectrumFlux.name=熔融琥珀金废料
-    S:oredict.scrapGtElvenElementium.name=源质钢废料
+    S:oredict.scrapGtElvenElementium.name=精灵原质废料
     S:oredict.scrapGtEmeradic.name=绿宝石水晶废料
     S:oredict.scrapGtEmerald.name=绿宝石废料
     S:oredict.scrapGtEmery.name=金刚砂废料
@@ -51614,7 +51614,7 @@ languagefile {
     S:oredict.screwCobalt60.name=钴-60螺丝
     S:oredict.screwCobaltBrass.name=钴黄铜螺丝
     S:oredict.screwConcrete.name=混凝土螺丝
-    S:oredict.screwConductiveIron.name=导电铁螺丝
+    S:oredict.screwConductiveIron.name=导体铁螺丝
     S:oredict.screwConstantan.name=康铜螺丝
     S:oredict.screwCopernicium.name=鎶螺丝
     S:oredict.screwCopper.name=铜螺丝
@@ -51649,7 +51649,7 @@ languagefile {
     S:oredict.screwElectrotineAlloy.name=蓝石合金螺丝
     S:oredict.screwElectrum.name=琥珀金螺丝
     S:oredict.screwElectrumFlux.name=熔融琥珀金螺丝
-    S:oredict.screwElvenElementium.name=源质钢螺丝
+    S:oredict.screwElvenElementium.name=精灵原质螺丝
     S:oredict.screwEmeradic.name=绿宝石水晶螺丝
     S:oredict.screwEmerald.name=绿宝石螺丝
     S:oredict.screwEmery.name=Emery Screw
@@ -51978,7 +51978,7 @@ languagefile {
     S:oredict.springCobalt.name=钴弹簧
     S:oredict.springCobalt60.name=钴-60弹簧
     S:oredict.springCobaltBrass.name=钴黄铜弹簧
-    S:oredict.springConductiveIron.name=导电铁弹簧
+    S:oredict.springConductiveIron.name=导体铁弹簧
     S:oredict.springConstantan.name=康铜弹簧
     S:oredict.springCopper.name=铜弹簧
     S:oredict.springCupronickel.name=白铜弹簧
@@ -51999,7 +51999,7 @@ languagefile {
     S:oredict.springElectricalSteel.name=电钢弹簧
     S:oredict.springElectrum.name=琥珀金弹簧
     S:oredict.springElectrumFlux.name=熔融琥珀金弹簧
-    S:oredict.springElvenElementium.name=源质钢弹簧
+    S:oredict.springElvenElementium.name=精灵原质弹簧
     S:oredict.springEmpty.name=空弹簧
     S:oredict.springEnderium.name=末影弹簧
     S:oredict.springEnderiumBase.name=末影锭粗胚弹簧
@@ -52129,7 +52129,7 @@ languagefile {
     S:oredict.springSmallCobalt.name=小型钴弹簧
     S:oredict.springSmallCobalt60.name=小型钴-60弹簧
     S:oredict.springSmallCobaltBrass.name=小型钴黄铜弹簧
-    S:oredict.springSmallConductiveIron.name=小型导电铁弹簧
+    S:oredict.springSmallConductiveIron.name=小型导体铁弹簧
     S:oredict.springSmallConstantan.name=小型康铜弹簧
     S:oredict.springSmallCopper.name=小型铜弹簧
     S:oredict.springSmallCupronickel.name=小型白铜弹簧
@@ -52150,7 +52150,7 @@ languagefile {
     S:oredict.springSmallElectricalSteel.name=小型电钢弹簧
     S:oredict.springSmallElectrum.name=小型琥珀金弹簧
     S:oredict.springSmallElectrumFlux.name=小型熔融琥珀金弹簧
-    S:oredict.springSmallElvenElementium.name=小型源质钢弹簧
+    S:oredict.springSmallElvenElementium.name=小型精灵原质弹簧
     S:oredict.springSmallEmpty.name=小型空弹簧
     S:oredict.springSmallEnderium.name=小型末影弹簧
     S:oredict.springSmallEnderiumBase.name=小型末影粗胚弹簧
@@ -52527,7 +52527,7 @@ languagefile {
     S:oredict.stickCobalt60.name=钴-60杆
     S:oredict.stickCobaltBrass.name=钴黄铜杆
     S:oredict.stickConcrete.name=混凝土杆
-    S:oredict.stickConductiveIron.name=导电铁杆
+    S:oredict.stickConductiveIron.name=导体铁杆
     S:oredict.stickConstantan.name=康铜杆
     S:oredict.stickCopernicium.name=鎶杆
     S:oredict.stickCopper.name=铜杆
@@ -52562,7 +52562,7 @@ languagefile {
     S:oredict.stickElectrotineAlloy.name=蓝石合金杆
     S:oredict.stickElectrum.name=琥珀金杆
     S:oredict.stickElectrumFlux.name=熔融琥珀金杆
-    S:oredict.stickElvenElementium.name=源质钢杆
+    S:oredict.stickElvenElementium.name=精灵原质杆
     S:oredict.stickEmeradic.name=绿宝石水晶杆
     S:oredict.stickEmerald.name=绿宝石杆
     S:oredict.stickEmery.name=Emery Rod
@@ -52847,7 +52847,7 @@ languagefile {
     S:oredict.stickLongCobalt60.name=长钴-60杆
     S:oredict.stickLongCobaltBrass.name=长钴黄铜杆
     S:oredict.stickLongConcrete.name=长混凝土杆
-    S:oredict.stickLongConductiveIron.name=长导电铁杆
+    S:oredict.stickLongConductiveIron.name=长导体铁杆
     S:oredict.stickLongConstantan.name=长康铜杆
     S:oredict.stickLongCopernicium.name=长鎶杆
     S:oredict.stickLongCopper.name=长铜杆
@@ -52882,7 +52882,7 @@ languagefile {
     S:oredict.stickLongElectrotineAlloy.name=长蓝石合金杆
     S:oredict.stickLongElectrum.name=长琥珀金杆
     S:oredict.stickLongElectrumFlux.name=长熔融琥珀金杆
-    S:oredict.stickLongElvenElementium.name=长源质钢杆
+    S:oredict.stickLongElvenElementium.name=长精灵原质杆
     S:oredict.stickLongEmeradic.name=长绿宝石水晶杆
     S:oredict.stickLongEmerald.name=长绿宝石杆
     S:oredict.stickLongEmery.name=Long Emery Rod
@@ -53413,7 +53413,7 @@ languagefile {
     S:oredict.toolHeadArrowCobalt60.name=钴-60箭头
     S:oredict.toolHeadArrowCobaltBrass.name=钴黄铜箭头
     S:oredict.toolHeadArrowConcrete.name=混凝土箭头
-    S:oredict.toolHeadArrowConductiveIron.name=导电铁箭头
+    S:oredict.toolHeadArrowConductiveIron.name=导体铁箭头
     S:oredict.toolHeadArrowConstantan.name=康铜箭头
     S:oredict.toolHeadArrowCopper.name=铜箭头
     S:oredict.toolHeadArrowCraponite.name=焦屎石箭头
@@ -53670,7 +53670,7 @@ languagefile {
     S:oredict.toolHeadAxeCobalt60.name=钴-60斧头
     S:oredict.toolHeadAxeCobaltBrass.name=钴黄铜斧头
     S:oredict.toolHeadAxeConcrete.name=混凝土斧头
-    S:oredict.toolHeadAxeConductiveIron.name=导电铁斧头
+    S:oredict.toolHeadAxeConductiveIron.name=导体铁斧头
     S:oredict.toolHeadAxeConstantan.name=康铜斧头
     S:oredict.toolHeadAxeCopper.name=铜斧头
     S:oredict.toolHeadAxeCraponite.name=焦屎石斧头
@@ -53739,7 +53739,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleCobalt.name=钴双刃斧头
     S:oredict.toolHeadAxeDoubleCobalt60.name=钴-60双刃斧头
     S:oredict.toolHeadAxeDoubleCobaltBrass.name=钴黄铜双刃斧头
-    S:oredict.toolHeadAxeDoubleConductiveIron.name=导电铁双刃斧头
+    S:oredict.toolHeadAxeDoubleConductiveIron.name=导体铁双刃斧头
     S:oredict.toolHeadAxeDoubleConstantan.name=康铜双刃斧头
     S:oredict.toolHeadAxeDoubleCopper.name=铜双刃斧头
     S:oredict.toolHeadAxeDoubleCraponite.name=焦屎石双刃斧头
@@ -54150,7 +54150,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawCobalt.name=钴圆锯片
     S:oredict.toolHeadBuzzSawCobalt60.name=钴-60圆锯片
     S:oredict.toolHeadBuzzSawCobaltBrass.name=钴黄铜圆锯片
-    S:oredict.toolHeadBuzzSawConductiveIron.name=导电铁圆锯片
+    S:oredict.toolHeadBuzzSawConductiveIron.name=导体铁圆锯片
     S:oredict.toolHeadBuzzSawConstantan.name=康铜圆锯片
     S:oredict.toolHeadBuzzSawCopper.name=铜圆锯片
     S:oredict.toolHeadBuzzSawCraponite.name=Craponite圆锯片
@@ -54373,7 +54373,7 @@ languagefile {
     S:oredict.toolHeadChainsawCobalt.name=钴电锯头
     S:oredict.toolHeadChainsawCobalt60.name=钴-60电锯头
     S:oredict.toolHeadChainsawCobaltBrass.name=钴黄铜电锯头
-    S:oredict.toolHeadChainsawConductiveIron.name=导电铁电锯头
+    S:oredict.toolHeadChainsawConductiveIron.name=导体铁电锯头
     S:oredict.toolHeadChainsawConstantan.name=康铜电锯头
     S:oredict.toolHeadChainsawCopper.name=铜电锯头
     S:oredict.toolHeadChainsawCraponite.name=Craponite电锯头
@@ -54596,7 +54596,7 @@ languagefile {
     S:oredict.toolHeadChiselCobalt.name=钴凿子头
     S:oredict.toolHeadChiselCobalt60.name=钴-60凿子头
     S:oredict.toolHeadChiselCobaltBrass.name=钴黄铜凿子头
-    S:oredict.toolHeadChiselConductiveIron.name=导电铁凿子头
+    S:oredict.toolHeadChiselConductiveIron.name=导体铁凿子头
     S:oredict.toolHeadChiselConstantan.name=康铜凿子头
     S:oredict.toolHeadChiselCopper.name=铜凿子头
     S:oredict.toolHeadChiselCraponite.name=焦屎石凿子头
@@ -54819,7 +54819,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeCobalt.name=钴建筑镐头
     S:oredict.toolHeadConstructionPickaxeCobalt60.name=钴-60建筑镐头
     S:oredict.toolHeadConstructionPickaxeCobaltBrass.name=钴黄铜建筑镐头
-    S:oredict.toolHeadConstructionPickaxeConductiveIron.name=导电铁建筑镐头
+    S:oredict.toolHeadConstructionPickaxeConductiveIron.name=导体铁建筑镐头
     S:oredict.toolHeadConstructionPickaxeConstantan.name=康铜建筑镐头
     S:oredict.toolHeadConstructionPickaxeCopper.name=铜建筑镐头
     S:oredict.toolHeadConstructionPickaxeCraponite.name=Craponite建筑镐头
@@ -55046,7 +55046,7 @@ languagefile {
     S:oredict.toolHeadDrillCobalt.name=钴钻头
     S:oredict.toolHeadDrillCobalt60.name=钴-60钻头
     S:oredict.toolHeadDrillCobaltBrass.name=钴黄铜钻头
-    S:oredict.toolHeadDrillConductiveIron.name=导电铁钻头
+    S:oredict.toolHeadDrillConductiveIron.name=导体铁钻头
     S:oredict.toolHeadDrillConstantan.name=康铜钻头
     S:oredict.toolHeadDrillCopper.name=铜钻头
     S:oredict.toolHeadDrillCraponite.name=焦屎石钻头
@@ -55269,7 +55269,7 @@ languagefile {
     S:oredict.toolHeadFileCobalt.name=钴锉刀头
     S:oredict.toolHeadFileCobalt60.name=钴-60锉刀头
     S:oredict.toolHeadFileCobaltBrass.name=钴黄铜锉刀头
-    S:oredict.toolHeadFileConductiveIron.name=导电铁锉刀头
+    S:oredict.toolHeadFileConductiveIron.name=导体铁锉刀头
     S:oredict.toolHeadFileConstantan.name=康铜锉刀头
     S:oredict.toolHeadFileCopper.name=铜锉刀头
     S:oredict.toolHeadFileCraponite.name=Craponite锉刀头
@@ -55492,7 +55492,7 @@ languagefile {
     S:oredict.toolHeadHammerCobalt.name=钴锤头
     S:oredict.toolHeadHammerCobalt60.name=钴-60锤头
     S:oredict.toolHeadHammerCobaltBrass.name=钴黄铜锤头
-    S:oredict.toolHeadHammerConductiveIron.name=导电铁锤头
+    S:oredict.toolHeadHammerConductiveIron.name=导体铁锤头
     S:oredict.toolHeadHammerConstantan.name=康铜锤头
     S:oredict.toolHeadHammerCraponite.name=焦屎石锤头
     S:oredict.toolHeadHammerCupronickel.name=白铜锤头
@@ -55744,7 +55744,7 @@ languagefile {
     S:oredict.toolHeadHoeCobalt60.name=钴-60锄头
     S:oredict.toolHeadHoeCobaltBrass.name=钴黄铜锄头
     S:oredict.toolHeadHoeConcrete.name=混凝土锄头
-    S:oredict.toolHeadHoeConductiveIron.name=导电铁锄头
+    S:oredict.toolHeadHoeConductiveIron.name=导体铁锄头
     S:oredict.toolHeadHoeConstantan.name=康铜锄头
     S:oredict.toolHeadHoeCopper.name=铜锄头
     S:oredict.toolHeadHoeCraponite.name=焦屎石锄头
@@ -56001,7 +56001,7 @@ languagefile {
     S:oredict.toolHeadPickaxeCobalt60.name=钴-60镐头
     S:oredict.toolHeadPickaxeCobaltBrass.name=钴黄铜镐头
     S:oredict.toolHeadPickaxeConcrete.name=混凝土镐头
-    S:oredict.toolHeadPickaxeConductiveIron.name=导电铁镐头
+    S:oredict.toolHeadPickaxeConductiveIron.name=导体铁镐头
     S:oredict.toolHeadPickaxeConstantan.name=康铜镐头
     S:oredict.toolHeadPickaxeCopper.name=铜镐头
     S:oredict.toolHeadPickaxeCraponite.name=焦屎石镐头
@@ -56307,7 +56307,7 @@ languagefile {
     S:oredict.toolHeadPlowCobalt60.name=钴-60犁头
     S:oredict.toolHeadPlowCobaltBrass.name=钴黄铜犁头
     S:oredict.toolHeadPlowConcrete.name=混凝土犁头
-    S:oredict.toolHeadPlowConductiveIron.name=导电铁犁头
+    S:oredict.toolHeadPlowConductiveIron.name=导体铁犁头
     S:oredict.toolHeadPlowConstantan.name=康铜犁头
     S:oredict.toolHeadPlowCopper.name=铜犁头
     S:oredict.toolHeadPlowCraponite.name=焦屎石犁头
@@ -56564,7 +56564,7 @@ languagefile {
     S:oredict.toolHeadRawArrowCobalt60.name=粗糙的钴-60箭头
     S:oredict.toolHeadRawArrowCobaltBrass.name=粗糙的钴黄铜箭头
     S:oredict.toolHeadRawArrowConcrete.name=粗糙的混凝土箭头
-    S:oredict.toolHeadRawArrowConductiveIron.name=粗糙的导电铁箭头
+    S:oredict.toolHeadRawArrowConductiveIron.name=粗糙的导体铁箭头
     S:oredict.toolHeadRawArrowConstantan.name=粗糙的康铜箭头
     S:oredict.toolHeadRawArrowCopper.name=粗糙的铜箭头
     S:oredict.toolHeadRawArrowCraponite.name=粗糙的焦屎石箭头
@@ -56821,7 +56821,7 @@ languagefile {
     S:oredict.toolHeadRawAxeCobalt60.name=粗糙的钴-60斧头
     S:oredict.toolHeadRawAxeCobaltBrass.name=粗糙的钴黄铜斧头
     S:oredict.toolHeadRawAxeConcrete.name=粗糙的混凝土斧头
-    S:oredict.toolHeadRawAxeConductiveIron.name=粗糙的导电铁斧头
+    S:oredict.toolHeadRawAxeConductiveIron.name=粗糙的导体铁斧头
     S:oredict.toolHeadRawAxeConstantan.name=粗糙的康铜斧头
     S:oredict.toolHeadRawAxeCopper.name=粗糙的铜斧头
     S:oredict.toolHeadRawAxeCraponite.name=粗糙的焦屎石斧头
@@ -56890,7 +56890,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleCobalt.name=粗糙的钴双刃斧头
     S:oredict.toolHeadRawAxeDoubleCobalt60.name=粗糙的钴-60双刃斧头
     S:oredict.toolHeadRawAxeDoubleCobaltBrass.name=粗糙的钴黄铜双刃斧头
-    S:oredict.toolHeadRawAxeDoubleConductiveIron.name=粗糙的导电铁双刃斧头
+    S:oredict.toolHeadRawAxeDoubleConductiveIron.name=粗糙的导体铁双刃斧头
     S:oredict.toolHeadRawAxeDoubleConstantan.name=粗糙的康铜双刃斧头
     S:oredict.toolHeadRawAxeDoubleCopper.name=粗糙的铜双刃斧头
     S:oredict.toolHeadRawAxeDoubleCraponite.name=粗糙的焦屎石双刃斧头
@@ -57301,7 +57301,7 @@ languagefile {
     S:oredict.toolHeadRawChiselCobalt.name=粗糙的钴凿子头
     S:oredict.toolHeadRawChiselCobalt60.name=粗糙的钴-60凿子头
     S:oredict.toolHeadRawChiselCobaltBrass.name=粗糙的钴黄铜凿子头
-    S:oredict.toolHeadRawChiselConductiveIron.name=粗糙的导电铁凿子头
+    S:oredict.toolHeadRawChiselConductiveIron.name=粗糙的导体铁凿子头
     S:oredict.toolHeadRawChiselConstantan.name=粗糙的康铜凿子头
     S:oredict.toolHeadRawChiselCopper.name=粗糙的铜凿子头
     S:oredict.toolHeadRawChiselCraponite.name=粗糙的焦屎石凿子头
@@ -57528,7 +57528,7 @@ languagefile {
     S:oredict.toolHeadRawHoeCobalt60.name=粗糙的钴-60锄头
     S:oredict.toolHeadRawHoeCobaltBrass.name=粗糙的钴黄铜锄头
     S:oredict.toolHeadRawHoeConcrete.name=粗糙的混凝土锄头
-    S:oredict.toolHeadRawHoeConductiveIron.name=粗糙的导电铁锄头
+    S:oredict.toolHeadRawHoeConductiveIron.name=粗糙的导体铁锄头
     S:oredict.toolHeadRawHoeConstantan.name=粗糙的康铜锄头
     S:oredict.toolHeadRawHoeCopper.name=粗糙的铜锄头
     S:oredict.toolHeadRawHoeCraponite.name=粗糙的焦屎石锄头
@@ -57785,7 +57785,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeCobalt60.name=粗糙的钴-60镐头
     S:oredict.toolHeadRawPickaxeCobaltBrass.name=粗糙的钴黄铜镐头
     S:oredict.toolHeadRawPickaxeConcrete.name=粗糙的混凝土镐头
-    S:oredict.toolHeadRawPickaxeConductiveIron.name=粗糙的导电铁镐头
+    S:oredict.toolHeadRawPickaxeConductiveIron.name=粗糙的导体铁镐头
     S:oredict.toolHeadRawPickaxeConstantan.name=粗糙的康铜镐头
     S:oredict.toolHeadRawPickaxeCopper.name=粗糙的铜镐头
     S:oredict.toolHeadRawPickaxeCraponite.name=粗糙的焦屎石镐头
@@ -58042,7 +58042,7 @@ languagefile {
     S:oredict.toolHeadRawPlowCobalt60.name=粗糙的钴-60犁头
     S:oredict.toolHeadRawPlowCobaltBrass.name=粗糙的钴黄铜犁头
     S:oredict.toolHeadRawPlowConcrete.name=粗糙的混凝土犁头
-    S:oredict.toolHeadRawPlowConductiveIron.name=粗糙的导电铁犁头
+    S:oredict.toolHeadRawPlowConductiveIron.name=粗糙的导体铁犁头
     S:oredict.toolHeadRawPlowConstantan.name=粗糙的康铜犁头
     S:oredict.toolHeadRawPlowCopper.name=粗糙的铜犁头
     S:oredict.toolHeadRawPlowCraponite.name=粗糙的焦屎石犁头
@@ -58295,7 +58295,7 @@ languagefile {
     S:oredict.toolHeadRawSawCobalt.name=粗糙的钴锯片
     S:oredict.toolHeadRawSawCobalt60.name=粗糙的钴-60锯片
     S:oredict.toolHeadRawSawCobaltBrass.name=粗糙的钴黄铜锯片
-    S:oredict.toolHeadRawSawConductiveIron.name=粗糙的导电铁圆锯片
+    S:oredict.toolHeadRawSawConductiveIron.name=粗糙的导体铁圆锯片
     S:oredict.toolHeadRawSawConstantan.name=粗糙的康铜锯片
     S:oredict.toolHeadRawSawCopper.name=粗糙的铜锯片
     S:oredict.toolHeadRawSawCraponite.name=粗糙的Craponite锯片
@@ -58522,7 +58522,7 @@ languagefile {
     S:oredict.toolHeadRawSenseCobalt60.name=粗糙的钴-60镰刀片
     S:oredict.toolHeadRawSenseCobaltBrass.name=粗糙的钴黄铜镰刀片
     S:oredict.toolHeadRawSenseConcrete.name=粗糙的混凝土镰刀片
-    S:oredict.toolHeadRawSenseConductiveIron.name=粗糙的导电铁镰刀片
+    S:oredict.toolHeadRawSenseConductiveIron.name=粗糙的导体铁镰刀片
     S:oredict.toolHeadRawSenseConstantan.name=粗糙的康铜镰刀片
     S:oredict.toolHeadRawSenseCopper.name=粗糙的铜镰刀片
     S:oredict.toolHeadRawSenseCraponite.name=粗糙的焦屎石镰刀片
@@ -58779,7 +58779,7 @@ languagefile {
     S:oredict.toolHeadRawShovelCobalt60.name=粗糙的钴-60锹头
     S:oredict.toolHeadRawShovelCobaltBrass.name=粗糙的钴黄铜锹头
     S:oredict.toolHeadRawShovelConcrete.name=粗糙的混凝土锹头
-    S:oredict.toolHeadRawShovelConductiveIron.name=粗糙的导电铁锹头
+    S:oredict.toolHeadRawShovelConductiveIron.name=粗糙的导体铁锹头
     S:oredict.toolHeadRawShovelConstantan.name=粗糙的康铜锹头
     S:oredict.toolHeadRawShovelCopper.name=粗糙的铜锹头
     S:oredict.toolHeadRawShovelCraponite.name=粗糙的焦屎石锹头
@@ -59036,7 +59036,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeCobalt60.name=粗糙的钴-60铲头
     S:oredict.toolHeadRawSpadeCobaltBrass.name=粗糙的钴黄铜铲头
     S:oredict.toolHeadRawSpadeConcrete.name=粗糙的混凝土铲头
-    S:oredict.toolHeadRawSpadeConductiveIron.name=粗糙的导电铁铲头
+    S:oredict.toolHeadRawSpadeConductiveIron.name=粗糙的导体铁铲头
     S:oredict.toolHeadRawSpadeConstantan.name=粗糙的康铜铲头
     S:oredict.toolHeadRawSpadeCopper.name=粗糙的铜铲头
     S:oredict.toolHeadRawSpadeCraponite.name=粗糙的焦屎石铲头
@@ -59293,7 +59293,7 @@ languagefile {
     S:oredict.toolHeadRawSwordCobalt60.name=粗糙的钴-60剑身
     S:oredict.toolHeadRawSwordCobaltBrass.name=粗糙的钴黄铜剑身
     S:oredict.toolHeadRawSwordConcrete.name=粗糙的混凝土剑身
-    S:oredict.toolHeadRawSwordConductiveIron.name=粗糙的导电铁剑身
+    S:oredict.toolHeadRawSwordConductiveIron.name=粗糙的导体铁剑身
     S:oredict.toolHeadRawSwordConstantan.name=粗糙的康铜剑身
     S:oredict.toolHeadRawSwordCopper.name=粗糙的铜剑身
     S:oredict.toolHeadRawSwordCraponite.name=粗糙的焦屎石剑身
@@ -59546,7 +59546,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeCobalt.name=粗糙的钴万用铲头
     S:oredict.toolHeadRawUniversalSpadeCobalt60.name=粗糙的钴-60万用铲头
     S:oredict.toolHeadRawUniversalSpadeCobaltBrass.name=粗糙的钴黄铜万用铲头
-    S:oredict.toolHeadRawUniversalSpadeConductiveIron.name=粗糙的导电铁万用铲头
+    S:oredict.toolHeadRawUniversalSpadeConductiveIron.name=粗糙的导体铁万用铲头
     S:oredict.toolHeadRawUniversalSpadeConstantan.name=粗糙的康铜万用铲头
     S:oredict.toolHeadRawUniversalSpadeCopper.name=粗糙的铜万用铲头
     S:oredict.toolHeadRawUniversalSpadeCraponite.name=粗糙的Craponite万用铲头
@@ -59769,7 +59769,7 @@ languagefile {
     S:oredict.toolHeadSawCobalt.name=钴锯片
     S:oredict.toolHeadSawCobalt60.name=钴-60锯片
     S:oredict.toolHeadSawCobaltBrass.name=钴黄铜锯片
-    S:oredict.toolHeadSawConductiveIron.name=导电铁锯片
+    S:oredict.toolHeadSawConductiveIron.name=导体铁锯片
     S:oredict.toolHeadSawConstantan.name=康铜锯片
     S:oredict.toolHeadSawCopper.name=铜锯片
     S:oredict.toolHeadSawCraponite.name=Craponite锯片
@@ -59992,7 +59992,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverCobalt.name=钴螺丝刀头
     S:oredict.toolHeadScrewdriverCobalt60.name=钴-60螺丝刀头
     S:oredict.toolHeadScrewdriverCobaltBrass.name=钴黄铜螺丝刀头
-    S:oredict.toolHeadScrewdriverConductiveIron.name=导电铁螺丝刀头
+    S:oredict.toolHeadScrewdriverConductiveIron.name=导体铁螺丝刀头
     S:oredict.toolHeadScrewdriverConstantan.name=康铜螺丝刀头
     S:oredict.toolHeadScrewdriverCopper.name=铜螺丝刀头
     S:oredict.toolHeadScrewdriverCraponite.name=Craponite螺丝刀头
@@ -60223,7 +60223,7 @@ languagefile {
     S:oredict.toolHeadSenseCobalt60.name=钴-60镰刀片
     S:oredict.toolHeadSenseCobaltBrass.name=钴黄铜镰刀片
     S:oredict.toolHeadSenseConcrete.name=混凝土镰刀片
-    S:oredict.toolHeadSenseConductiveIron.name=导电铁镰刀片
+    S:oredict.toolHeadSenseConductiveIron.name=导体铁镰刀片
     S:oredict.toolHeadSenseConstantan.name=康铜镰刀片
     S:oredict.toolHeadSenseCopper.name=铜镰刀片
     S:oredict.toolHeadSenseCraponite.name=焦屎石镰刀片
@@ -60480,7 +60480,7 @@ languagefile {
     S:oredict.toolHeadShovelCobalt60.name=钴-60锹头
     S:oredict.toolHeadShovelCobaltBrass.name=钴黄铜锹头
     S:oredict.toolHeadShovelConcrete.name=混凝土锹头
-    S:oredict.toolHeadShovelConductiveIron.name=导电铁锹头
+    S:oredict.toolHeadShovelConductiveIron.name=导体铁锹头
     S:oredict.toolHeadShovelConstantan.name=康铜锹头
     S:oredict.toolHeadShovelCopper.name=铜锹头
     S:oredict.toolHeadShovelCraponite.name=焦屎石锹头
@@ -60737,7 +60737,7 @@ languagefile {
     S:oredict.toolHeadSpadeCobalt60.name=钴-60铲头
     S:oredict.toolHeadSpadeCobaltBrass.name=钴黄铜铲头
     S:oredict.toolHeadSpadeConcrete.name=混凝土铲头
-    S:oredict.toolHeadSpadeConductiveIron.name=导电铁铲头
+    S:oredict.toolHeadSpadeConductiveIron.name=导体铁铲头
     S:oredict.toolHeadSpadeConstantan.name=康铜铲头
     S:oredict.toolHeadSpadeCopper.name=铜铲头
     S:oredict.toolHeadSpadeCraponite.name=焦屎石铲头
@@ -60994,7 +60994,7 @@ languagefile {
     S:oredict.toolHeadSwordCobalt60.name=钴-60剑身
     S:oredict.toolHeadSwordCobaltBrass.name=钴黄铜剑身
     S:oredict.toolHeadSwordConcrete.name=混凝土剑身
-    S:oredict.toolHeadSwordConductiveIron.name=导电铁剑身
+    S:oredict.toolHeadSwordConductiveIron.name=导体铁剑身
     S:oredict.toolHeadSwordConstantan.name=康铜剑身
     S:oredict.toolHeadSwordCopper.name=铜剑身
     S:oredict.toolHeadSwordCraponite.name=焦屎石剑身
@@ -61247,7 +61247,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeCobalt.name=钴万用铲头
     S:oredict.toolHeadUniversalSpadeCobalt60.name=钴-60万用铲头
     S:oredict.toolHeadUniversalSpadeCobaltBrass.name=钴黄铜万用铲头
-    S:oredict.toolHeadUniversalSpadeConductiveIron.name=导电铁万用铲头
+    S:oredict.toolHeadUniversalSpadeConductiveIron.name=导体铁万用铲头
     S:oredict.toolHeadUniversalSpadeConstantan.name=康铜万用铲头
     S:oredict.toolHeadUniversalSpadeCopper.name=铜万用铲头
     S:oredict.toolHeadUniversalSpadeCraponite.name=Craponite万用铲头
@@ -61470,7 +61470,7 @@ languagefile {
     S:oredict.toolHeadWrenchCobalt.name=钴扳手头
     S:oredict.toolHeadWrenchCobalt60.name=钴-60扳手头
     S:oredict.toolHeadWrenchCobaltBrass.name=钴黄铜扳手头
-    S:oredict.toolHeadWrenchConductiveIron.name=导电铁扳手头
+    S:oredict.toolHeadWrenchConductiveIron.name=导体铁扳手头
     S:oredict.toolHeadWrenchConstantan.name=康铜扳手头
     S:oredict.toolHeadWrenchCopper.name=铜扳手头
     S:oredict.toolHeadWrenchCraponite.name=Craponite扳手头
@@ -61678,7 +61678,7 @@ languagefile {
     S:oredict.wireFineCobalt.name=优良钴线缆
     S:oredict.wireFineCobalt60.name=优良钴-60线缆
     S:oredict.wireFineCobaltBrass.name=优良钴黄铜线缆
-    S:oredict.wireFineConductiveIron.name=优良导电铁线缆
+    S:oredict.wireFineConductiveIron.name=优良导体铁线缆
     S:oredict.wireFineConstantan.name=优良康铜线缆
     S:oredict.wireFineCopper.name=优良铜线缆
     S:oredict.wireFineCupronickel.name=优良白铜线缆
@@ -61697,7 +61697,7 @@ languagefile {
     S:oredict.wireFineElectrotineAlloy.name=优良蓝石合金线缆
     S:oredict.wireFineElectrum.name=优良琥珀金线缆
     S:oredict.wireFineElectrumFlux.name=优良熔融琥珀金线缆
-    S:oredict.wireFineElvenElementium.name=优良源质钢线缆
+    S:oredict.wireFineElvenElementium.name=优良精灵原质线缆
     S:oredict.wireFineEmpty.name=优良空线缆
     S:oredict.wireFineEnderium.name=优良末影线缆
     S:oredict.wireFineEnderiumBase.name=优良末影锭粗胚线缆
@@ -61850,3 +61850,5 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
+
+
