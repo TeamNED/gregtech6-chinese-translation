@@ -2383,7 +2383,7 @@ languagefile {
     S:gt.drink.binnie.juicecranberry=Made of real Cranes!
     S:gt.drink.binnie.juiceelderberry=Made of elderly Berries!
     S:gt.drink.binnie.juicegrapefruit=Not suitable for Diets!
-    S:gt.drink.binnie.juicelemon=Maybe adding Sugar will make it less sour
+    S:gt.drink.binnie.juicelemon=也许加点糖可以让它不那么酸
     S:gt.drink.binnie.juicelime=
     S:gt.drink.binnie.juiceolive=
     S:gt.drink.binnie.juiceorange=一种非常令人厌烦的果汁
@@ -2420,7 +2420,7 @@ languagefile {
     S:gt.drink.binnie.mashcorn=
     S:gt.drink.binnie.mashgrain=
     S:gt.drink.binnie.mashrye=
-    S:gt.drink.binnie.mashwheat=Is this liquefied Bread or what?
+    S:gt.drink.binnie.mashwheat=液体面包?!什么奇葩玩意儿?!
     S:gt.drink.binnie.rumdark=Set the Sails, we are going to Torrentuga!
     S:gt.drink.binnie.rumwhite=A buddle o' rum
     S:gt.drink.binnie.spiritgin=
@@ -2461,13 +2461,13 @@ languagefile {
     S:gt.drink.coconutcream=
     S:gt.drink.coconutmilk=
     S:gt.drink.coconutsmoothie=
-    S:gt.drink.cranberryjuice=Made of real Cranes!
+    S:gt.drink.cranberryjuice=取自真正的鹤!(文字笑话:cranberry蔓越莓, Cranes鹤
     S:gt.drink.cranberrysmoothie=
     S:gt.drink.currantjuice=Runs electric Currant
     S:gt.drink.currantsmoothie=
-    S:gt.drink.darkbeer=Dark Beer, for the real Men
+    S:gt.drink.darkbeer=真男人，就喝黑啤
     S:gt.drink.elderberrysmoothie=
-    S:gt.drink.error=Do not drink!
+    S:gt.drink.error=别喝!
     S:gt.drink.figjuice=
     S:gt.drink.figsmoothie=
     S:gt.drink.fishoil=
@@ -2497,7 +2497,7 @@ languagefile {
     S:gt.drink.icetea=Ice 'T'
     S:gt.drink.juice=来自一个水果
     S:gt.drink.ketchup=This Tooltip doesn't make Sans
-    S:gt.drink.kiwijuice=用小Kiwi鸟榨出来的汁液！
+    S:gt.drink.kiwijuice=用小Kiwi鸟(鹬鸵)榨出来的汁液！(误
     S:gt.drink.kiwismoothie=
     S:gt.drink.lemonsmoothie=
     S:gt.drink.limesmoothie=
@@ -2505,7 +2505,7 @@ languagefile {
     S:gt.drink.linoil=
     S:gt.drink.mangojuice=
     S:gt.drink.mangosmoothie=
-    S:gt.drink.maplesap=May or may not be Canadian
+    S:gt.drink.maplesap=可能...是个加拿大人吧
     S:gt.drink.maplesyrup=Etho paused to look at a vintage Beef, and then unpaused
     S:gt.drink.mayo=喝起来和纸板差不多
     S:gt.drink.medicine.heal=回复至多20心
@@ -2532,7 +2532,7 @@ languagefile {
     S:gt.drink.plumsmoothie=
     S:gt.drink.pomegranatejuice=
     S:gt.drink.pomegranatesmoothie=
-    S:gt.drink.potatojuice=Ever seen Potato juice in stores? No? That has a reason.
+    S:gt.drink.potatojuice=是不是没在商店里见过土豆果汁? 那是有道理的.
     S:gt.drink.potion.alcopops=不要让你的孩子喝这种垃圾！
     S:gt.drink.potion.ambrosia=仙馔密酒
     S:gt.drink.potion.applejuice=用从最好的橡树农场的苹果榨的
@@ -2679,7 +2679,7 @@ languagefile {
     S:gt.drink.potion.wheatyjuice=这是液体面包还是啥子?
     S:gt.drink.potion.wine=普通
     S:gt.drink.pumpkinjuice=万圣夜完美饮料
-    S:gt.drink.purpledrink=How about Lemonade? Or some Ice Tea? I got Purple Drink!
+    S:gt.drink.purpledrink=柠檬汁怎么样. 或者冰红茶? 我有紫色妹汁!
     S:gt.drink.purplegrapesmoothie=
     S:gt.drink.rainbowsap=是基情之力，还是膜法? 只是魔法。
     S:gt.drink.raspberryjuice=以多台微型计算机集合而成!
@@ -2701,8 +2701,8 @@ languagefile {
     S:gt.drink.strawberryjuice=那莓汁的草去哪了?
     S:gt.drink.strawberrysmoothie=
     S:gt.drink.sunfloweroil=
-    S:gt.drink.sweettea=How about a Tea Party? In Boston?
-    S:gt.drink.tea=Keep calm and carry on
+    S:gt.drink.sweettea=我们举办一个茶饮Party怎么样? 在波士顿?
+    S:gt.drink.tea=保持冷静，继续前进 (经典英国二战海报)
     S:gt.drink.tomatojuice=用于制作番茄酱
     S:gt.drink.vinegar=
     S:gt.drink.water=这只是普通的一氧化二氢啊……
