@@ -2497,7 +2497,7 @@ languagefile {
     S:gt.drink.icetea=Ice 'T'
     S:gt.drink.juice=来自一个水果
     S:gt.drink.ketchup=This Tooltip doesn't make Sans
-    S:gt.drink.kiwijuice=用小Kiwi鸟(鹬鸵)榨出来的汁液！(误
+    S:gt.drink.kiwijuice=用小几维鸟榨出来的汁液！(误
     S:gt.drink.kiwismoothie=
     S:gt.drink.lemonsmoothie=
     S:gt.drink.limesmoothie=
@@ -2532,7 +2532,7 @@ languagefile {
     S:gt.drink.plumsmoothie=
     S:gt.drink.pomegranatejuice=
     S:gt.drink.pomegranatesmoothie=
-    S:gt.drink.potatojuice=是不是没在商店里见过土豆果汁? 那是有道理的.
+    S:gt.drink.potatojuice=是不是没在商店里见过土豆果汁? 这一定有一个天大的阴谋!
     S:gt.drink.potion.alcopops=不要让你的孩子喝这种垃圾！
     S:gt.drink.potion.ambrosia=仙馔密酒
     S:gt.drink.potion.applejuice=用从最好的橡树农场的苹果榨的
@@ -2554,7 +2554,7 @@ languagefile {
     S:gt.drink.potion.darkcafeaulait=让你嗨一晚上
     S:gt.drink.potion.darkchocolatemilk=有点苦，加点糖
     S:gt.drink.potion.darkcoffee=咖啡，标准黑咖啡，什么也没有加
-    S:gt.drink.potion.diablosauce=Diablo always comes back!
+    S:gt.drink.potion.diablosauce=恶魔归来!
     S:gt.drink.potion.diablosauce.strong=[遗失号码]
     S:gt.drink.potion.diabolosauce=魔鬼制作的酱汁
     S:gt.drink.potion.dragonblood=什么，你把龙血喝了，不应该变成什么牛逼的生物嘛？
@@ -2567,8 +2567,8 @@ languagefile {
     S:gt.drink.potion.fireresistance.splash=防火 (2:15)
     S:gt.drink.potion.glenmckenner=Don't hand to easily surprised people, they will shatter it.
     S:gt.drink.potion.goldenapplejuice=一瓶液态的金苹果
-    S:gt.drink.potion.goldencider=More Resistance, less Regeneration
-    S:gt.drink.potion.grapejuice=This has a cleaning effect on your internals.
+    S:gt.drink.potion.goldencider=更多抗性, 更少回复
+    S:gt.drink.potion.grapejuice=涤荡你的内心
     S:gt.drink.potion.health=瞬间恢复 I
     S:gt.drink.potion.health.lingering=§d瞬间恢复 I
     S:gt.drink.potion.health.splash=瞬间恢复 I
@@ -2592,10 +2592,10 @@ languagefile {
     S:gt.drink.potion.jump.strong.lingering=§a跳跃提升 II (0:22)
     S:gt.drink.potion.jump.strong.splash=§a跳跃提升 II (1:07)
     S:gt.drink.potion.laitaucafe=你希望在你的咖啡里加一些糖嘛?
-    S:gt.drink.potion.lemonade=冰凉爽快的柠檬汁 (这不是雪碧！)
+    S:gt.drink.potion.lemonade=维他柠檬茶,爽过吸大麻,维他入我心,胜过海洛因!
     S:gt.drink.potion.lemonjuice=加一些糖可以让它不那么酸
-    S:gt.drink.potion.leninade=Let the Communism flow through you!
-    S:gt.drink.potion.limoncello=An alcoholic Drink which tastes like Lemons
+    S:gt.drink.potion.leninade=共产主义好!
+    S:gt.drink.potion.limoncello=酒精柠檬
     S:gt.drink.potion.mineralwater=让你保持健康的最佳饮料
     S:gt.drink.potion.mundane=How mundane of you
     S:gt.drink.potion.nightvision=夜视 (3:00)
@@ -2615,7 +2615,7 @@ languagefile {
     S:gt.drink.potion.poison.strong=中毒 II (0:22)
     S:gt.drink.potion.poison.strong.lingering=§c中毒 II (0:05)
     S:gt.drink.potion.poison.strong.splash=中毒 II (0:16)
-    S:gt.drink.potion.potatojuice=在商店里见过土豆汁? 没有? 那一定有一个原因.
+    S:gt.drink.potion.potatojuice=在商店里见过土豆汁? 没有? 那一定是一个天大的阴谋!
     S:gt.drink.potion.purpledrink=柠檬汁怎么样. 或者冰红茶? 我有紫色妹汁!
     S:gt.drink.potion.reedwater=我认为它比发酵后的好喝
     S:gt.drink.potion.regen=再生 I (0:45)
@@ -2701,7 +2701,7 @@ languagefile {
     S:gt.drink.strawberryjuice=那莓汁的草去哪了?
     S:gt.drink.strawberrysmoothie=
     S:gt.drink.sunfloweroil=
-    S:gt.drink.sweettea=我们举办一个茶饮Party怎么样? 在波士顿?
+    S:gt.drink.sweettea=我们举办一个茶会怎么样? 在波士顿?
     S:gt.drink.tea=保持冷静，继续前进 (经典英国二战海报)
     S:gt.drink.tomatojuice=用于制作番茄酱
     S:gt.drink.vinegar=
