@@ -1,4 +1,61 @@
 更新日志 *(1.7.10)*
+## V6.06.00:
+[IMPORTANT]
+Fluid Pipes have their Tank Capacity halved, but they still transfer the same amount of Fluid per Tick.
+DRAINS NEED TO BE ON PIPES TWICE THE SIZE TO WORK PROPERLY!!! (unless they are in an Ocean, Swamp or River)
+This will also affect filling of vanilla Cauldrons and Advanced Worktables, as you need a Pipe twice the size for that now.
+Don't worry, excess Fluid in Pipes on loading the World wont be voided, and it likely won't overflow anything either.
+Yet still I verily recommend to turn off all Steam related things before the Update.
+I will let my Test Bear run all his pipe connected Boiler Setups before and after the Update, to make sure nothing blows up on your end either.
+[COMPAT] Fallen Meteors Mod
+I checked it for OreDict related Information. I added 5 new Materials due to that.
+The Magnetization Enchant of it is now applied to all Magnetic Materials of GT6 if it is installed.
+[COMPAT] Railcrafts Implosion Enchant will now automatically be applied to a lot of Gems. Implosion = Extra Creeper Damage.
+[FIXED] A Bug that crashed GT6 with Ars Magica.
+[FIXED] Large Ore Veins were generating all over the Y Axis, having a different Y Coordinate for generating in each Chunk.
+[CHANGED] Electrolyzer and Centrifuge decomposing Recipes will now use 14 instead of 16 as a Basis for GU/t.
+[CHANGED]
+Some Alloys can now have multiple Attack Enchants attached to them.
+Black, Red and Blue Steel now have their Sharpness slightly nerfed due to that, since they got quite a few additional effects now.
+Electrum now has Smite, Disjunction and Werebane for example.
+Damascus Steel is still Sharpness 5.
+[ADDED] Universal Spade can now place Torches
+[ADDED] A more convenient Recipe for Dispensers, using Droppers as step inbetween, without having the unstackability of Bows make things a bitch.
+[ADDED] Slime Fluid and Slime Bottles that can be used like Glue Bottles. It gives you a chance of Jump Boost.
+[ADDED] Plastic Storage Boxes, that are like Mass Storages, but for 128, 256, 512 or 1024 Items at a time and way cheaper than even the Item Barrels, once you get Plastic.
+[ADDED]
+Optional Worldgenerated Asphalt Streets along the X and Z Axis.
+I know from own experience that Roads are a Server Infrastructure thing nobody really wants to work on, so Worldgen it is. Maybe I can later add Structures to this too.
+The Roads have Signs every 512 Meters, close to the Region File Borders. The Signs tell what Coordinates the 4 Region Files have at the Chunk Border between the Sign and the U-Turn Section.
+Once the Middle Crossing at 0, 0 is Generated, it will automatically set the Server Spawn Point to itself once (It won't try to do that anymore after the Crossing generated). The Compass may point to the old Spawn until you reload the Client.
+They are disabled by Default because they could be seen as not only unfitting for the more Medieval/Fantasy Playstyles, but also because they are easily exploitable Sources of Asphalt and Concrete.
+Note, that GT6 Dungeons do not spawn close to these Roads (at least 256 Meters away), so they won't help you find them at all!
+GT6 Trees, Logs, Sticks, Rocks, Bushes, Glowtusses, Bumblehives, Black Sand and Clay Pits are at least 64 Meters away from the center of a Street Section to not interfere with the Road itself.
+I know that Tunnels sometimes have Light Update Issues, but unlike with the GT6 Dungeons where I fixed them already, those Issues are pretty much unfixable for Roads, as I would have to cause an Infinite Worldgen Loop to make those Lights work! THAT's how Terrible Minecraft is!
+
+
+//=== Version Number Jump because of Fluid Pipes changing a bit ===//
+
+
+## V6.05.52:
+[COMPAT] Open Modular Turrets Recipes got changed for:
+Hard Walls. They now adopt a System similar to my Concrete and Reinforced Concrete by requiring Metal Bolts and the Hand Drill. The Tier 1 and 4 Variants can be crafted directly out of GT6 Concrete and Reinforced Concrete.
+Fences. They require Fine Iron Wires for the Fence itself and Metal Bolts for the barbs of the Barbed Wire Part. I changed up the Tiering to be more GT6 than Vanilla, so the Fence Barb Colors may not match the Recipe anymore.
+Turret Bases. They require a lot of Electric Components to be crafted now. The Wooden one just requires a Tier-0 Motor, and doesn't need a Battery, Circuit or Sensors, so your Handcrank Potato Cannons are still very earlygame.
+Ammo has cheaper  and more realistic Recipes now.
+[FIXED] Eggs now despawn after a Minute regardless of my Item Despawn Time Config. This is because Chickens would be spamming Item Entities on the ground, so see this as if the Eggs are rotting.
+[ADDED] Blast Resistance Tooltips now say whether they can stand a Ghast Fireball, Creeper or TNT Blast or not.
+[ADDED]
+Wall Spikes that can be pushed by Pistons. (and you can't walk horizontally into ones placed on the floor, so you won't be damaged by accident all the time)
+There is also an Omnidirectional Spike, but it only deals half the Damage in return.
+And a Gravity Variant of the Omnidirectional Spike exists too!
+Walking ontop of any Spikes will slow you down a lot, meaning escaping is a bit harder, also balancing ontop of Sideways Wall Spikes is slower due to that too.
+Steel Spikes don't work on Skeletons, Slimes or Iron Golems.
+Titanium Spikes work on all Mobs and deal twice the Damage of Steel Spikes.
+Tungstensteel Spikes work on all Mobs and deal three times the Damage of Steel Spikes.
+Gold, Silver, Copper and Lead Spikes deal four times the Damage of Steel Spikes when they are against a Mob that is weak to their Material, otherwise it's only minimal or no Damage in case of Iron Golems, Slimes or Skeletons (unless they are weak to it).
+Adamantium Spikes deal ten times the Damage of Steel Spikes against every Mob touching them.
+Placing Hoppers below the Spikes will work fine, as they have a Slab alike Box Shape for Collision.
 
 ## V6.05.51:
 [兼容] 星系(Galacticraft)机器在接入HV以上的GT6能量后也会爆炸。
