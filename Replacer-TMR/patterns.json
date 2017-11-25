@@ -38,7 +38,7 @@
     {
         "name": "oredict.plantGtBerry.+",
         "value": "(?P<mw>.+) Berry",
-        "repl": "{0}梅",
+        "repl": "{0}莓",
         "priority": 1000
     },
     {
@@ -50,7 +50,7 @@
     {
         "name": "oredict.plantGtFiber.+",
         "value": "Raw (?P<mw>.+) Fiber",
-        "repl": "粗糙的{0}纤维",
+        "repl": "生{0}丝",
         "priority": 1000
     },
     {
@@ -366,9 +366,27 @@
         "priority": 1000
     },
     {
+        "name": "oredict.oreMud.+",
+        "value": "Mud (?P<mw>.+)",
+        "repl": "淤泥{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreSpace.+",
+        "value": "Space (?P<mw>.+)",
+        "repl": "太空{0}矿石",
+        "priority": 1000
+    },
+    {
         "name": "oredict.oreBedrock.+",
         "value": "Bedrock (?P<mw>.+)",
         "repl": "基岩{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreMoon.+",
+        "value": "Moon (?P<mw>.+)",
+        "repl": "月球{0}矿石",
         "priority": 1000
     },
     {
@@ -376,6 +394,12 @@
         "value": "Block of (?P<mw>.+)",
         "repl": "{0}块",
         "priority": 2000
+    },
+    {
+        "name": "oredict.oreMars.+",
+        "value": "Mars (?P<mw>.+)",
+        "repl": "火星{0}矿石",
+        "priority": 1000
     },
     {
         "name": "oredict.blockDust.+",

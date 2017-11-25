@@ -1592,7 +1592,7 @@ languagefile {
     S:gt.block.concrete.slab.5.7.name=淡灰色混凝土半砖
     S:gt.block.concrete.slab.5.8.name=灰色混凝土半砖
     S:gt.block.concrete.slab.5.9.name=粉色混凝土半砖
-    S:gt.block.diggable.0.name=泥块
+    S:gt.block.diggable.0.name=淤泥
     S:gt.block.diggable.1.name=褐色粘土
     S:gt.block.diggable.32767.name=所有此方块的子方块
     S:gt.block.glass.0.name=黑色玻璃
@@ -4112,7 +4112,7 @@ languagefile {
     S:gt.material.Moonstone=月球石头
     S:gt.material.Morganite=铯绿柱石
     S:gt.material.Moscovium=镆
-    S:gt.material.Mud=泥巴
+    S:gt.material.Mud=淤泥
     S:gt.material.MutatedIron=突变铁
     S:gt.material.Mutation=突变
     S:gt.material.NULL=无
