@@ -102,6 +102,7 @@ languagefile {
     S:fluid.argon=氩
     S:fluid.astatine=Astatine
     S:fluid.bananasmoothie=香蕉冰沙
+    S:fluid.bawls=BAWLS
     S:fluid.beer=啤酒
     S:fluid.beetjuice=甜菜汁
     S:fluid.binnie.ciderApple=苹果酒
@@ -460,6 +461,7 @@ languagefile {
     S:fluid.molten.iron=熔融铁
     S:fluid.molten.ironwood=熔融铁木
     S:fluid.molten.knightmetal=熔融骑士金属
+    S:fluid.molten.kreknorite=Molten Kreknorite
     S:fluid.molten.latex=天然橡胶
     S:fluid.molten.lead=熔融铅
     S:fluid.molten.lithiumchloride=熔融氯化锂
@@ -474,6 +476,7 @@ languagefile {
     S:fluid.molten.marsstone=熔融火星岩石
     S:fluid.molten.meteoriciron=熔融陨铁
     S:fluid.molten.meteoricsteel=熔融陨钢
+    S:fluid.molten.meteorite=Molten Meteorite
     S:fluid.molten.midasium=熔融溶火金
     S:fluid.molten.mithril=熔融秘银
     S:fluid.molten.moonstone=熔融月球石头
@@ -720,6 +723,7 @@ languagefile {
     S:fluid.seawater.name=海水
     S:fluid.seedoil=种子油
     S:fluid.short.mead=蜂蜜酒
+    S:fluid.slime=Slime
     S:fluid.sluicejuice=废水
     S:fluid.soda=苏打水
     S:fluid.soulsandoil=灵魂沙油
@@ -2422,6 +2426,7 @@ languagefile {
     S:gt.drink.applevinegar=
     S:gt.drink.apricotsmoothie=
     S:gt.drink.bananasmoothie=
+    S:gt.drink.bawls=Here, take a cold and refreshing sip of my BAWLS
     S:gt.drink.beer=Not to be confused with Beerus, the God of Destruction
     S:gt.drink.beetjuice=满足(Beet)我了
     S:gt.drink.binnie.beerale=
@@ -2761,6 +2766,7 @@ languagefile {
     S:gt.drink.seawater=咸的
     S:gt.drink.seedoil=
     S:gt.drink.short.mead=维京人的最爱
+    S:gt.drink.slime=Green Slime Juice
     S:gt.drink.sluicejuice=
     S:gt.drink.soda=普通的二氧化碳水溶物
     S:gt.drink.soymilk=乳糖不耐受症患者的牛奶替代品
@@ -3885,6 +3891,8 @@ languagefile {
     S:gt.material.Forcillium=力场
     S:gt.material.Francium=钫
     S:gt.material.FreshWater=淡水
+    S:gt.material.Frezarite=Frezarite
+    S:gt.material.FrozenIron=Frozen Iron
     S:gt.material.FryingOilHot=热食用油
     S:gt.material.Fuel=柴油
     S:gt.material.FuelOil=柴油
@@ -4025,6 +4033,7 @@ languagefile {
     S:gt.material.KnightMetal=骑士金属
     S:gt.material.Knightmetal=骑士金属
     S:gt.material.Komatiite=科马提岩
+    S:gt.material.Kreknorite=Kreknorite
     S:gt.material.Krypton=氪
     S:gt.material.Kyanite=蓝晶石
     S:gt.material.Lantanium=镧
@@ -4281,6 +4290,7 @@ languagefile {
     S:gt.material.Red=红
     S:gt.material.RedAlloy=红色合金
     S:gt.material.RedMatter=红物质
+    S:gt.material.RedMeteor=Red Meteor
     S:gt.material.RedRock=红岩
     S:gt.material.RedSteel=红钢
     S:gt.material.RedVitriol=硫酸钴
@@ -5411,8 +5421,12 @@ languagefile {
     S:gt.multiitem.bottles.2100.tooltip=又大又多汁的大香蕉
     S:gt.multiitem.bottles.2105.name=香蕉冰沙
     S:gt.multiitem.bottles.2105.tooltip=
+    S:gt.multiitem.bottles.2200.name=Green Slime Bottle
+    S:gt.multiitem.bottles.2200.tooltip=Can be used as Glue too
     S:gt.multiitem.bottles.2201.name=粉色粘液瓶
     S:gt.multiitem.bottles.2201.tooltip=也可以用来做胶水
+    S:gt.multiitem.bottles.2210.name=BAWLS
+    S:gt.multiitem.bottles.2210.tooltip=
     S:gt.multiitem.bottles.2300.name=西瓜汁
     S:gt.multiitem.bottles.2300.tooltip=
     S:gt.multiitem.bottles.2305.name=西瓜冰沙
@@ -8930,6 +8944,7 @@ languagefile {
     S:gt.multitileentity.20415.name=物质制造器 (T5)
     S:gt.multitileentity.2042.name=Mechanical 泰拉钢保险箱
     S:gt.multitileentity.20423.name=分子扫描仪 (T3)
+    S:gt.multitileentity.2043.name=Mechanical Meteorite Safe
     S:gt.multitileentity.20431.name=物质复制器 (T1)
     S:gt.multitileentity.20432.name=物质复制器 (T2)
     S:gt.multitileentity.20433.name=物质复制器 (T3)
@@ -9530,6 +9545,7 @@ languagefile {
     S:gt.multitileentity.3040.name=带锁的魔力钢保险箱
     S:gt.multitileentity.3041.name=带锁的源质钢保险箱
     S:gt.multitileentity.3042.name=带锁的泰拉钢保险箱
+    S:gt.multitileentity.3043.name=Key Locked Meteorite Safe
     S:gt.multitileentity.31.name=钍瑞铌箱子
     S:gt.multitileentity.31000.name=温度传感器
     S:gt.multitileentity.31001.name=锅炉压力传感器(单位:Gibbl)
@@ -9836,8 +9852,10 @@ languagefile {
     S:gt.multitileentity.4040.name=四联抽屉 (魔力钢)
     S:gt.multitileentity.4041.name=四联抽屉 (源质钢)
     S:gt.multitileentity.4042.name=四联抽屉 (泰拉钢)
+    S:gt.multitileentity.4043.name=Compartment Drawer (Meteorite)
     S:gt.multitileentity.41.name=源质钢箱子
     S:gt.multitileentity.42.name=泰拉钢箱子
+    S:gt.multitileentity.43.name=Meteorite Chest
     S:gt.multitileentity.5.name=锡合金箱子
     S:gt.multitileentity.500.name=铅强化木箱
     S:gt.multitileentity.5000.name=高级工作台 (铅)
@@ -9887,6 +9905,7 @@ languagefile {
     S:gt.multitileentity.5040.name=高级工作台 (魔力钢)
     S:gt.multitileentity.5041.name=高级工作台 (源质钢)
     S:gt.multitileentity.5042.name=高级工作台 (泰拉钢)
+    S:gt.multitileentity.5043.name=Advanced Crafting Table (Meteorite)
     S:gt.multitileentity.505.name=锡合金强化木箱
     S:gt.multitileentity.506.name=因瓦合金强化木箱
     S:gt.multitileentity.507.name=琥珀金强化木箱
@@ -9925,6 +9944,7 @@ languagefile {
     S:gt.multitileentity.540.name=魔力钢强化木箱
     S:gt.multitileentity.541.name=源质钢强化木箱
     S:gt.multitileentity.542.name=泰拉钢强化木箱
+    S:gt.multitileentity.543.name=Meteorite reinforced wooden Chest
     S:gt.multitileentity.5500.name=充能工作台 (铅)
     S:gt.multitileentity.5501.name=充能工作台 (铝)
     S:gt.multitileentity.5502.name=充能工作台 (金)
@@ -9968,6 +9988,7 @@ languagefile {
     S:gt.multitileentity.5540.name=充能Crafting Table (魔力钢)
     S:gt.multitileentity.5541.name=充能Crafting Table (源质钢)
     S:gt.multitileentity.5542.name=充能Crafting Table (泰拉钢)
+    S:gt.multitileentity.5543.name=Charging Crafting Table (Meteorite)
     S:gt.multitileentity.6.name=因瓦合金箱子
     S:gt.multitileentity.6000.name=量子存储器 (铅)
     S:gt.multitileentity.6001.name=量子存储器 (铝)
@@ -10012,6 +10033,11 @@ languagefile {
     S:gt.multitileentity.6040.name=量子存储器 (魔力钢)
     S:gt.multitileentity.6041.name=量子存储器 (源质钢)
     S:gt.multitileentity.6042.name=量子存储器 (泰拉钢)
+    S:gt.multitileentity.6043.name=Mass Storage (Meteorite)
+    S:gt.multitileentity.6993.name=Plastic Storage Box (128)
+    S:gt.multitileentity.6994.name=Plastic Storage Box (256)
+    S:gt.multitileentity.6995.name=Plastic Storage Box (512)
+    S:gt.multitileentity.6996.name=Plastic Storage Box (1024)
     S:gt.multitileentity.6997.name=铁木储物桶
     S:gt.multitileentity.6998.name=简易木储物桶
     S:gt.multitileentity.6999.name=物品储罐
@@ -10159,6 +10185,7 @@ languagefile {
     S:gt.multitileentity.7140.name=书架 (魔力钢)
     S:gt.multitileentity.7141.name=书架 (源质钢)
     S:gt.multitileentity.7142.name=书架 (泰拉钢)
+    S:gt.multitileentity.7143.name=Bookshelf (Meteorite)
     S:gt.multitileentity.7300.name=衣橱 (Lead)
     S:gt.multitileentity.7301.name=衣橱 (Aluminium)
     S:gt.multitileentity.7302.name=衣橱 (Gold)
@@ -10202,6 +10229,7 @@ languagefile {
     S:gt.multitileentity.7340.name=衣橱 (Manasteel)
     S:gt.multitileentity.7341.name=衣橱 (Elven Elementium)
     S:gt.multitileentity.7342.name=衣橱 (Terrasteel)
+    S:gt.multitileentity.7343.name=Locker (Meteorite)
     S:gt.multitileentity.7500.name=充能衣橱 (Lead)
     S:gt.multitileentity.7501.name=充能衣橱 (Aluminium)
     S:gt.multitileentity.7502.name=充能衣橱 (Gold)
@@ -10245,6 +10273,7 @@ languagefile {
     S:gt.multitileentity.7540.name=充能衣橱 (Manasteel)
     S:gt.multitileentity.7541.name=充能衣橱 (Elven Elementium)
     S:gt.multitileentity.7542.name=充能衣橱 (Terrasteel)
+    S:gt.multitileentity.7543.name=Charging Locker (Meteorite)
     S:gt.multitileentity.8.name=黄铜箱子
     S:gt.multitileentity.8000.name=铅漏斗
     S:gt.multitileentity.8001.name=铝漏斗
@@ -10289,6 +10318,7 @@ languagefile {
     S:gt.multitileentity.8040.name=魔力钢漏斗
     S:gt.multitileentity.8041.name=源质钢漏斗
     S:gt.multitileentity.8042.name=泰拉钢漏斗
+    S:gt.multitileentity.8043.name=Meteorite Hopper
     S:gt.multitileentity.8200.name=铅队列漏斗(FIFO)
     S:gt.multitileentity.8201.name=铝队列漏斗(FIFO)
     S:gt.multitileentity.8202.name=金队列漏斗(FIFO)
@@ -10332,6 +10362,7 @@ languagefile {
     S:gt.multitileentity.8240.name=魔力钢队列漏斗(FIFO)
     S:gt.multitileentity.8241.name=源质钢队列漏斗(FIFO)
     S:gt.multitileentity.8242.name=泰拉钢队列漏斗(FIFO)
+    S:gt.multitileentity.8243.name=Meteorite Queue Hopper
     S:gt.multitileentity.9.name=青铜箱子
     S:gt.multitileentity.data.switch.tooltip.1=Use adjacent to Machines that require USB Sticks to select Recipes
     S:gt.multitileentity.data.switch.tooltip.2=Add USB线缆 to Slot where USB Stick in the Recipe would go
@@ -11554,6 +11585,8 @@ languagefile {
     S:oredict.arrowGtPlasticFlint.name=轻质燧石箭
     S:oredict.arrowGtPlasticFoolsRuby.name=轻质红宝石箭
     S:oredict.arrowGtPlasticForce.name=轻质力量箭
+    S:oredict.arrowGtPlasticFrezarite.name=Light Frezarite Arrow
+    S:oredict.arrowGtPlasticFrozenIron.name=Light Frozen Iron Arrow
     S:oredict.arrowGtPlasticGabbro.name=轻质辉长岩箭
     S:oredict.arrowGtPlasticGildedIron.name=轻质镀金铁箭
     S:oredict.arrowGtPlasticGlass.name=轻质玻璃箭
@@ -11595,6 +11628,7 @@ languagefile {
     S:oredict.arrowGtPlasticKanthal.name=轻质铁铬铝合金箭
     S:oredict.arrowGtPlasticKnightmetal.name=轻质骑士金属箭
     S:oredict.arrowGtPlasticKomatiite.name=轻质科马提岩箭
+    S:oredict.arrowGtPlasticKreknorite.name=Light Kreknorite Arrow
     S:oredict.arrowGtPlasticLead.name=轻质铅箭
     S:oredict.arrowGtPlasticLimestone.name=轻质石灰石箭
     S:oredict.arrowGtPlasticMagnalium.name=轻质镁铝合金箭
@@ -11607,6 +11641,7 @@ languagefile {
     S:oredict.arrowGtPlasticMaxixe.name=Light Maxixe Arrow
     S:oredict.arrowGtPlasticMeteoricIron.name=轻质陨铁箭
     S:oredict.arrowGtPlasticMeteoricSteel.name=轻质陨钢箭
+    S:oredict.arrowGtPlasticMeteorite.name=Light Meteorite Arrow
     S:oredict.arrowGtPlasticMidasium.name=轻质溶火金箭
     S:oredict.arrowGtPlasticMigmatite.name=轻质混合岩箭
     S:oredict.arrowGtPlasticMithril.name=轻质秘银箭
@@ -11651,6 +11686,7 @@ languagefile {
     S:oredict.arrowGtPlasticQuartzBlack.name=轻质黑色石英岩箭
     S:oredict.arrowGtPlasticQuartzite.name=轻质石英岩箭
     S:oredict.arrowGtPlasticRedMatter.name=轻质红物质箭
+    S:oredict.arrowGtPlasticRedMeteor.name=Light Red Meteor Arrow
     S:oredict.arrowGtPlasticRedSteel.name=轻质红钢箭
     S:oredict.arrowGtPlasticRedrock.name=轻质红岩箭
     S:oredict.arrowGtPlasticRedstonia.name=Light Redstonia Arrow
@@ -11812,6 +11848,8 @@ languagefile {
     S:oredict.arrowGtWoodFlint.name=燧石箭
     S:oredict.arrowGtWoodFoolsRuby.name=红宝石箭
     S:oredict.arrowGtWoodForce.name=力量箭
+    S:oredict.arrowGtWoodFrezarite.name=Frezarite Arrow
+    S:oredict.arrowGtWoodFrozenIron.name=Frozen Iron Arrow
     S:oredict.arrowGtWoodGabbro.name=辉长岩箭
     S:oredict.arrowGtWoodGildedIron.name=镀金铁箭
     S:oredict.arrowGtWoodGlass.name=玻璃箭
@@ -11853,6 +11891,7 @@ languagefile {
     S:oredict.arrowGtWoodKanthal.name=铁铬铝合金箭
     S:oredict.arrowGtWoodKnightmetal.name=骑士金属箭
     S:oredict.arrowGtWoodKomatiite.name=科马提岩箭
+    S:oredict.arrowGtWoodKreknorite.name=Kreknorite Arrow
     S:oredict.arrowGtWoodLead.name=铅箭
     S:oredict.arrowGtWoodLimestone.name=石灰石箭
     S:oredict.arrowGtWoodMagnalium.name=镁铝合金箭
@@ -11865,6 +11904,7 @@ languagefile {
     S:oredict.arrowGtWoodMaxixe.name=Maxixe Arrow
     S:oredict.arrowGtWoodMeteoricIron.name=陨铁箭
     S:oredict.arrowGtWoodMeteoricSteel.name=陨钢箭
+    S:oredict.arrowGtWoodMeteorite.name=Meteorite Arrow
     S:oredict.arrowGtWoodMidasium.name=溶火金箭
     S:oredict.arrowGtWoodMigmatite.name=混合岩箭
     S:oredict.arrowGtWoodMithril.name=秘银箭
@@ -11909,6 +11949,7 @@ languagefile {
     S:oredict.arrowGtWoodQuartzBlack.name=黑色石英岩箭
     S:oredict.arrowGtWoodQuartzite.name=石英岩箭
     S:oredict.arrowGtWoodRedMatter.name=红物质箭
+    S:oredict.arrowGtWoodRedMeteor.name=Red Meteor Arrow
     S:oredict.arrowGtWoodRedSteel.name=红钢箭
     S:oredict.arrowGtWoodRedrock.name=红岩箭
     S:oredict.arrowGtWoodRedstonia.name=Redstonia Arrow
@@ -12335,6 +12376,8 @@ languagefile {
     S:oredict.blockDustForcicium.name=力场粉块
     S:oredict.blockDustForcillium.name=力场粉块
     S:oredict.blockDustFrancium.name=钫粉块
+    S:oredict.blockDustFrezarite.name=Block of Frezarite Dust
+    S:oredict.blockDustFrozenIron.name=Block of Frozen Iron Dust
     S:oredict.blockDustFullersEarth.name=漂白土粉块
     S:oredict.blockDustGabbro.name=辉长岩粉块
     S:oredict.blockDustGadolinium.name=钆粉块
@@ -12421,6 +12464,7 @@ languagefile {
     S:oredict.blockDustKesterite.name=锌黄锡矿粉块
     S:oredict.blockDustKnightmetal.name=骑士金属粉块
     S:oredict.blockDustKomatiite.name=科马提岩粉块
+    S:oredict.blockDustKreknorite.name=Block of Kreknorite Dust
     S:oredict.blockDustKyanite.name=蓝晶石粉块
     S:oredict.blockDustLantanium.name=镧粉块
     S:oredict.blockDustLapis.name=青金石粉块
@@ -12469,6 +12513,7 @@ languagefile {
     S:oredict.blockDustMercury.name=汞粉块
     S:oredict.blockDustMeteoricIron.name=陨铁粉块
     S:oredict.blockDustMeteoricSteel.name=陨钢粉块
+    S:oredict.blockDustMeteorite.name=Block of Meteorite Dust
     S:oredict.blockDustMethaneIce.name=甲烷冰粉块
     S:oredict.blockDustMeutoite.name=龙之魂石粉块
     S:oredict.blockDustMica.name=云母粉块
@@ -12586,6 +12631,7 @@ languagefile {
     S:oredict.blockDustRed.name=红色染料粉块
     S:oredict.blockDustRedAlloy.name=红色合金粉块
     S:oredict.blockDustRedMatter.name=红物质粉块
+    S:oredict.blockDustRedMeteor.name=Block of Red Meteor Dust
     S:oredict.blockDustRedSteel.name=红钢粉块
     S:oredict.blockDustRedrock.name=红岩粉块
     S:oredict.blockDustRedstone.name=红石粉块
@@ -12816,6 +12862,7 @@ languagefile {
     S:oredict.blockGemForce.name=力量块
     S:oredict.blockGemForcicium.name=力场块
     S:oredict.blockGemForcillium.name=力场块
+    S:oredict.blockGemFrezarite.name=Block of Frezarite Crystal
     S:oredict.blockGemGlass.name=玻璃水晶块
     S:oredict.blockGemGoshenite.name=透绿柱石块
     S:oredict.blockGemGreenSapphire.name=绿色蓝宝石块
@@ -12859,6 +12906,7 @@ languagefile {
     S:oredict.blockGemQuartzBlack.name=黑色石英岩块
     S:oredict.blockGemQuartzite.name=石英岩块
     S:oredict.blockGemRedMatter.name=红物质块
+    S:oredict.blockGemRedMeteor.name=Block of Red Meteor
     S:oredict.blockGemRedstonia.name=Block of Redstonia Crystal
     S:oredict.blockGemRockSalt.name=岩盐块
     S:oredict.blockGemRuby.name=红宝石块
@@ -13098,6 +13146,7 @@ languagefile {
     S:oredict.blockIngotFluorite.name=氟石锭块
     S:oredict.blockIngotForce.name=力量锭块
     S:oredict.blockIngotFrancium.name=钫锭块
+    S:oredict.blockIngotFrozenIron.name=Block of Frozen Iron Ingot
     S:oredict.blockIngotGadolinium.name=钆锭块
     S:oredict.blockIngotGallium.name=镓锭块
     S:oredict.blockIngotGermanium.name=锗锭块
@@ -13126,6 +13175,7 @@ languagefile {
     S:oredict.blockIngotKalendrite.name=幽冥魂石锭块
     S:oredict.blockIngotKanthal.name=铁铬铝合金锭块
     S:oredict.blockIngotKnightmetal.name=骑士金属锭块
+    S:oredict.blockIngotKreknorite.name=Block of Kreknorite Ingot
     S:oredict.blockIngotLantanium.name=镧锭块
     S:oredict.blockIngotLawrencium.name=铹锭块
     S:oredict.blockIngotLead.name=铅锭块
@@ -13151,6 +13201,7 @@ languagefile {
     S:oredict.blockIngotMercury.name=汞锭块
     S:oredict.blockIngotMeteoricIron.name=陨铁锭块
     S:oredict.blockIngotMeteoricSteel.name=陨钢锭块
+    S:oredict.blockIngotMeteorite.name=Block of Meteorite Ingot
     S:oredict.blockIngotMeutoite.name=龙之魂石锭块
     S:oredict.blockIngotMidasium.name=溶火金锭块
     S:oredict.blockIngotMithril.name=秘银锭块
@@ -13506,6 +13557,7 @@ languagefile {
     S:oredict.blockPlateFlerovium298.name=鈇-298板块
     S:oredict.blockPlateForce.name=力量板块
     S:oredict.blockPlateFrancium.name=钫板块
+    S:oredict.blockPlateFrozenIron.name=Block of Frozen Iron Plate
     S:oredict.blockPlateGabbro.name=辉长岩板块
     S:oredict.blockPlateGadolinium.name=钆板块
     S:oredict.blockPlateGallium.name=镓板块
@@ -13547,6 +13599,7 @@ languagefile {
     S:oredict.blockPlateGemForce.name=力量板块
     S:oredict.blockPlateGemForcicium.name=力场板块
     S:oredict.blockPlateGemForcillium.name=力场板块
+    S:oredict.blockPlateGemFrezarite.name=Block of Crystalline Frezarite Plate
     S:oredict.blockPlateGemGlass.name=玻璃板块
     S:oredict.blockPlateGemGoshenite.name=Block of Crystalline Goshenite Plate
     S:oredict.blockPlateGemGreenSapphire.name=结晶绿色蓝宝石板块
@@ -13586,6 +13639,7 @@ languagefile {
     S:oredict.blockPlateGemQuartzBlack.name=黑色石英岩板块
     S:oredict.blockPlateGemQuartzite.name=石英岩板块
     S:oredict.blockPlateGemRedMatter.name=Block of Crystalline Red Matter Plate
+    S:oredict.blockPlateGemRedMeteor.name=Block of Crystalline Red Meteor Plate
     S:oredict.blockPlateGemRedstoneAlloy.name=结晶红硅(红石合金)板块
     S:oredict.blockPlateGemRedstonia.name=Block of Crystalline Redstonia Pane
     S:oredict.blockPlateGemRuby.name=结晶红宝石板块
@@ -13649,6 +13703,7 @@ languagefile {
     S:oredict.blockPlateKanthal.name=铁铬铝合金板块
     S:oredict.blockPlateKnightmetal.name=骑士金属板块
     S:oredict.blockPlateKomatiite.name=科马提岩板块
+    S:oredict.blockPlateKreknorite.name=Block of Kreknorite Plate
     S:oredict.blockPlateLantanium.name=镧板块
     S:oredict.blockPlateLawrencium.name=铹板块
     S:oredict.blockPlateLead.name=铅板块
@@ -13672,6 +13727,7 @@ languagefile {
     S:oredict.blockPlateMercury.name=汞板块
     S:oredict.blockPlateMeteoricIron.name=陨铁板块
     S:oredict.blockPlateMeteoricSteel.name=陨钢板块
+    S:oredict.blockPlateMeteorite.name=Block of Meteorite Plate
     S:oredict.blockPlateMeutoite.name=龙之魂石板块
     S:oredict.blockPlateMidasium.name=溶火金板块
     S:oredict.blockPlateMigmatite.name=混合岩板块
@@ -14037,6 +14093,7 @@ languagefile {
     S:oredict.blockSolidFluorite.name=铸造氟石块
     S:oredict.blockSolidForce.name=铸造力量块
     S:oredict.blockSolidFrancium.name=铸造钫块
+    S:oredict.blockSolidFrozenIron.name=Block of solid Frozen Iron
     S:oredict.blockSolidGadolinium.name=铸造钆块
     S:oredict.blockSolidGallium.name=铸造镓块
     S:oredict.blockSolidGermanium.name=铸造锗块
@@ -14065,6 +14122,7 @@ languagefile {
     S:oredict.blockSolidKalendrite.name=铸造幽冥魂石块
     S:oredict.blockSolidKanthal.name=铸造铁铬铝合金块
     S:oredict.blockSolidKnightmetal.name=铸造骑士金属块
+    S:oredict.blockSolidKreknorite.name=Block of solid Kreknorite
     S:oredict.blockSolidLantanium.name=铸造镧块
     S:oredict.blockSolidLawrencium.name=铸造铹块
     S:oredict.blockSolidLead.name=铸造铅块
@@ -14090,6 +14148,7 @@ languagefile {
     S:oredict.blockSolidMercury.name=铸造汞块
     S:oredict.blockSolidMeteoricIron.name=铸造陨铁块
     S:oredict.blockSolidMeteoricSteel.name=铸造陨钢块
+    S:oredict.blockSolidMeteorite.name=Block of solid Meteorite
     S:oredict.blockSolidMeutoite.name=铸造龙之魂石块
     S:oredict.blockSolidMidasium.name=铸造溶火金块
     S:oredict.blockSolidMithril.name=铸造秘银块
@@ -14481,6 +14540,8 @@ languagefile {
     S:oredict.boltForcicium.name=力场螺栓
     S:oredict.boltForcillium.name=力场螺栓
     S:oredict.boltFrancium.name=钫螺栓
+    S:oredict.boltFrezarite.name=Frezarite Bolt
+    S:oredict.boltFrozenIron.name=Frozen Iron Bolt
     S:oredict.boltGabbro.name=辉长岩螺栓
     S:oredict.boltGadolinium.name=钆螺栓
     S:oredict.boltGallium.name=镓螺栓
@@ -14536,6 +14597,7 @@ languagefile {
     S:oredict.boltKanthal.name=铁铬铝合金螺栓
     S:oredict.boltKnightmetal.name=骑士金属螺栓
     S:oredict.boltKomatiite.name=科马提岩螺栓
+    S:oredict.boltKreknorite.name=Kreknorite Bolt
     S:oredict.boltLantanium.name=镧螺栓
     S:oredict.boltLapis.name=青金石螺栓
     S:oredict.boltLawrencium.name=铹螺栓
@@ -14566,6 +14628,7 @@ languagefile {
     S:oredict.boltMercury.name=汞螺栓
     S:oredict.boltMeteoricIron.name=陨铁螺栓
     S:oredict.boltMeteoricSteel.name=陨钢螺栓
+    S:oredict.boltMeteorite.name=Meteorite Bolt
     S:oredict.boltMeutoite.name=龙之魂石螺栓
     S:oredict.boltMidasium.name=溶火金螺栓
     S:oredict.boltMigmatite.name=混合岩螺栓
@@ -14633,6 +14696,7 @@ languagefile {
     S:oredict.boltRadium.name=镭螺栓
     S:oredict.boltRedAlloy.name=红色合金螺栓
     S:oredict.boltRedMatter.name=红物质螺栓
+    S:oredict.boltRedMeteor.name=Red Meteor Bolt
     S:oredict.boltRedSteel.name=红钢螺栓
     S:oredict.boltRedrock.name=红岩螺栓
     S:oredict.boltRedstoneAlloy.name=红硅(红石合金)螺栓
@@ -14845,6 +14909,7 @@ languagefile {
     S:oredict.casingMachineDenseEnergeticAlloy.name=致密充能合金机械外壳
     S:oredict.casingMachineDenseEximite.name=致密虚空石机械外壳
     S:oredict.casingMachineDenseFierySteel.name=致密炙热钢机械外壳
+    S:oredict.casingMachineDenseFrozenIron.name=Dense Frozen Iron Machine Casing
     S:oredict.casingMachineDenseGermanium.name=Dense 锗 Machine Casing
     S:oredict.casingMachineDenseGildedIron.name=致密镀金铁机械外壳
     S:oredict.casingMachineDenseGold.name=致密金机械外壳
@@ -14865,6 +14930,7 @@ languagefile {
     S:oredict.casingMachineDenseKalendrite.name=致密幽冥魂石机械外壳
     S:oredict.casingMachineDenseKanthal.name=致密铁铬铝合金机械外壳
     S:oredict.casingMachineDenseKnightmetal.name=致密骑士金属机械外壳
+    S:oredict.casingMachineDenseKreknorite.name=Dense Kreknorite Machine Casing
     S:oredict.casingMachineDenseLead.name=致密铅机械外壳
     S:oredict.casingMachineDenseLumium.name=致密流明机械外壳
     S:oredict.casingMachineDenseMagnalium.name=致密镁铝合金机械外壳
@@ -14873,6 +14939,7 @@ languagefile {
     S:oredict.casingMachineDenseManyullyn.name=致密玛玉灵机械外壳
     S:oredict.casingMachineDenseMeteoricIron.name=致密陨铁机械外壳
     S:oredict.casingMachineDenseMeteoricSteel.name=致密陨钢机械外壳
+    S:oredict.casingMachineDenseMeteorite.name=Dense Meteorite Machine Casing
     S:oredict.casingMachineDenseMidasium.name=致密溶火金机械外壳
     S:oredict.casingMachineDenseMithril.name=致密秘银机械外壳
     S:oredict.casingMachineDenseMolybdenum.name=致密钼机械外壳
@@ -15006,6 +15073,7 @@ languagefile {
     S:oredict.casingMachineDoubleEnergeticAlloy.name=加强充能合金机械外壳
     S:oredict.casingMachineDoubleEximite.name=加强虚空石机械外壳
     S:oredict.casingMachineDoubleFierySteel.name=加强炙热钢机械外壳
+    S:oredict.casingMachineDoubleFrozenIron.name=Robust Frozen Iron Machine Casing
     S:oredict.casingMachineDoubleGermanium.name=Robust 锗 Machine Casing
     S:oredict.casingMachineDoubleGildedIron.name=加强镀金铁机械外壳
     S:oredict.casingMachineDoubleGold.name=加强金机械外壳
@@ -15026,6 +15094,7 @@ languagefile {
     S:oredict.casingMachineDoubleKalendrite.name=加强幽冥魂石机械外壳
     S:oredict.casingMachineDoubleKanthal.name=加强铁铬铝合金机械外壳
     S:oredict.casingMachineDoubleKnightmetal.name=加强骑士金属机械外壳
+    S:oredict.casingMachineDoubleKreknorite.name=Robust Kreknorite Machine Casing
     S:oredict.casingMachineDoubleLead.name=加强铅机械外壳
     S:oredict.casingMachineDoubleLumium.name=加强流明机械外壳
     S:oredict.casingMachineDoubleMagnalium.name=加强镁铝合金机械外壳
@@ -15034,6 +15103,7 @@ languagefile {
     S:oredict.casingMachineDoubleManyullyn.name=加强玛玉灵机械外壳
     S:oredict.casingMachineDoubleMeteoricIron.name=加强陨铁机械外壳
     S:oredict.casingMachineDoubleMeteoricSteel.name=加强陨钢机械外壳
+    S:oredict.casingMachineDoubleMeteorite.name=Robust Meteorite Machine Casing
     S:oredict.casingMachineDoubleMidasium.name=加强溶火金机械外壳
     S:oredict.casingMachineDoubleMithril.name=加强秘银机械外壳
     S:oredict.casingMachineDoubleMolybdenum.name=加强钼机械外壳
@@ -15119,6 +15189,7 @@ languagefile {
     S:oredict.casingMachineEnergeticAlloy.name=充能合金机械外壳
     S:oredict.casingMachineEximite.name=虚空石机械外壳
     S:oredict.casingMachineFierySteel.name=炙热钢机械外壳
+    S:oredict.casingMachineFrozenIron.name=Frozen Iron Machine Casing
     S:oredict.casingMachineGermanium.name=锗 Machine Casing
     S:oredict.casingMachineGildedIron.name=镀金铁机械外壳
     S:oredict.casingMachineGold.name=金机械外壳
@@ -15139,6 +15210,7 @@ languagefile {
     S:oredict.casingMachineKalendrite.name=幽冥魂石机械外壳
     S:oredict.casingMachineKanthal.name=铁铬铝合金机械外壳
     S:oredict.casingMachineKnightmetal.name=骑士金属机械外壳
+    S:oredict.casingMachineKreknorite.name=Kreknorite Machine Casing
     S:oredict.casingMachineLead.name=铅机械外壳
     S:oredict.casingMachineLumium.name=流明机械外壳
     S:oredict.casingMachineMagnalium.name=镁铝合金机械外壳
@@ -15147,6 +15219,7 @@ languagefile {
     S:oredict.casingMachineManyullyn.name=玛玉灵机械外壳
     S:oredict.casingMachineMeteoricIron.name=陨铁机械外壳
     S:oredict.casingMachineMeteoricSteel.name=陨钢机械外壳
+    S:oredict.casingMachineMeteorite.name=Meteorite Machine Casing
     S:oredict.casingMachineMidasium.name=溶火金机械外壳
     S:oredict.casingMachineMithril.name=秘银机械外壳
     S:oredict.casingMachineMolybdenum.name=钼机械外壳
@@ -15232,6 +15305,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleEnergeticAlloy.name=高强度充能合金机械外壳
     S:oredict.casingMachineQuadrupleEximite.name=高强度虚空石机械外壳
     S:oredict.casingMachineQuadrupleFierySteel.name=高强度炙热钢机械外壳
+    S:oredict.casingMachineQuadrupleFrozenIron.name=Reinforced Frozen Iron Machine Casing
     S:oredict.casingMachineQuadrupleGermanium.name=强化锗 Machine Casing
     S:oredict.casingMachineQuadrupleGildedIron.name=高强度镀金铁机械外壳
     S:oredict.casingMachineQuadrupleGold.name=高强度金机械外壳
@@ -15252,6 +15326,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleKalendrite.name=高强度幽冥魂石机械外壳
     S:oredict.casingMachineQuadrupleKanthal.name=高强度铁铬铝合金机械外壳
     S:oredict.casingMachineQuadrupleKnightmetal.name=高强度骑士金属机械外壳
+    S:oredict.casingMachineQuadrupleKreknorite.name=Reinforced Kreknorite Machine Casing
     S:oredict.casingMachineQuadrupleLead.name=高强度铅机械外壳
     S:oredict.casingMachineQuadrupleLumium.name=高强度流明机械外壳
     S:oredict.casingMachineQuadrupleMagnalium.name=高强度镁铝合金机械外壳
@@ -15260,6 +15335,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleManyullyn.name=高强度玛玉灵机械外壳
     S:oredict.casingMachineQuadrupleMeteoricIron.name=高强度陨铁机械外壳
     S:oredict.casingMachineQuadrupleMeteoricSteel.name=高强度陨钢机械外壳
+    S:oredict.casingMachineQuadrupleMeteorite.name=Reinforced Meteorite Machine Casing
     S:oredict.casingMachineQuadrupleMidasium.name=高强度溶火金机械外壳
     S:oredict.casingMachineQuadrupleMithril.name=高强度秘银机械外壳
     S:oredict.casingMachineQuadrupleMolybdenum.name=高强度钼机械外壳
@@ -15483,6 +15559,8 @@ languagefile {
     S:oredict.casingSmallFlint.name=燧石外壳
     S:oredict.casingSmallFoolsRuby.name=红宝石外壳
     S:oredict.casingSmallForce.name=力量外壳
+    S:oredict.casingSmallFrezarite.name=Frezarite Item Casing
+    S:oredict.casingSmallFrozenIron.name=Frozen Iron Item Casing
     S:oredict.casingSmallGabbro.name=辉长岩外壳
     S:oredict.casingSmallGermanium.name=锗 Item Casing
     S:oredict.casingSmallGildedIron.name=镀金铁外壳
@@ -15528,6 +15606,7 @@ languagefile {
     S:oredict.casingSmallKanthal.name=铁铬铝合金外壳
     S:oredict.casingSmallKnightmetal.name=骑士金属外壳
     S:oredict.casingSmallKomatiite.name=科马提岩外壳
+    S:oredict.casingSmallKreknorite.name=Kreknorite Item Casing
     S:oredict.casingSmallLead.name=铅外壳
     S:oredict.casingSmallLimestone.name=石灰石外壳
     S:oredict.casingSmallLumium.name=流明外壳
@@ -15542,6 +15621,7 @@ languagefile {
     S:oredict.casingSmallMaxixe.name=Maxixe Item Casing
     S:oredict.casingSmallMeteoricIron.name=陨铁外壳
     S:oredict.casingSmallMeteoricSteel.name=陨钢外壳
+    S:oredict.casingSmallMeteorite.name=Meteorite Item Casing
     S:oredict.casingSmallMidasium.name=溶火金外壳
     S:oredict.casingSmallMigmatite.name=混合岩外壳
     S:oredict.casingSmallMithril.name=秘银外壳
@@ -15586,6 +15666,7 @@ languagefile {
     S:oredict.casingSmallQuartzBlack.name=黑色石英岩外壳
     S:oredict.casingSmallQuartzite.name=石英岩外壳
     S:oredict.casingSmallRedMatter.name=红物质外壳
+    S:oredict.casingSmallRedMeteor.name=Red Meteor Item Casing
     S:oredict.casingSmallRedSteel.name=红钢外壳
     S:oredict.casingSmallRedrock.name=红岩外壳
     S:oredict.casingSmallRedstonia.name=Redstonia Item Casing
@@ -16592,6 +16673,8 @@ languagefile {
     S:oredict.chemtubeForcillium.name=力场试管
     S:oredict.chemtubeFrancium.name=钫试管
     S:oredict.chemtubeFreshWater.name=淡水试管
+    S:oredict.chemtubeFrezarite.name=Glass Tube containing Frezarite
+    S:oredict.chemtubeFrozenIron.name=Glass Tube containing Frozen Iron
     S:oredict.chemtubeFryingOilHot.name=热炸油试管
     S:oredict.chemtubeFuel.name=柴油试管
     S:oredict.chemtubeFullersEarth.name=漂白土试管
@@ -16699,6 +16782,7 @@ languagefile {
     S:oredict.chemtubeKesterite.name=锌黄锡矿试管
     S:oredict.chemtubeKnightmetal.name=骑士金属试管
     S:oredict.chemtubeKomatiite.name=科马提岩试管
+    S:oredict.chemtubeKreknorite.name=Glass Tube containing Kreknorite
     S:oredict.chemtubeKrypton.name=氪试管
     S:oredict.chemtubeKyanite.name=蓝晶石试管
     S:oredict.chemtubeLantanium.name=镧试管
@@ -16756,6 +16840,7 @@ languagefile {
     S:oredict.chemtubeMercury.name=汞试管
     S:oredict.chemtubeMeteoricIron.name=陨铁试管
     S:oredict.chemtubeMeteoricSteel.name=陨钢试管
+    S:oredict.chemtubeMeteorite.name=Glass Tube containing Meteorite
     S:oredict.chemtubeMethane.name=甲烷试管
     S:oredict.chemtubeMethaneIce.name=甲烷冰试管
     S:oredict.chemtubeMeutoite.name=龙之魂石试管
@@ -16894,6 +16979,7 @@ languagefile {
     S:oredict.chemtubeRed.name=红色试管
     S:oredict.chemtubeRedAlloy.name=红色合金试管
     S:oredict.chemtubeRedMatter.name=红物质试管
+    S:oredict.chemtubeRedMeteor.name=Glass Tube containing Red Meteor
     S:oredict.chemtubeRedSteel.name=红钢试管
     S:oredict.chemtubeRedVitriol.name=硫酸钴试管
     S:oredict.chemtubeRedrock.name=红岩试管
@@ -17489,6 +17575,7 @@ languagefile {
     S:oredict.chunkGtFluorite.name=氟石小块
     S:oredict.chunkGtForce.name=力量小块
     S:oredict.chunkGtFrancium.name=钫小块
+    S:oredict.chunkGtFrozenIron.name=Frozen Iron Chunk
     S:oredict.chunkGtGadolinium.name=钆小块
     S:oredict.chunkGtGallium.name=镓小块
     S:oredict.chunkGtGermanium.name=锗小块
@@ -17517,6 +17604,7 @@ languagefile {
     S:oredict.chunkGtKalendrite.name=幽冥魂石小块
     S:oredict.chunkGtKanthal.name=铁铬铝合金小块
     S:oredict.chunkGtKnightmetal.name=骑士金属小块
+    S:oredict.chunkGtKreknorite.name=Kreknorite Chunk
     S:oredict.chunkGtLantanium.name=镧小块
     S:oredict.chunkGtLawrencium.name=铹小块
     S:oredict.chunkGtLead.name=铅小块
@@ -17542,6 +17630,7 @@ languagefile {
     S:oredict.chunkGtMercury.name=汞小块
     S:oredict.chunkGtMeteoricIron.name=陨铁小块
     S:oredict.chunkGtMeteoricSteel.name=陨钢小块
+    S:oredict.chunkGtMeteorite.name=Meteorite Chunk
     S:oredict.chunkGtMeutoite.name=龙之魂石小块
     S:oredict.chunkGtMidasium.name=溶火金小块
     S:oredict.chunkGtMithril.name=秘银小块
@@ -18036,6 +18125,8 @@ languagefile {
     S:oredict.crateGtDustForcicium.name=力场粉板条箱
     S:oredict.crateGtDustForcillium.name=力场粉板条箱
     S:oredict.crateGtDustFrancium.name=钫粉板条箱
+    S:oredict.crateGtDustFrezarite.name=Crate of Frezarite Dust
+    S:oredict.crateGtDustFrozenIron.name=Crate of Frozen Iron Dust
     S:oredict.crateGtDustFullersEarth.name=漂白土板条箱
     S:oredict.crateGtDustGabbro.name=辉长岩粉板条箱
     S:oredict.crateGtDustGadolinium.name=钆粉板条箱
@@ -18121,6 +18212,7 @@ languagefile {
     S:oredict.crateGtDustKesterite.name=锌黄锡矿粉板条箱
     S:oredict.crateGtDustKnightmetal.name=骑士金属粉板条箱
     S:oredict.crateGtDustKomatiite.name=科马提岩粉板条箱
+    S:oredict.crateGtDustKreknorite.name=Crate of Kreknorite Dust
     S:oredict.crateGtDustKyanite.name=蓝晶石粉板条箱
     S:oredict.crateGtDustLantanium.name=镧粉板条箱
     S:oredict.crateGtDustLapis.name=青金石粉板条箱
@@ -18169,6 +18261,7 @@ languagefile {
     S:oredict.crateGtDustMercury.name=汞粉板条箱
     S:oredict.crateGtDustMeteoricIron.name=陨铁粉板条箱
     S:oredict.crateGtDustMeteoricSteel.name=陨钢粉板条箱
+    S:oredict.crateGtDustMeteorite.name=Crate of Meteorite Dust
     S:oredict.crateGtDustMethaneIce.name=甲烷冰粉板条箱
     S:oredict.crateGtDustMeutoite.name=龙之魂石粉板条箱
     S:oredict.crateGtDustMica.name=云母粉板条箱
@@ -18286,6 +18379,7 @@ languagefile {
     S:oredict.crateGtDustRed.name=红色染料板条箱
     S:oredict.crateGtDustRedAlloy.name=红色合金粉板条箱
     S:oredict.crateGtDustRedMatter.name=红物质粉板条箱
+    S:oredict.crateGtDustRedMeteor.name=Crate of Red Meteor Dust
     S:oredict.crateGtDustRedSteel.name=红钢粉板条箱
     S:oredict.crateGtDustRedrock.name=红岩粉板条箱
     S:oredict.crateGtDustRedstone.name=红石粉板条箱
@@ -18516,6 +18610,7 @@ languagefile {
     S:oredict.crateGtGemForce.name=力量板条箱
     S:oredict.crateGtGemForcicium.name=力场板条箱
     S:oredict.crateGtGemForcillium.name=力场板条箱
+    S:oredict.crateGtGemFrezarite.name=Crate of Frezarite Crystal
     S:oredict.crateGtGemGlass.name=玻璃水晶板条箱
     S:oredict.crateGtGemGoshenite.name=透绿柱石板条箱
     S:oredict.crateGtGemGreenSapphire.name=绿色蓝宝石板条箱
@@ -18559,6 +18654,7 @@ languagefile {
     S:oredict.crateGtGemQuartzBlack.name=黑色石英岩板条箱
     S:oredict.crateGtGemQuartzite.name=石英岩板条箱
     S:oredict.crateGtGemRedMatter.name=红物质板条箱
+    S:oredict.crateGtGemRedMeteor.name=Crate of Red Meteor
     S:oredict.crateGtGemRedstonia.name=Crate of Redstonia Crystal
     S:oredict.crateGtGemRockSalt.name=岩盐板条箱
     S:oredict.crateGtGemRuby.name=红宝石板条箱
@@ -18798,6 +18894,7 @@ languagefile {
     S:oredict.crateGtIngotFluorite.name=Crate of Fluorite Ingot
     S:oredict.crateGtIngotForce.name=力量锭板条箱
     S:oredict.crateGtIngotFrancium.name=钫锭板条箱
+    S:oredict.crateGtIngotFrozenIron.name=Crate of Frozen Iron Ingot
     S:oredict.crateGtIngotGadolinium.name=钆锭板条箱
     S:oredict.crateGtIngotGallium.name=镓锭板条箱
     S:oredict.crateGtIngotGermanium.name=锗锭板条箱
@@ -18826,6 +18923,7 @@ languagefile {
     S:oredict.crateGtIngotKalendrite.name=幽冥魂石锭板条箱
     S:oredict.crateGtIngotKanthal.name=铁铬铝合金锭板条箱
     S:oredict.crateGtIngotKnightmetal.name=骑士金属锭板条箱
+    S:oredict.crateGtIngotKreknorite.name=Crate of Kreknorite Ingot
     S:oredict.crateGtIngotLantanium.name=镧锭板条箱
     S:oredict.crateGtIngotLawrencium.name=铹锭板条箱
     S:oredict.crateGtIngotLead.name=铅锭板条箱
@@ -18851,6 +18949,7 @@ languagefile {
     S:oredict.crateGtIngotMercury.name=汞锭板条箱
     S:oredict.crateGtIngotMeteoricIron.name=陨铁锭板条箱
     S:oredict.crateGtIngotMeteoricSteel.name=陨钢锭板条箱
+    S:oredict.crateGtIngotMeteorite.name=Crate of Meteorite Ingot
     S:oredict.crateGtIngotMeutoite.name=龙之魂石锭板条箱
     S:oredict.crateGtIngotMidasium.name=溶火金锭板条箱
     S:oredict.crateGtIngotMithril.name=秘银锭板条箱
@@ -19205,6 +19304,7 @@ languagefile {
     S:oredict.crateGtPlateFlerovium298.name=鈇-298板板条箱
     S:oredict.crateGtPlateForce.name=力量板板条箱
     S:oredict.crateGtPlateFrancium.name=钫板板条箱
+    S:oredict.crateGtPlateFrozenIron.name=Crate of Frozen Iron Plate
     S:oredict.crateGtPlateGabbro.name=辉长岩板板条箱
     S:oredict.crateGtPlateGadolinium.name=钆板板条箱
     S:oredict.crateGtPlateGallium.name=镓板板条箱
@@ -19246,6 +19346,7 @@ languagefile {
     S:oredict.crateGtPlateGemForce.name=力量板板条箱
     S:oredict.crateGtPlateGemForcicium.name=力场板板条箱
     S:oredict.crateGtPlateGemForcillium.name=力场板板条箱
+    S:oredict.crateGtPlateGemFrezarite.name=Crate of Crystalline Frezarite Plate
     S:oredict.crateGtPlateGemGlass.name=玻璃板板条箱
     S:oredict.crateGtPlateGemGoshenite.name=Crate of Crystalline Goshenite Plate
     S:oredict.crateGtPlateGemGreenSapphire.name=绿色蓝宝石板板条箱
@@ -19285,6 +19386,7 @@ languagefile {
     S:oredict.crateGtPlateGemQuartzBlack.name=黑色石英板板条箱
     S:oredict.crateGtPlateGemQuartzite.name=石英岩板板条箱
     S:oredict.crateGtPlateGemRedMatter.name=Crate of Crystalline Red Matter Plate
+    S:oredict.crateGtPlateGemRedMeteor.name=Crate of Crystalline Red Meteor Plate
     S:oredict.crateGtPlateGemRedstoneAlloy.name=红硅(红石合金)板板条箱
     S:oredict.crateGtPlateGemRedstonia.name=Crate of Crystalline Redstonia Pane
     S:oredict.crateGtPlateGemRuby.name=红宝石板板条箱
@@ -19348,6 +19450,7 @@ languagefile {
     S:oredict.crateGtPlateKanthal.name=铁铬铝合金板板条箱
     S:oredict.crateGtPlateKnightmetal.name=骑士金属板板条箱
     S:oredict.crateGtPlateKomatiite.name=科马提岩板板条箱
+    S:oredict.crateGtPlateKreknorite.name=Crate of Kreknorite Plate
     S:oredict.crateGtPlateLantanium.name=镧板板条箱
     S:oredict.crateGtPlateLawrencium.name=铹板板条箱
     S:oredict.crateGtPlateLead.name=铅板板条箱
@@ -19371,6 +19474,7 @@ languagefile {
     S:oredict.crateGtPlateMercury.name=汞板板条箱
     S:oredict.crateGtPlateMeteoricIron.name=陨铁板板条箱
     S:oredict.crateGtPlateMeteoricSteel.name=陨钢板板条箱
+    S:oredict.crateGtPlateMeteorite.name=Crate of Meteorite Plate
     S:oredict.crateGtPlateMeutoite.name=龙之魂石板板条箱
     S:oredict.crateGtPlateMidasium.name=溶火金板板条箱
     S:oredict.crateGtPlateMigmatite.name=混合岩板板条箱
@@ -19976,6 +20080,7 @@ languagefile {
     S:oredict.crushedCentrifugedForcicium.name=离心力场矿石
     S:oredict.crushedCentrifugedForcillium.name=离心力场矿石
     S:oredict.crushedCentrifugedFrancium.name=离心钫矿石
+    S:oredict.crushedCentrifugedFrozenIron.name=Refined Frozen Iron Ore
     S:oredict.crushedCentrifugedFullersEarth.name=离心漂白土
     S:oredict.crushedCentrifugedGadolinium.name=离心钆矿石
     S:oredict.crushedCentrifugedGalena.name=离心方铅矿矿石
@@ -20026,6 +20131,7 @@ languagefile {
     S:oredict.crushedCentrifugedKalendrite.name=离心幽冥魂石矿石
     S:oredict.crushedCentrifugedKaolinite.name=离心高岭石
     S:oredict.crushedCentrifugedKesterite.name=离心锌黄锡矿矿石
+    S:oredict.crushedCentrifugedKreknorite.name=Refined Kreknorite Ore
     S:oredict.crushedCentrifugedKyanite.name=离心蓝晶石矿石
     S:oredict.crushedCentrifugedLantanium.name=离心镧矿石
     S:oredict.crushedCentrifugedLapis.name=离心青金石矿石
@@ -20055,6 +20161,7 @@ languagefile {
     S:oredict.crushedCentrifugedMendelevium.name=离心钔矿石
     S:oredict.crushedCentrifugedMercury.name=离心汞矿石
     S:oredict.crushedCentrifugedMeteoricIron.name=离心陨铁矿石
+    S:oredict.crushedCentrifugedMeteorite.name=Refined Meteorite Ore
     S:oredict.crushedCentrifugedMeutoite.name=离心龙之魂石矿石
     S:oredict.crushedCentrifugedMica.name=离心云母矿石
     S:oredict.crushedCentrifugedMidasium.name=离心溶火金矿石
@@ -20442,6 +20549,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyForcicium.name=小撮离心力场矿石
     S:oredict.crushedCentrifugedTinyForcillium.name=小撮离心力场矿石
     S:oredict.crushedCentrifugedTinyFrancium.name=小撮离心钫矿石
+    S:oredict.crushedCentrifugedTinyFrozenIron.name=Tiny Refined Frozen Iron Ore
     S:oredict.crushedCentrifugedTinyFullersEarth.name=小撮离心漂白土
     S:oredict.crushedCentrifugedTinyGadolinium.name=小撮离心钆矿石
     S:oredict.crushedCentrifugedTinyGalena.name=小撮离心方铅矿矿石
@@ -20492,6 +20600,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyKalendrite.name=小撮离心幽冥魂石矿石
     S:oredict.crushedCentrifugedTinyKaolinite.name=小撮离心高岭石
     S:oredict.crushedCentrifugedTinyKesterite.name=小撮离心锌黄锡矿矿石
+    S:oredict.crushedCentrifugedTinyKreknorite.name=Tiny Refined Kreknorite Ore
     S:oredict.crushedCentrifugedTinyKyanite.name=小撮离心蓝晶石矿石
     S:oredict.crushedCentrifugedTinyLantanium.name=小撮离心镧矿石
     S:oredict.crushedCentrifugedTinyLapis.name=小撮离心青金石矿石
@@ -20521,6 +20630,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyMendelevium.name=小撮离心钔矿石
     S:oredict.crushedCentrifugedTinyMercury.name=小撮离心汞矿石
     S:oredict.crushedCentrifugedTinyMeteoricIron.name=小撮离心陨铁矿石
+    S:oredict.crushedCentrifugedTinyMeteorite.name=Tiny Refined Meteorite Ore
     S:oredict.crushedCentrifugedTinyMeutoite.name=小撮离心龙之魂石矿石
     S:oredict.crushedCentrifugedTinyMica.name=小撮离心云母矿石
     S:oredict.crushedCentrifugedTinyMidasium.name=小撮离心溶火金矿石
@@ -20807,6 +20917,7 @@ languagefile {
     S:oredict.crushedForcicium.name=粉碎力场矿石
     S:oredict.crushedForcillium.name=粉碎力场矿石
     S:oredict.crushedFrancium.name=粉碎钫矿石
+    S:oredict.crushedFrozenIron.name=Crushed Frozen Iron Ore
     S:oredict.crushedFullersEarth.name=粉碎漂白土
     S:oredict.crushedGadolinium.name=粉碎钆矿石
     S:oredict.crushedGalena.name=粉碎方铅矿矿石
@@ -20858,6 +20969,7 @@ languagefile {
     S:oredict.crushedKalendrite.name=粉碎幽冥魂石矿石
     S:oredict.crushedKaolinite.name=粉碎高岭石
     S:oredict.crushedKesterite.name=粉碎锌黄锡矿矿石
+    S:oredict.crushedKreknorite.name=Crushed Kreknorite Ore
     S:oredict.crushedKyanite.name=粉碎蓝晶石矿石
     S:oredict.crushedLantanium.name=粉碎镧矿石
     S:oredict.crushedLapis.name=粉碎青金石矿石
@@ -20887,6 +20999,7 @@ languagefile {
     S:oredict.crushedMendelevium.name=粉碎钔矿石
     S:oredict.crushedMercury.name=粉碎汞矿石
     S:oredict.crushedMeteoricIron.name=粉碎陨铁矿石
+    S:oredict.crushedMeteorite.name=Crushed Meteorite Ore
     S:oredict.crushedMeutoite.name=粉碎龙之魂石矿石
     S:oredict.crushedMica.name=粉碎云母矿石
     S:oredict.crushedMidasium.name=粉碎溶火金矿石
@@ -21209,6 +21322,7 @@ languagefile {
     S:oredict.crushedPurifiedForcicium.name=纯净力场矿石
     S:oredict.crushedPurifiedForcillium.name=纯净力场矿石
     S:oredict.crushedPurifiedFrancium.name=纯净钫矿石
+    S:oredict.crushedPurifiedFrozenIron.name=Purified Frozen Iron Ore
     S:oredict.crushedPurifiedFullersEarth.name=纯净粉碎漂白土
     S:oredict.crushedPurifiedGadolinium.name=纯净钆矿石
     S:oredict.crushedPurifiedGalena.name=纯净方铅矿矿石
@@ -21259,6 +21373,7 @@ languagefile {
     S:oredict.crushedPurifiedKalendrite.name=纯净幽冥魂石矿石
     S:oredict.crushedPurifiedKaolinite.name=纯净粉碎高岭石
     S:oredict.crushedPurifiedKesterite.name=纯净锌黄锡矿矿石
+    S:oredict.crushedPurifiedKreknorite.name=Purified Kreknorite Ore
     S:oredict.crushedPurifiedKyanite.name=纯净蓝晶石矿石
     S:oredict.crushedPurifiedLantanium.name=纯净镧矿石
     S:oredict.crushedPurifiedLapis.name=纯净青金石矿石
@@ -21288,6 +21403,7 @@ languagefile {
     S:oredict.crushedPurifiedMendelevium.name=纯净钔矿石
     S:oredict.crushedPurifiedMercury.name=纯净汞矿石
     S:oredict.crushedPurifiedMeteoricIron.name=纯净陨铁矿石
+    S:oredict.crushedPurifiedMeteorite.name=Purified Meteorite Ore
     S:oredict.crushedPurifiedMeutoite.name=纯净龙之魂石矿石
     S:oredict.crushedPurifiedMica.name=纯净云母矿石
     S:oredict.crushedPurifiedMidasium.name=纯净溶火金矿石
@@ -21675,6 +21791,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyForcicium.name=小撮纯净力场矿石
     S:oredict.crushedPurifiedTinyForcillium.name=小撮纯净力场矿石
     S:oredict.crushedPurifiedTinyFrancium.name=小撮纯净钫矿石
+    S:oredict.crushedPurifiedTinyFrozenIron.name=Tiny Purified Frozen Iron Ore
     S:oredict.crushedPurifiedTinyFullersEarth.name=小撮纯净粉碎漂白土
     S:oredict.crushedPurifiedTinyGadolinium.name=小撮纯净钆矿石
     S:oredict.crushedPurifiedTinyGalena.name=小撮纯净方铅矿矿石
@@ -21725,6 +21842,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyKalendrite.name=小撮纯净幽冥魂石矿石
     S:oredict.crushedPurifiedTinyKaolinite.name=小撮纯净粉碎高岭石
     S:oredict.crushedPurifiedTinyKesterite.name=小撮纯净锌黄锡矿矿石
+    S:oredict.crushedPurifiedTinyKreknorite.name=Tiny Purified Kreknorite Ore
     S:oredict.crushedPurifiedTinyKyanite.name=小撮纯净蓝晶石矿石
     S:oredict.crushedPurifiedTinyLantanium.name=小撮纯净镧矿石
     S:oredict.crushedPurifiedTinyLapis.name=小撮纯净青金石矿石
@@ -21754,6 +21872,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyMendelevium.name=小撮纯净钔矿石
     S:oredict.crushedPurifiedTinyMercury.name=小撮纯净汞矿石
     S:oredict.crushedPurifiedTinyMeteoricIron.name=小撮纯净陨铁矿石
+    S:oredict.crushedPurifiedTinyMeteorite.name=Tiny Purified Meteorite Ore
     S:oredict.crushedPurifiedTinyMeutoite.name=小撮纯净龙之魂石矿石
     S:oredict.crushedPurifiedTinyMica.name=小撮纯净云母矿石
     S:oredict.crushedPurifiedTinyMidasium.name=小撮纯净溶火金矿石
@@ -22296,6 +22415,7 @@ languagefile {
     S:oredict.crushedTinyForcicium.name=小撮粉碎力场矿石
     S:oredict.crushedTinyForcillium.name=小撮粉碎力场矿石
     S:oredict.crushedTinyFrancium.name=小撮粉碎钫矿石
+    S:oredict.crushedTinyFrozenIron.name=Tiny Crushed Frozen Iron Ore
     S:oredict.crushedTinyFullersEarth.name=小撮粉碎漂白土
     S:oredict.crushedTinyGadolinium.name=小撮粉碎钆矿石
     S:oredict.crushedTinyGalena.name=小撮粉碎方铅矿矿石
@@ -22346,6 +22466,7 @@ languagefile {
     S:oredict.crushedTinyKalendrite.name=小撮粉碎幽冥魂石矿石
     S:oredict.crushedTinyKaolinite.name=小撮粉碎高岭石
     S:oredict.crushedTinyKesterite.name=小撮粉碎锌黄锡矿矿石
+    S:oredict.crushedTinyKreknorite.name=Tiny Crushed Kreknorite Ore
     S:oredict.crushedTinyKyanite.name=小撮粉碎蓝晶石矿石
     S:oredict.crushedTinyLantanium.name=小撮粉碎镧矿石
     S:oredict.crushedTinyLapis.name=小撮粉碎青金石矿石
@@ -22375,6 +22496,7 @@ languagefile {
     S:oredict.crushedTinyMendelevium.name=小撮粉碎钔矿石
     S:oredict.crushedTinyMercury.name=小撮粉碎汞矿石
     S:oredict.crushedTinyMeteoricIron.name=小撮粉碎陨铁矿石
+    S:oredict.crushedTinyMeteorite.name=Tiny Crushed Meteorite Ore
     S:oredict.crushedTinyMeutoite.name=小撮粉碎龙之魂石矿石
     S:oredict.crushedTinyMica.name=小撮粉碎云母矿石
     S:oredict.crushedTinyMidasium.name=小撮粉碎溶火金矿石
@@ -23247,6 +23369,8 @@ languagefile {
     S:oredict.dustDiv72Forcicium.name=1/72份力场粉
     S:oredict.dustDiv72Forcillium.name=1/72份力场粉
     S:oredict.dustDiv72Francium.name=1/72份钫粉
+    S:oredict.dustDiv72Frezarite.name=1/72nd of a Pile of Frezarite Dust
+    S:oredict.dustDiv72FrozenIron.name=1/72nd of a Pile of Frozen Iron Dust
     S:oredict.dustDiv72FullersEarth.name=1/72份漂白土
     S:oredict.dustDiv72Gabbro.name=1/72份辉长岩粉
     S:oredict.dustDiv72Gadolinium.name=1/72份钆粉
@@ -23328,6 +23452,7 @@ languagefile {
     S:oredict.dustDiv72Kesterite.name=1/72份锌黄锡矿粉
     S:oredict.dustDiv72Knightmetal.name=1/72份骑士金属粉
     S:oredict.dustDiv72Komatiite.name=1/72份科马提岩粉
+    S:oredict.dustDiv72Kreknorite.name=1/72nd of a Pile of Kreknorite Dust
     S:oredict.dustDiv72Kyanite.name=1/72份蓝晶石粉
     S:oredict.dustDiv72Lantanium.name=1/72份镧粉
     S:oredict.dustDiv72Lapis.name=1/72份青金石粉
@@ -23376,6 +23501,7 @@ languagefile {
     S:oredict.dustDiv72Mercury.name=1/72份汞粉
     S:oredict.dustDiv72MeteoricIron.name=1/72份陨铁粉
     S:oredict.dustDiv72MeteoricSteel.name=1/72份陨钢粉
+    S:oredict.dustDiv72Meteorite.name=1/72nd of a Pile of Meteorite Dust
     S:oredict.dustDiv72MethaneIce.name=1/72份甲烷冰粉
     S:oredict.dustDiv72Meutoite.name=1/72份龙之魂石粉
     S:oredict.dustDiv72Mica.name=1/72份云母粉
@@ -23491,6 +23617,7 @@ languagefile {
     S:oredict.dustDiv72Red.name=1/72份红色染料
     S:oredict.dustDiv72RedAlloy.name=1/72份红色合金粉
     S:oredict.dustDiv72RedMatter.name=1/72份红物质粉
+    S:oredict.dustDiv72RedMeteor.name=1/72nd of a Pile of Red Meteor Dust
     S:oredict.dustDiv72RedSteel.name=1/72份红钢粉
     S:oredict.dustDiv72Redrock.name=1/72份红岩粉
     S:oredict.dustDiv72Redstone.name=1/72份红石粉
@@ -23728,6 +23855,8 @@ languagefile {
     S:oredict.dustForcicium.name=力场粉
     S:oredict.dustForcillium.name=力场粉
     S:oredict.dustFrancium.name=钫粉
+    S:oredict.dustFrezarite.name=Frezarite Dust
+    S:oredict.dustFrozenIron.name=Frozen Iron Dust
     S:oredict.dustFullersEarth.name=漂白土
     S:oredict.dustGabbro.name=辉长岩粉
     S:oredict.dustGadolinium.name=钆粉
@@ -24058,6 +24187,7 @@ languagefile {
     S:oredict.dustImpureForcicium.name=含杂力场粉
     S:oredict.dustImpureForcillium.name=含杂力场粉
     S:oredict.dustImpureFrancium.name=含杂钫粉
+    S:oredict.dustImpureFrozenIron.name=Impure Pile of Frozen Iron Dust
     S:oredict.dustImpureFullersEarth.name=含杂漂白土
     S:oredict.dustImpureGabbro.name=含杂辉长岩粉
     S:oredict.dustImpureGadolinium.name=含杂钆粉
@@ -24117,6 +24247,7 @@ languagefile {
     S:oredict.dustImpureKaolinite.name=含杂高岭石粉
     S:oredict.dustImpureKesterite.name=含杂锌黄锡矿粉
     S:oredict.dustImpureKomatiite.name=含杂科马提岩粉
+    S:oredict.dustImpureKreknorite.name=Impure Pile of Kreknorite Dust
     S:oredict.dustImpureKyanite.name=含杂蓝晶石粉
     S:oredict.dustImpureLantanium.name=含杂镧粉
     S:oredict.dustImpureLapis.name=含杂青金石粉
@@ -24150,6 +24281,7 @@ languagefile {
     S:oredict.dustImpureMendelevium.name=含杂钔粉
     S:oredict.dustImpureMercury.name=含杂汞粉
     S:oredict.dustImpureMeteoricIron.name=含杂陨铁粉
+    S:oredict.dustImpureMeteorite.name=Impure Pile of Meteorite Dust
     S:oredict.dustImpureMeutoite.name=含杂龙之魂石粉
     S:oredict.dustImpureMica.name=含杂云母粉
     S:oredict.dustImpureMidasium.name=含杂溶火金粉
@@ -24360,6 +24492,7 @@ languagefile {
     S:oredict.dustKesterite.name=锌黄锡矿粉
     S:oredict.dustKnightmetal.name=骑士金属粉
     S:oredict.dustKomatiite.name=科马提岩粉
+    S:oredict.dustKreknorite.name=Kreknorite Dust
     S:oredict.dustKyanite.name=蓝晶石粉
     S:oredict.dustLantanium.name=镧粉
     S:oredict.dustLapis.name=青金石粉
@@ -24408,6 +24541,7 @@ languagefile {
     S:oredict.dustMercury.name=汞粉
     S:oredict.dustMeteoricIron.name=陨铁粉
     S:oredict.dustMeteoricSteel.name=陨钢粉
+    S:oredict.dustMeteorite.name=Meteorite Dust
     S:oredict.dustMethaneIce.name=甲烷冰粉
     S:oredict.dustMeutoite.name=龙之魂石粉
     S:oredict.dustMica.name=云母粉
@@ -24785,6 +24919,7 @@ languagefile {
     S:oredict.dustPureForcicium.name=纯净力场粉
     S:oredict.dustPureForcillium.name=纯净力场粉
     S:oredict.dustPureFrancium.name=纯净钫粉
+    S:oredict.dustPureFrozenIron.name=Purified Pile of Frozen Iron Dust
     S:oredict.dustPureFullersEarth.name=纯净漂白土
     S:oredict.dustPureGabbro.name=纯净辉长岩粉
     S:oredict.dustPureGadolinium.name=纯净钆粉
@@ -24844,6 +24979,7 @@ languagefile {
     S:oredict.dustPureKaolinite.name=纯净高岭石
     S:oredict.dustPureKesterite.name=纯净锌黄锡矿粉
     S:oredict.dustPureKomatiite.name=纯净科马提岩粉
+    S:oredict.dustPureKreknorite.name=Purified Pile of Kreknorite Dust
     S:oredict.dustPureKyanite.name=纯净蓝晶石粉
     S:oredict.dustPureLantanium.name=纯净镧粉
     S:oredict.dustPureLapis.name=纯净青金石粉
@@ -24877,6 +25013,7 @@ languagefile {
     S:oredict.dustPureMendelevium.name=纯净钔粉
     S:oredict.dustPureMercury.name=纯净汞粉
     S:oredict.dustPureMeteoricIron.name=纯净陨铁粉
+    S:oredict.dustPureMeteorite.name=Purified Pile of Meteorite Dust
     S:oredict.dustPureMeutoite.name=纯净龙之魂石粉
     S:oredict.dustPureMica.name=纯净云母粉
     S:oredict.dustPureMidasium.name=纯净溶火金粉
@@ -25074,6 +25211,7 @@ languagefile {
     S:oredict.dustRed.name=红色染料芬
     S:oredict.dustRedAlloy.name=红色合金粉
     S:oredict.dustRedMatter.name=红物质粉
+    S:oredict.dustRedMeteor.name=Red Meteor Dust
     S:oredict.dustRedSteel.name=红钢粉
     S:oredict.dustRedrock.name=红岩粉
     S:oredict.dustRedstoneAlloy.name=红硅(红石合金)粉
@@ -25471,6 +25609,8 @@ languagefile {
     S:oredict.dustSmallForcicium.name=小堆力场粉
     S:oredict.dustSmallForcillium.name=小堆力场粉
     S:oredict.dustSmallFrancium.name=小堆钫粉
+    S:oredict.dustSmallFrezarite.name=Small Pile of Frezarite Dust
+    S:oredict.dustSmallFrozenIron.name=Small Pile of Frozen Iron Dust
     S:oredict.dustSmallFullersEarth.name=小堆漂白土
     S:oredict.dustSmallGabbro.name=小堆辉长岩粉
     S:oredict.dustSmallGadolinium.name=小堆钆粉
@@ -25556,6 +25696,7 @@ languagefile {
     S:oredict.dustSmallKesterite.name=小堆锌黄锡矿粉
     S:oredict.dustSmallKnightmetal.name=小堆骑士金属粉
     S:oredict.dustSmallKomatiite.name=小堆科马提岩粉
+    S:oredict.dustSmallKreknorite.name=Small Pile of Kreknorite Dust
     S:oredict.dustSmallKyanite.name=小堆蓝晶石粉
     S:oredict.dustSmallLantanium.name=小堆镧粉
     S:oredict.dustSmallLapis.name=小堆青金石粉
@@ -25604,6 +25745,7 @@ languagefile {
     S:oredict.dustSmallMercury.name=小堆汞粉
     S:oredict.dustSmallMeteoricIron.name=小堆陨铁粉
     S:oredict.dustSmallMeteoricSteel.name=小堆陨钢粉
+    S:oredict.dustSmallMeteorite.name=Small Pile of Meteorite Dust
     S:oredict.dustSmallMethaneIce.name=小堆甲烷冰粉
     S:oredict.dustSmallMeutoite.name=小堆龙之魂石粉
     S:oredict.dustSmallMica.name=小堆云母粉
@@ -25721,6 +25863,7 @@ languagefile {
     S:oredict.dustSmallRed.name=小堆红色染料
     S:oredict.dustSmallRedAlloy.name=小堆红色合金粉
     S:oredict.dustSmallRedMatter.name=小堆红物质粉
+    S:oredict.dustSmallRedMeteor.name=Small Pile of Red Meteor Dust
     S:oredict.dustSmallRedSteel.name=小堆红钢粉
     S:oredict.dustSmallRedrock.name=小堆红岩粉
     S:oredict.dustSmallRedstone.name=小堆红石粉
@@ -26315,6 +26458,8 @@ languagefile {
     S:oredict.dustTinyForcicium.name=小撮力场粉
     S:oredict.dustTinyForcillium.name=小撮力场粉
     S:oredict.dustTinyFrancium.name=小撮钫粉
+    S:oredict.dustTinyFrezarite.name=Tiny Pile of Frezarite Dust
+    S:oredict.dustTinyFrozenIron.name=Tiny Pile of Frozen Iron Dust
     S:oredict.dustTinyFullersEarth.name=小撮漂白土
     S:oredict.dustTinyGabbro.name=小撮辉长岩粉
     S:oredict.dustTinyGadolinium.name=小撮钆粉
@@ -26400,6 +26545,7 @@ languagefile {
     S:oredict.dustTinyKesterite.name=小撮锌黄锡矿粉
     S:oredict.dustTinyKnightmetal.name=小撮骑士金属粉
     S:oredict.dustTinyKomatiite.name=小撮科马提岩粉
+    S:oredict.dustTinyKreknorite.name=Tiny Pile of Kreknorite Dust
     S:oredict.dustTinyKyanite.name=小撮蓝晶石粉
     S:oredict.dustTinyLantanium.name=小撮镧粉
     S:oredict.dustTinyLapis.name=小撮青金石粉
@@ -26448,6 +26594,7 @@ languagefile {
     S:oredict.dustTinyMercury.name=小撮汞粉
     S:oredict.dustTinyMeteoricIron.name=小撮陨铁粉
     S:oredict.dustTinyMeteoricSteel.name=小撮陨钢粉
+    S:oredict.dustTinyMeteorite.name=Tiny Pile of Meteorite Dust
     S:oredict.dustTinyMethaneIce.name=小撮甲烷冰粉
     S:oredict.dustTinyMeutoite.name=小撮龙之魂石粉
     S:oredict.dustTinyMica.name=小撮云母粉
@@ -26565,6 +26712,7 @@ languagefile {
     S:oredict.dustTinyRed.name=小撮红色染料
     S:oredict.dustTinyRedAlloy.name=小撮红色合金粉
     S:oredict.dustTinyRedMatter.name=小撮红物质粉
+    S:oredict.dustTinyRedMeteor.name=Tiny Pile of Red Meteor Dust
     S:oredict.dustTinyRedSteel.name=小撮红钢粉
     S:oredict.dustTinyRedrock.name=小撮红岩粉
     S:oredict.dustTinyRedstone.name=小撮红石粉
@@ -27025,6 +27173,7 @@ languagefile {
     S:oredict.foilForce.name=力量箔
     S:oredict.foilForcicium.name=力场箔
     S:oredict.foilFrancium.name=钫箔
+    S:oredict.foilFrozenIron.name=Frozen Iron Foil
     S:oredict.foilGadolinium.name=钆箔
     S:oredict.foilGallium.name=镓箔
     S:oredict.foilGermanium.name=锗箔
@@ -27053,6 +27202,7 @@ languagefile {
     S:oredict.foilKalendrite.name=幽冥魂石箔
     S:oredict.foilKanthal.name=铁铬铝合金箔
     S:oredict.foilKnightmetal.name=骑士金属箔
+    S:oredict.foilKreknorite.name=Kreknorite Foil
     S:oredict.foilLantanium.name=镧箔
     S:oredict.foilLawrencium.name=铹箔
     S:oredict.foilLead.name=铅箔
@@ -27071,6 +27221,7 @@ languagefile {
     S:oredict.foilMercury.name=汞箔
     S:oredict.foilMeteoricIron.name=陨铁箔
     S:oredict.foilMeteoricSteel.name=陨钢箔
+    S:oredict.foilMeteorite.name=Meteorite Foil
     S:oredict.foilMeutoite.name=龙之魂石箔
     S:oredict.foilMidasium.name=溶火金箔
     S:oredict.foilMigmatite.name=混合岩箔
@@ -27310,6 +27461,8 @@ languagefile {
     S:oredict.gearGtFlint.name=燧石齿轮
     S:oredict.gearGtFoolsRuby.name=红宝石齿轮
     S:oredict.gearGtForce.name=力量齿轮
+    S:oredict.gearGtFrezarite.name=Frezarite Gear
+    S:oredict.gearGtFrozenIron.name=Frozen Iron Gear
     S:oredict.gearGtGabbro.name=辉长岩齿轮
     S:oredict.gearGtGermanium.name=锗 Gear
     S:oredict.gearGtGildedIron.name=镀金铁齿轮
@@ -27355,6 +27508,7 @@ languagefile {
     S:oredict.gearGtKanthal.name=铁铬铝合金齿轮
     S:oredict.gearGtKnightmetal.name=骑士金属齿轮
     S:oredict.gearGtKomatiite.name=科马提岩齿轮
+    S:oredict.gearGtKreknorite.name=Kreknorite Gear
     S:oredict.gearGtLead.name=铅齿轮
     S:oredict.gearGtLimestone.name=石灰石齿轮
     S:oredict.gearGtLumium.name=流明齿轮
@@ -27369,6 +27523,7 @@ languagefile {
     S:oredict.gearGtMaxixe.name=Maxixe Gear
     S:oredict.gearGtMeteoricIron.name=陨铁齿轮
     S:oredict.gearGtMeteoricSteel.name=陨钢齿轮
+    S:oredict.gearGtMeteorite.name=Meteorite Gear
     S:oredict.gearGtMidasium.name=溶火金齿轮
     S:oredict.gearGtMigmatite.name=混合岩齿轮
     S:oredict.gearGtMithril.name=秘银齿轮
@@ -27413,6 +27568,7 @@ languagefile {
     S:oredict.gearGtQuartzBlack.name=黑色石英岩齿轮
     S:oredict.gearGtQuartzite.name=石英岩齿轮
     S:oredict.gearGtRedMatter.name=红物质齿轮
+    S:oredict.gearGtRedMeteor.name=Red Meteor Gear
     S:oredict.gearGtRedSteel.name=红钢齿轮
     S:oredict.gearGtRedrock.name=红岩齿轮
     S:oredict.gearGtRedstonia.name=Redstonia Gear
@@ -27534,6 +27690,8 @@ languagefile {
     S:oredict.gearGtSmallFlint.name=小型燧石齿轮
     S:oredict.gearGtSmallFoolsRuby.name=小型红宝石齿轮
     S:oredict.gearGtSmallForce.name=小型力量齿轮
+    S:oredict.gearGtSmallFrezarite.name=Small Frezarite Gear
+    S:oredict.gearGtSmallFrozenIron.name=Small Frozen Iron Gear
     S:oredict.gearGtSmallGabbro.name=小型辉长岩齿轮
     S:oredict.gearGtSmallGermanium.name=Small 锗 Gear
     S:oredict.gearGtSmallGildedIron.name=小型镀金铁齿轮
@@ -27579,6 +27737,7 @@ languagefile {
     S:oredict.gearGtSmallKanthal.name=小型铁铬铝合金齿轮
     S:oredict.gearGtSmallKnightmetal.name=小型骑士金属齿轮
     S:oredict.gearGtSmallKomatiite.name=小型科马提岩齿轮
+    S:oredict.gearGtSmallKreknorite.name=Small Kreknorite Gear
     S:oredict.gearGtSmallLead.name=小型铅齿轮
     S:oredict.gearGtSmallLimestone.name=小型石灰石齿轮
     S:oredict.gearGtSmallLumium.name=小型流明齿轮
@@ -27593,6 +27752,7 @@ languagefile {
     S:oredict.gearGtSmallMaxixe.name=Small Maxixe Gear
     S:oredict.gearGtSmallMeteoricIron.name=小型陨铁齿轮
     S:oredict.gearGtSmallMeteoricSteel.name=小型陨钢齿轮
+    S:oredict.gearGtSmallMeteorite.name=Small Meteorite Gear
     S:oredict.gearGtSmallMidasium.name=小型溶火金齿轮
     S:oredict.gearGtSmallMigmatite.name=小型混合岩齿轮
     S:oredict.gearGtSmallMithril.name=小型秘银齿轮
@@ -27637,6 +27797,7 @@ languagefile {
     S:oredict.gearGtSmallQuartzBlack.name=小型黑色石英岩齿轮
     S:oredict.gearGtSmallQuartzite.name=小型石英岩齿轮
     S:oredict.gearGtSmallRedMatter.name=小型红物质齿轮
+    S:oredict.gearGtSmallRedMeteor.name=Small Red Meteor Gear
     S:oredict.gearGtSmallRedSteel.name=小型红钢齿轮
     S:oredict.gearGtSmallRedrock.name=小型红岩齿轮
     S:oredict.gearGtSmallRedstonia.name=Small Redstonia Gear
@@ -28045,6 +28206,7 @@ languagefile {
     S:oredict.gemForce.name=力量
     S:oredict.gemForcicium.name=力场
     S:oredict.gemForcillium.name=力场
+    S:oredict.gemFrezarite.name=Frezarite Crystal
     S:oredict.gemGlass.name=玻璃水晶
     S:oredict.gemGoshenite.name=Goshenite
     S:oredict.gemGreenSapphire.name=绿色蓝宝石
@@ -28138,6 +28300,7 @@ languagefile {
     S:oredict.gemQuartzBlack.name=黑色石英岩
     S:oredict.gemQuartzite.name=石英岩
     S:oredict.gemRedMatter.name=Red Matter
+    S:oredict.gemRedMeteor.name=Red Meteor
     S:oredict.gemRedstonia.name=Redstonia Crystal
     S:oredict.gemRockSalt.name=岩盐
     S:oredict.gemRuby.name=红宝石
@@ -28544,6 +28707,7 @@ languagefile {
     S:oredict.ingotDoubleFlerovium298.name=两重鈇-298锭
     S:oredict.ingotDoubleForce.name=两重力量锭
     S:oredict.ingotDoubleFrancium.name=两重钫锭
+    S:oredict.ingotDoubleFrozenIron.name=Double Frozen Iron Ingot
     S:oredict.ingotDoubleGadolinium.name=两重钆锭
     S:oredict.ingotDoubleGallium.name=两重镓锭
     S:oredict.ingotDoubleGermanium.name=两重锗锭
@@ -28572,6 +28736,7 @@ languagefile {
     S:oredict.ingotDoubleKalendrite.name=两重幽冥魂石锭
     S:oredict.ingotDoubleKanthal.name=两重铁铬铝合金锭
     S:oredict.ingotDoubleKnightmetal.name=两重骑士金属锭
+    S:oredict.ingotDoubleKreknorite.name=Double Kreknorite Ingot
     S:oredict.ingotDoubleLantanium.name=两重镧锭
     S:oredict.ingotDoubleLawrencium.name=两重铹锭
     S:oredict.ingotDoubleLead.name=两重铅锭
@@ -28590,6 +28755,7 @@ languagefile {
     S:oredict.ingotDoubleMercury.name=两重汞锭
     S:oredict.ingotDoubleMeteoricIron.name=两重陨铁锭
     S:oredict.ingotDoubleMeteoricSteel.name=两重陨钢锭
+    S:oredict.ingotDoubleMeteorite.name=Double Meteorite Ingot
     S:oredict.ingotDoubleMeutoite.name=两重龙之魂石锭
     S:oredict.ingotDoubleMidasium.name=两重溶火金锭
     S:oredict.ingotDoubleMithril.name=两重秘银锭
@@ -28744,6 +28910,7 @@ languagefile {
     S:oredict.ingotFluorite.name=氟石锭
     S:oredict.ingotForce.name=力量锭
     S:oredict.ingotFrancium.name=钫锭
+    S:oredict.ingotFrozenIron.name=Frozen Iron Ingot
     S:oredict.ingotGadolinium.name=钆锭
     S:oredict.ingotGallium.name=镓锭
     S:oredict.ingotGermanium.name=锗锭
@@ -28959,6 +29126,7 @@ languagefile {
     S:oredict.ingotHotFlerovium298.name=热鈇-298锭
     S:oredict.ingotHotForce.name=热力量锭
     S:oredict.ingotHotFrancium.name=热钫锭
+    S:oredict.ingotHotFrozenIron.name=Hot Frozen Iron Ingot
     S:oredict.ingotHotGadolinium.name=热钆锭
     S:oredict.ingotHotGallium.name=热镓锭
     S:oredict.ingotHotGermanium.name=热锗锭
@@ -28987,6 +29155,7 @@ languagefile {
     S:oredict.ingotHotKalendrite.name=热幽冥魂石锭
     S:oredict.ingotHotKanthal.name=热铁铬铝合金锭
     S:oredict.ingotHotKnightmetal.name=热骑士金属锭
+    S:oredict.ingotHotKreknorite.name=Hot Kreknorite Ingot
     S:oredict.ingotHotLantanium.name=热镧锭
     S:oredict.ingotHotLawrencium.name=热铹锭
     S:oredict.ingotHotLead.name=热铅锭
@@ -29005,6 +29174,7 @@ languagefile {
     S:oredict.ingotHotMercury.name=热汞锭
     S:oredict.ingotHotMeteoricIron.name=热陨铁锭
     S:oredict.ingotHotMeteoricSteel.name=热陨钢锭
+    S:oredict.ingotHotMeteorite.name=Hot Meteorite Ingot
     S:oredict.ingotHotMeutoite.name=热龙之魂石锭
     S:oredict.ingotHotMidasium.name=热溶火金锭
     S:oredict.ingotHotMithril.name=热秘银锭
@@ -29140,6 +29310,7 @@ languagefile {
     S:oredict.ingotKalendrite.name=幽冥魂石锭
     S:oredict.ingotKanthal.name=铁铬铝合金锭
     S:oredict.ingotKnightmetal.name=骑士金属锭
+    S:oredict.ingotKreknorite.name=Kreknorite Ingot
     S:oredict.ingotLantanium.name=镧锭
     S:oredict.ingotLawrencium.name=铹锭
     S:oredict.ingotLead.name=铅锭
@@ -29163,6 +29334,7 @@ languagefile {
     S:oredict.ingotMercury.name=汞锭
     S:oredict.ingotMeteoricIron.name=陨铁锭
     S:oredict.ingotMeteoricSteel.name=陨钢锭
+    S:oredict.ingotMeteorite.name=Meteorite Ingot
     S:oredict.ingotMeutoite.name=龙之魂石锭
     S:oredict.ingotMidasium.name=溶火金锭
     S:oredict.ingotMithril.name=秘银锭
@@ -29409,6 +29581,7 @@ languagefile {
     S:oredict.ingotQuadrupleFlerovium298.name=四重鈇-298锭
     S:oredict.ingotQuadrupleForce.name=四重力量锭
     S:oredict.ingotQuadrupleFrancium.name=四重钫锭
+    S:oredict.ingotQuadrupleFrozenIron.name=Quadruple Frozen Iron Ingot
     S:oredict.ingotQuadrupleGadolinium.name=四重钆锭
     S:oredict.ingotQuadrupleGallium.name=四重镓锭
     S:oredict.ingotQuadrupleGermanium.name=四重锗锭
@@ -29437,6 +29610,7 @@ languagefile {
     S:oredict.ingotQuadrupleKalendrite.name=四重幽冥魂石锭
     S:oredict.ingotQuadrupleKanthal.name=四重铁铬铝合金锭
     S:oredict.ingotQuadrupleKnightmetal.name=四重骑士金属锭
+    S:oredict.ingotQuadrupleKreknorite.name=Quadruple Kreknorite Ingot
     S:oredict.ingotQuadrupleLantanium.name=四重镧锭
     S:oredict.ingotQuadrupleLawrencium.name=四重铹锭
     S:oredict.ingotQuadrupleLead.name=四重铅锭
@@ -29455,6 +29629,7 @@ languagefile {
     S:oredict.ingotQuadrupleMercury.name=四重汞锭
     S:oredict.ingotQuadrupleMeteoricIron.name=四重陨铁锭
     S:oredict.ingotQuadrupleMeteoricSteel.name=四重陨钢锭
+    S:oredict.ingotQuadrupleMeteorite.name=Quadruple Meteorite Ingot
     S:oredict.ingotQuadrupleMeutoite.name=四重龙之魂石锭
     S:oredict.ingotQuadrupleMidasium.name=四重溶火金锭
     S:oredict.ingotQuadrupleMithril.name=四重秘银锭
@@ -29781,6 +29956,7 @@ languagefile {
     S:oredict.ingotQuintupleFlerovium298.name=五重鈇-298锭
     S:oredict.ingotQuintupleForce.name=五重力量锭
     S:oredict.ingotQuintupleFrancium.name=五重钫锭
+    S:oredict.ingotQuintupleFrozenIron.name=Quintuple Frozen Iron Ingot
     S:oredict.ingotQuintupleGadolinium.name=五重钆锭
     S:oredict.ingotQuintupleGallium.name=五重镓锭
     S:oredict.ingotQuintupleGermanium.name=五重锗锭
@@ -29809,6 +29985,7 @@ languagefile {
     S:oredict.ingotQuintupleKalendrite.name=五重幽冥魂石锭
     S:oredict.ingotQuintupleKanthal.name=五重铁铬铝合金锭
     S:oredict.ingotQuintupleKnightmetal.name=五重骑士金属锭
+    S:oredict.ingotQuintupleKreknorite.name=Quintuple Kreknorite Ingot
     S:oredict.ingotQuintupleLantanium.name=五重镧锭
     S:oredict.ingotQuintupleLawrencium.name=五重铹锭
     S:oredict.ingotQuintupleLead.name=五重铅锭
@@ -29827,6 +30004,7 @@ languagefile {
     S:oredict.ingotQuintupleMercury.name=五重汞锭
     S:oredict.ingotQuintupleMeteoricIron.name=五重陨铁锭
     S:oredict.ingotQuintupleMeteoricSteel.name=五重陨钢锭
+    S:oredict.ingotQuintupleMeteorite.name=Quintuple Meteorite Ingot
     S:oredict.ingotQuintupleMeutoite.name=五重龙之魂石锭
     S:oredict.ingotQuintupleMidasium.name=五重溶火金锭
     S:oredict.ingotQuintupleMithril.name=五重秘银锭
@@ -30205,6 +30383,7 @@ languagefile {
     S:oredict.ingotTripleFlerovium298.name=三重鈇-298锭
     S:oredict.ingotTripleForce.name=三重力量锭
     S:oredict.ingotTripleFrancium.name=三重钫锭
+    S:oredict.ingotTripleFrozenIron.name=Triple Frozen Iron Ingot
     S:oredict.ingotTripleGadolinium.name=三重钆锭
     S:oredict.ingotTripleGallium.name=三重镓锭
     S:oredict.ingotTripleGermanium.name=三重锗锭
@@ -30233,6 +30412,7 @@ languagefile {
     S:oredict.ingotTripleKalendrite.name=三重幽冥魂石锭
     S:oredict.ingotTripleKanthal.name=三重铁铬铝合金锭
     S:oredict.ingotTripleKnightmetal.name=三重骑士金属锭
+    S:oredict.ingotTripleKreknorite.name=Triple Kreknorite Ingot
     S:oredict.ingotTripleLantanium.name=三重镧锭
     S:oredict.ingotTripleLawrencium.name=三重铹锭
     S:oredict.ingotTripleLead.name=三重铅锭
@@ -30251,6 +30431,7 @@ languagefile {
     S:oredict.ingotTripleMercury.name=三重汞锭
     S:oredict.ingotTripleMeteoricIron.name=三重陨铁锭
     S:oredict.ingotTripleMeteoricSteel.name=三重陨钢锭
+    S:oredict.ingotTripleMeteorite.name=Triple Meteorite Ingot
     S:oredict.ingotTripleMeutoite.name=三重龙之魂石锭
     S:oredict.ingotTripleMidasium.name=三重溶火金锭
     S:oredict.ingotTripleMithril.name=三重秘银锭
@@ -30531,6 +30712,7 @@ languagefile {
     S:oredict.minecartWheelsEnergeticAlloy.name=充能合金车轮
     S:oredict.minecartWheelsEximite.name=虚空石车轮
     S:oredict.minecartWheelsFierySteel.name=炙热钢车轮
+    S:oredict.minecartWheelsFrozenIron.name=Frozen Iron Cart Wheels
     S:oredict.minecartWheelsGermanium.name=Germanium Cart Wheels
     S:oredict.minecartWheelsGildedIron.name=镀金铁车轮
     S:oredict.minecartWheelsGold.name=金车轮
@@ -30551,6 +30733,7 @@ languagefile {
     S:oredict.minecartWheelsKalendrite.name=幽冥魂石车轮
     S:oredict.minecartWheelsKanthal.name=铁铬铝合金车轮
     S:oredict.minecartWheelsKnightmetal.name=骑士金属车轮
+    S:oredict.minecartWheelsKreknorite.name=Kreknorite Cart Wheels
     S:oredict.minecartWheelsLead.name=铅车轮
     S:oredict.minecartWheelsLumium.name=流明车轮
     S:oredict.minecartWheelsMagnalium.name=镁铝合金车轮
@@ -30559,6 +30742,7 @@ languagefile {
     S:oredict.minecartWheelsManyullyn.name=玛玉灵车轮
     S:oredict.minecartWheelsMeteoricIron.name=陨铁车轮
     S:oredict.minecartWheelsMeteoricSteel.name=陨钢车轮
+    S:oredict.minecartWheelsMeteorite.name=Meteorite Cart Wheels
     S:oredict.minecartWheelsMidasium.name=溶火金车轮
     S:oredict.minecartWheelsMithril.name=秘银车轮
     S:oredict.minecartWheelsMolybdenum.name=钼车轮
@@ -30846,6 +31030,7 @@ languagefile {
     S:oredict.nuggetFluorite.name=氟石粒
     S:oredict.nuggetForce.name=力量粒
     S:oredict.nuggetFrancium.name=钫粒
+    S:oredict.nuggetFrozenIron.name=Frozen Iron Nugget
     S:oredict.nuggetGadolinium.name=钆粒
     S:oredict.nuggetGallium.name=镓粒
     S:oredict.nuggetGermanium.name=锗粒
@@ -30873,6 +31058,7 @@ languagefile {
     S:oredict.nuggetKalendrite.name=幽冥魂石粒
     S:oredict.nuggetKanthal.name=铁铬铝合金粒
     S:oredict.nuggetKnightmetal.name=骑士金属粒
+    S:oredict.nuggetKreknorite.name=Kreknorite Nugget
     S:oredict.nuggetLantanium.name=镧粒
     S:oredict.nuggetLawrencium.name=铹粒
     S:oredict.nuggetLead.name=铅粒
@@ -30898,6 +31084,7 @@ languagefile {
     S:oredict.nuggetMercury.name=汞粒
     S:oredict.nuggetMeteoricIron.name=陨铁粒
     S:oredict.nuggetMeteoricSteel.name=陨钢粒
+    S:oredict.nuggetMeteorite.name=Meteorite Nugget
     S:oredict.nuggetMeutoite.name=龙之魂石粒
     S:oredict.nuggetMidasium.name=溶火金粒
     S:oredict.nuggetMithril.name=秘银粒
@@ -31308,6 +31495,7 @@ languagefile {
     S:oredict.oreAndesiteForcicium.name=安山岩力场矿石
     S:oredict.oreAndesiteForcillium.name=安山岩力场矿石
     S:oredict.oreAndesiteFrancium.name=安山岩钫矿石
+    S:oredict.oreAndesiteFrozenIron.name=Andesite Frozen Iron Ore
     S:oredict.oreAndesiteFullersEarth.name=安山岩漂白土矿石
     S:oredict.oreAndesiteGadolinium.name=安山岩钆矿石
     S:oredict.oreAndesiteGalena.name=安山岩方铅矿矿石
@@ -31357,6 +31545,7 @@ languagefile {
     S:oredict.oreAndesiteKalendrite.name=安山岩幽冥魂石矿石
     S:oredict.oreAndesiteKaolinite.name=安山岩高岭石矿石
     S:oredict.oreAndesiteKesterite.name=安山岩锌黄锡矿矿石
+    S:oredict.oreAndesiteKreknorite.name=Andesite Kreknorite Ore
     S:oredict.oreAndesiteKyanite.name=安山岩蓝晶石矿石
     S:oredict.oreAndesiteLantanium.name=安山岩镧矿石
     S:oredict.oreAndesiteLapis.name=安山岩青金石矿石
@@ -31386,6 +31575,7 @@ languagefile {
     S:oredict.oreAndesiteMendelevium.name=安山岩钔矿石
     S:oredict.oreAndesiteMercury.name=安山岩汞矿石
     S:oredict.oreAndesiteMeteoricIron.name=安山岩陨铁矿石
+    S:oredict.oreAndesiteMeteorite.name=Andesite Meteorite Ore
     S:oredict.oreAndesiteMeutoite.name=安山岩龙之魂石矿石
     S:oredict.oreAndesiteMica.name=安山岩云母矿石
     S:oredict.oreAndesiteMidasium.name=安山岩溶火金矿石
@@ -31955,6 +32145,7 @@ languagefile {
     S:oredict.oreBasaltForcicium.name=玄武岩力场矿石
     S:oredict.oreBasaltForcillium.name=玄武岩力场矿石
     S:oredict.oreBasaltFrancium.name=玄武岩钫矿石
+    S:oredict.oreBasaltFrozenIron.name=Basalt Frozen Iron Ore
     S:oredict.oreBasaltFullersEarth.name=玄武岩漂白土矿石
     S:oredict.oreBasaltGadolinium.name=玄武岩钆矿石
     S:oredict.oreBasaltGalena.name=玄武岩方铅矿矿石
@@ -32006,6 +32197,7 @@ languagefile {
     S:oredict.oreBasaltKalendrite.name=玄武岩幽冥魂石矿石
     S:oredict.oreBasaltKaolinite.name=玄武岩高岭石矿石
     S:oredict.oreBasaltKesterite.name=玄武岩锌黄锡矿矿石
+    S:oredict.oreBasaltKreknorite.name=Basalt Kreknorite Ore
     S:oredict.oreBasaltKyanite.name=玄武岩蓝晶石矿石
     S:oredict.oreBasaltLantanium.name=玄武岩镧矿石
     S:oredict.oreBasaltLapis.name=玄武岩青金石矿石
@@ -32035,6 +32227,7 @@ languagefile {
     S:oredict.oreBasaltMendelevium.name=玄武岩钔矿石
     S:oredict.oreBasaltMercury.name=玄武岩汞矿石
     S:oredict.oreBasaltMeteoricIron.name=玄武岩陨铁矿石
+    S:oredict.oreBasaltMeteorite.name=Basalt Meteorite Ore
     S:oredict.oreBasaltMeutoite.name=玄武岩龙之魂石矿石
     S:oredict.oreBasaltMica.name=玄武岩云母矿石
     S:oredict.oreBasaltMidasium.name=玄武岩溶火金矿石
@@ -32467,6 +32660,7 @@ languagefile {
     S:oredict.oreBedrockForcicium.name=基岩力场矿石
     S:oredict.oreBedrockForcillium.name=基岩力场矿石
     S:oredict.oreBedrockFrancium.name=基岩钫矿石
+    S:oredict.oreBedrockFrozenIron.name=Bedrock Frozen Iron Ore
     S:oredict.oreBedrockFullersEarth.name=基岩漂白土矿石
     S:oredict.oreBedrockGadolinium.name=基岩钆矿石
     S:oredict.oreBedrockGalena.name=基岩方铅矿矿石
@@ -32517,6 +32711,7 @@ languagefile {
     S:oredict.oreBedrockKalendrite.name=基岩幽冥魂石矿石
     S:oredict.oreBedrockKaolinite.name=基岩高岭石矿石
     S:oredict.oreBedrockKesterite.name=基岩锌黄锡矿矿石
+    S:oredict.oreBedrockKreknorite.name=Bedrock Kreknorite Ore
     S:oredict.oreBedrockKyanite.name=基岩蓝晶石矿石
     S:oredict.oreBedrockLantanium.name=基岩镧矿石
     S:oredict.oreBedrockLapis.name=基岩青金石矿石
@@ -32546,6 +32741,7 @@ languagefile {
     S:oredict.oreBedrockMendelevium.name=基岩钔矿石
     S:oredict.oreBedrockMercury.name=基岩汞矿石
     S:oredict.oreBedrockMeteoricIron.name=基岩陨铁矿石
+    S:oredict.oreBedrockMeteorite.name=Bedrock Meteorite Ore
     S:oredict.oreBedrockMeutoite.name=基岩龙之魂石矿石
     S:oredict.oreBedrockMica.name=基岩云母矿石
     S:oredict.oreBedrockMidasium.name=基岩溶火金矿石
@@ -32979,6 +33175,7 @@ languagefile {
     S:oredict.oreBlackgraniteForcicium.name=黑色花岗岩力场矿石
     S:oredict.oreBlackgraniteForcillium.name=黑色花岗岩力场矿石
     S:oredict.oreBlackgraniteFrancium.name=黑色花岗岩钫矿石
+    S:oredict.oreBlackgraniteFrozenIron.name=Granite Frozen Iron Ore
     S:oredict.oreBlackgraniteFullersEarth.name=黑色花岗岩漂白土矿石
     S:oredict.oreBlackgraniteGadolinium.name=黑色花岗岩钆矿石
     S:oredict.oreBlackgraniteGalena.name=黑色花岗岩方铅矿矿石
@@ -33028,6 +33225,7 @@ languagefile {
     S:oredict.oreBlackgraniteKalendrite.name=黑色花岗岩幽冥魂石矿石
     S:oredict.oreBlackgraniteKaolinite.name=黑色花岗岩高岭石矿石
     S:oredict.oreBlackgraniteKesterite.name=黑色花岗岩锌黄锡矿矿石
+    S:oredict.oreBlackgraniteKreknorite.name=Granite Kreknorite Ore
     S:oredict.oreBlackgraniteKyanite.name=黑色花岗岩蓝晶石矿石
     S:oredict.oreBlackgraniteLantanium.name=黑色花岗岩镧矿石
     S:oredict.oreBlackgraniteLapis.name=黑色花岗岩青金石矿石
@@ -33057,6 +33255,7 @@ languagefile {
     S:oredict.oreBlackgraniteMendelevium.name=黑色花岗岩钔矿石
     S:oredict.oreBlackgraniteMercury.name=黑色花岗岩汞矿石
     S:oredict.oreBlackgraniteMeteoricIron.name=黑色花岗岩陨铁矿石
+    S:oredict.oreBlackgraniteMeteorite.name=Granite Meteorite Ore
     S:oredict.oreBlackgraniteMeutoite.name=黑色花岗岩龙之魂石矿石
     S:oredict.oreBlackgraniteMica.name=黑色花岗岩云母矿石
     S:oredict.oreBlackgraniteMidasium.name=黑色花岗岩溶火金矿石
@@ -33539,6 +33738,7 @@ languagefile {
     S:oredict.oreDioriteForcicium.name=闪长岩力场矿石
     S:oredict.oreDioriteForcillium.name=闪长岩力场矿石
     S:oredict.oreDioriteFrancium.name=闪长岩钫矿石
+    S:oredict.oreDioriteFrozenIron.name=Diorite Frozen Iron Ore
     S:oredict.oreDioriteFullersEarth.name=闪长岩漂白土矿石
     S:oredict.oreDioriteGadolinium.name=闪长岩钆矿石
     S:oredict.oreDioriteGalena.name=闪长岩方铅矿矿石
@@ -33588,6 +33788,7 @@ languagefile {
     S:oredict.oreDioriteKalendrite.name=闪长岩幽冥魂石矿石
     S:oredict.oreDioriteKaolinite.name=闪长岩高岭石矿石
     S:oredict.oreDioriteKesterite.name=闪长岩锌黄锡矿矿石
+    S:oredict.oreDioriteKreknorite.name=Diorite Kreknorite Ore
     S:oredict.oreDioriteKyanite.name=闪长岩蓝晶石矿石
     S:oredict.oreDioriteLantanium.name=闪长岩镧矿石
     S:oredict.oreDioriteLapis.name=闪长岩青金石矿石
@@ -33617,6 +33818,7 @@ languagefile {
     S:oredict.oreDioriteMendelevium.name=闪长岩钔矿石
     S:oredict.oreDioriteMercury.name=闪长岩汞矿石
     S:oredict.oreDioriteMeteoricIron.name=闪长岩陨铁矿石
+    S:oredict.oreDioriteMeteorite.name=Diorite Meteorite Ore
     S:oredict.oreDioriteMeutoite.name=闪长岩龙之魂石矿石
     S:oredict.oreDioriteMica.name=闪长岩云母矿石
     S:oredict.oreDioriteMidasium.name=闪长岩溶火金矿石
@@ -34062,6 +34264,7 @@ languagefile {
     S:oredict.oreEndstoneForcicium.name=末地力场矿石
     S:oredict.oreEndstoneForcillium.name=末地力场矿石
     S:oredict.oreEndstoneFrancium.name=末地钫矿石
+    S:oredict.oreEndstoneFrozenIron.name=End Frozen Iron Ore
     S:oredict.oreEndstoneFullersEarth.name=末地漂白土矿石
     S:oredict.oreEndstoneGadolinium.name=末地钆矿石
     S:oredict.oreEndstoneGalena.name=末地方铅矿矿石
@@ -34112,6 +34315,7 @@ languagefile {
     S:oredict.oreEndstoneKalendrite.name=末地幽冥魂石矿石
     S:oredict.oreEndstoneKaolinite.name=末地高岭石矿石
     S:oredict.oreEndstoneKesterite.name=末地锌黄锡矿矿石
+    S:oredict.oreEndstoneKreknorite.name=End Kreknorite Ore
     S:oredict.oreEndstoneKyanite.name=末地蓝晶石矿石
     S:oredict.oreEndstoneLantanium.name=末地镧矿石
     S:oredict.oreEndstoneLapis.name=末地青金石矿石
@@ -34141,6 +34345,7 @@ languagefile {
     S:oredict.oreEndstoneMendelevium.name=末地钔矿石
     S:oredict.oreEndstoneMercury.name=末地汞矿石
     S:oredict.oreEndstoneMeteoricIron.name=末地陨铁矿石
+    S:oredict.oreEndstoneMeteorite.name=End Meteorite Ore
     S:oredict.oreEndstoneMeutoite.name=末地龙之魂石矿石
     S:oredict.oreEndstoneMica.name=末地云母矿石
     S:oredict.oreEndstoneMidasium.name=末地溶火金矿石
@@ -34330,6 +34535,7 @@ languagefile {
     S:oredict.oreForcicium.name=力场矿石
     S:oredict.oreForcillium.name=力场矿石
     S:oredict.oreFrancium.name=钫矿石
+    S:oredict.oreFrozenIron.name=Frozen Iron Ore
     S:oredict.oreFullersEarth.name=漂白土矿石
     S:oredict.oreGadolinium.name=钆矿石
     S:oredict.oreGalena.name=方铅矿石
@@ -34612,6 +34818,7 @@ languagefile {
     S:oredict.oreGravelForcicium.name=力场沙砾
     S:oredict.oreGravelForcillium.name=力场沙砾
     S:oredict.oreGravelFrancium.name=钫沙砾
+    S:oredict.oreGravelFrozenIron.name=Gravel Frozen Iron Ore
     S:oredict.oreGravelFullersEarth.name=漂白土沙砾
     S:oredict.oreGravelGadolinium.name=钆沙砾
     S:oredict.oreGravelGalena.name=方铅沙砾
@@ -34661,6 +34868,7 @@ languagefile {
     S:oredict.oreGravelKalendrite.name=幽冥魂石沙砾
     S:oredict.oreGravelKaolinite.name=高岭石沙砾
     S:oredict.oreGravelKesterite.name=锌黄锡沙砾
+    S:oredict.oreGravelKreknorite.name=Gravel Kreknorite Ore
     S:oredict.oreGravelKyanite.name=蓝晶石沙砾
     S:oredict.oreGravelLantanium.name=镧沙砾
     S:oredict.oreGravelLapis.name=青金石沙砾
@@ -34690,6 +34898,7 @@ languagefile {
     S:oredict.oreGravelMendelevium.name=钔沙砾
     S:oredict.oreGravelMercury.name=汞沙砾
     S:oredict.oreGravelMeteoricIron.name=陨铁沙砾
+    S:oredict.oreGravelMeteorite.name=Gravel Meteorite Ore
     S:oredict.oreGravelMeutoite.name=龙之魂石沙砾
     S:oredict.oreGravelMica.name=云母沙砾
     S:oredict.oreGravelMidasium.name=溶火金沙砾
@@ -34889,6 +35098,7 @@ languagefile {
     S:oredict.oreKalendrite.name=幽冥魂石矿石
     S:oredict.oreKaolinite.name=高岭石矿石
     S:oredict.oreKesterite.name=锌黄锡矿石
+    S:oredict.oreKreknorite.name=Kreknorite Ore
     S:oredict.oreKyanite.name=蓝晶石矿石
     S:oredict.oreLantanium.name=镧矿石
     S:oredict.oreLapis.name=青金石矿石
@@ -35158,6 +35368,7 @@ languagefile {
     S:oredict.oreLimestoneForcicium.name=石灰岩力场矿石
     S:oredict.oreLimestoneForcillium.name=石灰岩力场矿石
     S:oredict.oreLimestoneFrancium.name=石灰岩钫矿石
+    S:oredict.oreLimestoneFrozenIron.name=Limestone Frozen Iron Ore
     S:oredict.oreLimestoneFullersEarth.name=石灰岩漂白土矿石
     S:oredict.oreLimestoneGadolinium.name=石灰岩钆矿石
     S:oredict.oreLimestoneGalena.name=石灰岩方铅矿矿石
@@ -35208,6 +35419,7 @@ languagefile {
     S:oredict.oreLimestoneKalendrite.name=石灰岩幽冥魂石矿石
     S:oredict.oreLimestoneKaolinite.name=石灰岩高岭石矿石
     S:oredict.oreLimestoneKesterite.name=石灰岩锌黄锡矿矿石
+    S:oredict.oreLimestoneKreknorite.name=Limestone Kreknorite Ore
     S:oredict.oreLimestoneKyanite.name=石灰岩蓝晶石矿石
     S:oredict.oreLimestoneLantanium.name=石灰岩镧矿石
     S:oredict.oreLimestoneLapis.name=石灰岩青金石矿石
@@ -35237,6 +35449,7 @@ languagefile {
     S:oredict.oreLimestoneMendelevium.name=石灰岩钔矿石
     S:oredict.oreLimestoneMercury.name=石灰岩汞矿石
     S:oredict.oreLimestoneMeteoricIron.name=石灰岩陨铁矿石
+    S:oredict.oreLimestoneMeteorite.name=Limestone Meteorite Ore
     S:oredict.oreLimestoneMeutoite.name=石灰岩龙之魂石矿石
     S:oredict.oreLimestoneMica.name=石灰岩云母矿石
     S:oredict.oreLimestoneMidasium.name=石灰岩溶火金矿石
@@ -35681,6 +35894,7 @@ languagefile {
     S:oredict.oreMarbleForcicium.name=大理石力场矿石
     S:oredict.oreMarbleForcillium.name=大理石力场矿石
     S:oredict.oreMarbleFrancium.name=大理石钫矿石
+    S:oredict.oreMarbleFrozenIron.name=Marble Frozen Iron Ore
     S:oredict.oreMarbleFullersEarth.name=大理石漂白土矿石
     S:oredict.oreMarbleGadolinium.name=大理石钆矿石
     S:oredict.oreMarbleGalena.name=大理石方铅矿石
@@ -35731,6 +35945,7 @@ languagefile {
     S:oredict.oreMarbleKalendrite.name=大理石幽冥魂石矿石
     S:oredict.oreMarbleKaolinite.name=大理石高岭石矿石
     S:oredict.oreMarbleKesterite.name=大理石锌黄锡矿石
+    S:oredict.oreMarbleKreknorite.name=Marble Kreknorite Ore
     S:oredict.oreMarbleKyanite.name=大理石蓝晶石矿石
     S:oredict.oreMarbleLantanium.name=大理石镧矿石
     S:oredict.oreMarbleLapis.name=大理石青金石矿石
@@ -35760,6 +35975,7 @@ languagefile {
     S:oredict.oreMarbleMendelevium.name=大理石钔矿石
     S:oredict.oreMarbleMercury.name=大理石汞矿石
     S:oredict.oreMarbleMeteoricIron.name=大理石陨铁矿石
+    S:oredict.oreMarbleMeteorite.name=Marble Meteorite Ore
     S:oredict.oreMarbleMeutoite.name=大理石龙之魂石矿石
     S:oredict.oreMarbleMica.name=大理石云母矿石
     S:oredict.oreMarbleMidasium.name=大理石溶火金矿石
@@ -36429,6 +36645,7 @@ languagefile {
     S:oredict.oreMendelevium.name=钔矿石
     S:oredict.oreMercury.name=汞矿石
     S:oredict.oreMeteoricIron.name=陨铁矿石
+    S:oredict.oreMeteorite.name=Meteorite Ore
     S:oredict.oreMeutoite.name=龙之魂石矿石
     S:oredict.oreMica.name=云母矿石
     S:oredict.oreMidasium.name=溶火金矿石
@@ -37190,6 +37407,7 @@ languagefile {
     S:oredict.oreMudForcicium.name=Mud Forcicium Ore
     S:oredict.oreMudForcillium.name=Mud Forcillium Ore
     S:oredict.oreMudFrancium.name=Mud Francium Ore
+    S:oredict.oreMudFrozenIron.name=Mud Frozen Iron Ore
     S:oredict.oreMudFullersEarth.name=Mud Fullers Earth
     S:oredict.oreMudGadolinium.name=Mud Gadolinium Ore
     S:oredict.oreMudGalena.name=Mud Galena Ore
@@ -37239,6 +37457,7 @@ languagefile {
     S:oredict.oreMudKalendrite.name=Mud Kalendrite Ore
     S:oredict.oreMudKaolinite.name=Mud Kaolinite
     S:oredict.oreMudKesterite.name=Mud Kesterite Ore
+    S:oredict.oreMudKreknorite.name=Mud Kreknorite Ore
     S:oredict.oreMudKyanite.name=Mud Kyanite Ore
     S:oredict.oreMudLantanium.name=Mud Lantanium Ore
     S:oredict.oreMudLapis.name=Mud Lapis Ore
@@ -37268,6 +37487,7 @@ languagefile {
     S:oredict.oreMudMendelevium.name=Mud Mendelevium Ore
     S:oredict.oreMudMercury.name=Mud Mercury Ore
     S:oredict.oreMudMeteoricIron.name=Mud Meteoric Iron Ore
+    S:oredict.oreMudMeteorite.name=Mud Meteorite Ore
     S:oredict.oreMudMeutoite.name=Mud Meutoite Ore
     S:oredict.oreMudMica.name=Mud Mica Ore
     S:oredict.oreMudMidasium.name=Mud Midasium Ore
@@ -37701,6 +37921,7 @@ languagefile {
     S:oredict.oreNetherrackForcicium.name=下界力场矿石
     S:oredict.oreNetherrackForcillium.name=下界力场矿石
     S:oredict.oreNetherrackFrancium.name=下界钫矿石
+    S:oredict.oreNetherrackFrozenIron.name=Nether Frozen Iron Ore
     S:oredict.oreNetherrackFullersEarth.name=下界漂白土矿石
     S:oredict.oreNetherrackGadolinium.name=下界钆矿石
     S:oredict.oreNetherrackGalena.name=下界方铅矿矿石
@@ -37751,6 +37972,7 @@ languagefile {
     S:oredict.oreNetherrackKalendrite.name=下界幽冥魂石矿石
     S:oredict.oreNetherrackKaolinite.name=下界高岭石矿石
     S:oredict.oreNetherrackKesterite.name=下界锌黄锡矿矿石
+    S:oredict.oreNetherrackKreknorite.name=Nether Kreknorite Ore
     S:oredict.oreNetherrackKyanite.name=下界蓝晶石矿石
     S:oredict.oreNetherrackLantanium.name=下界镧矿石
     S:oredict.oreNetherrackLapis.name=下界青金石矿石
@@ -37780,6 +38002,7 @@ languagefile {
     S:oredict.oreNetherrackMendelevium.name=下界钔矿石
     S:oredict.oreNetherrackMercury.name=下界汞矿石
     S:oredict.oreNetherrackMeteoricIron.name=下界陨铁矿石
+    S:oredict.oreNetherrackMeteorite.name=Nether Meteorite Ore
     S:oredict.oreNetherrackMeutoite.name=下界龙之魂石矿石
     S:oredict.oreNetherrackMica.name=下界云母矿石
     S:oredict.oreNetherrackMidasium.name=下界溶火金矿石
@@ -38265,6 +38488,7 @@ languagefile {
     S:oredict.oreRedSandForcicium.name=力场红矿沙
     S:oredict.oreRedSandForcillium.name=力场红矿沙
     S:oredict.oreRedSandFrancium.name=钫红矿沙
+    S:oredict.oreRedSandFrozenIron.name=Sand Frozen Iron Ore
     S:oredict.oreRedSandFullersEarth.name=漂白土红矿沙
     S:oredict.oreRedSandGadolinium.name=钆红矿沙
     S:oredict.oreRedSandGalena.name=方铅红矿沙
@@ -38314,6 +38538,7 @@ languagefile {
     S:oredict.oreRedSandKalendrite.name=幽冥魂石红矿沙
     S:oredict.oreRedSandKaolinite.name=高岭石红矿沙
     S:oredict.oreRedSandKesterite.name=锌黄锡红矿沙
+    S:oredict.oreRedSandKreknorite.name=Sand Kreknorite Ore
     S:oredict.oreRedSandKyanite.name=蓝晶石红矿沙
     S:oredict.oreRedSandLantanium.name=镧红矿沙
     S:oredict.oreRedSandLapis.name=青金石红矿沙
@@ -38343,6 +38568,7 @@ languagefile {
     S:oredict.oreRedSandMendelevium.name=钔红矿沙
     S:oredict.oreRedSandMercury.name=汞红矿沙
     S:oredict.oreRedSandMeteoricIron.name=陨铁红矿沙
+    S:oredict.oreRedSandMeteorite.name=Sand Meteorite Ore
     S:oredict.oreRedSandMeutoite.name=龙之魂石红矿沙
     S:oredict.oreRedSandMica.name=云母红矿沙
     S:oredict.oreRedSandMidasium.name=溶火金红矿沙
@@ -38775,6 +39001,7 @@ languagefile {
     S:oredict.oreRedgraniteForcicium.name=红色花岗岩力场矿石
     S:oredict.oreRedgraniteForcillium.name=红色花岗岩力场矿石
     S:oredict.oreRedgraniteFrancium.name=红色花岗岩钫矿石
+    S:oredict.oreRedgraniteFrozenIron.name=Granite Frozen Iron Ore
     S:oredict.oreRedgraniteFullersEarth.name=红色花岗岩漂白土矿石
     S:oredict.oreRedgraniteGadolinium.name=红色花岗岩钆矿石
     S:oredict.oreRedgraniteGalena.name=红色花岗岩方铅矿矿石
@@ -38825,6 +39052,7 @@ languagefile {
     S:oredict.oreRedgraniteKalendrite.name=红色花岗岩幽冥魂石矿石
     S:oredict.oreRedgraniteKaolinite.name=红色花岗岩高岭石矿石
     S:oredict.oreRedgraniteKesterite.name=红色花岗岩锌黄锡矿矿石
+    S:oredict.oreRedgraniteKreknorite.name=Granite Kreknorite Ore
     S:oredict.oreRedgraniteKyanite.name=红色花岗岩蓝晶石矿石
     S:oredict.oreRedgraniteLantanium.name=红色花岗岩镧矿石
     S:oredict.oreRedgraniteLapis.name=红色花岗岩青金石矿石
@@ -38854,6 +39082,7 @@ languagefile {
     S:oredict.oreRedgraniteMendelevium.name=红色花岗岩钔矿石
     S:oredict.oreRedgraniteMercury.name=红色花岗岩汞矿石
     S:oredict.oreRedgraniteMeteoricIron.name=红色花岗岩陨铁矿石
+    S:oredict.oreRedgraniteMeteorite.name=Granite Meteorite Ore
     S:oredict.oreRedgraniteMeutoite.name=红色花岗岩龙之魂石矿石
     S:oredict.oreRedgraniteMica.name=红色花岗岩云母矿石
     S:oredict.oreRedgraniteMidasium.name=红色花岗岩溶火金矿石
@@ -39301,6 +39530,7 @@ languagefile {
     S:oredict.oreSandForcicium.name=力场矿沙
     S:oredict.oreSandForcillium.name=力场矿沙
     S:oredict.oreSandFrancium.name=钫矿沙
+    S:oredict.oreSandFrozenIron.name=Sand Frozen Iron Ore
     S:oredict.oreSandFullersEarth.name=漂白土矿石
     S:oredict.oreSandGadolinium.name=钆矿沙
     S:oredict.oreSandGalena.name=方铅矿沙
@@ -39350,6 +39580,7 @@ languagefile {
     S:oredict.oreSandKalendrite.name=幽冥魂石矿沙
     S:oredict.oreSandKaolinite.name=高岭石矿石
     S:oredict.oreSandKesterite.name= 锌黄锡矿沙
+    S:oredict.oreSandKreknorite.name=Sand Kreknorite Ore
     S:oredict.oreSandKyanite.name=蓝晶石矿沙
     S:oredict.oreSandLantanium.name=镧矿沙
     S:oredict.oreSandLapis.name=青金石矿沙
@@ -39379,6 +39610,7 @@ languagefile {
     S:oredict.oreSandMendelevium.name=钔矿沙
     S:oredict.oreSandMercury.name=汞矿沙
     S:oredict.oreSandMeteoricIron.name=陨铁矿沙
+    S:oredict.oreSandMeteorite.name=Sand Meteorite Ore
     S:oredict.oreSandMeutoite.name=龙之魂石矿沙
     S:oredict.oreSandMica.name=云母矿沙
     S:oredict.oreSandMidasium.name=溶火金矿沙
@@ -39811,6 +40043,7 @@ languagefile {
     S:oredict.oreSandstoneForcicium.name=沙石力场矿石
     S:oredict.oreSandstoneForcillium.name=沙石力场矿石
     S:oredict.oreSandstoneFrancium.name=沙石钫矿石
+    S:oredict.oreSandstoneFrozenIron.name=Sandstone Frozen Iron Ore
     S:oredict.oreSandstoneFullersEarth.name=沙石漂白土矿石
     S:oredict.oreSandstoneGadolinium.name=沙石钆矿石
     S:oredict.oreSandstoneGalena.name=沙石方铅矿石
@@ -39860,6 +40093,7 @@ languagefile {
     S:oredict.oreSandstoneKalendrite.name=沙石幽冥魂石矿石
     S:oredict.oreSandstoneKaolinite.name=沙石高岭石矿石
     S:oredict.oreSandstoneKesterite.name=沙石锌黄锡矿石
+    S:oredict.oreSandstoneKreknorite.name=Sandstone Kreknorite Ore
     S:oredict.oreSandstoneKyanite.name=沙石蓝晶石矿石
     S:oredict.oreSandstoneLantanium.name=沙石镧矿石
     S:oredict.oreSandstoneLapis.name=沙石青金石矿石
@@ -39889,6 +40123,7 @@ languagefile {
     S:oredict.oreSandstoneMendelevium.name=沙石钔矿石
     S:oredict.oreSandstoneMercury.name=沙石汞矿石
     S:oredict.oreSandstoneMeteoricIron.name=沙石陨铁矿石
+    S:oredict.oreSandstoneMeteorite.name=Sandstone Meteorite Ore
     S:oredict.oreSandstoneMeutoite.name=沙石龙之魂石矿石
     S:oredict.oreSandstoneMica.name=沙石云母矿石
     S:oredict.oreSandstoneMidasium.name=沙石溶火金矿石
@@ -40333,6 +40568,7 @@ languagefile {
     S:oredict.oreSmallForcicium.name=贫瘠力场矿石
     S:oredict.oreSmallForcillium.name=贫瘠力场矿石
     S:oredict.oreSmallFrancium.name=贫瘠钫矿石
+    S:oredict.oreSmallFrozenIron.name=Small Frozen Iron Ore
     S:oredict.oreSmallFullersEarth.name=贫瘠漂白土矿石
     S:oredict.oreSmallGadolinium.name=贫瘠钆矿石
     S:oredict.oreSmallGalena.name=贫瘠方铅矿矿石
@@ -40382,6 +40618,7 @@ languagefile {
     S:oredict.oreSmallKalendrite.name=贫瘠幽冥魂石矿石
     S:oredict.oreSmallKaolinite.name=贫瘠高岭石矿石
     S:oredict.oreSmallKesterite.name=贫瘠锌黄锡矿矿石
+    S:oredict.oreSmallKreknorite.name=Small Kreknorite Ore
     S:oredict.oreSmallKyanite.name=贫瘠蓝晶石矿石
     S:oredict.oreSmallLantanium.name=贫瘠镧矿石
     S:oredict.oreSmallLapis.name=贫瘠青金石矿石
@@ -40411,6 +40648,7 @@ languagefile {
     S:oredict.oreSmallMendelevium.name=贫瘠钔矿石
     S:oredict.oreSmallMercury.name=贫瘠汞矿石
     S:oredict.oreSmallMeteoricIron.name=贫瘠陨铁矿石
+    S:oredict.oreSmallMeteorite.name=Small Meteorite Ore
     S:oredict.oreSmallMeutoite.name=贫瘠龙之魂石矿石
     S:oredict.oreSmallMica.name=贫瘠云母矿石
     S:oredict.oreSmallMidasium.name=贫瘠溶火金矿石
@@ -41979,6 +42217,8 @@ languagefile {
     S:oredict.plantGtBerryForcillium.name=力场梅
     S:oredict.plantGtBerryFrancium.name=钫梅
     S:oredict.plantGtBerryFreshWater.name=淡水梅
+    S:oredict.plantGtBerryFrezarite.name=Frezarite Berry
+    S:oredict.plantGtBerryFrozenIron.name=Frozen Iron Berry
     S:oredict.plantGtBerryFryingOilHot.name=热炸油梅
     S:oredict.plantGtBerryFuel.name=柴油梅
     S:oredict.plantGtBerryFullersEarth.name=漂白土梅
@@ -42081,6 +42321,7 @@ languagefile {
     S:oredict.plantGtBerryKesterite.name=锌黄锡矿梅
     S:oredict.plantGtBerryKnightmetal.name=骑士金属梅
     S:oredict.plantGtBerryKomatiite.name=科马提岩梅
+    S:oredict.plantGtBerryKreknorite.name=Kreknorite Berry
     S:oredict.plantGtBerryKyanite.name=蓝晶石梅
     S:oredict.plantGtBerryLantanium.name=镧梅
     S:oredict.plantGtBerryLapis.name=青金石梅
@@ -42136,6 +42377,7 @@ languagefile {
     S:oredict.plantGtBerryMercury.name=汞梅
     S:oredict.plantGtBerryMeteoricIron.name=陨铁梅
     S:oredict.plantGtBerryMeteoricSteel.name=陨钢梅
+    S:oredict.plantGtBerryMeteorite.name=Meteorite Berry
     S:oredict.plantGtBerryMethane.name=甲烷梅
     S:oredict.plantGtBerryMethaneIce.name=甲烷冰梅
     S:oredict.plantGtBerryMeutoite.name=龙之魂石梅
@@ -42265,6 +42507,7 @@ languagefile {
     S:oredict.plantGtBerryRed.name=红色梅
     S:oredict.plantGtBerryRedAlloy.name=红色合金梅
     S:oredict.plantGtBerryRedMatter.name=红物质梅
+    S:oredict.plantGtBerryRedMeteor.name=Red Meteor Berry
     S:oredict.plantGtBerryRedSteel.name=红钢梅
     S:oredict.plantGtBerryRedVitriol.name=硫酸钴梅
     S:oredict.plantGtBerryRedrock.name=红岩梅
@@ -42840,6 +43083,8 @@ languagefile {
     S:oredict.plantGtBlossomForcillium.name=力场花
     S:oredict.plantGtBlossomFrancium.name=钫花
     S:oredict.plantGtBlossomFreshWater.name=淡水花
+    S:oredict.plantGtBlossomFrezarite.name=Frezarite Blossom
+    S:oredict.plantGtBlossomFrozenIron.name=Frozen Iron Blossom
     S:oredict.plantGtBlossomFryingOilHot.name=热炸油花
     S:oredict.plantGtBlossomFuel.name=柴油花
     S:oredict.plantGtBlossomFullersEarth.name=漂白土花
@@ -42942,6 +43187,7 @@ languagefile {
     S:oredict.plantGtBlossomKesterite.name=锌黄锡矿花
     S:oredict.plantGtBlossomKnightmetal.name=骑士金属花
     S:oredict.plantGtBlossomKomatiite.name=科马提岩花
+    S:oredict.plantGtBlossomKreknorite.name=Kreknorite Blossom
     S:oredict.plantGtBlossomKyanite.name=蓝晶石花
     S:oredict.plantGtBlossomLantanium.name=镧花
     S:oredict.plantGtBlossomLapis.name=青金石花
@@ -42996,6 +43242,7 @@ languagefile {
     S:oredict.plantGtBlossomMercury.name=汞花
     S:oredict.plantGtBlossomMeteoricIron.name=陨铁花
     S:oredict.plantGtBlossomMeteoricSteel.name=陨钢花
+    S:oredict.plantGtBlossomMeteorite.name=Meteorite Blossom
     S:oredict.plantGtBlossomMethane.name=甲烷花
     S:oredict.plantGtBlossomMethaneIce.name=甲烷冰花
     S:oredict.plantGtBlossomMeutoite.name=龙之魂石花
@@ -43125,6 +43372,7 @@ languagefile {
     S:oredict.plantGtBlossomRed.name=红色花
     S:oredict.plantGtBlossomRedAlloy.name=红色合金花
     S:oredict.plantGtBlossomRedMatter.name=红物质花
+    S:oredict.plantGtBlossomRedMeteor.name=Red Meteor Blossom
     S:oredict.plantGtBlossomRedSteel.name=红钢花
     S:oredict.plantGtBlossomRedVitriol.name=硫酸钴花
     S:oredict.plantGtBlossomRedrock.name=红岩花
@@ -43700,6 +43948,8 @@ languagefile {
     S:oredict.plantGtFiberForcillium.name=粗糙的力场纤维
     S:oredict.plantGtFiberFrancium.name=粗糙的钫纤维
     S:oredict.plantGtFiberFreshWater.name=粗糙的淡水纤维
+    S:oredict.plantGtFiberFrezarite.name=Raw Frezarite Fiber
+    S:oredict.plantGtFiberFrozenIron.name=Raw Frozen Iron Fiber
     S:oredict.plantGtFiberFryingOilHot.name=粗糙的热炸油纤维
     S:oredict.plantGtFiberFuel.name=粗糙的柴油纤维
     S:oredict.plantGtFiberFullersEarth.name=粗糙的漂白土纤维
@@ -43802,6 +44052,7 @@ languagefile {
     S:oredict.plantGtFiberKesterite.name=粗糙的锌黄锡矿纤维
     S:oredict.plantGtFiberKnightmetal.name=粗糙的骑士金属纤维
     S:oredict.plantGtFiberKomatiite.name=粗糙的科马提岩纤维
+    S:oredict.plantGtFiberKreknorite.name=Raw Kreknorite Fiber
     S:oredict.plantGtFiberKyanite.name=粗糙的蓝晶石纤维
     S:oredict.plantGtFiberLantanium.name=粗糙的镧纤维
     S:oredict.plantGtFiberLapis.name=粗糙的青金石纤维
@@ -43856,6 +44107,7 @@ languagefile {
     S:oredict.plantGtFiberMercury.name=粗糙的汞纤维
     S:oredict.plantGtFiberMeteoricIron.name=粗糙的陨铁纤维
     S:oredict.plantGtFiberMeteoricSteel.name=粗糙的陨钢纤维
+    S:oredict.plantGtFiberMeteorite.name=Raw Meteorite Fiber
     S:oredict.plantGtFiberMethane.name=粗糙的甲烷纤维
     S:oredict.plantGtFiberMethaneIce.name=粗糙的甲烷冰纤维
     S:oredict.plantGtFiberMeutoite.name=粗糙的龙之魂石纤维
@@ -43985,6 +44237,7 @@ languagefile {
     S:oredict.plantGtFiberRed.name=红色纤维
     S:oredict.plantGtFiberRedAlloy.name=粗糙的红色合金纤维
     S:oredict.plantGtFiberRedMatter.name=粗糙的红物质纤维
+    S:oredict.plantGtFiberRedMeteor.name=Raw Red Meteor Fiber
     S:oredict.plantGtFiberRedSteel.name=粗糙的红钢纤维
     S:oredict.plantGtFiberRedVitriol.name=粗糙的硫酸钴纤维
     S:oredict.plantGtFiberRedrock.name=粗糙的红岩纤维
@@ -44560,6 +44813,8 @@ languagefile {
     S:oredict.plantGtTwigForcillium.name=力场细枝
     S:oredict.plantGtTwigFrancium.name=钫细枝
     S:oredict.plantGtTwigFreshWater.name=淡水细枝
+    S:oredict.plantGtTwigFrezarite.name=Frezarite Twig
+    S:oredict.plantGtTwigFrozenIron.name=Frozen Iron Twig
     S:oredict.plantGtTwigFryingOilHot.name=热炸油细枝
     S:oredict.plantGtTwigFuel.name=柴油细枝
     S:oredict.plantGtTwigFullersEarth.name=漂白土细枝
@@ -44662,6 +44917,7 @@ languagefile {
     S:oredict.plantGtTwigKesterite.name=锌黄锡矿细枝
     S:oredict.plantGtTwigKnightmetal.name=骑士金属细枝
     S:oredict.plantGtTwigKomatiite.name=科马提岩细枝
+    S:oredict.plantGtTwigKreknorite.name=Kreknorite Twig
     S:oredict.plantGtTwigKyanite.name=蓝晶石细枝
     S:oredict.plantGtTwigLantanium.name=镧细枝
     S:oredict.plantGtTwigLapis.name=青金石细枝
@@ -44716,6 +44972,7 @@ languagefile {
     S:oredict.plantGtTwigMercury.name=汞细枝
     S:oredict.plantGtTwigMeteoricIron.name=陨铁细枝
     S:oredict.plantGtTwigMeteoricSteel.name=陨钢细枝
+    S:oredict.plantGtTwigMeteorite.name=Meteorite Twig
     S:oredict.plantGtTwigMethane.name=甲烷细枝
     S:oredict.plantGtTwigMethaneIce.name=甲烷冰细枝
     S:oredict.plantGtTwigMeutoite.name=龙之魂石细枝
@@ -44845,6 +45102,7 @@ languagefile {
     S:oredict.plantGtTwigRed.name=红色细枝
     S:oredict.plantGtTwigRedAlloy.name=红色合金细枝
     S:oredict.plantGtTwigRedMatter.name=红物质细枝
+    S:oredict.plantGtTwigRedMeteor.name=Red Meteor Twig
     S:oredict.plantGtTwigRedSteel.name=红钢细枝
     S:oredict.plantGtTwigRedVitriol.name=硫酸钴细枝
     S:oredict.plantGtTwigRedrock.name=红岩细枝
@@ -45423,6 +45681,8 @@ languagefile {
     S:oredict.plantGtWartForcillium.name=力场疣
     S:oredict.plantGtWartFrancium.name=钫疣
     S:oredict.plantGtWartFreshWater.name=淡水疣
+    S:oredict.plantGtWartFrezarite.name=Frezarite Wart
+    S:oredict.plantGtWartFrozenIron.name=Frozen Iron Wart
     S:oredict.plantGtWartFryingOilHot.name=热炸油疣
     S:oredict.plantGtWartFuel.name=柴油疣
     S:oredict.plantGtWartFullersEarth.name=漂白土疣
@@ -45525,6 +45785,7 @@ languagefile {
     S:oredict.plantGtWartKesterite.name=锌黄锡矿疣
     S:oredict.plantGtWartKnightmetal.name=骑士金属疣
     S:oredict.plantGtWartKomatiite.name=科马提岩疣
+    S:oredict.plantGtWartKreknorite.name=Kreknorite Wart
     S:oredict.plantGtWartKyanite.name=蓝晶石疣
     S:oredict.plantGtWartLantanium.name=镧疣
     S:oredict.plantGtWartLapis.name=青金石疣
@@ -45579,6 +45840,7 @@ languagefile {
     S:oredict.plantGtWartMercury.name=汞疣
     S:oredict.plantGtWartMeteoricIron.name=陨铁疣
     S:oredict.plantGtWartMeteoricSteel.name=陨钢疣
+    S:oredict.plantGtWartMeteorite.name=Meteorite Wart
     S:oredict.plantGtWartMethane.name=甲烷疣
     S:oredict.plantGtWartMethaneIce.name=甲烷冰疣
     S:oredict.plantGtWartMeutoite.name=龙之魂石疣
@@ -45708,6 +45970,7 @@ languagefile {
     S:oredict.plantGtWartRed.name=红色疣
     S:oredict.plantGtWartRedAlloy.name=红色合金疣
     S:oredict.plantGtWartRedMatter.name=红物质疣
+    S:oredict.plantGtWartRedMeteor.name=Red Meteor Wart
     S:oredict.plantGtWartRedSteel.name=红钢疣
     S:oredict.plantGtWartRedVitriol.name=硫酸钴疣
     S:oredict.plantGtWartRedrock.name=红岩疣
@@ -46302,6 +46565,7 @@ languagefile {
     S:oredict.plateCurvedFlerovium298.name=弯曲鈇-298板
     S:oredict.plateCurvedForce.name=弯曲力量板
     S:oredict.plateCurvedFrancium.name=弯曲钫板
+    S:oredict.plateCurvedFrozenIron.name=Curved Frozen Iron Plate
     S:oredict.plateCurvedGabbro.name=弯曲辉长岩板
     S:oredict.plateCurvedGadolinium.name=弯曲钆板
     S:oredict.plateCurvedGallium.name=弯曲镓板
@@ -46348,6 +46612,7 @@ languagefile {
     S:oredict.plateCurvedKanthal.name=弯曲铁铬铝合金板
     S:oredict.plateCurvedKnightmetal.name=弯曲骑士金属板
     S:oredict.plateCurvedKomatiite.name=弯曲科马提岩板
+    S:oredict.plateCurvedKreknorite.name=Curved Kreknorite Plate
     S:oredict.plateCurvedLantanium.name=弯曲镧板
     S:oredict.plateCurvedLawrencium.name=弯曲铹板
     S:oredict.plateCurvedLead.name=弯曲铅板
@@ -46371,6 +46636,7 @@ languagefile {
     S:oredict.plateCurvedMercury.name=弯曲汞板
     S:oredict.plateCurvedMeteoricIron.name=弯曲陨铁板
     S:oredict.plateCurvedMeteoricSteel.name=弯曲陨钢板
+    S:oredict.plateCurvedMeteorite.name=Curved Meteorite Plate
     S:oredict.plateCurvedMeutoite.name=弯曲龙之魂石板
     S:oredict.plateCurvedMidasium.name=弯曲溶火金板
     S:oredict.plateCurvedMigmatite.name=弯曲混合岩板
@@ -46730,6 +46996,7 @@ languagefile {
     S:oredict.plateDenseFlerovium298.name=致密鈇-298板
     S:oredict.plateDenseForce.name=致密力量板
     S:oredict.plateDenseFrancium.name=致密钫板
+    S:oredict.plateDenseFrozenIron.name=Dense Frozen Iron Plate
     S:oredict.plateDenseGadolinium.name=致密钆板
     S:oredict.plateDenseGallium.name=致密镓板
     S:oredict.plateDenseGermanium.name=致密锗板
@@ -46758,6 +47025,7 @@ languagefile {
     S:oredict.plateDenseKalendrite.name=致密幽冥魂石板
     S:oredict.plateDenseKanthal.name=致密铁铬铝合金板
     S:oredict.plateDenseKnightmetal.name=致密骑士金属板
+    S:oredict.plateDenseKreknorite.name=Dense Kreknorite Plate
     S:oredict.plateDenseLantanium.name=致密镧板
     S:oredict.plateDenseLapis.name=致密青金石板
     S:oredict.plateDenseLawrencium.name=致密铹板
@@ -46778,6 +47046,7 @@ languagefile {
     S:oredict.plateDenseMercury.name=致密汞板
     S:oredict.plateDenseMeteoricIron.name=致密陨铁板
     S:oredict.plateDenseMeteoricSteel.name=致密陨钢板
+    S:oredict.plateDenseMeteorite.name=Dense Meteorite Plate
     S:oredict.plateDenseMeutoite.name=致密龙之魂石板
     S:oredict.plateDenseMidasium.name=致密溶火金板
     S:oredict.plateDenseMithril.name=致密秘银板
@@ -47111,6 +47380,7 @@ languagefile {
     S:oredict.plateDoubleFlerovium298.name=两重鈇-298板
     S:oredict.plateDoubleForce.name=两重力量板
     S:oredict.plateDoubleFrancium.name=两重钫板
+    S:oredict.plateDoubleFrozenIron.name=Double Frozen Iron Plate
     S:oredict.plateDoubleGadolinium.name=两重钆板
     S:oredict.plateDoubleGallium.name=两重镓板
     S:oredict.plateDoubleGermanium.name=两重锗板
@@ -47139,6 +47409,7 @@ languagefile {
     S:oredict.plateDoubleKalendrite.name=两重幽冥魂石板
     S:oredict.plateDoubleKanthal.name=两重铁铬铝合金板
     S:oredict.plateDoubleKnightmetal.name=两重骑士金属板
+    S:oredict.plateDoubleKreknorite.name=Double Kreknorite Plate
     S:oredict.plateDoubleLantanium.name=两重镧板
     S:oredict.plateDoubleLawrencium.name=两重铹板
     S:oredict.plateDoubleLead.name=两重铅板
@@ -47157,6 +47428,7 @@ languagefile {
     S:oredict.plateDoubleMercury.name=两重汞板
     S:oredict.plateDoubleMeteoricIron.name=两重陨铁板
     S:oredict.plateDoubleMeteoricSteel.name=两重陨钢板
+    S:oredict.plateDoubleMeteorite.name=Double Meteorite Plate
     S:oredict.plateDoubleMeutoite.name=两重龙之魂石板
     S:oredict.plateDoubleMidasium.name=两重溶火金板
     S:oredict.plateDoubleMithril.name=两重秘银板
@@ -47312,6 +47584,7 @@ languagefile {
     S:oredict.plateFlerovium298.name=鈇-298板
     S:oredict.plateForce.name=力量板
     S:oredict.plateFrancium.name=钫板
+    S:oredict.plateFrozenIron.name=Frozen Iron Plate
     S:oredict.plateGabbro.name=辉长岩板
     S:oredict.plateGadolinium.name=钆板
     S:oredict.plateGallium.name=镓板
@@ -47353,6 +47626,7 @@ languagefile {
     S:oredict.plateGemForce.name=力量板
     S:oredict.plateGemForcicium.name=力场板
     S:oredict.plateGemForcillium.name=力场板
+    S:oredict.plateGemFrezarite.name=Crystalline Frezarite Plate
     S:oredict.plateGemGlass.name=玻璃板
     S:oredict.plateGemGoshenite.name=Crystalline Goshenite Plate
     S:oredict.plateGemGreenSapphire.name=结晶绿色蓝宝石板
@@ -47392,6 +47666,7 @@ languagefile {
     S:oredict.plateGemQuartzBlack.name=黑色石英岩板
     S:oredict.plateGemQuartzite.name=石英岩板
     S:oredict.plateGemRedMatter.name=Crystalline Red Matter Plate
+    S:oredict.plateGemRedMeteor.name=Crystalline Red Meteor Plate
     S:oredict.plateGemRedstoneAlloy.name=结晶红硅(红石合金)板
     S:oredict.plateGemRedstonia.name=Crystalline Redstonia Pane
     S:oredict.plateGemRuby.name=结晶红宝石板
@@ -47439,6 +47714,7 @@ languagefile {
     S:oredict.plateGemTinyForce.name=小块力量板
     S:oredict.plateGemTinyForcicium.name=小块力场板
     S:oredict.plateGemTinyForcillium.name=小块力场板
+    S:oredict.plateGemTinyFrezarite.name=Tiny Crystalline Frezarite Plate
     S:oredict.plateGemTinyGlass.name=小块玻璃板
     S:oredict.plateGemTinyGoshenite.name=Tiny Crystalline Goshenite Plate
     S:oredict.plateGemTinyGreenSapphire.name=小块结晶绿色蓝宝石板
@@ -47478,6 +47754,7 @@ languagefile {
     S:oredict.plateGemTinyQuartzBlack.name=小块黑色石英岩板
     S:oredict.plateGemTinyQuartzite.name=小块石英岩板
     S:oredict.plateGemTinyRedMatter.name=Tiny Crystalline Red Matter Plate
+    S:oredict.plateGemTinyRedMeteor.name=Tiny Crystalline Red Meteor Plate
     S:oredict.plateGemTinyRedstoneAlloy.name=小块结晶红硅(红石合金)板
     S:oredict.plateGemTinyRedstonia.name=Tiny Crystalline Redstonia Pane
     S:oredict.plateGemTinyRuby.name=小块结晶红宝石板
@@ -47549,6 +47826,7 @@ languagefile {
     S:oredict.plateKanthal.name=铁铬铝合金板
     S:oredict.plateKnightmetal.name=骑士金属板
     S:oredict.plateKomatiite.name=科马提岩板
+    S:oredict.plateKreknorite.name=Kreknorite Plate
     S:oredict.plateLantanium.name=镧板
     S:oredict.plateLawrencium.name=铹板
     S:oredict.plateLead.name=铅板
@@ -47572,6 +47850,7 @@ languagefile {
     S:oredict.plateMercury.name=汞板
     S:oredict.plateMeteoricIron.name=陨铁板
     S:oredict.plateMeteoricSteel.name=陨钢板
+    S:oredict.plateMeteorite.name=Meteorite Plate
     S:oredict.plateMeutoite.name=龙之魂石板
     S:oredict.plateMidasium.name=溶火金板
     S:oredict.plateMigmatite.name=混合岩板
@@ -47826,6 +48105,7 @@ languagefile {
     S:oredict.plateQuadrupleFlerovium298.name=四重鈇-298板
     S:oredict.plateQuadrupleForce.name=四重力量板
     S:oredict.plateQuadrupleFrancium.name=四重钫板
+    S:oredict.plateQuadrupleFrozenIron.name=Quadruple Frozen Iron Plate
     S:oredict.plateQuadrupleGadolinium.name=四重钆板
     S:oredict.plateQuadrupleGallium.name=四重镓板
     S:oredict.plateQuadrupleGermanium.name=四重锗板
@@ -47854,6 +48134,7 @@ languagefile {
     S:oredict.plateQuadrupleKalendrite.name=四重幽冥魂石板
     S:oredict.plateQuadrupleKanthal.name=四重铁铬铝合金板
     S:oredict.plateQuadrupleKnightmetal.name=四重骑士金属板
+    S:oredict.plateQuadrupleKreknorite.name=Quadruple Kreknorite Plate
     S:oredict.plateQuadrupleLantanium.name=四重镧板
     S:oredict.plateQuadrupleLawrencium.name=四重铹板
     S:oredict.plateQuadrupleLead.name=四重铅板
@@ -47872,6 +48153,7 @@ languagefile {
     S:oredict.plateQuadrupleMercury.name=四重汞板
     S:oredict.plateQuadrupleMeteoricIron.name=四重陨铁板
     S:oredict.plateQuadrupleMeteoricSteel.name=四重陨钢板
+    S:oredict.plateQuadrupleMeteorite.name=Quadruple Meteorite Plate
     S:oredict.plateQuadrupleMeutoite.name=四重龙之魂石板
     S:oredict.plateQuadrupleMidasium.name=四重溶火金板
     S:oredict.plateQuadrupleMithril.name=四重秘银板
@@ -48200,6 +48482,7 @@ languagefile {
     S:oredict.plateQuintupleFlerovium298.name=五重鈇-298板
     S:oredict.plateQuintupleForce.name=五重力量板
     S:oredict.plateQuintupleFrancium.name=五重钫板
+    S:oredict.plateQuintupleFrozenIron.name=Quintuple Frozen Iron Plate
     S:oredict.plateQuintupleGadolinium.name=五重钆板
     S:oredict.plateQuintupleGallium.name=五重镓板
     S:oredict.plateQuintupleGermanium.name=五重锗板
@@ -48228,6 +48511,7 @@ languagefile {
     S:oredict.plateQuintupleKalendrite.name=五重幽冥魂石板
     S:oredict.plateQuintupleKanthal.name=五重铁铬铝合金板
     S:oredict.plateQuintupleKnightmetal.name=五重骑士金属板
+    S:oredict.plateQuintupleKreknorite.name=Quintuple Kreknorite Plate
     S:oredict.plateQuintupleLantanium.name=五重镧板
     S:oredict.plateQuintupleLawrencium.name=五重铹板
     S:oredict.plateQuintupleLead.name=五重铅板
@@ -48246,6 +48530,7 @@ languagefile {
     S:oredict.plateQuintupleMercury.name=五重汞板
     S:oredict.plateQuintupleMeteoricIron.name=五重陨铁板
     S:oredict.plateQuintupleMeteoricSteel.name=五重陨钢板
+    S:oredict.plateQuintupleMeteorite.name=Quintuple Meteorite Plate
     S:oredict.plateQuintupleMeutoite.name=五重龙之魂石板
     S:oredict.plateQuintupleMidasium.name=五重溶火金板
     S:oredict.plateQuintupleMithril.name=五重秘银板
@@ -48641,6 +48926,7 @@ languagefile {
     S:oredict.plateTinyFlerovium298.name=小块鈇-298板
     S:oredict.plateTinyForce.name=小块力量板
     S:oredict.plateTinyFrancium.name=小块钫板
+    S:oredict.plateTinyFrozenIron.name=Tiny Frozen Iron Plate
     S:oredict.plateTinyGabbro.name=小块辉长岩板
     S:oredict.plateTinyGadolinium.name=小块钆板
     S:oredict.plateTinyGallium.name=小块镓板
@@ -48687,6 +48973,7 @@ languagefile {
     S:oredict.plateTinyKanthal.name=小块铁铬铝合金板
     S:oredict.plateTinyKnightmetal.name=小块骑士金属板
     S:oredict.plateTinyKomatiite.name=小块科马提岩板
+    S:oredict.plateTinyKreknorite.name=Tiny Kreknorite Plate
     S:oredict.plateTinyLantanium.name=小块镧板
     S:oredict.plateTinyLawrencium.name=小块铹板
     S:oredict.plateTinyLead.name=小块铅板
@@ -48710,6 +48997,7 @@ languagefile {
     S:oredict.plateTinyMercury.name=小块汞板
     S:oredict.plateTinyMeteoricIron.name=小块陨铁板
     S:oredict.plateTinyMeteoricSteel.name=小块陨钢板
+    S:oredict.plateTinyMeteorite.name=Tiny Meteorite Plate
     S:oredict.plateTinyMeutoite.name=小块龙之魂石板
     S:oredict.plateTinyMidasium.name=小块溶火金板
     S:oredict.plateTinyMigmatite.name=小块混合岩板
@@ -49068,6 +49356,7 @@ languagefile {
     S:oredict.plateTripleFlerovium298.name=三重鈇-298板
     S:oredict.plateTripleForce.name=三重力量板
     S:oredict.plateTripleFrancium.name=三重钫板
+    S:oredict.plateTripleFrozenIron.name=Triple Frozen Iron Plate
     S:oredict.plateTripleGadolinium.name=三重钆板
     S:oredict.plateTripleGallium.name=三重镓板
     S:oredict.plateTripleGermanium.name=三重锗板
@@ -49096,6 +49385,7 @@ languagefile {
     S:oredict.plateTripleKalendrite.name=三重幽冥魂石板
     S:oredict.plateTripleKanthal.name=三重铁铬铝合金板
     S:oredict.plateTripleKnightmetal.name=三重骑士金属板
+    S:oredict.plateTripleKreknorite.name=Triple Kreknorite Plate
     S:oredict.plateTripleLantanium.name=三重镧板
     S:oredict.plateTripleLawrencium.name=三重铹板
     S:oredict.plateTripleLead.name=三重铅板
@@ -49114,6 +49404,7 @@ languagefile {
     S:oredict.plateTripleMercury.name=三重汞板
     S:oredict.plateTripleMeteoricIron.name=三重陨铁板
     S:oredict.plateTripleMeteoricSteel.name=三重陨钢板
+    S:oredict.plateTripleMeteorite.name=Triple Meteorite Plate
     S:oredict.plateTripleMeutoite.name=三重龙之魂石板
     S:oredict.plateTripleMidasium.name=三重溶火金板
     S:oredict.plateTripleMithril.name=三重秘银板
@@ -49293,6 +49584,7 @@ languagefile {
     S:oredict.railGtIron.name=铁导轨
     S:oredict.railGtMeteoricIron.name=Meteoric Iron Rail
     S:oredict.railGtMeteoricSteel.name=陨钢 Rail
+    S:oredict.railGtMeteorite.name=Meteorite Rail
     S:oredict.railGtPlatinum.name=铂导轨
     S:oredict.railGtSilver.name=银导轨
     S:oredict.railGtStainlessSteel.name=不锈钢导轨
@@ -49409,6 +49701,8 @@ languagefile {
     S:oredict.ringFlint.name=燧石环
     S:oredict.ringFoolsRuby.name=红宝石环
     S:oredict.ringForce.name=力量环
+    S:oredict.ringFrezarite.name=Frezarite Ring
+    S:oredict.ringFrozenIron.name=Frozen Iron Ring
     S:oredict.ringGabbro.name=辉长岩环
     S:oredict.ringGermanium.name=锗 Ring
     S:oredict.ringGildedIron.name=镀金铁环
@@ -49453,6 +49747,7 @@ languagefile {
     S:oredict.ringKanthal.name=铁铬铝合金环
     S:oredict.ringKnightmetal.name=骑士金属环
     S:oredict.ringKomatiite.name=科马提岩环
+    S:oredict.ringKreknorite.name=Kreknorite Ring
     S:oredict.ringLead.name=铅环
     S:oredict.ringLimestone.name=石灰石环
     S:oredict.ringLumium.name=流明环
@@ -49467,6 +49762,7 @@ languagefile {
     S:oredict.ringMaxixe.name=Maxixe Ring
     S:oredict.ringMeteoricIron.name=陨铁环
     S:oredict.ringMeteoricSteel.name=陨钢环
+    S:oredict.ringMeteorite.name=Meteorite Ring
     S:oredict.ringMidasium.name=溶火金环
     S:oredict.ringMigmatite.name=混合岩环
     S:oredict.ringMithril.name=秘银环
@@ -49511,6 +49807,7 @@ languagefile {
     S:oredict.ringQuartzBlack.name=黑色石英岩环
     S:oredict.ringQuartzite.name=石英岩环
     S:oredict.ringRedMatter.name=红物质环
+    S:oredict.ringRedMeteor.name=Red Meteor Ring
     S:oredict.ringRedSteel.name=红钢环
     S:oredict.ringRedrock.name=红岩环
     S:oredict.ringRedstonia.name=Redstonia Ring
@@ -49860,6 +50157,7 @@ languagefile {
     S:oredict.rockGtForcicium.name=含力场岩石
     S:oredict.rockGtForcillium.name=含力场岩石
     S:oredict.rockGtFrancium.name=含钫岩石
+    S:oredict.rockGtFrozenIron.name=Frozen Iron bearing Rock
     S:oredict.rockGtFullersEarth.name=含漂白土岩石
     S:oredict.rockGtGabbro.name=含辉长岩岩石
     S:oredict.rockGtGadolinium.name=含钆岩石
@@ -49918,6 +50216,7 @@ languagefile {
     S:oredict.rockGtKaolinite.name=含高岭石岩石
     S:oredict.rockGtKesterite.name=含锌黄锡矿岩石
     S:oredict.rockGtKomatiite.name=含科马提岩岩石
+    S:oredict.rockGtKreknorite.name=Kreknorite bearing Rock
     S:oredict.rockGtKyanite.name=含蓝晶石岩石
     S:oredict.rockGtLantanium.name=含镧岩石
     S:oredict.rockGtLapis.name=含青金石岩石
@@ -49951,6 +50250,7 @@ languagefile {
     S:oredict.rockGtMendelevium.name=含钔岩石
     S:oredict.rockGtMercury.name=含汞岩石
     S:oredict.rockGtMeteoricIron.name=含陨铁岩石
+    S:oredict.rockGtMeteorite.name=Meteorite
     S:oredict.rockGtMeutoite.name=含龙之魂石岩石
     S:oredict.rockGtMica.name=含云母岩石
     S:oredict.rockGtMidasium.name=含溶火金岩石
@@ -50235,6 +50535,8 @@ languagefile {
     S:oredict.rotorFlint.name=燧石转子
     S:oredict.rotorFoolsRuby.name=红宝石转子
     S:oredict.rotorForce.name=力量转子
+    S:oredict.rotorFrezarite.name=Frezarite Rotor
+    S:oredict.rotorFrozenIron.name=Frozen Iron Rotor
     S:oredict.rotorGabbro.name=辉长岩转子
     S:oredict.rotorGermanium.name=锗 Rotor
     S:oredict.rotorGildedIron.name=镀金铁转子
@@ -50279,6 +50581,7 @@ languagefile {
     S:oredict.rotorKanthal.name=铁铬铝合金转子
     S:oredict.rotorKnightmetal.name=骑士金属转子
     S:oredict.rotorKomatiite.name=科马提岩转子
+    S:oredict.rotorKreknorite.name=Kreknorite Rotor
     S:oredict.rotorLead.name=铅转子
     S:oredict.rotorLimestone.name=石灰石转子
     S:oredict.rotorLumium.name=流明转子
@@ -50293,6 +50596,7 @@ languagefile {
     S:oredict.rotorMaxixe.name=Maxixe Rotor
     S:oredict.rotorMeteoricIron.name=陨铁转子
     S:oredict.rotorMeteoricSteel.name=陨钢转子
+    S:oredict.rotorMeteorite.name=Meteorite Rotor
     S:oredict.rotorMidasium.name=溶火金转子
     S:oredict.rotorMigmatite.name=混合岩转子
     S:oredict.rotorMithril.name=秘银转子
@@ -50337,6 +50641,7 @@ languagefile {
     S:oredict.rotorQuartzBlack.name=黑色石英岩转子
     S:oredict.rotorQuartzite.name=石英岩转子
     S:oredict.rotorRedMatter.name=红物质转子
+    S:oredict.rotorRedMeteor.name=Red Meteor Rotor
     S:oredict.rotorRedSteel.name=红钢转子
     S:oredict.rotorRedrock.name=红岩转子
     S:oredict.rotorRedstonia.name=Redstonia Rotor
@@ -50520,6 +50825,8 @@ languagefile {
     S:oredict.roundFlint.name=燧石垫片
     S:oredict.roundFoolsRuby.name=红宝石垫片
     S:oredict.roundForce.name=力量垫片
+    S:oredict.roundFrezarite.name=Frezarite Round
+    S:oredict.roundFrozenIron.name=Frozen Iron Round
     S:oredict.roundGabbro.name=辉长岩垫片
     S:oredict.roundGermanium.name=锗 Round
     S:oredict.roundGildedIron.name=镀金铁垫片
@@ -50565,6 +50872,7 @@ languagefile {
     S:oredict.roundKanthal.name=铁铬铝合金垫片
     S:oredict.roundKnightmetal.name=骑士金属垫片
     S:oredict.roundKomatiite.name=科马提岩垫片
+    S:oredict.roundKreknorite.name=Kreknorite Round
     S:oredict.roundLead.name=铅垫片
     S:oredict.roundLimestone.name=石灰石垫片
     S:oredict.roundLumium.name=流明垫片
@@ -50579,6 +50887,7 @@ languagefile {
     S:oredict.roundMaxixe.name=Maxixe Round
     S:oredict.roundMeteoricIron.name=陨铁垫片
     S:oredict.roundMeteoricSteel.name=陨钢垫片
+    S:oredict.roundMeteorite.name=Meteorite Round
     S:oredict.roundMidasium.name=溶火金垫片
     S:oredict.roundMigmatite.name=混合岩垫片
     S:oredict.roundMithril.name=秘银垫片
@@ -50623,6 +50932,7 @@ languagefile {
     S:oredict.roundQuartzBlack.name=黑色石英岩垫片
     S:oredict.roundQuartzite.name=石英岩垫片
     S:oredict.roundRedMatter.name=红物质垫片
+    S:oredict.roundRedMeteor.name=Red Meteor Round
     S:oredict.roundRedSteel.name=红钢垫片
     S:oredict.roundRedrock.name=红岩垫片
     S:oredict.roundRedstonia.name=Redstonia Round
@@ -51062,6 +51372,8 @@ languagefile {
     S:oredict.scrapGtForcicium.name=力场废料
     S:oredict.scrapGtForcillium.name=力场废料
     S:oredict.scrapGtFrancium.name=钫废料
+    S:oredict.scrapGtFrezarite.name=Frezarite Scrap
+    S:oredict.scrapGtFrozenIron.name=Frozen Iron Scrap
     S:oredict.scrapGtFullersEarth.name=漂白土废料
     S:oredict.scrapGtGabbro.name=辉长岩废料
     S:oredict.scrapGtGadolinium.name=钆废料
@@ -51147,6 +51459,7 @@ languagefile {
     S:oredict.scrapGtKesterite.name=锌黄锡矿废料
     S:oredict.scrapGtKnightmetal.name=骑士金属废料
     S:oredict.scrapGtKomatiite.name=科马提岩废料
+    S:oredict.scrapGtKreknorite.name=Kreknorite Scrap
     S:oredict.scrapGtKyanite.name=蓝晶石废料
     S:oredict.scrapGtLantanium.name=镧废料
     S:oredict.scrapGtLapis.name=青金石废料
@@ -51195,6 +51508,7 @@ languagefile {
     S:oredict.scrapGtMercury.name=汞废料
     S:oredict.scrapGtMeteoricIron.name=陨铁废料
     S:oredict.scrapGtMeteoricSteel.name=陨钢废料
+    S:oredict.scrapGtMeteorite.name=Meteorite Scrap
     S:oredict.scrapGtMethaneIce.name=甲烷冰废料
     S:oredict.scrapGtMeutoite.name=龙之魂石废料
     S:oredict.scrapGtMica.name=云母废料
@@ -51312,6 +51626,7 @@ languagefile {
     S:oredict.scrapGtRed.name=红色废料
     S:oredict.scrapGtRedAlloy.name=红色合金废料
     S:oredict.scrapGtRedMatter.name=红物质废料
+    S:oredict.scrapGtRedMeteor.name=Red Meteor Scrap
     S:oredict.scrapGtRedSteel.name=红钢废料
     S:oredict.scrapGtRedrock.name=红岩废料
     S:oredict.scrapGtRedstone.name=红石废料
@@ -51747,6 +52062,8 @@ languagefile {
     S:oredict.screwForcicium.name=力场螺丝
     S:oredict.screwForcillium.name=力场螺丝
     S:oredict.screwFrancium.name=钫螺丝
+    S:oredict.screwFrezarite.name=Frezarite Screw
+    S:oredict.screwFrozenIron.name=Frozen Iron Screw
     S:oredict.screwGabbro.name=辉长岩螺丝
     S:oredict.screwGadolinium.name=钆螺丝
     S:oredict.screwGallium.name=镓螺丝
@@ -51802,6 +52119,7 @@ languagefile {
     S:oredict.screwKanthal.name=铁铬铝合金螺丝
     S:oredict.screwKnightmetal.name=骑士金属螺丝
     S:oredict.screwKomatiite.name=科马提岩螺丝
+    S:oredict.screwKreknorite.name=Kreknorite Screw
     S:oredict.screwLantanium.name=镧螺丝
     S:oredict.screwLapis.name=青金石螺丝
     S:oredict.screwLawrencium.name=铹螺丝
@@ -51832,6 +52150,7 @@ languagefile {
     S:oredict.screwMercury.name=汞螺丝
     S:oredict.screwMeteoricIron.name=陨铁螺丝
     S:oredict.screwMeteoricSteel.name=陨钢螺丝
+    S:oredict.screwMeteorite.name=Meteorite Screw
     S:oredict.screwMeutoite.name=龙之魂石螺丝
     S:oredict.screwMidasium.name=溶火金螺丝
     S:oredict.screwMigmatite.name=混合岩螺丝
@@ -51899,6 +52218,7 @@ languagefile {
     S:oredict.screwRadium.name=镭螺丝
     S:oredict.screwRedAlloy.name=红色合金螺丝
     S:oredict.screwRedMatter.name=红物质螺丝
+    S:oredict.screwRedMeteor.name=Red Meteor Screw
     S:oredict.screwRedSteel.name=红钢螺丝
     S:oredict.screwRedrock.name=红岩螺丝
     S:oredict.screwRedstoneAlloy.name=红硅(红石合金)螺丝
@@ -52075,6 +52395,7 @@ languagefile {
     S:oredict.springEximite.name=虚空石弹簧
     S:oredict.springFierySteel.name=炙热钢弹簧
     S:oredict.springForce.name=力量弹簧
+    S:oredict.springFrozenIron.name=Frozen Iron Spring
     S:oredict.springGermanium.name=锗 Spring
     S:oredict.springGildedIron.name=镀金铁弹簧
     S:oredict.springGneiss.name=片麻岩弹簧
@@ -52101,6 +52422,7 @@ languagefile {
     S:oredict.springKanthal.name=铁铬铝合金弹簧
     S:oredict.springKnightmetal.name=骑士金属弹簧
     S:oredict.springKomatiite.name=科马提岩弹簧
+    S:oredict.springKreknorite.name=Kreknorite Spring
     S:oredict.springLead.name=铅弹簧
     S:oredict.springLumium.name=流明弹簧
     S:oredict.springMagic.name=魔法弹簧
@@ -52110,6 +52432,7 @@ languagefile {
     S:oredict.springManyullyn.name=玛玉灵弹簧
     S:oredict.springMeteoricIron.name=陨铁弹簧
     S:oredict.springMeteoricSteel.name=陨钢弹簧
+    S:oredict.springMeteorite.name=Meteorite Spring
     S:oredict.springMidasium.name=溶火金弹簧
     S:oredict.springMigmatite.name=混合岩弹簧
     S:oredict.springMithril.name=秘银弹簧
@@ -52139,6 +52462,7 @@ languagefile {
     S:oredict.springPulsatingIron.name=脉冲铁弹簧
     S:oredict.springQuartzite.name=石英岩弹簧
     S:oredict.springRedMatter.name=Red Matter Spring
+    S:oredict.springRedMeteor.name=Red Meteor Spring
     S:oredict.springRedSteel.name=红钢弹簧
     S:oredict.springRhyolite.name=流纹岩弹簧
     S:oredict.springRoseGold.name=玫瑰金弹簧
@@ -52226,6 +52550,7 @@ languagefile {
     S:oredict.springSmallEximite.name=小型虚空石弹簧
     S:oredict.springSmallFierySteel.name=小型炙热钢弹簧
     S:oredict.springSmallForce.name=小型力量弹簧
+    S:oredict.springSmallFrozenIron.name=Small Frozen Iron Spring
     S:oredict.springSmallGermanium.name=Small 锗 Spring
     S:oredict.springSmallGildedIron.name=小型镀金铁弹簧
     S:oredict.springSmallGneiss.name=小型片麻岩弹簧
@@ -52252,6 +52577,7 @@ languagefile {
     S:oredict.springSmallKanthal.name=小型铁铬铝合金弹簧
     S:oredict.springSmallKnightmetal.name=小型骑士金属弹簧
     S:oredict.springSmallKomatiite.name=小型科马提岩弹簧
+    S:oredict.springSmallKreknorite.name=Small Kreknorite Spring
     S:oredict.springSmallLead.name=小型铅弹簧
     S:oredict.springSmallLumium.name=小型流明弹簧
     S:oredict.springSmallMagic.name=小型魔法弹簧
@@ -52261,6 +52587,7 @@ languagefile {
     S:oredict.springSmallManyullyn.name=小型玛玉灵弹簧
     S:oredict.springSmallMeteoricIron.name=小型陨铁弹簧
     S:oredict.springSmallMeteoricSteel.name=小型陨钢弹簧
+    S:oredict.springSmallMeteorite.name=Small Meteorite Spring
     S:oredict.springSmallMidasium.name=小型溶火金弹簧
     S:oredict.springSmallMigmatite.name=小型混合岩弹簧
     S:oredict.springSmallMithril.name=小型秘银弹簧
@@ -52290,6 +52617,7 @@ languagefile {
     S:oredict.springSmallPulsatingIron.name=小型脉冲铁弹簧
     S:oredict.springSmallQuartzite.name=小型石英岩弹簧
     S:oredict.springSmallRedMatter.name=Small Red Matter Spring
+    S:oredict.springSmallRedMeteor.name=Small Red Meteor Spring
     S:oredict.springSmallRedSteel.name=小型红钢弹簧
     S:oredict.springSmallRhyolite.name=小型流纹岩弹簧
     S:oredict.springSmallRoseGold.name=小型玫瑰金弹簧
@@ -52660,6 +52988,8 @@ languagefile {
     S:oredict.stickForcicium.name=力场杆
     S:oredict.stickForcillium.name=力场杆
     S:oredict.stickFrancium.name=钫杆
+    S:oredict.stickFrezarite.name=Frezarite Rod
+    S:oredict.stickFrozenIron.name=Frozen Iron Rod
     S:oredict.stickGabbro.name=辉长岩杆
     S:oredict.stickGadolinium.name=钆杆
     S:oredict.stickGallium.name=镓杆
@@ -52715,6 +53045,7 @@ languagefile {
     S:oredict.stickKanthal.name=铁铬铝合金杆
     S:oredict.stickKnightmetal.name=骑士金属杆
     S:oredict.stickKomatiite.name=科马提岩杆
+    S:oredict.stickKreknorite.name=Kreknorite Rod
     S:oredict.stickLantanium.name=镧杆
     S:oredict.stickLapis.name=青金石杆
     S:oredict.stickLawrencium.name=铹杆
@@ -52980,6 +53311,8 @@ languagefile {
     S:oredict.stickLongForcicium.name=长力场杆
     S:oredict.stickLongForcillium.name=长力场杆
     S:oredict.stickLongFrancium.name=长钫杆
+    S:oredict.stickLongFrezarite.name=Long Frezarite Rod
+    S:oredict.stickLongFrozenIron.name=Long Frozen Iron Rod
     S:oredict.stickLongGabbro.name=长辉长岩杆
     S:oredict.stickLongGadolinium.name=长钆杆
     S:oredict.stickLongGallium.name=长镓杆
@@ -53035,6 +53368,7 @@ languagefile {
     S:oredict.stickLongKanthal.name=长铁铬铝合金杆
     S:oredict.stickLongKnightmetal.name=长骑士金属杆
     S:oredict.stickLongKomatiite.name=长科马提岩杆
+    S:oredict.stickLongKreknorite.name=Long Kreknorite Rod
     S:oredict.stickLongLantanium.name=长镧杆
     S:oredict.stickLongLapis.name=长青金石杆
     S:oredict.stickLongLawrencium.name=长铹杆
@@ -53065,6 +53399,7 @@ languagefile {
     S:oredict.stickLongMercury.name=长汞杆
     S:oredict.stickLongMeteoricIron.name=长陨铁杆
     S:oredict.stickLongMeteoricSteel.name=长陨钢杆
+    S:oredict.stickLongMeteorite.name=Long Meteorite Rod
     S:oredict.stickLongMeutoite.name=长龙之魂石杆
     S:oredict.stickLongMidasium.name=长溶火金杆
     S:oredict.stickLongMigmatite.name=长混合岩杆
@@ -53132,6 +53467,7 @@ languagefile {
     S:oredict.stickLongRadium.name=长镭杆
     S:oredict.stickLongRedAlloy.name=长红色合金杆
     S:oredict.stickLongRedMatter.name=长红物质杆
+    S:oredict.stickLongRedMeteor.name=Long Red Meteor Rod
     S:oredict.stickLongRedSteel.name=长红钢杆
     S:oredict.stickLongRedrock.name=长红岩杆
     S:oredict.stickLongRedstoneAlloy.name=长红硅(红石合金)杆
@@ -53256,6 +53592,7 @@ languagefile {
     S:oredict.stickMercury.name=汞杆
     S:oredict.stickMeteoricIron.name=陨铁杆
     S:oredict.stickMeteoricSteel.name=陨钢杆
+    S:oredict.stickMeteorite.name=Meteorite Rod
     S:oredict.stickMeutoite.name=龙之魂石杆
     S:oredict.stickMidasium.name=溶火金杆
     S:oredict.stickMigmatite.name=混合岩杆
@@ -53323,6 +53660,7 @@ languagefile {
     S:oredict.stickRadium.name=镭杆
     S:oredict.stickRedAlloy.name=红色合金杆
     S:oredict.stickRedMatter.name=红物质杆
+    S:oredict.stickRedMeteor.name=Red Meteor Rod
     S:oredict.stickRedSteel.name=红钢杆
     S:oredict.stickRedrock.name=红岩杆
     S:oredict.stickRedstoneAlloy.name=红硅(红石合金)杆
@@ -53519,6 +53857,8 @@ languagefile {
     S:oredict.toolHeadArrowFlint.name=燧石箭头
     S:oredict.toolHeadArrowFoolsRuby.name=红宝石箭头
     S:oredict.toolHeadArrowForce.name=力量箭头
+    S:oredict.toolHeadArrowFrezarite.name=Frezarite Arrow Head
+    S:oredict.toolHeadArrowFrozenIron.name=Frozen Iron Arrow Head
     S:oredict.toolHeadArrowGabbro.name=辉长岩箭头
     S:oredict.toolHeadArrowGildedIron.name=镀金铁箭头
     S:oredict.toolHeadArrowGlass.name=玻璃箭头
@@ -53559,6 +53899,7 @@ languagefile {
     S:oredict.toolHeadArrowKanthal.name=铁铬铝合金箭头
     S:oredict.toolHeadArrowKnightmetal.name=骑士金属箭头
     S:oredict.toolHeadArrowKomatiite.name=科马提岩箭头
+    S:oredict.toolHeadArrowKreknorite.name=Kreknorite Arrow Head
     S:oredict.toolHeadArrowLead.name=铅箭头
     S:oredict.toolHeadArrowLimestone.name=石灰石箭头
     S:oredict.toolHeadArrowMagnalium.name=镁铝合金箭头
@@ -53571,6 +53912,7 @@ languagefile {
     S:oredict.toolHeadArrowMaxixe.name=Maxixe Arrow Head
     S:oredict.toolHeadArrowMeteoricIron.name=陨铁箭头
     S:oredict.toolHeadArrowMeteoricSteel.name=陨钢箭头
+    S:oredict.toolHeadArrowMeteorite.name=Meteorite Arrow Head
     S:oredict.toolHeadArrowMidasium.name=溶火金箭头
     S:oredict.toolHeadArrowMigmatite.name=混合岩箭头
     S:oredict.toolHeadArrowMithril.name=秘银箭头
@@ -53615,6 +53957,7 @@ languagefile {
     S:oredict.toolHeadArrowQuartzBlack.name=黑色石英岩箭头
     S:oredict.toolHeadArrowQuartzite.name=石英岩箭头
     S:oredict.toolHeadArrowRedMatter.name=红物质箭头
+    S:oredict.toolHeadArrowRedMeteor.name=Red Meteor Arrow Head
     S:oredict.toolHeadArrowRedSteel.name=红钢箭头
     S:oredict.toolHeadArrowRedrock.name=红岩箭头
     S:oredict.toolHeadArrowRedstonia.name=Redstonia Arrow Head
@@ -53842,6 +54185,8 @@ languagefile {
     S:oredict.toolHeadAxeDoubleFirestone.name=火石双刃斧头
     S:oredict.toolHeadAxeDoubleFoolsRuby.name=红宝石双刃斧头
     S:oredict.toolHeadAxeDoubleForce.name=力量双刃斧头
+    S:oredict.toolHeadAxeDoubleFrezarite.name=Frezarite Double Axe Head
+    S:oredict.toolHeadAxeDoubleFrozenIron.name=Frozen Iron Double Axe Head
     S:oredict.toolHeadAxeDoubleGildedIron.name=镀金铁双刃斧头
     S:oredict.toolHeadAxeDoubleGneiss.name=片麻岩双刃斧头
     S:oredict.toolHeadAxeDoubleGold.name=金双刃斧头
@@ -53876,6 +54221,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleKanthal.name=铁铬铝合金双刃斧头
     S:oredict.toolHeadAxeDoubleKnightmetal.name=骑士金属双刃斧头
     S:oredict.toolHeadAxeDoubleKomatiite.name=科马提岩双刃斧头
+    S:oredict.toolHeadAxeDoubleKreknorite.name=Kreknorite Double Axe Head
     S:oredict.toolHeadAxeDoubleLead.name=铅双刃斧头
     S:oredict.toolHeadAxeDoubleMagnalium.name=镁铝合金双刃斧头
     S:oredict.toolHeadAxeDoubleManasteel.name=魔力钢 Double Axe Head
@@ -53884,6 +54230,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleMaxixe.name=Maxixe Double Axe Head
     S:oredict.toolHeadAxeDoubleMeteoricIron.name=陨铁双刃斧头
     S:oredict.toolHeadAxeDoubleMeteoricSteel.name=陨钢双刃斧头
+    S:oredict.toolHeadAxeDoubleMeteorite.name=Meteorite Double Axe Head
     S:oredict.toolHeadAxeDoubleMidasium.name=溶火金双刃斧头
     S:oredict.toolHeadAxeDoubleMigmatite.name=混合岩双刃斧头
     S:oredict.toolHeadAxeDoubleMithril.name=秘银双刃斧头
@@ -53923,6 +54270,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleQuartzBlack.name=黑色石英岩双刃斧头
     S:oredict.toolHeadAxeDoubleQuartzite.name=石英岩双刃斧头
     S:oredict.toolHeadAxeDoubleRedMatter.name=红物质双刃斧头
+    S:oredict.toolHeadAxeDoubleRedMeteor.name=Red Meteor Double Axe Head
     S:oredict.toolHeadAxeDoubleRedSteel.name=红钢双刃斧头
     S:oredict.toolHeadAxeDoubleRedstonia.name=Redstonia Double Axe Head
     S:oredict.toolHeadAxeDoubleRhyolite.name=流纹岩双刃斧头
@@ -54003,6 +54351,8 @@ languagefile {
     S:oredict.toolHeadAxeFlint.name=燧石斧头
     S:oredict.toolHeadAxeFoolsRuby.name=红宝石斧头
     S:oredict.toolHeadAxeForce.name=力量斧头
+    S:oredict.toolHeadAxeFrezarite.name=Frezarite Axe Head
+    S:oredict.toolHeadAxeFrozenIron.name=Frozen Iron Axe Head
     S:oredict.toolHeadAxeGabbro.name=辉长岩斧头
     S:oredict.toolHeadAxeGildedIron.name=镀金铁斧头
     S:oredict.toolHeadAxeGlass.name=玻璃斧头
@@ -54043,6 +54393,7 @@ languagefile {
     S:oredict.toolHeadAxeKanthal.name=铁铬铝合金斧头
     S:oredict.toolHeadAxeKnightmetal.name=骑士金属斧头
     S:oredict.toolHeadAxeKomatiite.name=科马提岩斧头
+    S:oredict.toolHeadAxeKreknorite.name=Kreknorite Axe Head
     S:oredict.toolHeadAxeLead.name=铅斧头
     S:oredict.toolHeadAxeLimestone.name=石灰石斧头
     S:oredict.toolHeadAxeMagnalium.name=镁铝合金斧头
@@ -54055,6 +54406,7 @@ languagefile {
     S:oredict.toolHeadAxeMaxixe.name=Maxixe Axe Head
     S:oredict.toolHeadAxeMeteoricIron.name=陨铁斧头
     S:oredict.toolHeadAxeMeteoricSteel.name=陨钢斧头
+    S:oredict.toolHeadAxeMeteorite.name=Meteorite Axe Head
     S:oredict.toolHeadAxeMidasium.name=溶火金斧头
     S:oredict.toolHeadAxeMigmatite.name=混合岩斧头
     S:oredict.toolHeadAxeMithril.name=秘银斧头
@@ -54099,6 +54451,7 @@ languagefile {
     S:oredict.toolHeadAxeQuartzBlack.name=黑色石英岩斧头
     S:oredict.toolHeadAxeQuartzite.name=石英岩斧头
     S:oredict.toolHeadAxeRedMatter.name=红物质斧头
+    S:oredict.toolHeadAxeRedMeteor.name=Red Meteor Axe Head
     S:oredict.toolHeadAxeRedSteel.name=红钢斧头
     S:oredict.toolHeadAxeRedrock.name=红岩斧头
     S:oredict.toolHeadAxeRedstonia.name=Redstonia Axe Head
@@ -54253,6 +54606,8 @@ languagefile {
     S:oredict.toolHeadBuzzSawFirestone.name=火石圆锯片
     S:oredict.toolHeadBuzzSawFoolsRuby.name=红宝石圆锯片
     S:oredict.toolHeadBuzzSawForce.name=力量圆锯片
+    S:oredict.toolHeadBuzzSawFrezarite.name=Frezarite Buzzsaw Blade
+    S:oredict.toolHeadBuzzSawFrozenIron.name=Frozen Iron Buzzsaw Blade
     S:oredict.toolHeadBuzzSawGildedIron.name=镀金铁圆锯片
     S:oredict.toolHeadBuzzSawGneiss.name=片麻岩圆锯片
     S:oredict.toolHeadBuzzSawGold.name=金圆锯片
@@ -54286,6 +54641,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawKanthal.name=铁铬铝合金圆锯片
     S:oredict.toolHeadBuzzSawKnightmetal.name=骑士金属圆锯片
     S:oredict.toolHeadBuzzSawKomatiite.name=科马提岩圆锯片
+    S:oredict.toolHeadBuzzSawKreknorite.name=Kreknorite Buzzsaw Blade
     S:oredict.toolHeadBuzzSawLead.name=铅圆锯片
     S:oredict.toolHeadBuzzSawMagnalium.name=镁铝合金圆锯片
     S:oredict.toolHeadBuzzSawManasteel.name=魔力钢 Buzzsaw Blade
@@ -54294,6 +54650,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawMaxixe.name=Maxixe Buzzsaw Blade
     S:oredict.toolHeadBuzzSawMeteoricIron.name=陨铁圆锯片
     S:oredict.toolHeadBuzzSawMeteoricSteel.name=陨钢圆锯片
+    S:oredict.toolHeadBuzzSawMeteorite.name=Meteorite Buzzsaw Blade
     S:oredict.toolHeadBuzzSawMidasium.name=溶火金圆锯片
     S:oredict.toolHeadBuzzSawMigmatite.name=混合岩圆锯片
     S:oredict.toolHeadBuzzSawMithril.name=秘银圆锯片
@@ -54332,6 +54689,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawQuartzBlack.name=黑色石英岩圆锯片
     S:oredict.toolHeadBuzzSawQuartzite.name=石英岩圆锯片
     S:oredict.toolHeadBuzzSawRedMatter.name=Red Matter Buzzsaw Blade
+    S:oredict.toolHeadBuzzSawRedMeteor.name=Red Meteor Buzzsaw Blade
     S:oredict.toolHeadBuzzSawRedSteel.name=红钢圆锯片
     S:oredict.toolHeadBuzzSawRedstonia.name=Redstonia Buzzsaw Blade
     S:oredict.toolHeadBuzzSawRhyolite.name=流纹岩圆锯片
@@ -54476,6 +54834,8 @@ languagefile {
     S:oredict.toolHeadChainsawFirestone.name=火石电锯头
     S:oredict.toolHeadChainsawFoolsRuby.name=红宝石电锯头
     S:oredict.toolHeadChainsawForce.name=力量电锯头
+    S:oredict.toolHeadChainsawFrezarite.name=Frezarite Chainsaw Tip
+    S:oredict.toolHeadChainsawFrozenIron.name=Frozen Iron Chainsaw Tip
     S:oredict.toolHeadChainsawGildedIron.name=镀金铁电锯头
     S:oredict.toolHeadChainsawGneiss.name=片麻岩电锯头
     S:oredict.toolHeadChainsawGold.name=金电锯头
@@ -54509,6 +54869,7 @@ languagefile {
     S:oredict.toolHeadChainsawKanthal.name=铁铬铝合金电锯头
     S:oredict.toolHeadChainsawKnightmetal.name=骑士金属电锯头
     S:oredict.toolHeadChainsawKomatiite.name=科马提岩电锯头
+    S:oredict.toolHeadChainsawKreknorite.name=Kreknorite Chainsaw Tip
     S:oredict.toolHeadChainsawLead.name=铅电锯头
     S:oredict.toolHeadChainsawMagnalium.name=镁铝合金电锯头
     S:oredict.toolHeadChainsawManasteel.name=魔力钢 Chainsaw Tip
@@ -54517,6 +54878,7 @@ languagefile {
     S:oredict.toolHeadChainsawMaxixe.name=Maxixe Chainsaw Tip
     S:oredict.toolHeadChainsawMeteoricIron.name=陨铁电锯头
     S:oredict.toolHeadChainsawMeteoricSteel.name=陨钢电锯头
+    S:oredict.toolHeadChainsawMeteorite.name=Meteorite Chainsaw Tip
     S:oredict.toolHeadChainsawMidasium.name=溶火金电锯头
     S:oredict.toolHeadChainsawMigmatite.name=混合岩电锯头
     S:oredict.toolHeadChainsawMithril.name=秘银电锯头
@@ -54555,6 +54917,7 @@ languagefile {
     S:oredict.toolHeadChainsawQuartzBlack.name=黑色石英岩电锯头
     S:oredict.toolHeadChainsawQuartzite.name=石英岩电锯头
     S:oredict.toolHeadChainsawRedMatter.name=Red Matter Chainsaw Tip
+    S:oredict.toolHeadChainsawRedMeteor.name=Red Meteor Chainsaw Tip
     S:oredict.toolHeadChainsawRedSteel.name=红钢电锯头
     S:oredict.toolHeadChainsawRedstonia.name=Redstonia Chainsaw Tip
     S:oredict.toolHeadChainsawRhyolite.name=流纹岩电锯头
@@ -54699,6 +55062,8 @@ languagefile {
     S:oredict.toolHeadChiselFirestone.name=火石凿子头
     S:oredict.toolHeadChiselFoolsRuby.name=红宝石凿子头
     S:oredict.toolHeadChiselForce.name=力量凿子头
+    S:oredict.toolHeadChiselFrezarite.name=Frezarite Chisel Head
+    S:oredict.toolHeadChiselFrozenIron.name=Frozen Iron Chisel Head
     S:oredict.toolHeadChiselGildedIron.name=镀金铁凿子头
     S:oredict.toolHeadChiselGneiss.name=片麻岩凿子头
     S:oredict.toolHeadChiselGold.name=金凿子头
@@ -54732,6 +55097,7 @@ languagefile {
     S:oredict.toolHeadChiselKanthal.name=铁铬铝合金凿子头
     S:oredict.toolHeadChiselKnightmetal.name=骑士金属凿子头
     S:oredict.toolHeadChiselKomatiite.name=科马提岩凿子头
+    S:oredict.toolHeadChiselKreknorite.name=Kreknorite Chisel Head
     S:oredict.toolHeadChiselLead.name=铅凿子头
     S:oredict.toolHeadChiselMagnalium.name=镁铝合金凿子头
     S:oredict.toolHeadChiselManasteel.name=魔力钢 Chisel Head
@@ -54740,6 +55106,7 @@ languagefile {
     S:oredict.toolHeadChiselMaxixe.name=Maxixe Chisel Head
     S:oredict.toolHeadChiselMeteoricIron.name=陨铁凿子头
     S:oredict.toolHeadChiselMeteoricSteel.name=陨钢凿子头
+    S:oredict.toolHeadChiselMeteorite.name=Meteorite Chisel Head
     S:oredict.toolHeadChiselMidasium.name=溶火金凿子头
     S:oredict.toolHeadChiselMigmatite.name=混合岩凿子头
     S:oredict.toolHeadChiselMithril.name=秘银凿子头
@@ -54778,6 +55145,7 @@ languagefile {
     S:oredict.toolHeadChiselQuartzBlack.name=黑色石英岩凿子头
     S:oredict.toolHeadChiselQuartzite.name=石英岩凿子头
     S:oredict.toolHeadChiselRedMatter.name=红物质凿子头
+    S:oredict.toolHeadChiselRedMeteor.name=Red Meteor Chisel Head
     S:oredict.toolHeadChiselRedSteel.name=红钢凿子头
     S:oredict.toolHeadChiselRedstonia.name=Redstonia Chisel Head
     S:oredict.toolHeadChiselRhyolite.name=流纹岩凿子头
@@ -54922,6 +55290,8 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeFirestone.name=火石建筑镐头
     S:oredict.toolHeadConstructionPickaxeFoolsRuby.name=红宝石建筑镐头
     S:oredict.toolHeadConstructionPickaxeForce.name=力量建筑镐头
+    S:oredict.toolHeadConstructionPickaxeFrezarite.name=Frezarite Construction Pickaxe Head
+    S:oredict.toolHeadConstructionPickaxeFrozenIron.name=Frozen Iron Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeGildedIron.name=镀金铁建筑镐头
     S:oredict.toolHeadConstructionPickaxeGneiss.name=片麻岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeGold.name=金建筑镐头
@@ -54956,6 +55326,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeKanthal.name=铁铬铝合金建筑镐头
     S:oredict.toolHeadConstructionPickaxeKnightmetal.name=骑士金属建筑镐头
     S:oredict.toolHeadConstructionPickaxeKomatiite.name=科马提岩建筑镐头
+    S:oredict.toolHeadConstructionPickaxeKreknorite.name=Kreknorite Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeLead.name=铅建筑镐头
     S:oredict.toolHeadConstructionPickaxeMagnalium.name=镁铝合金建筑镐头
     S:oredict.toolHeadConstructionPickaxeManasteel.name=魔力钢 Construction Pickaxe Head
@@ -54964,6 +55335,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeMaxixe.name=Maxixe Construction 镐头
     S:oredict.toolHeadConstructionPickaxeMeteoricIron.name=陨铁建筑镐头
     S:oredict.toolHeadConstructionPickaxeMeteoricSteel.name=陨钢建筑镐头
+    S:oredict.toolHeadConstructionPickaxeMeteorite.name=Meteorite Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeMidasium.name=溶火金建筑镐头
     S:oredict.toolHeadConstructionPickaxeMigmatite.name=混合岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeMithril.name=秘银建筑镐头
@@ -55003,6 +55375,7 @@ languagefile {
     S:oredict.toolHeadConstructionPickaxeQuartzBlack.name=黑色石英岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeQuartzite.name=石英岩建筑镐头
     S:oredict.toolHeadConstructionPickaxeRedMatter.name=Red Matter Construction 镐头
+    S:oredict.toolHeadConstructionPickaxeRedMeteor.name=Red Meteor Construction Pickaxe Head
     S:oredict.toolHeadConstructionPickaxeRedSteel.name=红钢建筑镐头
     S:oredict.toolHeadConstructionPickaxeRedstonia.name=Redstonia Construction 镐头
     S:oredict.toolHeadConstructionPickaxeRhyolite.name=流纹岩建筑镐头
@@ -55149,6 +55522,8 @@ languagefile {
     S:oredict.toolHeadDrillFirestone.name=火石钻头
     S:oredict.toolHeadDrillFoolsRuby.name=红宝石钻头
     S:oredict.toolHeadDrillForce.name=力量钻头
+    S:oredict.toolHeadDrillFrezarite.name=Frezarite Drill Tip
+    S:oredict.toolHeadDrillFrozenIron.name=Frozen Iron Drill Tip
     S:oredict.toolHeadDrillGildedIron.name=镀金铁钻头
     S:oredict.toolHeadDrillGneiss.name=片麻岩钻头
     S:oredict.toolHeadDrillGold.name=金钻头
@@ -55182,6 +55557,7 @@ languagefile {
     S:oredict.toolHeadDrillKanthal.name=铁铬铝合金钻头
     S:oredict.toolHeadDrillKnightmetal.name=骑士金属钻头
     S:oredict.toolHeadDrillKomatiite.name=科马提岩钻头
+    S:oredict.toolHeadDrillKreknorite.name=Kreknorite Drill Tip
     S:oredict.toolHeadDrillLead.name=铅钻头
     S:oredict.toolHeadDrillMagnalium.name=镁铝合金钻头
     S:oredict.toolHeadDrillManasteel.name=魔力钢 Drill Tip
@@ -55190,6 +55566,7 @@ languagefile {
     S:oredict.toolHeadDrillMaxixe.name=Maxixe Drill Tip
     S:oredict.toolHeadDrillMeteoricIron.name=陨铁钻头
     S:oredict.toolHeadDrillMeteoricSteel.name=陨钢钻头
+    S:oredict.toolHeadDrillMeteorite.name=Meteorite Drill Tip
     S:oredict.toolHeadDrillMidasium.name=溶火金钻头
     S:oredict.toolHeadDrillMigmatite.name=混合岩钻头
     S:oredict.toolHeadDrillMithril.name=秘银钻头
@@ -55228,6 +55605,7 @@ languagefile {
     S:oredict.toolHeadDrillQuartzBlack.name=黑色石英岩钻头
     S:oredict.toolHeadDrillQuartzite.name=石英岩钻头
     S:oredict.toolHeadDrillRedMatter.name=红物质钻头
+    S:oredict.toolHeadDrillRedMeteor.name=Red Meteor Drill Tip
     S:oredict.toolHeadDrillRedSteel.name=红钢钻头
     S:oredict.toolHeadDrillRedstonia.name=Redstonia Drill Tip
     S:oredict.toolHeadDrillRhyolite.name=流纹岩钻头
@@ -55372,6 +55750,8 @@ languagefile {
     S:oredict.toolHeadFileFirestone.name=火石锉刀头
     S:oredict.toolHeadFileFoolsRuby.name=红宝石锉刀头
     S:oredict.toolHeadFileForce.name=力量锉刀头
+    S:oredict.toolHeadFileFrezarite.name=Frezarite File Head
+    S:oredict.toolHeadFileFrozenIron.name=Frozen Iron File Head
     S:oredict.toolHeadFileGildedIron.name=镀金铁锉刀头
     S:oredict.toolHeadFileGneiss.name=片麻岩锉刀头
     S:oredict.toolHeadFileGold.name=金锉刀头
@@ -55405,6 +55785,7 @@ languagefile {
     S:oredict.toolHeadFileKanthal.name=铁铬铝合金锉刀头
     S:oredict.toolHeadFileKnightmetal.name=骑士金属锉刀头
     S:oredict.toolHeadFileKomatiite.name=科马提岩锉刀头
+    S:oredict.toolHeadFileKreknorite.name=Kreknorite File Head
     S:oredict.toolHeadFileLead.name=铅锉刀头
     S:oredict.toolHeadFileMagnalium.name=镁铝合金锉刀头
     S:oredict.toolHeadFileManasteel.name=魔力钢 File Head
@@ -55413,6 +55794,7 @@ languagefile {
     S:oredict.toolHeadFileMaxixe.name=Maxixe File Head
     S:oredict.toolHeadFileMeteoricIron.name=陨铁锉刀头
     S:oredict.toolHeadFileMeteoricSteel.name=陨钢锉刀头
+    S:oredict.toolHeadFileMeteorite.name=Meteorite File Head
     S:oredict.toolHeadFileMidasium.name=溶火金锉刀头
     S:oredict.toolHeadFileMigmatite.name=混合岩锉刀头
     S:oredict.toolHeadFileMithril.name=秘银锉刀头
@@ -55451,6 +55833,7 @@ languagefile {
     S:oredict.toolHeadFileQuartzBlack.name=黑色石英岩锉刀头
     S:oredict.toolHeadFileQuartzite.name=石英岩锉刀头
     S:oredict.toolHeadFileRedMatter.name=Red Matter File Head
+    S:oredict.toolHeadFileRedMeteor.name=Red Meteor File Head
     S:oredict.toolHeadFileRedSteel.name=红钢锉刀头
     S:oredict.toolHeadFileRedstonia.name=Redstonia File Head
     S:oredict.toolHeadFileRhyolite.name=流纹岩锉刀头
@@ -55597,6 +55980,8 @@ languagefile {
     S:oredict.toolHeadHammerFlint.name=燧石锤头
     S:oredict.toolHeadHammerFoolsRuby.name=红宝石锤头
     S:oredict.toolHeadHammerForce.name=力量锤头
+    S:oredict.toolHeadHammerFrezarite.name=Frezarite Hammer Head
+    S:oredict.toolHeadHammerFrozenIron.name=Frozen Iron Hammer Head
     S:oredict.toolHeadHammerGabbro.name=辉长岩锤头
     S:oredict.toolHeadHammerGildedIron.name=镀金铁锤头
     S:oredict.toolHeadHammerGneiss.name=片麻岩锤头
@@ -55635,6 +56020,7 @@ languagefile {
     S:oredict.toolHeadHammerKanthal.name=铁铬铝合金锤头
     S:oredict.toolHeadHammerKnightmetal.name=骑士金属锤头
     S:oredict.toolHeadHammerKomatiite.name=科马提岩锤头
+    S:oredict.toolHeadHammerKreknorite.name=Kreknorite Hammer Head
     S:oredict.toolHeadHammerLead.name=铅锤头
     S:oredict.toolHeadHammerLimestone.name=石灰石锤头
     S:oredict.toolHeadHammerMagnalium.name=镁铝合金锤头
@@ -55647,6 +56033,7 @@ languagefile {
     S:oredict.toolHeadHammerMaxixe.name=Maxixe Hammer Head
     S:oredict.toolHeadHammerMeteoricIron.name=陨铁锤头
     S:oredict.toolHeadHammerMeteoricSteel.name=陨钢锤头
+    S:oredict.toolHeadHammerMeteorite.name=Meteorite Hammer Head
     S:oredict.toolHeadHammerMidasium.name=溶火金锤头
     S:oredict.toolHeadHammerMigmatite.name=混合岩锤头
     S:oredict.toolHeadHammerMithril.name=秘银锤头
@@ -55691,6 +56078,7 @@ languagefile {
     S:oredict.toolHeadHammerQuartzBlack.name=黑色石英岩锤头
     S:oredict.toolHeadHammerQuartzite.name=石英岩锤头
     S:oredict.toolHeadHammerRedMatter.name=红物质锤头
+    S:oredict.toolHeadHammerRedMeteor.name=Red Meteor Hammer Head
     S:oredict.toolHeadHammerRedSteel.name=红钢锤头
     S:oredict.toolHeadHammerRedrock.name=红岩锤头
     S:oredict.toolHeadHammerRedstonia.name=Redstonia Hammer Head
@@ -55850,6 +56238,8 @@ languagefile {
     S:oredict.toolHeadHoeFlint.name=燧石锄头
     S:oredict.toolHeadHoeFoolsRuby.name=红宝石锄头
     S:oredict.toolHeadHoeForce.name=力量锄头
+    S:oredict.toolHeadHoeFrezarite.name=Frezarite Hoe Head
+    S:oredict.toolHeadHoeFrozenIron.name=Frozen Iron Hoe Head
     S:oredict.toolHeadHoeGabbro.name=辉长岩锄头
     S:oredict.toolHeadHoeGildedIron.name=镀金铁锄头
     S:oredict.toolHeadHoeGlass.name=玻璃锄头
@@ -55890,6 +56280,7 @@ languagefile {
     S:oredict.toolHeadHoeKanthal.name=铁铬铝合金锄头
     S:oredict.toolHeadHoeKnightmetal.name=骑士金属锄头
     S:oredict.toolHeadHoeKomatiite.name=科马提岩锄头
+    S:oredict.toolHeadHoeKreknorite.name=Kreknorite Hoe Head
     S:oredict.toolHeadHoeLead.name=铅锄头
     S:oredict.toolHeadHoeLimestone.name=石灰石锄头
     S:oredict.toolHeadHoeMagnalium.name=镁铝合金锄头
@@ -55902,6 +56293,7 @@ languagefile {
     S:oredict.toolHeadHoeMaxixe.name=Maxixe Hoe Head
     S:oredict.toolHeadHoeMeteoricIron.name=陨铁锄头
     S:oredict.toolHeadHoeMeteoricSteel.name=陨钢锄头
+    S:oredict.toolHeadHoeMeteorite.name=Meteorite Hoe Head
     S:oredict.toolHeadHoeMidasium.name=溶火金锄头
     S:oredict.toolHeadHoeMigmatite.name=混合岩锄头
     S:oredict.toolHeadHoeMithril.name=秘银锄头
@@ -55946,6 +56338,7 @@ languagefile {
     S:oredict.toolHeadHoeQuartzBlack.name=黑色石英岩锄头
     S:oredict.toolHeadHoeQuartzite.name=石英岩锄头
     S:oredict.toolHeadHoeRedMatter.name=红物质锄头
+    S:oredict.toolHeadHoeRedMeteor.name=Red Meteor Hoe Head
     S:oredict.toolHeadHoeRedSteel.name=红钢锄头
     S:oredict.toolHeadHoeRedrock.name=红岩锄头
     S:oredict.toolHeadHoeRedstonia.name=Redstonia Hoe Head
@@ -56107,6 +56500,8 @@ languagefile {
     S:oredict.toolHeadPickaxeFlint.name=燧石镐头
     S:oredict.toolHeadPickaxeFoolsRuby.name=红宝石镐头
     S:oredict.toolHeadPickaxeForce.name=力量镐头
+    S:oredict.toolHeadPickaxeFrezarite.name=Frezarite Pickaxe Head
+    S:oredict.toolHeadPickaxeFrozenIron.name=Frozen Iron Pickaxe Head
     S:oredict.toolHeadPickaxeGabbro.name=辉长岩镐头
     S:oredict.toolHeadPickaxeGemAlexandrite.name=Alexandrite tipped 镐头
     S:oredict.toolHeadPickaxeGemAlmandine.name=表镶铁铝榴石镐头
@@ -56196,6 +56591,7 @@ languagefile {
     S:oredict.toolHeadPickaxeKanthal.name=铁铬铝合金镐头
     S:oredict.toolHeadPickaxeKnightmetal.name=骑士金属镐头
     S:oredict.toolHeadPickaxeKomatiite.name=科马提岩镐头
+    S:oredict.toolHeadPickaxeKreknorite.name=Kreknorite Pickaxe Head
     S:oredict.toolHeadPickaxeLead.name=铅镐头
     S:oredict.toolHeadPickaxeLimestone.name=石灰石镐头
     S:oredict.toolHeadPickaxeMagnalium.name=镁铝合金镐头
@@ -56208,6 +56604,7 @@ languagefile {
     S:oredict.toolHeadPickaxeMaxixe.name=Maxixe 镐头
     S:oredict.toolHeadPickaxeMeteoricIron.name=陨铁镐头
     S:oredict.toolHeadPickaxeMeteoricSteel.name=陨钢镐头
+    S:oredict.toolHeadPickaxeMeteorite.name=Meteorite Pickaxe Head
     S:oredict.toolHeadPickaxeMidasium.name=溶火金镐头
     S:oredict.toolHeadPickaxeMigmatite.name=混合岩镐头
     S:oredict.toolHeadPickaxeMithril.name=秘银镐头
@@ -56252,6 +56649,7 @@ languagefile {
     S:oredict.toolHeadPickaxeQuartzBlack.name=黑色石英岩镐头
     S:oredict.toolHeadPickaxeQuartzite.name=石英岩镐头
     S:oredict.toolHeadPickaxeRedMatter.name=红物质镐头
+    S:oredict.toolHeadPickaxeRedMeteor.name=Red Meteor Pickaxe Head
     S:oredict.toolHeadPickaxeRedSteel.name=红钢镐头
     S:oredict.toolHeadPickaxeRedrock.name=红岩镐头
     S:oredict.toolHeadPickaxeRedstonia.name=Redstonia 镐头
@@ -56413,6 +56811,8 @@ languagefile {
     S:oredict.toolHeadPlowFlint.name=燧石犁头
     S:oredict.toolHeadPlowFoolsRuby.name=红宝石犁头
     S:oredict.toolHeadPlowForce.name=力量犁头
+    S:oredict.toolHeadPlowFrezarite.name=Frezarite Plow Head
+    S:oredict.toolHeadPlowFrozenIron.name=Frozen Iron Plow Head
     S:oredict.toolHeadPlowGabbro.name=辉长岩犁头
     S:oredict.toolHeadPlowGildedIron.name=镀金铁犁头
     S:oredict.toolHeadPlowGlass.name=玻璃犁头
@@ -56453,6 +56853,7 @@ languagefile {
     S:oredict.toolHeadPlowKanthal.name=铁铬铝合金犁头
     S:oredict.toolHeadPlowKnightmetal.name=骑士金属犁头
     S:oredict.toolHeadPlowKomatiite.name=科马提岩犁头
+    S:oredict.toolHeadPlowKreknorite.name=Kreknorite Plow Head
     S:oredict.toolHeadPlowLead.name=铅犁头
     S:oredict.toolHeadPlowLimestone.name=石灰石犁头
     S:oredict.toolHeadPlowMagnalium.name=镁铝合金犁头
@@ -56465,6 +56866,7 @@ languagefile {
     S:oredict.toolHeadPlowMaxixe.name=Maxixe Plow Head
     S:oredict.toolHeadPlowMeteoricIron.name=陨铁犁头
     S:oredict.toolHeadPlowMeteoricSteel.name=陨钢犁头
+    S:oredict.toolHeadPlowMeteorite.name=Meteorite Plow Head
     S:oredict.toolHeadPlowMidasium.name=溶火金犁头
     S:oredict.toolHeadPlowMigmatite.name=混合岩犁头
     S:oredict.toolHeadPlowMithril.name=秘银犁头
@@ -56509,6 +56911,7 @@ languagefile {
     S:oredict.toolHeadPlowQuartzBlack.name=黑色石英岩犁头
     S:oredict.toolHeadPlowQuartzite.name=石英岩犁头
     S:oredict.toolHeadPlowRedMatter.name=红物质犁头
+    S:oredict.toolHeadPlowRedMeteor.name=Red Meteor Plow Head
     S:oredict.toolHeadPlowRedSteel.name=红钢犁头
     S:oredict.toolHeadPlowRedrock.name=红岩犁头
     S:oredict.toolHeadPlowRedstonia.name=Redstonia Plow Head
@@ -56670,6 +57073,8 @@ languagefile {
     S:oredict.toolHeadRawArrowFlint.name=粗糙的燧石箭头
     S:oredict.toolHeadRawArrowFoolsRuby.name=粗糙的红宝石箭头
     S:oredict.toolHeadRawArrowForce.name=粗糙的力量箭头
+    S:oredict.toolHeadRawArrowFrezarite.name=Raw Frezarite Arrow Head
+    S:oredict.toolHeadRawArrowFrozenIron.name=Raw Frozen Iron Arrow Head
     S:oredict.toolHeadRawArrowGabbro.name=粗糙的辉长岩箭头
     S:oredict.toolHeadRawArrowGildedIron.name=粗糙的镀金铁箭头
     S:oredict.toolHeadRawArrowGlass.name=粗糙的玻璃箭头
@@ -56710,6 +57115,7 @@ languagefile {
     S:oredict.toolHeadRawArrowKanthal.name=粗糙的铁铬铝合金箭头
     S:oredict.toolHeadRawArrowKnightmetal.name=粗糙的骑士金属箭头
     S:oredict.toolHeadRawArrowKomatiite.name=粗糙的科马提岩箭头
+    S:oredict.toolHeadRawArrowKreknorite.name=Raw Kreknorite Arrow Head
     S:oredict.toolHeadRawArrowLead.name=粗糙的铅箭头
     S:oredict.toolHeadRawArrowLimestone.name=粗糙的石灰石箭头
     S:oredict.toolHeadRawArrowMagnalium.name=粗糙的镁铝合金箭头
@@ -56722,6 +57128,7 @@ languagefile {
     S:oredict.toolHeadRawArrowMaxixe.name=Raw Maxixe Arrow Head
     S:oredict.toolHeadRawArrowMeteoricIron.name=粗糙的陨铁箭头
     S:oredict.toolHeadRawArrowMeteoricSteel.name=粗糙的陨钢箭头
+    S:oredict.toolHeadRawArrowMeteorite.name=Raw Meteorite Arrow Head
     S:oredict.toolHeadRawArrowMidasium.name=粗糙的溶火金箭头
     S:oredict.toolHeadRawArrowMigmatite.name=粗糙的混合岩箭头
     S:oredict.toolHeadRawArrowMithril.name=粗糙的秘银箭头
@@ -56766,6 +57173,7 @@ languagefile {
     S:oredict.toolHeadRawArrowQuartzBlack.name=粗糙的黑色石英岩箭头
     S:oredict.toolHeadRawArrowQuartzite.name=粗糙的石英岩箭头
     S:oredict.toolHeadRawArrowRedMatter.name=粗糙的红物质箭头
+    S:oredict.toolHeadRawArrowRedMeteor.name=Raw Red Meteor Arrow Head
     S:oredict.toolHeadRawArrowRedSteel.name=粗糙的红钢箭头
     S:oredict.toolHeadRawArrowRedrock.name=粗糙的红岩箭头
     S:oredict.toolHeadRawArrowRedstonia.name=Raw Redstonia Arrow Head
@@ -56993,6 +57401,8 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleFirestone.name=粗糙的火石双刃斧头
     S:oredict.toolHeadRawAxeDoubleFoolsRuby.name=粗糙的红宝石双刃斧头
     S:oredict.toolHeadRawAxeDoubleForce.name=粗糙的力量双刃斧头
+    S:oredict.toolHeadRawAxeDoubleFrezarite.name=Raw Frezarite Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleFrozenIron.name=Raw Frozen Iron Double Axe Head
     S:oredict.toolHeadRawAxeDoubleGildedIron.name=粗糙的镀金铁双刃斧头
     S:oredict.toolHeadRawAxeDoubleGneiss.name=粗糙的片麻岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleGold.name=粗糙的金双刃斧头
@@ -57027,6 +57437,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleKanthal.name=粗糙的铁铬铝合金双刃斧头
     S:oredict.toolHeadRawAxeDoubleKnightmetal.name=粗糙的骑士金属双刃斧头
     S:oredict.toolHeadRawAxeDoubleKomatiite.name=粗糙的科马提岩双刃斧头
+    S:oredict.toolHeadRawAxeDoubleKreknorite.name=Raw Kreknorite Double Axe Head
     S:oredict.toolHeadRawAxeDoubleLead.name=粗糙的铅双刃斧头
     S:oredict.toolHeadRawAxeDoubleMagnalium.name=粗糙的镁铝合金双刃斧头
     S:oredict.toolHeadRawAxeDoubleManasteel.name=Raw 魔力钢 Double Axe Head
@@ -57035,6 +57446,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleMaxixe.name=Raw Maxixe Double Axe Head
     S:oredict.toolHeadRawAxeDoubleMeteoricIron.name=粗糙的陨铁双刃斧头
     S:oredict.toolHeadRawAxeDoubleMeteoricSteel.name=粗糙的陨钢双刃斧头
+    S:oredict.toolHeadRawAxeDoubleMeteorite.name=Raw Meteorite Double Axe Head
     S:oredict.toolHeadRawAxeDoubleMidasium.name=粗糙的溶火金双刃斧头
     S:oredict.toolHeadRawAxeDoubleMigmatite.name=粗糙的混合岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleMithril.name=粗糙的秘银双刃斧头
@@ -57074,6 +57486,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleQuartzBlack.name=粗糙的黑色石英岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleQuartzite.name=粗糙的石英岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleRedMatter.name=粗糙的红物质双刃斧头
+    S:oredict.toolHeadRawAxeDoubleRedMeteor.name=Raw Red Meteor Double Axe Head
     S:oredict.toolHeadRawAxeDoubleRedSteel.name=粗糙的红钢双刃斧头
     S:oredict.toolHeadRawAxeDoubleRedstonia.name=Raw Redstonia Double Axe Head
     S:oredict.toolHeadRawAxeDoubleRhyolite.name=粗糙的流纹岩双刃斧头
@@ -57154,6 +57567,8 @@ languagefile {
     S:oredict.toolHeadRawAxeFlint.name=粗糙的燧石斧头
     S:oredict.toolHeadRawAxeFoolsRuby.name=粗糙的红宝石斧头
     S:oredict.toolHeadRawAxeForce.name=粗糙的力量斧头
+    S:oredict.toolHeadRawAxeFrezarite.name=Raw Frezarite Axe Head
+    S:oredict.toolHeadRawAxeFrozenIron.name=Raw Frozen Iron Axe Head
     S:oredict.toolHeadRawAxeGabbro.name=粗糙的辉长岩斧头
     S:oredict.toolHeadRawAxeGildedIron.name=粗糙的镀金铁斧头
     S:oredict.toolHeadRawAxeGlass.name=粗糙的玻璃斧头
@@ -57194,6 +57609,7 @@ languagefile {
     S:oredict.toolHeadRawAxeKanthal.name=粗糙的铁铬铝合金斧头
     S:oredict.toolHeadRawAxeKnightmetal.name=粗糙的骑士金属斧头
     S:oredict.toolHeadRawAxeKomatiite.name=粗糙的科马提岩斧头
+    S:oredict.toolHeadRawAxeKreknorite.name=Raw Kreknorite Axe Head
     S:oredict.toolHeadRawAxeLead.name=粗糙的铅斧头
     S:oredict.toolHeadRawAxeLimestone.name=粗糙的石灰石斧头
     S:oredict.toolHeadRawAxeMagnalium.name=粗糙的镁铝合金斧头
@@ -57206,6 +57622,7 @@ languagefile {
     S:oredict.toolHeadRawAxeMaxixe.name=Raw Maxixe Axe Head
     S:oredict.toolHeadRawAxeMeteoricIron.name=粗糙的陨铁斧头
     S:oredict.toolHeadRawAxeMeteoricSteel.name=粗糙的陨钢斧头
+    S:oredict.toolHeadRawAxeMeteorite.name=Raw Meteorite Axe Head
     S:oredict.toolHeadRawAxeMidasium.name=粗糙的溶火金斧头
     S:oredict.toolHeadRawAxeMigmatite.name=粗糙的混合岩斧头
     S:oredict.toolHeadRawAxeMithril.name=粗糙的秘银斧头
@@ -57250,6 +57667,7 @@ languagefile {
     S:oredict.toolHeadRawAxeQuartzBlack.name=粗糙的黑色石英岩斧头
     S:oredict.toolHeadRawAxeQuartzite.name=粗糙的石英岩斧头
     S:oredict.toolHeadRawAxeRedMatter.name=粗糙的红物质斧头
+    S:oredict.toolHeadRawAxeRedMeteor.name=Raw Red Meteor Axe Head
     S:oredict.toolHeadRawAxeRedSteel.name=粗糙的红钢斧头
     S:oredict.toolHeadRawAxeRedrock.name=粗糙的红岩斧头
     S:oredict.toolHeadRawAxeRedstonia.name=Raw Redstonia Axe Head
@@ -57404,6 +57822,8 @@ languagefile {
     S:oredict.toolHeadRawChiselFirestone.name=粗糙的火石凿子头
     S:oredict.toolHeadRawChiselFoolsRuby.name=粗糙的红宝石凿子头
     S:oredict.toolHeadRawChiselForce.name=粗糙的力量凿子头
+    S:oredict.toolHeadRawChiselFrezarite.name=Raw Frezarite Chisel Head
+    S:oredict.toolHeadRawChiselFrozenIron.name=Raw Frozen Iron Chisel Head
     S:oredict.toolHeadRawChiselGildedIron.name=粗糙的镀金铁凿子头
     S:oredict.toolHeadRawChiselGneiss.name=粗糙的片麻岩凿子头
     S:oredict.toolHeadRawChiselGold.name=粗糙的金凿子头
@@ -57437,6 +57857,7 @@ languagefile {
     S:oredict.toolHeadRawChiselKanthal.name=粗糙的铁铬铝合金凿子头
     S:oredict.toolHeadRawChiselKnightmetal.name=粗糙的骑士金属凿子头
     S:oredict.toolHeadRawChiselKomatiite.name=粗糙的科马提岩凿子头
+    S:oredict.toolHeadRawChiselKreknorite.name=Raw Kreknorite Chisel Head
     S:oredict.toolHeadRawChiselLead.name=粗糙的铅凿子头
     S:oredict.toolHeadRawChiselMagnalium.name=粗糙的镁铝合金凿子头
     S:oredict.toolHeadRawChiselManasteel.name=Raw 魔力钢 Chisel Head
@@ -57445,6 +57866,7 @@ languagefile {
     S:oredict.toolHeadRawChiselMaxixe.name=Raw Maxixe Chisel Head
     S:oredict.toolHeadRawChiselMeteoricIron.name=粗糙的陨铁凿子头
     S:oredict.toolHeadRawChiselMeteoricSteel.name=粗糙的陨钢凿子头
+    S:oredict.toolHeadRawChiselMeteorite.name=Raw Meteorite Chisel Head
     S:oredict.toolHeadRawChiselMidasium.name=粗糙的溶火金凿子头
     S:oredict.toolHeadRawChiselMigmatite.name=粗糙的混合岩凿子头
     S:oredict.toolHeadRawChiselMithril.name=粗糙的秘银凿子头
@@ -57483,6 +57905,7 @@ languagefile {
     S:oredict.toolHeadRawChiselQuartzBlack.name=粗糙的黑色石英岩凿子头
     S:oredict.toolHeadRawChiselQuartzite.name=粗糙的石英岩凿子头
     S:oredict.toolHeadRawChiselRedMatter.name=粗糙的红物质凿子头
+    S:oredict.toolHeadRawChiselRedMeteor.name=Raw Red Meteor Chisel Head
     S:oredict.toolHeadRawChiselRedSteel.name=粗糙的红钢凿子头
     S:oredict.toolHeadRawChiselRedstonia.name=Raw Redstonia Chisel Head
     S:oredict.toolHeadRawChiselRhyolite.name=粗糙的流纹岩凿子头
@@ -57634,6 +58057,8 @@ languagefile {
     S:oredict.toolHeadRawHoeFlint.name=粗糙的燧石锄头
     S:oredict.toolHeadRawHoeFoolsRuby.name=粗糙的红宝石锄头
     S:oredict.toolHeadRawHoeForce.name=粗糙的力量锄头
+    S:oredict.toolHeadRawHoeFrezarite.name=Raw Frezarite Hoe Head
+    S:oredict.toolHeadRawHoeFrozenIron.name=Raw Frozen Iron Hoe Head
     S:oredict.toolHeadRawHoeGabbro.name=粗糙的辉长岩锄头
     S:oredict.toolHeadRawHoeGildedIron.name=粗糙的镀金铁锄头
     S:oredict.toolHeadRawHoeGlass.name=粗糙的玻璃锄头
@@ -57674,6 +58099,7 @@ languagefile {
     S:oredict.toolHeadRawHoeKanthal.name=粗糙的铁铬铝合金锄头
     S:oredict.toolHeadRawHoeKnightmetal.name=粗糙的骑士金属锄头
     S:oredict.toolHeadRawHoeKomatiite.name=粗糙的科马提岩锄头
+    S:oredict.toolHeadRawHoeKreknorite.name=Raw Kreknorite Hoe Head
     S:oredict.toolHeadRawHoeLead.name=粗糙的铅锄头
     S:oredict.toolHeadRawHoeLimestone.name=粗糙的石灰石锄头
     S:oredict.toolHeadRawHoeMagnalium.name=粗糙的镁铝合金锄头
@@ -57686,6 +58112,7 @@ languagefile {
     S:oredict.toolHeadRawHoeMaxixe.name=Raw Maxixe Hoe Head
     S:oredict.toolHeadRawHoeMeteoricIron.name=粗糙的陨铁锄头
     S:oredict.toolHeadRawHoeMeteoricSteel.name=粗糙的陨钢锄头
+    S:oredict.toolHeadRawHoeMeteorite.name=Raw Meteorite Hoe Head
     S:oredict.toolHeadRawHoeMidasium.name=粗糙的溶火金锄头
     S:oredict.toolHeadRawHoeMigmatite.name=粗糙的混合岩锄头
     S:oredict.toolHeadRawHoeMithril.name=粗糙的秘银锄头
@@ -57730,6 +58157,7 @@ languagefile {
     S:oredict.toolHeadRawHoeQuartzBlack.name=粗糙的黑色石英岩锄头
     S:oredict.toolHeadRawHoeQuartzite.name=粗糙的石英岩锄头
     S:oredict.toolHeadRawHoeRedMatter.name=粗糙的红物质锄头
+    S:oredict.toolHeadRawHoeRedMeteor.name=Raw Red Meteor Hoe Head
     S:oredict.toolHeadRawHoeRedSteel.name=粗糙的红钢锄头
     S:oredict.toolHeadRawHoeRedrock.name=粗糙的红岩锄头
     S:oredict.toolHeadRawHoeRedstonia.name=Raw Redstonia Hoe Head
@@ -57891,6 +58319,8 @@ languagefile {
     S:oredict.toolHeadRawPickaxeFlint.name=粗糙的燧石镐头
     S:oredict.toolHeadRawPickaxeFoolsRuby.name=粗糙的红宝石镐头
     S:oredict.toolHeadRawPickaxeForce.name=粗糙的力量镐头
+    S:oredict.toolHeadRawPickaxeFrezarite.name=Raw Frezarite Pickaxe Head
+    S:oredict.toolHeadRawPickaxeFrozenIron.name=Raw Frozen Iron Pickaxe Head
     S:oredict.toolHeadRawPickaxeGabbro.name=粗糙的辉长岩镐头
     S:oredict.toolHeadRawPickaxeGildedIron.name=粗糙的镀金铁镐头
     S:oredict.toolHeadRawPickaxeGlass.name=粗糙的玻璃镐头
@@ -57931,6 +58361,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeKanthal.name=粗糙的铁铬铝合金镐头
     S:oredict.toolHeadRawPickaxeKnightmetal.name=粗糙的骑士金属镐头
     S:oredict.toolHeadRawPickaxeKomatiite.name=粗糙的科马提岩镐头
+    S:oredict.toolHeadRawPickaxeKreknorite.name=Raw Kreknorite Pickaxe Head
     S:oredict.toolHeadRawPickaxeLead.name=粗糙的铅镐头
     S:oredict.toolHeadRawPickaxeLimestone.name=粗糙的石灰石镐头
     S:oredict.toolHeadRawPickaxeMagnalium.name=粗糙的镁铝合金镐头
@@ -57943,6 +58374,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeMaxixe.name=Raw Maxixe 镐头
     S:oredict.toolHeadRawPickaxeMeteoricIron.name=粗糙的陨铁镐头
     S:oredict.toolHeadRawPickaxeMeteoricSteel.name=粗糙的陨钢镐头
+    S:oredict.toolHeadRawPickaxeMeteorite.name=Raw Meteorite Pickaxe Head
     S:oredict.toolHeadRawPickaxeMidasium.name=粗糙的溶火金镐头
     S:oredict.toolHeadRawPickaxeMigmatite.name=粗糙的混合岩镐头
     S:oredict.toolHeadRawPickaxeMithril.name=粗糙的秘银镐头
@@ -57987,6 +58419,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeQuartzBlack.name=粗糙的黑色石英岩镐头
     S:oredict.toolHeadRawPickaxeQuartzite.name=粗糙的石英岩镐头
     S:oredict.toolHeadRawPickaxeRedMatter.name=粗糙的红物质镐头
+    S:oredict.toolHeadRawPickaxeRedMeteor.name=Raw Red Meteor Pickaxe Head
     S:oredict.toolHeadRawPickaxeRedSteel.name=粗糙的红钢镐头
     S:oredict.toolHeadRawPickaxeRedrock.name=粗糙的红岩镐头
     S:oredict.toolHeadRawPickaxeRedstonia.name=Raw Redstonia 镐头
@@ -58148,6 +58581,8 @@ languagefile {
     S:oredict.toolHeadRawPlowFlint.name=粗糙的燧石犁头
     S:oredict.toolHeadRawPlowFoolsRuby.name=粗糙的红宝石犁头
     S:oredict.toolHeadRawPlowForce.name=粗糙的力量犁头
+    S:oredict.toolHeadRawPlowFrezarite.name=Raw Frezarite Plow Head
+    S:oredict.toolHeadRawPlowFrozenIron.name=Raw Frozen Iron Plow Head
     S:oredict.toolHeadRawPlowGabbro.name=粗糙的辉长岩犁头
     S:oredict.toolHeadRawPlowGildedIron.name=粗糙的镀金铁犁头
     S:oredict.toolHeadRawPlowGlass.name=粗糙的玻璃犁头
@@ -58188,6 +58623,7 @@ languagefile {
     S:oredict.toolHeadRawPlowKanthal.name=粗糙的铁铬铝合金犁头
     S:oredict.toolHeadRawPlowKnightmetal.name=粗糙的骑士金属犁头
     S:oredict.toolHeadRawPlowKomatiite.name=粗糙的科马提岩犁头
+    S:oredict.toolHeadRawPlowKreknorite.name=Raw Kreknorite Plow Head
     S:oredict.toolHeadRawPlowLead.name=粗糙的铅犁头
     S:oredict.toolHeadRawPlowLimestone.name=粗糙的石灰石犁头
     S:oredict.toolHeadRawPlowMagnalium.name=粗糙的镁铝合金犁头
@@ -58200,6 +58636,7 @@ languagefile {
     S:oredict.toolHeadRawPlowMaxixe.name=Raw Maxixe Plow Head
     S:oredict.toolHeadRawPlowMeteoricIron.name=粗糙的陨铁犁头
     S:oredict.toolHeadRawPlowMeteoricSteel.name=粗糙的陨钢犁头
+    S:oredict.toolHeadRawPlowMeteorite.name=Raw Meteorite Plow Head
     S:oredict.toolHeadRawPlowMidasium.name=粗糙的溶火金犁头
     S:oredict.toolHeadRawPlowMigmatite.name=粗糙的混合岩犁头
     S:oredict.toolHeadRawPlowMithril.name=粗糙的秘银犁头
@@ -58244,6 +58681,7 @@ languagefile {
     S:oredict.toolHeadRawPlowQuartzBlack.name=粗糙的黑色石英岩犁头
     S:oredict.toolHeadRawPlowQuartzite.name=粗糙的石英岩犁头
     S:oredict.toolHeadRawPlowRedMatter.name=粗糙的红物质犁头
+    S:oredict.toolHeadRawPlowRedMeteor.name=Raw Red Meteor Plow Head
     S:oredict.toolHeadRawPlowRedSteel.name=粗糙的红钢犁头
     S:oredict.toolHeadRawPlowRedrock.name=粗糙的红岩犁头
     S:oredict.toolHeadRawPlowRedstonia.name=Raw Redstonia Plow Head
@@ -58398,6 +58836,8 @@ languagefile {
     S:oredict.toolHeadRawSawFirestone.name=粗糙的火石锯片
     S:oredict.toolHeadRawSawFoolsRuby.name=粗糙的红宝石锯片
     S:oredict.toolHeadRawSawForce.name=粗糙的力量锯片
+    S:oredict.toolHeadRawSawFrezarite.name=Raw Frezarite Saw Blade
+    S:oredict.toolHeadRawSawFrozenIron.name=Raw Frozen Iron Saw Blade
     S:oredict.toolHeadRawSawGildedIron.name=粗糙的镀金铁圆锯片
     S:oredict.toolHeadRawSawGneiss.name=粗糙的片麻岩圆锯片
     S:oredict.toolHeadRawSawGold.name=粗糙的金锯片
@@ -58431,6 +58871,7 @@ languagefile {
     S:oredict.toolHeadRawSawKanthal.name=粗糙的铁铬铝合金锯片
     S:oredict.toolHeadRawSawKnightmetal.name=粗糙的骑士金属锯片
     S:oredict.toolHeadRawSawKomatiite.name=粗糙的科马提岩圆锯片
+    S:oredict.toolHeadRawSawKreknorite.name=Raw Kreknorite Saw Blade
     S:oredict.toolHeadRawSawLead.name=粗糙的铅锯片
     S:oredict.toolHeadRawSawMagnalium.name=粗糙的镁铝合金锯片
     S:oredict.toolHeadRawSawManasteel.name=Raw 魔力钢 Saw Blade
@@ -58439,6 +58880,7 @@ languagefile {
     S:oredict.toolHeadRawSawMaxixe.name=Raw Maxixe Saw Blade
     S:oredict.toolHeadRawSawMeteoricIron.name=粗糙的陨铁锯片
     S:oredict.toolHeadRawSawMeteoricSteel.name=粗糙的陨钢锯片
+    S:oredict.toolHeadRawSawMeteorite.name=Raw Meteorite Saw Blade
     S:oredict.toolHeadRawSawMidasium.name=粗糙的溶火金锯片
     S:oredict.toolHeadRawSawMigmatite.name=粗糙的混合岩圆锯片
     S:oredict.toolHeadRawSawMithril.name=粗糙的秘银锯片
@@ -58477,6 +58919,7 @@ languagefile {
     S:oredict.toolHeadRawSawQuartzBlack.name=粗糙的黑色石英岩锯片
     S:oredict.toolHeadRawSawQuartzite.name=粗糙的石英岩锯片
     S:oredict.toolHeadRawSawRedMatter.name=Raw Red Matter Saw Blade
+    S:oredict.toolHeadRawSawRedMeteor.name=Raw Red Meteor Saw Blade
     S:oredict.toolHeadRawSawRedSteel.name=粗糙的红钢锯片
     S:oredict.toolHeadRawSawRedstonia.name=Raw Redstonia Saw Blade
     S:oredict.toolHeadRawSawRhyolite.name=粗糙的流纹岩圆锯片
@@ -58628,6 +59071,8 @@ languagefile {
     S:oredict.toolHeadRawSenseFlint.name=粗糙的燧石镰刀片
     S:oredict.toolHeadRawSenseFoolsRuby.name=粗糙的红宝石镰刀片
     S:oredict.toolHeadRawSenseForce.name=粗糙的力量镰刀片
+    S:oredict.toolHeadRawSenseFrezarite.name=Raw Frezarite Sense Blade
+    S:oredict.toolHeadRawSenseFrozenIron.name=Raw Frozen Iron Sense Blade
     S:oredict.toolHeadRawSenseGabbro.name=粗糙的辉长岩镰刀片
     S:oredict.toolHeadRawSenseGildedIron.name=粗糙的镀金铁镰刀片
     S:oredict.toolHeadRawSenseGlass.name=粗糙的玻璃镰刀片
@@ -58668,6 +59113,7 @@ languagefile {
     S:oredict.toolHeadRawSenseKanthal.name=粗糙的铁铬铝合金镰刀片
     S:oredict.toolHeadRawSenseKnightmetal.name=粗糙的骑士金属镰刀片
     S:oredict.toolHeadRawSenseKomatiite.name=粗糙的科马提岩镰刀片
+    S:oredict.toolHeadRawSenseKreknorite.name=Raw Kreknorite Sense Blade
     S:oredict.toolHeadRawSenseLead.name=粗糙的铅镰刀片
     S:oredict.toolHeadRawSenseLimestone.name=粗糙的石灰石镰刀片
     S:oredict.toolHeadRawSenseMagnalium.name=粗糙的镁铝合金镰刀片
@@ -58680,6 +59126,7 @@ languagefile {
     S:oredict.toolHeadRawSenseMaxixe.name=Raw Maxixe Sense Blade
     S:oredict.toolHeadRawSenseMeteoricIron.name=粗糙的陨铁镰刀片
     S:oredict.toolHeadRawSenseMeteoricSteel.name=粗糙的陨钢镰刀片
+    S:oredict.toolHeadRawSenseMeteorite.name=Raw Meteorite Sense Blade
     S:oredict.toolHeadRawSenseMidasium.name=粗糙的溶火金镰刀片
     S:oredict.toolHeadRawSenseMigmatite.name=粗糙的混合岩镰刀片
     S:oredict.toolHeadRawSenseMithril.name=粗糙的秘银镰刀片
@@ -58724,6 +59171,7 @@ languagefile {
     S:oredict.toolHeadRawSenseQuartzBlack.name=粗糙的黑色石英岩镰刀片
     S:oredict.toolHeadRawSenseQuartzite.name=粗糙的石英岩镰刀片
     S:oredict.toolHeadRawSenseRedMatter.name=粗糙的红物质镰刀片
+    S:oredict.toolHeadRawSenseRedMeteor.name=Raw Red Meteor Sense Blade
     S:oredict.toolHeadRawSenseRedSteel.name=粗糙的红钢镰刀片
     S:oredict.toolHeadRawSenseRedrock.name=粗糙的红岩镰刀片
     S:oredict.toolHeadRawSenseRedstonia.name=Raw Redstonia Sense Blade
@@ -58885,6 +59333,8 @@ languagefile {
     S:oredict.toolHeadRawShovelFlint.name=粗糙的燧石锹头
     S:oredict.toolHeadRawShovelFoolsRuby.name=粗糙的红宝石锹头
     S:oredict.toolHeadRawShovelForce.name=粗糙的力量锹头
+    S:oredict.toolHeadRawShovelFrezarite.name=Raw Frezarite Shovel Head
+    S:oredict.toolHeadRawShovelFrozenIron.name=Raw Frozen Iron Shovel Head
     S:oredict.toolHeadRawShovelGabbro.name=粗糙的辉长岩锹头
     S:oredict.toolHeadRawShovelGildedIron.name=粗糙的镀金铁锹头
     S:oredict.toolHeadRawShovelGlass.name=粗糙的玻璃锹头
@@ -58925,6 +59375,7 @@ languagefile {
     S:oredict.toolHeadRawShovelKanthal.name=粗糙的铁铬铝合金锹头
     S:oredict.toolHeadRawShovelKnightmetal.name=粗糙的骑士金属锹头
     S:oredict.toolHeadRawShovelKomatiite.name=粗糙的科马提岩锹头
+    S:oredict.toolHeadRawShovelKreknorite.name=Raw Kreknorite Shovel Head
     S:oredict.toolHeadRawShovelLead.name=粗糙的铅锹头
     S:oredict.toolHeadRawShovelLimestone.name=粗糙的石灰石锹头
     S:oredict.toolHeadRawShovelMagnalium.name=粗糙的镁铝合金锹头
@@ -58937,6 +59388,7 @@ languagefile {
     S:oredict.toolHeadRawShovelMaxixe.name=Raw Maxixe 铲头
     S:oredict.toolHeadRawShovelMeteoricIron.name=粗糙的陨铁锹头
     S:oredict.toolHeadRawShovelMeteoricSteel.name=粗糙的陨钢锹头
+    S:oredict.toolHeadRawShovelMeteorite.name=Raw Meteorite Shovel Head
     S:oredict.toolHeadRawShovelMidasium.name=粗糙的溶火金锹头
     S:oredict.toolHeadRawShovelMigmatite.name=粗糙的混合岩锹头
     S:oredict.toolHeadRawShovelMithril.name=粗糙的秘银锹头
@@ -58981,6 +59433,7 @@ languagefile {
     S:oredict.toolHeadRawShovelQuartzBlack.name=粗糙的黑色石英岩锹头
     S:oredict.toolHeadRawShovelQuartzite.name=粗糙的石英岩锹头
     S:oredict.toolHeadRawShovelRedMatter.name=粗糙的红物质锹头
+    S:oredict.toolHeadRawShovelRedMeteor.name=Raw Red Meteor Shovel Head
     S:oredict.toolHeadRawShovelRedSteel.name=粗糙的红钢锹头
     S:oredict.toolHeadRawShovelRedrock.name=粗糙的红岩锹头
     S:oredict.toolHeadRawShovelRedstonia.name=Raw Redstonia 铲头
@@ -59142,6 +59595,8 @@ languagefile {
     S:oredict.toolHeadRawSpadeFlint.name=粗糙的燧石铲头
     S:oredict.toolHeadRawSpadeFoolsRuby.name=粗糙的红宝石铲头
     S:oredict.toolHeadRawSpadeForce.name=粗糙的力量铲头
+    S:oredict.toolHeadRawSpadeFrezarite.name=Raw Frezarite Spade Head
+    S:oredict.toolHeadRawSpadeFrozenIron.name=Raw Frozen Iron Spade Head
     S:oredict.toolHeadRawSpadeGabbro.name=粗糙的辉长岩铲头
     S:oredict.toolHeadRawSpadeGildedIron.name=粗糙的镀金铁铲头
     S:oredict.toolHeadRawSpadeGlass.name=粗糙的玻璃铲头
@@ -59182,6 +59637,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeKanthal.name=粗糙的铁铬铝合金铲头
     S:oredict.toolHeadRawSpadeKnightmetal.name=粗糙的骑士金属铲头
     S:oredict.toolHeadRawSpadeKomatiite.name=粗糙的科马提岩铲头
+    S:oredict.toolHeadRawSpadeKreknorite.name=Raw Kreknorite Spade Head
     S:oredict.toolHeadRawSpadeLead.name=粗糙的铅铲头
     S:oredict.toolHeadRawSpadeLimestone.name=粗糙的石灰石铲头
     S:oredict.toolHeadRawSpadeMagnalium.name=粗糙的镁铝合金铲头
@@ -59194,6 +59650,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeMaxixe.name=Raw Maxixe 铲头
     S:oredict.toolHeadRawSpadeMeteoricIron.name=粗糙的陨铁铲头
     S:oredict.toolHeadRawSpadeMeteoricSteel.name=粗糙的陨钢铲头
+    S:oredict.toolHeadRawSpadeMeteorite.name=Raw Meteorite Spade Head
     S:oredict.toolHeadRawSpadeMidasium.name=粗糙的溶火金铲头
     S:oredict.toolHeadRawSpadeMigmatite.name=粗糙的混合岩铲头
     S:oredict.toolHeadRawSpadeMithril.name=粗糙的秘银铲头
@@ -59238,6 +59695,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeQuartzBlack.name=粗糙的黑色石英岩铲头
     S:oredict.toolHeadRawSpadeQuartzite.name=粗糙的石英岩铲头
     S:oredict.toolHeadRawSpadeRedMatter.name=粗糙的红物质铲头
+    S:oredict.toolHeadRawSpadeRedMeteor.name=Raw Red Meteor Spade Head
     S:oredict.toolHeadRawSpadeRedSteel.name=粗糙的红钢铲头
     S:oredict.toolHeadRawSpadeRedrock.name=粗糙的红岩铲头
     S:oredict.toolHeadRawSpadeRedstonia.name=Raw Redstonia 铲头
@@ -59399,6 +59857,8 @@ languagefile {
     S:oredict.toolHeadRawSwordFlint.name=粗糙的燧石剑身
     S:oredict.toolHeadRawSwordFoolsRuby.name=粗糙的红宝石剑身
     S:oredict.toolHeadRawSwordForce.name=粗糙的力量剑身
+    S:oredict.toolHeadRawSwordFrezarite.name=Raw Frezarite Sword Blade
+    S:oredict.toolHeadRawSwordFrozenIron.name=Raw Frozen Iron Sword Blade
     S:oredict.toolHeadRawSwordGabbro.name=粗糙的辉长岩剑身
     S:oredict.toolHeadRawSwordGildedIron.name=粗糙的镀金铁剑身
     S:oredict.toolHeadRawSwordGlass.name=粗糙的玻璃剑身
@@ -59439,6 +59899,7 @@ languagefile {
     S:oredict.toolHeadRawSwordKanthal.name=粗糙的铁铬铝合金剑身
     S:oredict.toolHeadRawSwordKnightmetal.name=粗糙的骑士金属剑身
     S:oredict.toolHeadRawSwordKomatiite.name=粗糙的科马提岩剑身
+    S:oredict.toolHeadRawSwordKreknorite.name=Raw Kreknorite Sword Blade
     S:oredict.toolHeadRawSwordLead.name=粗糙的铅剑身
     S:oredict.toolHeadRawSwordLimestone.name=粗糙的石灰石剑身
     S:oredict.toolHeadRawSwordMagnalium.name=粗糙的镁铝合金剑身
@@ -59451,6 +59912,7 @@ languagefile {
     S:oredict.toolHeadRawSwordMaxixe.name=Raw Maxixe 剑身
     S:oredict.toolHeadRawSwordMeteoricIron.name=粗糙的陨铁剑身
     S:oredict.toolHeadRawSwordMeteoricSteel.name=粗糙的陨钢剑身
+    S:oredict.toolHeadRawSwordMeteorite.name=Raw Meteorite Sword Blade
     S:oredict.toolHeadRawSwordMidasium.name=粗糙的溶火金剑身
     S:oredict.toolHeadRawSwordMigmatite.name=粗糙的混合岩剑身
     S:oredict.toolHeadRawSwordMithril.name=粗糙的秘银剑身
@@ -59495,6 +59957,7 @@ languagefile {
     S:oredict.toolHeadRawSwordQuartzBlack.name=粗糙的黑色石英岩剑身
     S:oredict.toolHeadRawSwordQuartzite.name=粗糙的石英岩剑身
     S:oredict.toolHeadRawSwordRedMatter.name=粗糙的红物质剑身
+    S:oredict.toolHeadRawSwordRedMeteor.name=Raw Red Meteor Sword Blade
     S:oredict.toolHeadRawSwordRedSteel.name=粗糙的红钢剑身
     S:oredict.toolHeadRawSwordRedrock.name=粗糙的红岩剑身
     S:oredict.toolHeadRawSwordRedstonia.name=Raw Redstonia 剑身
@@ -59649,6 +60112,8 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeFirestone.name=粗糙的火石万用铲头
     S:oredict.toolHeadRawUniversalSpadeFoolsRuby.name=粗糙的红宝石万用铲头
     S:oredict.toolHeadRawUniversalSpadeForce.name=粗糙的力量万用铲头
+    S:oredict.toolHeadRawUniversalSpadeFrezarite.name=Raw Frezarite Universal Spade Head
+    S:oredict.toolHeadRawUniversalSpadeFrozenIron.name=Raw Frozen Iron Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeGildedIron.name=粗糙的镀金铁万用铲头
     S:oredict.toolHeadRawUniversalSpadeGneiss.name=粗糙的片麻岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeGold.name=粗糙的金万用铲头
@@ -59682,6 +60147,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeKanthal.name=粗糙的铁铬铝合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeKnightmetal.name=粗糙的骑士金属万用铲头
     S:oredict.toolHeadRawUniversalSpadeKomatiite.name=粗糙的科马提岩万用铲头
+    S:oredict.toolHeadRawUniversalSpadeKreknorite.name=Raw Kreknorite Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeLead.name=粗糙的铅万用铲头
     S:oredict.toolHeadRawUniversalSpadeMagnalium.name=粗糙的镁铝合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeManasteel.name=Raw 魔力钢 Universal Spade Head
@@ -59690,6 +60156,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeMaxixe.name=Raw Maxixe 万用铲头
     S:oredict.toolHeadRawUniversalSpadeMeteoricIron.name=粗糙的陨铁万用铲头
     S:oredict.toolHeadRawUniversalSpadeMeteoricSteel.name=粗糙的陨钢万用铲头
+    S:oredict.toolHeadRawUniversalSpadeMeteorite.name=Raw Meteorite Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeMidasium.name=粗糙的溶火金万用铲头
     S:oredict.toolHeadRawUniversalSpadeMigmatite.name=粗糙的混合岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeMithril.name=粗糙的秘银万用铲头
@@ -59728,6 +60195,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeQuartzBlack.name=粗糙的黑色石英岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeQuartzite.name=粗糙的石英岩万用铲头
     S:oredict.toolHeadRawUniversalSpadeRedMatter.name=Raw Red Matter 万用铲头
+    S:oredict.toolHeadRawUniversalSpadeRedMeteor.name=Raw Red Meteor Universal Spade Head
     S:oredict.toolHeadRawUniversalSpadeRedSteel.name=粗糙的红钢万用铲头
     S:oredict.toolHeadRawUniversalSpadeRedstonia.name=Raw Redstonia 万用铲头
     S:oredict.toolHeadRawUniversalSpadeRhyolite.name=粗糙的流纹岩万用铲头
@@ -59872,6 +60340,8 @@ languagefile {
     S:oredict.toolHeadSawFirestone.name=火石锯片
     S:oredict.toolHeadSawFoolsRuby.name=红宝石锯片
     S:oredict.toolHeadSawForce.name=力量锯片
+    S:oredict.toolHeadSawFrezarite.name=Frezarite Saw Blade
+    S:oredict.toolHeadSawFrozenIron.name=Frozen Iron Saw Blade
     S:oredict.toolHeadSawGildedIron.name=镀金铁锯片
     S:oredict.toolHeadSawGneiss.name=片麻岩锯片
     S:oredict.toolHeadSawGold.name=金锯片
@@ -59905,6 +60375,7 @@ languagefile {
     S:oredict.toolHeadSawKanthal.name=铁铬铝合金锯片
     S:oredict.toolHeadSawKnightmetal.name=骑士金属锯片
     S:oredict.toolHeadSawKomatiite.name=科马提岩锯片
+    S:oredict.toolHeadSawKreknorite.name=Kreknorite Saw Blade
     S:oredict.toolHeadSawLead.name=铅锯片
     S:oredict.toolHeadSawMagnalium.name=镁铝合金锯片
     S:oredict.toolHeadSawManasteel.name=Manasteel Saw Blade
@@ -59913,6 +60384,7 @@ languagefile {
     S:oredict.toolHeadSawMaxixe.name=Maxixe Saw Blade
     S:oredict.toolHeadSawMeteoricIron.name=陨铁锯片
     S:oredict.toolHeadSawMeteoricSteel.name=陨钢锯片
+    S:oredict.toolHeadSawMeteorite.name=Meteorite Saw Blade
     S:oredict.toolHeadSawMidasium.name=溶火金锯片
     S:oredict.toolHeadSawMigmatite.name=混合岩锯片
     S:oredict.toolHeadSawMithril.name=秘银锯片
@@ -59951,6 +60423,7 @@ languagefile {
     S:oredict.toolHeadSawQuartzBlack.name=黑色石英岩锯片
     S:oredict.toolHeadSawQuartzite.name=石英岩锯片
     S:oredict.toolHeadSawRedMatter.name=Red Matter Saw Blade
+    S:oredict.toolHeadSawRedMeteor.name=Red Meteor Saw Blade
     S:oredict.toolHeadSawRedSteel.name=红钢锯片
     S:oredict.toolHeadSawRedstonia.name=Redstonia Saw Blade
     S:oredict.toolHeadSawRhyolite.name=流纹岩锯片
@@ -60095,6 +60568,8 @@ languagefile {
     S:oredict.toolHeadScrewdriverFirestone.name=火石螺丝刀头
     S:oredict.toolHeadScrewdriverFoolsRuby.name=红宝石螺丝刀头
     S:oredict.toolHeadScrewdriverForce.name=力量螺丝刀头
+    S:oredict.toolHeadScrewdriverFrezarite.name=Frezarite Screwdriver Tip
+    S:oredict.toolHeadScrewdriverFrozenIron.name=Frozen Iron Screwdriver Tip
     S:oredict.toolHeadScrewdriverGildedIron.name=镀金铁螺丝刀头
     S:oredict.toolHeadScrewdriverGneiss.name=片麻岩螺丝刀头
     S:oredict.toolHeadScrewdriverGold.name=金螺丝刀头
@@ -60129,6 +60604,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverKanthal.name=铁铬铝合金螺丝刀头
     S:oredict.toolHeadScrewdriverKnightmetal.name=骑士金属螺丝刀头
     S:oredict.toolHeadScrewdriverKomatiite.name=科马提岩螺丝刀头
+    S:oredict.toolHeadScrewdriverKreknorite.name=Kreknorite Screwdriver Tip
     S:oredict.toolHeadScrewdriverLead.name=铅螺丝刀头
     S:oredict.toolHeadScrewdriverMagnalium.name=镁铝合金螺丝刀头
     S:oredict.toolHeadScrewdriverManasteel.name=魔力钢 Screwdriver Tip
@@ -60137,6 +60613,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverMaxixe.name=Maxixe 螺丝刀头
     S:oredict.toolHeadScrewdriverMeteoricIron.name=陨铁螺丝刀头
     S:oredict.toolHeadScrewdriverMeteoricSteel.name=陨钢螺丝刀头
+    S:oredict.toolHeadScrewdriverMeteorite.name=Meteorite Screwdriver Tip
     S:oredict.toolHeadScrewdriverMidasium.name=溶火金螺丝刀头
     S:oredict.toolHeadScrewdriverMigmatite.name=混合岩螺丝刀头
     S:oredict.toolHeadScrewdriverMithril.name=秘银螺丝刀头
@@ -60176,6 +60653,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverQuartzBlack.name=黑色石英岩螺丝刀头
     S:oredict.toolHeadScrewdriverQuartzite.name=石英岩螺丝刀头
     S:oredict.toolHeadScrewdriverRedMatter.name=Red Matter 螺丝刀头
+    S:oredict.toolHeadScrewdriverRedMeteor.name=Red Meteor Screwdriver Tip
     S:oredict.toolHeadScrewdriverRedSteel.name=红钢螺丝刀头
     S:oredict.toolHeadScrewdriverRedstonia.name=Redstonia 螺丝刀头
     S:oredict.toolHeadScrewdriverRhyolite.name=流纹岩螺丝刀头
@@ -60329,6 +60807,8 @@ languagefile {
     S:oredict.toolHeadSenseFlint.name=燧石镰刀片
     S:oredict.toolHeadSenseFoolsRuby.name=红宝石镰刀片
     S:oredict.toolHeadSenseForce.name=力量镰刀片
+    S:oredict.toolHeadSenseFrezarite.name=Frezarite Sense Blade
+    S:oredict.toolHeadSenseFrozenIron.name=Frozen Iron Sense Blade
     S:oredict.toolHeadSenseGabbro.name=辉长岩镰刀片
     S:oredict.toolHeadSenseGildedIron.name=镀金铁镰刀片
     S:oredict.toolHeadSenseGlass.name=玻璃镰刀片
@@ -60369,6 +60849,7 @@ languagefile {
     S:oredict.toolHeadSenseKanthal.name=铁铬铝合金镰刀片
     S:oredict.toolHeadSenseKnightmetal.name=骑士金属镰刀片
     S:oredict.toolHeadSenseKomatiite.name=科马提岩镰刀片
+    S:oredict.toolHeadSenseKreknorite.name=Kreknorite Sense Blade
     S:oredict.toolHeadSenseLead.name=铅镰刀片
     S:oredict.toolHeadSenseLimestone.name=石灰石镰刀片
     S:oredict.toolHeadSenseMagnalium.name=镁铝合金镰刀片
@@ -60381,6 +60862,7 @@ languagefile {
     S:oredict.toolHeadSenseMaxixe.name=Maxixe Sense Blade
     S:oredict.toolHeadSenseMeteoricIron.name=陨铁镰刀片
     S:oredict.toolHeadSenseMeteoricSteel.name=陨钢镰刀片
+    S:oredict.toolHeadSenseMeteorite.name=Meteorite Sense Blade
     S:oredict.toolHeadSenseMidasium.name=溶火金镰刀片
     S:oredict.toolHeadSenseMigmatite.name=混合岩镰刀片
     S:oredict.toolHeadSenseMithril.name=秘银镰刀片
@@ -60425,6 +60907,7 @@ languagefile {
     S:oredict.toolHeadSenseQuartzBlack.name=黑色石英岩镰刀片
     S:oredict.toolHeadSenseQuartzite.name=石英岩镰刀片
     S:oredict.toolHeadSenseRedMatter.name=红物质镰刀片
+    S:oredict.toolHeadSenseRedMeteor.name=Red Meteor Sense Blade
     S:oredict.toolHeadSenseRedSteel.name=红钢镰刀片
     S:oredict.toolHeadSenseRedrock.name=红岩镰刀片
     S:oredict.toolHeadSenseRedstonia.name=Redstonia Sense Blade
@@ -60586,6 +61069,8 @@ languagefile {
     S:oredict.toolHeadShovelFlint.name=燧石锹头
     S:oredict.toolHeadShovelFoolsRuby.name=红宝石锹头
     S:oredict.toolHeadShovelForce.name=力量锹头
+    S:oredict.toolHeadShovelFrezarite.name=Frezarite Shovel Head
+    S:oredict.toolHeadShovelFrozenIron.name=Frozen Iron Shovel Head
     S:oredict.toolHeadShovelGabbro.name=辉长岩锹头
     S:oredict.toolHeadShovelGildedIron.name=镀金铁锹头
     S:oredict.toolHeadShovelGlass.name=玻璃锹头
@@ -60626,6 +61111,7 @@ languagefile {
     S:oredict.toolHeadShovelKanthal.name=铁铬铝合金锹头
     S:oredict.toolHeadShovelKnightmetal.name=骑士金属锹头
     S:oredict.toolHeadShovelKomatiite.name=科马提岩锹头
+    S:oredict.toolHeadShovelKreknorite.name=Kreknorite Shovel Head
     S:oredict.toolHeadShovelLead.name=铅锹头
     S:oredict.toolHeadShovelLimestone.name=石灰石锹头
     S:oredict.toolHeadShovelMagnalium.name=镁铝合金锹头
@@ -60638,6 +61124,7 @@ languagefile {
     S:oredict.toolHeadShovelMaxixe.name=Maxixe 铲头
     S:oredict.toolHeadShovelMeteoricIron.name=陨铁锹头
     S:oredict.toolHeadShovelMeteoricSteel.name=陨钢锹头
+    S:oredict.toolHeadShovelMeteorite.name=Meteorite Shovel Head
     S:oredict.toolHeadShovelMidasium.name=溶火金锹头
     S:oredict.toolHeadShovelMigmatite.name=混合岩锹头
     S:oredict.toolHeadShovelMithril.name=秘银锹头
@@ -60682,6 +61169,7 @@ languagefile {
     S:oredict.toolHeadShovelQuartzBlack.name=黑色石英岩锹头
     S:oredict.toolHeadShovelQuartzite.name=石英岩锹头
     S:oredict.toolHeadShovelRedMatter.name=红物质锹头
+    S:oredict.toolHeadShovelRedMeteor.name=Red Meteor Shovel Head
     S:oredict.toolHeadShovelRedSteel.name=红钢锹头
     S:oredict.toolHeadShovelRedrock.name=红岩锹头
     S:oredict.toolHeadShovelRedstonia.name=Redstonia 铲头
@@ -60843,6 +61331,8 @@ languagefile {
     S:oredict.toolHeadSpadeFlint.name=燧石铲头
     S:oredict.toolHeadSpadeFoolsRuby.name=红宝石铲头
     S:oredict.toolHeadSpadeForce.name=力量铲头
+    S:oredict.toolHeadSpadeFrezarite.name=Frezarite Spade Head
+    S:oredict.toolHeadSpadeFrozenIron.name=Frozen Iron Spade Head
     S:oredict.toolHeadSpadeGabbro.name=辉长岩铲头
     S:oredict.toolHeadSpadeGildedIron.name=镀金铁铲头
     S:oredict.toolHeadSpadeGlass.name=玻璃铲头
@@ -60883,6 +61373,7 @@ languagefile {
     S:oredict.toolHeadSpadeKanthal.name=铁铬铝合金铲头
     S:oredict.toolHeadSpadeKnightmetal.name=骑士金属铲头
     S:oredict.toolHeadSpadeKomatiite.name=科马提岩铲头
+    S:oredict.toolHeadSpadeKreknorite.name=Kreknorite Spade Head
     S:oredict.toolHeadSpadeLead.name=铅铲头
     S:oredict.toolHeadSpadeLimestone.name=石灰石铲头
     S:oredict.toolHeadSpadeMagnalium.name=镁铝合金铲头
@@ -60895,6 +61386,7 @@ languagefile {
     S:oredict.toolHeadSpadeMaxixe.name=Maxixe 铲头
     S:oredict.toolHeadSpadeMeteoricIron.name=陨铁铲头
     S:oredict.toolHeadSpadeMeteoricSteel.name=陨钢铲头
+    S:oredict.toolHeadSpadeMeteorite.name=Meteorite Spade Head
     S:oredict.toolHeadSpadeMidasium.name=溶火金铲头
     S:oredict.toolHeadSpadeMigmatite.name=混合岩铲头
     S:oredict.toolHeadSpadeMithril.name=秘银铲头
@@ -60939,6 +61431,7 @@ languagefile {
     S:oredict.toolHeadSpadeQuartzBlack.name=黑色石英岩铲头
     S:oredict.toolHeadSpadeQuartzite.name=石英岩铲头
     S:oredict.toolHeadSpadeRedMatter.name=红物质铲头
+    S:oredict.toolHeadSpadeRedMeteor.name=Red Meteor Spade Head
     S:oredict.toolHeadSpadeRedSteel.name=红钢铲头
     S:oredict.toolHeadSpadeRedrock.name=红岩铲头
     S:oredict.toolHeadSpadeRedstonia.name=Redstonia 铲头
@@ -61100,6 +61593,8 @@ languagefile {
     S:oredict.toolHeadSwordFlint.name=燧石剑身
     S:oredict.toolHeadSwordFoolsRuby.name=红宝石剑身
     S:oredict.toolHeadSwordForce.name=力量剑身
+    S:oredict.toolHeadSwordFrezarite.name=Frezarite Sword Blade
+    S:oredict.toolHeadSwordFrozenIron.name=Frozen Iron Sword Blade
     S:oredict.toolHeadSwordGabbro.name=辉长岩剑身
     S:oredict.toolHeadSwordGildedIron.name=镀金铁剑身
     S:oredict.toolHeadSwordGlass.name=玻璃剑身
@@ -61140,6 +61635,7 @@ languagefile {
     S:oredict.toolHeadSwordKanthal.name=铁铬铝合金剑身
     S:oredict.toolHeadSwordKnightmetal.name=骑士金属剑身
     S:oredict.toolHeadSwordKomatiite.name=科马提岩剑身
+    S:oredict.toolHeadSwordKreknorite.name=Kreknorite Sword Blade
     S:oredict.toolHeadSwordLead.name=铅剑身
     S:oredict.toolHeadSwordLimestone.name=石灰石剑身
     S:oredict.toolHeadSwordMagnalium.name=镁铝合金剑身
@@ -61152,6 +61648,7 @@ languagefile {
     S:oredict.toolHeadSwordMaxixe.name=Maxixe 剑身
     S:oredict.toolHeadSwordMeteoricIron.name=陨铁剑身
     S:oredict.toolHeadSwordMeteoricSteel.name=陨钢剑身
+    S:oredict.toolHeadSwordMeteorite.name=Meteorite Sword Blade
     S:oredict.toolHeadSwordMidasium.name=溶火金剑身
     S:oredict.toolHeadSwordMigmatite.name=混合岩剑身
     S:oredict.toolHeadSwordMithril.name=秘银剑身
@@ -61196,6 +61693,7 @@ languagefile {
     S:oredict.toolHeadSwordQuartzBlack.name=黑色石英岩剑身
     S:oredict.toolHeadSwordQuartzite.name=石英岩剑身
     S:oredict.toolHeadSwordRedMatter.name=红物质剑身
+    S:oredict.toolHeadSwordRedMeteor.name=Red Meteor Sword Blade
     S:oredict.toolHeadSwordRedSteel.name=红钢剑身
     S:oredict.toolHeadSwordRedrock.name=红岩剑身
     S:oredict.toolHeadSwordRedstonia.name=Redstonia 剑身
@@ -61350,6 +61848,8 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeFirestone.name=火石万用铲头
     S:oredict.toolHeadUniversalSpadeFoolsRuby.name=红宝石万用铲头
     S:oredict.toolHeadUniversalSpadeForce.name=力量万用铲头
+    S:oredict.toolHeadUniversalSpadeFrezarite.name=Frezarite Universal Spade Head
+    S:oredict.toolHeadUniversalSpadeFrozenIron.name=Frozen Iron Universal Spade Head
     S:oredict.toolHeadUniversalSpadeGildedIron.name=镀金铁万用铲头
     S:oredict.toolHeadUniversalSpadeGneiss.name=片麻岩万用铲头
     S:oredict.toolHeadUniversalSpadeGold.name=金万用铲头
@@ -61383,6 +61883,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeKanthal.name=铁铬铝合金万用铲头
     S:oredict.toolHeadUniversalSpadeKnightmetal.name=骑士金属万用铲头
     S:oredict.toolHeadUniversalSpadeKomatiite.name=科马提岩万用铲头
+    S:oredict.toolHeadUniversalSpadeKreknorite.name=Kreknorite Universal Spade Head
     S:oredict.toolHeadUniversalSpadeLead.name=铅万用铲头
     S:oredict.toolHeadUniversalSpadeMagnalium.name=镁铝合金万用铲头
     S:oredict.toolHeadUniversalSpadeManasteel.name=魔力钢 Universal Spade Head
@@ -61391,6 +61892,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeMaxixe.name=Maxixe 万用铲头
     S:oredict.toolHeadUniversalSpadeMeteoricIron.name=陨铁万用铲头
     S:oredict.toolHeadUniversalSpadeMeteoricSteel.name=陨钢万用铲头
+    S:oredict.toolHeadUniversalSpadeMeteorite.name=Meteorite Universal Spade Head
     S:oredict.toolHeadUniversalSpadeMidasium.name=溶火金万用铲头
     S:oredict.toolHeadUniversalSpadeMigmatite.name=混合岩万用铲头
     S:oredict.toolHeadUniversalSpadeMithril.name=秘银万用铲头
@@ -61429,6 +61931,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeQuartzBlack.name=黑色石英岩万用铲头
     S:oredict.toolHeadUniversalSpadeQuartzite.name=石英岩万用铲头
     S:oredict.toolHeadUniversalSpadeRedMatter.name=Red Matter 万用铲头
+    S:oredict.toolHeadUniversalSpadeRedMeteor.name=Red Meteor Universal Spade Head
     S:oredict.toolHeadUniversalSpadeRedSteel.name=红钢万用铲头
     S:oredict.toolHeadUniversalSpadeRedstonia.name=Redstonia 万用铲头
     S:oredict.toolHeadUniversalSpadeRhyolite.name=流纹岩万用铲头
@@ -61573,6 +62076,8 @@ languagefile {
     S:oredict.toolHeadWrenchFirestone.name=火石扳手头
     S:oredict.toolHeadWrenchFoolsRuby.name=红宝石扳手头
     S:oredict.toolHeadWrenchForce.name=力量扳手头
+    S:oredict.toolHeadWrenchFrezarite.name=Frezarite Wrench Tip
+    S:oredict.toolHeadWrenchFrozenIron.name=Frozen Iron Wrench Tip
     S:oredict.toolHeadWrenchGildedIron.name=镀金铁扳手头
     S:oredict.toolHeadWrenchGneiss.name=片麻岩扳手头
     S:oredict.toolHeadWrenchGold.name=金扳手头
@@ -61606,6 +62111,7 @@ languagefile {
     S:oredict.toolHeadWrenchKanthal.name=铁铬铝合金扳手头
     S:oredict.toolHeadWrenchKnightmetal.name=骑士金属扳手头
     S:oredict.toolHeadWrenchKomatiite.name=科马提岩扳手头
+    S:oredict.toolHeadWrenchKreknorite.name=Kreknorite Wrench Tip
     S:oredict.toolHeadWrenchLead.name=铅扳手头
     S:oredict.toolHeadWrenchMagnalium.name=镁铝合金扳手头
     S:oredict.toolHeadWrenchManasteel.name=魔力钢 Wrench Tip
@@ -61614,6 +62120,7 @@ languagefile {
     S:oredict.toolHeadWrenchMaxixe.name=Maxixe 扳手头
     S:oredict.toolHeadWrenchMeteoricIron.name=陨铁扳手头
     S:oredict.toolHeadWrenchMeteoricSteel.name=陨钢扳手头
+    S:oredict.toolHeadWrenchMeteorite.name=Meteorite Wrench Tip
     S:oredict.toolHeadWrenchMidasium.name=溶火金扳手头
     S:oredict.toolHeadWrenchMigmatite.name=混合岩扳手头
     S:oredict.toolHeadWrenchMithril.name=秘银扳手头
@@ -61652,6 +62159,7 @@ languagefile {
     S:oredict.toolHeadWrenchQuartzBlack.name=黑色石英岩扳手头
     S:oredict.toolHeadWrenchQuartzite.name=石英岩扳手头
     S:oredict.toolHeadWrenchRedMatter.name=Red Matter 扳手头
+    S:oredict.toolHeadWrenchRedMeteor.name=Red Meteor Wrench Tip
     S:oredict.toolHeadWrenchRedSteel.name=红钢扳手头
     S:oredict.toolHeadWrenchRedstonia.name=Redstonia 扳手头
     S:oredict.toolHeadWrenchRhyolite.name=流纹岩扳手头
@@ -61772,6 +62280,7 @@ languagefile {
     S:oredict.wireFineEnergeticAlloy.name=优良充能合金线缆
     S:oredict.wireFineEximite.name=优良虚空石线缆
     S:oredict.wireFineFierySteel.name=优良炙热钢线缆
+    S:oredict.wireFineFrozenIron.name=Fine Frozen Iron Wire
     S:oredict.wireFineGermanium.name=Fine 锗 Wire
     S:oredict.wireFineGildedIron.name=优良镀金铁线缆
     S:oredict.wireFineGold.name=优良金线缆
@@ -61792,6 +62301,7 @@ languagefile {
     S:oredict.wireFineKalendrite.name=优良幽冥魂石线缆
     S:oredict.wireFineKanthal.name=优良铁铬铝合金线缆
     S:oredict.wireFineKnightmetal.name=优良骑士金属线缆
+    S:oredict.wireFineKreknorite.name=Fine Kreknorite Wire
     S:oredict.wireFineLead.name=优良铅线缆
     S:oredict.wireFineLumium.name=优良流明线缆
     S:oredict.wireFineMagnalium.name=优良镁铝合金线缆
@@ -61800,6 +62310,7 @@ languagefile {
     S:oredict.wireFineManyullyn.name=优良玛玉灵线缆
     S:oredict.wireFineMeteoricIron.name=优良陨铁线缆
     S:oredict.wireFineMeteoricSteel.name=优良陨钢线缆
+    S:oredict.wireFineMeteorite.name=Fine Meteorite Wire
     S:oredict.wireFineMidasium.name=优良溶火金线缆
     S:oredict.wireFineMithril.name=优良秘银线缆
     S:oredict.wireFineMolybdenum.name=优良钼线缆
@@ -61918,3 +62429,5 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
+
+
