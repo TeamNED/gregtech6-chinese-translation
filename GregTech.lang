@@ -102,7 +102,7 @@ languagefile {
     S:fluid.argon=氩
     S:fluid.astatine=Astatine
     S:fluid.bananasmoothie=香蕉冰沙
-    S:fluid.bawls=BAWLS
+    S:fluid.bawls=瓜拿纳
     S:fluid.beer=啤酒
     S:fluid.beetjuice=甜菜汁
     S:fluid.binnie.ciderApple=苹果酒
@@ -2426,7 +2426,7 @@ languagefile {
     S:gt.drink.applevinegar=
     S:gt.drink.apricotsmoothie=
     S:gt.drink.bananasmoothie=
-    S:gt.drink.bawls=Here, take a cold and refreshing sip of my BAWLS
+    S:gt.drink.bawls=来肝一口我冰爽的瓜拿纳
     S:gt.drink.beer=Not to be confused with Beerus, the God of Destruction
     S:gt.drink.beetjuice=满足(Beet)我了
     S:gt.drink.binnie.beerale=
@@ -5425,7 +5425,7 @@ languagefile {
     S:gt.multiitem.bottles.2200.tooltip=可以用来做胶水
     S:gt.multiitem.bottles.2201.name=粉色粘液瓶
     S:gt.multiitem.bottles.2201.tooltip=可以用来做胶水
-    S:gt.multiitem.bottles.2210.name=BAWLS
+    S:gt.multiitem.bottles.2210.name=瓜拿纳
     S:gt.multiitem.bottles.2210.tooltip=
     S:gt.multiitem.bottles.2300.name=西瓜汁
     S:gt.multiitem.bottles.2300.tooltip=
