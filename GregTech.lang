@@ -723,7 +723,7 @@ languagefile {
     S:fluid.seawater.name=海水
     S:fluid.seedoil=种子油
     S:fluid.short.mead=蜂蜜酒
-    S:fluid.slime=Slime
+    S:fluid.slime=史莱姆粘液
     S:fluid.sluicejuice=废水
     S:fluid.soda=苏打水
     S:fluid.soulsandoil=灵魂沙油
@@ -2766,7 +2766,7 @@ languagefile {
     S:gt.drink.seawater=咸的
     S:gt.drink.seedoil=
     S:gt.drink.short.mead=维京人的最爱
-    S:gt.drink.slime=Green Slime Juice
+    S:gt.drink.slime=绿色史莱姆汁，黏黏的和**一样
     S:gt.drink.sluicejuice=
     S:gt.drink.soda=普通的二氧化碳水溶物
     S:gt.drink.soymilk=乳糖不耐受症患者的牛奶替代品
@@ -5421,10 +5421,10 @@ languagefile {
     S:gt.multiitem.bottles.2100.tooltip=又大又多汁的大香蕉
     S:gt.multiitem.bottles.2105.name=香蕉冰沙
     S:gt.multiitem.bottles.2105.tooltip=
-    S:gt.multiitem.bottles.2200.name=Green Slime Bottle
-    S:gt.multiitem.bottles.2200.tooltip=Can be used as Glue too
+    S:gt.multiitem.bottles.2200.name=绿色粘液瓶
+    S:gt.multiitem.bottles.2200.tooltip=可以用来做胶水
     S:gt.multiitem.bottles.2201.name=粉色粘液瓶
-    S:gt.multiitem.bottles.2201.tooltip=也可以用来做胶水
+    S:gt.multiitem.bottles.2201.tooltip=可以用来做胶水
     S:gt.multiitem.bottles.2210.name=BAWLS
     S:gt.multiitem.bottles.2210.tooltip=
     S:gt.multiitem.bottles.2300.name=西瓜汁
