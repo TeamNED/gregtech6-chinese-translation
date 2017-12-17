@@ -1,4 +1,37 @@
 更新日志 *(1.7.10)*
+##V6.06.02:
+[COMPAT]
+I went through the List of Items Erebus adds, to see what they could be used for.
+I did not expect THAT many potentially compatible Items, when looking for the Mod that adds Jade, that I saw it in one of Ethos Videos.
+Damn, even needed to add Ore Generation Handling to it in order to make Umberstone properly Ore-Generateable.
+And I fixed some of their Bucket related Fluid things too, as it uses the Biomes o' Plenty Honey instead of the Forestry Honey.
+[NINJA-FIXED] Loot Chest Replacing didn't work properly.
+[FIXED] Some Stone alike Gears were not craftable the new intended way (4 Rocks + 4 Stone Blocks), and they were not usable as Buildcraft alike Gears despite being made of Rock.
+[CHANGED] You can no longer use Stone alike Blocks for crafting Hammers. The Clubs can still be made with Blocks.
+[ADDED] Breaking the GT6 Cobblestones with a Hammer, Club or Jackhammer will give you Rocks that can be used for Basic Tools. Don't worry, the natural Smoothstone still drops Cobblestone, so you can still Jackhammer the Granites and Stuff.
+[ADDED] There is now more earlygame Tools available. Bamboo and Petrified Wood can be used as Handles and more Rocks can be used as Toolhead.
+[ADDED] Sanding Machine. It does the same Stuff that the Grindstone does, but in Machine Form.
+[ADDED]
+Long Distance Item Pipelines and Fluid Pipelines.
+They are similar to Long Distance Wires, and they are also One-Way.
+Unlike the Long Distance Wires, they don't have any Loss, since they don't really transport Energy.
+The Transfer of Items and Fluids is instant, basically Teleportation, but lets just pretend it's going through that Dummy Pipe.
+Nonuple and Quadruple Fluid Pipes work with the Long Distance Fluid Pipeline too.
+
+
+##V6.06.01:
+[FIXED] When Roads were enabled, all Vanilla and GT6 Surface things close to the X and Z Axis ceased to generate, regardless of being in the Overworld (where it is intended) or not (such as in the Nether, the End or Twilight).
+[CHANGED] The Bedrock Ore Variety has increased a little, because I felt like it while assigning Flowers to the Bedrock Ores.
+[ADDED] Config to turn off Death by the currently 5 Types of Food Poisoning. You will be left with Half a Heart though!
+[ADDED] Config to disable overground (>= Y:50) Mob Spawns close to Spawn. It is defaulting to TRUE, so for about 144 Meters in each direction from Spawn there is no Mobs spawning.
+[ADDED]
+Special Flowers generating in Grassy or Deserty Terrains.
+They indicate the Location of the rare Bedrock Ore Mining Spots.
+Bedrock Ore mining Spots do have a bunch the regular Ore around them, so they are still useful.
+If you want to produce more of these Flowers, you will have to use Bumblebees to create more of the ones you already found.
+The Desert Flowers work for both, regular Flower Bumblebees and Desert Bumblebees.
+
+
 ## V6.06.00:
 [IMPORTANT]
 Fluid Pipes have their Tank Capacity halved, but they still transfer the same amount of Fluid per Tick.
