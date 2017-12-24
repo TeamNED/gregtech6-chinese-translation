@@ -9,7 +9,7 @@ GregTech6汉化项目，欢迎加入。
 I'm so buzy these days, so i may update it after I've done all works >_<
 
 ## Current Works:
-  - Translate all english description into Chinese
+  - Translate all English description into Chinese
   - Make the translations make sense
   - Sleep :P (I like sleeping!!My heaven!!)
 
