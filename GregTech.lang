@@ -304,10 +304,10 @@ languagefile {
     S:fluid.dye.watermixed.yellow=水性黄色染料
     S:fluid.ectoplasm=灵气
     S:fluid.elderberrysmoothie=接骨木冰沙
-    S:fluid.enderair=Ender Air
+    S:fluid.enderair=末地空气
     S:fluid.error=错误流体
     S:fluid.fieryblood=炙热的血
-    S:fluid.fierytears=Fiery Tears
+    S:fluid.fierytears=炙热之泪
     S:fluid.figjuice=无花果汁
     S:fluid.figsmoothie=无花果冰沙
     S:fluid.fishoil=鱼油
@@ -448,7 +448,7 @@ languagefile {
     S:fluid.molten.electrum=熔融琥珀金
     S:fluid.molten.enderium=熔融末影
     S:fluid.molten.enderiumbase=熔融末影锭粗胚
-    S:fluid.molten.enderpearl=Molten Enderpearls
+    S:fluid.molten.enderpearl=熔融末影珍珠
     S:fluid.molten.ferrouschloride=熔融氯化亚铁
     S:fluid.molten.fierysteel=熔融炙热钢
     S:fluid.molten.fluorite=熔融氟石
@@ -531,7 +531,7 @@ languagefile {
     S:fluid.molten.zinc=熔融锌
     S:fluid.mushroomsoup=蘑菇煲
     S:fluid.neon=氖
-    S:fluid.netherair=Nether Air
+    S:fluid.netherair=下界空气
     S:fluid.neutralmatter=中子物质
     S:fluid.nitricacid=硝酸
     S:fluid.nitrofuel=硝基柴油
@@ -632,7 +632,7 @@ languagefile {
     S:fluid.potion.nightvision.long.lingering=加长滞留型夜视药水
     S:fluid.potion.nightvision.long.splash=加长喷溅夜视药水
     S:fluid.potion.nightvision.splash=喷溅夜视药水
-    S:fluid.potion.notchesbrew=Notches煲
+    S:fluid.potion.notchesbrew=炖Notch
     S:fluid.potion.piratebrew=海盗啤酒
     S:fluid.potion.poison=剧毒药水
     S:fluid.potion.poison.lingering=滞留型剧毒药水
@@ -1989,12 +1989,12 @@ languagefile {
     S:gt.block.log.b.fireproof.7.name=彩虹树原木 (防火)
     S:gt.block.log.b.fireproof.8.name=榛树原木 (防火)
     S:gt.block.log.b.fireproof.9.name=凤梨原木(防火)
-    S:gt.block.longdistpipe.01.0.name=Long Distance Item Pipeline
-    S:gt.block.longdistpipe.01.1.name=Long Distance Fluid Pipeline (1943 K)
-    S:gt.block.longdistpipe.01.2.name=Long Distance Fluid Pipeline (3695 K)
-    S:gt.block.longdistpipe.01.3.name=Long Distance Fluid Pipeline (5425 K)
+    S:gt.block.longdistpipe.01.0.name=远距瞬达物品管道
+    S:gt.block.longdistpipe.01.1.name=远距零阻流体管道 (1943 K)
+    S:gt.block.longdistpipe.01.2.name=远距零阻流体管道 (3695 K)
+    S:gt.block.longdistpipe.01.3.name=远距零阻流体管道 (5425 K)
     S:gt.block.longdistpipe.01.32767.name=Any Sub-Block of this one
-    S:gt.block.longdistpipe.01.4.name=Long Distance Fluid Pipeline (4500 K)
+    S:gt.block.longdistpipe.01.4.name=远距零阻流体管道 (4500 K)
     S:gt.block.longdistwire.01.0.name=远距输电用高压电缆 (EV)
     S:gt.block.longdistwire.01.1.name=远距输电用高压电缆 (EV)
     S:gt.block.longdistwire.01.10.name=远距输电用高压电缆 (ZPM)
@@ -2621,7 +2621,7 @@ languagefile {
     S:gt.drink.pearsmoothie=
     S:gt.drink.persimmonjuice=
     S:gt.drink.persimmonsmoothie=
-    S:gt.drink.pineapplejuice=Made of Trees!
+    S:gt.drink.pineapplejuice=以木之肉体，成果之琼浆
     S:gt.drink.pineapplesmoothie=
     S:gt.drink.pinkslime=史莱姆肉汁！！！
     S:gt.drink.plumsmoothie=
@@ -7926,8 +7926,8 @@ languagefile {
     S:gt.multiitem.technological.10218.tooltip=用来制造斧头的压模模具
     S:gt.multiitem.technological.10219.name=低热容压模模具 (锄头)
     S:gt.multiitem.technological.10219.tooltip=用来制造锄头的压模模具
-    S:gt.multiitem.technological.1022.name=Air Vent
-    S:gt.multiitem.technological.1022.tooltip=Ventilates Air into Tanks and Pipes
+    S:gt.multiitem.technological.1022.name=通风口
+    S:gt.multiitem.technological.1022.tooltip=向管道或机器内通入空气
     S:gt.multiitem.technological.10220.name=低热容压模模具 (锤头)
     S:gt.multiitem.technological.10220.tooltip=用来制造锤头的压模模具
     S:gt.multiitem.technological.10221.name=低热容压模模具 (锉刀刀头)
@@ -8440,8 +8440,8 @@ languagefile {
     S:gt.multitileentity.10048.name=变压器 (UV-MAX)
     S:gt.multitileentity.1005.name=熔炼坩埚 (陶瓷)
     S:gt.multitileentity.10050.name=太阳能电池板
-    S:gt.multitileentity.10060.name=Long Distance Item Pipeline
-    S:gt.multitileentity.10061.name=Long Distance Fluid Pipeline
+    S:gt.multitileentity.10060.name=远距传输用物品管道
+    S:gt.multitileentity.10061.name=远距传输用流体管道
     S:gt.multitileentity.10064.name=远距传输用高压变压器 (EV)
     S:gt.multitileentity.10065.name=远距传输用高压变压器 (IV)
     S:gt.multitileentity.10066.name=远距传输用高压变压器 (LuV)
@@ -9066,10 +9066,10 @@ languagefile {
     S:gt.multitileentity.20433.name=物质复制器 (T3)
     S:gt.multitileentity.20434.name=物质复制器 (T4)
     S:gt.multitileentity.20435.name=物质复制器 (T5)
-    S:gt.multitileentity.20511.name=Sanding Machine (Bronze)
-    S:gt.multitileentity.20512.name=Sanding Machine (Steel)
-    S:gt.multitileentity.20513.name=Sanding Machine (Titanium)
-    S:gt.multitileentity.20514.name=Sanding Machine (Tungstensteel)
+    S:gt.multitileentity.20511.name=砂轮 (青铜)
+    S:gt.multitileentity.20512.name=砂轮 (钢)
+    S:gt.multitileentity.20513.name=砂轮 (钛)
+    S:gt.multitileentity.20514.name=砂轮 (钨钢)
     S:gt.multitileentity.20521.name=燃烧反应室 (青铜)
     S:gt.multitileentity.20522.name=燃烧反应室 (钢)
     S:gt.multitileentity.20523.name=燃烧反应室 (钛)
@@ -10316,7 +10316,7 @@ languagefile {
     S:gt.multitileentity.7307.name=衣橱 (琥珀金)
     S:gt.multitileentity.7308.name=衣橱 (黄铜)
     S:gt.multitileentity.7309.name=衣橱 (青铜)
-    S:gt.multitileentity.7310.name=衣橱 (Steel)
+    S:gt.multitileentity.7310.name=衣橱 (钢)
     S:gt.multitileentity.7311.name=衣橱 (不锈钢)
     S:gt.multitileentity.7312.name=衣橱 (钛)
     S:gt.multitileentity.7313.name=衣橱 (铬)
@@ -10360,7 +10360,7 @@ languagefile {
     S:gt.multitileentity.7507.name=充能衣橱 (琥珀金)
     S:gt.multitileentity.7508.name=充能衣橱 (黄铜)
     S:gt.multitileentity.7509.name=充能衣橱 (青铜)
-    S:gt.multitileentity.7510.name=充能衣橱 (Steel)
+    S:gt.multitileentity.7510.name=充能衣橱 (钢)
     S:gt.multitileentity.7511.name=充能衣橱 (不锈钢)
     S:gt.multitileentity.7512.name=充能衣橱 (钛)
     S:gt.multitileentity.7513.name=充能衣橱 (铬)
@@ -62808,5 +62808,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
