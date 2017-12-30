@@ -247,6 +247,24 @@
     },
     {
         "name": "oredict.toolHead.+",
+        "value": "(?P<mw>.+) Mace Head",
+        "repl": "{0}狼牙棒槌头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(?P<mw>.+) Mattock Head",
+        "repl": "{0}鹤嘴锄头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.shuriken.+",
+        "value": "(?P<mw>.+) Shuriken",
+        "repl": "{0}飞镖",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) Universal Spade Head",
         "repl": "{0}万用铲头",
         "priority": 1000

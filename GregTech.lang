@@ -4248,7 +4248,7 @@ languagefile {
     S:gt.material.PetrifiedWood=石化木
     S:gt.material.Petrol=汽油
     S:gt.material.Petroleum=石油
-    S:gt.material.PetroleumCoke=燃料焦煤
+    S:gt.material.PetroleumCoke=石油焦炭
     S:gt.material.Petrotheum=构造之地岩
     S:gt.material.Pewter=白镴
     S:gt.material.PhasedGold=脉冲金
@@ -12751,7 +12751,7 @@ languagefile {
     S:oredict.blockDustPalladium.name=钯粉块
     S:oredict.blockDustPaper.name=纸屑粉块
     S:oredict.blockDustPeanut.name=碎花生粉块
-    S:oredict.blockDustPeat.name=泥煤粉块
+    S:oredict.blockDustPeat.name=泥炭粉块
     S:oredict.blockDustPeatBituminous.name=沥青泥炭粉块
     S:oredict.blockDustPentlandite.name=镍黄铁粉块
     S:oredict.blockDustPepperBlack.name=黑胡椒末粉块
@@ -13426,7 +13426,7 @@ languagefile {
     S:oredict.blockIngotOsmiumElemental.name=锇锭块
     S:oredict.blockIngotOureclase.name=大地结晶锭块
     S:oredict.blockIngotPalladium.name=钯锭块
-    S:oredict.blockIngotPeat.name=泥煤锭块
+    S:oredict.blockIngotPeat.name=泥炭锭块
     S:oredict.blockIngotPeatBituminous.name=沥青泥炭砖锭块
     S:oredict.blockIngotPigIron.name=生铁锭块
     S:oredict.blockIngotPlastic.name=塑料锭块
@@ -14385,7 +14385,7 @@ languagefile {
     S:oredict.blockSolidOsmiumElemental.name=铸造锇块
     S:oredict.blockSolidOureclase.name=铸造大地结晶块
     S:oredict.blockSolidPalladium.name=铸造钯块
-    S:oredict.blockSolidPeat.name=铸造泥煤块
+    S:oredict.blockSolidPeat.name=铸造泥炭块
     S:oredict.blockSolidPeatBituminous.name=铸造沥青泥炭块
     S:oredict.blockSolidPigIron.name=铸造生铁块
     S:oredict.blockSolidPlastic.name=铸造塑料块
@@ -17149,7 +17149,7 @@ languagefile {
     S:oredict.chemtubePalladium.name=钯试管
     S:oredict.chemtubePaper.name=纸试管
     S:oredict.chemtubePeanut.name=花生试管
-    S:oredict.chemtubePeat.name=泥煤试管
+    S:oredict.chemtubePeat.name=泥炭试管
     S:oredict.chemtubePeatBituminous.name=沥青泥炭试管
     S:oredict.chemtubePentlandite.name=镍黄铁试管
     S:oredict.chemtubePepperBlack.name=黑胡椒试管
@@ -17904,7 +17904,7 @@ languagefile {
     S:oredict.chunkGtOsmiumElemental.name=锇小块
     S:oredict.chunkGtOureclase.name=大地结晶小块
     S:oredict.chunkGtPalladium.name=钯小块
-    S:oredict.chunkGtPeat.name=泥煤小块
+    S:oredict.chunkGtPeat.name=泥炭小块
     S:oredict.chunkGtPeatBituminous.name=沥青泥炭小块
     S:oredict.chunkGtPigIron.name=生铁小块
     S:oredict.chunkGtPlastic.name=塑料小块
@@ -18567,7 +18567,7 @@ languagefile {
     S:oredict.crateGtDustPalladium.name=钯粉板条箱
     S:oredict.crateGtDustPaper.name=纸屑板条箱
     S:oredict.crateGtDustPeanut.name=碎花生板条箱
-    S:oredict.crateGtDustPeat.name=泥煤板条箱
+    S:oredict.crateGtDustPeat.name=泥炭板条箱
     S:oredict.crateGtDustPeatBituminous.name=沥青泥炭板条箱
     S:oredict.crateGtDustPentlandite.name=镍黄铁粉板条箱
     S:oredict.crateGtDustPepperBlack.name=黑胡椒末板条箱
@@ -19242,7 +19242,7 @@ languagefile {
     S:oredict.crateGtIngotOsmiumElemental.name=锇锭板条箱
     S:oredict.crateGtIngotOureclase.name=大地结晶锭板条箱
     S:oredict.crateGtIngotPalladium.name=钯锭板条箱
-    S:oredict.crateGtIngotPeat.name=泥煤锭板条箱
+    S:oredict.crateGtIngotPeat.name=泥炭锭板条箱
     S:oredict.crateGtIngotPeatBituminous.name=沥青泥炭砖锭板条箱
     S:oredict.crateGtIngotPigIron.name=生铁锭板条箱
     S:oredict.crateGtIngotPlastic.name=塑料锭板条箱
@@ -23878,7 +23878,7 @@ languagefile {
     S:oredict.dustDiv72Palladium.name=1/72份钯粉
     S:oredict.dustDiv72Paper.name=1/72份纸屑
     S:oredict.dustDiv72Peanut.name=1/72份碎花生
-    S:oredict.dustDiv72Peat.name=1/72份泥煤
+    S:oredict.dustDiv72Peat.name=1/72份泥炭
     S:oredict.dustDiv72PeatBituminous.name=1/72份沥青泥炭
     S:oredict.dustDiv72Pentlandite.name=1/72份镍黄铁粉
     S:oredict.dustDiv72PepperBlack.name=1/72份黑胡椒末
@@ -24939,7 +24939,7 @@ languagefile {
     S:oredict.dustPalladium.name=钯粉
     S:oredict.dustPaper.name=纸屑
     S:oredict.dustPeanut.name=碎花生
-    S:oredict.dustPeat.name=泥煤
+    S:oredict.dustPeat.name=泥炭
     S:oredict.dustPeatBituminous.name=沥青泥炭
     S:oredict.dustPentlandite.name=镍黄铁粉
     S:oredict.dustPepperBlack.name=黑胡椒末
@@ -26160,7 +26160,7 @@ languagefile {
     S:oredict.dustSmallPalladium.name=小堆钯粉
     S:oredict.dustSmallPaper.name=小堆纸屑
     S:oredict.dustSmallPeanut.name=小堆碎花生
-    S:oredict.dustSmallPeat.name=小堆泥煤
+    S:oredict.dustSmallPeat.name=小堆泥炭
     S:oredict.dustSmallPeatBituminous.name=小堆沥青泥炭
     S:oredict.dustSmallPentlandite.name=小堆镍黄铁粉
     S:oredict.dustSmallPepperBlack.name=小堆黑胡椒末
@@ -27021,7 +27021,7 @@ languagefile {
     S:oredict.dustTinyPalladium.name=小撮钯粉
     S:oredict.dustTinyPaper.name=小撮纸屑
     S:oredict.dustTinyPeanut.name=小撮碎花生
-    S:oredict.dustTinyPeat.name=小撮泥煤
+    S:oredict.dustTinyPeat.name=小撮泥炭
     S:oredict.dustTinyPeatBituminous.name=小撮沥青泥炭
     S:oredict.dustTinyPentlandite.name=小撮镍黄铁粉
     S:oredict.dustTinyPepperBlack.name=小撮黑胡椒末
@@ -29197,7 +29197,7 @@ languagefile {
     S:oredict.ingotDoubleOsmiumElemental.name=两重锇锭
     S:oredict.ingotDoubleOureclase.name=两重大地结晶锭
     S:oredict.ingotDoublePalladium.name=两重钯锭
-    S:oredict.ingotDoublePeat.name=两重泥煤
+    S:oredict.ingotDoublePeat.name=两重泥炭
     S:oredict.ingotDoublePeatBituminous.name=两重沥青泥炭砖
     S:oredict.ingotDoublePigIron.name=两重生铁锭
     S:oredict.ingotDoublePlastic.name=两重塑料锭
@@ -29778,7 +29778,7 @@ languagefile {
     S:oredict.ingotOsmiumElemental.name=锇锭
     S:oredict.ingotOureclase.name=大地结晶锭
     S:oredict.ingotPalladium.name=钯锭
-    S:oredict.ingotPeat.name=泥煤锭
+    S:oredict.ingotPeat.name=泥炭锭
     S:oredict.ingotPeatBituminous.name=沥青泥炭砖锭
     S:oredict.ingotPigIron.name=生铁锭
     S:oredict.ingotPlastic.name=塑料锭
@@ -30074,7 +30074,7 @@ languagefile {
     S:oredict.ingotQuadrupleOsmiumElemental.name=四重锇锭
     S:oredict.ingotQuadrupleOureclase.name=四重大地结晶锭
     S:oredict.ingotQuadruplePalladium.name=四重钯锭
-    S:oredict.ingotQuadruplePeat.name=四重泥煤
+    S:oredict.ingotQuadruplePeat.name=四重泥炭
     S:oredict.ingotQuadruplePeatBituminous.name=四重沥青泥炭砖
     S:oredict.ingotQuadruplePigIron.name=四重生铁锭
     S:oredict.ingotQuadruplePlastic.name=四重塑料锭
@@ -30450,7 +30450,7 @@ languagefile {
     S:oredict.ingotQuintupleOsmiumElemental.name=五重锇锭
     S:oredict.ingotQuintupleOureclase.name=五重大地结晶锭
     S:oredict.ingotQuintuplePalladium.name=五重钯锭
-    S:oredict.ingotQuintuplePeat.name=五重泥煤
+    S:oredict.ingotQuintuplePeat.name=五重泥炭
     S:oredict.ingotQuintuplePeatBituminous.name=五重沥青泥炭砖
     S:oredict.ingotQuintuplePigIron.name=五重生铁锭
     S:oredict.ingotQuintuplePlastic.name=五重塑料锭
@@ -30878,7 +30878,7 @@ languagefile {
     S:oredict.ingotTripleOsmiumElemental.name=三重锇锭
     S:oredict.ingotTripleOureclase.name=三重大地结晶锭
     S:oredict.ingotTriplePalladium.name=三重钯锭
-    S:oredict.ingotTriplePeat.name=三重泥煤
+    S:oredict.ingotTriplePeat.name=三重泥炭
     S:oredict.ingotTriplePeatBituminous.name=三重沥青泥炭砖
     S:oredict.ingotTriplePigIron.name=三重生铁锭
     S:oredict.ingotTriplePlastic.name=三重塑料锭
@@ -31535,7 +31535,7 @@ languagefile {
     S:oredict.nuggetOsmiumElemental.name=锇粒
     S:oredict.nuggetOureclase.name=大地结晶粒
     S:oredict.nuggetPalladium.name=钯粒
-    S:oredict.nuggetPeat.name=泥煤粒
+    S:oredict.nuggetPeat.name=泥炭粒
     S:oredict.nuggetPeatBituminous.name=沥青泥炭粒
     S:oredict.nuggetPigIron.name=生铁粒
     S:oredict.nuggetPlastic.name=塑料粒
@@ -42988,7 +42988,7 @@ languagefile {
     S:oredict.plantGtBerryPalladium.name=钯梅
     S:oredict.plantGtBerryPaper.name=纸梅
     S:oredict.plantGtBerryPeanut.name=花生梅
-    S:oredict.plantGtBerryPeat.name=泥煤梅
+    S:oredict.plantGtBerryPeat.name=泥炭梅
     S:oredict.plantGtBerryPeatBituminous.name=沥青泥炭梅
     S:oredict.plantGtBerryPentlandite.name=镍黄铁梅
     S:oredict.plantGtBerryPepperBlack.name=黑胡椒梅
@@ -43863,7 +43863,7 @@ languagefile {
     S:oredict.plantGtBlossomPalladium.name=钯花
     S:oredict.plantGtBlossomPaper.name=纸花
     S:oredict.plantGtBlossomPeanut.name=花生花
-    S:oredict.plantGtBlossomPeat.name=泥煤花
+    S:oredict.plantGtBlossomPeat.name=泥炭花
     S:oredict.plantGtBlossomPeatBituminous.name=沥青泥炭花
     S:oredict.plantGtBlossomPentlandite.name=镍黄铁花
     S:oredict.plantGtBlossomPepperBlack.name=黑胡椒花
@@ -44738,7 +44738,7 @@ languagefile {
     S:oredict.plantGtFiberPalladium.name=粗糙的钯纤维
     S:oredict.plantGtFiberPaper.name=粗糙的纸纤维
     S:oredict.plantGtFiberPeanut.name=粗糙的花生纤维
-    S:oredict.plantGtFiberPeat.name=粗糙的泥煤纤维
+    S:oredict.plantGtFiberPeat.name=粗糙的泥炭纤维
     S:oredict.plantGtFiberPeatBituminous.name=粗糙的沥青泥炭纤维
     S:oredict.plantGtFiberPentlandite.name=粗糙的镍黄铁纤维
     S:oredict.plantGtFiberPepperBlack.name=粗糙的黑胡椒纤维
@@ -45613,7 +45613,7 @@ languagefile {
     S:oredict.plantGtTwigPalladium.name=钯细枝
     S:oredict.plantGtTwigPaper.name=纸细枝
     S:oredict.plantGtTwigPeanut.name=花生细枝
-    S:oredict.plantGtTwigPeat.name=泥煤细枝
+    S:oredict.plantGtTwigPeat.name=泥炭细枝
     S:oredict.plantGtTwigPeatBituminous.name=沥青泥炭细枝
     S:oredict.plantGtTwigPentlandite.name=镍黄铁细枝
     S:oredict.plantGtTwigPepperBlack.name=黑胡椒细枝
@@ -46491,7 +46491,7 @@ languagefile {
     S:oredict.plantGtWartPalladium.name=钯疣
     S:oredict.plantGtWartPaper.name=纸疣
     S:oredict.plantGtWartPeanut.name=花生疣
-    S:oredict.plantGtWartPeat.name=泥煤疣
+    S:oredict.plantGtWartPeat.name=泥炭疣
     S:oredict.plantGtWartPeatBituminous.name=沥青泥炭疣
     S:oredict.plantGtWartPentlandite.name=镍黄铁疣
     S:oredict.plantGtWartPepperBlack.name=黑胡椒疣
@@ -52233,7 +52233,7 @@ languagefile {
     S:oredict.scrapGtPalladium.name=钯废料
     S:oredict.scrapGtPaper.name=纸废料
     S:oredict.scrapGtPeanut.name=花生废料
-    S:oredict.scrapGtPeat.name=泥煤废料
+    S:oredict.scrapGtPeat.name=泥炭废料
     S:oredict.scrapGtPeatBituminous.name=沥青泥炭废料
     S:oredict.scrapGtPentlandite.name=镍黄铁废料
     S:oredict.scrapGtPepperBlack.name=黑胡椒废料
@@ -64526,23 +64526,23 @@ languagefile {
     S:oredict.wireFineVyroxeres.name=优良幽冥剧毒结晶线缆
     S:oredict.wireFineWroughtIron.name=优良熟铁线缆
     S:oredict.wireFineZirconium.name=优良锆线缆
-    S:qt.block.corrugated.0.name=Corrugated Iron Wall
-    S:qt.block.corrugated.1.name=Corrugated Aluminium Wall
-    S:qt.block.corrugated.10.name=Corrugated Titanium Wall
-    S:qt.block.corrugated.11.name=Corrugated TungstenSteel Wall
-    S:qt.block.corrugated.12.name=Corrugated Invar Wall
-    S:qt.block.corrugated.13.name=Corrugated Tin Alloy Wall
-    S:qt.block.corrugated.14.name=Corrugated Galvanized Steel Wall
-    S:qt.block.corrugated.15.name=Corrugated Electrum Wall
-    S:qt.block.corrugated.2.name=Corrugated Gold Wall
-    S:qt.block.corrugated.3.name=Corrugated Steel Wall
+    S:qt.block.corrugated.0.name=瓦楞铁板墙
+    S:qt.block.corrugated.1.name=瓦楞铝板墙
+    S:qt.block.corrugated.10.name=瓦楞钛板墙
+    S:qt.block.corrugated.11.name=瓦楞钨钢板墙
+    S:qt.block.corrugated.12.name=瓦楞殷钢板墙
+    S:qt.block.corrugated.13.name=瓦楞锡合金板墙
+    S:qt.block.corrugated.14.name=瓦楞镀锌钢板墙
+    S:qt.block.corrugated.15.name=瓦楞琥珀金板墙
+    S:qt.block.corrugated.2.name=瓦楞金板墙
+    S:qt.block.corrugated.3.name=瓦楞钢板墙
     S:qt.block.corrugated.32767.name=Any Sub-Block of this one
-    S:qt.block.corrugated.4.name=Corrugated Bronze Wall
-    S:qt.block.corrugated.5.name=Corrugated Brass Wall
-    S:qt.block.corrugated.6.name=Corrugated Silver Wall
-    S:qt.block.corrugated.7.name=Corrugated Stainless Steel Wall
-    S:qt.block.corrugated.8.name=Corrugated Wrought Iron Wall
-    S:qt.block.corrugated.9.name=Corrugated Vinyl Wall
+    S:qt.block.corrugated.4.name=瓦楞青铜板墙
+    S:qt.block.corrugated.5.name=瓦楞黄铜板墙
+    S:qt.block.corrugated.6.name=瓦楞银板墙
+    S:qt.block.corrugated.7.name=瓦楞不锈钢板墙
+    S:qt.block.corrugated.8.name=瓦楞熟铁板墙
+    S:qt.block.corrugated.9.name=瓦楞乙烯基塑料板墙
     S:qwertech.food.0.name=Mozzarella
     S:qwertech.food.0.tooltip=Itsa good cheese
     S:qwertech.food.1.name=Raw Parmesan
@@ -64713,5 +64713,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
