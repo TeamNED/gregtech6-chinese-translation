@@ -4244,7 +4244,7 @@ languagefile {
     S:gt.material.PepperBlack=黑胡椒
     S:gt.material.Peridot=橄榄石
     S:gt.material.Perlite=珍珠岩
-    S:gt.material.PetCoke=石油焦
+    S:gt.material.PetCoke=石油焦炭
     S:gt.material.PetrifiedWood=石化木
     S:gt.material.Petrol=汽油
     S:gt.material.Petroleum=石油
@@ -12757,7 +12757,7 @@ languagefile {
     S:oredict.blockDustPepperBlack.name=黑胡椒末粉块
     S:oredict.blockDustPerlite.name=珍珠岩粉块
     S:oredict.blockDustPetrifiedWood.name=Block of Petrified Wood Pulp
-    S:oredict.blockDustPetroleumCoke.name=Block of 石油焦粉
+    S:oredict.blockDustPetroleumCoke.name=Block of 石油焦炭粉
     S:oredict.blockDustPetrotheum.name=构造之地岩粉块
     S:oredict.blockDustPhosphate.name=磷酸盐粉块
     S:oredict.blockDustPhosphor.name=磷粉块
@@ -13085,7 +13085,7 @@ languagefile {
     S:oredict.blockGemOpal.name=猫眼石块
     S:oredict.blockGemOrangeSapphire.name=橙色蓝宝石块
     S:oredict.blockGemPalis.name=Block of Palis Crystal
-    S:oredict.blockGemPetroleumCoke.name=Block of 石油焦
+    S:oredict.blockGemPetroleumCoke.name=Block of 石油焦炭
     S:oredict.blockGemPhosphor.name=磷块
     S:oredict.blockGemPhosphorite.name=磷灰石块
     S:oredict.blockGemPhosphorus.name=磷块
@@ -13829,7 +13829,7 @@ languagefile {
     S:oredict.blockPlateGemOpal.name=猫眼石板块
     S:oredict.blockPlateGemOrangeSapphire.name=结晶橙色蓝宝石板块
     S:oredict.blockPlateGemPalis.name=Block of Crystalline Palis Pane
-    S:oredict.blockPlateGemPetroleumCoke.name=Block of Crystalline 石油焦 Plate
+    S:oredict.blockPlateGemPetroleumCoke.name=Block of Crystalline 石油焦炭 Plate
     S:oredict.blockPlateGemPhosphorite.name=磷灰石板块
     S:oredict.blockPlateGemPhosphorus.name=磷板块
     S:oredict.blockPlateGemPrismane.name=结晶棱柱烷板块
@@ -14885,7 +14885,7 @@ languagefile {
     S:oredict.boltPalis.name=青金石水晶螺栓
     S:oredict.boltPalladium.name=钯螺栓
     S:oredict.boltPetrifiedWood.name=Short Petrified Wood Stick
-    S:oredict.boltPetroleumCoke.name=石油焦 Bolt
+    S:oredict.boltPetroleumCoke.name=石油焦炭 Bolt
     S:oredict.boltPhosphorite.name=磷灰石螺栓
     S:oredict.boltPhosphorus.name=磷螺栓
     S:oredict.boltPigIron.name=生铁螺栓
@@ -17156,7 +17156,7 @@ languagefile {
     S:oredict.chemtubePerlite.name=珍珠岩试管
     S:oredict.chemtubePetrifiedWood.name=Glass Tube containing Petrified Wood
     S:oredict.chemtubePetrol.name=汽油试管
-    S:oredict.chemtubePetroleumCoke.name=Glass Tube containing 石油焦
+    S:oredict.chemtubePetroleumCoke.name=Glass Tube containing 石油焦炭
     S:oredict.chemtubePetrotheum.name=构造之地岩试管
     S:oredict.chemtubePhosphate.name=磷酸盐试管
     S:oredict.chemtubePhosphor.name=磷试管
@@ -17279,7 +17279,7 @@ languagefile {
     S:oredict.chemtubeSodiumBisulfate.name=硫酸氢钠试管
     S:oredict.chemtubeSodiumCarbonate.name=碳酸钠试管
     S:oredict.chemtubeSodiumHydroxide.name=氢氧化钠试管
-    S:oredict.chemtubeSodiumNitrate.name=Glass Tube containing 硝酸钠 
+    S:oredict.chemtubeSodiumNitrate.name=Glass Tube containing 硝酸钠
     S:oredict.chemtubeSodiumPersulfate.name=过硫酸钠试管
     S:oredict.chemtubeSodiumPyrosulfate.name=焦硫酸钠试管
     S:oredict.chemtubeSodiumSulfate.name=硫酸钠试管
@@ -18573,7 +18573,7 @@ languagefile {
     S:oredict.crateGtDustPepperBlack.name=黑胡椒末板条箱
     S:oredict.crateGtDustPerlite.name=珍珠岩粉板条箱
     S:oredict.crateGtDustPetrifiedWood.name=Crate of Petrified Wood Pulp
-    S:oredict.crateGtDustPetroleumCoke.name=Crate of 石油焦粉
+    S:oredict.crateGtDustPetroleumCoke.name=Crate of 石油焦炭粉
     S:oredict.crateGtDustPetrotheum.name=构造之地岩粉板条箱
     S:oredict.crateGtDustPhosphate.name=磷酸盐粉板条箱
     S:oredict.crateGtDustPhosphor.name=磷粉板条箱
@@ -18901,7 +18901,7 @@ languagefile {
     S:oredict.crateGtGemOpal.name=猫眼石板条箱
     S:oredict.crateGtGemOrangeSapphire.name=橙色蓝宝石板条箱
     S:oredict.crateGtGemPalis.name=Crate of Palis Crystal
-    S:oredict.crateGtGemPetroleumCoke.name=Crate of 石油焦
+    S:oredict.crateGtGemPetroleumCoke.name=Crate of 石油焦炭
     S:oredict.crateGtGemPhosphor.name=磷板条箱
     S:oredict.crateGtGemPhosphorite.name=磷灰石板条箱
     S:oredict.crateGtGemPhosphorus.name=磷板条箱
@@ -19644,7 +19644,7 @@ languagefile {
     S:oredict.crateGtPlateGemOpal.name=猫眼石板板条箱
     S:oredict.crateGtPlateGemOrangeSapphire.name=橙色蓝宝石板板条箱
     S:oredict.crateGtPlateGemPalis.name=Crate of Crystalline Palis Pane
-    S:oredict.crateGtPlateGemPetroleumCoke.name=Crate of Crystalline 石油焦 Plate
+    S:oredict.crateGtPlateGemPetroleumCoke.name=Crate of Crystalline 石油焦炭 Plate
     S:oredict.crateGtPlateGemPhosphorite.name=磷灰石板板条箱
     S:oredict.crateGtPlateGemPhosphorus.name=磷板板条箱
     S:oredict.crateGtPlateGemPrismane.name=棱柱烷板板条箱
@@ -20476,7 +20476,7 @@ languagefile {
     S:oredict.crushedCentrifugedPalladium.name=离心钯矿石
     S:oredict.crushedCentrifugedPentlandite.name=离心镍黄铁矿石
     S:oredict.crushedCentrifugedPerlite.name=离心珍珠岩矿石
-    S:oredict.crushedCentrifugedPetroleumCoke.name=Refined 石油焦矿石
+    S:oredict.crushedCentrifugedPetroleumCoke.name=Refined 石油焦炭矿石
     S:oredict.crushedCentrifugedPhosphate.name=离心磷酸盐矿石
     S:oredict.crushedCentrifugedPhosphor.name=离心磷矿石
     S:oredict.crushedCentrifugedPhosphorite.name=离心磷灰石矿石
@@ -20952,7 +20952,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyPalladium.name=小撮离心钯矿石
     S:oredict.crushedCentrifugedTinyPentlandite.name=小撮离心镍黄铁矿石
     S:oredict.crushedCentrifugedTinyPerlite.name=小撮离心珍珠岩矿石
-    S:oredict.crushedCentrifugedTinyPetroleumCoke.name=Tiny Refined 石油焦矿石
+    S:oredict.crushedCentrifugedTinyPetroleumCoke.name=Tiny Refined 石油焦炭矿石
     S:oredict.crushedCentrifugedTinyPhosphate.name=小撮离心磷酸盐矿石
     S:oredict.crushedCentrifugedTinyPhosphor.name=小撮离心磷矿石
     S:oredict.crushedCentrifugedTinyPhosphorite.name=小撮离心磷灰石矿石
@@ -21327,7 +21327,7 @@ languagefile {
     S:oredict.crushedPalladium.name=粉碎钯矿石
     S:oredict.crushedPentlandite.name=粉碎镍黄铁矿石
     S:oredict.crushedPerlite.name=粉碎珍珠岩矿石
-    S:oredict.crushedPetroleumCoke.name=Crushed 石油焦矿石
+    S:oredict.crushedPetroleumCoke.name=Crushed 石油焦炭矿石
     S:oredict.crushedPhosphate.name=粉碎磷酸盐矿石
     S:oredict.crushedPhosphor.name=粉碎磷矿石
     S:oredict.crushedPhosphorite.name=粉碎磷灰石矿石
@@ -21735,7 +21735,7 @@ languagefile {
     S:oredict.crushedPurifiedPalladium.name=纯净钯矿石
     S:oredict.crushedPurifiedPentlandite.name=纯净镍黄铁矿石
     S:oredict.crushedPurifiedPerlite.name=纯净珍珠岩矿石
-    S:oredict.crushedPurifiedPetroleumCoke.name=Purified 石油焦矿石
+    S:oredict.crushedPurifiedPetroleumCoke.name=Purified 石油焦炭矿石
     S:oredict.crushedPurifiedPhosphate.name=纯净磷酸盐矿石
     S:oredict.crushedPurifiedPhosphor.name=纯净磷矿石
     S:oredict.crushedPurifiedPhosphorite.name=纯净磷灰石矿石
@@ -22211,7 +22211,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyPalladium.name=小撮纯净钯矿石
     S:oredict.crushedPurifiedTinyPentlandite.name=小撮纯净镍黄铁矿石
     S:oredict.crushedPurifiedTinyPerlite.name=小撮纯净珍珠岩矿石
-    S:oredict.crushedPurifiedTinyPetroleumCoke.name=Tiny Purified 石油焦矿石
+    S:oredict.crushedPurifiedTinyPetroleumCoke.name=Tiny Purified 石油焦炭矿石
     S:oredict.crushedPurifiedTinyPhosphate.name=小撮纯净磷酸盐矿石
     S:oredict.crushedPurifiedTinyPhosphor.name=小撮纯净磷矿石
     S:oredict.crushedPurifiedTinyPhosphorite.name=小撮纯净磷灰石矿石
@@ -22845,7 +22845,7 @@ languagefile {
     S:oredict.crushedTinyPalladium.name=小撮粉碎钯矿石
     S:oredict.crushedTinyPentlandite.name=小撮粉碎镍黄铁矿石
     S:oredict.crushedTinyPerlite.name=小撮粉碎珍珠岩矿石
-    S:oredict.crushedTinyPetroleumCoke.name=Tiny Crushed 石油焦矿石
+    S:oredict.crushedTinyPetroleumCoke.name=Tiny Crushed 石油焦炭矿石
     S:oredict.crushedTinyPhosphate.name=小撮粉碎磷酸盐矿石
     S:oredict.crushedTinyPhosphor.name=小撮粉碎磷矿石
     S:oredict.crushedTinyPhosphorite.name=小撮粉碎磷灰石矿石
@@ -23884,7 +23884,7 @@ languagefile {
     S:oredict.dustDiv72PepperBlack.name=1/72份黑胡椒末
     S:oredict.dustDiv72Perlite.name=1/72份珍珠岩粉
     S:oredict.dustDiv72PetrifiedWood.name=1/72nd of a Pile of Petrified Wood Pulp
-    S:oredict.dustDiv72PetroleumCoke.name=1/72nd of a Pile of 石油焦粉
+    S:oredict.dustDiv72PetroleumCoke.name=1/72nd of a Pile of 石油焦炭粉
     S:oredict.dustDiv72Petrotheum.name=1/72份构造之地岩粉
     S:oredict.dustDiv72Phosphate.name=1/72份磷酸盐粉
     S:oredict.dustDiv72Phosphor.name=1/72份磷粉
@@ -24656,7 +24656,7 @@ languagefile {
     S:oredict.dustImpurePentlandite.name=含杂镍黄铁粉
     S:oredict.dustImpurePerlite.name=含杂珍珠岩粉
     S:oredict.dustImpurePetrifiedWood.name=Impure Pile of Petrified Wood Pulp
-    S:oredict.dustImpurePetroleumCoke.name=Impure Pile of 石油焦粉
+    S:oredict.dustImpurePetroleumCoke.name=Impure Pile of 石油焦炭粉
     S:oredict.dustImpurePhosphate.name=含杂磷酸盐粉
     S:oredict.dustImpurePhosphor.name=含杂磷粉
     S:oredict.dustImpurePhosphorite.name=含杂磷灰石粉
@@ -24945,7 +24945,7 @@ languagefile {
     S:oredict.dustPepperBlack.name=黑胡椒末
     S:oredict.dustPerlite.name=珍珠岩粉
     S:oredict.dustPetrifiedWood.name=Petrified Wood Pulp
-    S:oredict.dustPetroleumCoke.name=石油焦粉
+    S:oredict.dustPetroleumCoke.name=石油焦炭粉
     S:oredict.dustPetrotheum.name=构造之地岩粉
     S:oredict.dustPhosphate.name=磷酸盐粉
     S:oredict.dustPhosphor.name=磷粉
@@ -25402,7 +25402,7 @@ languagefile {
     S:oredict.dustPurePentlandite.name=纯净镍黄铁粉
     S:oredict.dustPurePerlite.name=纯净珍珠岩粉
     S:oredict.dustPurePetrifiedWood.name=Purified Pile of Petrified Wood Pulp
-    S:oredict.dustPurePetroleumCoke.name=Purified Pile of 石油焦粉
+    S:oredict.dustPurePetroleumCoke.name=Purified Pile of 石油焦炭粉
     S:oredict.dustPurePhosphate.name=纯净磷酸盐粉
     S:oredict.dustPurePhosphor.name=纯净磷粉
     S:oredict.dustPurePhosphorite.name=纯净磷灰石粉
@@ -26166,7 +26166,7 @@ languagefile {
     S:oredict.dustSmallPepperBlack.name=小堆黑胡椒末
     S:oredict.dustSmallPerlite.name=小堆珍珠岩粉
     S:oredict.dustSmallPetrifiedWood.name=Small Pile of Petrified Wood Pulp
-    S:oredict.dustSmallPetroleumCoke.name=Small Pile of 石油焦粉
+    S:oredict.dustSmallPetroleumCoke.name=Small Pile of 石油焦炭粉
     S:oredict.dustSmallPetrotheum.name=小堆构造之地岩粉
     S:oredict.dustSmallPhosphate.name=小堆磷酸盐粉
     S:oredict.dustSmallPhosphor.name=小堆磷粉
@@ -27027,7 +27027,7 @@ languagefile {
     S:oredict.dustTinyPepperBlack.name=小撮黑胡椒末
     S:oredict.dustTinyPerlite.name=小撮珍珠岩粉
     S:oredict.dustTinyPetrifiedWood.name=Tiny Pile of Petrified Wood Pulp
-    S:oredict.dustTinyPetroleumCoke.name=Tiny Pile of 石油焦粉
+    S:oredict.dustTinyPetroleumCoke.name=Tiny Pile of 石油焦炭粉
     S:oredict.dustTinyPetrotheum.name=小撮构造之地岩粉
     S:oredict.dustTinyPhosphate.name=小撮磷酸盐粉
     S:oredict.dustTinyPhosphor.name=小撮磷粉
@@ -28697,7 +28697,7 @@ languagefile {
     S:oredict.gemOpal.name=猫眼石
     S:oredict.gemOrangeSapphire.name=橙色蓝宝石
     S:oredict.gemPalis.name=Palis Crystal
-    S:oredict.gemPetroleumCoke.name=石油焦
+    S:oredict.gemPetroleumCoke.name=石油焦炭
     S:oredict.gemPhosphor.name=磷
     S:oredict.gemPhosphorite.name=磷灰石
     S:oredict.gemPhosphorus.name=磷
@@ -32036,7 +32036,7 @@ languagefile {
     S:oredict.oreAndesitePalladium.name=安山岩钯矿石
     S:oredict.oreAndesitePentlandite.name=安山岩镍黄铁矿石
     S:oredict.oreAndesitePerlite.name=安山岩珍珠岩矿石
-    S:oredict.oreAndesitePetroleumCoke.name=Andesite 石油焦矿石
+    S:oredict.oreAndesitePetroleumCoke.name=Andesite 石油焦炭矿石
     S:oredict.oreAndesitePhosphate.name=安山岩磷酸盐矿石
     S:oredict.oreAndesitePhosphor.name=安山岩磷矿石
     S:oredict.oreAndesitePhosphorite.name=安山岩磷灰石矿石
@@ -32695,7 +32695,7 @@ languagefile {
     S:oredict.oreBasaltPalladium.name=玄武岩钯矿石
     S:oredict.oreBasaltPentlandite.name=玄武岩镍黄铁矿石
     S:oredict.oreBasaltPerlite.name=玄武岩珍珠岩矿石
-    S:oredict.oreBasaltPetroleumCoke.name=Basalt 石油焦矿石
+    S:oredict.oreBasaltPetroleumCoke.name=Basalt 石油焦炭矿石
     S:oredict.oreBasaltPhosphate.name=玄武岩磷酸盐矿石
     S:oredict.oreBasaltPhosphor.name=玄武岩磷矿石
     S:oredict.oreBasaltPhosphorite.name=玄武岩磷灰石矿石
@@ -33216,7 +33216,7 @@ languagefile {
     S:oredict.oreBedrockPalladium.name=基岩钯矿石
     S:oredict.oreBedrockPentlandite.name=基岩镍黄铁矿石
     S:oredict.oreBedrockPerlite.name=基岩珍珠岩矿石
-    S:oredict.oreBedrockPetroleumCoke.name=Bedrock 石油焦矿石
+    S:oredict.oreBedrockPetroleumCoke.name=Bedrock 石油焦炭矿石
     S:oredict.oreBedrockPhosphate.name=基岩磷酸盐矿石
     S:oredict.oreBedrockPhosphor.name=基岩磷矿石
     S:oredict.oreBedrockPhosphorite.name=基岩磷灰石矿石
@@ -33737,7 +33737,7 @@ languagefile {
     S:oredict.oreBlackgranitePalladium.name=黑色花岗岩钯矿石
     S:oredict.oreBlackgranitePentlandite.name=黑色花岗岩镍黄铁矿石
     S:oredict.oreBlackgranitePerlite.name=黑色花岗岩珍珠岩矿石
-    S:oredict.oreBlackgranitePetroleumCoke.name=Granite 石油焦矿石
+    S:oredict.oreBlackgranitePetroleumCoke.name=Granite 石油焦炭矿石
     S:oredict.oreBlackgranitePhosphate.name=黑色花岗岩磷酸盐矿石
     S:oredict.oreBlackgranitePhosphor.name=黑色花岗岩磷矿石
     S:oredict.oreBlackgranitePhosphorite.name=黑色花岗岩磷灰石矿石
@@ -34308,7 +34308,7 @@ languagefile {
     S:oredict.oreDioritePalladium.name=闪长岩钯矿石
     S:oredict.oreDioritePentlandite.name=闪长岩镍黄铁矿石
     S:oredict.oreDioritePerlite.name=闪长岩珍珠岩矿石
-    S:oredict.oreDioritePetroleumCoke.name=Diorite 石油焦矿石
+    S:oredict.oreDioritePetroleumCoke.name=Diorite 石油焦炭矿石
     S:oredict.oreDioritePhosphate.name=闪长岩磷酸盐矿石
     S:oredict.oreDioritePhosphor.name=闪长岩磷矿石
     S:oredict.oreDioritePhosphorite.name=闪长岩磷灰石矿石
@@ -34843,7 +34843,7 @@ languagefile {
     S:oredict.oreEndstonePalladium.name=末地钯矿石
     S:oredict.oreEndstonePentlandite.name=末地镍黄铁矿石
     S:oredict.oreEndstonePerlite.name=末地珍珠岩矿石
-    S:oredict.oreEndstonePetroleumCoke.name=End 石油焦矿石
+    S:oredict.oreEndstonePetroleumCoke.name=End 石油焦炭矿石
     S:oredict.oreEndstonePhosphate.name=末地磷酸盐矿石
     S:oredict.oreEndstonePhosphor.name=末地磷矿石
     S:oredict.oreEndstonePhosphorite.name=末地磷灰石矿石
@@ -35403,7 +35403,7 @@ languagefile {
     S:oredict.oreGravelPalladium.name=钯沙砾
     S:oredict.oreGravelPentlandite.name=镍黄铁沙砾
     S:oredict.oreGravelPerlite.name=珍珠岩沙砾
-    S:oredict.oreGravelPetroleumCoke.name=Gravel 石油焦矿石
+    S:oredict.oreGravelPetroleumCoke.name=Gravel 石油焦炭矿石
     S:oredict.oreGravelPhosphate.name=磷酸盐沙砾
     S:oredict.oreGravelPhosphor.name=磷沙砾
     S:oredict.oreGravelPhosphorite.name=磷灰石沙砾
@@ -35962,7 +35962,7 @@ languagefile {
     S:oredict.oreLimestonePalladium.name=石灰岩钯矿石
     S:oredict.oreLimestonePentlandite.name=石灰岩镍黄铁矿石
     S:oredict.oreLimestonePerlite.name=石灰岩珍珠岩矿石
-    S:oredict.oreLimestonePetroleumCoke.name=石灰岩 石油焦矿石
+    S:oredict.oreLimestonePetroleumCoke.name=石灰岩 石油焦炭矿石
     S:oredict.oreLimestonePhosphate.name=石灰岩磷酸盐矿石
     S:oredict.oreLimestonePhosphor.name=石灰岩磷矿石
     S:oredict.oreLimestonePhosphorite.name=石灰岩磷灰石矿石
@@ -36496,7 +36496,7 @@ languagefile {
     S:oredict.oreMarblePalladium.name=大理石钯矿石
     S:oredict.oreMarblePentlandite.name=大理石镍黄铁矿石
     S:oredict.oreMarblePerlite.name=大理石珍珠岩矿石
-    S:oredict.oreMarblePetroleumCoke.name=Marble 石油焦矿石
+    S:oredict.oreMarblePetroleumCoke.name=Marble 石油焦炭矿石
     S:oredict.oreMarblePhosphate.name=大理石磷酸盐矿石
     S:oredict.oreMarblePhosphor.name=大理石磷矿石
     S:oredict.oreMarblePhosphorite.name=大理石磷灰石矿石
@@ -37001,7 +37001,7 @@ languagefile {
     S:oredict.oreMarsPalladium.name=Mars Palladium 矿石
     S:oredict.oreMarsPentlandite.name=Mars Pentlandite 矿石
     S:oredict.oreMarsPerlite.name=Mars Perlite 矿石
-    S:oredict.oreMarsPetroleumCoke.name=Mars 石油焦矿石
+    S:oredict.oreMarsPetroleumCoke.name=Mars 石油焦炭矿石
     S:oredict.oreMarsPhosphate.name=Mars Phosphate 矿石
     S:oredict.oreMarsPhosphor.name=Mars Phosphor 矿石
     S:oredict.oreMarsPhosphorite.name=Mars Phosphorite 矿石
@@ -37509,7 +37509,7 @@ languagefile {
     S:oredict.oreMoonPalladium.name=Moon Palladium 矿石
     S:oredict.oreMoonPentlandite.name=Moon Pentlandite 矿石
     S:oredict.oreMoonPerlite.name=Moon Perlite 矿石
-    S:oredict.oreMoonPetroleumCoke.name=Moon 石油焦矿石
+    S:oredict.oreMoonPetroleumCoke.name=Moon 石油焦炭矿石
     S:oredict.oreMoonPhosphate.name=Moon Phosphate 矿石
     S:oredict.oreMoonPhosphor.name=Moon Phosphor 矿石
     S:oredict.oreMoonPhosphorite.name=Moon Phosphorite 矿石
@@ -38015,7 +38015,7 @@ languagefile {
     S:oredict.oreMudPalladium.name=Mud Palladium 矿石
     S:oredict.oreMudPentlandite.name=Mud Pentlandite 矿石
     S:oredict.oreMudPerlite.name=Mud Perlite 矿石
-    S:oredict.oreMudPetroleumCoke.name=Mud 石油焦矿石
+    S:oredict.oreMudPetroleumCoke.name=Mud 石油焦炭矿石
     S:oredict.oreMudPhosphate.name=Mud Phosphate 矿石
     S:oredict.oreMudPhosphor.name=Mud Phosphor 矿石
     S:oredict.oreMudPhosphorite.name=Mud Phosphorite 矿石
@@ -38537,7 +38537,7 @@ languagefile {
     S:oredict.oreNetherrackPalladium.name=下界钯矿石
     S:oredict.oreNetherrackPentlandite.name=下界镍黄铁矿石
     S:oredict.oreNetherrackPerlite.name=下界珍珠岩矿石
-    S:oredict.oreNetherrackPetroleumCoke.name=Nether 石油焦矿石
+    S:oredict.oreNetherrackPetroleumCoke.name=Nether 石油焦炭矿石
     S:oredict.oreNetherrackPhosphate.name=下界磷酸盐矿石
     S:oredict.oreNetherrackPhosphor.name=下界磷矿石
     S:oredict.oreNetherrackPhosphorite.name=下界磷灰石矿石
@@ -38694,7 +38694,7 @@ languagefile {
     S:oredict.orePalladium.name=钯矿石
     S:oredict.orePentlandite.name=镍黄铁矿石
     S:oredict.orePerlite.name=珍珠岩矿石
-    S:oredict.orePetroleumCoke.name=石油焦矿石
+    S:oredict.orePetroleumCoke.name=石油焦炭矿石
     S:oredict.orePhosphate.name=磷酸盐矿石
     S:oredict.orePhosphor.name=磷矿石
     S:oredict.orePhosphorite.name=磷灰石矿石
@@ -39111,7 +39111,7 @@ languagefile {
     S:oredict.oreRedSandPalladium.name=钯红矿沙
     S:oredict.oreRedSandPentlandite.name=镍黄铁红矿沙
     S:oredict.oreRedSandPerlite.name=珍珠岩红矿沙
-    S:oredict.oreRedSandPetroleumCoke.name=Sand 石油焦矿石
+    S:oredict.oreRedSandPetroleumCoke.name=Sand 石油焦炭矿石
     S:oredict.oreRedSandPhosphate.name=磷酸盐红矿沙
     S:oredict.oreRedSandPhosphor.name=磷红矿沙
     S:oredict.oreRedSandPhosphorite.name=磷灰石红矿沙
@@ -39632,7 +39632,7 @@ languagefile {
     S:oredict.oreRedgranitePalladium.name=红色花岗岩钯矿石
     S:oredict.oreRedgranitePentlandite.name=红色花岗岩镍黄铁矿石
     S:oredict.oreRedgranitePerlite.name=红色花岗岩珍珠岩矿石
-    S:oredict.oreRedgranitePetroleumCoke.name=Granite 石油焦矿石
+    S:oredict.oreRedgranitePetroleumCoke.name=Granite 石油焦炭矿石
     S:oredict.oreRedgranitePhosphate.name=红色花岗岩磷酸盐矿石
     S:oredict.oreRedgranitePhosphor.name=红色花岗岩磷矿石
     S:oredict.oreRedgranitePhosphorite.name=红色花岗岩磷灰石矿石
@@ -40167,7 +40167,7 @@ languagefile {
     S:oredict.oreSandPalladium.name=钯矿沙
     S:oredict.oreSandPentlandite.name=镍黄铁矿沙
     S:oredict.oreSandPerlite.name=珍珠岩矿沙
-    S:oredict.oreSandPetroleumCoke.name=Sand 石油焦矿石
+    S:oredict.oreSandPetroleumCoke.name=Sand 石油焦炭矿石
     S:oredict.oreSandPhosphate.name=磷酸盐矿沙
     S:oredict.oreSandPhosphor.name=磷矿沙
     S:oredict.oreSandPhosphorite.name=磷灰石矿沙
@@ -40687,7 +40687,7 @@ languagefile {
     S:oredict.oreSandstonePalladium.name=沙石钯矿石
     S:oredict.oreSandstonePentlandite.name=沙石镍黄铁矿石
     S:oredict.oreSandstonePerlite.name=沙石珍珠岩矿石
-    S:oredict.oreSandstonePetroleumCoke.name=Sandstone 石油焦矿石
+    S:oredict.oreSandstonePetroleumCoke.name=Sandstone 石油焦炭矿石
     S:oredict.oreSandstonePhosphate.name=沙石磷酸盐矿石
     S:oredict.oreSandstonePhosphor.name=沙石磷矿石
     S:oredict.oreSandstonePhosphorite.name=沙石磷灰石矿石
@@ -41219,7 +41219,7 @@ languagefile {
     S:oredict.oreSmallPalladium.name=贫瘠钯矿石
     S:oredict.oreSmallPentlandite.name=贫瘠镍黄铁矿石
     S:oredict.oreSmallPerlite.name=贫瘠珍珠岩矿石
-    S:oredict.oreSmallPetroleumCoke.name=Small 石油焦矿石
+    S:oredict.oreSmallPetroleumCoke.name=Small 石油焦炭矿石
     S:oredict.oreSmallPhosphate.name=贫瘠磷酸盐矿石
     S:oredict.oreSmallPhosphor.name=贫瘠磷矿石
     S:oredict.oreSmallPhosphorite.name=贫瘠磷灰石矿石
@@ -41730,7 +41730,7 @@ languagefile {
     S:oredict.oreSpacePalladium.name=Space Palladium 矿石
     S:oredict.oreSpacePentlandite.name=Space Pentlandite 矿石
     S:oredict.oreSpacePerlite.name=Space Perlite 矿石
-    S:oredict.oreSpacePetroleumCoke.name=Space 石油焦矿石
+    S:oredict.oreSpacePetroleumCoke.name=Space 石油焦炭矿石
     S:oredict.oreSpacePhosphate.name=Space Phosphate 矿石
     S:oredict.oreSpacePhosphor.name=Space Phosphor 矿石
     S:oredict.oreSpacePhosphorite.name=Space Phosphorite 矿石
@@ -42995,7 +42995,7 @@ languagefile {
     S:oredict.plantGtBerryPerlite.name=珍珠岩梅
     S:oredict.plantGtBerryPetrifiedWood.name=Petrified Wood Berry
     S:oredict.plantGtBerryPetrol.name=汽油梅
-    S:oredict.plantGtBerryPetroleumCoke.name=石油焦 Berry
+    S:oredict.plantGtBerryPetroleumCoke.name=石油焦炭 Berry
     S:oredict.plantGtBerryPetrotheum.name=构造之地岩梅
     S:oredict.plantGtBerryPhosphate.name=磷酸盐梅
     S:oredict.plantGtBerryPhosphor.name=磷梅
@@ -43870,7 +43870,7 @@ languagefile {
     S:oredict.plantGtBlossomPerlite.name=珍珠岩花
     S:oredict.plantGtBlossomPetrifiedWood.name=Petrified Wood Blossom
     S:oredict.plantGtBlossomPetrol.name=汽油花
-    S:oredict.plantGtBlossomPetroleumCoke.name=石油焦 Blossom
+    S:oredict.plantGtBlossomPetroleumCoke.name=石油焦炭 Blossom
     S:oredict.plantGtBlossomPetrotheum.name=构造之地岩花
     S:oredict.plantGtBlossomPhosphate.name=磷酸盐花
     S:oredict.plantGtBlossomPhosphor.name=磷花
@@ -44745,7 +44745,7 @@ languagefile {
     S:oredict.plantGtFiberPerlite.name=粗糙的珍珠岩纤维
     S:oredict.plantGtFiberPetrifiedWood.name=Raw Petrified Wood Fiber
     S:oredict.plantGtFiberPetrol.name=粗糙的汽油纤维
-    S:oredict.plantGtFiberPetroleumCoke.name=Raw 石油焦 Fiber
+    S:oredict.plantGtFiberPetroleumCoke.name=Raw 石油焦炭 Fiber
     S:oredict.plantGtFiberPetrotheum.name=粗糙的构造之地岩纤维
     S:oredict.plantGtFiberPhosphate.name=粗糙的磷酸盐纤维
     S:oredict.plantGtFiberPhosphor.name=粗糙的磷纤维
@@ -45620,7 +45620,7 @@ languagefile {
     S:oredict.plantGtTwigPerlite.name=珍珠岩细枝
     S:oredict.plantGtTwigPetrifiedWood.name=Petrified Wood Twig
     S:oredict.plantGtTwigPetrol.name=汽油细枝
-    S:oredict.plantGtTwigPetroleumCoke.name=石油焦 Twig
+    S:oredict.plantGtTwigPetroleumCoke.name=石油焦炭 Twig
     S:oredict.plantGtTwigPetrotheum.name=构造之地岩细枝
     S:oredict.plantGtTwigPhosphate.name=磷酸盐细枝
     S:oredict.plantGtTwigPhosphor.name=磷细枝
@@ -46498,7 +46498,7 @@ languagefile {
     S:oredict.plantGtWartPerlite.name=珍珠岩疣
     S:oredict.plantGtWartPetrifiedWood.name=Petrified Wood Wart
     S:oredict.plantGtWartPetrol.name=汽油疣
-    S:oredict.plantGtWartPetroleumCoke.name=石油焦 Wart
+    S:oredict.plantGtWartPetroleumCoke.name=石油焦炭 Wart
     S:oredict.plantGtWartPetrotheum.name=构造之地岩疣
     S:oredict.plantGtWartPhosphate.name=磷酸盐疣
     S:oredict.plantGtWartPhosphor.name=磷疣
@@ -48256,7 +48256,7 @@ languagefile {
     S:oredict.plateGemOpal.name=猫眼石板
     S:oredict.plateGemOrangeSapphire.name=结晶橙色蓝宝石板
     S:oredict.plateGemPalis.name=Crystalline Palis Pane
-    S:oredict.plateGemPetroleumCoke.name=Crystalline 石油焦 Plate
+    S:oredict.plateGemPetroleumCoke.name=Crystalline 石油焦炭 Plate
     S:oredict.plateGemPhosphorite.name=磷灰石板
     S:oredict.plateGemPhosphorus.name=磷板
     S:oredict.plateGemPrismane.name=结晶棱柱烷板
@@ -48352,7 +48352,7 @@ languagefile {
     S:oredict.plateGemTinyOpal.name=小块猫眼石板
     S:oredict.plateGemTinyOrangeSapphire.name=小块结晶橙色蓝宝石板
     S:oredict.plateGemTinyPalis.name=Tiny Crystalline Palis Pane
-    S:oredict.plateGemTinyPetroleumCoke.name=Tiny Crystalline 石油焦 Plate
+    S:oredict.plateGemTinyPetroleumCoke.name=Tiny Crystalline 石油焦炭 Plate
     S:oredict.plateGemTinyPhosphorite.name=小块磷灰石板
     S:oredict.plateGemTinyPhosphorus.name=小块磷板
     S:oredict.plateGemTinyPrismane.name=小块结晶棱柱烷板
@@ -50929,7 +50929,7 @@ languagefile {
     S:oredict.rockGtPentlandite.name=含镍黄铁岩石
     S:oredict.rockGtPerlite.name=含珍珠岩岩石
     S:oredict.rockGtPetrifiedWood.name=Petrified Wood
-    S:oredict.rockGtPetroleumCoke.name=石油焦 bearing Rock
+    S:oredict.rockGtPetroleumCoke.name=石油焦炭 bearing Rock
     S:oredict.rockGtPhosphate.name=含磷酸盐岩石
     S:oredict.rockGtPhosphor.name=含磷岩石
     S:oredict.rockGtPhosphorite.name=含磷灰石岩石
@@ -52239,7 +52239,7 @@ languagefile {
     S:oredict.scrapGtPepperBlack.name=黑胡椒废料
     S:oredict.scrapGtPerlite.name=珍珠岩废料
     S:oredict.scrapGtPetrifiedWood.name=Petrified Wood 废料
-    S:oredict.scrapGtPetroleumCoke.name=石油焦废料
+    S:oredict.scrapGtPetroleumCoke.name=石油焦炭废料
     S:oredict.scrapGtPetrotheum.name=构造之地岩废料
     S:oredict.scrapGtPhosphate.name=磷酸盐废料
     S:oredict.scrapGtPhosphor.name=磷废料
@@ -52873,7 +52873,7 @@ languagefile {
     S:oredict.screwPalis.name=青金石水晶螺丝
     S:oredict.screwPalladium.name=钯螺丝
     S:oredict.screwPetrifiedWood.name=Petrified Wood Screw
-    S:oredict.screwPetroleumCoke.name=石油焦 Screw
+    S:oredict.screwPetroleumCoke.name=石油焦炭 Screw
     S:oredict.screwPhosphorite.name=磷灰石螺丝
     S:oredict.screwPhosphorus.name=磷螺丝
     S:oredict.screwPigIron.name=生铁螺丝
@@ -54498,7 +54498,7 @@ languagefile {
     S:oredict.stickLongPalis.name=长青金石水晶杆
     S:oredict.stickLongPalladium.name=长钯杆
     S:oredict.stickLongPetrifiedWood.name=Long Petrified Wood Stick
-    S:oredict.stickLongPetroleumCoke.name=Long 石油焦 Rod
+    S:oredict.stickLongPetroleumCoke.name=Long 石油焦炭 Rod
     S:oredict.stickLongPhosphorite.name=长磷灰石杆
     S:oredict.stickLongPhosphorus.name=长磷杆
     S:oredict.stickLongPigIron.name=长生铁杆
@@ -54699,7 +54699,7 @@ languagefile {
     S:oredict.stickPalis.name=青金石水晶杆
     S:oredict.stickPalladium.name=钯杆
     S:oredict.stickPetrifiedWood.name=Petrified Wood Stick
-    S:oredict.stickPetroleumCoke.name=石油焦 Rod
+    S:oredict.stickPetroleumCoke.name=石油焦炭 Rod
     S:oredict.stickPhosphorite.name=磷灰石杆
     S:oredict.stickPhosphorus.name=磷杆
     S:oredict.stickPigIron.name=生铁杆
