@@ -12865,7 +12865,7 @@ languagefile {
     S:oredict.blockDustSodiumBisulfate.name=硫酸氢钠粉块
     S:oredict.blockDustSodiumCarbonate.name=碳酸钠粉块
     S:oredict.blockDustSodiumHydroxide.name=氢氧化钠粉块
-    S:oredict.blockDustSodiumNitrate.name=Block of Sodium Nitrate Dust
+    S:oredict.blockDustSodiumNitrate.name=Block of 硝酸钠粉
     S:oredict.blockDustSodiumPersulfate.name=过硫酸钠粉块
     S:oredict.blockDustSodiumPyrosulfate.name=焦硫酸钠粉块
     S:oredict.blockDustSodiumSulfate.name=硫酸钠粉块
@@ -18681,7 +18681,7 @@ languagefile {
     S:oredict.crateGtDustSodiumBisulfate.name=硫酸氢钠粉板条箱
     S:oredict.crateGtDustSodiumCarbonate.name=碳酸钠粉板条箱
     S:oredict.crateGtDustSodiumHydroxide.name=氢氧化钠粉板条箱
-    S:oredict.crateGtDustSodiumNitrate.name=Crate of Sodium Nitrate Dust
+    S:oredict.crateGtDustSodiumNitrate.name=Crate of 硝酸钠粉
     S:oredict.crateGtDustSodiumPersulfate.name=过硫酸钠粉板条箱
     S:oredict.crateGtDustSodiumPyrosulfate.name=焦硫酸钠粉板条箱
     S:oredict.crateGtDustSodiumSulfate.name=硫酸钠粉板条箱
@@ -20543,7 +20543,7 @@ languagefile {
     S:oredict.crushedCentrifugedSoapstone.name=离心皂石矿石
     S:oredict.crushedCentrifugedSodalite.name=离心方钠石矿石
     S:oredict.crushedCentrifugedSodium.name=离心钠矿石
-    S:oredict.crushedCentrifugedSodiumNitrate.name=Refined Sodium Nitrate 矿石
+    S:oredict.crushedCentrifugedSodiumNitrate.name=Refined 硝酸钠矿石
     S:oredict.crushedCentrifugedSperrylite.name=离心砷铂矿石
     S:oredict.crushedCentrifugedSpessartine.name=离心锰铝榴石矿石
     S:oredict.crushedCentrifugedSphalerite.name=离心闪锌矿矿石
@@ -21019,7 +21019,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinySoapstone.name=小撮离心皂石矿石
     S:oredict.crushedCentrifugedTinySodalite.name=小撮离心方钠石矿石
     S:oredict.crushedCentrifugedTinySodium.name=小撮离心钠矿石
-    S:oredict.crushedCentrifugedTinySodiumNitrate.name=Tiny Refined Sodium Nitrate 矿石
+    S:oredict.crushedCentrifugedTinySodiumNitrate.name=Tiny Refined 硝酸钠矿石
     S:oredict.crushedCentrifugedTinySperrylite.name=小撮离心砷铂矿石
     S:oredict.crushedCentrifugedTinySpessartine.name=小撮离心锰铝榴石矿石
     S:oredict.crushedCentrifugedTinySphalerite.name=小撮离心闪锌矿矿石
@@ -21802,7 +21802,7 @@ languagefile {
     S:oredict.crushedPurifiedSoapstone.name=纯净皂石矿石
     S:oredict.crushedPurifiedSodalite.name=纯净方钠石矿石
     S:oredict.crushedPurifiedSodium.name=纯净钠矿石
-    S:oredict.crushedPurifiedSodiumNitrate.name=Purified Sodium Nitrate 矿石
+    S:oredict.crushedPurifiedSodiumNitrate.name=Purified 硝酸钠矿石
     S:oredict.crushedPurifiedSperrylite.name=纯净砷铂矿石
     S:oredict.crushedPurifiedSpessartine.name=纯净锰铝榴石矿石
     S:oredict.crushedPurifiedSphalerite.name=纯净闪锌矿矿石
@@ -22278,7 +22278,7 @@ languagefile {
     S:oredict.crushedPurifiedTinySoapstone.name=小撮纯净皂石矿石
     S:oredict.crushedPurifiedTinySodalite.name=小撮纯净方钠石矿石
     S:oredict.crushedPurifiedTinySodium.name=小撮纯净钠矿石
-    S:oredict.crushedPurifiedTinySodiumNitrate.name=Tiny Purified Sodium Nitrate 矿石
+    S:oredict.crushedPurifiedTinySodiumNitrate.name=Tiny Purified 硝酸钠矿石
     S:oredict.crushedPurifiedTinySperrylite.name=小撮纯净砷铂矿石
     S:oredict.crushedPurifiedTinySpessartine.name=小撮纯净锰铝榴石矿石
     S:oredict.crushedPurifiedTinySphalerite.name=小撮纯净闪锌矿矿石
@@ -22436,7 +22436,7 @@ languagefile {
     S:oredict.crushedSoapstone.name=粉碎皂石矿石
     S:oredict.crushedSodalite.name=粉碎方钠石矿石
     S:oredict.crushedSodium.name=粉碎钠矿石
-    S:oredict.crushedSodiumNitrate.name=Crushed Sodium Nitrate 矿石
+    S:oredict.crushedSodiumNitrate.name=Crushed 硝酸钠矿石
     S:oredict.crushedSperrylite.name=粉碎砷铂矿石
     S:oredict.crushedSpessartine.name=粉碎锰铝榴石矿石
     S:oredict.crushedSphalerite.name=粉碎闪锌矿矿石
@@ -22912,7 +22912,7 @@ languagefile {
     S:oredict.crushedTinySoapstone.name=小撮粉碎皂石矿石
     S:oredict.crushedTinySodalite.name=小撮粉碎方钠石矿石
     S:oredict.crushedTinySodium.name=小撮粉碎钠矿石
-    S:oredict.crushedTinySodiumNitrate.name=Tiny Crushed Sodium Nitrate 矿石
+    S:oredict.crushedTinySodiumNitrate.name=Tiny Crushed 硝酸钠矿石
     S:oredict.crushedTinySperrylite.name=小撮粉碎砷铂矿石
     S:oredict.crushedTinySpessartine.name=小撮粉碎锰铝榴石矿石
     S:oredict.crushedTinySphalerite.name=小撮粉碎闪锌矿矿石
@@ -23992,7 +23992,7 @@ languagefile {
     S:oredict.dustDiv72SodiumBisulfate.name=1/72份硫酸氢钠粉
     S:oredict.dustDiv72SodiumCarbonate.name=1/72份碳酸钠粉
     S:oredict.dustDiv72SodiumHydroxide.name=1/72份氢氧化钠粉
-    S:oredict.dustDiv72SodiumNitrate.name=1/72nd of a Pile of Sodium Nitrate Dust
+    S:oredict.dustDiv72SodiumNitrate.name=1/72nd of a Pile of 硝酸钠粉
     S:oredict.dustDiv72SodiumPersulfate.name=1/72份过硫酸钠粉
     S:oredict.dustDiv72SodiumPyrosulfate.name=1/72份焦硫酸钠粉
     S:oredict.dustDiv72SodiumSulfate.name=1/72份硫酸钠粉
@@ -24727,7 +24727,7 @@ languagefile {
     S:oredict.dustImpureSoapstone.name=含杂皂石粉
     S:oredict.dustImpureSodalite.name=含杂方钠石粉
     S:oredict.dustImpureSodium.name=含杂钠粉
-    S:oredict.dustImpureSodiumNitrate.name=Impure Pile of Sodium Nitrate Dust
+    S:oredict.dustImpureSodiumNitrate.name=Impure Pile of 硝酸钠粉
     S:oredict.dustImpureSpaceRock.name=含杂陨石粉
     S:oredict.dustImpureSpaceStone.name=Impure Pile of Space Dust
     S:oredict.dustImpureSperrylite.name=含杂砷铂粉
@@ -25473,7 +25473,7 @@ languagefile {
     S:oredict.dustPureSoapstone.name=纯净皂石粉
     S:oredict.dustPureSodalite.name=纯净方钠石粉
     S:oredict.dustPureSodium.name=纯净钠粉
-    S:oredict.dustPureSodiumNitrate.name=Purified Pile of Sodium Nitrate Dust
+    S:oredict.dustPureSodiumNitrate.name=Purified Pile of 硝酸钠粉
     S:oredict.dustPureSpaceRock.name=纯净陨石粉
     S:oredict.dustPureSpaceStone.name=Purified Pile of Space Dust
     S:oredict.dustPureSperrylite.name=纯净砷铂粉
@@ -26274,7 +26274,7 @@ languagefile {
     S:oredict.dustSmallSodiumBisulfate.name=小堆硫酸氢钠粉
     S:oredict.dustSmallSodiumCarbonate.name=小堆碳酸钠粉
     S:oredict.dustSmallSodiumHydroxide.name=小堆氢氧化钠粉
-    S:oredict.dustSmallSodiumNitrate.name=Small Pile of Sodium Nitrate Dust
+    S:oredict.dustSmallSodiumNitrate.name=Small Pile of 硝酸钠粉
     S:oredict.dustSmallSodiumPersulfate.name=小堆过硫酸钠粉
     S:oredict.dustSmallSodiumPyrosulfate.name=小堆焦硫酸钠粉
     S:oredict.dustSmallSodiumSulfate.name=小堆硫酸钠粉
@@ -26415,7 +26415,7 @@ languagefile {
     S:oredict.dustSodiumBisulfate.name=硫酸氢钠粉
     S:oredict.dustSodiumCarbonate.name=碳酸钠粉
     S:oredict.dustSodiumHydroxide.name=氢氧化钠粉
-    S:oredict.dustSodiumNitrate.name=Sodium Nitrate Dust
+    S:oredict.dustSodiumNitrate.name=硝酸钠粉
     S:oredict.dustSodiumPersulfate.name=过硫酸钠粉
     S:oredict.dustSodiumPyrosulfate.name=焦硫酸钠粉
     S:oredict.dustSodiumSulfate.name=硫酸钠粉
@@ -27135,7 +27135,7 @@ languagefile {
     S:oredict.dustTinySodiumBisulfate.name=小撮硫酸氢钠粉
     S:oredict.dustTinySodiumCarbonate.name=小撮碳酸钠粉
     S:oredict.dustTinySodiumHydroxide.name=小撮氢氧化钠粉
-    S:oredict.dustTinySodiumNitrate.name=Tiny Pile of Sodium Nitrate Dust
+    S:oredict.dustTinySodiumNitrate.name=Tiny Pile of 硝酸钠粉
     S:oredict.dustTinySodiumPersulfate.name=小撮过硫酸钠粉
     S:oredict.dustTinySodiumPyrosulfate.name=小撮焦硫酸钠粉
     S:oredict.dustTinySodiumSulfate.name=小撮硫酸钠粉
@@ -32103,7 +32103,7 @@ languagefile {
     S:oredict.oreAndesiteSoapstone.name=安山岩皂石矿石
     S:oredict.oreAndesiteSodalite.name=安山岩方钠石矿石
     S:oredict.oreAndesiteSodium.name=安山岩钠矿石
-    S:oredict.oreAndesiteSodiumNitrate.name=Andesite Sodium Nitrate 矿石
+    S:oredict.oreAndesiteSodiumNitrate.name=Andesite 硝酸钠矿石
     S:oredict.oreAndesiteSperrylite.name=安山岩砷铂矿石
     S:oredict.oreAndesiteSpessartine.name=安山岩锰铝榴石矿石
     S:oredict.oreAndesiteSphalerite.name=安山岩闪锌矿矿石
@@ -32762,7 +32762,7 @@ languagefile {
     S:oredict.oreBasaltSoapstone.name=玄武岩皂石矿石
     S:oredict.oreBasaltSodalite.name=玄武岩方钠石矿石
     S:oredict.oreBasaltSodium.name=玄武岩钠矿石
-    S:oredict.oreBasaltSodiumNitrate.name=Basalt Sodium Nitrate 矿石
+    S:oredict.oreBasaltSodiumNitrate.name=Basalt 硝酸钠矿石
     S:oredict.oreBasaltSperrylite.name=玄武岩砷铂矿石
     S:oredict.oreBasaltSpessartine.name=玄武岩锰铝榴石矿石
     S:oredict.oreBasaltSphalerite.name=玄武岩闪锌矿矿石
@@ -33283,7 +33283,7 @@ languagefile {
     S:oredict.oreBedrockSoapstone.name=基岩皂石矿石
     S:oredict.oreBedrockSodalite.name=基岩方钠石矿石
     S:oredict.oreBedrockSodium.name=基岩钠矿石
-    S:oredict.oreBedrockSodiumNitrate.name=Bedrock Sodium Nitrate 矿石
+    S:oredict.oreBedrockSodiumNitrate.name=Bedrock 硝酸钠矿石
     S:oredict.oreBedrockSperrylite.name=基岩砷铂矿石
     S:oredict.oreBedrockSpessartine.name=基岩锰铝榴石矿石
     S:oredict.oreBedrockSphalerite.name=基岩闪锌矿矿石
@@ -33804,7 +33804,7 @@ languagefile {
     S:oredict.oreBlackgraniteSoapstone.name=黑色花岗岩皂石矿石
     S:oredict.oreBlackgraniteSodalite.name=黑色花岗岩方钠石矿石
     S:oredict.oreBlackgraniteSodium.name=黑色花岗岩钠矿石
-    S:oredict.oreBlackgraniteSodiumNitrate.name=Granite Sodium Nitrate 矿石
+    S:oredict.oreBlackgraniteSodiumNitrate.name=Granite 硝酸钠矿石
     S:oredict.oreBlackgraniteSperrylite.name=黑色花岗岩砷铂矿石
     S:oredict.oreBlackgraniteSpessartine.name=黑色花岗岩锰铝榴石矿石
     S:oredict.oreBlackgraniteSphalerite.name=黑色花岗岩闪锌矿矿石
@@ -34375,7 +34375,7 @@ languagefile {
     S:oredict.oreDioriteSoapstone.name=闪长岩皂石矿石
     S:oredict.oreDioriteSodalite.name=闪长岩方钠石矿石
     S:oredict.oreDioriteSodium.name=闪长岩钠矿石
-    S:oredict.oreDioriteSodiumNitrate.name=Diorite Sodium Nitrate 矿石
+    S:oredict.oreDioriteSodiumNitrate.name=Diorite 硝酸钠矿石
     S:oredict.oreDioriteSperrylite.name=闪长岩砷铂矿石
     S:oredict.oreDioriteSpessartine.name=闪长岩锰铝榴石矿石
     S:oredict.oreDioriteSphalerite.name=闪长岩闪锌矿矿石
@@ -34910,7 +34910,7 @@ languagefile {
     S:oredict.oreEndstoneSoapstone.name=末地皂石矿石
     S:oredict.oreEndstoneSodalite.name=末地方钠石矿石
     S:oredict.oreEndstoneSodium.name=末地钠矿石
-    S:oredict.oreEndstoneSodiumNitrate.name=End Sodium Nitrate 矿石
+    S:oredict.oreEndstoneSodiumNitrate.name=End 硝酸钠矿石
     S:oredict.oreEndstoneSperrylite.name=末地砷铂矿石
     S:oredict.oreEndstoneSpessartine.name=末地锰铝榴石矿石
     S:oredict.oreEndstoneSphalerite.name=末地闪锌矿矿石
@@ -35470,7 +35470,7 @@ languagefile {
     S:oredict.oreGravelSoapstone.name=皂石沙砾
     S:oredict.oreGravelSodalite.name=方钠石沙砾
     S:oredict.oreGravelSodium.name=钠沙砾
-    S:oredict.oreGravelSodiumNitrate.name=Gravel Sodium Nitrate 矿石
+    S:oredict.oreGravelSodiumNitrate.name=Gravel 硝酸钠矿石
     S:oredict.oreGravelSperrylite.name=砷铂沙砾
     S:oredict.oreGravelSpessartine.name=锰铝榴石沙砾
     S:oredict.oreGravelSphalerite.name=闪锌沙砾
@@ -36029,7 +36029,7 @@ languagefile {
     S:oredict.oreLimestoneSoapstone.name=石灰岩皂石矿石
     S:oredict.oreLimestoneSodalite.name=石灰岩方钠石矿石
     S:oredict.oreLimestoneSodium.name=石灰岩钠矿石
-    S:oredict.oreLimestoneSodiumNitrate.name=石灰岩 Sodium Nitrate 矿石
+    S:oredict.oreLimestoneSodiumNitrate.name=石灰岩 硝酸钠矿石
     S:oredict.oreLimestoneSperrylite.name=石灰岩砷铂矿石
     S:oredict.oreLimestoneSpessartine.name=石灰岩锰铝榴石矿石
     S:oredict.oreLimestoneSphalerite.name=石灰岩闪锌矿矿石
@@ -36563,7 +36563,7 @@ languagefile {
     S:oredict.oreMarbleSoapstone.name=大理石皂石矿石
     S:oredict.oreMarbleSodalite.name=大理石方钠石矿石
     S:oredict.oreMarbleSodium.name=大理石钠矿石
-    S:oredict.oreMarbleSodiumNitrate.name=Marble Sodium Nitrate 矿石
+    S:oredict.oreMarbleSodiumNitrate.name=Marble 硝酸钠矿石
     S:oredict.oreMarbleSperrylite.name=大理石砷铂矿石
     S:oredict.oreMarbleSpessartine.name=大理石锰铝榴石矿石
     S:oredict.oreMarbleSphalerite.name=大理石闪锌矿石
@@ -38082,7 +38082,7 @@ languagefile {
     S:oredict.oreMudSoapstone.name=Mud Soapstone 矿石
     S:oredict.oreMudSodalite.name=Mud Sodalite 矿石
     S:oredict.oreMudSodium.name=Mud Sodium 矿石
-    S:oredict.oreMudSodiumNitrate.name=Mud Sodium Nitrate 矿石
+    S:oredict.oreMudSodiumNitrate.name=Mud 硝酸钠矿石
     S:oredict.oreMudSperrylite.name=Mud Sperrylite 矿石
     S:oredict.oreMudSpessartine.name=Mud Spessartine 矿石
     S:oredict.oreMudSphalerite.name=Mud Sphalerite 矿石
@@ -38604,7 +38604,7 @@ languagefile {
     S:oredict.oreNetherrackSoapstone.name=下界皂石矿石
     S:oredict.oreNetherrackSodalite.name=下界方钠石矿石
     S:oredict.oreNetherrackSodium.name=下界钠矿石
-    S:oredict.oreNetherrackSodiumNitrate.name=Nether Sodium Nitrate 矿石
+    S:oredict.oreNetherrackSodiumNitrate.name=Nether 硝酸钠矿石
     S:oredict.oreNetherrackSperrylite.name=下界砷铂矿石
     S:oredict.oreNetherrackSpessartine.name=下界锰铝榴石矿石
     S:oredict.oreNetherrackSphalerite.name=下界闪锌矿矿石
@@ -39178,7 +39178,7 @@ languagefile {
     S:oredict.oreRedSandSoapstone.name=皂石红矿沙
     S:oredict.oreRedSandSodalite.name=方钠石红矿沙
     S:oredict.oreRedSandSodium.name=钠红矿沙
-    S:oredict.oreRedSandSodiumNitrate.name=Sand Sodium Nitrate 矿石
+    S:oredict.oreRedSandSodiumNitrate.name=Sand 硝酸钠矿石
     S:oredict.oreRedSandSperrylite.name=砷铂红矿沙
     S:oredict.oreRedSandSpessartine.name=锰铝榴石红矿沙
     S:oredict.oreRedSandSphalerite.name=闪锌红矿沙
@@ -39699,7 +39699,7 @@ languagefile {
     S:oredict.oreRedgraniteSoapstone.name=红色花岗岩皂石矿石
     S:oredict.oreRedgraniteSodalite.name=红色花岗岩方钠石矿石
     S:oredict.oreRedgraniteSodium.name=红色花岗岩钠矿石
-    S:oredict.oreRedgraniteSodiumNitrate.name=Granite Sodium Nitrate 矿石
+    S:oredict.oreRedgraniteSodiumNitrate.name=Granite 硝酸钠矿石
     S:oredict.oreRedgraniteSperrylite.name=红色花岗岩砷铂矿石
     S:oredict.oreRedgraniteSpessartine.name=红色花岗岩锰铝榴石矿石
     S:oredict.oreRedgraniteSphalerite.name=红色花岗岩闪锌矿矿石
@@ -40234,7 +40234,7 @@ languagefile {
     S:oredict.oreSandSoapstone.name=皂石矿沙
     S:oredict.oreSandSodalite.name=方钠石矿沙
     S:oredict.oreSandSodium.name=钠矿沙
-    S:oredict.oreSandSodiumNitrate.name=Sand Sodium Nitrate 矿石
+    S:oredict.oreSandSodiumNitrate.name=Sand 硝酸钠矿石
     S:oredict.oreSandSperrylite.name=砷铂矿沙
     S:oredict.oreSandSpessartine.name=锰铝榴石矿沙
     S:oredict.oreSandSphalerite.name=闪锌矿沙
@@ -40754,7 +40754,7 @@ languagefile {
     S:oredict.oreSandstoneSoapstone.name=沙石皂石矿石
     S:oredict.oreSandstoneSodalite.name=沙石方钠石矿石
     S:oredict.oreSandstoneSodium.name=沙石钠矿石
-    S:oredict.oreSandstoneSodiumNitrate.name=Sandstone Sodium Nitrate 矿石
+    S:oredict.oreSandstoneSodiumNitrate.name=Sandstone 硝酸钠矿石
     S:oredict.oreSandstoneSperrylite.name=沙石砷铂矿石
     S:oredict.oreSandstoneSpessartine.name=沙石锰铝榴石矿石
     S:oredict.oreSandstoneSphalerite.name=沙石闪锌矿石
@@ -41286,7 +41286,7 @@ languagefile {
     S:oredict.oreSmallSoapstone.name=贫瘠皂石矿石
     S:oredict.oreSmallSodalite.name=贫瘠方钠石矿石
     S:oredict.oreSmallSodium.name=贫瘠钠矿石
-    S:oredict.oreSmallSodiumNitrate.name=Small Sodium Nitrate 矿石
+    S:oredict.oreSmallSodiumNitrate.name=Small 硝酸钠矿石
     S:oredict.oreSmallSperrylite.name=贫瘠砷铂矿石
     S:oredict.oreSmallSpessartine.name=贫瘠锰铝榴石矿石
     S:oredict.oreSmallSphalerite.name=贫瘠闪锌矿矿石
@@ -41362,7 +41362,7 @@ languagefile {
     S:oredict.oreSoapstone.name=皂石矿石
     S:oredict.oreSodalite.name=方钠石矿石
     S:oredict.oreSodium.name=钠矿石
-    S:oredict.oreSodiumNitrate.name=Sodium Nitrate 矿石
+    S:oredict.oreSodiumNitrate.name=硝酸钠矿石
     S:oredict.oreSpaceActinium.name=Space Actinium 矿石
     S:oredict.oreSpaceAdamantine.name=Space Adamantine 矿石
     S:oredict.oreSpaceAdamantite.name=Space Adamantite 矿石
@@ -43112,7 +43112,7 @@ languagefile {
     S:oredict.plantGtBerrySodiumBisulfate.name=硫酸氢钠梅
     S:oredict.plantGtBerrySodiumCarbonate.name=碳酸钠梅
     S:oredict.plantGtBerrySodiumHydroxide.name=氢氧化钠梅
-    S:oredict.plantGtBerrySodiumNitrate.name=Sodium Nitrate Berry
+    S:oredict.plantGtBerrySodiumNitrate.name=硝酸钠 Berry
     S:oredict.plantGtBerrySodiumPersulfate.name=过硫酸钠梅
     S:oredict.plantGtBerrySodiumPyrosulfate.name=焦硫酸钠梅
     S:oredict.plantGtBerrySodiumSulfate.name=硫酸钠梅
@@ -43987,7 +43987,7 @@ languagefile {
     S:oredict.plantGtBlossomSodiumBisulfate.name=硫酸氢钠花
     S:oredict.plantGtBlossomSodiumCarbonate.name=碳酸钠花
     S:oredict.plantGtBlossomSodiumHydroxide.name=氢氧化钠花
-    S:oredict.plantGtBlossomSodiumNitrate.name=Sodium Nitrate Blossom
+    S:oredict.plantGtBlossomSodiumNitrate.name=硝酸钠 Blossom
     S:oredict.plantGtBlossomSodiumPersulfate.name=过硫酸钠花
     S:oredict.plantGtBlossomSodiumPyrosulfate.name=焦硫酸钠花
     S:oredict.plantGtBlossomSodiumSulfate.name=硫酸钠花
@@ -44862,7 +44862,7 @@ languagefile {
     S:oredict.plantGtFiberSodiumBisulfate.name=粗糙的硫酸氢钠纤维
     S:oredict.plantGtFiberSodiumCarbonate.name=粗糙的碳酸钠纤维
     S:oredict.plantGtFiberSodiumHydroxide.name=粗糙的氢氧化钠纤维
-    S:oredict.plantGtFiberSodiumNitrate.name=Raw Sodium Nitrate Fiber
+    S:oredict.plantGtFiberSodiumNitrate.name=Raw 硝酸钠 Fiber
     S:oredict.plantGtFiberSodiumPersulfate.name=粗糙的过硫酸钠纤维
     S:oredict.plantGtFiberSodiumPyrosulfate.name=粗糙的焦硫酸钠纤维
     S:oredict.plantGtFiberSodiumSulfate.name=粗糙的硫酸钠纤维
@@ -45737,7 +45737,7 @@ languagefile {
     S:oredict.plantGtTwigSodiumBisulfate.name=硫酸氢钠细枝
     S:oredict.plantGtTwigSodiumCarbonate.name=碳酸钠细枝
     S:oredict.plantGtTwigSodiumHydroxide.name=氢氧化钠细枝
-    S:oredict.plantGtTwigSodiumNitrate.name=Sodium Nitrate Twig
+    S:oredict.plantGtTwigSodiumNitrate.name=硝酸钠 Twig
     S:oredict.plantGtTwigSodiumPersulfate.name=过硫酸钠细枝
     S:oredict.plantGtTwigSodiumPyrosulfate.name=焦硫酸钠细枝
     S:oredict.plantGtTwigSodiumSulfate.name=硫酸钠细枝
@@ -46615,7 +46615,7 @@ languagefile {
     S:oredict.plantGtWartSodiumBisulfate.name=硫酸氢钠疣
     S:oredict.plantGtWartSodiumCarbonate.name=碳酸钠疣
     S:oredict.plantGtWartSodiumHydroxide.name=氢氧化钠疣
-    S:oredict.plantGtWartSodiumNitrate.name=Sodium Nitrate Wart
+    S:oredict.plantGtWartSodiumNitrate.name=硝酸钠 Wart
     S:oredict.plantGtWartSodiumPersulfate.name=过硫酸钠疣
     S:oredict.plantGtWartSodiumPyrosulfate.name=焦硫酸钠疣
     S:oredict.plantGtWartSodiumSulfate.name=硫酸钠疣
@@ -51000,7 +51000,7 @@ languagefile {
     S:oredict.rockGtSoapstone.name=含皂石岩石
     S:oredict.rockGtSodalite.name=含方钠石岩石
     S:oredict.rockGtSodium.name=含钠岩石
-    S:oredict.rockGtSodiumNitrate.name=Sodium Nitrate bearing Rock
+    S:oredict.rockGtSodiumNitrate.name=硝酸钠 bearing Rock
     S:oredict.rockGtSpaceRock.name=含陨石岩石
     S:oredict.rockGtSpaceStone.name=Space Rock
     S:oredict.rockGtSperrylite.name=含砷铂岩石
@@ -52348,7 +52348,7 @@ languagefile {
     S:oredict.scrapGtSodiumBisulfate.name=硫酸氢钠废料
     S:oredict.scrapGtSodiumCarbonate.name=碳酸钠废料
     S:oredict.scrapGtSodiumHydroxide.name=氢氧化钠废料
-    S:oredict.scrapGtSodiumNitrate.name=Sodium Nitrate Scrap
+    S:oredict.scrapGtSodiumNitrate.name=硝酸钠 Scrap
     S:oredict.scrapGtSodiumPersulfate.name=过硫酸钠废料
     S:oredict.scrapGtSodiumPyrosulfate.name=焦硫酸钠废料
     S:oredict.scrapGtSodiumSulfate.name=硫酸钠废料
