@@ -454,7 +454,7 @@ languagefile {
     S:fluid.molten.enderiumbase=熔融末影锭粗胚
     S:fluid.molten.enderpearl=熔融末影珍珠
     S:fluid.molten.ferrouschloride=熔融氯化亚铁
-    S:fluid.molten.ferrovanadium=Molten Ferrovanadium
+    S:fluid.molten.ferrovanadium=熔融钒磁铁矿
     S:fluid.molten.fierysteel=熔融炙热钢
     S:fluid.molten.fluorite=熔融氟石
     S:fluid.molten.gold=熔融金
@@ -477,7 +477,7 @@ languagefile {
     S:fluid.molten.magnesium=熔融镁
     S:fluid.molten.magnesiumcarbonate=熔融碳酸镁
     S:fluid.molten.magnesiumchloride=熔融氯化镁
-    S:fluid.molten.magnetite=Molten Magnetite
+    S:fluid.molten.magnetite=熔融磁铁矿
     S:fluid.molten.manganese=熔融锰
     S:fluid.molten.manganesechloride=熔融氯化锰
     S:fluid.molten.manyullyn=熔融玛玉灵
@@ -754,7 +754,7 @@ languagefile {
     S:fluid.tea=茶
     S:fluid.titaniumtetrachloride=四氯化钛
     S:fluid.tomatojuice=番茄汁
-    S:fluid.tomatosauce=Tomato Sauce
+    S:fluid.tomatosauce=番茄酱
     S:fluid.tritium=氚
     S:fluid.uuamplifier=UU增幅液
     S:fluid.vinegar=葡萄醋
@@ -2926,9 +2926,9 @@ languagefile {
     S:gt.lang.requirement.water.any=需要输入任何种类的水
     S:gt.lang.requirement.water.distilled=需要输入蒸馏水
     S:gt.lang.requirement.water.pure=需要输入任何种类的水。使用蒸馏水以达到最高效率！
-    S:gt.lang.sealable.any=This Block can seal Air at any Side
-    S:gt.lang.sealable.bug=Shouldn't seal Air, but sometimes does because opaque
-    S:gt.lang.sealable.some=This Block can seal Air at some Sides
+    S:gt.lang.sealable.any=这个方块的每个面都可以实现气密效果
+    S:gt.lang.sealable.bug=理论上不能实现气密，但是由于气密系统的一点bug，它时不时地可以实现密封，因为它是不透明方块。
+    S:gt.lang.sealable.some=这个方块只有某些面能实现气密效果
     S:gt.lang.spawnproof=怪物不能生成在这个方块上
     S:gt.lang.structure=结构
     S:gt.lang.time.day=天
