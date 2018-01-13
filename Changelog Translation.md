@@ -1,4 +1,66 @@
 更新日志 *(1.7.10)*
+## V6.06.08:
+[CHANGED] Thaumcraft Nitor now counts as Torch for Tool based Torch placement and removal. This also makes it universally harvestable by GT6 Tools in Adventure Mode (previously required Crowbar).
+[CHANGED] Et Futurum Coarse Dirt is now able to be turned into Mud by Swampwater.
+[ADDED]
+New Biome Diversity at the Center Area of the Map that can be enabled in the Config, just like the Streets.
+It contains most Biome Specific Resources but pretty much no Ores.
+It also contains all 5 current GT6 Rock Types, Both Colors of Clay, Hardened Clay, all 3 Types of Dirt, Sand, Red Sand, Black Sand, Snow, Ice, Packed Ice, Cactii, Rocks, Sticks, Flints, Flowers, Tall Grass, the first 4 Vanilla Tree Types, Cocoa, Pumpkins, Melons, Lily Pads, Glowtus and Mossy Cobblestone.
+[ADDED]
+Nexus Building at the Center of the Overworld (Disabled in Config per default), which contains inactive Portals to the Nether, the End and Twilight Forest.
+
+
+## V6.06.07:
+[FIXED] Coin Stacks that have more than 127 Coins did not drop anything when shoveled...
+[CHANGED] Any Rightclick on a GT6 TileEntity with a Thaumometer will be ignored entirely, so you dont have to hold shift for scanning GT6 Stuff anymore.
+[ADDED] Recycling Recipe for Glass Bottle to Glass Block in vanilla Furnace, and most Books and Papers are mortarable now, but you only get the Paper Chad off of it, not the other parts!.
+
+
+## V6.6.6:
+[NOTE] No, I will not sell my Soul to the Changelog!
+
+
+## V6.06.05:
+[COMPAT] The 7 Botania Quartzes get handled properly by my Machines and Recipes now.
+[FIXED] Plenty of Bugs with: Wrenches in IC2C, wrong Tooltips on Spikes, GT6 Cinnamon Bark harvesting without Pams installed, Glass/Sulfur not being Mortarable, and more.
+[CHANGED] I just noticed that my "registering TechGuns Ammo as not auto-insertable to the Storage Inserter" was pretty much useless, since the Mod actually has an Ammo Inventory (which isn't and wont be scanned by said Storage Inserter), that I didn't think about when doing that. So that Registration will be undone for everything of TG.
+[CHANGED] Mortar Recipes can now accept larger Items like Ingots, Plates and Gems if the Materials they are made of are Brittle! Coal, Salt, Redstone, Sulfur, Stone and similar count as Brittle.
+[ADDED] Rubber Pipes. They are the only Pipes that can directly be "broken" by Hand (kindof like unscrewing a Rubber Hose). Also changed the Max Temperature on Wooden, Plastic (97°C) and Rubber Pipes, so Steam is no option for those ever! if you don't like their Black Color, then paint them. :P
+
+
+## V6.06.04:
+[COMPAT] Some remaining TechGuns Material Data and Recipes were done.
+[FIXED] Crash Bug with the Thaumonomicon and Item Tooltips that have a Wildcard Metadata on them.
+[FIXED] Fluid Tooltips now no longer state that Air is lighter than Air.
+[FIXED] Prospecting not working on GT6 Rock Types... Don't know how I could have let that happen for such a long time... It definitely never worked in the first place...
+[ADDED] Selector Tags 0-15 can be used as Mode-Selector-Cover now. They cant be switched to any other Mode without detaching them from the thing they are placed on! (otherwise the Manual Selector Cover would be obsolete)
+
+
+## V6.06.03:
+[COMPAT] Remaining Erebus Items got their Recipes and Stuff done. Most notable would be the Erebus Bug Repellant Spray Can that has a canning Machine Recipe with GT6 Spray Cans now, and said Empty Cans will be dropped whenever you use the Repellant, instead of being voided.
+[COMPAT] Mo'Creatures Horses drop Horse Meat and its Logs and Planks are now registered in the OreDict.
+[COMPAT] The Highlands Mod's Biomes and Items should be more compatible now, even though I cant believe how bad it was before I fixed a lot of those things... Its Ironwood Trees actually give small amounts of Liveroot Dust when shreddered too.
+[COMPAT] TechGuns
+RF Powered Devices will accept up to High Voltage Electric GT6 Power, just like Open Modular Turrets, Galacticraft or Applied Energistics.
+Its Ammo Items are now recognized as Ammo by the Storage Inserter, meaning you won't just insert your not-in-hotbar Ammunition into a Wall of Mass Storages, when doing your normal Storage business, because that would be annoying.
+The Undead Mobs of Tech Guns now drop similar GT6 Items as the Vanilla Zombies and Skeletons.
+Boxing Machines can fill/empty Magazines with Bullets and such.
+GT6 Crowbars can be used to break "Ore Clusters", just like the Tech Guns Crowbar. Note that they lose a lot of Durability for that!
+[COMPAT-FAILED] HBM's Nuclear Tech
+Could not be added Compatibility to, because it takes more than half an hour to load, when GregTech is installed (and the Lag is on HBMs Side, even though caused by the enormous amount of GT6 Items).
+Note that I used a "Just GT6 Pack" for this that usually takes 2-3 minutes to load and added HBM to it.
+And also NEI takes Minutes to load Recipes when I look up Recipes, meaning I can't check the Data at all with HBM installed.
+And no, I didn't even run out of Memory, It only used 2 of the assigned 8 GB RAM, so that's not the Lag Source, it's likely the NEI Handler of HBMs that fucked up, or that HBM iterates over its entire Recipe List to find a fitting Recipe, what is utter garbage considering there is a thing called "HashMaps".
+TL;DR; HMBs Nuclear Tech needs MASSIVE optimizations, or else I will simply not be able to add Compatibility for it, even though I want to. I saw that it still did updates 2 weeks ago, so not all hope is lost.
+Edit: Okay I did add at least some Blast Resistance Tooltips to Blocks and compatibility with its Hazmat Suits, because that I can do without looking at Recipes in NEI.
+[FIXED] Berry Bushes didn't work properly for some reason.
+[FIXED] Wires and Pipes didn't properly connect to Non-GT6-Blocks per default when placing them directly against their Side.
+[CHANGED] The Adv Crafting Table will now only craft all Items at once, if you Shift-Rightclick the Crafting Output Slot. That way it cant accidentially happen when you just Shiftclick Items out of the Grid. Also Shift-Leftclick now crafts only a Stack (kinda like regular rightclick) but dumps that one Stack into your Inventory, without it sticking to your Mouse.
+[CHANGED] The Club will now make Vanilla Stone drop Stone Rocks the Hammer will continue dropping Gravel or Cobblestone in that case.
+[CHANGED] Meteorite Rocks have a 1 in 12 chance to spawn instead of Flint Rocks, instead of a 1 in 16 chance, now.
+[CHANGED] Ore Blocks that can generate in the Overworld will stay after you remove their corresponding Mod, such as Underground Biomes, PFAA, Et Futurum and Chisel. So you only need to replace their Rocks with Stone using MC Edit before removing them.
+[ADDED] Air Vent Cover. It collects Air around it and inserts it into the Tanks/Pipes it is attached to. Doesn't work on Galacticrafts Planets for obvious Reasons. It will give slightly different Air depending on Dimension (namely Nether and End).
+
 ##V6.06.02:
 [COMPAT]
 I went through the List of Items Erebus adds, to see what they could be used for.
