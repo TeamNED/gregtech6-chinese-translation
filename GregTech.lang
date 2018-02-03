@@ -2569,7 +2569,7 @@ languagefile {
     S:gt.drink.coconutsmoothie=
     S:gt.drink.cranberryjuice=取自真正的鹤!(文字笑话:cranberry蔓越莓, Cranes鹤
     S:gt.drink.cranberrysmoothie=
-    S:gt.drink.currantjuice=Runs electric Currant
+    S:gt.drink.currantjuice=这里面有非常多的粗粒
     S:gt.drink.currantsmoothie=
     S:gt.drink.darkbeer=真男人，就喝黑啤
     S:gt.drink.elderberrysmoothie=
@@ -8841,7 +8841,7 @@ languagefile {
     S:gt.multitileentity.1791.name=浇铸盆 (HSLA钢)
     S:gt.multitileentity.1798.name=浇铸盆 (基岩合金)
     S:gt.multitileentity.1799.name=浇铸盆 (艾德曼合金)
-    S:gt.multitileentity.17999.name=Bedrock Mining Drill Controller
+    S:gt.multitileentity.17999.name=主基岩钻
     S:gt.multitileentity.18.name=HSLA钢箱子
     S:gt.multitileentity.18000.name=耐火砖
     S:gt.multitileentity.18001.name=木储罐璧
@@ -8859,7 +8859,7 @@ languagefile {
     S:gt.multitileentity.18100.name=大型离心机部件
     S:gt.multitileentity.18101.name=热吸收装置
     S:gt.multitileentity.18102.name=蒸馏塔壁
-    S:gt.multitileentity.18103.name=Bedrock Mining Drill Head
+    S:gt.multitileentity.18103.name=基岩钻头
     S:gt.multitileentity.19.name=镀锌钢箱子
     S:gt.multitileentity.19000.name=USB开关
     S:gt.multitileentity.19001.name=HDD开关
@@ -9362,13 +9362,13 @@ languagefile {
     S:gt.multitileentity.26504.name=巨型碳流体管道
     S:gt.multitileentity.26505.name=四合一碳流体管道
     S:gt.multitileentity.26506.name=九合一碳流体管道
-    S:gt.multitileentity.26520.name=Tiny Rubber Fluid Pipe
-    S:gt.multitileentity.26521.name=Small Rubber Fluid Pipe
-    S:gt.multitileentity.26522.name=Rubber Fluid Pipe
-    S:gt.multitileentity.26523.name=Large Rubber Fluid Pipe
-    S:gt.multitileentity.26524.name=Huge Rubber Fluid Pipe
-    S:gt.multitileentity.26525.name=Quadruple Rubber Fluid Pipe
-    S:gt.multitileentity.26526.name=Nonuple Rubber Fluid Pipe
+    S:gt.multitileentity.26520.name=微型橡胶流体管道
+    S:gt.multitileentity.26521.name=小型橡胶流体管道
+    S:gt.multitileentity.26522.name=橡胶流体管道
+    S:gt.multitileentity.26523.name=大型橡胶流体管道
+    S:gt.multitileentity.26524.name=巨型橡胶流体管道
+    S:gt.multitileentity.26525.name=四合一橡胶流体管道
+    S:gt.multitileentity.26526.name=九合一橡胶流体管道
     S:gt.multitileentity.27.name=神秘箱子
     S:gt.multitileentity.27000.name=红色合金线缆
     S:gt.multitileentity.27006.name=红色合金线缆
@@ -11332,8 +11332,8 @@ languagefile {
     S:gt.td.short.processing.soldering_material_good=Good Soldering Metal
     S:gt.td.short.processing.unrecyclable=Not Recyclable
     S:gt.td.short.processing.uum_synthesisable=UUM Synthesisable
-    S:gt.td.short.processing.washing_mercury=Mercury Washable
-    S:gt.td.short.processing.washing_sodiumpersulfate=过硫酸钠 Washable
+    S:gt.td.short.processing.washing_mercury=可用汞浸洗
+    S:gt.td.short.processing.washing_sodiumpersulfate=可用过硫酸钠浸洗
     S:gt.td.short.projectiles.arrow=箭
     S:gt.td.short.properties.acid=酸
     S:gt.td.short.properties.auto_blacklist=自动黑名单
@@ -11392,10 +11392,10 @@ languagefile {
     S:gt.tooltip.energybattery.1=选择器覆盖板可以设置发送包的数量
     S:gt.tooltip.energybattery.2=Mode 0 =默认设置，发出尽量多
     S:gt.tooltip.energybattery.3=Mode 1 - 15 =如果有足够能量，发出1到15个包
-    S:gt.tooltip.multiblock.bedrockdrill.1=3x3 Base of Bedrock Mining Drill Heads centered ontop Bedrock Ores
-    S:gt.tooltip.multiblock.bedrockdrill.2=Full 3x4x3 of Dense Titanium Walls ontop
-    S:gt.tooltip.multiblock.bedrockdrill.3=Main top-center inside the Titanium Tower facing upwards
-    S:gt.tooltip.multiblock.bedrockdrill.4=Requires Lubricant, Power and a place on Bedrock to mine
+    S:gt.tooltip.multiblock.bedrockdrill.1=3x3 基岩钻头基座，中心必须放置在基岩矿石上
+    S:gt.tooltip.multiblock.bedrockdrill.2=放满 3x4x3 致密钛壁板
+    S:gt.tooltip.multiblock.bedrockdrill.3=主基岩钻位于钛结构顶层中央
+    S:gt.tooltip.multiblock.bedrockdrill.4=需求润滑油、能量以及基岩(基岩矿石)来挖掘
     S:gt.tooltip.multiblock.centrifuge.1=3x3x2 大型离心机组件方块
     S:gt.tooltip.multiblock.centrifuge.2=控制器置于底层任一边中央并面向外侧
     S:gt.tooltip.multiblock.cokeoven.1=3x3x3 耐火砖，中空
@@ -11513,7 +11513,7 @@ languagefile {
     S:itemGroup.gt.multitileentity.10031=磁化机
     S:itemGroup.gt.multitileentity.10041=变压器
     S:itemGroup.gt.multitileentity.10050=太阳能板
-    S:itemGroup.gt.multitileentity.10060=Long Distance Transport
+    S:itemGroup.gt.multitileentity.10060=远距传输
     S:itemGroup.gt.multitileentity.10071=镭射器
     S:itemGroup.gt.multitileentity.10081=电池盒
     S:itemGroup.gt.multitileentity.10111=发电机
@@ -11605,7 +11605,7 @@ languagefile {
     S:itemGroup.plateQuintuple=5x板
     S:itemGroup.plateTiny=小块板
     S:itemGroup.plateTriple=3x板
-    S:itemGroup.qwertech.machines.0=Crafting Tables
+    S:itemGroup.qwertech.machines.0=合成站
     S:itemGroup.railGt=单导轨
     S:itemGroup.ring=环
     S:itemGroup.rockGt=石头
@@ -11613,7 +11613,7 @@ languagefile {
     S:itemGroup.round=垫片
     S:itemGroup.scrapGt=废料
     S:itemGroup.screw=螺丝钉
-    S:itemGroup.shuriken=Shuriken
+    S:itemGroup.shuriken=手里剑
     S:itemGroup.spring=弹簧
     S:itemGroup.springSmall=小型弹簧
     S:itemGroup.stick=杆/棍
@@ -11630,7 +11630,7 @@ languagefile {
     S:itemGroup.toolHeadHammer=锤头
     S:itemGroup.toolHeadHoe=锄头
     S:itemGroup.toolHeadMace=Mace Heads
-    S:itemGroup.toolHeadMattock=Mattock Heads
+    S:itemGroup.toolHeadMattock=鹤嘴锄头
     S:itemGroup.toolHeadPickaxe=镐头
     S:itemGroup.toolHeadPickaxeGem=镶钻镐头
     S:itemGroup.toolHeadPlow=犁头
@@ -11640,7 +11640,7 @@ languagefile {
     S:itemGroup.toolHeadRawChisel=粗糙的凿子头
     S:itemGroup.toolHeadRawHoe=粗糙的锄头
     S:itemGroup.toolHeadRawMace=Raw Mace Heads
-    S:itemGroup.toolHeadRawMattock=Raw Mattock Heads
+    S:itemGroup.toolHeadRawMattock=粗糙的鹤嘴锄头
     S:itemGroup.toolHeadRawPickaxe=粗糙的镐头
     S:itemGroup.toolHeadRawPlow=粗糙的犁头
     S:itemGroup.toolHeadRawSaw=粗糙的锯刃
@@ -11659,11 +11659,11 @@ languagefile {
     S:itemGroup.toolHeadWrench=扳手顶
     S:itemGroup.wireFine=优良线缆
     S:mc.recipe.furnace=熔炉
-    S:mc.recipe.furnacefuel=熔炉燃料 (熔炼一次等于5000单位)
+    S:mc.recipe.furnacefuel=熔炉燃料 (燃烧时间(Tick):总HU=1:25)
     S:oredict.arrowGtPlasticAdamantine.name=轻质血石箭
     S:oredict.arrowGtPlasticAdamantite.name=轻质精金箭
     S:oredict.arrowGtPlasticAdamantium.name=轻质艾德曼合金箭
-    S:oredict.arrowGtPlasticAlexandrite.name=Light 紫翠玉箭
+    S:oredict.arrowGtPlasticAlexandrite.name=轻质紫翠玉箭
     S:oredict.arrowGtPlasticAlmandine.name=轻质铁铝榴石箭
     S:oredict.arrowGtPlasticAluminium.name=轻质铝箭
     S:oredict.arrowGtPlasticAluminiumAlloy.name=轻质铝合金箭
@@ -64890,5 +64890,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
