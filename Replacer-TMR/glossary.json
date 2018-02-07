@@ -16,7 +16,7 @@
     "Aluminium Alloy": "铝合金",
     "Aluminium Brass": "铝黄铜",
     "Aluminium Fluoride": "氟化铝",
-    "Aluminium Hydroxide": "氢化铝",
+    "Aluminium Hydroxide": "氢氧化铝",
     "Alumite": "耐酸铝",
     "Alunite": "明矾石",
     "Amber": "琥珀",
@@ -1266,6 +1266,7 @@
     "Tea": "茶",
     "Technetium": "锝",
     "Tellurium": "碲",
+    "Tennantite": "石田(Unicode 未收录字)",
     "Terbium": "铽",
     "Terrasteel": "泰拉钢",
     "Teslatite": "特斯拉金属",
@@ -1279,6 +1280,7 @@
     "Tine": "锡",
     "Titanium": "钛",
     "Titanium Aluminide": "钛铝合金",
+    "Titanium Tetrachloride": "四氯化钛",
     "Toad": "蟾蜍",
     "Tofu": "豆腐",
     "Tofu Bar": "豆腐锭",
@@ -1359,7 +1361,5 @@
     "Yttrium-Barium-Cuprate": "钇钡铜氧合金",
     "Zeolite": "沸石",
     "Zinc": "锌",
-    "Zirconium": "锆",
-    "Tennantite": "石田(Unicode 未收录字)",
-    "Titanium Tetrachloride": "四氯化钛"
+    "Zirconium": "锆"
 }
