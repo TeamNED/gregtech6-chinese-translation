@@ -1,7 +1,7 @@
 # gregtech6-chinese-translate
 GregTech6汉化项目，欢迎加入。
 
-当前适配版本为v6.06.05
+当前适配版本为v6.07.00
 
 内置兼容QwerTech
 
