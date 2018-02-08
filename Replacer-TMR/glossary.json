@@ -467,7 +467,7 @@
     "Barite": "重晶石",
     "Barium": "钡",
     "Barley": "大麦",
-    "Barley Flour": "大麦面",
+    "Barley Flour": "大麦面粉",
     "Basalt": "玄武岩",
     "Basaltic Mineral Sand": "玄武岩砂",
     "Basalz": "岩石",
@@ -477,7 +477,10 @@
     "Beam": "木梁",
     "Bedrock": "基岩",
     "Bedrock-HSLA-Alloy": "基岩合金",
-    "Bees Wax": "蜂蜡",
+    "Bees Wax": {
+        ".*": "蜂蜡",
+        "oredict.*[Dd]ust.*": "蜂蜡粉"
+    },
     "Bentonite": "膨润土",
     "Berkelium": "锫",
     "Beryllium": "铍",
@@ -529,7 +532,7 @@
     "Builder": "建筑",
     "Bumbelvis": "基岩",
     "Bumbleknight": "骑士大黄蜂",
-    "Bumblemonarch": "黑脉金斑",
+    "Bumblemonarch": "黑脉金斑大黄蜂",
     "Bumbleshroom": "蘑菇大黄蜂",
     "Butane": "丁烷",
     "Butter": "黄油",
@@ -548,7 +551,10 @@
     "Carbon-14": "碳-14",
     "Carborundum": "碳化硅",
     "Carmot": "闪耀金",
-    "Cassiterite": "锡石",
+    "Cassiterite": {
+        ".*": "锡石",
+        "oredict.*[Dd]ust.*": "锡石粉"
+    },
     "Cassiterite Sand": "锡石沙矿",
     "Cd-In-Ag-Alloy": "镉铟银合金",
     "Celenegil": "幽冥毒结晶",
@@ -602,7 +608,7 @@
     "Copernicium": "鎶",
     "Copper": "铜",
     "Corn": "玉米",
-    "Cornmeal": "玉米面",
+    "Cornmeal": "玉米面粉",
     "Craponite": "焦屎石",
     "Creative": "创造",
     "Creosote": "杂酚油",
@@ -820,7 +826,10 @@
     "Granitic Mineral Sand": "花岗岩类矿砂",
     "Graphene": "石墨烯",
     "Graphite": "石墨",
-    "Gravel": "沙砾",
+    "Gravel": {
+        ".*": "沙砾",
+        "oredict.*[Dd]ust.*": "沙砾粉"
+    },
     "Gravitonium": "重力金属",
     "Gray": "灰色",
     "Gray Dye": "灰色染料",
@@ -834,11 +843,10 @@
     "Greywacke": "杂砂岩",
     "Grossular": "钙铝榴石",
     "Ground Almond": "扁桃",
-    "Ground Black": "黑胡椒",
     "Ground Black Pepper": "黑胡椒末",
     "Ground Cinnamon": "肉桂粉",
     "Ground Hazelnut": "榛子碎",
-    "Ground Nutmeg": "肉豆蔻",
+    "Ground Nutmeg": "肉豆蔻粉",
     "Ground Peanut": "碎花生",
     "Ground Pistachio": "开心果碎",
     "Ground Potato": "土豆泥",
@@ -956,7 +964,10 @@
     "Magenta Dye": "品红染料",
     "Magic": "魔法",
     "Magic Tallow": "魔法油脂",
-    "Magic Wax": "魔力蜂蜡",
+    "Magic Wax": {
+        ".*": "魔力蜂蜡",
+        "oredict.*[Dd]ust.*": "魔力蜂蜡粉"
+    },
     "Magician": "魔法",
     "Magnalium": "镁铝合金",
     "Magnesite": "菱镁矿",
@@ -1051,7 +1062,10 @@
     "Palis": "青金石水晶",
     "Palladium": "钯",
     "Paper": "纸",
-    "Paraffin Wax": "石蜡",
+    "Paraffin Wax": {
+        ".*": "石蜡",
+        "oredict.*[Dd]ust.*": "石蜡粉"
+    },
     "Peach": "桃子",
     "Peanut": "花生",
     "Peat": "泥炭",
@@ -1072,8 +1086,14 @@
     "Pink Dye": "粉色染料",
     "Pink Vitriol": "硫酸镁",
     "Pistachio": "开心果",
-    "Pitchblende": "沥青铀",
-    "Plant Wax": "植物蜡",
+    "Pitchblende": {
+        ".*": "沥青铀",
+        "oredict.*[Dd]ust.*": "沥青铀粉"
+    },
+    "Plant Wax": {
+        ".*": "植物蜡",
+        "oredict.*[Dd]ust.*": "植物蜡粉"
+    },
     "Plastic": "塑料",
     "Plastic Bar": "塑料锭",
     "Plastic Pulp": "塑料浆",
@@ -1136,12 +1156,18 @@
     "Redstone Alloy": "红硅(红石合金)",
     "Refined Glowstone": "精致萤石",
     "Refined Obsidian": "精致黑曜石",
-    "Refractory Wax": "耐高温蜡",
+    "Refractory Wax": {
+        ".*": "耐高温蜡",
+        "oredict.*[Dd]ust.*": "耐高温蜡粉"
+    },
     "Restonia": "红石水晶",
     "Rhenium": "铼",
     "Rhodium": "铑",
     "Rhyolite": "流纹岩",
-    "Rice": "米",
+    "Rice": {
+        ".*": "米",
+        "oredict.*[Dd]ust.*": "米粒"
+    },
     "Rock Salt": "岩盐",
     "Rocking": "岩化",
     "Roentgenium": "錀",
@@ -1282,7 +1308,10 @@
     "Titanium Aluminide": "钛铝合金",
     "Titanium Tetrachloride": "四氯化钛",
     "Toad": "蟾蜍",
-    "Tofu": "豆腐",
+    "Tofu": {
+        ".*": "豆腐",
+        "oredict.*[Dd]ust.*": "豆腐沫"
+    },
     "Tofu Bar": "豆腐锭",
     "Topaz": "黄玉",
     "Tree Bark": "树皮",
@@ -1318,7 +1347,10 @@
     "Vanadium-Gallium": "钒镓合金",
     "Vanadiumsteel": "钒钢",
     "Vanilla": "香草",
-    "Vermiculite": "蛭石",
+    "Vermiculite": {
+        ".*": "蛭石",
+        "oredict.*[Dd]ust.*": "蛭石粉"
+    },
     "Vibranium": "振金",
     "Vibranium Silver": "银振金合金",
     "Vibranium Steel": "振金钢",
@@ -1334,7 +1366,10 @@
     "Vulcanite": "熔岩结晶",
     "Vyroxeres": "幽冥剧毒结晶",
     "Water": "水",
-    "Wax": "蜡",
+    "Wax": {
+        ".*": "蜡",
+        "oredict.*[Dd]ust.*": "蜡粉"
+    },
     "Wheat": "小麦",
     "White": "白色",
     "White Dye": "白色染料",
