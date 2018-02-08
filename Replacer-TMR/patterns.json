@@ -814,5 +814,11 @@
         "value": "Legendary (?P<mw>.+)\\s*(Crystal)?",
         "repl": "传奇{0}",
         "priority": 1000
+    },
+    {
+        "name": "qwertech.machines.+",
+        "value": "(?P<mw>.+) Crafting Table",
+        "repl": "{0}工作台",
+        "priority": 1000
     }
 ]
