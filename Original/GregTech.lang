@@ -44278,6 +44278,7 @@ languagefile {
     S:oredict.plantGtFiberAndesite.name=Raw Andesite Fiber
     S:oredict.plantGtFiberAndradite.name=Raw Andradite Fiber
     S:oredict.plantGtFiberAngmallen.name=Raw Angmallen Fiber
+    S:oredict.plantGtFiberAnnealedCopper.name=Raw Annealed Copper Fiber
     S:oredict.plantGtFiberAnthracite.name=Raw Anthracite Fiber
     S:oredict.plantGtFiberAntiActinium.name=Raw Anti-Actinium Fiber
     S:oredict.plantGtFiberAntiAdamantium.name=Raw Anti-Adamantium Fiber
@@ -44421,6 +44422,7 @@ languagefile {
     S:oredict.plantGtFiberAstralSilver.name=Raw Astral Silver Fiber
     S:oredict.plantGtFiberAtlarus.name=Raw Atlarus Fiber
     S:oredict.plantGtFiberBalasRuby.name=Raw Ruby Fiber
+    S:oredict.plantGtFiberBandedIron.name=Raw BandedIron Fiber
     S:oredict.plantGtFiberBarite.name=Raw Barite Fiber
     S:oredict.plantGtFiberBarium.name=Raw Barium Fiber
     S:oredict.plantGtFiberBark.name=Raw Bark Fiber
