@@ -540,6 +540,12 @@
         "priority": 500
     },
     {
+        "name": "oredict.*[Gg]em.*",
+        "value": "Crystalline (?P<mw>.+)",
+        "repl": "{0}水晶",
+        "priority": 400
+    },
+    {
         "name": "oredict.ingotHot.+",
         "value": "Hot (?P<mw>.+) Ingot",
         "repl": "热{0}锭",
@@ -568,12 +574,6 @@
         "value": "Quintuple (?P<mw>.+) Ingot",
         "repl": "五重{0}锭",
         "priority": 1000
-    },
-    {
-        "name": "oredict.plate.+",
-        "value": "(?P<mw>.+) Plate",
-        "repl": "{0}板",
-        "priority": 500
     },
     {
         "name": "oredict.plate(Gem)?Tiny.+",
