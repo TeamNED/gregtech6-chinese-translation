@@ -318,7 +318,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space).+",
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space).+",
         "value": "(?P<mw>.+) Ore",
         "repl": "{0}",
         "priority": 2000
@@ -351,6 +351,12 @@
         "name": "oredict.oreEndstone.+",
         "value": "End (?P<mw>.+)",
         "repl": "末地{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreVanillagranite.+",
+        "value": "Granite (?P<mw>.+)",
+        "repl": "花岗岩{0}矿石",
         "priority": 1000
     },
     {
