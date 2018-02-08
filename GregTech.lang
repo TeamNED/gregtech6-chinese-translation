@@ -11814,7 +11814,7 @@ languagefile {
     S:oredict.arrowGtPlasticMaxixe.name=Light Maxixe 箭
     S:oredict.arrowGtPlasticMeteoricIron.name=轻质陨铁箭
     S:oredict.arrowGtPlasticMeteoricSteel.name=轻质陨钢箭
-    S:oredict.arrowGtPlasticMeteorite.name=Light 陨石箭
+    S:oredict.arrowGtPlasticMeteorite.name=轻质陨石箭
     S:oredict.arrowGtPlasticMidasium.name=轻质溶火金箭
     S:oredict.arrowGtPlasticMigmatite.name=轻质混合岩箭
     S:oredict.arrowGtPlasticMithril.name=轻质秘银箭
@@ -12674,7 +12674,7 @@ languagefile {
     S:oredict.blockDustLimestone.name=石灰石粉块
     S:oredict.blockDustLithium.name=锂粉块
     S:oredict.blockDustLithium6.name=锂-6粉块
-    S:oredict.blockDustLithiumChloride.name=Block of Lithium Chloride Dust
+    S:oredict.blockDustLithiumChloride.name=氯化锂粉块
     S:oredict.blockDustLithiumOxide.name=氧化锂粉块
     S:oredict.blockDustLiveRoot.name=活根粉块
     S:oredict.blockDustLivermorium.name=鉝粉块
@@ -12687,7 +12687,7 @@ languagefile {
     S:oredict.blockDustMagnesite.name=菱镁矿粉块
     S:oredict.blockDustMagnesium.name=镁粉块
     S:oredict.blockDustMagnesiumCarbonate.name=碳酸镁粉块
-    S:oredict.blockDustMagnesiumChloride.name=Block of Magnesium Chloride Dust
+    S:oredict.blockDustMagnesiumChloride.name=氯化镁粉块
     S:oredict.blockDustMagnetite.name=磁铁矿粉块
     S:oredict.blockDustMalachite.name=孔雀石粉块
     S:oredict.blockDustManaQuartz.name=Block of Mana Quartz Dust
@@ -12707,7 +12707,7 @@ languagefile {
     S:oredict.blockDustMercury.name=汞粉块
     S:oredict.blockDustMeteoricIron.name=陨铁粉块
     S:oredict.blockDustMeteoricSteel.name=陨钢粉块
-    S:oredict.blockDustMeteorite.name=Block of 陨石 Dust
+    S:oredict.blockDustMeteorite.name=陨石粉块
     S:oredict.blockDustMethaneIce.name=甲烷冰粉块
     S:oredict.blockDustMeutoite.name=龙之魂石粉块
     S:oredict.blockDustMica.name=云母粉块
@@ -12797,7 +12797,7 @@ languagefile {
     S:oredict.blockDustPotassiumCarbonate.name=Block of Potassium Carbonate Dust
     S:oredict.blockDustPotassiumFeldspar.name=钾长石粉块
     S:oredict.blockDustPotassiumHydroxide.name=氢氧化钾粉块
-    S:oredict.blockDustPotassiumNitrate.name=Block of Potassium Nitrate Dust
+    S:oredict.blockDustPotassiumNitrate.name=硝酸钾粉块
     S:oredict.blockDustPotassiumPersulfate.name=Block of Potassium Persulfate Dust
     S:oredict.blockDustPotassiumPyrosulfate.name=焦硫酸钾粉块
     S:oredict.blockDustPotassiumSulfate.name=硫酸钾粉块
@@ -12879,7 +12879,7 @@ languagefile {
     S:oredict.blockDustSodiumBisulfate.name=硫酸氢钠粉块
     S:oredict.blockDustSodiumCarbonate.name=碳酸钠粉块
     S:oredict.blockDustSodiumHydroxide.name=氢氧化钠粉块
-    S:oredict.blockDustSodiumNitrate.name=Block of 硝酸钠粉
+    S:oredict.blockDustSodiumNitrate.name=硝酸钠粉块
     S:oredict.blockDustSodiumPersulfate.name=过硫酸钠粉块
     S:oredict.blockDustSodiumPyrosulfate.name=焦硫酸钠粉块
     S:oredict.blockDustSodiumSulfate.name=硫酸钠粉块
@@ -13944,7 +13944,7 @@ languagefile {
     S:oredict.blockPlateMercury.name=汞板块
     S:oredict.blockPlateMeteoricIron.name=陨铁板块
     S:oredict.blockPlateMeteoricSteel.name=陨钢板块
-    S:oredict.blockPlateMeteorite.name=Block of 陨石 Plate
+    S:oredict.blockPlateMeteorite.name=陨石板块
     S:oredict.blockPlateMeutoite.name=龙之魂石板块
     S:oredict.blockPlateMidasium.name=溶火金板块
     S:oredict.blockPlateMigmatite.name=混合岩板块
@@ -14853,7 +14853,7 @@ languagefile {
     S:oredict.boltMercury.name=汞螺栓
     S:oredict.boltMeteoricIron.name=陨铁螺栓
     S:oredict.boltMeteoricSteel.name=陨钢螺栓
-    S:oredict.boltMeteorite.name=陨石 Bolt
+    S:oredict.boltMeteorite.name=陨石螺栓
     S:oredict.boltMeutoite.name=龙之魂石螺栓
     S:oredict.boltMidasium.name=溶火金螺栓
     S:oredict.boltMigmatite.name=混合岩螺栓
@@ -15862,7 +15862,7 @@ languagefile {
     S:oredict.casingSmallMaxixe.name=Maxixe Item Casing
     S:oredict.casingSmallMeteoricIron.name=陨铁外壳
     S:oredict.casingSmallMeteoricSteel.name=陨钢外壳
-    S:oredict.casingSmallMeteorite.name=陨石 Item Casing
+    S:oredict.casingSmallMeteorite.name=陨石外壳
     S:oredict.casingSmallMidasium.name=溶火金外壳
     S:oredict.casingSmallMigmatite.name=混合岩外壳
     S:oredict.casingSmallMithril.name=秘银外壳
@@ -17054,7 +17054,7 @@ languagefile {
     S:oredict.chemtubeLinOil.name=亚麻籽油试管
     S:oredict.chemtubeLithium.name=锂试管
     S:oredict.chemtubeLithium6.name=锂-6试管
-    S:oredict.chemtubeLithiumChloride.name=Glass Tube containing Lithium Chloride
+    S:oredict.chemtubeLithiumChloride.name=氯化锂试管
     S:oredict.chemtubeLithiumOxide.name=氧化锂试管
     S:oredict.chemtubeLiveRoot.name=活根试管
     S:oredict.chemtubeLivermorium.name=鉝试管
@@ -17070,7 +17070,7 @@ languagefile {
     S:oredict.chemtubeMagnesite.name=菱镁矿试管
     S:oredict.chemtubeMagnesium.name=镁试管
     S:oredict.chemtubeMagnesiumCarbonate.name=碳酸镁试管
-    S:oredict.chemtubeMagnesiumChloride.name=Glass Tube containing Magnesium Chloride
+    S:oredict.chemtubeMagnesiumChloride.name=氯化镁试管
     S:oredict.chemtubeMagnetite.name=磁铁矿试管
     S:oredict.chemtubeMalachite.name=孔雀石试管
     S:oredict.chemtubeManaQuartz.name=Glass Tube containing Mana Quartz
@@ -17091,7 +17091,7 @@ languagefile {
     S:oredict.chemtubeMercury.name=汞试管
     S:oredict.chemtubeMeteoricIron.name=陨铁试管
     S:oredict.chemtubeMeteoricSteel.name=陨钢试管
-    S:oredict.chemtubeMeteorite.name=Glass Tube containing 陨石
+    S:oredict.chemtubeMeteorite.name=陨石试管
     S:oredict.chemtubeMethane.name=甲烷试管
     S:oredict.chemtubeMethaneIce.name=甲烷冰试管
     S:oredict.chemtubeMeutoite.name=龙之魂石试管
@@ -17199,7 +17199,7 @@ languagefile {
     S:oredict.chemtubePotassiumCarbonate.name=Glass Tube containing Potassium Carbonate
     S:oredict.chemtubePotassiumFeldspar.name=钾长石试管
     S:oredict.chemtubePotassiumHydroxide.name=氢氧化钾试管
-    S:oredict.chemtubePotassiumNitrate.name=Glass Tube containing Potassium Nitrate
+    S:oredict.chemtubePotassiumNitrate.name=硝酸钾试管
     S:oredict.chemtubePotassiumPersulfate.name=Glass Tube containing Potassium Persulfate
     S:oredict.chemtubePotassiumPyrosulfate.name=焦硫酸钾试管
     S:oredict.chemtubePotassiumSulfate.name=硫酸钾试管
@@ -17293,7 +17293,7 @@ languagefile {
     S:oredict.chemtubeSodiumBisulfate.name=硫酸氢钠试管
     S:oredict.chemtubeSodiumCarbonate.name=碳酸钠试管
     S:oredict.chemtubeSodiumHydroxide.name=氢氧化钠试管
-    S:oredict.chemtubeSodiumNitrate.name=Glass Tube containing 硝酸钠
+    S:oredict.chemtubeSodiumNitrate.name=硝酸钠试管
     S:oredict.chemtubeSodiumPersulfate.name=过硫酸钠试管
     S:oredict.chemtubeSodiumPyrosulfate.name=焦硫酸钠试管
     S:oredict.chemtubeSodiumSulfate.name=硫酸钠试管
@@ -17866,7 +17866,7 @@ languagefile {
     S:oredict.chunkGtLawrencium.name=铹小块
     S:oredict.chunkGtLead.name=铅小块
     S:oredict.chunkGtLemurite.name=利莫里亚小块
-    S:oredict.chunkGtLithiumChloride.name=Lithium Chloride Chunk
+    S:oredict.chunkGtLithiumChloride.name=氯化锂小块
     S:oredict.chunkGtLivermorium.name=鉝小块
     S:oredict.chunkGtLudicrite.name=滑稽小块
     S:oredict.chunkGtLumium.name=流明小块
@@ -17874,7 +17874,7 @@ languagefile {
     S:oredict.chunkGtMagnalium.name=镁铝合金小块
     S:oredict.chunkGtMagnesium.name=镁小块
     S:oredict.chunkGtMagnesiumCarbonate.name=碳酸镁小块
-    S:oredict.chunkGtMagnesiumChloride.name=Magnesium Chloride Chunk
+    S:oredict.chunkGtMagnesiumChloride.name=氯化镁小块
     S:oredict.chunkGtManasteel.name=魔力钢小块
     S:oredict.chunkGtManganese.name=锰小块
     S:oredict.chunkGtManganeseChloride.name=Manganese Chloride Chunk
@@ -17887,7 +17887,7 @@ languagefile {
     S:oredict.chunkGtMercury.name=汞小块
     S:oredict.chunkGtMeteoricIron.name=陨铁小块
     S:oredict.chunkGtMeteoricSteel.name=陨钢小块
-    S:oredict.chunkGtMeteorite.name=陨石 Chunk
+    S:oredict.chunkGtMeteorite.name=陨石小块
     S:oredict.chunkGtMeutoite.name=龙之魂石小块
     S:oredict.chunkGtMidasium.name=溶火金小块
     S:oredict.chunkGtMithril.name=秘银小块
@@ -18490,7 +18490,7 @@ languagefile {
     S:oredict.crateGtDustLimestone.name=石灰石粉板条箱
     S:oredict.crateGtDustLithium.name=锂粉板条箱
     S:oredict.crateGtDustLithium6.name=锂-6粉板条箱
-    S:oredict.crateGtDustLithiumChloride.name=Crate of Lithium Chloride Dust
+    S:oredict.crateGtDustLithiumChloride.name=氯化锂粉板条箱
     S:oredict.crateGtDustLithiumOxide.name=氧化锂粉板条箱
     S:oredict.crateGtDustLiveRoot.name=活根粉板条箱
     S:oredict.crateGtDustLivermorium.name=鉝粉板条箱
@@ -18503,7 +18503,7 @@ languagefile {
     S:oredict.crateGtDustMagnesite.name=菱镁矿粉板条箱
     S:oredict.crateGtDustMagnesium.name=镁粉板条箱
     S:oredict.crateGtDustMagnesiumCarbonate.name=碳酸镁粉板条箱
-    S:oredict.crateGtDustMagnesiumChloride.name=Crate of Magnesium Chloride Dust
+    S:oredict.crateGtDustMagnesiumChloride.name=氯化镁粉板条箱
     S:oredict.crateGtDustMagnetite.name=磁铁矿粉板条箱
     S:oredict.crateGtDustMalachite.name=孔雀石粉板条箱
     S:oredict.crateGtDustManaQuartz.name=Crate of Mana Quartz Dust
@@ -18523,7 +18523,7 @@ languagefile {
     S:oredict.crateGtDustMercury.name=汞粉板条箱
     S:oredict.crateGtDustMeteoricIron.name=陨铁粉板条箱
     S:oredict.crateGtDustMeteoricSteel.name=陨钢粉板条箱
-    S:oredict.crateGtDustMeteorite.name=Crate of 陨石 Dust
+    S:oredict.crateGtDustMeteorite.name=陨石粉板条箱
     S:oredict.crateGtDustMethaneIce.name=甲烷冰粉板条箱
     S:oredict.crateGtDustMeutoite.name=龙之魂石粉板条箱
     S:oredict.crateGtDustMica.name=云母粉板条箱
@@ -18613,7 +18613,7 @@ languagefile {
     S:oredict.crateGtDustPotassiumCarbonate.name=Crate of Potassium Carbonate Dust
     S:oredict.crateGtDustPotassiumFeldspar.name=钾长石粉板条箱
     S:oredict.crateGtDustPotassiumHydroxide.name=氢氧化钾粉板条箱
-    S:oredict.crateGtDustPotassiumNitrate.name=Crate of Potassium Nitrate Dust
+    S:oredict.crateGtDustPotassiumNitrate.name=硝酸钾粉板条箱
     S:oredict.crateGtDustPotassiumPersulfate.name=Crate of Potassium Persulfate Dust
     S:oredict.crateGtDustPotassiumPyrosulfate.name=焦硫酸钾粉板条箱
     S:oredict.crateGtDustPotassiumSulfate.name=硫酸钾粉板条箱
@@ -18695,7 +18695,7 @@ languagefile {
     S:oredict.crateGtDustSodiumBisulfate.name=硫酸氢钠粉板条箱
     S:oredict.crateGtDustSodiumCarbonate.name=碳酸钠粉板条箱
     S:oredict.crateGtDustSodiumHydroxide.name=氢氧化钠粉板条箱
-    S:oredict.crateGtDustSodiumNitrate.name=Crate of 硝酸钠粉
+    S:oredict.crateGtDustSodiumNitrate.name=硝酸钠粉板条箱
     S:oredict.crateGtDustSodiumPersulfate.name=过硫酸钠粉板条箱
     S:oredict.crateGtDustSodiumPyrosulfate.name=焦硫酸钠粉板条箱
     S:oredict.crateGtDustSodiumSulfate.name=硫酸钠粉板条箱
@@ -19759,7 +19759,7 @@ languagefile {
     S:oredict.crateGtPlateMercury.name=汞板板条箱
     S:oredict.crateGtPlateMeteoricIron.name=陨铁板板条箱
     S:oredict.crateGtPlateMeteoricSteel.name=陨钢板板条箱
-    S:oredict.crateGtPlateMeteorite.name=Crate of 陨石 Plate
+    S:oredict.crateGtPlateMeteorite.name=陨石板板条箱
     S:oredict.crateGtPlateMeutoite.name=龙之魂石板板条箱
     S:oredict.crateGtPlateMidasium.name=溶火金板板条箱
     S:oredict.crateGtPlateMigmatite.name=混合岩板板条箱
@@ -20436,7 +20436,7 @@ languagefile {
     S:oredict.crushedCentrifugedLigniteCoke.name=离心焦化褐煤矿石
     S:oredict.crushedCentrifugedLithium.name=离心锂矿石
     S:oredict.crushedCentrifugedLithium6.name=离心锂-6矿石
-    S:oredict.crushedCentrifugedLithiumChloride.name=Refined Lithium Chloride 矿石
+    S:oredict.crushedCentrifugedLithiumChloride.name=离心氯化锂矿石
     S:oredict.crushedCentrifugedLivermorium.name=离心鉝矿石
     S:oredict.crushedCentrifugedLonsdaleite.name=离心六方碳矿石
     S:oredict.crushedCentrifugedLudicrite.name=离心滑稽矿石
@@ -20444,7 +20444,7 @@ languagefile {
     S:oredict.crushedCentrifugedMagnesite.name=离心菱镁矿矿石
     S:oredict.crushedCentrifugedMagnesium.name=离心镁矿石
     S:oredict.crushedCentrifugedMagnesiumCarbonate.name=离心碳酸镁矿石
-    S:oredict.crushedCentrifugedMagnesiumChloride.name=Refined Magnesium Chloride 矿石
+    S:oredict.crushedCentrifugedMagnesiumChloride.name=离心氯化镁矿石
     S:oredict.crushedCentrifugedMagnetite.name=离心磁铁矿矿石
     S:oredict.crushedCentrifugedMalachite.name=离心孔雀石矿石
     S:oredict.crushedCentrifugedManaQuartz.name=Refined Mana Quartz Ore
@@ -20454,7 +20454,7 @@ languagefile {
     S:oredict.crushedCentrifugedMendelevium.name=离心钔矿石
     S:oredict.crushedCentrifugedMercury.name=离心汞矿石
     S:oredict.crushedCentrifugedMeteoricIron.name=离心陨铁矿石
-    S:oredict.crushedCentrifugedMeteorite.name=Refined 陨石 矿石
+    S:oredict.crushedCentrifugedMeteorite.name=离心陨石矿石
     S:oredict.crushedCentrifugedMeutoite.name=离心龙之魂石矿石
     S:oredict.crushedCentrifugedMica.name=离心云母矿石
     S:oredict.crushedCentrifugedMidasium.name=离心溶火金矿石
@@ -20507,7 +20507,7 @@ languagefile {
     S:oredict.crushedCentrifugedPolonium.name=离心钋矿石
     S:oredict.crushedCentrifugedPotassium.name=离心钾矿石
     S:oredict.crushedCentrifugedPotassiumFeldspar.name=离心钾长石矿石
-    S:oredict.crushedCentrifugedPotassiumNitrate.name=Refined Potassium Nitrate 矿石
+    S:oredict.crushedCentrifugedPotassiumNitrate.name=离心硝酸钾矿石
     S:oredict.crushedCentrifugedPowellite.name=离心钼钙矿矿石
     S:oredict.crushedCentrifugedPraseodymium.name=离心镨矿石
     S:oredict.crushedCentrifugedPrismane.name=离心棱柱烷矿石
@@ -20557,7 +20557,7 @@ languagefile {
     S:oredict.crushedCentrifugedSoapstone.name=离心皂石矿石
     S:oredict.crushedCentrifugedSodalite.name=离心方钠石矿石
     S:oredict.crushedCentrifugedSodium.name=离心钠矿石
-    S:oredict.crushedCentrifugedSodiumNitrate.name=Refined 硝酸钠矿石
+    S:oredict.crushedCentrifugedSodiumNitrate.name=离心硝酸钠矿石
     S:oredict.crushedCentrifugedSperrylite.name=离心砷铂矿石
     S:oredict.crushedCentrifugedSpessartine.name=离心锰铝榴石矿石
     S:oredict.crushedCentrifugedSphalerite.name=离心闪锌矿矿石
@@ -20912,7 +20912,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyLigniteCoke.name=小撮离心焦化褐煤矿石
     S:oredict.crushedCentrifugedTinyLithium.name=小撮离心锂矿石
     S:oredict.crushedCentrifugedTinyLithium6.name=小撮离心锂-6矿石
-    S:oredict.crushedCentrifugedTinyLithiumChloride.name=Tiny Refined Lithium Chloride 矿石
+    S:oredict.crushedCentrifugedTinyLithiumChloride.name=小撮离心氯化锂矿石
     S:oredict.crushedCentrifugedTinyLivermorium.name=小撮离心鉝矿石
     S:oredict.crushedCentrifugedTinyLonsdaleite.name=小撮离心六方碳矿石
     S:oredict.crushedCentrifugedTinyLudicrite.name=小撮离心滑稽矿石
@@ -20920,7 +20920,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyMagnesite.name=小撮离心菱镁矿矿石
     S:oredict.crushedCentrifugedTinyMagnesium.name=小撮离心镁矿石
     S:oredict.crushedCentrifugedTinyMagnesiumCarbonate.name=小撮离心碳酸镁矿石
-    S:oredict.crushedCentrifugedTinyMagnesiumChloride.name=Tiny Refined Magnesium Chloride 矿石
+    S:oredict.crushedCentrifugedTinyMagnesiumChloride.name=小撮离心氯化镁矿石
     S:oredict.crushedCentrifugedTinyMagnetite.name=小撮离心磁铁矿矿石
     S:oredict.crushedCentrifugedTinyMalachite.name=小撮离心孔雀石矿石
     S:oredict.crushedCentrifugedTinyManaQuartz.name=Tiny Refined Mana Quartz Ore
@@ -20930,7 +20930,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyMendelevium.name=小撮离心钔矿石
     S:oredict.crushedCentrifugedTinyMercury.name=小撮离心汞矿石
     S:oredict.crushedCentrifugedTinyMeteoricIron.name=小撮离心陨铁矿石
-    S:oredict.crushedCentrifugedTinyMeteorite.name=Tiny Refined 陨石 矿石
+    S:oredict.crushedCentrifugedTinyMeteorite.name=小撮离心陨石矿石
     S:oredict.crushedCentrifugedTinyMeutoite.name=小撮离心龙之魂石矿石
     S:oredict.crushedCentrifugedTinyMica.name=小撮离心云母矿石
     S:oredict.crushedCentrifugedTinyMidasium.name=小撮离心溶火金矿石
@@ -20983,7 +20983,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyPolonium.name=小撮离心钋矿石
     S:oredict.crushedCentrifugedTinyPotassium.name=小撮离心钾矿石
     S:oredict.crushedCentrifugedTinyPotassiumFeldspar.name=小撮离心钾长石矿石
-    S:oredict.crushedCentrifugedTinyPotassiumNitrate.name=Tiny Refined Potassium Nitrate 矿石
+    S:oredict.crushedCentrifugedTinyPotassiumNitrate.name=小撮离心硝酸钾矿石
     S:oredict.crushedCentrifugedTinyPowellite.name=小撮离心钼钙矿矿石
     S:oredict.crushedCentrifugedTinyPraseodymium.name=小撮离心镨矿石
     S:oredict.crushedCentrifugedTinyPrismane.name=小撮离心棱柱烷矿石
@@ -21033,7 +21033,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinySoapstone.name=小撮离心皂石矿石
     S:oredict.crushedCentrifugedTinySodalite.name=小撮离心方钠石矿石
     S:oredict.crushedCentrifugedTinySodium.name=小撮离心钠矿石
-    S:oredict.crushedCentrifugedTinySodiumNitrate.name=Tiny Refined 硝酸钠矿石
+    S:oredict.crushedCentrifugedTinySodiumNitrate.name=小撮离心硝酸钠矿石
     S:oredict.crushedCentrifugedTinySperrylite.name=小撮离心砷铂矿石
     S:oredict.crushedCentrifugedTinySpessartine.name=小撮离心锰铝榴石矿石
     S:oredict.crushedCentrifugedTinySphalerite.name=小撮离心闪锌矿矿石
@@ -21695,7 +21695,7 @@ languagefile {
     S:oredict.crushedPurifiedLigniteCoke.name=纯净焦化褐煤矿石
     S:oredict.crushedPurifiedLithium.name=纯净锂矿石
     S:oredict.crushedPurifiedLithium6.name=纯净锂-6矿石
-    S:oredict.crushedPurifiedLithiumChloride.name=Purified Lithium Chloride 矿石
+    S:oredict.crushedPurifiedLithiumChloride.name=纯净氯化锂矿石
     S:oredict.crushedPurifiedLivermorium.name=纯净鉝矿石
     S:oredict.crushedPurifiedLonsdaleite.name=纯净六方碳矿石
     S:oredict.crushedPurifiedLudicrite.name=纯净滑稽矿石
@@ -21703,7 +21703,7 @@ languagefile {
     S:oredict.crushedPurifiedMagnesite.name=纯净菱镁矿矿石
     S:oredict.crushedPurifiedMagnesium.name=纯净镁矿石
     S:oredict.crushedPurifiedMagnesiumCarbonate.name=纯净碳酸镁矿石
-    S:oredict.crushedPurifiedMagnesiumChloride.name=Purified Magnesium Chloride 矿石
+    S:oredict.crushedPurifiedMagnesiumChloride.name=纯净氯化镁矿石
     S:oredict.crushedPurifiedMagnetite.name=纯净磁铁矿矿石
     S:oredict.crushedPurifiedMalachite.name=纯净孔雀石矿石
     S:oredict.crushedPurifiedManaQuartz.name=Purified Mana Quartz Ore
@@ -21713,7 +21713,7 @@ languagefile {
     S:oredict.crushedPurifiedMendelevium.name=纯净钔矿石
     S:oredict.crushedPurifiedMercury.name=纯净汞矿石
     S:oredict.crushedPurifiedMeteoricIron.name=纯净陨铁矿石
-    S:oredict.crushedPurifiedMeteorite.name=Purified 陨石 矿石
+    S:oredict.crushedPurifiedMeteorite.name=纯净陨石矿石
     S:oredict.crushedPurifiedMeutoite.name=纯净龙之魂石矿石
     S:oredict.crushedPurifiedMica.name=纯净云母矿石
     S:oredict.crushedPurifiedMidasium.name=纯净溶火金矿石
@@ -21766,7 +21766,7 @@ languagefile {
     S:oredict.crushedPurifiedPolonium.name=纯净钋矿石
     S:oredict.crushedPurifiedPotassium.name=纯净钾矿石
     S:oredict.crushedPurifiedPotassiumFeldspar.name=纯净钾长石矿石
-    S:oredict.crushedPurifiedPotassiumNitrate.name=Purified Potassium Nitrate 矿石
+    S:oredict.crushedPurifiedPotassiumNitrate.name=纯净硝酸钾矿石
     S:oredict.crushedPurifiedPowellite.name=纯净钼钙矿矿石
     S:oredict.crushedPurifiedPraseodymium.name=纯净镨矿石
     S:oredict.crushedPurifiedPrismane.name=纯净棱柱烷矿石
@@ -21816,7 +21816,7 @@ languagefile {
     S:oredict.crushedPurifiedSoapstone.name=纯净皂石矿石
     S:oredict.crushedPurifiedSodalite.name=纯净方钠石矿石
     S:oredict.crushedPurifiedSodium.name=纯净钠矿石
-    S:oredict.crushedPurifiedSodiumNitrate.name=Purified 硝酸钠矿石
+    S:oredict.crushedPurifiedSodiumNitrate.name=纯净硝酸钠矿石
     S:oredict.crushedPurifiedSperrylite.name=纯净砷铂矿石
     S:oredict.crushedPurifiedSpessartine.name=纯净锰铝榴石矿石
     S:oredict.crushedPurifiedSphalerite.name=纯净闪锌矿矿石
@@ -22171,7 +22171,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyLigniteCoke.name=小撮纯净焦化褐煤矿石
     S:oredict.crushedPurifiedTinyLithium.name=小撮纯净锂矿石
     S:oredict.crushedPurifiedTinyLithium6.name=小撮纯净锂-6矿石
-    S:oredict.crushedPurifiedTinyLithiumChloride.name=Tiny Purified Lithium Chloride 矿石
+    S:oredict.crushedPurifiedTinyLithiumChloride.name=小撮纯净氯化锂矿石
     S:oredict.crushedPurifiedTinyLivermorium.name=小撮纯净鉝矿石
     S:oredict.crushedPurifiedTinyLonsdaleite.name=小撮纯净六方碳矿石
     S:oredict.crushedPurifiedTinyLudicrite.name=小撮纯净滑稽矿石
@@ -22179,7 +22179,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyMagnesite.name=小撮纯净菱镁矿矿石
     S:oredict.crushedPurifiedTinyMagnesium.name=小撮纯净镁矿石
     S:oredict.crushedPurifiedTinyMagnesiumCarbonate.name=小撮纯净碳酸镁矿石
-    S:oredict.crushedPurifiedTinyMagnesiumChloride.name=Tiny Purified Magnesium Chloride 矿石
+    S:oredict.crushedPurifiedTinyMagnesiumChloride.name=小撮纯净氯化镁矿石
     S:oredict.crushedPurifiedTinyMagnetite.name=小撮纯净磁铁矿矿石
     S:oredict.crushedPurifiedTinyMalachite.name=小撮纯净孔雀石矿石
     S:oredict.crushedPurifiedTinyManaQuartz.name=Tiny Purified Mana Quartz Ore
@@ -22189,7 +22189,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyMendelevium.name=小撮纯净钔矿石
     S:oredict.crushedPurifiedTinyMercury.name=小撮纯净汞矿石
     S:oredict.crushedPurifiedTinyMeteoricIron.name=小撮纯净陨铁矿石
-    S:oredict.crushedPurifiedTinyMeteorite.name=Tiny Purified 陨石 矿石
+    S:oredict.crushedPurifiedTinyMeteorite.name=小撮纯净陨石矿石
     S:oredict.crushedPurifiedTinyMeutoite.name=小撮纯净龙之魂石矿石
     S:oredict.crushedPurifiedTinyMica.name=小撮纯净云母矿石
     S:oredict.crushedPurifiedTinyMidasium.name=小撮纯净溶火金矿石
@@ -22242,7 +22242,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyPolonium.name=小撮纯净钋矿石
     S:oredict.crushedPurifiedTinyPotassium.name=小撮纯净钾矿石
     S:oredict.crushedPurifiedTinyPotassiumFeldspar.name=小撮纯净钾长石矿石
-    S:oredict.crushedPurifiedTinyPotassiumNitrate.name=Tiny Purified Potassium Nitrate 矿石
+    S:oredict.crushedPurifiedTinyPotassiumNitrate.name=小撮纯净硝酸钾矿石
     S:oredict.crushedPurifiedTinyPowellite.name=小撮纯净钼钙矿矿石
     S:oredict.crushedPurifiedTinyPraseodymium.name=小撮纯净镨矿石
     S:oredict.crushedPurifiedTinyPrismane.name=小撮纯净棱柱烷矿石
@@ -22292,7 +22292,7 @@ languagefile {
     S:oredict.crushedPurifiedTinySoapstone.name=小撮纯净皂石矿石
     S:oredict.crushedPurifiedTinySodalite.name=小撮纯净方钠石矿石
     S:oredict.crushedPurifiedTinySodium.name=小撮纯净钠矿石
-    S:oredict.crushedPurifiedTinySodiumNitrate.name=Tiny Purified 硝酸钠矿石
+    S:oredict.crushedPurifiedTinySodiumNitrate.name=小撮纯净硝酸钠矿石
     S:oredict.crushedPurifiedTinySperrylite.name=小撮纯净砷铂矿石
     S:oredict.crushedPurifiedTinySpessartine.name=小撮纯净锰铝榴石矿石
     S:oredict.crushedPurifiedTinySphalerite.name=小撮纯净闪锌矿矿石
@@ -22805,7 +22805,7 @@ languagefile {
     S:oredict.crushedTinyLigniteCoke.name=小撮粉碎焦化褐煤矿石
     S:oredict.crushedTinyLithium.name=小撮粉碎锂矿石
     S:oredict.crushedTinyLithium6.name=小撮粉碎锂-6矿石
-    S:oredict.crushedTinyLithiumChloride.name=Tiny Crushed Lithium Chloride 矿石
+    S:oredict.crushedTinyLithiumChloride.name=小撮粉碎氯化锂矿石
     S:oredict.crushedTinyLivermorium.name=小撮粉碎鉝矿石
     S:oredict.crushedTinyLonsdaleite.name=小撮粉碎六方碳矿石
     S:oredict.crushedTinyLudicrite.name=小撮粉碎滑稽矿石
@@ -22813,7 +22813,7 @@ languagefile {
     S:oredict.crushedTinyMagnesite.name=小撮粉碎菱镁矿矿石
     S:oredict.crushedTinyMagnesium.name=小撮粉碎镁矿石
     S:oredict.crushedTinyMagnesiumCarbonate.name=小撮粉碎碳酸镁矿石
-    S:oredict.crushedTinyMagnesiumChloride.name=Tiny Crushed Magnesium Chloride 矿石
+    S:oredict.crushedTinyMagnesiumChloride.name=小撮粉碎氯化镁矿石
     S:oredict.crushedTinyMagnetite.name=小撮粉碎磁铁矿矿石
     S:oredict.crushedTinyMalachite.name=小撮粉碎孔雀石矿石
     S:oredict.crushedTinyManaQuartz.name=Tiny Crushed Mana Quartz Ore
@@ -22823,7 +22823,7 @@ languagefile {
     S:oredict.crushedTinyMendelevium.name=小撮粉碎钔矿石
     S:oredict.crushedTinyMercury.name=小撮粉碎汞矿石
     S:oredict.crushedTinyMeteoricIron.name=小撮粉碎陨铁矿石
-    S:oredict.crushedTinyMeteorite.name=Tiny Crushed 陨石 矿石
+    S:oredict.crushedTinyMeteorite.name=小撮粉碎陨石矿石
     S:oredict.crushedTinyMeutoite.name=小撮粉碎龙之魂石矿石
     S:oredict.crushedTinyMica.name=小撮粉碎云母矿石
     S:oredict.crushedTinyMidasium.name=小撮粉碎溶火金矿石
@@ -22876,7 +22876,7 @@ languagefile {
     S:oredict.crushedTinyPolonium.name=小撮粉碎钋矿石
     S:oredict.crushedTinyPotassium.name=小撮粉碎钾矿石
     S:oredict.crushedTinyPotassiumFeldspar.name=小撮粉碎钾长石矿石
-    S:oredict.crushedTinyPotassiumNitrate.name=Tiny Crushed Potassium Nitrate 矿石
+    S:oredict.crushedTinyPotassiumNitrate.name=小撮粉碎硝酸钾矿石
     S:oredict.crushedTinyPowellite.name=小撮粉碎钼钙矿矿石
     S:oredict.crushedTinyPraseodymium.name=小撮粉碎镨矿石
     S:oredict.crushedTinyPrismane.name=小撮粉碎棱柱烷矿石
@@ -22926,7 +22926,7 @@ languagefile {
     S:oredict.crushedTinySoapstone.name=小撮粉碎皂石矿石
     S:oredict.crushedTinySodalite.name=小撮粉碎方钠石矿石
     S:oredict.crushedTinySodium.name=小撮粉碎钠矿石
-    S:oredict.crushedTinySodiumNitrate.name=Tiny Crushed 硝酸钠矿石
+    S:oredict.crushedTinySodiumNitrate.name=小撮粉碎硝酸钠矿石
     S:oredict.crushedTinySperrylite.name=小撮粉碎砷铂矿石
     S:oredict.crushedTinySpessartine.name=小撮粉碎锰铝榴石矿石
     S:oredict.crushedTinySphalerite.name=小撮粉碎闪锌矿矿石
@@ -23803,7 +23803,7 @@ languagefile {
     S:oredict.dustDiv72Limestone.name=1/72份石灰石粉
     S:oredict.dustDiv72Lithium.name=1/72份锂粉
     S:oredict.dustDiv72Lithium6.name=1/72份锂-6粉
-    S:oredict.dustDiv72LithiumChloride.name=1/72nd of a Pile of Lithium Chloride Dust
+    S:oredict.dustDiv72LithiumChloride.name=1/72份氯化锂粉
     S:oredict.dustDiv72LithiumOxide.name=1/72份氧化锂粉
     S:oredict.dustDiv72LiveRoot.name=1/72份活根粉
     S:oredict.dustDiv72Livermorium.name=1/72份鉝粉
@@ -23816,7 +23816,7 @@ languagefile {
     S:oredict.dustDiv72Magnesite.name=1/72份菱镁矿粉
     S:oredict.dustDiv72Magnesium.name=1/72份镁粉
     S:oredict.dustDiv72MagnesiumCarbonate.name=1/72份碳酸镁粉
-    S:oredict.dustDiv72MagnesiumChloride.name=1/72nd of a Pile of Magnesium Chloride Dust
+    S:oredict.dustDiv72MagnesiumChloride.name=1/72份氯化镁粉
     S:oredict.dustDiv72Magnetite.name=1/72份磁铁矿粉
     S:oredict.dustDiv72Malachite.name=1/72份孔雀石粉
     S:oredict.dustDiv72ManaQuartz.name=1/72nd of a Pile of Mana Quartz Dust
@@ -23836,7 +23836,7 @@ languagefile {
     S:oredict.dustDiv72Mercury.name=1/72份汞粉
     S:oredict.dustDiv72MeteoricIron.name=1/72份陨铁粉
     S:oredict.dustDiv72MeteoricSteel.name=1/72份陨钢粉
-    S:oredict.dustDiv72Meteorite.name=1/72nd of a Pile of 陨石 Dust
+    S:oredict.dustDiv72Meteorite.name=1/72份陨石粉
     S:oredict.dustDiv72MethaneIce.name=1/72份甲烷冰粉
     S:oredict.dustDiv72Meutoite.name=1/72份龙之魂石粉
     S:oredict.dustDiv72Mica.name=1/72份云母粉
@@ -23924,7 +23924,7 @@ languagefile {
     S:oredict.dustDiv72PotassiumCarbonate.name=1/72nd of a Pile of Potassium Carbonate Dust
     S:oredict.dustDiv72PotassiumFeldspar.name=1/72份钾长石粉
     S:oredict.dustDiv72PotassiumHydroxide.name=1/72份氢氧化钾粉
-    S:oredict.dustDiv72PotassiumNitrate.name=1/72nd of a Pile of Potassium Nitrate Dust
+    S:oredict.dustDiv72PotassiumNitrate.name=1/72份硝酸钾粉
     S:oredict.dustDiv72PotassiumPersulfate.name=1/72nd of a Pile of Potassium Persulfate Dust
     S:oredict.dustDiv72PotassiumPyrosulfate.name=1/72份焦硫酸钾粉
     S:oredict.dustDiv72PotassiumSulfate.name=1/72份硫酸钾粉
@@ -24006,7 +24006,7 @@ languagefile {
     S:oredict.dustDiv72SodiumBisulfate.name=1/72份硫酸氢钠粉
     S:oredict.dustDiv72SodiumCarbonate.name=1/72份碳酸钠粉
     S:oredict.dustDiv72SodiumHydroxide.name=1/72份氢氧化钠粉
-    S:oredict.dustDiv72SodiumNitrate.name=1/72nd of a Pile of 硝酸钠粉
+    S:oredict.dustDiv72SodiumNitrate.name=1/72份硝酸钠粉
     S:oredict.dustDiv72SodiumPersulfate.name=1/72份过硫酸钠粉
     S:oredict.dustDiv72SodiumPyrosulfate.name=1/72份焦硫酸钠粉
     S:oredict.dustDiv72SodiumSulfate.name=1/72份硫酸钠粉
@@ -24606,7 +24606,7 @@ languagefile {
     S:oredict.dustImpureLimestone.name=含杂石灰石粉
     S:oredict.dustImpureLithium.name=含杂锂粉
     S:oredict.dustImpureLithium6.name=含杂锂-6粉
-    S:oredict.dustImpureLithiumChloride.name=Impure Pile of Lithium Chloride Dust
+    S:oredict.dustImpureLithiumChloride.name=含杂氯化锂粉
     S:oredict.dustImpureLivermorium.name=含杂鉝粉
     S:oredict.dustImpureLonsdaleite.name=含杂六方碳粉
     S:oredict.dustImpureLudicrite.name=含杂滑稽粉
@@ -24614,7 +24614,7 @@ languagefile {
     S:oredict.dustImpureMagnesite.name=含杂菱镁矿粉
     S:oredict.dustImpureMagnesium.name=含杂镁粉
     S:oredict.dustImpureMagnesiumCarbonate.name=含杂碳酸镁粉
-    S:oredict.dustImpureMagnesiumChloride.name=Impure Pile of Magnesium Chloride Dust
+    S:oredict.dustImpureMagnesiumChloride.name=含杂氯化镁粉
     S:oredict.dustImpureMagnetite.name=含杂磁铁矿粉
     S:oredict.dustImpureMalachite.name=含杂孔雀石粉
     S:oredict.dustImpureManaQuartz.name=Impure Pile of Mana Quartz Dust
@@ -24627,7 +24627,7 @@ languagefile {
     S:oredict.dustImpureMendelevium.name=含杂钔粉
     S:oredict.dustImpureMercury.name=含杂汞粉
     S:oredict.dustImpureMeteoricIron.name=含杂陨铁粉
-    S:oredict.dustImpureMeteorite.name=Impure Pile of 陨石 Dust
+    S:oredict.dustImpureMeteorite.name=含杂陨石粉
     S:oredict.dustImpureMeutoite.name=含杂龙之魂石粉
     S:oredict.dustImpureMica.name=含杂云母粉
     S:oredict.dustImpureMidasium.name=含杂溶火金粉
@@ -24687,7 +24687,7 @@ languagefile {
     S:oredict.dustImpurePolonium.name=含杂钋粉
     S:oredict.dustImpurePotassium.name=含杂钾粉
     S:oredict.dustImpurePotassiumFeldspar.name=含杂钾长石粉
-    S:oredict.dustImpurePotassiumNitrate.name=Impure Pile of Potassium Nitrate Dust
+    S:oredict.dustImpurePotassiumNitrate.name=含杂硝酸钾粉
     S:oredict.dustImpurePowellite.name=含杂钼钙矿粉
     S:oredict.dustImpurePraseodymium.name=含杂镨粉
     S:oredict.dustImpurePrismane.name=含杂棱柱烷粉
@@ -24741,7 +24741,7 @@ languagefile {
     S:oredict.dustImpureSoapstone.name=含杂皂石粉
     S:oredict.dustImpureSodalite.name=含杂方钠石粉
     S:oredict.dustImpureSodium.name=含杂钠粉
-    S:oredict.dustImpureSodiumNitrate.name=Impure Pile of 硝酸钠粉
+    S:oredict.dustImpureSodiumNitrate.name=含杂硝酸钠粉
     S:oredict.dustImpureSpaceRock.name=含杂陨石粉
     S:oredict.dustImpureSpaceStone.name=Impure Pile of Space Dust
     S:oredict.dustImpureSperrylite.name=含杂砷铂粉
@@ -24862,7 +24862,7 @@ languagefile {
     S:oredict.dustLimestone.name=石灰石粉
     S:oredict.dustLithium.name=锂粉
     S:oredict.dustLithium6.name=锂-6粉
-    S:oredict.dustLithiumChloride.name=Lithium Chloride Dust
+    S:oredict.dustLithiumChloride.name=氯化锂粉
     S:oredict.dustLithiumOxide.name=氧化锂粉
     S:oredict.dustLiveRoot.name=活根粉
     S:oredict.dustLivermorium.name=鉝粉
@@ -24875,7 +24875,7 @@ languagefile {
     S:oredict.dustMagnesite.name=菱镁矿粉
     S:oredict.dustMagnesium.name=镁粉
     S:oredict.dustMagnesiumCarbonate.name=碳酸镁粉
-    S:oredict.dustMagnesiumChloride.name=Magnesium Chloride Dust
+    S:oredict.dustMagnesiumChloride.name=氯化镁粉
     S:oredict.dustMagnetite.name=磁铁矿粉
     S:oredict.dustMalachite.name=孔雀石粉
     S:oredict.dustManaQuartz.name=Mana Quartz Dust
@@ -24895,7 +24895,7 @@ languagefile {
     S:oredict.dustMercury.name=汞粉
     S:oredict.dustMeteoricIron.name=陨铁粉
     S:oredict.dustMeteoricSteel.name=陨钢粉
-    S:oredict.dustMeteorite.name=陨石 Dust
+    S:oredict.dustMeteorite.name=陨石粉
     S:oredict.dustMethaneIce.name=甲烷冰粉
     S:oredict.dustMeutoite.name=龙之魂石粉
     S:oredict.dustMica.name=云母粉
@@ -24985,7 +24985,7 @@ languagefile {
     S:oredict.dustPotassiumCarbonate.name=Potassium Carbonate Dust
     S:oredict.dustPotassiumFeldspar.name=钾长石粉
     S:oredict.dustPotassiumHydroxide.name=氢氧化钾粉
-    S:oredict.dustPotassiumNitrate.name=Potassium Nitrate Dust
+    S:oredict.dustPotassiumNitrate.name=硝酸钾粉
     S:oredict.dustPotassiumPersulfate.name=Potassium Persulfate Dust
     S:oredict.dustPotassiumPyrosulfate.name=焦硫酸钾粉
     S:oredict.dustPotassiumSulfate.name=硫酸钾粉
@@ -25352,7 +25352,7 @@ languagefile {
     S:oredict.dustPureLimestone.name=纯净石灰石粉
     S:oredict.dustPureLithium.name=纯净锂粉
     S:oredict.dustPureLithium6.name=纯净锂-6粉
-    S:oredict.dustPureLithiumChloride.name=Purified Pile of Lithium Chloride Dust
+    S:oredict.dustPureLithiumChloride.name=纯净氯化锂粉
     S:oredict.dustPureLivermorium.name=纯净鉝粉
     S:oredict.dustPureLonsdaleite.name=纯净六方碳粉
     S:oredict.dustPureLudicrite.name=纯净滑稽粉
@@ -25360,7 +25360,7 @@ languagefile {
     S:oredict.dustPureMagnesite.name=纯净菱镁矿粉
     S:oredict.dustPureMagnesium.name=纯净镁粉
     S:oredict.dustPureMagnesiumCarbonate.name=纯净碳酸镁粉
-    S:oredict.dustPureMagnesiumChloride.name=Purified Pile of Magnesium Chloride Dust
+    S:oredict.dustPureMagnesiumChloride.name=纯净氯化镁粉
     S:oredict.dustPureMagnetite.name=纯净磁铁矿粉
     S:oredict.dustPureMalachite.name=纯净孔雀石粉
     S:oredict.dustPureManaQuartz.name=Purified Pile of Mana Quartz Dust
@@ -25373,7 +25373,7 @@ languagefile {
     S:oredict.dustPureMendelevium.name=纯净钔粉
     S:oredict.dustPureMercury.name=纯净汞粉
     S:oredict.dustPureMeteoricIron.name=纯净陨铁粉
-    S:oredict.dustPureMeteorite.name=Purified Pile of 陨石 Dust
+    S:oredict.dustPureMeteorite.name=纯净陨石粉
     S:oredict.dustPureMeutoite.name=纯净龙之魂石粉
     S:oredict.dustPureMica.name=纯净云母粉
     S:oredict.dustPureMidasium.name=纯净溶火金粉
@@ -25433,7 +25433,7 @@ languagefile {
     S:oredict.dustPurePolonium.name=纯净钋粉
     S:oredict.dustPurePotassium.name=纯净钾粉
     S:oredict.dustPurePotassiumFeldspar.name=纯净钾长石粉
-    S:oredict.dustPurePotassiumNitrate.name=Purified Pile of Potassium Nitrate Dust
+    S:oredict.dustPurePotassiumNitrate.name=纯净硝酸钾粉
     S:oredict.dustPurePowellite.name=纯净钼钙矿粉
     S:oredict.dustPurePraseodymium.name=纯净镨粉
     S:oredict.dustPurePrismane.name=纯净棱柱烷粉
@@ -25487,7 +25487,7 @@ languagefile {
     S:oredict.dustPureSoapstone.name=纯净皂石粉
     S:oredict.dustPureSodalite.name=纯净方钠石粉
     S:oredict.dustPureSodium.name=纯净钠粉
-    S:oredict.dustPureSodiumNitrate.name=Purified Pile of 硝酸钠粉
+    S:oredict.dustPureSodiumNitrate.name=纯净硝酸钠粉
     S:oredict.dustPureSpaceRock.name=纯净陨石粉
     S:oredict.dustPureSpaceStone.name=Purified Pile of Space Dust
     S:oredict.dustPureSperrylite.name=纯净砷铂粉
@@ -26083,7 +26083,7 @@ languagefile {
     S:oredict.dustSmallLimestone.name=小堆石灰石粉
     S:oredict.dustSmallLithium.name=小堆锂粉
     S:oredict.dustSmallLithium6.name=小堆锂-6粉
-    S:oredict.dustSmallLithiumChloride.name=Small Pile of Lithium Chloride Dust
+    S:oredict.dustSmallLithiumChloride.name=小堆氯化锂粉
     S:oredict.dustSmallLithiumOxide.name=小堆氧化锂粉
     S:oredict.dustSmallLiveRoot.name=小堆活根粉
     S:oredict.dustSmallLivermorium.name=小堆鉝粉
@@ -26096,7 +26096,7 @@ languagefile {
     S:oredict.dustSmallMagnesite.name=小堆菱镁矿粉
     S:oredict.dustSmallMagnesium.name=小堆镁粉
     S:oredict.dustSmallMagnesiumCarbonate.name=小堆碳酸镁粉
-    S:oredict.dustSmallMagnesiumChloride.name=Small Pile of Magnesium Chloride Dust
+    S:oredict.dustSmallMagnesiumChloride.name=小堆氯化镁粉
     S:oredict.dustSmallMagnetite.name=小堆磁铁矿粉
     S:oredict.dustSmallMalachite.name=小堆孔雀石粉
     S:oredict.dustSmallManaQuartz.name=Small Pile of Mana Quartz Dust
@@ -26116,7 +26116,7 @@ languagefile {
     S:oredict.dustSmallMercury.name=小堆汞粉
     S:oredict.dustSmallMeteoricIron.name=小堆陨铁粉
     S:oredict.dustSmallMeteoricSteel.name=小堆陨钢粉
-    S:oredict.dustSmallMeteorite.name=Small Pile of 陨石 Dust
+    S:oredict.dustSmallMeteorite.name=小堆陨石粉
     S:oredict.dustSmallMethaneIce.name=小堆甲烷冰粉
     S:oredict.dustSmallMeutoite.name=小堆龙之魂石粉
     S:oredict.dustSmallMica.name=小堆云母粉
@@ -26206,7 +26206,7 @@ languagefile {
     S:oredict.dustSmallPotassiumCarbonate.name=Small Pile of Potassium Carbonate Dust
     S:oredict.dustSmallPotassiumFeldspar.name=小堆钾长石粉
     S:oredict.dustSmallPotassiumHydroxide.name=小堆氢氧化钾粉
-    S:oredict.dustSmallPotassiumNitrate.name=Small Pile of Potassium Nitrate Dust
+    S:oredict.dustSmallPotassiumNitrate.name=小堆硝酸钾粉
     S:oredict.dustSmallPotassiumPersulfate.name=Small Pile of Potassium Persulfate Dust
     S:oredict.dustSmallPotassiumPyrosulfate.name=小堆焦硫酸钾粉
     S:oredict.dustSmallPotassiumSulfate.name=小堆硫酸钾粉
@@ -26288,7 +26288,7 @@ languagefile {
     S:oredict.dustSmallSodiumBisulfate.name=小堆硫酸氢钠粉
     S:oredict.dustSmallSodiumCarbonate.name=小堆碳酸钠粉
     S:oredict.dustSmallSodiumHydroxide.name=小堆氢氧化钠粉
-    S:oredict.dustSmallSodiumNitrate.name=Small Pile of 硝酸钠粉
+    S:oredict.dustSmallSodiumNitrate.name=小堆硝酸钠粉
     S:oredict.dustSmallSodiumPersulfate.name=小堆过硫酸钠粉
     S:oredict.dustSmallSodiumPyrosulfate.name=小堆焦硫酸钠粉
     S:oredict.dustSmallSodiumSulfate.name=小堆硫酸钠粉
@@ -26944,7 +26944,7 @@ languagefile {
     S:oredict.dustTinyLimestone.name=小撮石灰石粉
     S:oredict.dustTinyLithium.name=小撮锂粉
     S:oredict.dustTinyLithium6.name=小撮锂-6粉
-    S:oredict.dustTinyLithiumChloride.name=Tiny Pile of Lithium Chloride Dust
+    S:oredict.dustTinyLithiumChloride.name=小撮氯化锂粉
     S:oredict.dustTinyLithiumOxide.name=小撮氧化锂粉
     S:oredict.dustTinyLiveRoot.name=小撮活根粉
     S:oredict.dustTinyLivermorium.name=小撮鉝粉
@@ -26957,7 +26957,7 @@ languagefile {
     S:oredict.dustTinyMagnesite.name=小撮菱镁矿粉
     S:oredict.dustTinyMagnesium.name=小撮镁粉
     S:oredict.dustTinyMagnesiumCarbonate.name=小撮碳酸镁粉
-    S:oredict.dustTinyMagnesiumChloride.name=Tiny Pile of Magnesium Chloride Dust
+    S:oredict.dustTinyMagnesiumChloride.name=小撮氯化镁粉
     S:oredict.dustTinyMagnetite.name=小撮磁铁矿粉
     S:oredict.dustTinyMalachite.name=小撮孔雀石粉
     S:oredict.dustTinyManaQuartz.name=Tiny Pile of Mana Quartz Dust
@@ -26977,7 +26977,7 @@ languagefile {
     S:oredict.dustTinyMercury.name=小撮汞粉
     S:oredict.dustTinyMeteoricIron.name=小撮陨铁粉
     S:oredict.dustTinyMeteoricSteel.name=小撮陨钢粉
-    S:oredict.dustTinyMeteorite.name=Tiny Pile of 陨石 Dust
+    S:oredict.dustTinyMeteorite.name=小撮陨石粉
     S:oredict.dustTinyMethaneIce.name=小撮甲烷冰粉
     S:oredict.dustTinyMeutoite.name=小撮龙之魂石粉
     S:oredict.dustTinyMica.name=小撮云母粉
@@ -27067,7 +27067,7 @@ languagefile {
     S:oredict.dustTinyPotassiumCarbonate.name=Tiny Pile of Potassium Carbonate Dust
     S:oredict.dustTinyPotassiumFeldspar.name=小撮钾长石粉
     S:oredict.dustTinyPotassiumHydroxide.name=小撮氢氧化钾粉
-    S:oredict.dustTinyPotassiumNitrate.name=Tiny Pile of Potassium Nitrate Dust
+    S:oredict.dustTinyPotassiumNitrate.name=小撮硝酸钾粉
     S:oredict.dustTinyPotassiumPersulfate.name=Tiny Pile of Potassium Persulfate Dust
     S:oredict.dustTinyPotassiumPyrosulfate.name=小撮焦硫酸钾粉
     S:oredict.dustTinyPotassiumSulfate.name=小撮硫酸钾粉
@@ -27149,7 +27149,7 @@ languagefile {
     S:oredict.dustTinySodiumBisulfate.name=小撮硫酸氢钠粉
     S:oredict.dustTinySodiumCarbonate.name=小撮碳酸钠粉
     S:oredict.dustTinySodiumHydroxide.name=小撮氢氧化钠粉
-    S:oredict.dustTinySodiumNitrate.name=Tiny Pile of 硝酸钠粉
+    S:oredict.dustTinySodiumNitrate.name=小撮硝酸钠粉
     S:oredict.dustTinySodiumPersulfate.name=小撮过硫酸钠粉
     S:oredict.dustTinySodiumPyrosulfate.name=小撮焦硫酸钠粉
     S:oredict.dustTinySodiumSulfate.name=小撮硫酸钠粉
@@ -27611,7 +27611,7 @@ languagefile {
     S:oredict.foilMercury.name=汞箔
     S:oredict.foilMeteoricIron.name=陨铁箔
     S:oredict.foilMeteoricSteel.name=陨钢箔
-    S:oredict.foilMeteorite.name=陨石 Foil
+    S:oredict.foilMeteorite.name=陨石箔
     S:oredict.foilMeutoite.name=龙之魂石箔
     S:oredict.foilMidasium.name=溶火金箔
     S:oredict.foilMigmatite.name=混合岩箔
@@ -27919,7 +27919,7 @@ languagefile {
     S:oredict.gearGtMaxixe.name=Maxixe Gear
     S:oredict.gearGtMeteoricIron.name=陨铁齿轮
     S:oredict.gearGtMeteoricSteel.name=陨钢齿轮
-    S:oredict.gearGtMeteorite.name=陨石 Gear
+    S:oredict.gearGtMeteorite.name=陨石齿轮
     S:oredict.gearGtMidasium.name=溶火金齿轮
     S:oredict.gearGtMigmatite.name=混合岩齿轮
     S:oredict.gearGtMithril.name=秘银齿轮
@@ -28156,7 +28156,7 @@ languagefile {
     S:oredict.gearGtSmallMaxixe.name=Small Maxixe Gear
     S:oredict.gearGtSmallMeteoricIron.name=小型陨铁齿轮
     S:oredict.gearGtSmallMeteoricSteel.name=小型陨钢齿轮
-    S:oredict.gearGtSmallMeteorite.name=Small 陨石 Gear
+    S:oredict.gearGtSmallMeteorite.name=小型陨石齿轮
     S:oredict.gearGtSmallMidasium.name=小型溶火金齿轮
     S:oredict.gearGtSmallMigmatite.name=小型混合岩齿轮
     S:oredict.gearGtSmallMithril.name=小型秘银齿轮
@@ -29181,7 +29181,7 @@ languagefile {
     S:oredict.ingotDoubleMercury.name=两重汞锭
     S:oredict.ingotDoubleMeteoricIron.name=两重陨铁锭
     S:oredict.ingotDoubleMeteoricSteel.name=两重陨钢锭
-    S:oredict.ingotDoubleMeteorite.name=Double 陨石 Ingot
+    S:oredict.ingotDoubleMeteorite.name=两重陨石锭
     S:oredict.ingotDoubleMeutoite.name=两重龙之魂石锭
     S:oredict.ingotDoubleMidasium.name=两重溶火金锭
     S:oredict.ingotDoubleMithril.name=两重秘银锭
@@ -29601,7 +29601,7 @@ languagefile {
     S:oredict.ingotHotMercury.name=热汞锭
     S:oredict.ingotHotMeteoricIron.name=热陨铁锭
     S:oredict.ingotHotMeteoricSteel.name=热陨钢锭
-    S:oredict.ingotHotMeteorite.name=Hot 陨石 Ingot
+    S:oredict.ingotHotMeteorite.name=热陨石锭
     S:oredict.ingotHotMeutoite.name=热龙之魂石锭
     S:oredict.ingotHotMidasium.name=热溶火金锭
     S:oredict.ingotHotMithril.name=热秘银锭
@@ -29743,7 +29743,7 @@ languagefile {
     S:oredict.ingotLawrencium.name=铹锭
     S:oredict.ingotLead.name=铅锭
     S:oredict.ingotLemurite.name=利莫里亚锭
-    S:oredict.ingotLithiumChloride.name=Lithium Chloride Ingot
+    S:oredict.ingotLithiumChloride.name=氯化锂锭
     S:oredict.ingotLivermorium.name=鉝锭
     S:oredict.ingotLudicrite.name=滑稽锭
     S:oredict.ingotLumium.name=流明锭
@@ -29751,7 +29751,7 @@ languagefile {
     S:oredict.ingotMagnalium.name=镁铝合金锭
     S:oredict.ingotMagnesium.name=镁锭
     S:oredict.ingotMagnesiumCarbonate.name=碳酸镁锭
-    S:oredict.ingotMagnesiumChloride.name=Magnesium Chloride Ingot
+    S:oredict.ingotMagnesiumChloride.name=氯化镁锭
     S:oredict.ingotManasteel.name=魔力钢锭
     S:oredict.ingotManganese.name=锰锭
     S:oredict.ingotManganeseChloride.name=Manganese Chloride Ingot
@@ -29762,7 +29762,7 @@ languagefile {
     S:oredict.ingotMercury.name=汞锭
     S:oredict.ingotMeteoricIron.name=陨铁锭
     S:oredict.ingotMeteoricSteel.name=陨钢锭
-    S:oredict.ingotMeteorite.name=陨石 Ingot
+    S:oredict.ingotMeteorite.name=陨石锭
     S:oredict.ingotMeutoite.name=龙之魂石锭
     S:oredict.ingotMidasium.name=溶火金锭
     S:oredict.ingotMithril.name=秘银锭
@@ -30058,7 +30058,7 @@ languagefile {
     S:oredict.ingotQuadrupleMercury.name=四重汞锭
     S:oredict.ingotQuadrupleMeteoricIron.name=四重陨铁锭
     S:oredict.ingotQuadrupleMeteoricSteel.name=四重陨钢锭
-    S:oredict.ingotQuadrupleMeteorite.name=Quadruple 陨石 Ingot
+    S:oredict.ingotQuadrupleMeteorite.name=四重陨石锭
     S:oredict.ingotQuadrupleMeutoite.name=四重龙之魂石锭
     S:oredict.ingotQuadrupleMidasium.name=四重溶火金锭
     S:oredict.ingotQuadrupleMithril.name=四重秘银锭
@@ -30434,7 +30434,7 @@ languagefile {
     S:oredict.ingotQuintupleMercury.name=五重汞锭
     S:oredict.ingotQuintupleMeteoricIron.name=五重陨铁锭
     S:oredict.ingotQuintupleMeteoricSteel.name=五重陨钢锭
-    S:oredict.ingotQuintupleMeteorite.name=Quintuple 陨石 Ingot
+    S:oredict.ingotQuintupleMeteorite.name=五重陨石锭
     S:oredict.ingotQuintupleMeutoite.name=五重龙之魂石锭
     S:oredict.ingotQuintupleMidasium.name=五重溶火金锭
     S:oredict.ingotQuintupleMithril.name=五重秘银锭
@@ -30862,7 +30862,7 @@ languagefile {
     S:oredict.ingotTripleMercury.name=三重汞锭
     S:oredict.ingotTripleMeteoricIron.name=三重陨铁锭
     S:oredict.ingotTripleMeteoricSteel.name=三重陨钢锭
-    S:oredict.ingotTripleMeteorite.name=Triple 陨石 Ingot
+    S:oredict.ingotTripleMeteorite.name=三重陨石锭
     S:oredict.ingotTripleMeutoite.name=三重龙之魂石锭
     S:oredict.ingotTripleMidasium.name=三重溶火金锭
     S:oredict.ingotTripleMithril.name=三重秘银锭
@@ -31497,7 +31497,7 @@ languagefile {
     S:oredict.nuggetLawrencium.name=铹粒
     S:oredict.nuggetLead.name=铅粒
     S:oredict.nuggetLemurite.name=利莫里亚粒
-    S:oredict.nuggetLithiumChloride.name=Lithium Chloride Nugget
+    S:oredict.nuggetLithiumChloride.name=氯化锂粒
     S:oredict.nuggetLivermorium.name=鉝粒
     S:oredict.nuggetLudicrite.name=滑稽粒
     S:oredict.nuggetLumium.name=流明粒
@@ -31505,7 +31505,7 @@ languagefile {
     S:oredict.nuggetMagnalium.name=镁铝合金粒
     S:oredict.nuggetMagnesium.name=镁粒
     S:oredict.nuggetMagnesiumCarbonate.name=碳酸镁粒
-    S:oredict.nuggetMagnesiumChloride.name=Magnesium Chloride Nugget
+    S:oredict.nuggetMagnesiumChloride.name=氯化镁粒
     S:oredict.nuggetManasteel.name=魔力钢粒
     S:oredict.nuggetManganese.name=锰粒
     S:oredict.nuggetManganeseChloride.name=Manganese Chloride Nugget
@@ -31518,7 +31518,7 @@ languagefile {
     S:oredict.nuggetMercury.name=汞粒
     S:oredict.nuggetMeteoricIron.name=陨铁粒
     S:oredict.nuggetMeteoricSteel.name=陨钢粒
-    S:oredict.nuggetMeteorite.name=陨石 Nugget
+    S:oredict.nuggetMeteorite.name=陨石粒
     S:oredict.nuggetMeutoite.name=龙之魂石粒
     S:oredict.nuggetMidasium.name=溶火金粒
     S:oredict.nuggetMithril.name=秘银粒
@@ -31996,7 +31996,7 @@ languagefile {
     S:oredict.oreAndesiteLigniteCoke.name=安山岩焦化褐煤矿石
     S:oredict.oreAndesiteLithium.name=安山岩锂矿石
     S:oredict.oreAndesiteLithium6.name=安山岩锂-6矿石
-    S:oredict.oreAndesiteLithiumChloride.name=Andesite Lithium Chloride 矿石
+    S:oredict.oreAndesiteLithiumChloride.name=安山岩氯化锂矿石
     S:oredict.oreAndesiteLivermorium.name=安山岩鉝矿石
     S:oredict.oreAndesiteLonsdaleite.name=安山岩六方碳矿石
     S:oredict.oreAndesiteLudicrite.name=安山岩滑稽矿石
@@ -32004,7 +32004,7 @@ languagefile {
     S:oredict.oreAndesiteMagnesite.name=安山岩菱镁矿矿石
     S:oredict.oreAndesiteMagnesium.name=安山岩镁矿石
     S:oredict.oreAndesiteMagnesiumCarbonate.name=安山岩碳酸镁矿石
-    S:oredict.oreAndesiteMagnesiumChloride.name=Andesite Magnesium Chloride 矿石
+    S:oredict.oreAndesiteMagnesiumChloride.name=安山岩氯化镁矿石
     S:oredict.oreAndesiteMagnetite.name=安山岩磁铁矿矿石
     S:oredict.oreAndesiteMalachite.name=安山岩孔雀石矿石
     S:oredict.oreAndesiteManaQuartz.name=Andesite Mana Quartz Ore
@@ -32014,7 +32014,7 @@ languagefile {
     S:oredict.oreAndesiteMendelevium.name=安山岩钔矿石
     S:oredict.oreAndesiteMercury.name=安山岩汞矿石
     S:oredict.oreAndesiteMeteoricIron.name=安山岩陨铁矿石
-    S:oredict.oreAndesiteMeteorite.name=Andesite 陨石 矿石
+    S:oredict.oreAndesiteMeteorite.name=安山岩陨石矿石
     S:oredict.oreAndesiteMeutoite.name=安山岩龙之魂石矿石
     S:oredict.oreAndesiteMica.name=安山岩云母矿石
     S:oredict.oreAndesiteMidasium.name=安山岩溶火金矿石
@@ -32067,7 +32067,7 @@ languagefile {
     S:oredict.oreAndesitePolonium.name=安山岩钋矿石
     S:oredict.oreAndesitePotassium.name=安山岩钾矿石
     S:oredict.oreAndesitePotassiumFeldspar.name=安山岩钾长石矿石
-    S:oredict.oreAndesitePotassiumNitrate.name=Andesite Potassium Nitrate 矿石
+    S:oredict.oreAndesitePotassiumNitrate.name=安山岩硝酸钾矿石
     S:oredict.oreAndesitePowellite.name=安山岩钼钙矿矿石
     S:oredict.oreAndesitePraseodymium.name=安山岩镨矿石
     S:oredict.oreAndesitePrismane.name=安山岩棱柱烷矿石
@@ -32117,7 +32117,7 @@ languagefile {
     S:oredict.oreAndesiteSoapstone.name=安山岩皂石矿石
     S:oredict.oreAndesiteSodalite.name=安山岩方钠石矿石
     S:oredict.oreAndesiteSodium.name=安山岩钠矿石
-    S:oredict.oreAndesiteSodiumNitrate.name=Andesite 硝酸钠矿石
+    S:oredict.oreAndesiteSodiumNitrate.name=安山岩硝酸钠矿石
     S:oredict.oreAndesiteSperrylite.name=安山岩砷铂矿石
     S:oredict.oreAndesiteSpessartine.name=安山岩锰铝榴石矿石
     S:oredict.oreAndesiteSphalerite.name=安山岩闪锌矿矿石
@@ -32655,7 +32655,7 @@ languagefile {
     S:oredict.oreBasaltLigniteCoke.name=玄武岩焦化褐煤矿石
     S:oredict.oreBasaltLithium.name=玄武岩锂矿石
     S:oredict.oreBasaltLithium6.name=玄武岩锂-6矿石
-    S:oredict.oreBasaltLithiumChloride.name=Basalt Lithium Chloride 矿石
+    S:oredict.oreBasaltLithiumChloride.name=玄武岩氯化锂矿石
     S:oredict.oreBasaltLivermorium.name=玄武岩鉝矿石
     S:oredict.oreBasaltLonsdaleite.name=玄武岩六方碳矿石
     S:oredict.oreBasaltLudicrite.name=玄武岩滑稽矿石
@@ -32663,7 +32663,7 @@ languagefile {
     S:oredict.oreBasaltMagnesite.name=玄武岩菱镁矿矿石
     S:oredict.oreBasaltMagnesium.name=玄武岩镁矿石
     S:oredict.oreBasaltMagnesiumCarbonate.name=玄武岩碳酸镁矿石
-    S:oredict.oreBasaltMagnesiumChloride.name=Basalt Magnesium Chloride 矿石
+    S:oredict.oreBasaltMagnesiumChloride.name=玄武岩氯化镁矿石
     S:oredict.oreBasaltMagnetite.name=玄武岩磁铁矿矿石
     S:oredict.oreBasaltMalachite.name=玄武岩孔雀石矿石
     S:oredict.oreBasaltManaQuartz.name=Basalt Mana Quartz Ore
@@ -32673,7 +32673,7 @@ languagefile {
     S:oredict.oreBasaltMendelevium.name=玄武岩钔矿石
     S:oredict.oreBasaltMercury.name=玄武岩汞矿石
     S:oredict.oreBasaltMeteoricIron.name=玄武岩陨铁矿石
-    S:oredict.oreBasaltMeteorite.name=Basalt 陨石 矿石
+    S:oredict.oreBasaltMeteorite.name=玄武岩陨石矿石
     S:oredict.oreBasaltMeutoite.name=玄武岩龙之魂石矿石
     S:oredict.oreBasaltMica.name=玄武岩云母矿石
     S:oredict.oreBasaltMidasium.name=玄武岩溶火金矿石
@@ -32726,7 +32726,7 @@ languagefile {
     S:oredict.oreBasaltPolonium.name=玄武岩钋矿石
     S:oredict.oreBasaltPotassium.name=玄武岩钾矿石
     S:oredict.oreBasaltPotassiumFeldspar.name=玄武岩钾长石矿石
-    S:oredict.oreBasaltPotassiumNitrate.name=Basalt Potassium Nitrate 矿石
+    S:oredict.oreBasaltPotassiumNitrate.name=玄武岩硝酸钾矿石
     S:oredict.oreBasaltPowellite.name=玄武岩钼钙矿矿石
     S:oredict.oreBasaltPraseodymium.name=玄武岩镨矿石
     S:oredict.oreBasaltPrismane.name=玄武岩棱柱烷矿石
@@ -32776,7 +32776,7 @@ languagefile {
     S:oredict.oreBasaltSoapstone.name=玄武岩皂石矿石
     S:oredict.oreBasaltSodalite.name=玄武岩方钠石矿石
     S:oredict.oreBasaltSodium.name=玄武岩钠矿石
-    S:oredict.oreBasaltSodiumNitrate.name=Basalt 硝酸钠矿石
+    S:oredict.oreBasaltSodiumNitrate.name=玄武岩硝酸钠矿石
     S:oredict.oreBasaltSperrylite.name=玄武岩砷铂矿石
     S:oredict.oreBasaltSpessartine.name=玄武岩锰铝榴石矿石
     S:oredict.oreBasaltSphalerite.name=玄武岩闪锌矿矿石
@@ -33176,7 +33176,7 @@ languagefile {
     S:oredict.oreBedrockLigniteCoke.name=基岩焦化褐煤矿石
     S:oredict.oreBedrockLithium.name=基岩锂矿石
     S:oredict.oreBedrockLithium6.name=基岩锂-6矿石
-    S:oredict.oreBedrockLithiumChloride.name=Bedrock Lithium Chloride 矿石
+    S:oredict.oreBedrockLithiumChloride.name=基岩氯化锂矿石
     S:oredict.oreBedrockLivermorium.name=基岩鉝矿石
     S:oredict.oreBedrockLonsdaleite.name=基岩六方碳矿石
     S:oredict.oreBedrockLudicrite.name=基岩滑稽矿石
@@ -33184,7 +33184,7 @@ languagefile {
     S:oredict.oreBedrockMagnesite.name=基岩菱镁矿矿石
     S:oredict.oreBedrockMagnesium.name=基岩镁矿石
     S:oredict.oreBedrockMagnesiumCarbonate.name=基岩碳酸镁矿石
-    S:oredict.oreBedrockMagnesiumChloride.name=Bedrock Magnesium Chloride 矿石
+    S:oredict.oreBedrockMagnesiumChloride.name=基岩氯化镁矿石
     S:oredict.oreBedrockMagnetite.name=基岩磁铁矿矿石
     S:oredict.oreBedrockMalachite.name=基岩孔雀石矿石
     S:oredict.oreBedrockManaQuartz.name=Bedrock Mana Quartz Ore
@@ -33194,7 +33194,7 @@ languagefile {
     S:oredict.oreBedrockMendelevium.name=基岩钔矿石
     S:oredict.oreBedrockMercury.name=基岩汞矿石
     S:oredict.oreBedrockMeteoricIron.name=基岩陨铁矿石
-    S:oredict.oreBedrockMeteorite.name=Bedrock 陨石 矿石
+    S:oredict.oreBedrockMeteorite.name=基岩陨石矿石
     S:oredict.oreBedrockMeutoite.name=基岩龙之魂石矿石
     S:oredict.oreBedrockMica.name=基岩云母矿石
     S:oredict.oreBedrockMidasium.name=基岩溶火金矿石
@@ -33247,7 +33247,7 @@ languagefile {
     S:oredict.oreBedrockPolonium.name=基岩钋矿石
     S:oredict.oreBedrockPotassium.name=基岩钾矿石
     S:oredict.oreBedrockPotassiumFeldspar.name=基岩钾长石矿石
-    S:oredict.oreBedrockPotassiumNitrate.name=Bedrock Potassium Nitrate 矿石
+    S:oredict.oreBedrockPotassiumNitrate.name=基岩硝酸钾矿石
     S:oredict.oreBedrockPowellite.name=基岩钼钙矿矿石
     S:oredict.oreBedrockPraseodymium.name=基岩镨矿石
     S:oredict.oreBedrockPrismane.name=基岩棱柱烷矿石
@@ -33297,7 +33297,7 @@ languagefile {
     S:oredict.oreBedrockSoapstone.name=基岩皂石矿石
     S:oredict.oreBedrockSodalite.name=基岩方钠石矿石
     S:oredict.oreBedrockSodium.name=基岩钠矿石
-    S:oredict.oreBedrockSodiumNitrate.name=Bedrock 硝酸钠矿石
+    S:oredict.oreBedrockSodiumNitrate.name=基岩硝酸钠矿石
     S:oredict.oreBedrockSperrylite.name=基岩砷铂矿石
     S:oredict.oreBedrockSpessartine.name=基岩锰铝榴石矿石
     S:oredict.oreBedrockSphalerite.name=基岩闪锌矿矿石
@@ -33697,7 +33697,7 @@ languagefile {
     S:oredict.oreBlackgraniteLigniteCoke.name=黑色花岗岩焦化褐煤矿石
     S:oredict.oreBlackgraniteLithium.name=黑色花岗岩锂矿石
     S:oredict.oreBlackgraniteLithium6.name=黑色花岗岩锂-6矿石
-    S:oredict.oreBlackgraniteLithiumChloride.name=Granite Lithium Chloride 矿石
+    S:oredict.oreBlackgraniteLithiumChloride.name=黑色花岗岩氯化锂矿石
     S:oredict.oreBlackgraniteLivermorium.name=黑色花岗岩鉝矿石
     S:oredict.oreBlackgraniteLonsdaleite.name=黑色花岗岩六方碳矿石
     S:oredict.oreBlackgraniteLudicrite.name=黑色花岗岩滑稽矿石
@@ -33705,7 +33705,7 @@ languagefile {
     S:oredict.oreBlackgraniteMagnesite.name=黑色花岗岩菱镁矿矿石
     S:oredict.oreBlackgraniteMagnesium.name=黑色花岗岩镁矿石
     S:oredict.oreBlackgraniteMagnesiumCarbonate.name=黑色花岗岩碳酸镁矿石
-    S:oredict.oreBlackgraniteMagnesiumChloride.name=Granite Magnesium Chloride 矿石
+    S:oredict.oreBlackgraniteMagnesiumChloride.name=黑色花岗岩氯化镁矿石
     S:oredict.oreBlackgraniteMagnetite.name=黑色花岗岩磁铁矿矿石
     S:oredict.oreBlackgraniteMalachite.name=黑色花岗岩孔雀石矿石
     S:oredict.oreBlackgraniteManaQuartz.name=Granite Mana Quartz Ore
@@ -33715,7 +33715,7 @@ languagefile {
     S:oredict.oreBlackgraniteMendelevium.name=黑色花岗岩钔矿石
     S:oredict.oreBlackgraniteMercury.name=黑色花岗岩汞矿石
     S:oredict.oreBlackgraniteMeteoricIron.name=黑色花岗岩陨铁矿石
-    S:oredict.oreBlackgraniteMeteorite.name=Granite 陨石 矿石
+    S:oredict.oreBlackgraniteMeteorite.name=黑色花岗岩陨石矿石
     S:oredict.oreBlackgraniteMeutoite.name=黑色花岗岩龙之魂石矿石
     S:oredict.oreBlackgraniteMica.name=黑色花岗岩云母矿石
     S:oredict.oreBlackgraniteMidasium.name=黑色花岗岩溶火金矿石
@@ -33768,7 +33768,7 @@ languagefile {
     S:oredict.oreBlackgranitePolonium.name=黑色花岗岩钋矿石
     S:oredict.oreBlackgranitePotassium.name=黑色花岗岩钾矿石
     S:oredict.oreBlackgranitePotassiumFeldspar.name=黑色花岗岩钾长石矿石
-    S:oredict.oreBlackgranitePotassiumNitrate.name=Granite Potassium Nitrate 矿石
+    S:oredict.oreBlackgranitePotassiumNitrate.name=黑色花岗岩硝酸钾矿石
     S:oredict.oreBlackgranitePowellite.name=黑色花岗岩钼钙矿矿石
     S:oredict.oreBlackgranitePraseodymium.name=黑色花岗岩镨矿石
     S:oredict.oreBlackgranitePrismane.name=黑色花岗岩棱柱烷矿石
@@ -33818,7 +33818,7 @@ languagefile {
     S:oredict.oreBlackgraniteSoapstone.name=黑色花岗岩皂石矿石
     S:oredict.oreBlackgraniteSodalite.name=黑色花岗岩方钠石矿石
     S:oredict.oreBlackgraniteSodium.name=黑色花岗岩钠矿石
-    S:oredict.oreBlackgraniteSodiumNitrate.name=Granite 硝酸钠矿石
+    S:oredict.oreBlackgraniteSodiumNitrate.name=黑色花岗岩硝酸钠矿石
     S:oredict.oreBlackgraniteSperrylite.name=黑色花岗岩砷铂矿石
     S:oredict.oreBlackgraniteSpessartine.name=黑色花岗岩锰铝榴石矿石
     S:oredict.oreBlackgraniteSphalerite.name=黑色花岗岩闪锌矿矿石
@@ -34268,7 +34268,7 @@ languagefile {
     S:oredict.oreDioriteLigniteCoke.name=闪长岩焦化褐煤矿石
     S:oredict.oreDioriteLithium.name=闪长岩锂矿石
     S:oredict.oreDioriteLithium6.name=闪长岩锂-6矿石
-    S:oredict.oreDioriteLithiumChloride.name=Diorite Lithium Chloride 矿石
+    S:oredict.oreDioriteLithiumChloride.name=闪长岩氯化锂矿石
     S:oredict.oreDioriteLivermorium.name=闪长岩鉝矿石
     S:oredict.oreDioriteLonsdaleite.name=闪长岩六方碳矿石
     S:oredict.oreDioriteLudicrite.name=闪长岩滑稽矿石
@@ -34276,7 +34276,7 @@ languagefile {
     S:oredict.oreDioriteMagnesite.name=闪长岩菱镁矿矿石
     S:oredict.oreDioriteMagnesium.name=闪长岩镁矿石
     S:oredict.oreDioriteMagnesiumCarbonate.name=闪长岩碳酸镁矿石
-    S:oredict.oreDioriteMagnesiumChloride.name=Diorite Magnesium Chloride 矿石
+    S:oredict.oreDioriteMagnesiumChloride.name=闪长岩氯化镁矿石
     S:oredict.oreDioriteMagnetite.name=闪长岩磁铁矿矿石
     S:oredict.oreDioriteMalachite.name=闪长岩孔雀石矿石
     S:oredict.oreDioriteManaQuartz.name=Diorite Mana Quartz Ore
@@ -34286,7 +34286,7 @@ languagefile {
     S:oredict.oreDioriteMendelevium.name=闪长岩钔矿石
     S:oredict.oreDioriteMercury.name=闪长岩汞矿石
     S:oredict.oreDioriteMeteoricIron.name=闪长岩陨铁矿石
-    S:oredict.oreDioriteMeteorite.name=Diorite 陨石 矿石
+    S:oredict.oreDioriteMeteorite.name=闪长岩陨石矿石
     S:oredict.oreDioriteMeutoite.name=闪长岩龙之魂石矿石
     S:oredict.oreDioriteMica.name=闪长岩云母矿石
     S:oredict.oreDioriteMidasium.name=闪长岩溶火金矿石
@@ -34339,7 +34339,7 @@ languagefile {
     S:oredict.oreDioritePolonium.name=闪长岩钋矿石
     S:oredict.oreDioritePotassium.name=闪长岩钾矿石
     S:oredict.oreDioritePotassiumFeldspar.name=闪长岩钾长石矿石
-    S:oredict.oreDioritePotassiumNitrate.name=Diorite Potassium Nitrate 矿石
+    S:oredict.oreDioritePotassiumNitrate.name=闪长岩硝酸钾矿石
     S:oredict.oreDioritePowellite.name=闪长岩钼钙矿矿石
     S:oredict.oreDioritePraseodymium.name=闪长岩镨矿石
     S:oredict.oreDioritePrismane.name=闪长岩棱柱烷矿石
@@ -34389,7 +34389,7 @@ languagefile {
     S:oredict.oreDioriteSoapstone.name=闪长岩皂石矿石
     S:oredict.oreDioriteSodalite.name=闪长岩方钠石矿石
     S:oredict.oreDioriteSodium.name=闪长岩钠矿石
-    S:oredict.oreDioriteSodiumNitrate.name=Diorite 硝酸钠矿石
+    S:oredict.oreDioriteSodiumNitrate.name=闪长岩硝酸钠矿石
     S:oredict.oreDioriteSperrylite.name=闪长岩砷铂矿石
     S:oredict.oreDioriteSpessartine.name=闪长岩锰铝榴石矿石
     S:oredict.oreDioriteSphalerite.name=闪长岩闪锌矿矿石
@@ -34803,7 +34803,7 @@ languagefile {
     S:oredict.oreEndstoneLigniteCoke.name=末地焦化褐煤矿石
     S:oredict.oreEndstoneLithium.name=末地锂矿石
     S:oredict.oreEndstoneLithium6.name=末地锂-6矿石
-    S:oredict.oreEndstoneLithiumChloride.name=End Lithium Chloride 矿石
+    S:oredict.oreEndstoneLithiumChloride.name=末地氯化锂矿石
     S:oredict.oreEndstoneLivermorium.name=末地鉝矿石
     S:oredict.oreEndstoneLonsdaleite.name=末地六方碳矿石
     S:oredict.oreEndstoneLudicrite.name=末地滑稽矿石
@@ -34811,7 +34811,7 @@ languagefile {
     S:oredict.oreEndstoneMagnesite.name=末地菱镁矿矿石
     S:oredict.oreEndstoneMagnesium.name=末地镁矿石
     S:oredict.oreEndstoneMagnesiumCarbonate.name=末地碳酸镁矿石
-    S:oredict.oreEndstoneMagnesiumChloride.name=End Magnesium Chloride 矿石
+    S:oredict.oreEndstoneMagnesiumChloride.name=末地氯化镁矿石
     S:oredict.oreEndstoneMagnetite.name=末地磁铁矿矿石
     S:oredict.oreEndstoneMalachite.name=末地孔雀石矿石
     S:oredict.oreEndstoneManaQuartz.name=End Mana Quartz Ore
@@ -34821,7 +34821,7 @@ languagefile {
     S:oredict.oreEndstoneMendelevium.name=末地钔矿石
     S:oredict.oreEndstoneMercury.name=末地汞矿石
     S:oredict.oreEndstoneMeteoricIron.name=末地陨铁矿石
-    S:oredict.oreEndstoneMeteorite.name=End 陨石 矿石
+    S:oredict.oreEndstoneMeteorite.name=末地陨石矿石
     S:oredict.oreEndstoneMeutoite.name=末地龙之魂石矿石
     S:oredict.oreEndstoneMica.name=末地云母矿石
     S:oredict.oreEndstoneMidasium.name=末地溶火金矿石
@@ -34874,7 +34874,7 @@ languagefile {
     S:oredict.oreEndstonePolonium.name=末地钋矿石
     S:oredict.oreEndstonePotassium.name=末地钾矿石
     S:oredict.oreEndstonePotassiumFeldspar.name=末地钾长石矿石
-    S:oredict.oreEndstonePotassiumNitrate.name=End Potassium Nitrate 矿石
+    S:oredict.oreEndstonePotassiumNitrate.name=末地硝酸钾矿石
     S:oredict.oreEndstonePowellite.name=末地钼钙矿矿石
     S:oredict.oreEndstonePraseodymium.name=末地镨矿石
     S:oredict.oreEndstonePrismane.name=末地棱柱烷矿石
@@ -34924,7 +34924,7 @@ languagefile {
     S:oredict.oreEndstoneSoapstone.name=末地皂石矿石
     S:oredict.oreEndstoneSodalite.name=末地方钠石矿石
     S:oredict.oreEndstoneSodium.name=末地钠矿石
-    S:oredict.oreEndstoneSodiumNitrate.name=End 硝酸钠矿石
+    S:oredict.oreEndstoneSodiumNitrate.name=末地硝酸钠矿石
     S:oredict.oreEndstoneSperrylite.name=末地砷铂矿石
     S:oredict.oreEndstoneSpessartine.name=末地锰铝榴石矿石
     S:oredict.oreEndstoneSphalerite.name=末地闪锌矿矿石
@@ -35922,7 +35922,7 @@ languagefile {
     S:oredict.oreLimestoneLigniteCoke.name=石灰岩焦化褐煤矿石
     S:oredict.oreLimestoneLithium.name=石灰岩锂矿石
     S:oredict.oreLimestoneLithium6.name=石灰岩锂-6矿石
-    S:oredict.oreLimestoneLithiumChloride.name=石灰岩 Lithium Chloride 矿石
+    S:oredict.oreLimestoneLithiumChloride.name=石灰岩氯化锂矿石
     S:oredict.oreLimestoneLivermorium.name=石灰岩鉝矿石
     S:oredict.oreLimestoneLonsdaleite.name=石灰岩六方碳矿石
     S:oredict.oreLimestoneLudicrite.name=石灰岩滑稽矿石
@@ -35930,7 +35930,7 @@ languagefile {
     S:oredict.oreLimestoneMagnesite.name=石灰岩菱镁矿矿石
     S:oredict.oreLimestoneMagnesium.name=石灰岩镁矿石
     S:oredict.oreLimestoneMagnesiumCarbonate.name=石灰岩碳酸镁矿石
-    S:oredict.oreLimestoneMagnesiumChloride.name=石灰岩 Magnesium Chloride 矿石
+    S:oredict.oreLimestoneMagnesiumChloride.name=石灰岩氯化镁矿石
     S:oredict.oreLimestoneMagnetite.name=石灰岩磁铁矿矿石
     S:oredict.oreLimestoneMalachite.name=石灰岩孔雀石矿石
     S:oredict.oreLimestoneManaQuartz.name=Limestone Mana Quartz Ore
@@ -35940,7 +35940,7 @@ languagefile {
     S:oredict.oreLimestoneMendelevium.name=石灰岩钔矿石
     S:oredict.oreLimestoneMercury.name=石灰岩汞矿石
     S:oredict.oreLimestoneMeteoricIron.name=石灰岩陨铁矿石
-    S:oredict.oreLimestoneMeteorite.name=Limestone 陨石 矿石
+    S:oredict.oreLimestoneMeteorite.name=石灰岩陨石矿石
     S:oredict.oreLimestoneMeutoite.name=石灰岩龙之魂石矿石
     S:oredict.oreLimestoneMica.name=石灰岩云母矿石
     S:oredict.oreLimestoneMidasium.name=石灰岩溶火金矿石
@@ -35993,7 +35993,7 @@ languagefile {
     S:oredict.oreLimestonePolonium.name=石灰岩钋矿石
     S:oredict.oreLimestonePotassium.name=石灰岩钾矿石
     S:oredict.oreLimestonePotassiumFeldspar.name=石灰岩钾长石矿石
-    S:oredict.oreLimestonePotassiumNitrate.name=石灰岩 Potassium Nitrate 矿石
+    S:oredict.oreLimestonePotassiumNitrate.name=石灰岩硝酸钾矿石
     S:oredict.oreLimestonePowellite.name=石灰岩钼钙矿矿石
     S:oredict.oreLimestonePraseodymium.name=石灰岩镨矿石
     S:oredict.oreLimestonePrismane.name=石灰岩棱柱烷矿石
@@ -36043,7 +36043,7 @@ languagefile {
     S:oredict.oreLimestoneSoapstone.name=石灰岩皂石矿石
     S:oredict.oreLimestoneSodalite.name=石灰岩方钠石矿石
     S:oredict.oreLimestoneSodium.name=石灰岩钠矿石
-    S:oredict.oreLimestoneSodiumNitrate.name=石灰岩 硝酸钠矿石
+    S:oredict.oreLimestoneSodiumNitrate.name=石灰岩硝酸钠矿石
     S:oredict.oreLimestoneSperrylite.name=石灰岩砷铂矿石
     S:oredict.oreLimestoneSpessartine.name=石灰岩锰铝榴石矿石
     S:oredict.oreLimestoneSphalerite.name=石灰岩闪锌矿矿石
@@ -37975,7 +37975,7 @@ languagefile {
     S:oredict.oreMudLigniteCoke.name=淤泥焦化褐煤矿石
     S:oredict.oreMudLithium.name=淤泥锂矿石
     S:oredict.oreMudLithium6.name=淤泥锂-6矿石
-    S:oredict.oreMudLithiumChloride.name=Mud Lithium Chloride 矿石
+    S:oredict.oreMudLithiumChloride.name=淤泥氯化锂矿石
     S:oredict.oreMudLivermorium.name=淤泥鉝矿石
     S:oredict.oreMudLonsdaleite.name=淤泥六方碳矿石
     S:oredict.oreMudLudicrite.name=淤泥滑稽矿石
@@ -37983,7 +37983,7 @@ languagefile {
     S:oredict.oreMudMagnesite.name=淤泥菱镁矿矿石
     S:oredict.oreMudMagnesium.name=淤泥镁矿石
     S:oredict.oreMudMagnesiumCarbonate.name=淤泥碳酸镁矿石
-    S:oredict.oreMudMagnesiumChloride.name=Mud Magnesium Chloride 矿石
+    S:oredict.oreMudMagnesiumChloride.name=淤泥氯化镁矿石
     S:oredict.oreMudMagnetite.name=淤泥磁铁矿矿石
     S:oredict.oreMudMalachite.name=淤泥孔雀石矿石
     S:oredict.oreMudManaQuartz.name=Mud Mana Quartz Ore
@@ -37993,7 +37993,7 @@ languagefile {
     S:oredict.oreMudMendelevium.name=淤泥钔矿石
     S:oredict.oreMudMercury.name=淤泥汞矿石
     S:oredict.oreMudMeteoricIron.name=淤泥陨铁矿石
-    S:oredict.oreMudMeteorite.name=Mud 陨石 矿石
+    S:oredict.oreMudMeteorite.name=淤泥陨石矿石
     S:oredict.oreMudMeutoite.name=淤泥龙之魂石矿石
     S:oredict.oreMudMica.name=淤泥云母矿石
     S:oredict.oreMudMidasium.name=淤泥溶火金矿石
@@ -38046,7 +38046,7 @@ languagefile {
     S:oredict.oreMudPolonium.name=淤泥钋矿石
     S:oredict.oreMudPotassium.name=淤泥钾矿石
     S:oredict.oreMudPotassiumFeldspar.name=淤泥钾长石矿石
-    S:oredict.oreMudPotassiumNitrate.name=Mud Potassium Nitrate 矿石
+    S:oredict.oreMudPotassiumNitrate.name=淤泥硝酸钾矿石
     S:oredict.oreMudPowellite.name=淤泥钼钙矿矿石
     S:oredict.oreMudPraseodymium.name=淤泥镨矿石
     S:oredict.oreMudPrismane.name=淤泥棱柱烷矿石
@@ -38096,7 +38096,7 @@ languagefile {
     S:oredict.oreMudSoapstone.name=淤泥皂石矿石
     S:oredict.oreMudSodalite.name=淤泥方钠石矿石
     S:oredict.oreMudSodium.name=淤泥钠矿石
-    S:oredict.oreMudSodiumNitrate.name=Mud 硝酸钠矿石
+    S:oredict.oreMudSodiumNitrate.name=淤泥硝酸钠矿石
     S:oredict.oreMudSperrylite.name=淤泥砷铂矿石
     S:oredict.oreMudSpessartine.name=淤泥锰铝榴石矿石
     S:oredict.oreMudSphalerite.name=淤泥闪锌矿矿石
@@ -38497,7 +38497,7 @@ languagefile {
     S:oredict.oreNetherrackLigniteCoke.name=下界焦化褐煤矿石
     S:oredict.oreNetherrackLithium.name=下界锂矿石
     S:oredict.oreNetherrackLithium6.name=下界锂-6矿石
-    S:oredict.oreNetherrackLithiumChloride.name=Nether Lithium Chloride 矿石
+    S:oredict.oreNetherrackLithiumChloride.name=下界氯化锂矿石
     S:oredict.oreNetherrackLivermorium.name=下界鉝矿石
     S:oredict.oreNetherrackLonsdaleite.name=下界六方碳矿石
     S:oredict.oreNetherrackLudicrite.name=下界滑稽矿石
@@ -38505,7 +38505,7 @@ languagefile {
     S:oredict.oreNetherrackMagnesite.name=下界菱镁矿矿石
     S:oredict.oreNetherrackMagnesium.name=下界镁矿石
     S:oredict.oreNetherrackMagnesiumCarbonate.name=下界碳酸镁矿石
-    S:oredict.oreNetherrackMagnesiumChloride.name=Nether Magnesium Chloride 矿石
+    S:oredict.oreNetherrackMagnesiumChloride.name=下界氯化镁矿石
     S:oredict.oreNetherrackMagnetite.name=下界磁铁矿矿石
     S:oredict.oreNetherrackMalachite.name=下界孔雀石矿石
     S:oredict.oreNetherrackManaQuartz.name=Nether Mana Quartz Ore
@@ -38515,7 +38515,7 @@ languagefile {
     S:oredict.oreNetherrackMendelevium.name=下界钔矿石
     S:oredict.oreNetherrackMercury.name=下界汞矿石
     S:oredict.oreNetherrackMeteoricIron.name=下界陨铁矿石
-    S:oredict.oreNetherrackMeteorite.name=Nether 陨石 矿石
+    S:oredict.oreNetherrackMeteorite.name=下界陨石矿石
     S:oredict.oreNetherrackMeutoite.name=下界龙之魂石矿石
     S:oredict.oreNetherrackMica.name=下界云母矿石
     S:oredict.oreNetherrackMidasium.name=下界溶火金矿石
@@ -38568,7 +38568,7 @@ languagefile {
     S:oredict.oreNetherrackPolonium.name=下界钋矿石
     S:oredict.oreNetherrackPotassium.name=下界钾矿石
     S:oredict.oreNetherrackPotassiumFeldspar.name=下界钾长石矿石
-    S:oredict.oreNetherrackPotassiumNitrate.name=Nether Potassium Nitrate 矿石
+    S:oredict.oreNetherrackPotassiumNitrate.name=下界硝酸钾矿石
     S:oredict.oreNetherrackPowellite.name=下界钼钙矿矿石
     S:oredict.oreNetherrackPraseodymium.name=下界镨矿石
     S:oredict.oreNetherrackPrismane.name=下界棱柱烷矿石
@@ -38618,7 +38618,7 @@ languagefile {
     S:oredict.oreNetherrackSoapstone.name=下界皂石矿石
     S:oredict.oreNetherrackSodalite.name=下界方钠石矿石
     S:oredict.oreNetherrackSodium.name=下界钠矿石
-    S:oredict.oreNetherrackSodiumNitrate.name=Nether 硝酸钠矿石
+    S:oredict.oreNetherrackSodiumNitrate.name=下界硝酸钠矿石
     S:oredict.oreNetherrackSperrylite.name=下界砷铂矿石
     S:oredict.oreNetherrackSpessartine.name=下界锰铝榴石矿石
     S:oredict.oreNetherrackSphalerite.name=下界闪锌矿矿石
@@ -39592,7 +39592,7 @@ languagefile {
     S:oredict.oreRedgraniteLigniteCoke.name=红色花岗岩焦化褐煤矿石
     S:oredict.oreRedgraniteLithium.name=红色花岗岩锂矿石
     S:oredict.oreRedgraniteLithium6.name=红色花岗岩锂-6矿石
-    S:oredict.oreRedgraniteLithiumChloride.name=Granite Lithium Chloride 矿石
+    S:oredict.oreRedgraniteLithiumChloride.name=红色花岗岩氯化锂矿石
     S:oredict.oreRedgraniteLivermorium.name=红色花岗岩鉝矿石
     S:oredict.oreRedgraniteLonsdaleite.name=红色花岗岩六方碳矿石
     S:oredict.oreRedgraniteLudicrite.name=红色花岗岩滑稽矿石
@@ -39600,7 +39600,7 @@ languagefile {
     S:oredict.oreRedgraniteMagnesite.name=红色花岗岩菱镁矿矿石
     S:oredict.oreRedgraniteMagnesium.name=红色花岗岩镁矿石
     S:oredict.oreRedgraniteMagnesiumCarbonate.name=红色花岗岩碳酸镁矿石
-    S:oredict.oreRedgraniteMagnesiumChloride.name=Granite Magnesium Chloride 矿石
+    S:oredict.oreRedgraniteMagnesiumChloride.name=红色花岗岩氯化镁矿石
     S:oredict.oreRedgraniteMagnetite.name=红色花岗岩磁铁矿矿石
     S:oredict.oreRedgraniteMalachite.name=红色花岗岩孔雀石矿石
     S:oredict.oreRedgraniteManaQuartz.name=Granite Mana Quartz Ore
@@ -39610,7 +39610,7 @@ languagefile {
     S:oredict.oreRedgraniteMendelevium.name=红色花岗岩钔矿石
     S:oredict.oreRedgraniteMercury.name=红色花岗岩汞矿石
     S:oredict.oreRedgraniteMeteoricIron.name=红色花岗岩陨铁矿石
-    S:oredict.oreRedgraniteMeteorite.name=Granite 陨石 矿石
+    S:oredict.oreRedgraniteMeteorite.name=红色花岗岩陨石矿石
     S:oredict.oreRedgraniteMeutoite.name=红色花岗岩龙之魂石矿石
     S:oredict.oreRedgraniteMica.name=红色花岗岩云母矿石
     S:oredict.oreRedgraniteMidasium.name=红色花岗岩溶火金矿石
@@ -39663,7 +39663,7 @@ languagefile {
     S:oredict.oreRedgranitePolonium.name=红色花岗岩钋矿石
     S:oredict.oreRedgranitePotassium.name=红色花岗岩钾矿石
     S:oredict.oreRedgranitePotassiumFeldspar.name=红色花岗岩钾长石矿石
-    S:oredict.oreRedgranitePotassiumNitrate.name=Granite Potassium Nitrate 矿石
+    S:oredict.oreRedgranitePotassiumNitrate.name=红色花岗岩硝酸钾矿石
     S:oredict.oreRedgranitePowellite.name=红色花岗岩钼钙矿矿石
     S:oredict.oreRedgranitePraseodymium.name=红色花岗岩镨矿石
     S:oredict.oreRedgranitePrismane.name=红色花岗岩棱柱烷矿石
@@ -39713,7 +39713,7 @@ languagefile {
     S:oredict.oreRedgraniteSoapstone.name=红色花岗岩皂石矿石
     S:oredict.oreRedgraniteSodalite.name=红色花岗岩方钠石矿石
     S:oredict.oreRedgraniteSodium.name=红色花岗岩钠矿石
-    S:oredict.oreRedgraniteSodiumNitrate.name=Granite 硝酸钠矿石
+    S:oredict.oreRedgraniteSodiumNitrate.name=红色花岗岩硝酸钠矿石
     S:oredict.oreRedgraniteSperrylite.name=红色花岗岩砷铂矿石
     S:oredict.oreRedgraniteSpessartine.name=红色花岗岩锰铝榴石矿石
     S:oredict.oreRedgraniteSphalerite.name=红色花岗岩闪锌矿矿石
@@ -41179,7 +41179,7 @@ languagefile {
     S:oredict.oreSmallLigniteCoke.name=贫瘠焦化褐煤矿石
     S:oredict.oreSmallLithium.name=贫瘠锂矿石
     S:oredict.oreSmallLithium6.name=贫瘠锂-6矿石
-    S:oredict.oreSmallLithiumChloride.name=Small Lithium Chloride 矿石
+    S:oredict.oreSmallLithiumChloride.name=贫瘠氯化锂矿石
     S:oredict.oreSmallLivermorium.name=贫瘠鉝矿石
     S:oredict.oreSmallLonsdaleite.name=贫瘠六方碳矿石
     S:oredict.oreSmallLudicrite.name=贫瘠滑稽矿石
@@ -41187,7 +41187,7 @@ languagefile {
     S:oredict.oreSmallMagnesite.name=贫瘠菱镁矿矿石
     S:oredict.oreSmallMagnesium.name=贫瘠镁矿石
     S:oredict.oreSmallMagnesiumCarbonate.name=贫瘠碳酸镁矿石
-    S:oredict.oreSmallMagnesiumChloride.name=Small Magnesium Chloride 矿石
+    S:oredict.oreSmallMagnesiumChloride.name=贫瘠氯化镁矿石
     S:oredict.oreSmallMagnetite.name=贫瘠磁铁矿矿石
     S:oredict.oreSmallMalachite.name=贫瘠孔雀石矿石
     S:oredict.oreSmallManaQuartz.name=Small Mana Quartz Ore
@@ -41197,7 +41197,7 @@ languagefile {
     S:oredict.oreSmallMendelevium.name=贫瘠钔矿石
     S:oredict.oreSmallMercury.name=贫瘠汞矿石
     S:oredict.oreSmallMeteoricIron.name=贫瘠陨铁矿石
-    S:oredict.oreSmallMeteorite.name=Small 陨石 矿石
+    S:oredict.oreSmallMeteorite.name=贫瘠陨石矿石
     S:oredict.oreSmallMeutoite.name=贫瘠龙之魂石矿石
     S:oredict.oreSmallMica.name=贫瘠云母矿石
     S:oredict.oreSmallMidasium.name=贫瘠溶火金矿石
@@ -41250,7 +41250,7 @@ languagefile {
     S:oredict.oreSmallPolonium.name=贫瘠钋矿石
     S:oredict.oreSmallPotassium.name=贫瘠钾矿石
     S:oredict.oreSmallPotassiumFeldspar.name=贫瘠钾长石矿石
-    S:oredict.oreSmallPotassiumNitrate.name=Small Potassium Nitrate 矿石
+    S:oredict.oreSmallPotassiumNitrate.name=贫瘠硝酸钾矿石
     S:oredict.oreSmallPowellite.name=贫瘠钼钙矿矿石
     S:oredict.oreSmallPraseodymium.name=贫瘠镨矿石
     S:oredict.oreSmallPrismane.name=贫瘠棱柱烷矿石
@@ -41300,7 +41300,7 @@ languagefile {
     S:oredict.oreSmallSoapstone.name=贫瘠皂石矿石
     S:oredict.oreSmallSodalite.name=贫瘠方钠石矿石
     S:oredict.oreSmallSodium.name=贫瘠钠矿石
-    S:oredict.oreSmallSodiumNitrate.name=Small 硝酸钠矿石
+    S:oredict.oreSmallSodiumNitrate.name=贫瘠硝酸钠矿石
     S:oredict.oreSmallSperrylite.name=贫瘠砷铂矿石
     S:oredict.oreSmallSpessartine.name=贫瘠锰铝榴石矿石
     S:oredict.oreSmallSphalerite.name=贫瘠闪锌矿矿石
@@ -42899,7 +42899,7 @@ languagefile {
     S:oredict.plantGtBerryLinOil.name=亚麻籽油莓
     S:oredict.plantGtBerryLithium.name=锂莓
     S:oredict.plantGtBerryLithium6.name=锂-6莓
-    S:oredict.plantGtBerryLithiumChloride.name=Lithium Chloride Berry
+    S:oredict.plantGtBerryLithiumChloride.name=氯化锂莓
     S:oredict.plantGtBerryLithiumOxide.name=氧化锂莓
     S:oredict.plantGtBerryLiveRoot.name=活根莓
     S:oredict.plantGtBerryLivermorium.name=鉝莓
@@ -42914,7 +42914,7 @@ languagefile {
     S:oredict.plantGtBerryMagnesite.name=菱镁矿莓
     S:oredict.plantGtBerryMagnesium.name=镁莓
     S:oredict.plantGtBerryMagnesiumCarbonate.name=碳酸镁莓
-    S:oredict.plantGtBerryMagnesiumChloride.name=Magnesium Chloride Berry
+    S:oredict.plantGtBerryMagnesiumChloride.name=氯化镁莓
     S:oredict.plantGtBerryMagnetite.name=磁铁矿莓
     S:oredict.plantGtBerryMalachite.name=孔雀石莓
     S:oredict.plantGtBerryManaQuartz.name=Mana Quartz Berry
@@ -42935,7 +42935,7 @@ languagefile {
     S:oredict.plantGtBerryMercury.name=汞莓
     S:oredict.plantGtBerryMeteoricIron.name=陨铁莓
     S:oredict.plantGtBerryMeteoricSteel.name=陨钢莓
-    S:oredict.plantGtBerryMeteorite.name=陨石 Berry
+    S:oredict.plantGtBerryMeteorite.name=陨石莓
     S:oredict.plantGtBerryMethane.name=甲烷莓
     S:oredict.plantGtBerryMethaneIce.name=甲烷冰莓
     S:oredict.plantGtBerryMeutoite.name=龙之魂石莓
@@ -43036,7 +43036,7 @@ languagefile {
     S:oredict.plantGtBerryPotassiumCarbonate.name=Potassium Carbonate Berry
     S:oredict.plantGtBerryPotassiumFeldspar.name=钾长石莓
     S:oredict.plantGtBerryPotassiumHydroxide.name=氢氧化钾莓
-    S:oredict.plantGtBerryPotassiumNitrate.name=Potassium Nitrate Berry
+    S:oredict.plantGtBerryPotassiumNitrate.name=硝酸钾莓
     S:oredict.plantGtBerryPotassiumPersulfate.name=Potassium Persulfate Berry
     S:oredict.plantGtBerryPotassiumPyrosulfate.name=焦硫酸钾莓
     S:oredict.plantGtBerryPotassiumSulfate.name=硫酸钾莓
@@ -43126,7 +43126,7 @@ languagefile {
     S:oredict.plantGtBerrySodiumBisulfate.name=硫酸氢钠莓
     S:oredict.plantGtBerrySodiumCarbonate.name=碳酸钠莓
     S:oredict.plantGtBerrySodiumHydroxide.name=氢氧化钠莓
-    S:oredict.plantGtBerrySodiumNitrate.name=硝酸钠 Berry
+    S:oredict.plantGtBerrySodiumNitrate.name=硝酸钠莓
     S:oredict.plantGtBerrySodiumPersulfate.name=过硫酸钠莓
     S:oredict.plantGtBerrySodiumPyrosulfate.name=焦硫酸钠莓
     S:oredict.plantGtBerrySodiumSulfate.name=硫酸钠莓
@@ -43774,7 +43774,7 @@ languagefile {
     S:oredict.plantGtBlossomLinOil.name=亚麻籽油花
     S:oredict.plantGtBlossomLithium.name=锂花
     S:oredict.plantGtBlossomLithium6.name=锂-6花
-    S:oredict.plantGtBlossomLithiumChloride.name=Lithium Chloride Blossom
+    S:oredict.plantGtBlossomLithiumChloride.name=氯化锂花
     S:oredict.plantGtBlossomLithiumOxide.name=氧化锂花
     S:oredict.plantGtBlossomLiveRoot.name=活根花
     S:oredict.plantGtBlossomLivermorium.name=鉝花
@@ -43789,7 +43789,7 @@ languagefile {
     S:oredict.plantGtBlossomMagnesite.name=菱镁矿花
     S:oredict.plantGtBlossomMagnesium.name=镁花
     S:oredict.plantGtBlossomMagnesiumCarbonate.name=碳酸镁花
-    S:oredict.plantGtBlossomMagnesiumChloride.name=Magnesium Chloride Blossom
+    S:oredict.plantGtBlossomMagnesiumChloride.name=氯化镁花
     S:oredict.plantGtBlossomMagnetite.name=磁铁矿花
     S:oredict.plantGtBlossomMalachite.name=孔雀石花
     S:oredict.plantGtBlossomManaQuartz.name=Mana Quartz Blossom
@@ -43810,7 +43810,7 @@ languagefile {
     S:oredict.plantGtBlossomMercury.name=汞花
     S:oredict.plantGtBlossomMeteoricIron.name=陨铁花
     S:oredict.plantGtBlossomMeteoricSteel.name=陨钢花
-    S:oredict.plantGtBlossomMeteorite.name=陨石 Blossom
+    S:oredict.plantGtBlossomMeteorite.name=陨石花
     S:oredict.plantGtBlossomMethane.name=甲烷花
     S:oredict.plantGtBlossomMethaneIce.name=甲烷冰花
     S:oredict.plantGtBlossomMeutoite.name=龙之魂石花
@@ -43911,7 +43911,7 @@ languagefile {
     S:oredict.plantGtBlossomPotassiumCarbonate.name=Potassium Carbonate Blossom
     S:oredict.plantGtBlossomPotassiumFeldspar.name=钾长石花
     S:oredict.plantGtBlossomPotassiumHydroxide.name=氢氧化钾花
-    S:oredict.plantGtBlossomPotassiumNitrate.name=Potassium Nitrate Blossom
+    S:oredict.plantGtBlossomPotassiumNitrate.name=硝酸钾花
     S:oredict.plantGtBlossomPotassiumPersulfate.name=Potassium Persulfate Blossom
     S:oredict.plantGtBlossomPotassiumPyrosulfate.name=焦硫酸钾花
     S:oredict.plantGtBlossomPotassiumSulfate.name=硫酸钾花
@@ -44001,7 +44001,7 @@ languagefile {
     S:oredict.plantGtBlossomSodiumBisulfate.name=硫酸氢钠花
     S:oredict.plantGtBlossomSodiumCarbonate.name=碳酸钠花
     S:oredict.plantGtBlossomSodiumHydroxide.name=氢氧化钠花
-    S:oredict.plantGtBlossomSodiumNitrate.name=硝酸钠 Blossom
+    S:oredict.plantGtBlossomSodiumNitrate.name=硝酸钠花
     S:oredict.plantGtBlossomSodiumPersulfate.name=过硫酸钠花
     S:oredict.plantGtBlossomSodiumPyrosulfate.name=焦硫酸钠花
     S:oredict.plantGtBlossomSodiumSulfate.name=硫酸钠花
@@ -44649,7 +44649,7 @@ languagefile {
     S:oredict.plantGtFiberLinOil.name=生亚麻籽油丝
     S:oredict.plantGtFiberLithium.name=生锂丝
     S:oredict.plantGtFiberLithium6.name=生锂-6丝
-    S:oredict.plantGtFiberLithiumChloride.name=Raw Lithium Chloride Fiber
+    S:oredict.plantGtFiberLithiumChloride.name=生氯化锂丝
     S:oredict.plantGtFiberLithiumOxide.name=生氧化锂丝
     S:oredict.plantGtFiberLiveRoot.name=生活根丝
     S:oredict.plantGtFiberLivermorium.name=生鉝丝
@@ -44664,7 +44664,7 @@ languagefile {
     S:oredict.plantGtFiberMagnesite.name=生菱镁矿丝
     S:oredict.plantGtFiberMagnesium.name=生镁丝
     S:oredict.plantGtFiberMagnesiumCarbonate.name=生碳酸镁丝
-    S:oredict.plantGtFiberMagnesiumChloride.name=Raw Magnesium Chloride Fiber
+    S:oredict.plantGtFiberMagnesiumChloride.name=生氯化镁丝
     S:oredict.plantGtFiberMagnetite.name=生磁铁矿丝
     S:oredict.plantGtFiberMalachite.name=生孔雀石丝
     S:oredict.plantGtFiberManaQuartz.name=Raw Mana Quartz Fiber
@@ -44685,7 +44685,7 @@ languagefile {
     S:oredict.plantGtFiberMercury.name=生汞丝
     S:oredict.plantGtFiberMeteoricIron.name=生陨铁丝
     S:oredict.plantGtFiberMeteoricSteel.name=生陨钢丝
-    S:oredict.plantGtFiberMeteorite.name=Raw 陨石 Fiber
+    S:oredict.plantGtFiberMeteorite.name=生陨石丝
     S:oredict.plantGtFiberMethane.name=生甲烷丝
     S:oredict.plantGtFiberMethaneIce.name=生甲烷冰丝
     S:oredict.plantGtFiberMeutoite.name=生龙之魂石丝
@@ -44786,7 +44786,7 @@ languagefile {
     S:oredict.plantGtFiberPotassiumCarbonate.name=Raw Potassium Carbonate Fiber
     S:oredict.plantGtFiberPotassiumFeldspar.name=生钾长石丝
     S:oredict.plantGtFiberPotassiumHydroxide.name=生氢氧化钾丝
-    S:oredict.plantGtFiberPotassiumNitrate.name=Raw Potassium Nitrate Fiber
+    S:oredict.plantGtFiberPotassiumNitrate.name=生硝酸钾丝
     S:oredict.plantGtFiberPotassiumPersulfate.name=Raw Potassium Persulfate Fiber
     S:oredict.plantGtFiberPotassiumPyrosulfate.name=生焦硫酸钾丝
     S:oredict.plantGtFiberPotassiumSulfate.name=生硫酸钾丝
@@ -44876,7 +44876,7 @@ languagefile {
     S:oredict.plantGtFiberSodiumBisulfate.name=生硫酸氢钠丝
     S:oredict.plantGtFiberSodiumCarbonate.name=生碳酸钠丝
     S:oredict.plantGtFiberSodiumHydroxide.name=生氢氧化钠丝
-    S:oredict.plantGtFiberSodiumNitrate.name=Raw 硝酸钠 Fiber
+    S:oredict.plantGtFiberSodiumNitrate.name=生硝酸钠丝
     S:oredict.plantGtFiberSodiumPersulfate.name=生过硫酸钠丝
     S:oredict.plantGtFiberSodiumPyrosulfate.name=生焦硫酸钠丝
     S:oredict.plantGtFiberSodiumSulfate.name=生硫酸钠丝
@@ -45524,7 +45524,7 @@ languagefile {
     S:oredict.plantGtTwigLinOil.name=亚麻籽油细枝
     S:oredict.plantGtTwigLithium.name=锂细枝
     S:oredict.plantGtTwigLithium6.name=锂-6细枝
-    S:oredict.plantGtTwigLithiumChloride.name=Lithium Chloride Twig
+    S:oredict.plantGtTwigLithiumChloride.name=氯化锂细枝
     S:oredict.plantGtTwigLithiumOxide.name=氧化锂细枝
     S:oredict.plantGtTwigLiveRoot.name=活根细枝
     S:oredict.plantGtTwigLivermorium.name=鉝细枝
@@ -45539,7 +45539,7 @@ languagefile {
     S:oredict.plantGtTwigMagnesite.name=菱镁矿细枝
     S:oredict.plantGtTwigMagnesium.name=镁细枝
     S:oredict.plantGtTwigMagnesiumCarbonate.name=碳酸镁细枝
-    S:oredict.plantGtTwigMagnesiumChloride.name=Magnesium Chloride Twig
+    S:oredict.plantGtTwigMagnesiumChloride.name=氯化镁细枝
     S:oredict.plantGtTwigMagnetite.name=磁铁矿细枝
     S:oredict.plantGtTwigMalachite.name=孔雀石细枝
     S:oredict.plantGtTwigManaQuartz.name=Mana Quartz Twig
@@ -45560,7 +45560,7 @@ languagefile {
     S:oredict.plantGtTwigMercury.name=汞细枝
     S:oredict.plantGtTwigMeteoricIron.name=陨铁细枝
     S:oredict.plantGtTwigMeteoricSteel.name=陨钢细枝
-    S:oredict.plantGtTwigMeteorite.name=陨石 Twig
+    S:oredict.plantGtTwigMeteorite.name=陨石细枝
     S:oredict.plantGtTwigMethane.name=甲烷细枝
     S:oredict.plantGtTwigMethaneIce.name=甲烷冰细枝
     S:oredict.plantGtTwigMeutoite.name=龙之魂石细枝
@@ -45661,7 +45661,7 @@ languagefile {
     S:oredict.plantGtTwigPotassiumCarbonate.name=Potassium Carbonate Twig
     S:oredict.plantGtTwigPotassiumFeldspar.name=钾长石细枝
     S:oredict.plantGtTwigPotassiumHydroxide.name=氢氧化钾细枝
-    S:oredict.plantGtTwigPotassiumNitrate.name=Potassium Nitrate Twig
+    S:oredict.plantGtTwigPotassiumNitrate.name=硝酸钾细枝
     S:oredict.plantGtTwigPotassiumPersulfate.name=Potassium Persulfate Twig
     S:oredict.plantGtTwigPotassiumPyrosulfate.name=焦硫酸钾细枝
     S:oredict.plantGtTwigPotassiumSulfate.name=硫酸钾细枝
@@ -45751,7 +45751,7 @@ languagefile {
     S:oredict.plantGtTwigSodiumBisulfate.name=硫酸氢钠细枝
     S:oredict.plantGtTwigSodiumCarbonate.name=碳酸钠细枝
     S:oredict.plantGtTwigSodiumHydroxide.name=氢氧化钠细枝
-    S:oredict.plantGtTwigSodiumNitrate.name=硝酸钠 Twig
+    S:oredict.plantGtTwigSodiumNitrate.name=硝酸钠细枝
     S:oredict.plantGtTwigSodiumPersulfate.name=过硫酸钠细枝
     S:oredict.plantGtTwigSodiumPyrosulfate.name=焦硫酸钠细枝
     S:oredict.plantGtTwigSodiumSulfate.name=硫酸钠细枝
@@ -46402,7 +46402,7 @@ languagefile {
     S:oredict.plantGtWartLinOil.name=亚麻籽油疣
     S:oredict.plantGtWartLithium.name=锂疣
     S:oredict.plantGtWartLithium6.name=锂-6疣
-    S:oredict.plantGtWartLithiumChloride.name=Lithium Chloride Wart
+    S:oredict.plantGtWartLithiumChloride.name=氯化锂疣
     S:oredict.plantGtWartLithiumOxide.name=氧化锂疣
     S:oredict.plantGtWartLiveRoot.name=活根疣
     S:oredict.plantGtWartLivermorium.name=鉝疣
@@ -46417,7 +46417,7 @@ languagefile {
     S:oredict.plantGtWartMagnesite.name=菱镁矿疣
     S:oredict.plantGtWartMagnesium.name=镁疣
     S:oredict.plantGtWartMagnesiumCarbonate.name=碳酸镁疣
-    S:oredict.plantGtWartMagnesiumChloride.name=Magnesium Chloride Wart
+    S:oredict.plantGtWartMagnesiumChloride.name=氯化镁疣
     S:oredict.plantGtWartMagnetite.name=磁铁矿疣
     S:oredict.plantGtWartMalachite.name=孔雀石疣
     S:oredict.plantGtWartManaQuartz.name=Mana Quartz Wart
@@ -46438,7 +46438,7 @@ languagefile {
     S:oredict.plantGtWartMercury.name=汞疣
     S:oredict.plantGtWartMeteoricIron.name=陨铁疣
     S:oredict.plantGtWartMeteoricSteel.name=陨钢疣
-    S:oredict.plantGtWartMeteorite.name=陨石 Wart
+    S:oredict.plantGtWartMeteorite.name=陨石疣
     S:oredict.plantGtWartMethane.name=甲烷疣
     S:oredict.plantGtWartMethaneIce.name=甲烷冰疣
     S:oredict.plantGtWartMeutoite.name=龙之魂石疣
@@ -46539,7 +46539,7 @@ languagefile {
     S:oredict.plantGtWartPotassiumCarbonate.name=Potassium Carbonate Wart
     S:oredict.plantGtWartPotassiumFeldspar.name=钾长石疣
     S:oredict.plantGtWartPotassiumHydroxide.name=氢氧化钾疣
-    S:oredict.plantGtWartPotassiumNitrate.name=Potassium Nitrate Wart
+    S:oredict.plantGtWartPotassiumNitrate.name=硝酸钾疣
     S:oredict.plantGtWartPotassiumPersulfate.name=Potassium Persulfate Wart
     S:oredict.plantGtWartPotassiumPyrosulfate.name=焦硫酸钾疣
     S:oredict.plantGtWartPotassiumSulfate.name=硫酸钾疣
@@ -46629,7 +46629,7 @@ languagefile {
     S:oredict.plantGtWartSodiumBisulfate.name=硫酸氢钠疣
     S:oredict.plantGtWartSodiumCarbonate.name=碳酸钠疣
     S:oredict.plantGtWartSodiumHydroxide.name=氢氧化钠疣
-    S:oredict.plantGtWartSodiumNitrate.name=硝酸钠 Wart
+    S:oredict.plantGtWartSodiumNitrate.name=硝酸钠疣
     S:oredict.plantGtWartSodiumPersulfate.name=过硫酸钠疣
     S:oredict.plantGtWartSodiumPyrosulfate.name=焦硫酸钠疣
     S:oredict.plantGtWartSodiumSulfate.name=硫酸钠疣
@@ -47240,7 +47240,7 @@ languagefile {
     S:oredict.plateCurvedMercury.name=弯曲汞板
     S:oredict.plateCurvedMeteoricIron.name=弯曲陨铁板
     S:oredict.plateCurvedMeteoricSteel.name=弯曲陨钢板
-    S:oredict.plateCurvedMeteorite.name=Curved 陨石 Plate
+    S:oredict.plateCurvedMeteorite.name=弯曲陨石板
     S:oredict.plateCurvedMeutoite.name=弯曲龙之魂石板
     S:oredict.plateCurvedMidasium.name=弯曲溶火金板
     S:oredict.plateCurvedMigmatite.name=弯曲混合岩板
@@ -47653,7 +47653,7 @@ languagefile {
     S:oredict.plateDenseMercury.name=致密汞板
     S:oredict.plateDenseMeteoricIron.name=致密陨铁板
     S:oredict.plateDenseMeteoricSteel.name=致密陨钢板
-    S:oredict.plateDenseMeteorite.name=Dense 陨石 Plate
+    S:oredict.plateDenseMeteorite.name=致密陨石板
     S:oredict.plateDenseMeutoite.name=致密龙之魂石板
     S:oredict.plateDenseMidasium.name=致密溶火金板
     S:oredict.plateDenseMithril.name=致密秘银板
@@ -48036,7 +48036,7 @@ languagefile {
     S:oredict.plateDoubleMercury.name=两重汞板
     S:oredict.plateDoubleMeteoricIron.name=两重陨铁板
     S:oredict.plateDoubleMeteoricSteel.name=两重陨钢板
-    S:oredict.plateDoubleMeteorite.name=Double 陨石 Plate
+    S:oredict.plateDoubleMeteorite.name=两重陨石板
     S:oredict.plateDoubleMeutoite.name=两重龙之魂石板
     S:oredict.plateDoubleMidasium.name=两重溶火金板
     S:oredict.plateDoubleMithril.name=两重秘银板
@@ -48475,7 +48475,7 @@ languagefile {
     S:oredict.plateMercury.name=汞板
     S:oredict.plateMeteoricIron.name=陨铁板
     S:oredict.plateMeteoricSteel.name=陨钢板
-    S:oredict.plateMeteorite.name=陨石 Plate
+    S:oredict.plateMeteorite.name=陨石板
     S:oredict.plateMeutoite.name=龙之魂石板
     S:oredict.plateMidasium.name=溶火金板
     S:oredict.plateMigmatite.name=混合岩板
@@ -48780,7 +48780,7 @@ languagefile {
     S:oredict.plateQuadrupleMercury.name=四重汞板
     S:oredict.plateQuadrupleMeteoricIron.name=四重陨铁板
     S:oredict.plateQuadrupleMeteoricSteel.name=四重陨钢板
-    S:oredict.plateQuadrupleMeteorite.name=Quadruple 陨石 Plate
+    S:oredict.plateQuadrupleMeteorite.name=四重陨石板
     S:oredict.plateQuadrupleMeutoite.name=四重龙之魂石板
     S:oredict.plateQuadrupleMidasium.name=四重溶火金板
     S:oredict.plateQuadrupleMithril.name=四重秘银板
@@ -49158,7 +49158,7 @@ languagefile {
     S:oredict.plateQuintupleMercury.name=五重汞板
     S:oredict.plateQuintupleMeteoricIron.name=五重陨铁板
     S:oredict.plateQuintupleMeteoricSteel.name=五重陨钢板
-    S:oredict.plateQuintupleMeteorite.name=Quintuple 陨石 Plate
+    S:oredict.plateQuintupleMeteorite.name=五重陨石板
     S:oredict.plateQuintupleMeutoite.name=五重龙之魂石板
     S:oredict.plateQuintupleMidasium.name=五重溶火金板
     S:oredict.plateQuintupleMithril.name=五重秘银板
@@ -49626,7 +49626,7 @@ languagefile {
     S:oredict.plateTinyMercury.name=小块汞板
     S:oredict.plateTinyMeteoricIron.name=小块陨铁板
     S:oredict.plateTinyMeteoricSteel.name=小块陨钢板
-    S:oredict.plateTinyMeteorite.name=Tiny 陨石 Plate
+    S:oredict.plateTinyMeteorite.name=小块陨石板
     S:oredict.plateTinyMeutoite.name=小块龙之魂石板
     S:oredict.plateTinyMidasium.name=小块溶火金板
     S:oredict.plateTinyMigmatite.name=小块混合岩板
@@ -50036,7 +50036,7 @@ languagefile {
     S:oredict.plateTripleMercury.name=三重汞板
     S:oredict.plateTripleMeteoricIron.name=三重陨铁板
     S:oredict.plateTripleMeteoricSteel.name=三重陨钢板
-    S:oredict.plateTripleMeteorite.name=Triple 陨石 Plate
+    S:oredict.plateTripleMeteorite.name=三重陨石板
     S:oredict.plateTripleMeutoite.name=三重龙之魂石板
     S:oredict.plateTripleMidasium.name=三重溶火金板
     S:oredict.plateTripleMithril.name=三重秘银板
@@ -50402,7 +50402,7 @@ languagefile {
     S:oredict.ringMaxixe.name=Maxixe Ring
     S:oredict.ringMeteoricIron.name=陨铁环
     S:oredict.ringMeteoricSteel.name=陨钢环
-    S:oredict.ringMeteorite.name=陨石 Ring
+    S:oredict.ringMeteorite.name=陨石环
     S:oredict.ringMidasium.name=溶火金环
     S:oredict.ringMigmatite.name=混合岩环
     S:oredict.ringMithril.name=秘银环
@@ -50899,7 +50899,7 @@ languagefile {
     S:oredict.rockGtMeitnerium.name=含䥑岩石
     S:oredict.rockGtMendelevium.name=含钔岩石
     S:oredict.rockGtMercury.name=含汞岩石
-    S:oredict.rockGtMeteoricIron.name=含陨铁岩石
+    S:oredict.rockGtMeteoricIron.name=陨石
     S:oredict.rockGtMeteorite.name=陨石
     S:oredict.rockGtMeutoite.name=含龙之魂石岩石
     S:oredict.rockGtMica.name=含云母岩石
@@ -51256,7 +51256,7 @@ languagefile {
     S:oredict.rotorMaxixe.name=Maxixe Rotor
     S:oredict.rotorMeteoricIron.name=陨铁转子
     S:oredict.rotorMeteoricSteel.name=陨钢转子
-    S:oredict.rotorMeteorite.name=陨石 Rotor
+    S:oredict.rotorMeteorite.name=陨石转子
     S:oredict.rotorMidasium.name=溶火金转子
     S:oredict.rotorMigmatite.name=混合岩转子
     S:oredict.rotorMithril.name=秘银转子
@@ -51558,7 +51558,7 @@ languagefile {
     S:oredict.roundMaxixe.name=Maxixe Round
     S:oredict.roundMeteoricIron.name=陨铁垫片
     S:oredict.roundMeteoricSteel.name=陨钢垫片
-    S:oredict.roundMeteorite.name=陨石 Round
+    S:oredict.roundMeteorite.name=陨石垫片
     S:oredict.roundMidasium.name=溶火金垫片
     S:oredict.roundMigmatite.name=混合岩垫片
     S:oredict.roundMithril.name=秘银垫片
@@ -52156,7 +52156,7 @@ languagefile {
     S:oredict.scrapGtLimestone.name=石灰石废料
     S:oredict.scrapGtLithium.name=锂废料
     S:oredict.scrapGtLithium6.name=锂-6废料
-    S:oredict.scrapGtLithiumChloride.name=Lithium Chloride 废料
+    S:oredict.scrapGtLithiumChloride.name=氯化锂废料
     S:oredict.scrapGtLithiumOxide.name=氧化锂废料
     S:oredict.scrapGtLiveRoot.name=活根废料
     S:oredict.scrapGtLivermorium.name=鉝废料
@@ -52169,7 +52169,7 @@ languagefile {
     S:oredict.scrapGtMagnesite.name=菱镁矿废料
     S:oredict.scrapGtMagnesium.name=镁废料
     S:oredict.scrapGtMagnesiumCarbonate.name=碳酸镁废料
-    S:oredict.scrapGtMagnesiumChloride.name=Magnesium Chloride 废料
+    S:oredict.scrapGtMagnesiumChloride.name=氯化镁废料
     S:oredict.scrapGtMagnetite.name=磁铁矿废料
     S:oredict.scrapGtMalachite.name=孔雀石废料
     S:oredict.scrapGtManaQuartz.name=Mana Quartz 废料
@@ -52279,7 +52279,7 @@ languagefile {
     S:oredict.scrapGtPotassiumCarbonate.name=Potassium Carbonate 废料
     S:oredict.scrapGtPotassiumFeldspar.name=钾长石废料
     S:oredict.scrapGtPotassiumHydroxide.name=氢氧化钾废料
-    S:oredict.scrapGtPotassiumNitrate.name=Potassium Nitrate 废料
+    S:oredict.scrapGtPotassiumNitrate.name=硝酸钾废料
     S:oredict.scrapGtPotassiumPersulfate.name=Potassium Persulfate 废料
     S:oredict.scrapGtPotassiumPyrosulfate.name=焦硫酸钾废料
     S:oredict.scrapGtPotassiumSulfate.name=硫酸钾废料
@@ -52841,7 +52841,7 @@ languagefile {
     S:oredict.screwMercury.name=汞螺丝
     S:oredict.screwMeteoricIron.name=陨铁螺丝
     S:oredict.screwMeteoricSteel.name=陨钢螺丝
-    S:oredict.screwMeteorite.name=陨石 Screw
+    S:oredict.screwMeteorite.name=陨石螺丝
     S:oredict.screwMeutoite.name=龙之魂石螺丝
     S:oredict.screwMidasium.name=溶火金螺丝
     S:oredict.screwMigmatite.name=混合岩螺丝
@@ -53172,7 +53172,7 @@ languagefile {
     S:oredict.shurikenMaxixe.name=Maxixe Shuriken
     S:oredict.shurikenMeteoricIron.name=陨铁飞镖
     S:oredict.shurikenMeteoricSteel.name=陨钢飞镖
-    S:oredict.shurikenMeteorite.name=Meteorite Shuriken
+    S:oredict.shurikenMeteorite.name=陨石飞镖
     S:oredict.shurikenMidasium.name=溶火金飞镖
     S:oredict.shurikenMigmatite.name=混合岩飞镖
     S:oredict.shurikenMithril.name=秘银飞镖
@@ -54466,7 +54466,7 @@ languagefile {
     S:oredict.stickLongMercury.name=长汞杆
     S:oredict.stickLongMeteoricIron.name=长陨铁杆
     S:oredict.stickLongMeteoricSteel.name=长陨钢杆
-    S:oredict.stickLongMeteorite.name=Long 陨石 Rod
+    S:oredict.stickLongMeteorite.name=长陨石杆
     S:oredict.stickLongMeutoite.name=长龙之魂石杆
     S:oredict.stickLongMidasium.name=长溶火金杆
     S:oredict.stickLongMigmatite.name=长混合岩杆
@@ -54667,7 +54667,7 @@ languagefile {
     S:oredict.stickMercury.name=汞杆
     S:oredict.stickMeteoricIron.name=陨铁杆
     S:oredict.stickMeteoricSteel.name=陨钢杆
-    S:oredict.stickMeteorite.name=陨石 Rod
+    S:oredict.stickMeteorite.name=陨石杆
     S:oredict.stickMeutoite.name=龙之魂石杆
     S:oredict.stickMidasium.name=溶火金杆
     S:oredict.stickMigmatite.name=混合岩杆
@@ -55325,7 +55325,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleMaxixe.name=Maxixe Double Axe Head
     S:oredict.toolHeadAxeDoubleMeteoricIron.name=陨铁双刃斧头
     S:oredict.toolHeadAxeDoubleMeteoricSteel.name=陨钢双刃斧头
-    S:oredict.toolHeadAxeDoubleMeteorite.name=陨石 Double Axe Head
+    S:oredict.toolHeadAxeDoubleMeteorite.name=陨石双刃斧头
     S:oredict.toolHeadAxeDoubleMidasium.name=溶火金双刃斧头
     S:oredict.toolHeadAxeDoubleMigmatite.name=混合岩双刃斧头
     S:oredict.toolHeadAxeDoubleMithril.name=秘银双刃斧头
@@ -55507,7 +55507,7 @@ languagefile {
     S:oredict.toolHeadAxeMaxixe.name=Maxixe Axe Head
     S:oredict.toolHeadAxeMeteoricIron.name=陨铁斧头
     S:oredict.toolHeadAxeMeteoricSteel.name=陨钢斧头
-    S:oredict.toolHeadAxeMeteorite.name=陨石 Axe Head
+    S:oredict.toolHeadAxeMeteorite.name=陨石斧头
     S:oredict.toolHeadAxeMidasium.name=溶火金斧头
     S:oredict.toolHeadAxeMigmatite.name=混合岩斧头
     S:oredict.toolHeadAxeMithril.name=秘银斧头
@@ -56218,7 +56218,7 @@ languagefile {
     S:oredict.toolHeadChiselMaxixe.name=Maxixe Chisel Head
     S:oredict.toolHeadChiselMeteoricIron.name=陨铁凿子头
     S:oredict.toolHeadChiselMeteoricSteel.name=陨钢凿子头
-    S:oredict.toolHeadChiselMeteorite.name=陨石 Chisel Head
+    S:oredict.toolHeadChiselMeteorite.name=陨石凿子头
     S:oredict.toolHeadChiselMidasium.name=溶火金凿子头
     S:oredict.toolHeadChiselMigmatite.name=混合岩凿子头
     S:oredict.toolHeadChiselMithril.name=秘银凿子头
@@ -56683,7 +56683,7 @@ languagefile {
     S:oredict.toolHeadDrillMaxixe.name=Maxixe Drill Tip
     S:oredict.toolHeadDrillMeteoricIron.name=陨铁钻头
     S:oredict.toolHeadDrillMeteoricSteel.name=陨钢钻头
-    S:oredict.toolHeadDrillMeteorite.name=陨石 Drill Tip
+    S:oredict.toolHeadDrillMeteorite.name=陨石钻头
     S:oredict.toolHeadDrillMidasium.name=溶火金钻头
     S:oredict.toolHeadDrillMigmatite.name=混合岩钻头
     S:oredict.toolHeadDrillMithril.name=秘银钻头
@@ -57158,7 +57158,7 @@ languagefile {
     S:oredict.toolHeadHammerMaxixe.name=Maxixe Hammer Head
     S:oredict.toolHeadHammerMeteoricIron.name=陨铁锤头
     S:oredict.toolHeadHammerMeteoricSteel.name=陨钢锤头
-    S:oredict.toolHeadHammerMeteorite.name=陨石 Hammer Head
+    S:oredict.toolHeadHammerMeteorite.name=陨石锤头
     S:oredict.toolHeadHammerMidasium.name=溶火金锤头
     S:oredict.toolHeadHammerMigmatite.name=混合岩锤头
     S:oredict.toolHeadHammerMithril.name=秘银锤头
@@ -57429,7 +57429,7 @@ languagefile {
     S:oredict.toolHeadHoeMaxixe.name=Maxixe Hoe Head
     S:oredict.toolHeadHoeMeteoricIron.name=陨铁锄头
     S:oredict.toolHeadHoeMeteoricSteel.name=陨钢锄头
-    S:oredict.toolHeadHoeMeteorite.name=陨石 Hoe Head
+    S:oredict.toolHeadHoeMeteorite.name=陨石锄头
     S:oredict.toolHeadHoeMidasium.name=溶火金锄头
     S:oredict.toolHeadHoeMigmatite.name=混合岩锄头
     S:oredict.toolHeadHoeMithril.name=秘银锄头
@@ -57666,7 +57666,7 @@ languagefile {
     S:oredict.toolHeadMaceMaxixe.name=Maxixe Mace Head
     S:oredict.toolHeadMaceMeteoricIron.name=陨铁狼牙棒槌头
     S:oredict.toolHeadMaceMeteoricSteel.name=陨钢狼牙棒槌头
-    S:oredict.toolHeadMaceMeteorite.name=Meteorite Mace Head
+    S:oredict.toolHeadMaceMeteorite.name=陨石狼牙棒槌头
     S:oredict.toolHeadMaceMidasium.name=溶火金狼牙棒槌头
     S:oredict.toolHeadMaceMithril.name=秘银狼牙棒槌头
     S:oredict.toolHeadMaceMolybdenum.name=钼狼牙棒槌头
@@ -57877,7 +57877,7 @@ languagefile {
     S:oredict.toolHeadMattockMaxixe.name=Maxixe Mattock Head
     S:oredict.toolHeadMattockMeteoricIron.name=陨铁鹤嘴锄头
     S:oredict.toolHeadMattockMeteoricSteel.name=陨钢鹤嘴锄头
-    S:oredict.toolHeadMattockMeteorite.name=Meteorite Mattock Head
+    S:oredict.toolHeadMattockMeteorite.name=陨石鹤嘴锄头
     S:oredict.toolHeadMattockMidasium.name=溶火金鹤嘴锄头
     S:oredict.toolHeadMattockMithril.name=秘银鹤嘴锄头
     S:oredict.toolHeadMattockMolybdenum.name=钼鹤嘴锄头
@@ -58174,7 +58174,7 @@ languagefile {
     S:oredict.toolHeadPickaxeMaxixe.name=Maxixe 镐头
     S:oredict.toolHeadPickaxeMeteoricIron.name=陨铁镐头
     S:oredict.toolHeadPickaxeMeteoricSteel.name=陨钢镐头
-    S:oredict.toolHeadPickaxeMeteorite.name=陨石 Pickaxe Head
+    S:oredict.toolHeadPickaxeMeteorite.name=陨石镐头
     S:oredict.toolHeadPickaxeMidasium.name=溶火金镐头
     S:oredict.toolHeadPickaxeMigmatite.name=混合岩镐头
     S:oredict.toolHeadPickaxeMithril.name=秘银镐头
@@ -58447,7 +58447,7 @@ languagefile {
     S:oredict.toolHeadPlowMaxixe.name=Maxixe Plow Head
     S:oredict.toolHeadPlowMeteoricIron.name=陨铁犁头
     S:oredict.toolHeadPlowMeteoricSteel.name=陨钢犁头
-    S:oredict.toolHeadPlowMeteorite.name=陨石 Plow Head
+    S:oredict.toolHeadPlowMeteorite.name=陨石犁头
     S:oredict.toolHeadPlowMidasium.name=溶火金犁头
     S:oredict.toolHeadPlowMigmatite.name=混合岩犁头
     S:oredict.toolHeadPlowMithril.name=秘银犁头
@@ -58720,7 +58720,7 @@ languagefile {
     S:oredict.toolHeadRawArrowMaxixe.name=Raw Maxixe 箭头
     S:oredict.toolHeadRawArrowMeteoricIron.name=粗糙的陨铁箭头
     S:oredict.toolHeadRawArrowMeteoricSteel.name=粗糙的陨钢箭头
-    S:oredict.toolHeadRawArrowMeteorite.name=Raw 陨石箭头
+    S:oredict.toolHeadRawArrowMeteorite.name=粗糙的陨石箭头
     S:oredict.toolHeadRawArrowMidasium.name=粗糙的溶火金箭头
     S:oredict.toolHeadRawArrowMigmatite.name=粗糙的混合岩箭头
     S:oredict.toolHeadRawArrowMithril.name=粗糙的秘银箭头
@@ -59046,7 +59046,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleMaxixe.name=Raw Maxixe Double Axe Head
     S:oredict.toolHeadRawAxeDoubleMeteoricIron.name=粗糙的陨铁双刃斧头
     S:oredict.toolHeadRawAxeDoubleMeteoricSteel.name=粗糙的陨钢双刃斧头
-    S:oredict.toolHeadRawAxeDoubleMeteorite.name=Raw 陨石 Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleMeteorite.name=粗糙的陨石双刃斧头
     S:oredict.toolHeadRawAxeDoubleMidasium.name=粗糙的溶火金双刃斧头
     S:oredict.toolHeadRawAxeDoubleMigmatite.name=粗糙的混合岩双刃斧头
     S:oredict.toolHeadRawAxeDoubleMithril.name=粗糙的秘银双刃斧头
@@ -59228,7 +59228,7 @@ languagefile {
     S:oredict.toolHeadRawAxeMaxixe.name=Raw Maxixe Axe Head
     S:oredict.toolHeadRawAxeMeteoricIron.name=粗糙的陨铁斧头
     S:oredict.toolHeadRawAxeMeteoricSteel.name=粗糙的陨钢斧头
-    S:oredict.toolHeadRawAxeMeteorite.name=Raw 陨石 Axe Head
+    S:oredict.toolHeadRawAxeMeteorite.name=粗糙的陨石斧头
     S:oredict.toolHeadRawAxeMidasium.name=粗糙的溶火金斧头
     S:oredict.toolHeadRawAxeMigmatite.name=粗糙的混合岩斧头
     S:oredict.toolHeadRawAxeMithril.name=粗糙的秘银斧头
@@ -59479,7 +59479,7 @@ languagefile {
     S:oredict.toolHeadRawChiselMaxixe.name=Raw Maxixe Chisel Head
     S:oredict.toolHeadRawChiselMeteoricIron.name=粗糙的陨铁凿子头
     S:oredict.toolHeadRawChiselMeteoricSteel.name=粗糙的陨钢凿子头
-    S:oredict.toolHeadRawChiselMeteorite.name=Raw 陨石 Chisel Head
+    S:oredict.toolHeadRawChiselMeteorite.name=粗糙的陨石凿子头
     S:oredict.toolHeadRawChiselMidasium.name=粗糙的溶火金凿子头
     S:oredict.toolHeadRawChiselMigmatite.name=粗糙的混合岩凿子头
     S:oredict.toolHeadRawChiselMithril.name=粗糙的秘银凿子头
@@ -59731,7 +59731,7 @@ languagefile {
     S:oredict.toolHeadRawHoeMaxixe.name=Raw Maxixe Hoe Head
     S:oredict.toolHeadRawHoeMeteoricIron.name=粗糙的陨铁锄头
     S:oredict.toolHeadRawHoeMeteoricSteel.name=粗糙的陨钢锄头
-    S:oredict.toolHeadRawHoeMeteorite.name=Raw 陨石 Hoe Head
+    S:oredict.toolHeadRawHoeMeteorite.name=粗糙的陨石锄头
     S:oredict.toolHeadRawHoeMidasium.name=粗糙的溶火金锄头
     S:oredict.toolHeadRawHoeMigmatite.name=粗糙的混合岩锄头
     S:oredict.toolHeadRawHoeMithril.name=粗糙的秘银锄头
@@ -59968,7 +59968,7 @@ languagefile {
     S:oredict.toolHeadRawMaceMaxixe.name=Raw Maxixe Mace Head
     S:oredict.toolHeadRawMaceMeteoricIron.name=粗糙的陨铁狼牙棒槌头
     S:oredict.toolHeadRawMaceMeteoricSteel.name=粗糙的陨钢狼牙棒槌头
-    S:oredict.toolHeadRawMaceMeteorite.name=Raw Meteorite Mace Head
+    S:oredict.toolHeadRawMaceMeteorite.name=粗糙的陨石狼牙棒槌头
     S:oredict.toolHeadRawMaceMidasium.name=粗糙的溶火金狼牙棒槌头
     S:oredict.toolHeadRawMaceMithril.name=粗糙的秘银狼牙棒槌头
     S:oredict.toolHeadRawMaceMolybdenum.name=粗糙的钼狼牙棒槌头
@@ -60179,7 +60179,7 @@ languagefile {
     S:oredict.toolHeadRawMattockMaxixe.name=Raw Maxixe Mattock Head
     S:oredict.toolHeadRawMattockMeteoricIron.name=粗糙的陨铁鹤嘴锄头
     S:oredict.toolHeadRawMattockMeteoricSteel.name=粗糙的陨钢鹤嘴锄头
-    S:oredict.toolHeadRawMattockMeteorite.name=Raw Meteorite Mattock Head
+    S:oredict.toolHeadRawMattockMeteorite.name=粗糙的陨石鹤嘴锄头
     S:oredict.toolHeadRawMattockMidasium.name=粗糙的溶火金鹤嘴锄头
     S:oredict.toolHeadRawMattockMithril.name=粗糙的秘银鹤嘴锄头
     S:oredict.toolHeadRawMattockMolybdenum.name=粗糙的钼鹤嘴锄头
@@ -60426,7 +60426,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeMaxixe.name=Raw Maxixe 镐头
     S:oredict.toolHeadRawPickaxeMeteoricIron.name=粗糙的陨铁镐头
     S:oredict.toolHeadRawPickaxeMeteoricSteel.name=粗糙的陨钢镐头
-    S:oredict.toolHeadRawPickaxeMeteorite.name=Raw 陨石 Pickaxe Head
+    S:oredict.toolHeadRawPickaxeMeteorite.name=粗糙的陨石镐头
     S:oredict.toolHeadRawPickaxeMidasium.name=粗糙的溶火金镐头
     S:oredict.toolHeadRawPickaxeMigmatite.name=粗糙的混合岩镐头
     S:oredict.toolHeadRawPickaxeMithril.name=粗糙的秘银镐头
@@ -60699,7 +60699,7 @@ languagefile {
     S:oredict.toolHeadRawPlowMaxixe.name=Raw Maxixe Plow Head
     S:oredict.toolHeadRawPlowMeteoricIron.name=粗糙的陨铁犁头
     S:oredict.toolHeadRawPlowMeteoricSteel.name=粗糙的陨钢犁头
-    S:oredict.toolHeadRawPlowMeteorite.name=Raw 陨石 Plow Head
+    S:oredict.toolHeadRawPlowMeteorite.name=粗糙的陨石犁头
     S:oredict.toolHeadRawPlowMidasium.name=粗糙的溶火金犁头
     S:oredict.toolHeadRawPlowMigmatite.name=粗糙的混合岩犁头
     S:oredict.toolHeadRawPlowMithril.name=粗糙的秘银犁头
@@ -61198,7 +61198,7 @@ languagefile {
     S:oredict.toolHeadRawSenseMaxixe.name=Raw Maxixe 镰刀片
     S:oredict.toolHeadRawSenseMeteoricIron.name=粗糙的陨铁镰刀片
     S:oredict.toolHeadRawSenseMeteoricSteel.name=粗糙的陨钢镰刀片
-    S:oredict.toolHeadRawSenseMeteorite.name=Raw 陨石镰刀片
+    S:oredict.toolHeadRawSenseMeteorite.name=粗糙的陨石镰刀片
     S:oredict.toolHeadRawSenseMidasium.name=粗糙的溶火金镰刀片
     S:oredict.toolHeadRawSenseMigmatite.name=粗糙的混合岩镰刀片
     S:oredict.toolHeadRawSenseMithril.name=粗糙的秘银镰刀片
@@ -61467,7 +61467,7 @@ languagefile {
     S:oredict.toolHeadRawShovelMaxixe.name=Raw Maxixe 铲头
     S:oredict.toolHeadRawShovelMeteoricIron.name=粗糙的陨铁锹头
     S:oredict.toolHeadRawShovelMeteoricSteel.name=粗糙的陨钢锹头
-    S:oredict.toolHeadRawShovelMeteorite.name=Raw 陨石锹头
+    S:oredict.toolHeadRawShovelMeteorite.name=粗糙的陨石锹头
     S:oredict.toolHeadRawShovelMidasium.name=粗糙的溶火金锹头
     S:oredict.toolHeadRawShovelMigmatite.name=粗糙的混合岩锹头
     S:oredict.toolHeadRawShovelMithril.name=粗糙的秘银锹头
@@ -61740,7 +61740,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeMaxixe.name=Raw Maxixe 铲头
     S:oredict.toolHeadRawSpadeMeteoricIron.name=粗糙的陨铁铲头
     S:oredict.toolHeadRawSpadeMeteoricSteel.name=粗糙的陨钢铲头
-    S:oredict.toolHeadRawSpadeMeteorite.name=Raw 陨石铲头
+    S:oredict.toolHeadRawSpadeMeteorite.name=粗糙的陨石铲头
     S:oredict.toolHeadRawSpadeMidasium.name=粗糙的溶火金铲头
     S:oredict.toolHeadRawSpadeMigmatite.name=粗糙的混合岩铲头
     S:oredict.toolHeadRawSpadeMithril.name=粗糙的秘银铲头
@@ -62013,7 +62013,7 @@ languagefile {
     S:oredict.toolHeadRawSwordMaxixe.name=Raw Maxixe 剑身
     S:oredict.toolHeadRawSwordMeteoricIron.name=粗糙的陨铁剑身
     S:oredict.toolHeadRawSwordMeteoricSteel.name=粗糙的陨钢剑身
-    S:oredict.toolHeadRawSwordMeteorite.name=Raw 陨石 Sword Blade
+    S:oredict.toolHeadRawSwordMeteorite.name=粗糙的陨石剑身
     S:oredict.toolHeadRawSwordMidasium.name=粗糙的溶火金剑身
     S:oredict.toolHeadRawSwordMigmatite.name=粗糙的混合岩剑身
     S:oredict.toolHeadRawSwordMithril.name=粗糙的秘银剑身
@@ -63792,7 +63792,7 @@ languagefile {
     S:oredict.toolHeadSwordMaxixe.name=Maxixe 剑身
     S:oredict.toolHeadSwordMeteoricIron.name=陨铁剑身
     S:oredict.toolHeadSwordMeteoricSteel.name=陨钢剑身
-    S:oredict.toolHeadSwordMeteorite.name=陨石 Sword Blade
+    S:oredict.toolHeadSwordMeteorite.name=陨石剑身
     S:oredict.toolHeadSwordMidasium.name=溶火金剑身
     S:oredict.toolHeadSwordMigmatite.name=混合岩剑身
     S:oredict.toolHeadSwordMithril.name=秘银剑身
@@ -64464,7 +64464,7 @@ languagefile {
     S:oredict.wireFineManyullyn.name=优良玛玉灵线缆
     S:oredict.wireFineMeteoricIron.name=优良陨铁线缆
     S:oredict.wireFineMeteoricSteel.name=优良陨钢线缆
-    S:oredict.wireFineMeteorite.name=Fine 陨石 Wire
+    S:oredict.wireFineMeteorite.name=优良陨石线缆
     S:oredict.wireFineMidasium.name=优良溶火金线缆
     S:oredict.wireFineMithril.name=优良秘银线缆
     S:oredict.wireFineMolybdenum.name=优良钼线缆
