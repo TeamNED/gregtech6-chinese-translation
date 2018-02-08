@@ -498,10 +498,22 @@
         "priority": 1000
     },
     {
+        "name": "oredict.dustPure.+",
+        "value": "Purified Pile of (?P<mw>.+)$",
+        "repl": "纯净{0}",
+        "priority": 900
+    },
+    {
         "name": "oredict.dustImpure.+",
         "value": "Impure Pile of (?P<mw>.+) (Dust|Powder)$",
         "repl": "含杂{0}粉",
         "priority": 1000
+    },
+    {
+        "name": "oredict.dustImpure.+",
+        "value": "Impure Pile of (?P<mw>.+)$",
+        "repl": "含杂{0}",
+        "priority": 900
     },
     {
         "name": "oredict.(block|plate|crateGt).+",

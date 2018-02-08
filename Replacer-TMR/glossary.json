@@ -925,7 +925,10 @@
     },
     "Kalendrite": "幽冥魂石",
     "Kanthal": "铁铬铝合金",
-    "Kaolinite": "高岭石",
+    "Kaolinite": {
+        ".*": "高岭石",
+        "oredict.*[Dd]ust.*": "高岭石粉"
+    },
     "Kerosine": "煤油",
     "Kesterite": "锌黄锡矿",
     "Knightmetal": "骑士金属",
@@ -1306,7 +1309,10 @@
     "Sunnarium": "太阳合金",
     "Surfing": "冲浪",
     "Swimming": "游泳",
-    "Talc": "滑石",
+    "Talc": {
+        ".*": "滑石",
+        "oredict.*[Dd]ust.*": "滑石粉"
+    },
     "Tantalite": "钽铁矿",
     "Tantalum": "钽",
     "Tanzanite": "坦桑石",

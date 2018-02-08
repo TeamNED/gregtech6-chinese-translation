@@ -13204,7 +13204,7 @@ languagefile {
     S:oredict.blockDustJasper.name=碧玉粉块
     S:oredict.blockDustKalendrite.name=幽冥魂石粉块
     S:oredict.blockDustKanthal.name=铁铬铝合金粉块
-    S:oredict.blockDustKaolinite.name=高岭石粉块
+    S:oredict.blockDustKaolinite.name=高岭石粉粉块
     S:oredict.blockDustKesterite.name=锌黄锡矿粉块
     S:oredict.blockDustKnightmetal.name=骑士金属粉块
     S:oredict.blockDustKomatiite.name=科马提岩粉块
@@ -13463,7 +13463,7 @@ languagefile {
     S:oredict.blockDustSulfur.name=硫粉块
     S:oredict.blockDustSunnarium.name=太阳合金粉块
     S:oredict.blockDustSunnyQuartz.name=Block of Sunny Quartz Dust
-    S:oredict.blockDustTalc.name=滑石粉块
+    S:oredict.blockDustTalc.name=滑石粉粉块
     S:oredict.blockDustTallow.name=魔法油脂粉块
     S:oredict.blockDustTantalite.name=钽铁矿粉块
     S:oredict.blockDustTantalum.name=钽粉块
@@ -19030,7 +19030,7 @@ languagefile {
     S:oredict.crateGtDustJasper.name=碧玉粉板条箱
     S:oredict.crateGtDustKalendrite.name=幽冥魂石粉板条箱
     S:oredict.crateGtDustKanthal.name=铁铬铝合金粉板条箱
-    S:oredict.crateGtDustKaolinite.name=高岭石板条箱
+    S:oredict.crateGtDustKaolinite.name=高岭石粉板条箱
     S:oredict.crateGtDustKesterite.name=锌黄锡矿粉板条箱
     S:oredict.crateGtDustKnightmetal.name=骑士金属粉板条箱
     S:oredict.crateGtDustKomatiite.name=科马提岩粉板条箱
@@ -19289,7 +19289,7 @@ languagefile {
     S:oredict.crateGtDustSulfur.name=硫粉板条箱
     S:oredict.crateGtDustSunnarium.name=太阳合金粉板条箱
     S:oredict.crateGtDustSunnyQuartz.name=Crate of Sunny Quartz Dust
-    S:oredict.crateGtDustTalc.name=滑石板条箱
+    S:oredict.crateGtDustTalc.name=滑石粉板条箱
     S:oredict.crateGtDustTallow.name=魔法油脂板条箱
     S:oredict.crateGtDustTantalite.name=钽铁矿粉板条箱
     S:oredict.crateGtDustTantalum.name=钽粉板条箱
@@ -24345,7 +24345,7 @@ languagefile {
     S:oredict.dustDiv72Jasper.name=1/72份碧玉粉
     S:oredict.dustDiv72Kalendrite.name=1/72份幽冥魂石粉
     S:oredict.dustDiv72Kanthal.name=1/72份铁铬铝合金粉
-    S:oredict.dustDiv72Kaolinite.name=1/72份高岭石
+    S:oredict.dustDiv72Kaolinite.name=1/72份高岭石粉
     S:oredict.dustDiv72Kesterite.name=1/72份锌黄锡矿粉
     S:oredict.dustDiv72Knightmetal.name=1/72份骑士金属粉
     S:oredict.dustDiv72Komatiite.name=1/72份科马提岩粉
@@ -24601,7 +24601,7 @@ languagefile {
     S:oredict.dustDiv72Sulfur.name=1/72份硫粉
     S:oredict.dustDiv72Sunnarium.name=1/72份太阳合金粉
     S:oredict.dustDiv72SunnyQuartz.name=1/72nd of a Pile of Sunny Quartz Dust
-    S:oredict.dustDiv72Talc.name=1/72份滑石
+    S:oredict.dustDiv72Talc.name=1/72份滑石粉
     S:oredict.dustDiv72Tallow.name=1/72份魔法油脂
     S:oredict.dustDiv72Tantalite.name=1/72份钽铁矿粉
     S:oredict.dustDiv72Tantalum.name=1/72份钽粉
@@ -24980,7 +24980,7 @@ languagefile {
     S:oredict.dustImpureBarite.name=含杂重晶石粉
     S:oredict.dustImpureBarium.name=含杂钡粉
     S:oredict.dustImpureBasalt.name=含杂玄武岩粉
-    S:oredict.dustImpureBasalticMineralSand.name=含杂玄武岩类矿砂
+    S:oredict.dustImpureBasalticMineralSand.name=含杂玄武岩砂
     S:oredict.dustImpureBastnasite.name=含杂氟碳铈矿粉
     S:oredict.dustImpureBauxite.name=含杂铝土矿粉
     S:oredict.dustImpureBedrock.name=含杂基岩粉
@@ -25186,7 +25186,7 @@ languagefile {
     S:oredict.dustImpureManaQuartz.name=含杂魔力石英粉
     S:oredict.dustImpureManganese.name=含杂锰粉
     S:oredict.dustImpureMarble.name=含杂大理石粉
-    S:oredict.dustImpureMarsSand.name=Impure Pile of Mars Turf
+    S:oredict.dustImpureMarsSand.name=含杂火星草皮
     S:oredict.dustImpureMarsStone.name=含杂火星岩石粉
     S:oredict.dustImpureMaxixe.name=含杂马克西蓝色绿柱石粉
     S:oredict.dustImpureMeitnerium.name=含杂䥑粉
@@ -25204,7 +25204,7 @@ languagefile {
     S:oredict.dustImpureMolybdenum.name=含杂钼粉
     S:oredict.dustImpureMonazite.name=含杂独居石粉
     S:oredict.dustImpureMoonStone.name=含杂月面岩石粉
-    S:oredict.dustImpureMoonTurf.name=Impure Pile of 月面草皮
+    S:oredict.dustImpureMoonTurf.name=含杂月面草皮
     S:oredict.dustImpureMorganite.name=含杂铯绿柱石粉
     S:oredict.dustImpureMoscovium.name=含杂镆粉
     S:oredict.dustImpureNaquadah.name=含杂硅岩金属粉
@@ -25323,7 +25323,7 @@ languagefile {
     S:oredict.dustImpureStrontium.name=含杂锶粉
     S:oredict.dustImpureSulfur.name=含杂硫粉
     S:oredict.dustImpureSunnyQuartz.name=Impure Pile of Sunny Quartz Dust
-    S:oredict.dustImpureTalc.name=含杂滑石
+    S:oredict.dustImpureTalc.name=含杂滑石粉
     S:oredict.dustImpureTantalite.name=含杂钽铁矿粉
     S:oredict.dustImpureTantalum.name=含杂钽粉
     S:oredict.dustImpureTanzanite.name=含杂坦桑石粉
@@ -25406,7 +25406,7 @@ languagefile {
     S:oredict.dustJasper.name=碧玉粉
     S:oredict.dustKalendrite.name=幽冥魂石粉
     S:oredict.dustKanthal.name=铁铬铝合金粉
-    S:oredict.dustKaolinite.name=高岭石
+    S:oredict.dustKaolinite.name=高岭石粉
     S:oredict.dustKesterite.name=锌黄锡矿粉
     S:oredict.dustKnightmetal.name=骑士金属粉
     S:oredict.dustKomatiite.name=科马提岩粉
@@ -25727,7 +25727,7 @@ languagefile {
     S:oredict.dustPureBarite.name=纯净重晶石粉
     S:oredict.dustPureBarium.name=纯净钡粉
     S:oredict.dustPureBasalt.name=纯净玄武岩粉
-    S:oredict.dustPureBasalticMineralSand.name=纯净玄武岩类矿砂
+    S:oredict.dustPureBasalticMineralSand.name=纯净玄武岩砂
     S:oredict.dustPureBastnasite.name=纯净氟碳铈矿粉
     S:oredict.dustPureBauxite.name=纯净铝土矿粉
     S:oredict.dustPureBedrock.name=纯净基岩粉
@@ -25901,7 +25901,7 @@ languagefile {
     S:oredict.dustPureJade.name=纯净翡翠粉
     S:oredict.dustPureJasper.name=纯净碧玉粉
     S:oredict.dustPureKalendrite.name=纯净幽冥魂石粉
-    S:oredict.dustPureKaolinite.name=纯净高岭石
+    S:oredict.dustPureKaolinite.name=纯净高岭石粉
     S:oredict.dustPureKesterite.name=纯净锌黄锡矿粉
     S:oredict.dustPureKomatiite.name=纯净科马提岩粉
     S:oredict.dustPureKreknorite.name=Purified Pile of Kreknorite Dust
@@ -25933,7 +25933,7 @@ languagefile {
     S:oredict.dustPureManaQuartz.name=纯净魔力石英粉
     S:oredict.dustPureManganese.name=纯净锰粉
     S:oredict.dustPureMarble.name=纯净大理石粉
-    S:oredict.dustPureMarsSand.name=Purified Pile of Mars Turf
+    S:oredict.dustPureMarsSand.name=纯净火星草皮
     S:oredict.dustPureMarsStone.name=纯净火星岩石粉
     S:oredict.dustPureMaxixe.name=纯净马克西蓝色绿柱石粉
     S:oredict.dustPureMeitnerium.name=纯净䥑粉
@@ -25951,7 +25951,7 @@ languagefile {
     S:oredict.dustPureMolybdenum.name=纯净钼粉
     S:oredict.dustPureMonazite.name=纯净独居石粉
     S:oredict.dustPureMoonStone.name=纯净月面岩石粉
-    S:oredict.dustPureMoonTurf.name=Purified Pile of 月面草皮
+    S:oredict.dustPureMoonTurf.name=纯净月面草皮
     S:oredict.dustPureMorganite.name=纯净铯绿柱石粉
     S:oredict.dustPureMoscovium.name=纯净镆粉
     S:oredict.dustPureNaquadah.name=纯净硅岩金属粉
@@ -26629,7 +26629,7 @@ languagefile {
     S:oredict.dustSmallJasper.name=小堆碧玉粉
     S:oredict.dustSmallKalendrite.name=小堆幽冥魂石粉
     S:oredict.dustSmallKanthal.name=小堆铁铬铝合金粉
-    S:oredict.dustSmallKaolinite.name=小堆高岭石
+    S:oredict.dustSmallKaolinite.name=小堆高岭石粉
     S:oredict.dustSmallKesterite.name=小堆锌黄锡矿粉
     S:oredict.dustSmallKnightmetal.name=小堆骑士金属粉
     S:oredict.dustSmallKomatiite.name=小堆科马提岩粉
@@ -26888,7 +26888,7 @@ languagefile {
     S:oredict.dustSmallSulfur.name=小堆硫粉
     S:oredict.dustSmallSunnarium.name=小堆太阳合金粉
     S:oredict.dustSmallSunnyQuartz.name=Small Pile of Sunny Quartz Dust
-    S:oredict.dustSmallTalc.name=小堆滑石
+    S:oredict.dustSmallTalc.name=小堆滑石粉
     S:oredict.dustSmallTallow.name=小堆魔法油脂
     S:oredict.dustSmallTantalite.name=小堆钽铁矿粉
     S:oredict.dustSmallTantalum.name=小堆钽粉
@@ -27028,7 +27028,7 @@ languagefile {
     S:oredict.dustSulfur.name=硫粉
     S:oredict.dustSunnarium.name=太阳合金粉
     S:oredict.dustSunnyQuartz.name=Sunny Quartz Dust
-    S:oredict.dustTalc.name=滑石
+    S:oredict.dustTalc.name=滑石粉
     S:oredict.dustTallow.name=魔法油脂
     S:oredict.dustTantalite.name=钽铁矿粉
     S:oredict.dustTantalum.name=钽粉
@@ -27491,7 +27491,7 @@ languagefile {
     S:oredict.dustTinyJasper.name=小撮碧玉粉
     S:oredict.dustTinyKalendrite.name=小撮幽冥魂石粉
     S:oredict.dustTinyKanthal.name=小撮铁铬铝合金粉
-    S:oredict.dustTinyKaolinite.name=小撮高岭石
+    S:oredict.dustTinyKaolinite.name=小撮高岭石粉
     S:oredict.dustTinyKesterite.name=小撮锌黄锡矿粉
     S:oredict.dustTinyKnightmetal.name=小撮骑士金属粉
     S:oredict.dustTinyKomatiite.name=小撮科马提岩粉
@@ -27750,7 +27750,7 @@ languagefile {
     S:oredict.dustTinySulfur.name=小撮硫粉
     S:oredict.dustTinySunnarium.name=小撮太阳合金粉
     S:oredict.dustTinySunnyQuartz.name=Tiny Pile of Sunny Quartz Dust
-    S:oredict.dustTinyTalc.name=小撮滑石
+    S:oredict.dustTinyTalc.name=小撮滑石粉
     S:oredict.dustTinyTallow.name=小撮魔法油脂
     S:oredict.dustTinyTantalite.name=小撮钽铁矿粉
     S:oredict.dustTinyTantalum.name=小撮钽粉
