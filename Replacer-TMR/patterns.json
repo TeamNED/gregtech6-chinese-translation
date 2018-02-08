@@ -439,6 +439,12 @@
     },
     {
         "name": "oredict.blockPlate.+",
+        "value": "Block of Crystalline (?P<mw>.+) Plates?$",
+        "repl": "结晶{0}板块",
+        "priority": 5000
+    },
+    {
+        "name": "oredict.blockPlate.+",
         "value": "Block of (?P<mw>.+) Plates?$",
         "repl": "{0}板块",
         "priority": 3000
