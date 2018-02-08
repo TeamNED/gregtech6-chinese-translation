@@ -37213,6 +37213,7 @@ languagefile {
     S:oredict.oreMarsRutherfordium.name=Mars Rutherfordium Ore
     S:oredict.oreMarsRutile.name=Mars Rutile Ore
     S:oredict.oreMarsSalt.name=Mars Salt Ore
+    S:oredict.oreMarsSaltpeter.name=Mars Saltpeter Ore
     S:oredict.oreMarsSamarium.name=Mars Samarium Ore
     S:oredict.oreMarsSanguinite.name=Mars Sanguinite Ore
     S:oredict.oreMarsSapphire.name=Mars Sapphire Ore
@@ -37735,6 +37736,7 @@ languagefile {
     S:oredict.oreMoonRutherfordium.name=Moon Rutherfordium Ore
     S:oredict.oreMoonRutile.name=Moon Rutile Ore
     S:oredict.oreMoonSalt.name=Moon Salt Ore
+    S:oredict.oreMoonSaltpeter.name=Moon Saltpeter Ore
     S:oredict.oreMoonSamarium.name=Moon Samarium Ore
     S:oredict.oreMoonSanguinite.name=Moon Sanguinite Ore
     S:oredict.oreMoonSapphire.name=Moon Sapphire Ore
@@ -38245,6 +38247,7 @@ languagefile {
     S:oredict.oreMudRutherfordium.name=Mud Rutherfordium Ore
     S:oredict.oreMudRutile.name=Mud Rutile Ore
     S:oredict.oreMudSalt.name=Mud Salt Ore
+    S:oredict.oreMudSaltpeter.name=Mud Saltpeter Ore
     S:oredict.oreMudSamarium.name=Mud Samarium Ore
     S:oredict.oreMudSanguinite.name=Mud Sanguinite Ore
     S:oredict.oreMudSapphire.name=Mud Sapphire Ore
@@ -41893,6 +41896,7 @@ languagefile {
     S:oredict.oreSpaceRutherfordium.name=Space Rutherfordium Ore
     S:oredict.oreSpaceRutile.name=Space Rutile Ore
     S:oredict.oreSpaceSalt.name=Space Salt Ore
+    S:oredict.oreSpaceSaltpeter.name=Space Saltpeter Ore
     S:oredict.oreSpaceSamarium.name=Space Samarium Ore
     S:oredict.oreSpaceSanguinite.name=Space Sanguinite Ore
     S:oredict.oreSpaceSapphire.name=Space Sapphire Ore

@@ -325,7 +325,7 @@
     },
     {
         "name": "oredict.link.+",
-        "value": "Links of (?P<mw>.+)",
+        "value": "Link of (?P<mw>.+)",
         "repl": "{0}链环",
         "priority": 1000
     },
