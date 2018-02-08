@@ -318,7 +318,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock).+",
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space).+",
         "value": "(?P<mw>.+) Ore",
         "repl": "{0}",
         "priority": 2000
