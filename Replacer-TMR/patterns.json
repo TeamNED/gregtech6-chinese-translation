@@ -283,19 +283,19 @@
     },
     {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) Universal Saw Blade",
+        "value": "(?P<mw>.+) Saw Blade",
         "repl": "{0}锯片",
         "priority": 1000
     },
     {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) Universal Screwdriver Tip",
+        "value": "(?P<mw>.+) Screwdriver Tip",
         "repl": "{0}螺丝刀头",
         "priority": 1000
     },
     {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) Universal Wrench Tip",
+        "value": "(?P<mw>.+) Wrench Tip",
         "repl": "{0}扳手头",
         "priority": 1000
     },
