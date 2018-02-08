@@ -619,7 +619,7 @@
     },
     {
         "name": "oredict.crushed.+",
-        "value": "Crushed (.+) Ore",
+        "value": "Crushed (?P<mw>.+) Ore",
         "repl": "粉碎{0}矿石",
         "priority": 1000
     },
