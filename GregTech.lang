@@ -12353,7 +12353,7 @@ languagefile {
     S:oredict.arrowGtPlasticLead.name=轻质铅箭
     S:oredict.arrowGtPlasticLimestone.name=轻质石灰石箭
     S:oredict.arrowGtPlasticMagnalium.name=轻质镁铝合金箭
-    S:oredict.arrowGtPlasticManaQuartz.name=Light Mana Quartz 箭
+    S:oredict.arrowGtPlasticManaQuartz.name=轻质魔力石英箭
     S:oredict.arrowGtPlasticManasteel.name=轻质魔力钢箭
     S:oredict.arrowGtPlasticManganese.name=轻质锰箭
     S:oredict.arrowGtPlasticManyullyn.name=轻质玛玉灵箭
@@ -12629,7 +12629,7 @@ languagefile {
     S:oredict.arrowGtWoodLead.name=铅箭
     S:oredict.arrowGtWoodLimestone.name=石灰石箭
     S:oredict.arrowGtWoodMagnalium.name=镁铝合金箭
-    S:oredict.arrowGtWoodManaQuartz.name=Mana Quartz 箭
+    S:oredict.arrowGtWoodManaQuartz.name=魔力石英箭
     S:oredict.arrowGtWoodManasteel.name=魔力钢箭
     S:oredict.arrowGtWoodManganese.name=锰箭
     S:oredict.arrowGtWoodManyullyn.name=玛玉灵箭
@@ -13097,7 +13097,7 @@ languagefile {
     S:oredict.blockDustEuropium.name=铕粉块
     S:oredict.blockDustEximite.name=虚空石粉块
     S:oredict.blockDustFarnsium.name=钫粉块
-    S:oredict.blockDustFerberite.name=Block of Ferberite Dust
+    S:oredict.blockDustFerberite.name=钨铁矿粉块
     S:oredict.blockDustFermium.name=镄粉块
     S:oredict.blockDustFerricChloride.name=氯化铁粉块
     S:oredict.blockDustFerrite.name=铁氧体粉块
@@ -13242,7 +13242,7 @@ languagefile {
     S:oredict.blockDustMagnesiumChloride.name=氯化镁粉块
     S:oredict.blockDustMagnetite.name=磁铁矿粉块
     S:oredict.blockDustMalachite.name=孔雀石粉块
-    S:oredict.blockDustManaQuartz.name=Block of Mana Quartz Dust
+    S:oredict.blockDustManaQuartz.name=魔力石英粉块
     S:oredict.blockDustManasteel.name=魔力钢粉块
     S:oredict.blockDustManganese.name=锰粉块
     S:oredict.blockDustManganeseChloride.name=氯化锰粉块
@@ -13640,7 +13640,7 @@ languagefile {
     S:oredict.blockGemLigniteCoke.name=焦化褐煤块
     S:oredict.blockGemLonsdaleite.name=六方碳块
     S:oredict.blockGemMalachite.name=孔雀石块
-    S:oredict.blockGemManaQuartz.name=Block of Mana Quartz
+    S:oredict.blockGemManaQuartz.name=魔力石英块
     S:oredict.blockGemMaxixe.name=Block of Maxixe
     S:oredict.blockGemMonazite.name=独居石块
     S:oredict.blockGemMorganite.name=铯绿柱石块
@@ -15394,7 +15394,7 @@ languagefile {
     S:oredict.boltMagnalium.name=镁铝合金螺栓
     S:oredict.boltMagnesium.name=镁螺栓
     S:oredict.boltMalachite.name=孔雀石螺栓
-    S:oredict.boltManaQuartz.name=Mana Quartz Bolt
+    S:oredict.boltManaQuartz.name=魔力石英螺栓
     S:oredict.boltManasteel.name=魔力钢螺栓
     S:oredict.boltManganese.name=锰螺栓
     S:oredict.boltManyullyn.name=玛玉灵螺栓
@@ -16412,7 +16412,7 @@ languagefile {
     S:oredict.casingSmallLumium.name=流明外壳
     S:oredict.casingSmallMagic.name=魔法外壳
     S:oredict.casingSmallMagnalium.name=镁铝合金外壳
-    S:oredict.casingSmallManaQuartz.name=Mana Quartz Item Casing
+    S:oredict.casingSmallManaQuartz.name=魔力石英外壳
     S:oredict.casingSmallManasteel.name=魔力钢外壳
     S:oredict.casingSmallManganese.name=锰外壳
     S:oredict.casingSmallManyullyn.name=玛玉灵外壳
@@ -17458,7 +17458,7 @@ languagefile {
     S:oredict.chemtubeEuropium.name=铕试管
     S:oredict.chemtubeEximite.name=虚空石试管
     S:oredict.chemtubeFarnsium.name=钫试管
-    S:oredict.chemtubeFerberite.name=Glass Tube containing Ferberite
+    S:oredict.chemtubeFerberite.name=钨铁矿试管
     S:oredict.chemtubeFermium.name=镄试管
     S:oredict.chemtubeFerricChloride.name=氯化铁试管
     S:oredict.chemtubeFerrite.name=铁氧体试管
@@ -17634,7 +17634,7 @@ languagefile {
     S:oredict.chemtubeMagnesiumChloride.name=氯化镁试管
     S:oredict.chemtubeMagnetite.name=磁铁矿试管
     S:oredict.chemtubeMalachite.name=孔雀石试管
-    S:oredict.chemtubeManaQuartz.name=Glass Tube containing Mana Quartz
+    S:oredict.chemtubeManaQuartz.name=魔力石英试管
     S:oredict.chemtubeManasteel.name=魔力钢试管
     S:oredict.chemtubeManganese.name=锰试管
     S:oredict.chemtubeManganeseChloride.name=氯化锰试管
@@ -18924,7 +18924,7 @@ languagefile {
     S:oredict.crateGtDustEuropium.name=铕粉板条箱
     S:oredict.crateGtDustEximite.name=虚空石粉板条箱
     S:oredict.crateGtDustFarnsium.name=钫粉板条箱
-    S:oredict.crateGtDustFerberite.name=Crate of Ferberite Dust
+    S:oredict.crateGtDustFerberite.name=钨铁矿粉板条箱
     S:oredict.crateGtDustFermium.name=镄粉板条箱
     S:oredict.crateGtDustFerricChloride.name=氯化铁粉板条箱
     S:oredict.crateGtDustFerrite.name=铁氧体粉板条箱
@@ -19068,7 +19068,7 @@ languagefile {
     S:oredict.crateGtDustMagnesiumChloride.name=氯化镁粉板条箱
     S:oredict.crateGtDustMagnetite.name=磁铁矿粉板条箱
     S:oredict.crateGtDustMalachite.name=孔雀石粉板条箱
-    S:oredict.crateGtDustManaQuartz.name=Crate of Mana Quartz Dust
+    S:oredict.crateGtDustManaQuartz.name=魔力石英粉板条箱
     S:oredict.crateGtDustManasteel.name=魔力钢粉板条箱
     S:oredict.crateGtDustManganese.name=锰粉板条箱
     S:oredict.crateGtDustManganeseChloride.name=氯化锰粉板条箱
@@ -19466,7 +19466,7 @@ languagefile {
     S:oredict.crateGtGemLigniteCoke.name=焦化褐煤板条箱
     S:oredict.crateGtGemLonsdaleite.name=六方碳板条箱
     S:oredict.crateGtGemMalachite.name=孔雀石板条箱
-    S:oredict.crateGtGemManaQuartz.name=Crate of Mana Quartz
+    S:oredict.crateGtGemManaQuartz.name=魔力石英板条箱
     S:oredict.crateGtGemMaxixe.name=Crate of Maxixe
     S:oredict.crateGtGemMonazite.name=独居石板条箱
     S:oredict.crateGtGemMorganite.name=铯绿柱石板条箱
@@ -20919,7 +20919,7 @@ languagefile {
     S:oredict.crushedCentrifugedEuropium.name=离心铕矿石
     S:oredict.crushedCentrifugedEximite.name=离心虚空石矿石
     S:oredict.crushedCentrifugedFarnsium.name=离心钫矿石
-    S:oredict.crushedCentrifugedFerberite.name=Refined Ferberite 矿石
+    S:oredict.crushedCentrifugedFerberite.name=离心钨铁矿矿石
     S:oredict.crushedCentrifugedFermium.name=离心镄矿石
     S:oredict.crushedCentrifugedFerrite.name=离心铁氧体矿石
     S:oredict.crushedCentrifugedFerrovanadium.name=离心钒磁铁矿矿石
@@ -21010,7 +21010,7 @@ languagefile {
     S:oredict.crushedCentrifugedMagnesiumChloride.name=离心氯化镁矿石
     S:oredict.crushedCentrifugedMagnetite.name=离心磁铁矿矿石
     S:oredict.crushedCentrifugedMalachite.name=离心孔雀石矿石
-    S:oredict.crushedCentrifugedManaQuartz.name=Refined Mana Quartz Ore
+    S:oredict.crushedCentrifugedManaQuartz.name=离心魔力石英矿石
     S:oredict.crushedCentrifugedManganese.name=离心锰矿石
     S:oredict.crushedCentrifugedMaxixe.name=Refined Maxixe 矿石
     S:oredict.crushedCentrifugedMeitnerium.name=离心䥑矿石
@@ -21395,7 +21395,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyEuropium.name=小撮离心铕矿石
     S:oredict.crushedCentrifugedTinyEximite.name=小撮离心虚空石矿石
     S:oredict.crushedCentrifugedTinyFarnsium.name=小撮离心钫矿石
-    S:oredict.crushedCentrifugedTinyFerberite.name=Tiny Refined Ferberite 矿石
+    S:oredict.crushedCentrifugedTinyFerberite.name=小撮离心钨铁矿矿石
     S:oredict.crushedCentrifugedTinyFermium.name=小撮离心镄矿石
     S:oredict.crushedCentrifugedTinyFerrite.name=小撮离心铁氧体矿石
     S:oredict.crushedCentrifugedTinyFerrovanadium.name=小撮离心钒磁铁矿矿石
@@ -21486,7 +21486,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyMagnesiumChloride.name=小撮离心氯化镁矿石
     S:oredict.crushedCentrifugedTinyMagnetite.name=小撮离心磁铁矿矿石
     S:oredict.crushedCentrifugedTinyMalachite.name=小撮离心孔雀石矿石
-    S:oredict.crushedCentrifugedTinyManaQuartz.name=Tiny Refined Mana Quartz Ore
+    S:oredict.crushedCentrifugedTinyManaQuartz.name=小撮离心魔力石英矿石
     S:oredict.crushedCentrifugedTinyManganese.name=小撮离心锰矿石
     S:oredict.crushedCentrifugedTinyMaxixe.name=Tiny Refined Maxixe 矿石
     S:oredict.crushedCentrifugedTinyMeitnerium.name=小撮离心䥑矿石
@@ -22178,7 +22178,7 @@ languagefile {
     S:oredict.crushedPurifiedEuropium.name=纯净铕矿石
     S:oredict.crushedPurifiedEximite.name=纯净虚空石矿石
     S:oredict.crushedPurifiedFarnsium.name=纯净钫矿石
-    S:oredict.crushedPurifiedFerberite.name=Purified Ferberite 矿石
+    S:oredict.crushedPurifiedFerberite.name=纯净钨铁矿矿石
     S:oredict.crushedPurifiedFermium.name=纯净镄矿石
     S:oredict.crushedPurifiedFerrite.name=纯净铁氧体矿石
     S:oredict.crushedPurifiedFerrovanadium.name=纯净钒磁铁矿矿石
@@ -22269,7 +22269,7 @@ languagefile {
     S:oredict.crushedPurifiedMagnesiumChloride.name=纯净氯化镁矿石
     S:oredict.crushedPurifiedMagnetite.name=纯净磁铁矿矿石
     S:oredict.crushedPurifiedMalachite.name=纯净孔雀石矿石
-    S:oredict.crushedPurifiedManaQuartz.name=Purified Mana Quartz Ore
+    S:oredict.crushedPurifiedManaQuartz.name=纯净魔力石英矿石
     S:oredict.crushedPurifiedManganese.name=纯净锰矿石
     S:oredict.crushedPurifiedMaxixe.name=Purified Maxixe 矿石
     S:oredict.crushedPurifiedMeitnerium.name=纯净䥑矿石
@@ -22654,7 +22654,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyEuropium.name=小撮纯净铕矿石
     S:oredict.crushedPurifiedTinyEximite.name=小撮纯净虚空石矿石
     S:oredict.crushedPurifiedTinyFarnsium.name=小撮纯净钫矿石
-    S:oredict.crushedPurifiedTinyFerberite.name=Tiny Purified Ferberite 矿石
+    S:oredict.crushedPurifiedTinyFerberite.name=小撮纯净钨铁矿矿石
     S:oredict.crushedPurifiedTinyFermium.name=小撮纯净镄矿石
     S:oredict.crushedPurifiedTinyFerrite.name=小撮纯净铁氧体矿石
     S:oredict.crushedPurifiedTinyFerrovanadium.name=小撮纯净钒磁铁矿矿石
@@ -22745,7 +22745,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyMagnesiumChloride.name=小撮纯净氯化镁矿石
     S:oredict.crushedPurifiedTinyMagnetite.name=小撮纯净磁铁矿矿石
     S:oredict.crushedPurifiedTinyMalachite.name=小撮纯净孔雀石矿石
-    S:oredict.crushedPurifiedTinyManaQuartz.name=Tiny Purified Mana Quartz Ore
+    S:oredict.crushedPurifiedTinyManaQuartz.name=小撮纯净魔力石英矿石
     S:oredict.crushedPurifiedTinyManganese.name=小撮纯净锰矿石
     S:oredict.crushedPurifiedTinyMaxixe.name=Tiny Purified Maxixe 矿石
     S:oredict.crushedPurifiedTinyMeitnerium.name=小撮纯净䥑矿石
@@ -23288,7 +23288,7 @@ languagefile {
     S:oredict.crushedTinyEuropium.name=小撮粉碎铕矿石
     S:oredict.crushedTinyEximite.name=小撮粉碎虚空石矿石
     S:oredict.crushedTinyFarnsium.name=小撮粉碎钫矿石
-    S:oredict.crushedTinyFerberite.name=Tiny Crushed Ferberite 矿石
+    S:oredict.crushedTinyFerberite.name=小撮粉碎钨铁矿矿石
     S:oredict.crushedTinyFermium.name=小撮粉碎镄矿石
     S:oredict.crushedTinyFerrite.name=小撮粉碎铁氧体矿石
     S:oredict.crushedTinyFerrovanadium.name=小撮粉碎钒磁铁矿矿石
@@ -23379,7 +23379,7 @@ languagefile {
     S:oredict.crushedTinyMagnesiumChloride.name=小撮粉碎氯化镁矿石
     S:oredict.crushedTinyMagnetite.name=小撮粉碎磁铁矿矿石
     S:oredict.crushedTinyMalachite.name=小撮粉碎孔雀石矿石
-    S:oredict.crushedTinyManaQuartz.name=Tiny Crushed Mana Quartz Ore
+    S:oredict.crushedTinyManaQuartz.name=小撮粉碎魔力石英矿石
     S:oredict.crushedTinyManganese.name=小撮粉碎锰矿石
     S:oredict.crushedTinyMaxixe.name=Tiny Crushed Maxixe 矿石
     S:oredict.crushedTinyMeitnerium.name=小撮粉碎䥑矿石
@@ -24244,7 +24244,7 @@ languagefile {
     S:oredict.dustDiv72Europium.name=1/72份铕粉
     S:oredict.dustDiv72Eximite.name=1/72份虚空石粉
     S:oredict.dustDiv72Farnsium.name=1/72份钫粉
-    S:oredict.dustDiv72Ferberite.name=1/72nd of a Pile of Ferberite Dust
+    S:oredict.dustDiv72Ferberite.name=1/72份钨铁矿粉
     S:oredict.dustDiv72Fermium.name=1/72份镄粉
     S:oredict.dustDiv72FerricChloride.name=1/72份氯化铁粉
     S:oredict.dustDiv72Ferrite.name=1/72份铁氧体粉
@@ -24383,7 +24383,7 @@ languagefile {
     S:oredict.dustDiv72MagnesiumChloride.name=1/72份氯化镁粉
     S:oredict.dustDiv72Magnetite.name=1/72份磁铁矿粉
     S:oredict.dustDiv72Malachite.name=1/72份孔雀石粉
-    S:oredict.dustDiv72ManaQuartz.name=1/72nd of a Pile of Mana Quartz Dust
+    S:oredict.dustDiv72ManaQuartz.name=1/72份魔力石英粉
     S:oredict.dustDiv72Manasteel.name=1/72份魔力钢粉
     S:oredict.dustDiv72Manganese.name=1/72份锰粉
     S:oredict.dustDiv72ManganeseChloride.name=1/72份氯化锰粉
@@ -24739,7 +24739,7 @@ languagefile {
     S:oredict.dustEuropium.name=铕粉
     S:oredict.dustEximite.name=虚空石粉
     S:oredict.dustFarnsium.name=钫粉
-    S:oredict.dustFerberite.name=Ferberite Dust
+    S:oredict.dustFerberite.name=钨铁矿粉
     S:oredict.dustFermium.name=镄粉
     S:oredict.dustFerricChloride.name=氯化铁粉
     S:oredict.dustFerrite.name=铁氧体粉
@@ -25080,7 +25080,7 @@ languagefile {
     S:oredict.dustImpureEuropium.name=含杂铕粉
     S:oredict.dustImpureEximite.name=含杂虚空石粉
     S:oredict.dustImpureFarnsium.name=含杂钫粉
-    S:oredict.dustImpureFerberite.name=Impure Pile of Ferberite Dust
+    S:oredict.dustImpureFerberite.name=含杂钨铁矿粉
     S:oredict.dustImpureFermium.name=含杂镄粉
     S:oredict.dustImpureFerrite.name=含杂铁氧体粉
     S:oredict.dustImpureFerrovanadium.name=含杂钒磁铁矿粉
@@ -25183,7 +25183,7 @@ languagefile {
     S:oredict.dustImpureMagnesiumChloride.name=含杂氯化镁粉
     S:oredict.dustImpureMagnetite.name=含杂磁铁矿粉
     S:oredict.dustImpureMalachite.name=含杂孔雀石粉
-    S:oredict.dustImpureManaQuartz.name=Impure Pile of Mana Quartz Dust
+    S:oredict.dustImpureManaQuartz.name=含杂魔力石英粉
     S:oredict.dustImpureManganese.name=含杂锰粉
     S:oredict.dustImpureMarble.name=含杂大理石粉
     S:oredict.dustImpureMarsSand.name=Impure Pile of Mars Turf
@@ -25444,7 +25444,7 @@ languagefile {
     S:oredict.dustMagnesiumChloride.name=氯化镁粉
     S:oredict.dustMagnetite.name=磁铁矿粉
     S:oredict.dustMalachite.name=孔雀石粉
-    S:oredict.dustManaQuartz.name=Mana Quartz Dust
+    S:oredict.dustManaQuartz.name=魔力石英粉
     S:oredict.dustManasteel.name=魔力钢粉
     S:oredict.dustManganese.name=锰粉
     S:oredict.dustManganeseChloride.name=氯化锰粉
@@ -25827,7 +25827,7 @@ languagefile {
     S:oredict.dustPureEuropium.name=纯净铕粉
     S:oredict.dustPureEximite.name=纯净虚空石粉
     S:oredict.dustPureFarnsium.name=纯净钫粉
-    S:oredict.dustPureFerberite.name=Purified Pile of Ferberite Dust
+    S:oredict.dustPureFerberite.name=纯净钨铁矿粉
     S:oredict.dustPureFermium.name=纯净镄粉
     S:oredict.dustPureFerrite.name=纯净铁氧体粉
     S:oredict.dustPureFerrovanadium.name=纯净钒磁铁矿粉
@@ -25930,7 +25930,7 @@ languagefile {
     S:oredict.dustPureMagnesiumChloride.name=纯净氯化镁粉
     S:oredict.dustPureMagnetite.name=纯净磁铁矿粉
     S:oredict.dustPureMalachite.name=纯净孔雀石粉
-    S:oredict.dustPureManaQuartz.name=Purified Pile of Mana Quartz Dust
+    S:oredict.dustPureManaQuartz.name=纯净魔力石英粉
     S:oredict.dustPureManganese.name=纯净锰粉
     S:oredict.dustPureMarble.name=纯净大理石粉
     S:oredict.dustPureMarsSand.name=Purified Pile of Mars Turf
@@ -26523,7 +26523,7 @@ languagefile {
     S:oredict.dustSmallEuropium.name=小堆铕粉
     S:oredict.dustSmallEximite.name=小堆虚空石粉
     S:oredict.dustSmallFarnsium.name=小堆钫粉
-    S:oredict.dustSmallFerberite.name=Small Pile of Ferberite Dust
+    S:oredict.dustSmallFerberite.name=小堆钨铁矿粉
     S:oredict.dustSmallFermium.name=小堆镄粉
     S:oredict.dustSmallFerricChloride.name=小堆氯化铁粉
     S:oredict.dustSmallFerrite.name=小堆铁氧体粉
@@ -26667,7 +26667,7 @@ languagefile {
     S:oredict.dustSmallMagnesiumChloride.name=小堆氯化镁粉
     S:oredict.dustSmallMagnetite.name=小堆磁铁矿粉
     S:oredict.dustSmallMalachite.name=小堆孔雀石粉
-    S:oredict.dustSmallManaQuartz.name=Small Pile of Mana Quartz Dust
+    S:oredict.dustSmallManaQuartz.name=小堆魔力石英粉
     S:oredict.dustSmallManasteel.name=小堆魔力钢粉
     S:oredict.dustSmallManganese.name=小堆锰粉
     S:oredict.dustSmallManganeseChloride.name=小堆氯化锰粉
@@ -27385,7 +27385,7 @@ languagefile {
     S:oredict.dustTinyEuropium.name=小撮铕粉
     S:oredict.dustTinyEximite.name=小撮虚空石粉
     S:oredict.dustTinyFarnsium.name=小撮钫粉
-    S:oredict.dustTinyFerberite.name=Tiny Pile of Ferberite Dust
+    S:oredict.dustTinyFerberite.name=小撮钨铁矿粉
     S:oredict.dustTinyFermium.name=小撮镄粉
     S:oredict.dustTinyFerricChloride.name=小撮氯化铁粉
     S:oredict.dustTinyFerrite.name=小撮铁氧体粉
@@ -27529,7 +27529,7 @@ languagefile {
     S:oredict.dustTinyMagnesiumChloride.name=小撮氯化镁粉
     S:oredict.dustTinyMagnetite.name=小撮磁铁矿粉
     S:oredict.dustTinyMalachite.name=小撮孔雀石粉
-    S:oredict.dustTinyManaQuartz.name=Tiny Pile of Mana Quartz Dust
+    S:oredict.dustTinyManaQuartz.name=小撮魔力石英粉
     S:oredict.dustTinyManasteel.name=小撮魔力钢粉
     S:oredict.dustTinyManganese.name=小撮锰粉
     S:oredict.dustTinyManganeseChloride.name=小撮氯化锰粉
@@ -28480,7 +28480,7 @@ languagefile {
     S:oredict.gearGtLumium.name=流明齿轮
     S:oredict.gearGtMagic.name=魔法齿轮
     S:oredict.gearGtMagnalium.name=镁铝合金齿轮
-    S:oredict.gearGtManaQuartz.name=Mana Quartz Gear
+    S:oredict.gearGtManaQuartz.name=魔力石英齿轮
     S:oredict.gearGtManasteel.name=魔力钢齿轮
     S:oredict.gearGtManganese.name=锰齿轮
     S:oredict.gearGtManyullyn.name=玛玉灵齿轮
@@ -28719,7 +28719,7 @@ languagefile {
     S:oredict.gearGtSmallLumium.name=小型流明齿轮
     S:oredict.gearGtSmallMagic.name=小型魔法齿轮
     S:oredict.gearGtSmallMagnalium.name=小型镁铝合金齿轮
-    S:oredict.gearGtSmallManaQuartz.name=Small Mana Quartz Gear
+    S:oredict.gearGtSmallManaQuartz.name=小型魔力石英齿轮
     S:oredict.gearGtSmallManasteel.name=小型魔力钢齿轮
     S:oredict.gearGtSmallManganese.name=小型锰齿轮
     S:oredict.gearGtSmallManyullyn.name=小型玛玉灵齿轮
@@ -32492,7 +32492,7 @@ languagefile {
     S:oredict.oreAndesiteEuropium.name=安山岩铕矿石
     S:oredict.oreAndesiteEximite.name=安山岩虚空石矿石
     S:oredict.oreAndesiteFarnsium.name=安山岩钫矿石
-    S:oredict.oreAndesiteFerberite.name=Andesite Ferberite 矿石
+    S:oredict.oreAndesiteFerberite.name=安山岩钨铁矿矿石
     S:oredict.oreAndesiteFermium.name=安山岩镄矿石
     S:oredict.oreAndesiteFerrite.name=安山岩铁氧体矿石
     S:oredict.oreAndesiteFerrovanadium.name=安山岩钒磁铁矿矿石
@@ -32581,7 +32581,7 @@ languagefile {
     S:oredict.oreAndesiteMagnesiumChloride.name=安山岩氯化镁矿石
     S:oredict.oreAndesiteMagnetite.name=安山岩磁铁矿矿石
     S:oredict.oreAndesiteMalachite.name=安山岩孔雀石矿石
-    S:oredict.oreAndesiteManaQuartz.name=Andesite Mana Quartz Ore
+    S:oredict.oreAndesiteManaQuartz.name=安山岩魔力石英矿石
     S:oredict.oreAndesiteManganese.name=安山岩锰矿石
     S:oredict.oreAndesiteMaxixe.name=Andesite Maxixe 矿石
     S:oredict.oreAndesiteMeitnerium.name=安山岩䥑矿石
@@ -33148,7 +33148,7 @@ languagefile {
     S:oredict.oreBasaltEuropium.name=玄武岩铕矿石
     S:oredict.oreBasaltEximite.name=玄武岩虚空石矿石
     S:oredict.oreBasaltFarnsium.name=玄武岩钫矿石
-    S:oredict.oreBasaltFerberite.name=Basalt Ferberite 矿石
+    S:oredict.oreBasaltFerberite.name=玄武岩钨铁矿矿石
     S:oredict.oreBasaltFermium.name=玄武岩镄矿石
     S:oredict.oreBasaltFerrite.name=玄武岩铁氧体矿石
     S:oredict.oreBasaltFerrovanadium.name=玄武岩钒磁铁矿矿石
@@ -33240,7 +33240,7 @@ languagefile {
     S:oredict.oreBasaltMagnesiumChloride.name=玄武岩氯化镁矿石
     S:oredict.oreBasaltMagnetite.name=玄武岩磁铁矿矿石
     S:oredict.oreBasaltMalachite.name=玄武岩孔雀石矿石
-    S:oredict.oreBasaltManaQuartz.name=Basalt Mana Quartz Ore
+    S:oredict.oreBasaltManaQuartz.name=玄武岩魔力石英矿石
     S:oredict.oreBasaltManganese.name=玄武岩锰矿石
     S:oredict.oreBasaltMaxixe.name=Basalt Maxixe 矿石
     S:oredict.oreBasaltMeitnerium.name=玄武岩䥑矿石
@@ -33671,7 +33671,7 @@ languagefile {
     S:oredict.oreBedrockEuropium.name=基岩铕矿石
     S:oredict.oreBedrockEximite.name=基岩虚空石矿石
     S:oredict.oreBedrockFarnsium.name=基岩钫矿石
-    S:oredict.oreBedrockFerberite.name=Bedrock Ferberite 矿石
+    S:oredict.oreBedrockFerberite.name=基岩钨铁矿矿石
     S:oredict.oreBedrockFermium.name=基岩镄矿石
     S:oredict.oreBedrockFerrite.name=基岩铁氧体矿石
     S:oredict.oreBedrockFerrovanadium.name=基岩钒磁铁矿矿石
@@ -33761,7 +33761,7 @@ languagefile {
     S:oredict.oreBedrockMagnesiumChloride.name=基岩氯化镁矿石
     S:oredict.oreBedrockMagnetite.name=基岩磁铁矿矿石
     S:oredict.oreBedrockMalachite.name=基岩孔雀石矿石
-    S:oredict.oreBedrockManaQuartz.name=Bedrock Mana Quartz Ore
+    S:oredict.oreBedrockManaQuartz.name=基岩魔力石英矿石
     S:oredict.oreBedrockManganese.name=基岩锰矿石
     S:oredict.oreBedrockMaxixe.name=Bedrock Maxixe 矿石
     S:oredict.oreBedrockMeitnerium.name=基岩䥑矿石
@@ -34193,7 +34193,7 @@ languagefile {
     S:oredict.oreBlackgraniteEuropium.name=黑色花岗岩铕矿石
     S:oredict.oreBlackgraniteEximite.name=黑色花岗岩虚空石矿石
     S:oredict.oreBlackgraniteFarnsium.name=黑色花岗岩钫矿石
-    S:oredict.oreBlackgraniteFerberite.name=Granite Ferberite 矿石
+    S:oredict.oreBlackgraniteFerberite.name=黑色花岗岩钨铁矿矿石
     S:oredict.oreBlackgraniteFermium.name=黑色花岗岩镄矿石
     S:oredict.oreBlackgraniteFerrite.name=黑色花岗岩铁氧体矿石
     S:oredict.oreBlackgraniteFerrovanadium.name=黑色花岗岩钒磁铁矿矿石
@@ -34282,7 +34282,7 @@ languagefile {
     S:oredict.oreBlackgraniteMagnesiumChloride.name=黑色花岗岩氯化镁矿石
     S:oredict.oreBlackgraniteMagnetite.name=黑色花岗岩磁铁矿矿石
     S:oredict.oreBlackgraniteMalachite.name=黑色花岗岩孔雀石矿石
-    S:oredict.oreBlackgraniteManaQuartz.name=Granite Mana Quartz Ore
+    S:oredict.oreBlackgraniteManaQuartz.name=黑色花岗岩魔力石英矿石
     S:oredict.oreBlackgraniteManganese.name=黑色花岗岩锰矿石
     S:oredict.oreBlackgraniteMaxixe.name=Granite Maxixe 矿石
     S:oredict.oreBlackgraniteMeitnerium.name=黑色花岗岩䥑矿石
@@ -34764,7 +34764,7 @@ languagefile {
     S:oredict.oreDioriteEuropium.name=闪长岩铕矿石
     S:oredict.oreDioriteEximite.name=闪长岩虚空石矿石
     S:oredict.oreDioriteFarnsium.name=闪长岩钫矿石
-    S:oredict.oreDioriteFerberite.name=Diorite Ferberite 矿石
+    S:oredict.oreDioriteFerberite.name=闪长岩钨铁矿矿石
     S:oredict.oreDioriteFermium.name=闪长岩镄矿石
     S:oredict.oreDioriteFerrite.name=闪长岩铁氧体矿石
     S:oredict.oreDioriteFerrovanadium.name=闪长岩钒磁铁矿矿石
@@ -34853,7 +34853,7 @@ languagefile {
     S:oredict.oreDioriteMagnesiumChloride.name=闪长岩氯化镁矿石
     S:oredict.oreDioriteMagnetite.name=闪长岩磁铁矿矿石
     S:oredict.oreDioriteMalachite.name=闪长岩孔雀石矿石
-    S:oredict.oreDioriteManaQuartz.name=Diorite Mana Quartz Ore
+    S:oredict.oreDioriteManaQuartz.name=闪长岩魔力石英矿石
     S:oredict.oreDioriteManganese.name=闪长岩锰矿石
     S:oredict.oreDioriteMaxixe.name=Diorite Maxixe 矿石
     S:oredict.oreDioriteMeitnerium.name=闪长岩䥑矿石
@@ -35297,7 +35297,7 @@ languagefile {
     S:oredict.oreEndstoneEuropium.name=末地铕矿石
     S:oredict.oreEndstoneEximite.name=末地虚空石矿石
     S:oredict.oreEndstoneFarnsium.name=末地钫矿石
-    S:oredict.oreEndstoneFerberite.name=End Ferberite 矿石
+    S:oredict.oreEndstoneFerberite.name=末地钨铁矿矿石
     S:oredict.oreEndstoneFermium.name=末地镄矿石
     S:oredict.oreEndstoneFerrite.name=末地铁氧体矿石
     S:oredict.oreEndstoneFerrovanadium.name=末地钒磁铁矿矿石
@@ -35388,7 +35388,7 @@ languagefile {
     S:oredict.oreEndstoneMagnesiumChloride.name=末地氯化镁矿石
     S:oredict.oreEndstoneMagnetite.name=末地磁铁矿矿石
     S:oredict.oreEndstoneMalachite.name=末地孔雀石矿石
-    S:oredict.oreEndstoneManaQuartz.name=End Mana Quartz Ore
+    S:oredict.oreEndstoneManaQuartz.name=末地魔力石英矿石
     S:oredict.oreEndstoneManganese.name=末地锰矿石
     S:oredict.oreEndstoneMaxixe.name=End Maxixe 矿石
     S:oredict.oreEndstoneMeitnerium.name=末地䥑矿石
@@ -36417,7 +36417,7 @@ languagefile {
     S:oredict.oreLimestoneEuropium.name=石灰岩铕矿石
     S:oredict.oreLimestoneEximite.name=石灰岩虚空石矿石
     S:oredict.oreLimestoneFarnsium.name=石灰岩钫矿石
-    S:oredict.oreLimestoneFerberite.name=石灰岩 Ferberite 矿石
+    S:oredict.oreLimestoneFerberite.name=石灰岩钨铁矿矿石
     S:oredict.oreLimestoneFermium.name=石灰岩镄矿石
     S:oredict.oreLimestoneFerrite.name=石灰岩铁氧体矿石
     S:oredict.oreLimestoneFerrovanadium.name=石灰岩钒磁铁矿矿石
@@ -36507,7 +36507,7 @@ languagefile {
     S:oredict.oreLimestoneMagnesiumChloride.name=石灰岩氯化镁矿石
     S:oredict.oreLimestoneMagnetite.name=石灰岩磁铁矿矿石
     S:oredict.oreLimestoneMalachite.name=石灰岩孔雀石矿石
-    S:oredict.oreLimestoneManaQuartz.name=Limestone Mana Quartz Ore
+    S:oredict.oreLimestoneManaQuartz.name=石灰岩魔力石英矿石
     S:oredict.oreLimestoneManganese.name=石灰岩锰矿石
     S:oredict.oreLimestoneMaxixe.name=石灰岩 Maxixe 矿石
     S:oredict.oreLimestoneMeitnerium.name=石灰岩䥑矿石
@@ -37467,7 +37467,7 @@ languagefile {
     S:oredict.oreMarsEuropium.name=火星铕矿石
     S:oredict.oreMarsEximite.name=火星虚空石矿石
     S:oredict.oreMarsFarnsium.name=火星钫矿石
-    S:oredict.oreMarsFerberite.name=Mars Ferberite Ore
+    S:oredict.oreMarsFerberite.name=火星钨铁矿矿石
     S:oredict.oreMarsFermium.name=火星镄矿石
     S:oredict.oreMarsFerrite.name=火星铁氧体矿石
     S:oredict.oreMarsFerrovanadium.name=火星钒磁铁矿矿石
@@ -37556,7 +37556,7 @@ languagefile {
     S:oredict.oreMarsMagnesiumChloride.name=火星氯化镁矿石
     S:oredict.oreMarsMagnetite.name=火星磁铁矿矿石
     S:oredict.oreMarsMalachite.name=火星孔雀石矿石
-    S:oredict.oreMarsManaQuartz.name=Mars Mana Quartz Ore
+    S:oredict.oreMarsManaQuartz.name=火星魔力石英矿石
     S:oredict.oreMarsManganese.name=火星锰矿石
     S:oredict.oreMarsMaxixe.name=Mars Maxixe 矿石
     S:oredict.oreMarsMeitnerium.name=火星䥑矿石
@@ -37991,7 +37991,7 @@ languagefile {
     S:oredict.oreMoonEuropium.name=月球铕矿石
     S:oredict.oreMoonEximite.name=月球虚空石矿石
     S:oredict.oreMoonFarnsium.name=月球钫矿石
-    S:oredict.oreMoonFerberite.name=Moon Ferberite Ore
+    S:oredict.oreMoonFerberite.name=月球钨铁矿矿石
     S:oredict.oreMoonFermium.name=月球镄矿石
     S:oredict.oreMoonFerrite.name=月球铁氧体矿石
     S:oredict.oreMoonFerrovanadium.name=月球钒磁铁矿矿石
@@ -38080,7 +38080,7 @@ languagefile {
     S:oredict.oreMoonMagnesiumChloride.name=月球氯化镁矿石
     S:oredict.oreMoonMagnetite.name=月球磁铁矿矿石
     S:oredict.oreMoonMalachite.name=月球孔雀石矿石
-    S:oredict.oreMoonManaQuartz.name=Moon Mana Quartz Ore
+    S:oredict.oreMoonManaQuartz.name=月球魔力石英矿石
     S:oredict.oreMoonManganese.name=月球锰矿石
     S:oredict.oreMoonMaxixe.name=Moon Maxixe 矿石
     S:oredict.oreMoonMeitnerium.name=月球䥑矿石
@@ -38503,7 +38503,7 @@ languagefile {
     S:oredict.oreMudEuropium.name=淤泥铕矿石
     S:oredict.oreMudEximite.name=淤泥虚空石矿石
     S:oredict.oreMudFarnsium.name=淤泥钫矿石
-    S:oredict.oreMudFerberite.name=Mud Ferberite 矿石
+    S:oredict.oreMudFerberite.name=淤泥钨铁矿矿石
     S:oredict.oreMudFermium.name=淤泥镄矿石
     S:oredict.oreMudFerrite.name=淤泥铁氧体矿石
     S:oredict.oreMudFerrovanadium.name=淤泥钒磁铁矿矿石
@@ -38592,7 +38592,7 @@ languagefile {
     S:oredict.oreMudMagnesiumChloride.name=淤泥氯化镁矿石
     S:oredict.oreMudMagnetite.name=淤泥磁铁矿矿石
     S:oredict.oreMudMalachite.name=淤泥孔雀石矿石
-    S:oredict.oreMudManaQuartz.name=Mud Mana Quartz Ore
+    S:oredict.oreMudManaQuartz.name=淤泥魔力石英矿石
     S:oredict.oreMudManganese.name=淤泥锰矿石
     S:oredict.oreMudMaxixe.name=Mud Maxixe 矿石
     S:oredict.oreMudMeitnerium.name=淤泥䥑矿石
@@ -39023,7 +39023,7 @@ languagefile {
     S:oredict.oreNetherrackEuropium.name=下界铕矿石
     S:oredict.oreNetherrackEximite.name=下界虚空石矿石
     S:oredict.oreNetherrackFarnsium.name=下界钫矿石
-    S:oredict.oreNetherrackFerberite.name=Nether Ferberite 矿石
+    S:oredict.oreNetherrackFerberite.name=下界钨铁矿矿石
     S:oredict.oreNetherrackFermium.name=下界镄矿石
     S:oredict.oreNetherrackFerrite.name=下界铁氧体矿石
     S:oredict.oreNetherrackFerrovanadium.name=下界钒磁铁矿矿石
@@ -39114,7 +39114,7 @@ languagefile {
     S:oredict.oreNetherrackMagnesiumChloride.name=下界氯化镁矿石
     S:oredict.oreNetherrackMagnetite.name=下界磁铁矿矿石
     S:oredict.oreNetherrackMalachite.name=下界孔雀石矿石
-    S:oredict.oreNetherrackManaQuartz.name=Nether Mana Quartz Ore
+    S:oredict.oreNetherrackManaQuartz.name=下界魔力石英矿石
     S:oredict.oreNetherrackManganese.name=下界锰矿石
     S:oredict.oreNetherrackMaxixe.name=Nether Maxixe 矿石
     S:oredict.oreNetherrackMeitnerium.name=下界䥑矿石
@@ -40118,7 +40118,7 @@ languagefile {
     S:oredict.oreRedgraniteEuropium.name=红色花岗岩铕矿石
     S:oredict.oreRedgraniteEximite.name=红色花岗岩虚空石矿石
     S:oredict.oreRedgraniteFarnsium.name=红色花岗岩钫矿石
-    S:oredict.oreRedgraniteFerberite.name=Granite Ferberite 矿石
+    S:oredict.oreRedgraniteFerberite.name=红色花岗岩钨铁矿矿石
     S:oredict.oreRedgraniteFermium.name=红色花岗岩镄矿石
     S:oredict.oreRedgraniteFerrite.name=红色花岗岩铁氧体矿石
     S:oredict.oreRedgraniteFerrovanadium.name=红色花岗岩钒磁铁矿矿石
@@ -40209,7 +40209,7 @@ languagefile {
     S:oredict.oreRedgraniteMagnesiumChloride.name=红色花岗岩氯化镁矿石
     S:oredict.oreRedgraniteMagnetite.name=红色花岗岩磁铁矿矿石
     S:oredict.oreRedgraniteMalachite.name=红色花岗岩孔雀石矿石
-    S:oredict.oreRedgraniteManaQuartz.name=Granite Mana Quartz Ore
+    S:oredict.oreRedgraniteManaQuartz.name=红色花岗岩魔力石英矿石
     S:oredict.oreRedgraniteManganese.name=红色花岗岩锰矿石
     S:oredict.oreRedgraniteMaxixe.name=Granite Maxixe 矿石
     S:oredict.oreRedgraniteMeitnerium.name=红色花岗岩䥑矿石
@@ -41706,7 +41706,7 @@ languagefile {
     S:oredict.oreSmallEuropium.name=贫瘠铕矿石
     S:oredict.oreSmallEximite.name=贫瘠虚空石矿石
     S:oredict.oreSmallFarnsium.name=贫瘠钫矿石
-    S:oredict.oreSmallFerberite.name=Small Ferberite 矿石
+    S:oredict.oreSmallFerberite.name=贫瘠钨铁矿矿石
     S:oredict.oreSmallFermium.name=贫瘠镄矿石
     S:oredict.oreSmallFerrite.name=贫瘠铁氧体矿石
     S:oredict.oreSmallFerrovanadium.name=贫瘠钒磁铁矿矿石
@@ -41796,7 +41796,7 @@ languagefile {
     S:oredict.oreSmallMagnesiumChloride.name=贫瘠氯化镁矿石
     S:oredict.oreSmallMagnetite.name=贫瘠磁铁矿矿石
     S:oredict.oreSmallMalachite.name=贫瘠孔雀石矿石
-    S:oredict.oreSmallManaQuartz.name=Small Mana Quartz Ore
+    S:oredict.oreSmallManaQuartz.name=贫瘠魔力石英矿石
     S:oredict.oreSmallManganese.name=贫瘠锰矿石
     S:oredict.oreSmallMaxixe.name=Small Maxixe 矿石
     S:oredict.oreSmallMeitnerium.name=贫瘠䥑矿石
@@ -42228,7 +42228,7 @@ languagefile {
     S:oredict.oreSpaceEuropium.name=太空铕矿石
     S:oredict.oreSpaceEximite.name=太空虚空石矿石
     S:oredict.oreSpaceFarnsium.name=太空钫矿石
-    S:oredict.oreSpaceFerberite.name=Space Ferberite Ore
+    S:oredict.oreSpaceFerberite.name=太空钨铁矿矿石
     S:oredict.oreSpaceFermium.name=太空镄矿石
     S:oredict.oreSpaceFerrite.name=太空铁氧体矿石
     S:oredict.oreSpaceFerrovanadium.name=太空钒磁铁矿矿石
@@ -42317,7 +42317,7 @@ languagefile {
     S:oredict.oreSpaceMagnesiumChloride.name=太空氯化镁矿石
     S:oredict.oreSpaceMagnetite.name=太空磁铁矿矿石
     S:oredict.oreSpaceMalachite.name=太空孔雀石矿石
-    S:oredict.oreSpaceManaQuartz.name=Space Mana Quartz Ore
+    S:oredict.oreSpaceManaQuartz.name=太空魔力石英矿石
     S:oredict.oreSpaceManganese.name=太空锰矿石
     S:oredict.oreSpaceMaxixe.name=Space Maxixe 矿石
     S:oredict.oreSpaceMeitnerium.name=太空䥑矿石
@@ -42789,7 +42789,7 @@ languagefile {
     S:oredict.oreVanillagraniteEuropium.name=花岗岩铕矿石
     S:oredict.oreVanillagraniteEximite.name=花岗岩虚空石矿石
     S:oredict.oreVanillagraniteFarnsium.name=花岗岩钫矿石
-    S:oredict.oreVanillagraniteFerberite.name=Granite Ferberite Ore
+    S:oredict.oreVanillagraniteFerberite.name=花岗岩钨铁矿矿石
     S:oredict.oreVanillagraniteFermium.name=花岗岩镄矿石
     S:oredict.oreVanillagraniteFerrite.name=花岗岩铁氧体矿石
     S:oredict.oreVanillagraniteFerrovanadium.name=花岗岩钒磁铁矿矿石
@@ -42878,7 +42878,7 @@ languagefile {
     S:oredict.oreVanillagraniteMagnesiumChloride.name=花岗岩氯化镁矿石
     S:oredict.oreVanillagraniteMagnetite.name=花岗岩磁铁矿矿石
     S:oredict.oreVanillagraniteMalachite.name=花岗岩孔雀石矿石
-    S:oredict.oreVanillagraniteManaQuartz.name=Granite Mana Quartz Ore
+    S:oredict.oreVanillagraniteManaQuartz.name=花岗岩魔力石英矿石
     S:oredict.oreVanillagraniteManganese.name=花岗岩锰矿石
     S:oredict.oreVanillagraniteMaxixe.name=Granite Maxixe Ore
     S:oredict.oreVanillagraniteMeitnerium.name=花岗岩䥑矿石
@@ -43879,7 +43879,7 @@ languagefile {
     S:oredict.plantGtBerryEuropium.name=铕莓
     S:oredict.plantGtBerryEximite.name=虚空石莓
     S:oredict.plantGtBerryFarnsium.name=钫莓
-    S:oredict.plantGtBerryFerberite.name=Ferberite Berry
+    S:oredict.plantGtBerryFerberite.name=钨铁矿莓
     S:oredict.plantGtBerryFermium.name=镄莓
     S:oredict.plantGtBerryFerricChloride.name=氯化铁莓
     S:oredict.plantGtBerryFerrite.name=铁氧体莓
@@ -44048,7 +44048,7 @@ languagefile {
     S:oredict.plantGtBerryMagnesiumChloride.name=氯化镁莓
     S:oredict.plantGtBerryMagnetite.name=磁铁矿莓
     S:oredict.plantGtBerryMalachite.name=孔雀石莓
-    S:oredict.plantGtBerryManaQuartz.name=Mana Quartz Berry
+    S:oredict.plantGtBerryManaQuartz.name=魔力石英莓
     S:oredict.plantGtBerryManasteel.name=魔力钢莓
     S:oredict.plantGtBerryManganese.name=锰莓
     S:oredict.plantGtBerryManganeseChloride.name=氯化锰莓
@@ -44756,7 +44756,7 @@ languagefile {
     S:oredict.plantGtBlossomEuropium.name=铕花
     S:oredict.plantGtBlossomEximite.name=虚空石花
     S:oredict.plantGtBlossomFarnsium.name=钫花
-    S:oredict.plantGtBlossomFerberite.name=Ferberite Blossom
+    S:oredict.plantGtBlossomFerberite.name=钨铁矿花
     S:oredict.plantGtBlossomFermium.name=镄花
     S:oredict.plantGtBlossomFerricChloride.name=氯化铁花
     S:oredict.plantGtBlossomFerrite.name=铁氧体花
@@ -44924,7 +44924,7 @@ languagefile {
     S:oredict.plantGtBlossomMagnesiumChloride.name=氯化镁花
     S:oredict.plantGtBlossomMagnetite.name=磁铁矿花
     S:oredict.plantGtBlossomMalachite.name=孔雀石花
-    S:oredict.plantGtBlossomManaQuartz.name=Mana Quartz Blossom
+    S:oredict.plantGtBlossomManaQuartz.name=魔力石英花
     S:oredict.plantGtBlossomManasteel.name=魔力钢花
     S:oredict.plantGtBlossomManganese.name=锰花
     S:oredict.plantGtBlossomManganeseChloride.name=氯化锰花
@@ -45632,7 +45632,7 @@ languagefile {
     S:oredict.plantGtFiberEuropium.name=生铕丝
     S:oredict.plantGtFiberEximite.name=生虚空石丝
     S:oredict.plantGtFiberFarnsium.name=生钫丝
-    S:oredict.plantGtFiberFerberite.name=Raw Ferberite Fiber
+    S:oredict.plantGtFiberFerberite.name=生钨铁矿丝
     S:oredict.plantGtFiberFermium.name=生镄丝
     S:oredict.plantGtFiberFerricChloride.name=生氯化铁丝
     S:oredict.plantGtFiberFerrite.name=生铁氧体丝
@@ -45800,7 +45800,7 @@ languagefile {
     S:oredict.plantGtFiberMagnesiumChloride.name=生氯化镁丝
     S:oredict.plantGtFiberMagnetite.name=生磁铁矿丝
     S:oredict.plantGtFiberMalachite.name=生孔雀石丝
-    S:oredict.plantGtFiberManaQuartz.name=Raw Mana Quartz Fiber
+    S:oredict.plantGtFiberManaQuartz.name=生魔力石英丝
     S:oredict.plantGtFiberManasteel.name=生魔力钢丝
     S:oredict.plantGtFiberManganese.name=生锰丝
     S:oredict.plantGtFiberManganeseChloride.name=生氯化锰丝
@@ -46508,7 +46508,7 @@ languagefile {
     S:oredict.plantGtTwigEuropium.name=铕细枝
     S:oredict.plantGtTwigEximite.name=虚空石细枝
     S:oredict.plantGtTwigFarnsium.name=钫细枝
-    S:oredict.plantGtTwigFerberite.name=Ferberite Twig
+    S:oredict.plantGtTwigFerberite.name=钨铁矿细枝
     S:oredict.plantGtTwigFermium.name=镄细枝
     S:oredict.plantGtTwigFerricChloride.name=氯化铁细枝
     S:oredict.plantGtTwigFerrite.name=铁氧体细枝
@@ -46676,7 +46676,7 @@ languagefile {
     S:oredict.plantGtTwigMagnesiumChloride.name=氯化镁细枝
     S:oredict.plantGtTwigMagnetite.name=磁铁矿细枝
     S:oredict.plantGtTwigMalachite.name=孔雀石细枝
-    S:oredict.plantGtTwigManaQuartz.name=Mana Quartz Twig
+    S:oredict.plantGtTwigManaQuartz.name=魔力石英细枝
     S:oredict.plantGtTwigManasteel.name=魔力钢细枝
     S:oredict.plantGtTwigManganese.name=锰细枝
     S:oredict.plantGtTwigManganeseChloride.name=氯化锰细枝
@@ -47387,7 +47387,7 @@ languagefile {
     S:oredict.plantGtWartEuropium.name=铕疣
     S:oredict.plantGtWartEximite.name=虚空石疣
     S:oredict.plantGtWartFarnsium.name=钫疣
-    S:oredict.plantGtWartFerberite.name=Ferberite Wart
+    S:oredict.plantGtWartFerberite.name=钨铁矿疣
     S:oredict.plantGtWartFermium.name=镄疣
     S:oredict.plantGtWartFerricChloride.name=氯化铁疣
     S:oredict.plantGtWartFerrite.name=铁氧体疣
@@ -47555,7 +47555,7 @@ languagefile {
     S:oredict.plantGtWartMagnesiumChloride.name=氯化镁疣
     S:oredict.plantGtWartMagnetite.name=磁铁矿疣
     S:oredict.plantGtWartMalachite.name=孔雀石疣
-    S:oredict.plantGtWartManaQuartz.name=Mana Quartz Wart
+    S:oredict.plantGtWartManaQuartz.name=魔力石英疣
     S:oredict.plantGtWartManasteel.name=魔力钢疣
     S:oredict.plantGtWartManganese.name=锰疣
     S:oredict.plantGtWartManganeseChloride.name=氯化锰疣
@@ -51532,7 +51532,7 @@ languagefile {
     S:oredict.ringLumium.name=流明环
     S:oredict.ringMagic.name=魔法环
     S:oredict.ringMagnalium.name=镁铝合金环
-    S:oredict.ringManaQuartz.name=Mana Quartz Ring
+    S:oredict.ringManaQuartz.name=魔力石英环
     S:oredict.ringManasteel.name=魔力钢环
     S:oredict.ringManganese.name=锰环
     S:oredict.ringManyullyn.name=玛玉灵环
@@ -52389,7 +52389,7 @@ languagefile {
     S:oredict.rotorLumium.name=流明转子
     S:oredict.rotorMagic.name=魔法转子
     S:oredict.rotorMagnalium.name=镁铝合金转子
-    S:oredict.rotorManaQuartz.name=Mana Quartz Rotor
+    S:oredict.rotorManaQuartz.name=魔力石英转子
     S:oredict.rotorManasteel.name=魔力钢转子
     S:oredict.rotorManganese.name=锰转子
     S:oredict.rotorManyullyn.name=玛玉灵转子
@@ -52693,7 +52693,7 @@ languagefile {
     S:oredict.roundLumium.name=流明垫片
     S:oredict.roundMagic.name=魔法垫片
     S:oredict.roundMagnalium.name=镁铝合金垫片
-    S:oredict.roundManaQuartz.name=Mana Quartz Round
+    S:oredict.roundManaQuartz.name=魔力石英垫片
     S:oredict.roundManasteel.name=魔力钢垫片
     S:oredict.roundManganese.name=锰垫片
     S:oredict.roundManyullyn.name=玛玉灵垫片
@@ -53174,7 +53174,7 @@ languagefile {
     S:oredict.scrapGtEuropium.name=铕废料
     S:oredict.scrapGtEximite.name=虚空石废料
     S:oredict.scrapGtFarnsium.name=钫废料
-    S:oredict.scrapGtFerberite.name=Ferberite 废料
+    S:oredict.scrapGtFerberite.name=钨铁矿废料
     S:oredict.scrapGtFermium.name=镄废料
     S:oredict.scrapGtFerricChloride.name=氯化铁废料
     S:oredict.scrapGtFerrite.name=铁氧体废料
@@ -53318,7 +53318,7 @@ languagefile {
     S:oredict.scrapGtMagnesiumChloride.name=氯化镁废料
     S:oredict.scrapGtMagnetite.name=磁铁矿废料
     S:oredict.scrapGtMalachite.name=孔雀石废料
-    S:oredict.scrapGtManaQuartz.name=Mana Quartz 废料
+    S:oredict.scrapGtManaQuartz.name=魔力石英废料
     S:oredict.scrapGtManasteel.name=魔力钢废料
     S:oredict.scrapGtManganese.name=锰废料
     S:oredict.scrapGtManganeseChloride.name=氯化锰废料
@@ -53975,7 +53975,7 @@ languagefile {
     S:oredict.screwMagnalium.name=镁铝合金螺丝
     S:oredict.screwMagnesium.name=镁螺丝
     S:oredict.screwMalachite.name=孔雀石螺丝
-    S:oredict.screwManaQuartz.name=Mana Quartz Screw
+    S:oredict.screwManaQuartz.name=魔力石英螺丝
     S:oredict.screwManasteel.name=魔力钢螺丝
     S:oredict.screwManganese.name=锰螺丝
     S:oredict.screwManyullyn.name=玛玉灵螺丝
@@ -54309,7 +54309,7 @@ languagefile {
     S:oredict.shurikenLimestone.name=石灰石飞镖
     S:oredict.shurikenMagic.name=魔法飞镖
     S:oredict.shurikenMagnalium.name=镁铝合金飞镖
-    S:oredict.shurikenManaQuartz.name=Mana Quartz Shuriken
+    S:oredict.shurikenManaQuartz.name=魔力石英飞镖
     S:oredict.shurikenManasteel.name=魔力钢飞镖
     S:oredict.shurikenManganese.name=锰飞镖
     S:oredict.shurikenManyullyn.name=玛玉灵飞镖
@@ -55602,7 +55602,7 @@ languagefile {
     S:oredict.stickLongMagnalium.name=长镁铝合金杆
     S:oredict.stickLongMagnesium.name=长镁杆
     S:oredict.stickLongMalachite.name=长孔雀石杆
-    S:oredict.stickLongManaQuartz.name=Long Mana Quartz Rod
+    S:oredict.stickLongManaQuartz.name=长魔力石英杆
     S:oredict.stickLongManasteel.name=长魔力钢杆
     S:oredict.stickLongManganese.name=长锰杆
     S:oredict.stickLongManyullyn.name=长玛玉灵杆
@@ -55803,7 +55803,7 @@ languagefile {
     S:oredict.stickMagnalium.name=镁铝合金杆
     S:oredict.stickMagnesium.name=镁杆
     S:oredict.stickMalachite.name=孔雀石杆
-    S:oredict.stickManaQuartz.name=Mana Quartz Rod
+    S:oredict.stickManaQuartz.name=魔力石英杆
     S:oredict.stickManasteel.name=魔力钢杆
     S:oredict.stickManganese.name=锰杆
     S:oredict.stickManyullyn.name=玛玉灵杆
@@ -56140,7 +56140,7 @@ languagefile {
     S:oredict.toolHeadArrowLead.name=铅箭头
     S:oredict.toolHeadArrowLimestone.name=石灰石箭头
     S:oredict.toolHeadArrowMagnalium.name=镁铝合金箭头
-    S:oredict.toolHeadArrowManaQuartz.name=Mana Quartz 箭头
+    S:oredict.toolHeadArrowManaQuartz.name=魔力石英箭头
     S:oredict.toolHeadArrowManasteel.name=魔力钢箭头
     S:oredict.toolHeadArrowManganese.name=锰箭头
     S:oredict.toolHeadArrowManyullyn.name=玛玉灵箭头
@@ -56661,7 +56661,7 @@ languagefile {
     S:oredict.toolHeadAxeLimestone.name=石灰石斧头
     S:oredict.toolHeadAxeMagic.name=魔法斧头
     S:oredict.toolHeadAxeMagnalium.name=镁铝合金斧头
-    S:oredict.toolHeadAxeManaQuartz.name=Mana Quartz Axe Head
+    S:oredict.toolHeadAxeManaQuartz.name=魔力石英斧头
     S:oredict.toolHeadAxeManasteel.name=魔力钢斧头
     S:oredict.toolHeadAxeManganese.name=锰斧头
     S:oredict.toolHeadAxeManyullyn.name=玛玉灵斧头
@@ -58359,7 +58359,7 @@ languagefile {
     S:oredict.toolHeadHammerLimestone.name=石灰石锤头
     S:oredict.toolHeadHammerMagic.name=魔法锤头
     S:oredict.toolHeadHammerMagnalium.name=镁铝合金锤头
-    S:oredict.toolHeadHammerManaQuartz.name=Mana Quartz Hammer Head
+    S:oredict.toolHeadHammerManaQuartz.name=魔力石英锤头
     S:oredict.toolHeadHammerManasteel.name=魔力钢锤头
     S:oredict.toolHeadHammerManganese.name=锰锤头
     S:oredict.toolHeadHammerManyullyn.name=玛玉灵锤头
@@ -58638,7 +58638,7 @@ languagefile {
     S:oredict.toolHeadHoeLimestone.name=石灰石锄头
     S:oredict.toolHeadHoeMagic.name=魔法锄头
     S:oredict.toolHeadHoeMagnalium.name=镁铝合金锄头
-    S:oredict.toolHeadHoeManaQuartz.name=Mana Quartz Hoe Head
+    S:oredict.toolHeadHoeManaQuartz.name=魔力石英锄头
     S:oredict.toolHeadHoeManasteel.name=魔力钢锄头
     S:oredict.toolHeadHoeManganese.name=锰锄头
     S:oredict.toolHeadHoeManyullyn.name=玛玉灵锄头
@@ -59391,7 +59391,7 @@ languagefile {
     S:oredict.toolHeadPickaxeLimestone.name=石灰石镐头
     S:oredict.toolHeadPickaxeMagic.name=魔法镐头
     S:oredict.toolHeadPickaxeMagnalium.name=镁铝合金镐头
-    S:oredict.toolHeadPickaxeManaQuartz.name=Mana Quartz Pickaxe Head
+    S:oredict.toolHeadPickaxeManaQuartz.name=魔力石英镐头
     S:oredict.toolHeadPickaxeManasteel.name=魔力钢镐头
     S:oredict.toolHeadPickaxeManganese.name=锰镐头
     S:oredict.toolHeadPickaxeManyullyn.name=玛玉灵镐头
@@ -59672,7 +59672,7 @@ languagefile {
     S:oredict.toolHeadPlowLimestone.name=石灰石犁头
     S:oredict.toolHeadPlowMagic.name=魔法犁头
     S:oredict.toolHeadPlowMagnalium.name=镁铝合金犁头
-    S:oredict.toolHeadPlowManaQuartz.name=Mana Quartz Plow Head
+    S:oredict.toolHeadPlowManaQuartz.name=魔力石英犁头
     S:oredict.toolHeadPlowManasteel.name=魔力钢犁头
     S:oredict.toolHeadPlowManganese.name=锰犁头
     S:oredict.toolHeadPlowManyullyn.name=玛玉灵犁头
@@ -59947,7 +59947,7 @@ languagefile {
     S:oredict.toolHeadRawArrowLead.name=粗糙的铅箭头
     S:oredict.toolHeadRawArrowLimestone.name=粗糙的石灰石箭头
     S:oredict.toolHeadRawArrowMagnalium.name=粗糙的镁铝合金箭头
-    S:oredict.toolHeadRawArrowManaQuartz.name=Raw Mana Quartz 箭头
+    S:oredict.toolHeadRawArrowManaQuartz.name=粗糙的魔力石英箭头
     S:oredict.toolHeadRawArrowManasteel.name=粗糙的魔力钢箭头
     S:oredict.toolHeadRawArrowManganese.name=粗糙的锰箭头
     S:oredict.toolHeadRawArrowManyullyn.name=粗糙的玛玉灵箭头
@@ -60468,7 +60468,7 @@ languagefile {
     S:oredict.toolHeadRawAxeLimestone.name=粗糙的石灰石斧头
     S:oredict.toolHeadRawAxeMagic.name=粗糙的魔法斧头
     S:oredict.toolHeadRawAxeMagnalium.name=粗糙的镁铝合金斧头
-    S:oredict.toolHeadRawAxeManaQuartz.name=Raw Mana Quartz Axe Head
+    S:oredict.toolHeadRawAxeManaQuartz.name=粗糙的魔力石英斧头
     S:oredict.toolHeadRawAxeManasteel.name=粗糙的魔力钢斧头
     S:oredict.toolHeadRawAxeManganese.name=粗糙的锰斧头
     S:oredict.toolHeadRawAxeManyullyn.name=粗糙的玛玉灵斧头
@@ -60986,7 +60986,7 @@ languagefile {
     S:oredict.toolHeadRawHoeLimestone.name=粗糙的石灰石锄头
     S:oredict.toolHeadRawHoeMagic.name=粗糙的魔法锄头
     S:oredict.toolHeadRawHoeMagnalium.name=粗糙的镁铝合金锄头
-    S:oredict.toolHeadRawHoeManaQuartz.name=Raw Mana Quartz Hoe Head
+    S:oredict.toolHeadRawHoeManaQuartz.name=粗糙的魔力石英锄头
     S:oredict.toolHeadRawHoeManasteel.name=粗糙的魔力钢锄头
     S:oredict.toolHeadRawHoeManganese.name=粗糙的锰锄头
     S:oredict.toolHeadRawHoeManyullyn.name=粗糙的玛玉灵锄头
@@ -61689,7 +61689,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeLimestone.name=粗糙的石灰石镐头
     S:oredict.toolHeadRawPickaxeMagic.name=粗糙的魔法镐头
     S:oredict.toolHeadRawPickaxeMagnalium.name=粗糙的镁铝合金镐头
-    S:oredict.toolHeadRawPickaxeManaQuartz.name=Raw Mana Quartz Pickaxe Head
+    S:oredict.toolHeadRawPickaxeManaQuartz.name=粗糙的魔力石英镐头
     S:oredict.toolHeadRawPickaxeManasteel.name=粗糙的魔力钢镐头
     S:oredict.toolHeadRawPickaxeManganese.name=粗糙的锰镐头
     S:oredict.toolHeadRawPickaxeManyullyn.name=粗糙的玛玉灵镐头
@@ -61970,7 +61970,7 @@ languagefile {
     S:oredict.toolHeadRawPlowLimestone.name=粗糙的石灰石犁头
     S:oredict.toolHeadRawPlowMagic.name=粗糙的魔法犁头
     S:oredict.toolHeadRawPlowMagnalium.name=粗糙的镁铝合金犁头
-    S:oredict.toolHeadRawPlowManaQuartz.name=Raw Mana Quartz Plow Head
+    S:oredict.toolHeadRawPlowManaQuartz.name=粗糙的魔力石英犁头
     S:oredict.toolHeadRawPlowManasteel.name=粗糙的魔力钢犁头
     S:oredict.toolHeadRawPlowManganese.name=粗糙的锰犁头
     S:oredict.toolHeadRawPlowManyullyn.name=粗糙的玛玉灵犁头
@@ -62758,7 +62758,7 @@ languagefile {
     S:oredict.toolHeadRawShovelLimestone.name=粗糙的石灰石锹头
     S:oredict.toolHeadRawShovelMagic.name=粗糙的魔法锹头
     S:oredict.toolHeadRawShovelMagnalium.name=粗糙的镁铝合金锹头
-    S:oredict.toolHeadRawShovelManaQuartz.name=Raw Mana Quartz 锹头
+    S:oredict.toolHeadRawShovelManaQuartz.name=粗糙的魔力石英锹头
     S:oredict.toolHeadRawShovelManasteel.name=粗糙的魔力钢锹头
     S:oredict.toolHeadRawShovelManganese.name=粗糙的锰锹头
     S:oredict.toolHeadRawShovelManyullyn.name=粗糙的玛玉灵锹头
@@ -63039,7 +63039,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeLimestone.name=粗糙的石灰石铲头
     S:oredict.toolHeadRawSpadeMagic.name=粗糙的魔法铲头
     S:oredict.toolHeadRawSpadeMagnalium.name=粗糙的镁铝合金铲头
-    S:oredict.toolHeadRawSpadeManaQuartz.name=Raw Mana Quartz 铲头
+    S:oredict.toolHeadRawSpadeManaQuartz.name=粗糙的魔力石英铲头
     S:oredict.toolHeadRawSpadeManasteel.name=粗糙的魔力钢铲头
     S:oredict.toolHeadRawSpadeManganese.name=粗糙的锰铲头
     S:oredict.toolHeadRawSpadeManyullyn.name=粗糙的玛玉灵铲头
@@ -63320,7 +63320,7 @@ languagefile {
     S:oredict.toolHeadRawSwordLimestone.name=粗糙的石灰石剑身
     S:oredict.toolHeadRawSwordMagic.name=粗糙的魔法剑身
     S:oredict.toolHeadRawSwordMagnalium.name=粗糙的镁铝合金剑身
-    S:oredict.toolHeadRawSwordManaQuartz.name=Raw Mana Quartz Sword Blade
+    S:oredict.toolHeadRawSwordManaQuartz.name=粗糙的魔力石英剑身
     S:oredict.toolHeadRawSwordManasteel.name=粗糙的魔力钢剑身
     S:oredict.toolHeadRawSwordManganese.name=粗糙的锰剑身
     S:oredict.toolHeadRawSwordManyullyn.name=粗糙的玛玉灵剑身
@@ -64585,7 +64585,7 @@ languagefile {
     S:oredict.toolHeadShovelLimestone.name=石灰石锹头
     S:oredict.toolHeadShovelMagic.name=魔法锹头
     S:oredict.toolHeadShovelMagnalium.name=镁铝合金锹头
-    S:oredict.toolHeadShovelManaQuartz.name=Mana Quartz 锹头
+    S:oredict.toolHeadShovelManaQuartz.name=魔力石英锹头
     S:oredict.toolHeadShovelManasteel.name=魔力钢锹头
     S:oredict.toolHeadShovelManganese.name=锰锹头
     S:oredict.toolHeadShovelManyullyn.name=玛玉灵锹头
@@ -64866,7 +64866,7 @@ languagefile {
     S:oredict.toolHeadSpadeLimestone.name=石灰石铲头
     S:oredict.toolHeadSpadeMagic.name=魔法铲头
     S:oredict.toolHeadSpadeMagnalium.name=镁铝合金铲头
-    S:oredict.toolHeadSpadeManaQuartz.name=Mana Quartz 铲头
+    S:oredict.toolHeadSpadeManaQuartz.name=魔力石英铲头
     S:oredict.toolHeadSpadeManasteel.name=魔力钢铲头
     S:oredict.toolHeadSpadeManganese.name=锰铲头
     S:oredict.toolHeadSpadeManyullyn.name=玛玉灵铲头
@@ -65147,7 +65147,7 @@ languagefile {
     S:oredict.toolHeadSwordLimestone.name=石灰石剑身
     S:oredict.toolHeadSwordMagic.name=魔法剑身
     S:oredict.toolHeadSwordMagnalium.name=镁铝合金剑身
-    S:oredict.toolHeadSwordManaQuartz.name=Mana Quartz Sword Blade
+    S:oredict.toolHeadSwordManaQuartz.name=魔力石英剑身
     S:oredict.toolHeadSwordManasteel.name=魔力钢剑身
     S:oredict.toolHeadSwordManganese.name=锰剑身
     S:oredict.toolHeadSwordManyullyn.name=玛玉灵剑身
