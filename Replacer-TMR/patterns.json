@@ -318,7 +318,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space).+",
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars).+",
         "value": "(?P<mw>.+) Ore",
         "repl": "{0}",
         "priority": 2000
@@ -414,16 +414,16 @@
         "priority": 1000
     },
     {
-        "name": "oredict.block.+",
-        "value": "Block of (?P<mw>.+)",
-        "repl": "{0}块",
-        "priority": 2000
-    },
-    {
         "name": "oredict.oreMars.+",
         "value": "Mars (?P<mw>.+)",
         "repl": "火星{0}矿石",
         "priority": 1000
+    },
+    {
+        "name": "oredict.block.+",
+        "value": "Block of (?P<mw>.+)",
+        "repl": "{0}块",
+        "priority": 2000
     },
     {
         "name": "oredict.blockDust.+",
