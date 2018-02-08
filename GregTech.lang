@@ -469,7 +469,7 @@ languagefile {
     S:fluid.molten.iron=熔融铁
     S:fluid.molten.ironwood=熔融铁木
     S:fluid.molten.knightmetal=熔融骑士金属
-    S:fluid.molten.kreknorite=Molten Kreknorite
+    S:fluid.molten.kreknorite=熔融炽焰陨石
     S:fluid.molten.latex=天然橡胶
     S:fluid.molten.lead=熔融铅
     S:fluid.molten.lithiumchloride=熔融氯化锂
@@ -12348,7 +12348,7 @@ languagefile {
     S:oredict.arrowGtPlasticKanthal.name=轻质铁铬铝合金箭
     S:oredict.arrowGtPlasticKnightmetal.name=轻质骑士金属箭
     S:oredict.arrowGtPlasticKomatiite.name=轻质科马提岩箭
-    S:oredict.arrowGtPlasticKreknorite.name=Light Kreknorite 箭
+    S:oredict.arrowGtPlasticKreknorite.name=轻质炽焰陨石箭
     S:oredict.arrowGtPlasticLavenderQuartz.name=轻质熏香石英箭
     S:oredict.arrowGtPlasticLead.name=轻质铅箭
     S:oredict.arrowGtPlasticLimestone.name=轻质石灰石箭
@@ -12624,7 +12624,7 @@ languagefile {
     S:oredict.arrowGtWoodKanthal.name=铁铬铝合金箭
     S:oredict.arrowGtWoodKnightmetal.name=骑士金属箭
     S:oredict.arrowGtWoodKomatiite.name=科马提岩箭
-    S:oredict.arrowGtWoodKreknorite.name=Kreknorite 箭
+    S:oredict.arrowGtWoodKreknorite.name=炽焰陨石箭
     S:oredict.arrowGtWoodLavenderQuartz.name=熏香石英箭
     S:oredict.arrowGtWoodLead.name=铅箭
     S:oredict.arrowGtWoodLimestone.name=石灰石箭
@@ -13208,7 +13208,7 @@ languagefile {
     S:oredict.blockDustKesterite.name=锌黄锡矿粉块
     S:oredict.blockDustKnightmetal.name=骑士金属粉块
     S:oredict.blockDustKomatiite.name=科马提岩粉块
-    S:oredict.blockDustKreknorite.name=Block of Kreknorite Dust
+    S:oredict.blockDustKreknorite.name=炽焰陨石粉块
     S:oredict.blockDustKyanite.name=蓝晶石粉块
     S:oredict.blockDustLantanium.name=镧粉块
     S:oredict.blockDustLapis.name=青金石粉块
@@ -14473,7 +14473,7 @@ languagefile {
     S:oredict.blockPlateKanthal.name=铁铬铝合金板块
     S:oredict.blockPlateKnightmetal.name=骑士金属板块
     S:oredict.blockPlateKomatiite.name=科马提岩板块
-    S:oredict.blockPlateKreknorite.name=Block of Kreknorite Plate
+    S:oredict.blockPlateKreknorite.name=炽焰陨石板块
     S:oredict.blockPlateLantanium.name=镧板块
     S:oredict.blockPlateLawrencium.name=铹板块
     S:oredict.blockPlateLead.name=铅板块
@@ -15374,7 +15374,7 @@ languagefile {
     S:oredict.boltKanthal.name=铁铬铝合金螺栓
     S:oredict.boltKnightmetal.name=骑士金属螺栓
     S:oredict.boltKomatiite.name=科马提岩螺栓
-    S:oredict.boltKreknorite.name=Kreknorite Bolt
+    S:oredict.boltKreknorite.name=炽焰陨石螺栓
     S:oredict.boltLantanium.name=镧螺栓
     S:oredict.boltLapis.name=青金石螺栓
     S:oredict.boltLavenderQuartz.name=熏香石英螺栓
@@ -16405,7 +16405,7 @@ languagefile {
     S:oredict.casingSmallKanthal.name=铁铬铝合金外壳
     S:oredict.casingSmallKnightmetal.name=骑士金属外壳
     S:oredict.casingSmallKomatiite.name=科马提岩外壳
-    S:oredict.casingSmallKreknorite.name=Kreknorite Item Casing
+    S:oredict.casingSmallKreknorite.name=炽焰陨石外壳
     S:oredict.casingSmallLavenderQuartz.name=熏香石英外壳
     S:oredict.casingSmallLead.name=铅外壳
     S:oredict.casingSmallLimestone.name=石灰石外壳
@@ -17592,7 +17592,7 @@ languagefile {
     S:oredict.chemtubeKesterite.name=锌黄锡矿试管
     S:oredict.chemtubeKnightmetal.name=骑士金属试管
     S:oredict.chemtubeKomatiite.name=科马提岩试管
-    S:oredict.chemtubeKreknorite.name=Glass Tube containing Kreknorite
+    S:oredict.chemtubeKreknorite.name=炽焰陨石试管
     S:oredict.chemtubeKrypton.name=氪试管
     S:oredict.chemtubeKyanite.name=蓝晶石试管
     S:oredict.chemtubeLantanium.name=镧试管
@@ -18422,7 +18422,7 @@ languagefile {
     S:oredict.chunkGtKalendrite.name=幽冥魂石小块
     S:oredict.chunkGtKanthal.name=铁铬铝合金小块
     S:oredict.chunkGtKnightmetal.name=骑士金属小块
-    S:oredict.chunkGtKreknorite.name=Kreknorite Chunk
+    S:oredict.chunkGtKreknorite.name=炽焰陨石小块
     S:oredict.chunkGtLantanium.name=镧小块
     S:oredict.chunkGtLawrencium.name=铹小块
     S:oredict.chunkGtLead.name=铅小块
@@ -19034,7 +19034,7 @@ languagefile {
     S:oredict.crateGtDustKesterite.name=锌黄锡矿粉板条箱
     S:oredict.crateGtDustKnightmetal.name=骑士金属粉板条箱
     S:oredict.crateGtDustKomatiite.name=科马提岩粉板条箱
-    S:oredict.crateGtDustKreknorite.name=Crate of Kreknorite Dust
+    S:oredict.crateGtDustKreknorite.name=炽焰陨石粉板条箱
     S:oredict.crateGtDustKyanite.name=蓝晶石粉板条箱
     S:oredict.crateGtDustLantanium.name=镧粉板条箱
     S:oredict.crateGtDustLapis.name=青金石粉板条箱
@@ -20298,7 +20298,7 @@ languagefile {
     S:oredict.crateGtPlateKanthal.name=铁铬铝合金板板条箱
     S:oredict.crateGtPlateKnightmetal.name=骑士金属板板条箱
     S:oredict.crateGtPlateKomatiite.name=科马提岩板板条箱
-    S:oredict.crateGtPlateKreknorite.name=Crate of Kreknorite Plate
+    S:oredict.crateGtPlateKreknorite.name=炽焰陨石板板条箱
     S:oredict.crateGtPlateLantanium.name=镧板板条箱
     S:oredict.crateGtPlateLawrencium.name=铹板板条箱
     S:oredict.crateGtPlateLead.name=铅板板条箱
@@ -20985,7 +20985,7 @@ languagefile {
     S:oredict.crushedCentrifugedKalendrite.name=离心幽冥魂石矿石
     S:oredict.crushedCentrifugedKaolinite.name=离心高岭石
     S:oredict.crushedCentrifugedKesterite.name=离心锌黄锡矿矿石
-    S:oredict.crushedCentrifugedKreknorite.name=Refined Kreknorite 矿石
+    S:oredict.crushedCentrifugedKreknorite.name=离心炽焰陨石矿石
     S:oredict.crushedCentrifugedKyanite.name=离心蓝晶石矿石
     S:oredict.crushedCentrifugedLantanium.name=离心镧矿石
     S:oredict.crushedCentrifugedLapis.name=离心青金石矿石
@@ -21461,7 +21461,7 @@ languagefile {
     S:oredict.crushedCentrifugedTinyKalendrite.name=小撮离心幽冥魂石矿石
     S:oredict.crushedCentrifugedTinyKaolinite.name=小撮离心高岭石
     S:oredict.crushedCentrifugedTinyKesterite.name=小撮离心锌黄锡矿矿石
-    S:oredict.crushedCentrifugedTinyKreknorite.name=Tiny Refined Kreknorite 矿石
+    S:oredict.crushedCentrifugedTinyKreknorite.name=小撮离心炽焰陨石矿石
     S:oredict.crushedCentrifugedTinyKyanite.name=小撮离心蓝晶石矿石
     S:oredict.crushedCentrifugedTinyLantanium.name=小撮离心镧矿石
     S:oredict.crushedCentrifugedTinyLapis.name=小撮离心青金石矿石
@@ -21836,7 +21836,7 @@ languagefile {
     S:oredict.crushedKalendrite.name=粉碎幽冥魂石矿石
     S:oredict.crushedKaolinite.name=粉碎高岭石
     S:oredict.crushedKesterite.name=粉碎锌黄锡矿矿石
-    S:oredict.crushedKreknorite.name=Crushed Kreknorite 矿石
+    S:oredict.crushedKreknorite.name=粉碎炽焰陨石矿石
     S:oredict.crushedKyanite.name=粉碎蓝晶石矿石
     S:oredict.crushedLantanium.name=粉碎镧矿石
     S:oredict.crushedLapis.name=粉碎青金石矿石
@@ -22244,7 +22244,7 @@ languagefile {
     S:oredict.crushedPurifiedKalendrite.name=纯净幽冥魂石矿石
     S:oredict.crushedPurifiedKaolinite.name=纯净粉碎高岭石
     S:oredict.crushedPurifiedKesterite.name=纯净锌黄锡矿矿石
-    S:oredict.crushedPurifiedKreknorite.name=Purified Kreknorite 矿石
+    S:oredict.crushedPurifiedKreknorite.name=纯净炽焰陨石矿石
     S:oredict.crushedPurifiedKyanite.name=纯净蓝晶石矿石
     S:oredict.crushedPurifiedLantanium.name=纯净镧矿石
     S:oredict.crushedPurifiedLapis.name=纯净青金石矿石
@@ -22720,7 +22720,7 @@ languagefile {
     S:oredict.crushedPurifiedTinyKalendrite.name=小撮纯净幽冥魂石矿石
     S:oredict.crushedPurifiedTinyKaolinite.name=小撮纯净粉碎高岭石
     S:oredict.crushedPurifiedTinyKesterite.name=小撮纯净锌黄锡矿矿石
-    S:oredict.crushedPurifiedTinyKreknorite.name=Tiny Purified Kreknorite 矿石
+    S:oredict.crushedPurifiedTinyKreknorite.name=小撮纯净炽焰陨石矿石
     S:oredict.crushedPurifiedTinyKyanite.name=小撮纯净蓝晶石矿石
     S:oredict.crushedPurifiedTinyLantanium.name=小撮纯净镧矿石
     S:oredict.crushedPurifiedTinyLapis.name=小撮纯净青金石矿石
@@ -23354,7 +23354,7 @@ languagefile {
     S:oredict.crushedTinyKalendrite.name=小撮粉碎幽冥魂石矿石
     S:oredict.crushedTinyKaolinite.name=小撮粉碎高岭石
     S:oredict.crushedTinyKesterite.name=小撮粉碎锌黄锡矿矿石
-    S:oredict.crushedTinyKreknorite.name=Tiny Crushed Kreknorite 矿石
+    S:oredict.crushedTinyKreknorite.name=小撮粉碎炽焰陨石矿石
     S:oredict.crushedTinyKyanite.name=小撮粉碎蓝晶石矿石
     S:oredict.crushedTinyLantanium.name=小撮粉碎镧矿石
     S:oredict.crushedTinyLapis.name=小撮粉碎青金石矿石
@@ -24349,7 +24349,7 @@ languagefile {
     S:oredict.dustDiv72Kesterite.name=1/72份锌黄锡矿粉
     S:oredict.dustDiv72Knightmetal.name=1/72份骑士金属粉
     S:oredict.dustDiv72Komatiite.name=1/72份科马提岩粉
-    S:oredict.dustDiv72Kreknorite.name=1/72nd of a Pile of Kreknorite Dust
+    S:oredict.dustDiv72Kreknorite.name=1/72份炽焰陨石粉
     S:oredict.dustDiv72Kyanite.name=1/72份蓝晶石粉
     S:oredict.dustDiv72Lantanium.name=1/72份镧粉
     S:oredict.dustDiv72Lapis.name=1/72份青金石粉
@@ -25157,7 +25157,7 @@ languagefile {
     S:oredict.dustImpureKaolinite.name=含杂高岭石粉
     S:oredict.dustImpureKesterite.name=含杂锌黄锡矿粉
     S:oredict.dustImpureKomatiite.name=含杂科马提岩粉
-    S:oredict.dustImpureKreknorite.name=Impure Pile of Kreknorite Dust
+    S:oredict.dustImpureKreknorite.name=含杂炽焰陨石粉
     S:oredict.dustImpureKyanite.name=含杂蓝晶石粉
     S:oredict.dustImpureLantanium.name=含杂镧粉
     S:oredict.dustImpureLapis.name=含杂青金石粉
@@ -25410,7 +25410,7 @@ languagefile {
     S:oredict.dustKesterite.name=锌黄锡矿粉
     S:oredict.dustKnightmetal.name=骑士金属粉
     S:oredict.dustKomatiite.name=科马提岩粉
-    S:oredict.dustKreknorite.name=Kreknorite Dust
+    S:oredict.dustKreknorite.name=炽焰陨石粉
     S:oredict.dustKyanite.name=蓝晶石粉
     S:oredict.dustLantanium.name=镧粉
     S:oredict.dustLapis.name=青金石粉
@@ -25904,7 +25904,7 @@ languagefile {
     S:oredict.dustPureKaolinite.name=纯净高岭石粉
     S:oredict.dustPureKesterite.name=纯净锌黄锡矿粉
     S:oredict.dustPureKomatiite.name=纯净科马提岩粉
-    S:oredict.dustPureKreknorite.name=Purified Pile of Kreknorite Dust
+    S:oredict.dustPureKreknorite.name=纯净炽焰陨石粉
     S:oredict.dustPureKyanite.name=纯净蓝晶石粉
     S:oredict.dustPureLantanium.name=纯净镧粉
     S:oredict.dustPureLapis.name=纯净青金石粉
@@ -26633,7 +26633,7 @@ languagefile {
     S:oredict.dustSmallKesterite.name=小堆锌黄锡矿粉
     S:oredict.dustSmallKnightmetal.name=小堆骑士金属粉
     S:oredict.dustSmallKomatiite.name=小堆科马提岩粉
-    S:oredict.dustSmallKreknorite.name=Small Pile of Kreknorite Dust
+    S:oredict.dustSmallKreknorite.name=小堆炽焰陨石粉
     S:oredict.dustSmallKyanite.name=小堆蓝晶石粉
     S:oredict.dustSmallLantanium.name=小堆镧粉
     S:oredict.dustSmallLapis.name=小堆青金石粉
@@ -27495,7 +27495,7 @@ languagefile {
     S:oredict.dustTinyKesterite.name=小撮锌黄锡矿粉
     S:oredict.dustTinyKnightmetal.name=小撮骑士金属粉
     S:oredict.dustTinyKomatiite.name=小撮科马提岩粉
-    S:oredict.dustTinyKreknorite.name=Tiny Pile of Kreknorite Dust
+    S:oredict.dustTinyKreknorite.name=小撮炽焰陨石粉
     S:oredict.dustTinyKyanite.name=小撮蓝晶石粉
     S:oredict.dustTinyLantanium.name=小撮镧粉
     S:oredict.dustTinyLapis.name=小撮青金石粉
@@ -28161,7 +28161,7 @@ languagefile {
     S:oredict.foilKalendrite.name=幽冥魂石箔
     S:oredict.foilKanthal.name=铁铬铝合金箔
     S:oredict.foilKnightmetal.name=骑士金属箔
-    S:oredict.foilKreknorite.name=Kreknorite Foil
+    S:oredict.foilKreknorite.name=炽焰陨石箔
     S:oredict.foilLantanium.name=镧箔
     S:oredict.foilLawrencium.name=铹箔
     S:oredict.foilLead.name=铅箔
@@ -28473,7 +28473,7 @@ languagefile {
     S:oredict.gearGtKanthal.name=铁铬铝合金齿轮
     S:oredict.gearGtKnightmetal.name=骑士金属齿轮
     S:oredict.gearGtKomatiite.name=科马提岩齿轮
-    S:oredict.gearGtKreknorite.name=Kreknorite Gear
+    S:oredict.gearGtKreknorite.name=炽焰陨石齿轮
     S:oredict.gearGtLavenderQuartz.name=熏香石英齿轮
     S:oredict.gearGtLead.name=铅齿轮
     S:oredict.gearGtLimestone.name=石灰石齿轮
@@ -28712,7 +28712,7 @@ languagefile {
     S:oredict.gearGtSmallKanthal.name=小型铁铬铝合金齿轮
     S:oredict.gearGtSmallKnightmetal.name=小型骑士金属齿轮
     S:oredict.gearGtSmallKomatiite.name=小型科马提岩齿轮
-    S:oredict.gearGtSmallKreknorite.name=Small Kreknorite Gear
+    S:oredict.gearGtSmallKreknorite.name=小型炽焰陨石齿轮
     S:oredict.gearGtSmallLavenderQuartz.name=小型熏香石英齿轮
     S:oredict.gearGtSmallLead.name=小型铅齿轮
     S:oredict.gearGtSmallLimestone.name=小型石灰石齿轮
@@ -29735,7 +29735,7 @@ languagefile {
     S:oredict.ingotDoubleKalendrite.name=两重幽冥魂石锭
     S:oredict.ingotDoubleKanthal.name=两重铁铬铝合金锭
     S:oredict.ingotDoubleKnightmetal.name=两重骑士金属锭
-    S:oredict.ingotDoubleKreknorite.name=Double Kreknorite Ingot
+    S:oredict.ingotDoubleKreknorite.name=两重炽焰陨石锭
     S:oredict.ingotDoubleLantanium.name=两重镧锭
     S:oredict.ingotDoubleLawrencium.name=两重铹锭
     S:oredict.ingotDoubleLead.name=两重铅锭
@@ -30155,7 +30155,7 @@ languagefile {
     S:oredict.ingotHotKalendrite.name=热幽冥魂石锭
     S:oredict.ingotHotKanthal.name=热铁铬铝合金锭
     S:oredict.ingotHotKnightmetal.name=热骑士金属锭
-    S:oredict.ingotHotKreknorite.name=Hot Kreknorite Ingot
+    S:oredict.ingotHotKreknorite.name=热炽焰陨石锭
     S:oredict.ingotHotLantanium.name=热镧锭
     S:oredict.ingotHotLawrencium.name=热铹锭
     S:oredict.ingotHotLead.name=热铅锭
@@ -30311,7 +30311,7 @@ languagefile {
     S:oredict.ingotKalendrite.name=幽冥魂石锭
     S:oredict.ingotKanthal.name=铁铬铝合金锭
     S:oredict.ingotKnightmetal.name=骑士金属锭
-    S:oredict.ingotKreknorite.name=Kreknorite Ingot
+    S:oredict.ingotKreknorite.name=炽焰陨石锭
     S:oredict.ingotLantanium.name=镧锭
     S:oredict.ingotLawrencium.name=铹锭
     S:oredict.ingotLead.name=铅锭
@@ -30612,7 +30612,7 @@ languagefile {
     S:oredict.ingotQuadrupleKalendrite.name=四重幽冥魂石锭
     S:oredict.ingotQuadrupleKanthal.name=四重铁铬铝合金锭
     S:oredict.ingotQuadrupleKnightmetal.name=四重骑士金属锭
-    S:oredict.ingotQuadrupleKreknorite.name=Quadruple Kreknorite Ingot
+    S:oredict.ingotQuadrupleKreknorite.name=四重炽焰陨石锭
     S:oredict.ingotQuadrupleLantanium.name=四重镧锭
     S:oredict.ingotQuadrupleLawrencium.name=四重铹锭
     S:oredict.ingotQuadrupleLead.name=四重铅锭
@@ -30988,7 +30988,7 @@ languagefile {
     S:oredict.ingotQuintupleKalendrite.name=五重幽冥魂石锭
     S:oredict.ingotQuintupleKanthal.name=五重铁铬铝合金锭
     S:oredict.ingotQuintupleKnightmetal.name=五重骑士金属锭
-    S:oredict.ingotQuintupleKreknorite.name=Quintuple Kreknorite Ingot
+    S:oredict.ingotQuintupleKreknorite.name=五重炽焰陨石锭
     S:oredict.ingotQuintupleLantanium.name=五重镧锭
     S:oredict.ingotQuintupleLawrencium.name=五重铹锭
     S:oredict.ingotQuintupleLead.name=五重铅锭
@@ -31416,7 +31416,7 @@ languagefile {
     S:oredict.ingotTripleKalendrite.name=三重幽冥魂石锭
     S:oredict.ingotTripleKanthal.name=三重铁铬铝合金锭
     S:oredict.ingotTripleKnightmetal.name=三重骑士金属锭
-    S:oredict.ingotTripleKreknorite.name=Triple Kreknorite Ingot
+    S:oredict.ingotTripleKreknorite.name=三重炽焰陨石锭
     S:oredict.ingotTripleLantanium.name=三重镧锭
     S:oredict.ingotTripleLawrencium.name=三重铹锭
     S:oredict.ingotTripleLead.name=三重铅锭
@@ -32066,7 +32066,7 @@ languagefile {
     S:oredict.nuggetKalendrite.name=幽冥魂石粒
     S:oredict.nuggetKanthal.name=铁铬铝合金粒
     S:oredict.nuggetKnightmetal.name=骑士金属粒
-    S:oredict.nuggetKreknorite.name=Kreknorite Nugget
+    S:oredict.nuggetKreknorite.name=炽焰陨石粒
     S:oredict.nuggetLantanium.name=镧粒
     S:oredict.nuggetLawrencium.name=铹粒
     S:oredict.nuggetLead.name=铅粒
@@ -32556,7 +32556,7 @@ languagefile {
     S:oredict.oreAndesiteKalendrite.name=安山岩幽冥魂石矿石
     S:oredict.oreAndesiteKaolinite.name=安山岩高岭石矿石
     S:oredict.oreAndesiteKesterite.name=安山岩锌黄锡矿矿石
-    S:oredict.oreAndesiteKreknorite.name=Andesite Kreknorite 矿石
+    S:oredict.oreAndesiteKreknorite.name=安山岩炽焰陨石矿石
     S:oredict.oreAndesiteKyanite.name=安山岩蓝晶石矿石
     S:oredict.oreAndesiteLantanium.name=安山岩镧矿石
     S:oredict.oreAndesiteLapis.name=安山岩青金石矿石
@@ -33215,7 +33215,7 @@ languagefile {
     S:oredict.oreBasaltKalendrite.name=玄武岩幽冥魂石矿石
     S:oredict.oreBasaltKaolinite.name=玄武岩高岭石矿石
     S:oredict.oreBasaltKesterite.name=玄武岩锌黄锡矿矿石
-    S:oredict.oreBasaltKreknorite.name=Basalt Kreknorite 矿石
+    S:oredict.oreBasaltKreknorite.name=玄武岩炽焰陨石矿石
     S:oredict.oreBasaltKyanite.name=玄武岩蓝晶石矿石
     S:oredict.oreBasaltLantanium.name=玄武岩镧矿石
     S:oredict.oreBasaltLapis.name=玄武岩青金石矿石
@@ -33736,7 +33736,7 @@ languagefile {
     S:oredict.oreBedrockKalendrite.name=基岩幽冥魂石矿石
     S:oredict.oreBedrockKaolinite.name=基岩高岭石矿石
     S:oredict.oreBedrockKesterite.name=基岩锌黄锡矿矿石
-    S:oredict.oreBedrockKreknorite.name=Bedrock Kreknorite 矿石
+    S:oredict.oreBedrockKreknorite.name=基岩炽焰陨石矿石
     S:oredict.oreBedrockKyanite.name=基岩蓝晶石矿石
     S:oredict.oreBedrockLantanium.name=基岩镧矿石
     S:oredict.oreBedrockLapis.name=基岩青金石矿石
@@ -34257,7 +34257,7 @@ languagefile {
     S:oredict.oreBlackgraniteKalendrite.name=黑色花岗岩幽冥魂石矿石
     S:oredict.oreBlackgraniteKaolinite.name=黑色花岗岩高岭石矿石
     S:oredict.oreBlackgraniteKesterite.name=黑色花岗岩锌黄锡矿矿石
-    S:oredict.oreBlackgraniteKreknorite.name=Granite Kreknorite 矿石
+    S:oredict.oreBlackgraniteKreknorite.name=黑色花岗岩炽焰陨石矿石
     S:oredict.oreBlackgraniteKyanite.name=黑色花岗岩蓝晶石矿石
     S:oredict.oreBlackgraniteLantanium.name=黑色花岗岩镧矿石
     S:oredict.oreBlackgraniteLapis.name=黑色花岗岩青金石矿石
@@ -34828,7 +34828,7 @@ languagefile {
     S:oredict.oreDioriteKalendrite.name=闪长岩幽冥魂石矿石
     S:oredict.oreDioriteKaolinite.name=闪长岩高岭石矿石
     S:oredict.oreDioriteKesterite.name=闪长岩锌黄锡矿矿石
-    S:oredict.oreDioriteKreknorite.name=Diorite Kreknorite 矿石
+    S:oredict.oreDioriteKreknorite.name=闪长岩炽焰陨石矿石
     S:oredict.oreDioriteKyanite.name=闪长岩蓝晶石矿石
     S:oredict.oreDioriteLantanium.name=闪长岩镧矿石
     S:oredict.oreDioriteLapis.name=闪长岩青金石矿石
@@ -35363,7 +35363,7 @@ languagefile {
     S:oredict.oreEndstoneKalendrite.name=末地幽冥魂石矿石
     S:oredict.oreEndstoneKaolinite.name=末地高岭石矿石
     S:oredict.oreEndstoneKesterite.name=末地锌黄锡矿矿石
-    S:oredict.oreEndstoneKreknorite.name=End Kreknorite 矿石
+    S:oredict.oreEndstoneKreknorite.name=末地炽焰陨石矿石
     S:oredict.oreEndstoneKyanite.name=末地蓝晶石矿石
     S:oredict.oreEndstoneLantanium.name=末地镧矿石
     S:oredict.oreEndstoneLapis.name=末地青金石矿石
@@ -36482,7 +36482,7 @@ languagefile {
     S:oredict.oreLimestoneKalendrite.name=石灰岩幽冥魂石矿石
     S:oredict.oreLimestoneKaolinite.name=石灰岩高岭石矿石
     S:oredict.oreLimestoneKesterite.name=石灰岩锌黄锡矿矿石
-    S:oredict.oreLimestoneKreknorite.name=Limestone Kreknorite 矿石
+    S:oredict.oreLimestoneKreknorite.name=石灰岩炽焰陨石矿石
     S:oredict.oreLimestoneKyanite.name=石灰岩蓝晶石矿石
     S:oredict.oreLimestoneLantanium.name=石灰岩镧矿石
     S:oredict.oreLimestoneLapis.name=石灰岩青金石矿石
@@ -37531,7 +37531,7 @@ languagefile {
     S:oredict.oreMarsKalendrite.name=火星幽冥魂石矿石
     S:oredict.oreMarsKaolinite.name=火星高岭石矿石
     S:oredict.oreMarsKesterite.name=火星锌黄锡矿矿石
-    S:oredict.oreMarsKreknorite.name=Mars Kreknorite Ore
+    S:oredict.oreMarsKreknorite.name=火星炽焰陨石矿石
     S:oredict.oreMarsKyanite.name=火星蓝晶石矿石
     S:oredict.oreMarsLantanium.name=火星镧矿石
     S:oredict.oreMarsLapis.name=火星青金石矿石
@@ -38055,7 +38055,7 @@ languagefile {
     S:oredict.oreMoonKalendrite.name=月球幽冥魂石矿石
     S:oredict.oreMoonKaolinite.name=月球高岭石矿石
     S:oredict.oreMoonKesterite.name=月球锌黄锡矿矿石
-    S:oredict.oreMoonKreknorite.name=Moon Kreknorite Ore
+    S:oredict.oreMoonKreknorite.name=月球炽焰陨石矿石
     S:oredict.oreMoonKyanite.name=月球蓝晶石矿石
     S:oredict.oreMoonLantanium.name=月球镧矿石
     S:oredict.oreMoonLapis.name=月球青金石矿石
@@ -38567,7 +38567,7 @@ languagefile {
     S:oredict.oreMudKalendrite.name=淤泥幽冥魂石矿石
     S:oredict.oreMudKaolinite.name=淤泥高岭石矿石
     S:oredict.oreMudKesterite.name=淤泥锌黄锡矿矿石
-    S:oredict.oreMudKreknorite.name=Mud Kreknorite 矿石
+    S:oredict.oreMudKreknorite.name=淤泥炽焰陨石矿石
     S:oredict.oreMudKyanite.name=淤泥蓝晶石矿石
     S:oredict.oreMudLantanium.name=淤泥镧矿石
     S:oredict.oreMudLapis.name=淤泥青金石矿石
@@ -39089,7 +39089,7 @@ languagefile {
     S:oredict.oreNetherrackKalendrite.name=下界幽冥魂石矿石
     S:oredict.oreNetherrackKaolinite.name=下界高岭石矿石
     S:oredict.oreNetherrackKesterite.name=下界锌黄锡矿矿石
-    S:oredict.oreNetherrackKreknorite.name=Nether Kreknorite 矿石
+    S:oredict.oreNetherrackKreknorite.name=下界炽焰陨石矿石
     S:oredict.oreNetherrackKyanite.name=下界蓝晶石矿石
     S:oredict.oreNetherrackLantanium.name=下界镧矿石
     S:oredict.oreNetherrackLapis.name=下界青金石矿石
@@ -40184,7 +40184,7 @@ languagefile {
     S:oredict.oreRedgraniteKalendrite.name=红色花岗岩幽冥魂石矿石
     S:oredict.oreRedgraniteKaolinite.name=红色花岗岩高岭石矿石
     S:oredict.oreRedgraniteKesterite.name=红色花岗岩锌黄锡矿矿石
-    S:oredict.oreRedgraniteKreknorite.name=Granite Kreknorite 矿石
+    S:oredict.oreRedgraniteKreknorite.name=红色花岗岩炽焰陨石矿石
     S:oredict.oreRedgraniteKyanite.name=红色花岗岩蓝晶石矿石
     S:oredict.oreRedgraniteLantanium.name=红色花岗岩镧矿石
     S:oredict.oreRedgraniteLapis.name=红色花岗岩青金石矿石
@@ -41771,7 +41771,7 @@ languagefile {
     S:oredict.oreSmallKalendrite.name=贫瘠幽冥魂石矿石
     S:oredict.oreSmallKaolinite.name=贫瘠高岭石矿石
     S:oredict.oreSmallKesterite.name=贫瘠锌黄锡矿矿石
-    S:oredict.oreSmallKreknorite.name=Small Kreknorite 矿石
+    S:oredict.oreSmallKreknorite.name=贫瘠炽焰陨石矿石
     S:oredict.oreSmallKyanite.name=贫瘠蓝晶石矿石
     S:oredict.oreSmallLantanium.name=贫瘠镧矿石
     S:oredict.oreSmallLapis.name=贫瘠青金石矿石
@@ -42292,7 +42292,7 @@ languagefile {
     S:oredict.oreSpaceKalendrite.name=太空幽冥魂石矿石
     S:oredict.oreSpaceKaolinite.name=太空高岭石矿石
     S:oredict.oreSpaceKesterite.name=太空锌黄锡矿矿石
-    S:oredict.oreSpaceKreknorite.name=Space Kreknorite Ore
+    S:oredict.oreSpaceKreknorite.name=太空炽焰陨石矿石
     S:oredict.oreSpaceKyanite.name=太空蓝晶石矿石
     S:oredict.oreSpaceLantanium.name=太空镧矿石
     S:oredict.oreSpaceLapis.name=太空青金石矿石
@@ -42853,7 +42853,7 @@ languagefile {
     S:oredict.oreVanillagraniteKalendrite.name=花岗岩幽冥魂石矿石
     S:oredict.oreVanillagraniteKaolinite.name=花岗岩高岭石矿石
     S:oredict.oreVanillagraniteKesterite.name=花岗岩锌黄锡矿矿石
-    S:oredict.oreVanillagraniteKreknorite.name=Granite Kreknorite Ore
+    S:oredict.oreVanillagraniteKreknorite.name=花岗岩炽焰陨石矿石
     S:oredict.oreVanillagraniteKyanite.name=花岗岩蓝晶石矿石
     S:oredict.oreVanillagraniteLantanium.name=花岗岩镧矿石
     S:oredict.oreVanillagraniteLapis.name=花岗岩青金石矿石
@@ -44008,7 +44008,7 @@ languagefile {
     S:oredict.plantGtBerryKesterite.name=锌黄锡矿莓
     S:oredict.plantGtBerryKnightmetal.name=骑士金属莓
     S:oredict.plantGtBerryKomatiite.name=科马提岩莓
-    S:oredict.plantGtBerryKreknorite.name=Kreknorite Berry
+    S:oredict.plantGtBerryKreknorite.name=炽焰陨石莓
     S:oredict.plantGtBerryKyanite.name=蓝晶石莓
     S:oredict.plantGtBerryLantanium.name=镧莓
     S:oredict.plantGtBerryLapis.name=青金石莓
@@ -44885,7 +44885,7 @@ languagefile {
     S:oredict.plantGtBlossomKesterite.name=锌黄锡矿花
     S:oredict.plantGtBlossomKnightmetal.name=骑士金属花
     S:oredict.plantGtBlossomKomatiite.name=科马提岩花
-    S:oredict.plantGtBlossomKreknorite.name=Kreknorite Blossom
+    S:oredict.plantGtBlossomKreknorite.name=炽焰陨石花
     S:oredict.plantGtBlossomKyanite.name=蓝晶石花
     S:oredict.plantGtBlossomLantanium.name=镧花
     S:oredict.plantGtBlossomLapis.name=青金石花
@@ -45761,7 +45761,7 @@ languagefile {
     S:oredict.plantGtFiberKesterite.name=生锌黄锡矿丝
     S:oredict.plantGtFiberKnightmetal.name=生骑士金属丝
     S:oredict.plantGtFiberKomatiite.name=生科马提岩丝
-    S:oredict.plantGtFiberKreknorite.name=Raw Kreknorite Fiber
+    S:oredict.plantGtFiberKreknorite.name=生炽焰陨石丝
     S:oredict.plantGtFiberKyanite.name=生蓝晶石丝
     S:oredict.plantGtFiberLantanium.name=生镧丝
     S:oredict.plantGtFiberLapis.name=生青金石丝
@@ -46637,7 +46637,7 @@ languagefile {
     S:oredict.plantGtTwigKesterite.name=锌黄锡矿细枝
     S:oredict.plantGtTwigKnightmetal.name=骑士金属细枝
     S:oredict.plantGtTwigKomatiite.name=科马提岩细枝
-    S:oredict.plantGtTwigKreknorite.name=Kreknorite Twig
+    S:oredict.plantGtTwigKreknorite.name=炽焰陨石细枝
     S:oredict.plantGtTwigKyanite.name=蓝晶石细枝
     S:oredict.plantGtTwigLantanium.name=镧细枝
     S:oredict.plantGtTwigLapis.name=青金石细枝
@@ -47516,7 +47516,7 @@ languagefile {
     S:oredict.plantGtWartKesterite.name=锌黄锡矿疣
     S:oredict.plantGtWartKnightmetal.name=骑士金属疣
     S:oredict.plantGtWartKomatiite.name=科马提岩疣
-    S:oredict.plantGtWartKreknorite.name=Kreknorite Wart
+    S:oredict.plantGtWartKreknorite.name=炽焰陨石疣
     S:oredict.plantGtWartKyanite.name=蓝晶石疣
     S:oredict.plantGtWartLantanium.name=镧疣
     S:oredict.plantGtWartLapis.name=青金石疣
@@ -48352,7 +48352,7 @@ languagefile {
     S:oredict.plateCurvedKanthal.name=弯曲铁铬铝合金板
     S:oredict.plateCurvedKnightmetal.name=弯曲骑士金属板
     S:oredict.plateCurvedKomatiite.name=弯曲科马提岩板
-    S:oredict.plateCurvedKreknorite.name=Curved Kreknorite Plate
+    S:oredict.plateCurvedKreknorite.name=弯曲炽焰陨石板
     S:oredict.plateCurvedLantanium.name=弯曲镧板
     S:oredict.plateCurvedLawrencium.name=弯曲铹板
     S:oredict.plateCurvedLead.name=弯曲铅板
@@ -48768,7 +48768,7 @@ languagefile {
     S:oredict.plateDenseKalendrite.name=致密幽冥魂石板
     S:oredict.plateDenseKanthal.name=致密铁铬铝合金板
     S:oredict.plateDenseKnightmetal.name=致密骑士金属板
-    S:oredict.plateDenseKreknorite.name=Dense Kreknorite Plate
+    S:oredict.plateDenseKreknorite.name=致密炽焰陨石板
     S:oredict.plateDenseLantanium.name=致密镧板
     S:oredict.plateDenseLapis.name=致密青金石板
     S:oredict.plateDenseLawrencium.name=致密铹板
@@ -49153,7 +49153,7 @@ languagefile {
     S:oredict.plateDoubleKalendrite.name=两重幽冥魂石板
     S:oredict.plateDoubleKanthal.name=两重铁铬铝合金板
     S:oredict.plateDoubleKnightmetal.name=两重骑士金属板
-    S:oredict.plateDoubleKreknorite.name=Double Kreknorite Plate
+    S:oredict.plateDoubleKreknorite.name=两重炽焰陨石板
     S:oredict.plateDoubleLantanium.name=两重镧板
     S:oredict.plateDoubleLawrencium.name=两重铹板
     S:oredict.plateDoubleLead.name=两重铅板
@@ -49588,7 +49588,7 @@ languagefile {
     S:oredict.plateKanthal.name=铁铬铝合金板
     S:oredict.plateKnightmetal.name=骑士金属板
     S:oredict.plateKomatiite.name=科马提岩板
-    S:oredict.plateKreknorite.name=Kreknorite Plate
+    S:oredict.plateKreknorite.name=炽焰陨石板
     S:oredict.plateLantanium.name=镧板
     S:oredict.plateLawrencium.name=铹板
     S:oredict.plateLead.name=铅板
@@ -49898,7 +49898,7 @@ languagefile {
     S:oredict.plateQuadrupleKalendrite.name=四重幽冥魂石板
     S:oredict.plateQuadrupleKanthal.name=四重铁铬铝合金板
     S:oredict.plateQuadrupleKnightmetal.name=四重骑士金属板
-    S:oredict.plateQuadrupleKreknorite.name=Quadruple Kreknorite Plate
+    S:oredict.plateQuadrupleKreknorite.name=四重炽焰陨石板
     S:oredict.plateQuadrupleLantanium.name=四重镧板
     S:oredict.plateQuadrupleLawrencium.name=四重铹板
     S:oredict.plateQuadrupleLead.name=四重铅板
@@ -50276,7 +50276,7 @@ languagefile {
     S:oredict.plateQuintupleKalendrite.name=五重幽冥魂石板
     S:oredict.plateQuintupleKanthal.name=五重铁铬铝合金板
     S:oredict.plateQuintupleKnightmetal.name=五重骑士金属板
-    S:oredict.plateQuintupleKreknorite.name=Quintuple Kreknorite Plate
+    S:oredict.plateQuintupleKreknorite.name=五重炽焰陨石板
     S:oredict.plateQuintupleLantanium.name=五重镧板
     S:oredict.plateQuintupleLawrencium.name=五重铹板
     S:oredict.plateQuintupleLead.name=五重铅板
@@ -50740,7 +50740,7 @@ languagefile {
     S:oredict.plateTinyKanthal.name=小块铁铬铝合金板
     S:oredict.plateTinyKnightmetal.name=小块骑士金属板
     S:oredict.plateTinyKomatiite.name=小块科马提岩板
-    S:oredict.plateTinyKreknorite.name=Tiny Kreknorite Plate
+    S:oredict.plateTinyKreknorite.name=小块炽焰陨石板
     S:oredict.plateTinyLantanium.name=小块镧板
     S:oredict.plateTinyLawrencium.name=小块铹板
     S:oredict.plateTinyLead.name=小块铅板
@@ -51155,7 +51155,7 @@ languagefile {
     S:oredict.plateTripleKalendrite.name=三重幽冥魂石板
     S:oredict.plateTripleKanthal.name=三重铁铬铝合金板
     S:oredict.plateTripleKnightmetal.name=三重骑士金属板
-    S:oredict.plateTripleKreknorite.name=Triple Kreknorite Plate
+    S:oredict.plateTripleKreknorite.name=三重炽焰陨石板
     S:oredict.plateTripleLantanium.name=三重镧板
     S:oredict.plateTripleLawrencium.name=三重铹板
     S:oredict.plateTripleLead.name=三重铅板
@@ -51525,7 +51525,7 @@ languagefile {
     S:oredict.ringKanthal.name=铁铬铝合金环
     S:oredict.ringKnightmetal.name=骑士金属环
     S:oredict.ringKomatiite.name=科马提岩环
-    S:oredict.ringKreknorite.name=Kreknorite Ring
+    S:oredict.ringKreknorite.name=炽焰陨石环
     S:oredict.ringLavenderQuartz.name=熏香石英环
     S:oredict.ringLead.name=铅环
     S:oredict.ringLimestone.name=石灰石环
@@ -52382,7 +52382,7 @@ languagefile {
     S:oredict.rotorKanthal.name=铁铬铝合金转子
     S:oredict.rotorKnightmetal.name=骑士金属转子
     S:oredict.rotorKomatiite.name=科马提岩转子
-    S:oredict.rotorKreknorite.name=Kreknorite Rotor
+    S:oredict.rotorKreknorite.name=炽焰陨石转子
     S:oredict.rotorLavenderQuartz.name=熏香石英转子
     S:oredict.rotorLead.name=铅转子
     S:oredict.rotorLimestone.name=石灰石转子
@@ -52686,7 +52686,7 @@ languagefile {
     S:oredict.roundKanthal.name=铁铬铝合金垫片
     S:oredict.roundKnightmetal.name=骑士金属垫片
     S:oredict.roundKomatiite.name=科马提岩垫片
-    S:oredict.roundKreknorite.name=Kreknorite Round
+    S:oredict.roundKreknorite.name=炽焰陨石垫片
     S:oredict.roundLavenderQuartz.name=熏香石英垫片
     S:oredict.roundLead.name=铅垫片
     S:oredict.roundLimestone.name=石灰石垫片
@@ -53284,7 +53284,7 @@ languagefile {
     S:oredict.scrapGtKesterite.name=锌黄锡矿废料
     S:oredict.scrapGtKnightmetal.name=骑士金属废料
     S:oredict.scrapGtKomatiite.name=科马提岩废料
-    S:oredict.scrapGtKreknorite.name=Kreknorite 废料
+    S:oredict.scrapGtKreknorite.name=炽焰陨石废料
     S:oredict.scrapGtKyanite.name=蓝晶石废料
     S:oredict.scrapGtLantanium.name=镧废料
     S:oredict.scrapGtLapis.name=青金石废料
@@ -53955,7 +53955,7 @@ languagefile {
     S:oredict.screwKanthal.name=铁铬铝合金螺丝
     S:oredict.screwKnightmetal.name=骑士金属螺丝
     S:oredict.screwKomatiite.name=科马提岩螺丝
-    S:oredict.screwKreknorite.name=Kreknorite Screw
+    S:oredict.screwKreknorite.name=炽焰陨石螺丝
     S:oredict.screwLantanium.name=镧螺丝
     S:oredict.screwLapis.name=青金石螺丝
     S:oredict.screwLavenderQuartz.name=熏香石英螺丝
@@ -54303,7 +54303,7 @@ languagefile {
     S:oredict.shurikenKanthal.name=铁铬铝合金飞镖
     S:oredict.shurikenKnightmetal.name=骑士金属飞镖
     S:oredict.shurikenKomatiite.name=科马提岩飞镖
-    S:oredict.shurikenKreknorite.name=Kreknorite Shuriken
+    S:oredict.shurikenKreknorite.name=炽焰陨石飞镖
     S:oredict.shurikenLavenderQuartz.name=熏香石英飞镖
     S:oredict.shurikenLead.name=铅飞镖
     S:oredict.shurikenLimestone.name=石灰石飞镖
@@ -55255,7 +55255,7 @@ languagefile {
     S:oredict.stickKanthal.name=铁铬铝合金杆
     S:oredict.stickKnightmetal.name=骑士金属杆
     S:oredict.stickKomatiite.name=科马提岩杆
-    S:oredict.stickKreknorite.name=Kreknorite Rod
+    S:oredict.stickKreknorite.name=炽焰陨石杆
     S:oredict.stickLantanium.name=镧杆
     S:oredict.stickLapis.name=青金石杆
     S:oredict.stickLavenderQuartz.name=熏香石英杆
@@ -55582,7 +55582,7 @@ languagefile {
     S:oredict.stickLongKanthal.name=长铁铬铝合金杆
     S:oredict.stickLongKnightmetal.name=长骑士金属杆
     S:oredict.stickLongKomatiite.name=长科马提岩杆
-    S:oredict.stickLongKreknorite.name=Long Kreknorite Rod
+    S:oredict.stickLongKreknorite.name=长炽焰陨石杆
     S:oredict.stickLongLantanium.name=长镧杆
     S:oredict.stickLongLapis.name=长青金石杆
     S:oredict.stickLongLavenderQuartz.name=长熏香石英杆
@@ -56135,7 +56135,7 @@ languagefile {
     S:oredict.toolHeadArrowKanthal.name=铁铬铝合金箭头
     S:oredict.toolHeadArrowKnightmetal.name=骑士金属箭头
     S:oredict.toolHeadArrowKomatiite.name=科马提岩箭头
-    S:oredict.toolHeadArrowKreknorite.name=Kreknorite 箭头
+    S:oredict.toolHeadArrowKreknorite.name=炽焰陨石箭头
     S:oredict.toolHeadArrowLavenderQuartz.name=熏香石英箭头
     S:oredict.toolHeadArrowLead.name=铅箭头
     S:oredict.toolHeadArrowLimestone.name=石灰石箭头
@@ -56472,7 +56472,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleKanthal.name=铁铬铝合金双刃斧头
     S:oredict.toolHeadAxeDoubleKnightmetal.name=骑士金属双刃斧头
     S:oredict.toolHeadAxeDoubleKomatiite.name=科马提岩双刃斧头
-    S:oredict.toolHeadAxeDoubleKreknorite.name=Kreknorite Double Axe Head
+    S:oredict.toolHeadAxeDoubleKreknorite.name=炽焰陨石双刃斧头
     S:oredict.toolHeadAxeDoubleLead.name=铅双刃斧头
     S:oredict.toolHeadAxeDoubleMagic.name=魔法双刃斧头
     S:oredict.toolHeadAxeDoubleMagnalium.name=镁铝合金双刃斧头
@@ -56655,7 +56655,7 @@ languagefile {
     S:oredict.toolHeadAxeKanthal.name=铁铬铝合金斧头
     S:oredict.toolHeadAxeKnightmetal.name=骑士金属斧头
     S:oredict.toolHeadAxeKomatiite.name=科马提岩斧头
-    S:oredict.toolHeadAxeKreknorite.name=Kreknorite Axe Head
+    S:oredict.toolHeadAxeKreknorite.name=炽焰陨石斧头
     S:oredict.toolHeadAxeLavenderQuartz.name=熏香石英斧头
     S:oredict.toolHeadAxeLead.name=铅斧头
     S:oredict.toolHeadAxeLimestone.name=石灰石斧头
@@ -57392,7 +57392,7 @@ languagefile {
     S:oredict.toolHeadChiselKanthal.name=铁铬铝合金凿子头
     S:oredict.toolHeadChiselKnightmetal.name=骑士金属凿子头
     S:oredict.toolHeadChiselKomatiite.name=科马提岩凿子头
-    S:oredict.toolHeadChiselKreknorite.name=Kreknorite Chisel Head
+    S:oredict.toolHeadChiselKreknorite.name=炽焰陨石凿子头
     S:oredict.toolHeadChiselLead.name=铅凿子头
     S:oredict.toolHeadChiselMagic.name=魔法凿子头
     S:oredict.toolHeadChiselMagnalium.name=镁铝合金凿子头
@@ -57869,7 +57869,7 @@ languagefile {
     S:oredict.toolHeadDrillKanthal.name=铁铬铝合金钻头
     S:oredict.toolHeadDrillKnightmetal.name=骑士金属钻头
     S:oredict.toolHeadDrillKomatiite.name=科马提岩钻头
-    S:oredict.toolHeadDrillKreknorite.name=Kreknorite Drill Tip
+    S:oredict.toolHeadDrillKreknorite.name=炽焰陨石钻头
     S:oredict.toolHeadDrillLead.name=铅钻头
     S:oredict.toolHeadDrillMagic.name=魔法钻头
     S:oredict.toolHeadDrillMagnalium.name=镁铝合金钻头
@@ -58353,7 +58353,7 @@ languagefile {
     S:oredict.toolHeadHammerKanthal.name=铁铬铝合金锤头
     S:oredict.toolHeadHammerKnightmetal.name=骑士金属锤头
     S:oredict.toolHeadHammerKomatiite.name=科马提岩锤头
-    S:oredict.toolHeadHammerKreknorite.name=Kreknorite Hammer Head
+    S:oredict.toolHeadHammerKreknorite.name=炽焰陨石锤头
     S:oredict.toolHeadHammerLavenderQuartz.name=熏香石英锤头
     S:oredict.toolHeadHammerLead.name=铅锤头
     S:oredict.toolHeadHammerLimestone.name=石灰石锤头
@@ -58632,7 +58632,7 @@ languagefile {
     S:oredict.toolHeadHoeKanthal.name=铁铬铝合金锄头
     S:oredict.toolHeadHoeKnightmetal.name=骑士金属锄头
     S:oredict.toolHeadHoeKomatiite.name=科马提岩锄头
-    S:oredict.toolHeadHoeKreknorite.name=Kreknorite Hoe Head
+    S:oredict.toolHeadHoeKreknorite.name=炽焰陨石锄头
     S:oredict.toolHeadHoeLavenderQuartz.name=熏香石英锄头
     S:oredict.toolHeadHoeLead.name=铅锄头
     S:oredict.toolHeadHoeLimestone.name=石灰石锄头
@@ -58876,7 +58876,7 @@ languagefile {
     S:oredict.toolHeadMaceKalendrite.name=幽冥魂石狼牙棒槌头
     S:oredict.toolHeadMaceKanthal.name=铁铬铝合金狼牙棒槌头
     S:oredict.toolHeadMaceKnightmetal.name=骑士金属狼牙棒槌头
-    S:oredict.toolHeadMaceKreknorite.name=Kreknorite Mace Head
+    S:oredict.toolHeadMaceKreknorite.name=炽焰陨石狼牙棒槌头
     S:oredict.toolHeadMaceLead.name=铅狼牙棒槌头
     S:oredict.toolHeadMaceMagnalium.name=镁铝合金狼牙棒槌头
     S:oredict.toolHeadMaceManasteel.name=魔力钢狼牙棒槌头
@@ -59087,7 +59087,7 @@ languagefile {
     S:oredict.toolHeadMattockKalendrite.name=幽冥魂石鹤嘴锄头
     S:oredict.toolHeadMattockKanthal.name=铁铬铝合金鹤嘴锄头
     S:oredict.toolHeadMattockKnightmetal.name=骑士金属鹤嘴锄头
-    S:oredict.toolHeadMattockKreknorite.name=Kreknorite Mattock Head
+    S:oredict.toolHeadMattockKreknorite.name=炽焰陨石鹤嘴锄头
     S:oredict.toolHeadMattockLead.name=铅鹤嘴锄头
     S:oredict.toolHeadMattockMagnalium.name=镁铝合金鹤嘴锄头
     S:oredict.toolHeadMattockManasteel.name=魔力钢鹤嘴锄头
@@ -59385,7 +59385,7 @@ languagefile {
     S:oredict.toolHeadPickaxeKanthal.name=铁铬铝合金镐头
     S:oredict.toolHeadPickaxeKnightmetal.name=骑士金属镐头
     S:oredict.toolHeadPickaxeKomatiite.name=科马提岩镐头
-    S:oredict.toolHeadPickaxeKreknorite.name=Kreknorite Pickaxe Head
+    S:oredict.toolHeadPickaxeKreknorite.name=炽焰陨石镐头
     S:oredict.toolHeadPickaxeLavenderQuartz.name=熏香石英镐头
     S:oredict.toolHeadPickaxeLead.name=铅镐头
     S:oredict.toolHeadPickaxeLimestone.name=石灰石镐头
@@ -59666,7 +59666,7 @@ languagefile {
     S:oredict.toolHeadPlowKanthal.name=铁铬铝合金犁头
     S:oredict.toolHeadPlowKnightmetal.name=骑士金属犁头
     S:oredict.toolHeadPlowKomatiite.name=科马提岩犁头
-    S:oredict.toolHeadPlowKreknorite.name=Kreknorite Plow Head
+    S:oredict.toolHeadPlowKreknorite.name=炽焰陨石犁头
     S:oredict.toolHeadPlowLavenderQuartz.name=熏香石英犁头
     S:oredict.toolHeadPlowLead.name=铅犁头
     S:oredict.toolHeadPlowLimestone.name=石灰石犁头
@@ -59942,7 +59942,7 @@ languagefile {
     S:oredict.toolHeadRawArrowKanthal.name=粗糙的铁铬铝合金箭头
     S:oredict.toolHeadRawArrowKnightmetal.name=粗糙的骑士金属箭头
     S:oredict.toolHeadRawArrowKomatiite.name=粗糙的科马提岩箭头
-    S:oredict.toolHeadRawArrowKreknorite.name=Raw Kreknorite 箭头
+    S:oredict.toolHeadRawArrowKreknorite.name=粗糙的炽焰陨石箭头
     S:oredict.toolHeadRawArrowLavenderQuartz.name=粗糙的熏香石英箭头
     S:oredict.toolHeadRawArrowLead.name=粗糙的铅箭头
     S:oredict.toolHeadRawArrowLimestone.name=粗糙的石灰石箭头
@@ -60279,7 +60279,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleKanthal.name=粗糙的铁铬铝合金双刃斧头
     S:oredict.toolHeadRawAxeDoubleKnightmetal.name=粗糙的骑士金属双刃斧头
     S:oredict.toolHeadRawAxeDoubleKomatiite.name=粗糙的科马提岩双刃斧头
-    S:oredict.toolHeadRawAxeDoubleKreknorite.name=Raw Kreknorite Double Axe Head
+    S:oredict.toolHeadRawAxeDoubleKreknorite.name=粗糙的炽焰陨石双刃斧头
     S:oredict.toolHeadRawAxeDoubleLead.name=粗糙的铅双刃斧头
     S:oredict.toolHeadRawAxeDoubleMagic.name=粗糙的魔法双刃斧头
     S:oredict.toolHeadRawAxeDoubleMagnalium.name=粗糙的镁铝合金双刃斧头
@@ -60462,7 +60462,7 @@ languagefile {
     S:oredict.toolHeadRawAxeKanthal.name=粗糙的铁铬铝合金斧头
     S:oredict.toolHeadRawAxeKnightmetal.name=粗糙的骑士金属斧头
     S:oredict.toolHeadRawAxeKomatiite.name=粗糙的科马提岩斧头
-    S:oredict.toolHeadRawAxeKreknorite.name=Raw Kreknorite Axe Head
+    S:oredict.toolHeadRawAxeKreknorite.name=粗糙的炽焰陨石斧头
     S:oredict.toolHeadRawAxeLavenderQuartz.name=粗糙的熏香石英斧头
     S:oredict.toolHeadRawAxeLead.name=粗糙的铅斧头
     S:oredict.toolHeadRawAxeLimestone.name=粗糙的石灰石斧头
@@ -60725,7 +60725,7 @@ languagefile {
     S:oredict.toolHeadRawChiselKanthal.name=粗糙的铁铬铝合金凿子头
     S:oredict.toolHeadRawChiselKnightmetal.name=粗糙的骑士金属凿子头
     S:oredict.toolHeadRawChiselKomatiite.name=粗糙的科马提岩凿子头
-    S:oredict.toolHeadRawChiselKreknorite.name=Raw Kreknorite Chisel Head
+    S:oredict.toolHeadRawChiselKreknorite.name=粗糙的炽焰陨石凿子头
     S:oredict.toolHeadRawChiselLead.name=粗糙的铅凿子头
     S:oredict.toolHeadRawChiselMagic.name=粗糙的魔法凿子头
     S:oredict.toolHeadRawChiselMagnalium.name=粗糙的镁铝合金凿子头
@@ -60980,7 +60980,7 @@ languagefile {
     S:oredict.toolHeadRawHoeKanthal.name=粗糙的铁铬铝合金锄头
     S:oredict.toolHeadRawHoeKnightmetal.name=粗糙的骑士金属锄头
     S:oredict.toolHeadRawHoeKomatiite.name=粗糙的科马提岩锄头
-    S:oredict.toolHeadRawHoeKreknorite.name=Raw Kreknorite Hoe Head
+    S:oredict.toolHeadRawHoeKreknorite.name=粗糙的炽焰陨石锄头
     S:oredict.toolHeadRawHoeLavenderQuartz.name=粗糙的熏香石英锄头
     S:oredict.toolHeadRawHoeLead.name=粗糙的铅锄头
     S:oredict.toolHeadRawHoeLimestone.name=粗糙的石灰石锄头
@@ -61224,7 +61224,7 @@ languagefile {
     S:oredict.toolHeadRawMaceKalendrite.name=粗糙的幽冥魂石狼牙棒槌头
     S:oredict.toolHeadRawMaceKanthal.name=粗糙的铁铬铝合金狼牙棒槌头
     S:oredict.toolHeadRawMaceKnightmetal.name=粗糙的骑士金属狼牙棒槌头
-    S:oredict.toolHeadRawMaceKreknorite.name=Raw Kreknorite Mace Head
+    S:oredict.toolHeadRawMaceKreknorite.name=粗糙的炽焰陨石狼牙棒槌头
     S:oredict.toolHeadRawMaceLead.name=粗糙的铅狼牙棒槌头
     S:oredict.toolHeadRawMaceMagnalium.name=粗糙的镁铝合金狼牙棒槌头
     S:oredict.toolHeadRawMaceManasteel.name=粗糙的魔力钢狼牙棒槌头
@@ -61435,7 +61435,7 @@ languagefile {
     S:oredict.toolHeadRawMattockKalendrite.name=粗糙的幽冥魂石鹤嘴锄头
     S:oredict.toolHeadRawMattockKanthal.name=粗糙的铁铬铝合金鹤嘴锄头
     S:oredict.toolHeadRawMattockKnightmetal.name=粗糙的骑士金属鹤嘴锄头
-    S:oredict.toolHeadRawMattockKreknorite.name=Raw Kreknorite Mattock Head
+    S:oredict.toolHeadRawMattockKreknorite.name=粗糙的炽焰陨石鹤嘴锄头
     S:oredict.toolHeadRawMattockLead.name=粗糙的铅鹤嘴锄头
     S:oredict.toolHeadRawMattockMagnalium.name=粗糙的镁铝合金鹤嘴锄头
     S:oredict.toolHeadRawMattockManasteel.name=粗糙的魔力钢鹤嘴锄头
@@ -61683,7 +61683,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeKanthal.name=粗糙的铁铬铝合金镐头
     S:oredict.toolHeadRawPickaxeKnightmetal.name=粗糙的骑士金属镐头
     S:oredict.toolHeadRawPickaxeKomatiite.name=粗糙的科马提岩镐头
-    S:oredict.toolHeadRawPickaxeKreknorite.name=Raw Kreknorite Pickaxe Head
+    S:oredict.toolHeadRawPickaxeKreknorite.name=粗糙的炽焰陨石镐头
     S:oredict.toolHeadRawPickaxeLavenderQuartz.name=粗糙的熏香石英镐头
     S:oredict.toolHeadRawPickaxeLead.name=粗糙的铅镐头
     S:oredict.toolHeadRawPickaxeLimestone.name=粗糙的石灰石镐头
@@ -61964,7 +61964,7 @@ languagefile {
     S:oredict.toolHeadRawPlowKanthal.name=粗糙的铁铬铝合金犁头
     S:oredict.toolHeadRawPlowKnightmetal.name=粗糙的骑士金属犁头
     S:oredict.toolHeadRawPlowKomatiite.name=粗糙的科马提岩犁头
-    S:oredict.toolHeadRawPlowKreknorite.name=Raw Kreknorite Plow Head
+    S:oredict.toolHeadRawPlowKreknorite.name=粗糙的炽焰陨石犁头
     S:oredict.toolHeadRawPlowLavenderQuartz.name=粗糙的熏香石英犁头
     S:oredict.toolHeadRawPlowLead.name=粗糙的铅犁头
     S:oredict.toolHeadRawPlowLimestone.name=粗糙的石灰石犁头
@@ -62477,7 +62477,7 @@ languagefile {
     S:oredict.toolHeadRawSenseKanthal.name=粗糙的铁铬铝合金镰刀片
     S:oredict.toolHeadRawSenseKnightmetal.name=粗糙的骑士金属镰刀片
     S:oredict.toolHeadRawSenseKomatiite.name=粗糙的科马提岩镰刀片
-    S:oredict.toolHeadRawSenseKreknorite.name=Raw Kreknorite 镰刀片
+    S:oredict.toolHeadRawSenseKreknorite.name=粗糙的炽焰陨石镰刀片
     S:oredict.toolHeadRawSenseLead.name=粗糙的铅镰刀片
     S:oredict.toolHeadRawSenseLimestone.name=粗糙的石灰石镰刀片
     S:oredict.toolHeadRawSenseMagic.name=粗糙的魔法镰刀片
@@ -62752,7 +62752,7 @@ languagefile {
     S:oredict.toolHeadRawShovelKanthal.name=粗糙的铁铬铝合金锹头
     S:oredict.toolHeadRawShovelKnightmetal.name=粗糙的骑士金属锹头
     S:oredict.toolHeadRawShovelKomatiite.name=粗糙的科马提岩锹头
-    S:oredict.toolHeadRawShovelKreknorite.name=Raw Kreknorite 锹头
+    S:oredict.toolHeadRawShovelKreknorite.name=粗糙的炽焰陨石锹头
     S:oredict.toolHeadRawShovelLavenderQuartz.name=粗糙的熏香石英锹头
     S:oredict.toolHeadRawShovelLead.name=粗糙的铅锹头
     S:oredict.toolHeadRawShovelLimestone.name=粗糙的石灰石锹头
@@ -63033,7 +63033,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeKanthal.name=粗糙的铁铬铝合金铲头
     S:oredict.toolHeadRawSpadeKnightmetal.name=粗糙的骑士金属铲头
     S:oredict.toolHeadRawSpadeKomatiite.name=粗糙的科马提岩铲头
-    S:oredict.toolHeadRawSpadeKreknorite.name=Raw Kreknorite 铲头
+    S:oredict.toolHeadRawSpadeKreknorite.name=粗糙的炽焰陨石铲头
     S:oredict.toolHeadRawSpadeLavenderQuartz.name=粗糙的熏香石英铲头
     S:oredict.toolHeadRawSpadeLead.name=粗糙的铅铲头
     S:oredict.toolHeadRawSpadeLimestone.name=粗糙的石灰石铲头
@@ -63314,7 +63314,7 @@ languagefile {
     S:oredict.toolHeadRawSwordKanthal.name=粗糙的铁铬铝合金剑身
     S:oredict.toolHeadRawSwordKnightmetal.name=粗糙的骑士金属剑身
     S:oredict.toolHeadRawSwordKomatiite.name=粗糙的科马提岩剑身
-    S:oredict.toolHeadRawSwordKreknorite.name=Raw Kreknorite Sword Blade
+    S:oredict.toolHeadRawSwordKreknorite.name=粗糙的炽焰陨石剑身
     S:oredict.toolHeadRawSwordLavenderQuartz.name=粗糙的熏香石英剑身
     S:oredict.toolHeadRawSwordLead.name=粗糙的铅剑身
     S:oredict.toolHeadRawSwordLimestone.name=粗糙的石灰石剑身
@@ -64304,7 +64304,7 @@ languagefile {
     S:oredict.toolHeadSenseKanthal.name=铁铬铝合金镰刀片
     S:oredict.toolHeadSenseKnightmetal.name=骑士金属镰刀片
     S:oredict.toolHeadSenseKomatiite.name=科马提岩镰刀片
-    S:oredict.toolHeadSenseKreknorite.name=Kreknorite 镰刀片
+    S:oredict.toolHeadSenseKreknorite.name=炽焰陨石镰刀片
     S:oredict.toolHeadSenseLead.name=铅镰刀片
     S:oredict.toolHeadSenseLimestone.name=石灰石镰刀片
     S:oredict.toolHeadSenseMagic.name=魔法镰刀片
@@ -64579,7 +64579,7 @@ languagefile {
     S:oredict.toolHeadShovelKanthal.name=铁铬铝合金锹头
     S:oredict.toolHeadShovelKnightmetal.name=骑士金属锹头
     S:oredict.toolHeadShovelKomatiite.name=科马提岩锹头
-    S:oredict.toolHeadShovelKreknorite.name=Kreknorite 锹头
+    S:oredict.toolHeadShovelKreknorite.name=炽焰陨石锹头
     S:oredict.toolHeadShovelLavenderQuartz.name=熏香石英锹头
     S:oredict.toolHeadShovelLead.name=铅锹头
     S:oredict.toolHeadShovelLimestone.name=石灰石锹头
@@ -64860,7 +64860,7 @@ languagefile {
     S:oredict.toolHeadSpadeKanthal.name=铁铬铝合金铲头
     S:oredict.toolHeadSpadeKnightmetal.name=骑士金属铲头
     S:oredict.toolHeadSpadeKomatiite.name=科马提岩铲头
-    S:oredict.toolHeadSpadeKreknorite.name=Kreknorite 铲头
+    S:oredict.toolHeadSpadeKreknorite.name=炽焰陨石铲头
     S:oredict.toolHeadSpadeLavenderQuartz.name=熏香石英铲头
     S:oredict.toolHeadSpadeLead.name=铅铲头
     S:oredict.toolHeadSpadeLimestone.name=石灰石铲头
@@ -65141,7 +65141,7 @@ languagefile {
     S:oredict.toolHeadSwordKanthal.name=铁铬铝合金剑身
     S:oredict.toolHeadSwordKnightmetal.name=骑士金属剑身
     S:oredict.toolHeadSwordKomatiite.name=科马提岩剑身
-    S:oredict.toolHeadSwordKreknorite.name=Kreknorite Sword Blade
+    S:oredict.toolHeadSwordKreknorite.name=炽焰陨石剑身
     S:oredict.toolHeadSwordLavenderQuartz.name=熏香石英剑身
     S:oredict.toolHeadSwordLead.name=铅剑身
     S:oredict.toolHeadSwordLimestone.name=石灰石剑身
@@ -65835,7 +65835,7 @@ languagefile {
     S:oredict.wireFineKalendrite.name=优良幽冥魂石线缆
     S:oredict.wireFineKanthal.name=优良铁铬铝合金线缆
     S:oredict.wireFineKnightmetal.name=优良骑士金属线缆
-    S:oredict.wireFineKreknorite.name=Fine Kreknorite Wire
+    S:oredict.wireFineKreknorite.name=优良炽焰陨石线缆
     S:oredict.wireFineLead.name=优良铅线缆
     S:oredict.wireFineLumium.name=优良流明线缆
     S:oredict.wireFineMagnalium.name=优良镁铝合金线缆
