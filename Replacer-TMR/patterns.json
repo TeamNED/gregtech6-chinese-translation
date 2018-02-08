@@ -264,6 +264,18 @@
         "priority": 1000
     },
     {
+        "name": "oredict.spring.+",
+        "value": "(?P<mw>.+) Spring",
+        "repl": "{0}弹簧",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.springSmall.+",
+        "value": "Small (?P<mw>.+) Spring",
+        "repl": "小型{0}弹簧",
+        "priority": 2000
+    },
+    {
         "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) Universal Spade Head",
         "repl": "{0}万用铲头",
