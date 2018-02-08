@@ -318,6 +318,18 @@
         "priority": 1000
     },
     {
+        "name": "oredict.chain.+",
+        "value": "Chains of (?P<mw>.+)",
+        "repl": "{0}锁链",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.link.+",
+        "value": "Links of (?P<mw>.+)",
+        "repl": "{0}链环",
+        "priority": 1000
+    },
+    {
         "name": "oredict.scrapGt.+",
         "value": "(?P<mw>.+) Scrap",
         "repl": "{0}废料",
@@ -830,7 +842,7 @@
     {
         "name": "qwertech.machines.+",
         "value": "(?P<mw>.+) Crafting Table",
-        "repl": "{0}工作台",
+        "repl": "{0}合成站",
         "priority": 1000
     }
 ]
