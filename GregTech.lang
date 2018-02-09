@@ -50541,7 +50541,7 @@ languagefile {
     S:oredict.plateQuadrupleOsmiumElemental.name=四重锇板
     S:oredict.plateQuadrupleOureclase.name=四重大地结晶板
     S:oredict.plateQuadruplePalladium.name=四重钯板
-    S:oredict.plateQuadruplePaper.name=Cardboard
+    S:oredict.plateQuadruplePaper.name=四重纸板
     S:oredict.plateQuadruplePigIron.name=四重生铁板
     S:oredict.plateQuadruplePlastic.name=四重塑料板
     S:oredict.plateQuadruplePlatinum.name=四重铂板
@@ -50919,7 +50919,7 @@ languagefile {
     S:oredict.plateQuintupleOsmiumElemental.name=五重锇板
     S:oredict.plateQuintupleOureclase.name=五重大地结晶板
     S:oredict.plateQuintuplePalladium.name=五重钯板
-    S:oredict.plateQuintuplePaper.name=Thick Cardboard
+    S:oredict.plateQuintuplePaper.name=五重纸板
     S:oredict.plateQuintuplePigIron.name=五重生铁板
     S:oredict.plateQuintuplePlastic.name=五重塑料板
     S:oredict.plateQuintuplePlatinum.name=五重铂板
@@ -51798,7 +51798,7 @@ languagefile {
     S:oredict.plateTripleOsmiumElemental.name=三重锇板
     S:oredict.plateTripleOureclase.name=三重大地结晶板
     S:oredict.plateTriplePalladium.name=三重钯板
-    S:oredict.plateTriplePaper.name=硬纸箱
+    S:oredict.plateTriplePaper.name=三重纸板
     S:oredict.plateTriplePigIron.name=三重生铁板
     S:oredict.plateTriplePlastic.name=三重塑料板
     S:oredict.plateTriplePlatinum.name=三重铂板
@@ -66935,5 +66935,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
