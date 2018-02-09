@@ -349,7 +349,7 @@
     },
     {
         "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand).+",
-        "value": "(?P<mw>.+) Ore",
+        "value": "(?P<mw>.+) (Ore|Infused Stone)",
         "repl": "{0}",
         "priority": 2000
     },
