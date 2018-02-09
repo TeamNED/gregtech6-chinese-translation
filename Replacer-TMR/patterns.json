@@ -225,7 +225,7 @@
         "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) Construction Pickaxe Head",
         "repl": "{0}建筑镐头",
-        "priority": 1000
+        "priority": 1100
     },
     {
         "name": "oredict.toolHead.+",
@@ -330,6 +330,12 @@
         "priority": 1000
     },
     {
+        "name": "oredict.minecartWheels.+",
+        "value": "(?P<mw>.+) Cart Wheels",
+        "repl": "{0}车轮",
+        "priority": 1000
+    },
+    {
         "name": "oredict.chain.+",
         "value": "Chains of (?P<mw>.+)",
         "repl": "{0}锁链",
@@ -354,7 +360,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand).+",
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand|Gravel).+",
         "value": "(?P<mw>.+) (Ore|Infused Stone)",
         "repl": "{0}",
         "priority": 2000
@@ -459,6 +465,12 @@
         "name": "oredict.oreRedSand.+",
         "value": "Sand (?P<mw>.+)",
         "repl": "{0}红矿沙",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreGravel.+",
+        "value": "Gravel (?P<mw>.+)",
+        "repl": "{0}沙砾",
         "priority": 1000
     },
     {
