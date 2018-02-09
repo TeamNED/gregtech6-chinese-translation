@@ -348,7 +348,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand).+",
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand).+",
         "value": "(?P<mw>.+) (Ore|Infused Stone)",
         "repl": "{0}",
         "priority": 2000
@@ -453,6 +453,12 @@
         "name": "oredict.oreRedSand.+",
         "value": "Sand (?P<mw>.+)",
         "repl": "{0}红矿沙",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreSand.+",
+        "value": "Sand (?P<mw>.+)",
+        "repl": "{0}矿沙",
         "priority": 1000
     },
     {
