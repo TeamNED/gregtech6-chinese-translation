@@ -291,7 +291,7 @@
         "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) Universal Spade Head",
         "repl": "{0}万用铲头",
-        "priority": 1000
+        "priority": 1100
     },
     {
         "name": "oredict.toolHead.+",
