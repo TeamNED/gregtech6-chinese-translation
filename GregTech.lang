@@ -3029,7 +3029,7 @@ languagefile {
     S:gt.lang.use.chisel.to.switch.design=使用凿子改变表面纹理图案
     S:gt.lang.use.crowbar.to.open=使用撬棍打开
     S:gt.lang.use.crowbar.to.uncover=使用撬棍移除覆盖版
-    S:gt.lang.use.cutter.to.toggle=使用切割工具切换模式
+    S:gt.lang.use.cutter.to.toggle=使用剪线钳切换模式
     S:gt.lang.use.magnifyingglass.to.detail=使用放大镜观察细节
     S:gt.lang.use.monkey.wrench.to.set.input.side=使用活动扳手调整输入(探测)面
     S:gt.lang.use.monkey.wrench.to.set.output.side=使用活动扳手调整输出面
@@ -7810,7 +7810,7 @@ languagefile {
     S:gt.multiitem.randomtools.8002.tooltip=在自动工作台中无限耐久
     S:gt.multiitem.randomtools.8003.name=锤子机械臂
     S:gt.multiitem.randomtools.8003.tooltip=在自动工作台中无限耐久
-    S:gt.multiitem.randomtools.8004.name=切割工具机械臂
+    S:gt.multiitem.randomtools.8004.name=剪线钳机械臂
     S:gt.multiitem.randomtools.8004.tooltip=在自动工作台中无限耐久
     S:gt.multiitem.randomtools.8005.name=凿子机械臂
     S:gt.multiitem.randomtools.8005.tooltip=在自动工作台中无限耐久
@@ -66935,5 +66935,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
