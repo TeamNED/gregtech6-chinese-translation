@@ -576,7 +576,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ingot.+",
+        "name": "oredict.(block|ingot|crateGt).+",
         "value": "(?P<mw>.+) Ingot",
         "repl": "{0}锭",
         "priority": 500
@@ -618,12 +618,6 @@
         "priority": 1000
     },
     {
-        "name": "oredict.plate(Gem)?Tiny.+",
-        "value": "Tiny (?P<mw>.+) Plate",
-        "repl": "小块{0}板",
-        "priority": 1000
-    },
-    {
         "name": "oredict.+[dD]ense.+",
         "value": "Dense (?P<mw>.+)",
         "repl": "致密{0}",
@@ -636,34 +630,40 @@
         "priority": 2000
     },
     {
+        "name": "oredict.plate(Gem)?Tiny.+",
+        "value": "Tiny (?P<mw>.+)",
+        "repl": "小块{0}",
+        "priority": 2000
+    },
+    {
         "name": "oredict.plateCurved.+",
-        "value": "Curved (?P<mw>.+) Plate",
-        "repl": "弯曲{0}板",
-        "priority": 1000
+        "value": "Curved (?P<mw>.+)",
+        "repl": "弯曲{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateDouble.+",
-        "value": "Double (?P<mw>.+) Plate",
-        "repl": "两重{0}板",
-        "priority": 1000
+        "value": "Double (?P<mw>.+)",
+        "repl": "两重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateTriple.+",
-        "value": "Triple (?P<mw>.+) Plate",
-        "repl": "三重{0}板",
-        "priority": 1000
+        "value": "Triple (?P<mw>.+)",
+        "repl": "三重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateQuadruple.+",
-        "value": "Quadruple (?P<mw>.+) Plate",
-        "repl": "四重{0}板",
-        "priority": 1000
+        "value": "Quadruple (?P<mw>.+)",
+        "repl": "四重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateQuintuple.+",
-        "value": "Quintuple (?P<mw>.+) Plate",
-        "repl": "五重{0}板",
-        "priority": 1000
+        "value": "Quintuple (?P<mw>.+)",
+        "repl": "五重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.crushed.+",
