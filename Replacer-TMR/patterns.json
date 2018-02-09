@@ -6,24 +6,6 @@
         "priority":5000
     },
     {
-        "name":"oredict.blockDust.+",
-        "value":"Block of (?P<mw>.+) Dust",
-        "repl":"{0}粉块",
-        "priority":6000
-    },
-    {
-        "name":"oredict.blockDust.+",
-        "value":"Block of (?P<mw>.+)",
-        "repl":"{0}粉块",
-        "priority":5900
-    },
-    {
-        "name":"oredict.block.+",
-        "value":"Block of (?P<mw>.+)",
-        "repl":"{0}块",
-        "priority":5000
-    },
-    {
         "name": "gt.material.+",
         "value": "(?P<mw>.+)",
         "repl": "{0}",
@@ -481,9 +463,15 @@
     },
     {
         "name": "oredict.blockDust.+",
-        "value": "Block of (?P<mw>.+) ?(Dust|Powder)?$",
+        "value": "Block of (?P<mw>.+) (Dust|Powder)$",
         "repl": "{0}粉块",
         "priority": 3000
+    },
+    {
+        "name": "oredict.blockDust.+",
+        "value": "Block of (?P<mw>.+)$",
+        "repl": "{0}粉块",
+        "priority": 2900
     },
     {
         "name": "oredict.blockIngot.+",
