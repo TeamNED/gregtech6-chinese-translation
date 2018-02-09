@@ -247,7 +247,7 @@
     },
     {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) File Tip",
+        "value": "(?P<mw>.+) File Head",
         "repl": "{0}锉刀头",
         "priority": 1000
     },
