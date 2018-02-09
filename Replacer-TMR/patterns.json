@@ -24,6 +24,12 @@
         "priority":5000
     },
     {
+        "name": "gt.material.+",
+        "value": "(?P<mw>.+)",
+        "repl": "{0}",
+        "priority": 1000
+    },
+    {
         "name": "fluid.molten.+",
         "value": "Molten (?P<mw>.+)",
         "repl": "熔融{0}",

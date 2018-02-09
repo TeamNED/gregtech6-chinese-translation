@@ -2843,7 +2843,7 @@ languagefile {
     S:gt.lang.efficiency=效率
     S:gt.lang.emits.redstoneflux.lossless=可以无损地输出红石通量(RF)
     S:gt.lang.emits.redstoneflux.lossy=可以有损耗地输出红石通量(RF)，损耗:
-    S:gt.lang.emits.used.steam=输出使用过的蒸汽
+    S:gt.lang.emits.used.steam=输出蒸馏水
     S:gt.lang.energy.capacity=容量
     S:gt.lang.energy.contained=存储的能量
     S:gt.lang.energy.convert.from=将
@@ -4645,7 +4645,7 @@ languagefile {
     S:gt.material.UUMatter=UU物质
     S:gt.material.Ultimate=极限
     S:gt.material.Ultimet=哈氏合金
-    S:gt.material.Umber=Umberstone
+    S:gt.material.Umber=深棕石头
     S:gt.material.Unbibium=122号元素(Ubb)
     S:gt.material.Unbiennium=129号元素(Ube)
     S:gt.material.Unbihexium=126号元素(Ubx)
@@ -17475,7 +17475,7 @@ languagefile {
     S:oredict.chemtubeBandedIron.name=带状铁试管
     S:oredict.chemtubeBarite.name=重晶石试管
     S:oredict.chemtubeBarium.name=钡试管
-    S:oredict.chemtubeBark.name=Glass Tube containing Bark
+    S:oredict.chemtubeBark.name=树皮试管
     S:oredict.chemtubeBarley.name=大麦试管
     S:oredict.chemtubeBasalt.name=玄武岩试管
     S:oredict.chemtubeBasalticMineralSand.name=玄武岩砂试管
@@ -17857,7 +17857,7 @@ languagefile {
     S:oredict.chemtubeHydrogenBorate.name=硼酸氢盐试管
     S:oredict.chemtubeHydrogenFluoride.name=氟化氢试管
     S:oredict.chemtubeHydrogenPeroxide.name=过氧化氢试管
-    S:oredict.chemtubeHydrosulfuricAcid.name=Glass Tube containing Hydrosulfuric Acid
+    S:oredict.chemtubeHydrosulfuricAcid.name=硫化氢试管
     S:oredict.chemtubeIce.name=冰试管
     S:oredict.chemtubeIgnatius.name=伊格内修斯试管
     S:oredict.chemtubeIlmenite.name=钛铁试管
@@ -38005,7 +38005,7 @@ languagefile {
     S:oredict.oreMarsCarborundum.name=火星碳化硅矿石
     S:oredict.oreMarsCarmot.name=火星闪耀金矿石
     S:oredict.oreMarsCassiterite.name=火星锡石矿石
-    S:oredict.oreMarsCassiteriteSand.name=Mars Cassiterite Sand
+    S:oredict.oreMarsCassiteriteSand.name=火星锡石矿沙
     S:oredict.oreMarsCelestine.name=火星天青石矿石
     S:oredict.oreMarsCerium.name=火星铈矿石
     S:oredict.oreMarsCertusQuartz.name=火星赛特斯石英矿石
@@ -38529,7 +38529,7 @@ languagefile {
     S:oredict.oreMoonCarborundum.name=月球碳化硅矿石
     S:oredict.oreMoonCarmot.name=月球闪耀金矿石
     S:oredict.oreMoonCassiterite.name=月球锡石矿石
-    S:oredict.oreMoonCassiteriteSand.name=Moon Cassiterite Sand
+    S:oredict.oreMoonCassiteriteSand.name=月球锡石矿沙
     S:oredict.oreMoonCelestine.name=月球天青石矿石
     S:oredict.oreMoonCerium.name=月球铈矿石
     S:oredict.oreMoonCertusQuartz.name=月球赛特斯石英矿石
@@ -39041,7 +39041,7 @@ languagefile {
     S:oredict.oreMudCarborundum.name=淤泥碳化硅矿石
     S:oredict.oreMudCarmot.name=淤泥闪耀金矿石
     S:oredict.oreMudCassiterite.name=淤泥锡石矿石
-    S:oredict.oreMudCassiteriteSand.name=Mud Cassiterite Sand
+    S:oredict.oreMudCassiteriteSand.name=淤泥锡石矿沙
     S:oredict.oreMudCelestine.name=淤泥天青石矿石
     S:oredict.oreMudCerium.name=淤泥铈矿石
     S:oredict.oreMudCertusQuartz.name=淤泥赛特斯石英矿石
@@ -42766,7 +42766,7 @@ languagefile {
     S:oredict.oreSpaceCarborundum.name=太空碳化硅矿石
     S:oredict.oreSpaceCarmot.name=太空闪耀金矿石
     S:oredict.oreSpaceCassiterite.name=太空锡石矿石
-    S:oredict.oreSpaceCassiteriteSand.name=Space Cassiterite Sand
+    S:oredict.oreSpaceCassiteriteSand.name=太空锡石矿沙
     S:oredict.oreSpaceCelestine.name=太空天青石矿石
     S:oredict.oreSpaceCerium.name=太空铈矿石
     S:oredict.oreSpaceCertusQuartz.name=太空赛特斯石英矿石
@@ -44294,7 +44294,7 @@ languagefile {
     S:oredict.plantGtBerryBandedIron.name=带状铁莓
     S:oredict.plantGtBerryBarite.name=重晶石莓
     S:oredict.plantGtBerryBarium.name=钡莓
-    S:oredict.plantGtBerryBark.name=Bark Berry
+    S:oredict.plantGtBerryBark.name=树皮莓
     S:oredict.plantGtBerryBarley.name=大麦莓
     S:oredict.plantGtBerryBasalt.name=玄武岩莓
     S:oredict.plantGtBerryBasalticMineralSand.name=玄武岩砂莓
@@ -44570,7 +44570,7 @@ languagefile {
     S:oredict.plantGtBerryHydrogenBorate.name=硼酸氢盐莓
     S:oredict.plantGtBerryHydrogenFluoride.name=氟化氢莓
     S:oredict.plantGtBerryHydrogenPeroxide.name=过氧化氢莓
-    S:oredict.plantGtBerryHydrosulfuricAcid.name=Hydrosulfuric Acid Berry
+    S:oredict.plantGtBerryHydrosulfuricAcid.name=硫化氢莓
     S:oredict.plantGtBerryIce.name=冰莓
     S:oredict.plantGtBerryIgnatius.name=伊格内修斯莓
     S:oredict.plantGtBerryIlmenite.name=钛铁莓
@@ -45170,7 +45170,7 @@ languagefile {
     S:oredict.plantGtBlossomBandedIron.name=带状铁花
     S:oredict.plantGtBlossomBarite.name=重晶石花
     S:oredict.plantGtBlossomBarium.name=钡花
-    S:oredict.plantGtBlossomBark.name=Bark Blossom
+    S:oredict.plantGtBlossomBark.name=树皮花
     S:oredict.plantGtBlossomBarley.name=大麦花
     S:oredict.plantGtBlossomBasalt.name=玄武岩花
     S:oredict.plantGtBlossomBasalticMineralSand.name=玄武岩砂花
@@ -45446,7 +45446,7 @@ languagefile {
     S:oredict.plantGtBlossomHydrogenBorate.name=硼酸氢盐花
     S:oredict.plantGtBlossomHydrogenFluoride.name=氟化氢花
     S:oredict.plantGtBlossomHydrogenPeroxide.name=过氧化氢花
-    S:oredict.plantGtBlossomHydrosulfuricAcid.name=Hydrosulfuric Acid Blossom
+    S:oredict.plantGtBlossomHydrosulfuricAcid.name=硫化氢花
     S:oredict.plantGtBlossomIce.name=冰花
     S:oredict.plantGtBlossomIgnatius.name=伊格内修斯花
     S:oredict.plantGtBlossomIlmenite.name=钛铁花
@@ -46046,7 +46046,7 @@ languagefile {
     S:oredict.plantGtFiberBandedIron.name=生带状铁丝
     S:oredict.plantGtFiberBarite.name=生重晶石丝
     S:oredict.plantGtFiberBarium.name=生钡丝
-    S:oredict.plantGtFiberBark.name=Raw Bark Fiber
+    S:oredict.plantGtFiberBark.name=生树皮丝
     S:oredict.plantGtFiberBarley.name=生大麦丝
     S:oredict.plantGtFiberBasalt.name=生玄武岩丝
     S:oredict.plantGtFiberBasalticMineralSand.name=生玄武岩砂丝
@@ -46322,7 +46322,7 @@ languagefile {
     S:oredict.plantGtFiberHydrogenBorate.name=生硼酸氢盐丝
     S:oredict.plantGtFiberHydrogenFluoride.name=生氟化氢丝
     S:oredict.plantGtFiberHydrogenPeroxide.name=生过氧化氢丝
-    S:oredict.plantGtFiberHydrosulfuricAcid.name=Raw Hydrosulfuric Acid Fiber
+    S:oredict.plantGtFiberHydrosulfuricAcid.name=生硫化氢丝
     S:oredict.plantGtFiberIce.name=生冰丝
     S:oredict.plantGtFiberIgnatius.name=生伊格内修斯丝
     S:oredict.plantGtFiberIlmenite.name=生钛铁丝
@@ -46922,7 +46922,7 @@ languagefile {
     S:oredict.plantGtTwigBandedIron.name=带状铁细枝
     S:oredict.plantGtTwigBarite.name=重晶石细枝
     S:oredict.plantGtTwigBarium.name=钡细枝
-    S:oredict.plantGtTwigBark.name=Bark Twig
+    S:oredict.plantGtTwigBark.name=树皮细枝
     S:oredict.plantGtTwigBarley.name=大麦细枝
     S:oredict.plantGtTwigBasalt.name=玄武岩细枝
     S:oredict.plantGtTwigBasalticMineralSand.name=玄武岩砂细枝
@@ -47198,7 +47198,7 @@ languagefile {
     S:oredict.plantGtTwigHydrogenBorate.name=硼酸氢盐细枝
     S:oredict.plantGtTwigHydrogenFluoride.name=氟化氢细枝
     S:oredict.plantGtTwigHydrogenPeroxide.name=过氧化氢细枝
-    S:oredict.plantGtTwigHydrosulfuricAcid.name=Hydrosulfuric Acid Twig
+    S:oredict.plantGtTwigHydrosulfuricAcid.name=硫化氢细枝
     S:oredict.plantGtTwigIce.name=冰细枝
     S:oredict.plantGtTwigIgnatius.name=伊格内修斯细枝
     S:oredict.plantGtTwigIlmenite.name=钛铁细枝
@@ -47801,7 +47801,7 @@ languagefile {
     S:oredict.plantGtWartBandedIron.name=带状铁疣
     S:oredict.plantGtWartBarite.name=重晶石疣
     S:oredict.plantGtWartBarium.name=钡疣
-    S:oredict.plantGtWartBark.name=Bark Wart
+    S:oredict.plantGtWartBark.name=树皮疣
     S:oredict.plantGtWartBarley.name=大麦疣
     S:oredict.plantGtWartBasalt.name=玄武岩疣
     S:oredict.plantGtWartBasalticMineralSand.name=玄武岩砂疣
@@ -48077,7 +48077,7 @@ languagefile {
     S:oredict.plantGtWartHydrogenBorate.name=硼酸氢盐疣
     S:oredict.plantGtWartHydrogenFluoride.name=氟化氢疣
     S:oredict.plantGtWartHydrogenPeroxide.name=过氧化氢疣
-    S:oredict.plantGtWartHydrosulfuricAcid.name=Hydrosulfuric Acid Wart
+    S:oredict.plantGtWartHydrosulfuricAcid.name=硫化氢疣
     S:oredict.plantGtWartIce.name=冰疣
     S:oredict.plantGtWartIgnatius.name=伊格内修斯疣
     S:oredict.plantGtWartIlmenite.name=钛铁疣
@@ -53601,7 +53601,7 @@ languagefile {
     S:oredict.scrapGtBandedIron.name=带状铁废料
     S:oredict.scrapGtBarite.name=重晶石废料
     S:oredict.scrapGtBarium.name=钡废料
-    S:oredict.scrapGtBark.name=Bark 废料
+    S:oredict.scrapGtBark.name=树皮废料
     S:oredict.scrapGtBarley.name=大麦废料
     S:oredict.scrapGtBasalt.name=玄武岩废料
     S:oredict.scrapGtBasalticMineralSand.name=玄武岩砂废料
@@ -66935,5 +66935,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
-
-
