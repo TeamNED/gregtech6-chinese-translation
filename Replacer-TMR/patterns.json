@@ -618,6 +618,12 @@
         "priority": 2000
     },
     {
+        "name": "oredict.+[qQ]uadruple.+",
+        "value": "Reinforced (?P<mw>.+)",
+        "repl": "高强度{0}",
+        "priority": 2000
+    },
+    {
         "name": "oredict.plateCurved.+",
         "value": "Curved (?P<mw>.+) Plate",
         "repl": "弯曲{0}板",
