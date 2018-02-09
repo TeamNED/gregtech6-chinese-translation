@@ -3084,7 +3084,7 @@ languagefile {
     S:gt.material.Americium241=镅-241
     S:gt.material.Amethyst=紫水晶
     S:gt.material.AmethystEnder=紫水晶
-    S:gt.material.Ammonia=Ammonia
+    S:gt.material.Ammonia=氨
     S:gt.material.Ammonium=铵
     S:gt.material.Amordrine=魔力之石
     S:gt.material.Andesite=安山岩
@@ -12466,7 +12466,7 @@ languagefile {
     S:oredict.arrowGtPlasticUranium235.name=轻质铀-235箭
     S:oredict.arrowGtPlasticUvarovite.name=轻质钙铬榴石箭
     S:oredict.arrowGtPlasticVanadiumSteel.name=轻质钒钢箭
-    S:oredict.arrowGtPlasticVibramantium.name=轻质Vibramantium 箭
+    S:oredict.arrowGtPlasticVibramantium.name=轻质艾德曼振金箭
     S:oredict.arrowGtPlasticVibranium.name=轻质振金箭
     S:oredict.arrowGtPlasticVibraniumSilver.name=轻质银振金合金箭
     S:oredict.arrowGtPlasticVibraniumSteel.name=轻质振金钢箭
@@ -12742,7 +12742,7 @@ languagefile {
     S:oredict.arrowGtWoodUranium235.name=铀-235箭
     S:oredict.arrowGtWoodUvarovite.name=钙铬榴石箭
     S:oredict.arrowGtWoodVanadiumSteel.name=钒钢箭
-    S:oredict.arrowGtWoodVibramantium.name=Vibramantium箭
+    S:oredict.arrowGtWoodVibramantium.name=艾德曼振金箭
     S:oredict.arrowGtWoodVibranium.name=振金箭
     S:oredict.arrowGtWoodVibraniumSilver.name=银振金合金箭
     S:oredict.arrowGtWoodVibraniumSteel.name=振金钢箭
@@ -13524,7 +13524,7 @@ languagefile {
     S:oredict.blockDustVanadiumSteel.name=钒钢粉块
     S:oredict.blockDustVanilla.name=香草粉粉块
     S:oredict.blockDustVermiculite.name=蛭石粉粉块
-    S:oredict.blockDustVibramantium.name=Vibramantium粉块
+    S:oredict.blockDustVibramantium.name=艾德曼振金粉块
     S:oredict.blockDustVibranium.name=振金粉块
     S:oredict.blockDustVibraniumSilver.name=银振金合金粉块
     S:oredict.blockDustVibraniumSteel.name=振金钢粉块
@@ -14081,7 +14081,7 @@ languagefile {
     S:oredict.blockIngotVanadium.name=钒锭块
     S:oredict.blockIngotVanadiumGallium.name=钒镓合金锭块
     S:oredict.blockIngotVanadiumSteel.name=钒钢锭块
-    S:oredict.blockIngotVibramantium.name=Vibramantium锭块
+    S:oredict.blockIngotVibramantium.name=艾德曼振金锭块
     S:oredict.blockIngotVibraniumSilver.name=银振金合金锭块
     S:oredict.blockIngotVibraniumSteel.name=振金钢锭块
     S:oredict.blockIngotVibrantAlloy.name=脉冲合金锭块
@@ -14627,7 +14627,7 @@ languagefile {
     S:oredict.blockPlateVanadium.name=钒板块
     S:oredict.blockPlateVanadiumGallium.name=钒镓合金板块
     S:oredict.blockPlateVanadiumSteel.name=钒钢板块
-    S:oredict.blockPlateVibramantium.name=Vibramantium板块
+    S:oredict.blockPlateVibramantium.name=艾德曼振金板块
     S:oredict.blockPlateVibraniumSilver.name=银振金合金板块
     S:oredict.blockPlateVibraniumSteel.name=振金钢板块
     S:oredict.blockPlateVibrantAlloy.name=脉冲合金板块
@@ -15040,7 +15040,7 @@ languagefile {
     S:oredict.blockSolidVanadium.name=铸造钒块
     S:oredict.blockSolidVanadiumGallium.name=铸造钒镓合金块
     S:oredict.blockSolidVanadiumSteel.name=铸造钒钢块
-    S:oredict.blockSolidVibramantium.name=Vibramantium块
+    S:oredict.blockSolidVibramantium.name=铸造艾德曼振金块
     S:oredict.blockSolidVibraniumSilver.name=铸造银振金合金块
     S:oredict.blockSolidVibraniumSteel.name=铸造振金钢块
     S:oredict.blockSolidVibrantAlloy.name=铸造脉冲合金块
@@ -15563,7 +15563,7 @@ languagefile {
     S:oredict.boltVanadium.name=钒螺栓
     S:oredict.boltVanadiumGallium.name=钒镓合金螺栓
     S:oredict.boltVanadiumSteel.name=钒钢螺栓
-    S:oredict.boltVibramantium.name=Vibramantium螺栓
+    S:oredict.boltVibramantium.name=艾德曼振金螺栓
     S:oredict.boltVibranium.name=振金螺栓
     S:oredict.boltVibraniumSilver.name=银振金合金螺栓
     S:oredict.boltVibraniumSteel.name=振金钢螺栓
@@ -15792,7 +15792,7 @@ languagefile {
     S:oredict.casingMachineDenseUranium.name=致密铀机械外壳
     S:oredict.casingMachineDenseUranium235.name=致密铀-235机械外壳
     S:oredict.casingMachineDenseVanadiumSteel.name=致密钒钢机械外壳
-    S:oredict.casingMachineDenseVibramantium.name=致密Vibramantium机械外壳
+    S:oredict.casingMachineDenseVibramantium.name=致密艾德曼振金机械外壳
     S:oredict.casingMachineDenseVibraniumSilver.name=致密银振金合金机械外壳
     S:oredict.casingMachineDenseVibraniumSteel.name=致密振金钢机械外壳
     S:oredict.casingMachineDenseVibrantAlloy.name=致密脉冲合金机械外壳
@@ -16193,7 +16193,7 @@ languagefile {
     S:oredict.casingMachineQuadrupleUranium.name=高强度铀机械外壳
     S:oredict.casingMachineQuadrupleUranium235.name=高强度铀-235机械外壳
     S:oredict.casingMachineQuadrupleVanadiumSteel.name=高强度钒钢机械外壳
-    S:oredict.casingMachineQuadrupleVibramantium.name=高强度Vibramantium机械外壳
+    S:oredict.casingMachineQuadrupleVibramantium.name=高强度艾德曼振金机械外壳
     S:oredict.casingMachineQuadrupleVibraniumSilver.name=高强度银振金合金机械外壳
     S:oredict.casingMachineQuadrupleVibraniumSteel.name=高强度振金钢机械外壳
     S:oredict.casingMachineQuadrupleVibrantAlloy.name=高强度脉冲合金机械外壳
@@ -16239,7 +16239,7 @@ languagefile {
     S:oredict.casingMachineUranium.name=铀机械外壳
     S:oredict.casingMachineUranium235.name=铀-235机械外壳
     S:oredict.casingMachineVanadiumSteel.name=钒钢机械外壳
-    S:oredict.casingMachineVibramantium.name=Vibramantium机械外壳
+    S:oredict.casingMachineVibramantium.name=艾德曼振金机械外壳
     S:oredict.casingMachineVibraniumSilver.name=银振金合金机械外壳
     S:oredict.casingMachineVibraniumSteel.name=振金钢机械外壳
     S:oredict.casingMachineVibrantAlloy.name=脉冲合金机械外壳
@@ -16528,7 +16528,7 @@ languagefile {
     S:oredict.casingSmallUranium235.name=铀-235外壳
     S:oredict.casingSmallUvarovite.name=钙铬榴石外壳
     S:oredict.casingSmallVanadiumSteel.name=钒钢外壳
-    S:oredict.casingSmallVibramantium.name=Vibramantium外壳
+    S:oredict.casingSmallVibramantium.name=艾德曼振金外壳
     S:oredict.casingSmallVibranium.name=振金外壳
     S:oredict.casingSmallVibraniumSilver.name=银振金合金外壳
     S:oredict.casingSmallVibraniumSteel.name=振金钢外壳
@@ -16983,7 +16983,7 @@ languagefile {
     S:oredict.chainUranium235.name=铀-235锁链
     S:oredict.chainUvarovite.name=钙铬榴石锁链
     S:oredict.chainVanadiumSteel.name=钒钢锁链
-    S:oredict.chainVibramantium.name=Chains of Vibramantium
+    S:oredict.chainVibramantium.name=艾德曼振金锁链
     S:oredict.chainVibranium.name=振金锁链
     S:oredict.chainVibraniumSilver.name=银振金合金锁链
     S:oredict.chainVibraniumSteel.name=振金钢锁链
@@ -17030,7 +17030,7 @@ languagefile {
     S:oredict.chemtubeAmericium241.name=镅-241试管
     S:oredict.chemtubeAmethyst.name=紫水晶试管
     S:oredict.chemtubeAmethystEnder.name=紫水晶试管
-    S:oredict.chemtubeAmmonia.name=Glass Tube containing Ammonia
+    S:oredict.chemtubeAmmonia.name=氨试管
     S:oredict.chemtubeAmordrine.name=魔力之石试管
     S:oredict.chemtubeAndesite.name=安山岩试管
     S:oredict.chemtubeAndradite.name=钙铁榴石试管
@@ -18430,7 +18430,7 @@ languagefile {
     S:oredict.chemtubeVanadiumSteel.name=钒钢试管
     S:oredict.chemtubeVanilla.name=香草试管
     S:oredict.chemtubeVermiculite.name=蛭石试管
-    S:oredict.chemtubeVibramantium.name=Vibramantium试管
+    S:oredict.chemtubeVibramantium.name=艾德曼振金试管
     S:oredict.chemtubeVibranium.name=振金试管
     S:oredict.chemtubeVibraniumSilver.name=银振金合金试管
     S:oredict.chemtubeVibraniumSteel.name=振金钢试管
@@ -18864,7 +18864,7 @@ languagefile {
     S:oredict.chunkGtVanadium.name=钒小块
     S:oredict.chunkGtVanadiumGallium.name=钒镓合金小块
     S:oredict.chunkGtVanadiumSteel.name=钒钢小块
-    S:oredict.chunkGtVibramantium.name=Vibramantium小块
+    S:oredict.chunkGtVibramantium.name=艾德曼振金小块
     S:oredict.chunkGtVibraniumSilver.name=银振金合金小块
     S:oredict.chunkGtVibraniumSteel.name=振金钢小块
     S:oredict.chunkGtVibrantAlloy.name=脉冲合金小块
@@ -19647,7 +19647,7 @@ languagefile {
     S:oredict.crateGtDustVanadiumSteel.name=钒钢粉板条箱
     S:oredict.crateGtDustVanilla.name=香草粉板条箱
     S:oredict.crateGtDustVermiculite.name=蛭石粉板条箱
-    S:oredict.crateGtDustVibramantium.name=Vibramantium粉板条箱
+    S:oredict.crateGtDustVibramantium.name=艾德曼振金粉板条箱
     S:oredict.crateGtDustVibranium.name=振金粉板条箱
     S:oredict.crateGtDustVibraniumSilver.name=银振金合金粉板条箱
     S:oredict.crateGtDustVibraniumSteel.name=振金钢粉板条箱
@@ -20203,7 +20203,7 @@ languagefile {
     S:oredict.crateGtIngotVanadium.name=钒锭板条箱
     S:oredict.crateGtIngotVanadiumGallium.name=钒镓合金锭板条箱
     S:oredict.crateGtIngotVanadiumSteel.name=钒钢锭板条箱
-    S:oredict.crateGtIngotVibramantium.name=Vibramantium锭板条箱
+    S:oredict.crateGtIngotVibramantium.name=艾德曼振金锭板条箱
     S:oredict.crateGtIngotVibraniumSilver.name=银振金合金锭板条箱
     S:oredict.crateGtIngotVibraniumSteel.name=振金钢锭板条箱
     S:oredict.crateGtIngotVibrantAlloy.name=脉冲合金锭板条箱
@@ -20749,7 +20749,7 @@ languagefile {
     S:oredict.crateGtPlateVanadium.name=钒板板条箱
     S:oredict.crateGtPlateVanadiumGallium.name=钒镓合金板板条箱
     S:oredict.crateGtPlateVanadiumSteel.name=钒钢板板条箱
-    S:oredict.crateGtPlateVibramantium.name=Vibramantium板板条箱
+    S:oredict.crateGtPlateVibramantium.name=艾德曼振金板板条箱
     S:oredict.crateGtPlateVibraniumSilver.name=银振金合金板板条箱
     S:oredict.crateGtPlateVibraniumSteel.name=振金钢板板条箱
     S:oredict.crateGtPlateVibrantAlloy.name=脉冲合金板板条箱
@@ -24958,7 +24958,7 @@ languagefile {
     S:oredict.dustDiv72VanadiumSteel.name=1/72份钒钢粉
     S:oredict.dustDiv72Vanilla.name=1/72份香草粉
     S:oredict.dustDiv72Vermiculite.name=1/72份蛭石粉
-    S:oredict.dustDiv72Vibramantium.name=1/72份Vibramantium粉
+    S:oredict.dustDiv72Vibramantium.name=1/72份艾德曼振金粉
     S:oredict.dustDiv72Vibranium.name=1/72份振金粉
     S:oredict.dustDiv72VibraniumSilver.name=1/72份银振金合金粉
     S:oredict.dustDiv72VibraniumSteel.name=1/72份振金钢粉
@@ -27246,7 +27246,7 @@ languagefile {
     S:oredict.dustSmallVanadiumSteel.name=小堆钒钢粉
     S:oredict.dustSmallVanilla.name=小堆香草粉
     S:oredict.dustSmallVermiculite.name=小堆蛭石粉
-    S:oredict.dustSmallVibramantium.name=小堆Vibramantium粉
+    S:oredict.dustSmallVibramantium.name=小堆艾德曼振金粉
     S:oredict.dustSmallVibranium.name=小堆振金粉
     S:oredict.dustSmallVibraniumSilver.name=小堆银振金合金粉
     S:oredict.dustSmallVibraniumSteel.name=小堆振金钢粉
@@ -28108,7 +28108,7 @@ languagefile {
     S:oredict.dustTinyVanadiumSteel.name=小撮钒钢粉
     S:oredict.dustTinyVanilla.name=小撮香草粉
     S:oredict.dustTinyVermiculite.name=小撮蛭石粉
-    S:oredict.dustTinyVibramantium.name=小撮Vibramantium粉
+    S:oredict.dustTinyVibramantium.name=小撮艾德曼振金粉
     S:oredict.dustTinyVibranium.name=小撮振金粉
     S:oredict.dustTinyVibraniumSilver.name=小撮银振金合金粉
     S:oredict.dustTinyVibraniumSteel.name=小撮振金钢粉
@@ -28188,7 +28188,7 @@ languagefile {
     S:oredict.dustVanadiumSteel.name=钒钢粉
     S:oredict.dustVanilla.name=香草粉
     S:oredict.dustVermiculite.name=蛭石粉
-    S:oredict.dustVibramantium.name=Vibramantium粉
+    S:oredict.dustVibramantium.name=艾德曼振金粉
     S:oredict.dustVibranium.name=振金粉
     S:oredict.dustVibraniumSilver.name=银振金合金粉
     S:oredict.dustVibraniumSteel.name=振金钢粉
@@ -28589,7 +28589,7 @@ languagefile {
     S:oredict.foilVanadium.name=钒箔
     S:oredict.foilVanadiumGallium.name=钒镓合金箔
     S:oredict.foilVanadiumSteel.name=钒钢箔
-    S:oredict.foilVibramantium.name=Vibramantium箔
+    S:oredict.foilVibramantium.name=艾德曼振金箔
     S:oredict.foilVibraniumSilver.name=银振金合金箔
     S:oredict.foilVibraniumSteel.name=振金钢箔
     S:oredict.foilVibrantAlloy.name=脉冲合金箔
@@ -29132,7 +29132,7 @@ languagefile {
     S:oredict.gearGtSmallUranium235.name=小型铀-235齿轮
     S:oredict.gearGtSmallUvarovite.name=小型钙铬榴石齿轮
     S:oredict.gearGtSmallVanadiumSteel.name=小型钒钢齿轮
-    S:oredict.gearGtSmallVibramantium.name=小型Vibramantium齿轮
+    S:oredict.gearGtSmallVibramantium.name=小型艾德曼振金齿轮
     S:oredict.gearGtSmallVibranium.name=小型振金齿轮
     S:oredict.gearGtSmallVibraniumSilver.name=小型银振金合金齿轮
     S:oredict.gearGtSmallVibraniumSteel.name=小型振金钢齿轮
@@ -29197,7 +29197,7 @@ languagefile {
     S:oredict.gearGtUranium235.name=铀-235齿轮
     S:oredict.gearGtUvarovite.name=钙铬榴石齿轮
     S:oredict.gearGtVanadiumSteel.name=钒钢齿轮
-    S:oredict.gearGtVibramantium.name=Vibramantium齿轮
+    S:oredict.gearGtVibramantium.name=艾德曼振金齿轮
     S:oredict.gearGtVibranium.name=振金齿轮
     S:oredict.gearGtVibraniumSilver.name=银振金合金齿轮
     S:oredict.gearGtVibraniumSteel.name=振金钢齿轮
@@ -30164,7 +30164,7 @@ languagefile {
     S:oredict.ingotDoubleVanadium.name=两重钒锭
     S:oredict.ingotDoubleVanadiumGallium.name=两重钒镓合金锭
     S:oredict.ingotDoubleVanadiumSteel.name=两重钒钢锭
-    S:oredict.ingotDoubleVibramantium.name=两重Vibramantium锭
+    S:oredict.ingotDoubleVibramantium.name=两重艾德曼振金锭
     S:oredict.ingotDoubleVibraniumSilver.name=两重银振金合金锭
     S:oredict.ingotDoubleVibraniumSteel.name=两重振金钢锭
     S:oredict.ingotDoubleVibrantAlloy.name=两重脉冲合金锭
@@ -30582,7 +30582,7 @@ languagefile {
     S:oredict.ingotHotVanadium.name=热钒锭
     S:oredict.ingotHotVanadiumGallium.name=热钒镓合金锭
     S:oredict.ingotHotVanadiumSteel.name=热钒钢锭
-    S:oredict.ingotHotVibramantium.name=热Vibramantium锭
+    S:oredict.ingotHotVibramantium.name=热艾德曼振金锭
     S:oredict.ingotHotVibraniumSilver.name=热银振金合金锭
     S:oredict.ingotHotVibraniumSteel.name=热振金钢锭
     S:oredict.ingotHotVibrantAlloy.name=热脉冲合金锭
@@ -31041,7 +31041,7 @@ languagefile {
     S:oredict.ingotQuadrupleVanadium.name=四重钒锭
     S:oredict.ingotQuadrupleVanadiumGallium.name=四重钒镓合金锭
     S:oredict.ingotQuadrupleVanadiumSteel.name=四重钒钢锭
-    S:oredict.ingotQuadrupleVibramantium.name=四重Vibramantium锭
+    S:oredict.ingotQuadrupleVibramantium.name=四重艾德曼振金锭
     S:oredict.ingotQuadrupleVibraniumSilver.name=四重银振金合金锭
     S:oredict.ingotQuadrupleVibraniumSteel.name=四重振金钢锭
     S:oredict.ingotQuadrupleVibrantAlloy.name=四重脉冲合金锭
@@ -31417,7 +31417,7 @@ languagefile {
     S:oredict.ingotQuintupleVanadium.name=五重钒锭
     S:oredict.ingotQuintupleVanadiumGallium.name=五重钒镓合金锭
     S:oredict.ingotQuintupleVanadiumSteel.name=五重钒钢锭
-    S:oredict.ingotQuintupleVibramantium.name=五重Vibramantium锭
+    S:oredict.ingotQuintupleVibramantium.name=五重艾德曼振金锭
     S:oredict.ingotQuintupleVibraniumSilver.name=五重银振金合金锭
     S:oredict.ingotQuintupleVibraniumSteel.name=五重振金钢锭
     S:oredict.ingotQuintupleVibrantAlloy.name=五重脉冲合金锭
@@ -31845,7 +31845,7 @@ languagefile {
     S:oredict.ingotTripleVanadium.name=三重钒锭
     S:oredict.ingotTripleVanadiumGallium.name=三重钒镓合金锭
     S:oredict.ingotTripleVanadiumSteel.name=三重钒钢锭
-    S:oredict.ingotTripleVibramantium.name=三重Vibramantium锭
+    S:oredict.ingotTripleVibramantium.name=三重艾德曼振金锭
     S:oredict.ingotTripleVibraniumSilver.name=三重银振金合金锭
     S:oredict.ingotTripleVibraniumSteel.name=三重振金钢锭
     S:oredict.ingotTripleVibrantAlloy.name=三重脉冲合金锭
@@ -31875,7 +31875,7 @@ languagefile {
     S:oredict.ingotVanadium.name=钒锭
     S:oredict.ingotVanadiumGallium.name=钒镓合金锭
     S:oredict.ingotVanadiumSteel.name=钒钢锭
-    S:oredict.ingotVibramantium.name=Vibramantium锭
+    S:oredict.ingotVibramantium.name=艾德曼振金锭
     S:oredict.ingotVibraniumSilver.name=银振金合金锭
     S:oredict.ingotVibraniumSteel.name=振金钢锭
     S:oredict.ingotVibrantAlloy.name=脉冲合金锭
@@ -32227,7 +32227,7 @@ languagefile {
     S:oredict.linkUranium235.name=铀-235链环
     S:oredict.linkUvarovite.name=钙铬榴石链环
     S:oredict.linkVanadiumSteel.name=钒钢链环
-    S:oredict.linkVibramantium.name=Link of Vibramantium
+    S:oredict.linkVibramantium.name=艾德曼振金链环
     S:oredict.linkVibranium.name=振金链环
     S:oredict.linkVibraniumSilver.name=银振金合金链环
     S:oredict.linkVibraniumSteel.name=振金钢链环
@@ -32805,7 +32805,7 @@ languagefile {
     S:oredict.nuggetVanadium.name=钒粒
     S:oredict.nuggetVanadiumGallium.name=钒镓合金粒
     S:oredict.nuggetVanadiumSteel.name=钒钢粒
-    S:oredict.nuggetVibramantium.name=Vibramantium粒
+    S:oredict.nuggetVibramantium.name=艾德曼振金粒
     S:oredict.nuggetVibraniumSilver.name=银振金合金粒
     S:oredict.nuggetVibraniumSteel.name=振金钢粒
     S:oredict.nuggetVibrantAlloy.name=脉冲合金粒
@@ -44142,7 +44142,7 @@ languagefile {
     S:oredict.plantGtBerryAmericium241.name=镅-241莓
     S:oredict.plantGtBerryAmethyst.name=紫水晶莓
     S:oredict.plantGtBerryAmethystEnder.name=紫水晶莓
-    S:oredict.plantGtBerryAmmonia.name=Ammonia Berry
+    S:oredict.plantGtBerryAmmonia.name=氨莓
     S:oredict.plantGtBerryAmordrine.name=魔力之石莓
     S:oredict.plantGtBerryAndesite.name=安山岩莓
     S:oredict.plantGtBerryAndradite.name=钙铁榴石莓
@@ -44951,7 +44951,7 @@ languagefile {
     S:oredict.plantGtBerryVanadiumSteel.name=钒钢莓
     S:oredict.plantGtBerryVanilla.name=香草莓
     S:oredict.plantGtBerryVermiculite.name=蛭石莓
-    S:oredict.plantGtBerryVibramantium.name=Vibramantium莓
+    S:oredict.plantGtBerryVibramantium.name=艾德曼振金莓
     S:oredict.plantGtBerryVibranium.name=振金莓
     S:oredict.plantGtBerryVibraniumSilver.name=银振金合金莓
     S:oredict.plantGtBerryVibraniumSteel.name=振金钢莓
@@ -45018,7 +45018,7 @@ languagefile {
     S:oredict.plantGtBlossomAmericium241.name=镅-241花
     S:oredict.plantGtBlossomAmethyst.name=紫水晶花
     S:oredict.plantGtBlossomAmethystEnder.name=紫水晶花
-    S:oredict.plantGtBlossomAmmonia.name=Ammonia Blossom
+    S:oredict.plantGtBlossomAmmonia.name=氨花
     S:oredict.plantGtBlossomAmordrine.name=魔力之石花
     S:oredict.plantGtBlossomAndesite.name=安山岩花
     S:oredict.plantGtBlossomAndradite.name=钙铁榴石花
@@ -45401,7 +45401,7 @@ languagefile {
     S:oredict.plantGtBlossomGlycerol.name=丙三醇花
     S:oredict.plantGtBlossomGlyceryl.name=甘油花
     S:oredict.plantGtBlossomGneiss.name=片麻岩花
-    S:oredict.plantGtBlossomGold.name=Aurelia Leaf
+    S:oredict.plantGtBlossomGold.name=金光花
     S:oredict.plantGtBlossomGoldInductive.name=感应合金花
     S:oredict.plantGtBlossomGoshenite.name=透绿柱石花
     S:oredict.plantGtBlossomGranite.name=花岗岩花
@@ -45466,7 +45466,7 @@ languagefile {
     S:oredict.plantGtBlossomIodine.name=碘花
     S:oredict.plantGtBlossomIodineSalt.name=碘盐花
     S:oredict.plantGtBlossomIridium.name=铱花
-    S:oredict.plantGtBlossomIron.name=Ferru Leaf
+    S:oredict.plantGtBlossomIron.name=铁叶草
     S:oredict.plantGtBlossomIronCompressed.name=压缩铁花
     S:oredict.plantGtBlossomIronMagnetic.name=磁化铁花
     S:oredict.plantGtBlossomIronWood.name=铁木花
@@ -45827,7 +45827,7 @@ languagefile {
     S:oredict.plantGtBlossomVanadiumSteel.name=钒钢花
     S:oredict.plantGtBlossomVanilla.name=香草花
     S:oredict.plantGtBlossomVermiculite.name=蛭石花
-    S:oredict.plantGtBlossomVibramantium.name=Vibramantium花
+    S:oredict.plantGtBlossomVibramantium.name=艾德曼振金花
     S:oredict.plantGtBlossomVibranium.name=振金花
     S:oredict.plantGtBlossomVibraniumSilver.name=银振金合金花
     S:oredict.plantGtBlossomVibraniumSteel.name=振金钢花
@@ -45894,7 +45894,7 @@ languagefile {
     S:oredict.plantGtFiberAmericium241.name=生镅-241丝
     S:oredict.plantGtFiberAmethyst.name=生紫水晶丝
     S:oredict.plantGtFiberAmethystEnder.name=生紫水晶丝
-    S:oredict.plantGtFiberAmmonia.name=Raw Ammonia Fiber
+    S:oredict.plantGtFiberAmmonia.name=生氨丝
     S:oredict.plantGtFiberAmordrine.name=生魔力之石丝
     S:oredict.plantGtFiberAndesite.name=生安山岩丝
     S:oredict.plantGtFiberAndradite.name=生钙铁榴石丝
@@ -46703,7 +46703,7 @@ languagefile {
     S:oredict.plantGtFiberVanadiumSteel.name=生钒钢丝
     S:oredict.plantGtFiberVanilla.name=生香草丝
     S:oredict.plantGtFiberVermiculite.name=生蛭石丝
-    S:oredict.plantGtFiberVibramantium.name=生Vibramantium丝
+    S:oredict.plantGtFiberVibramantium.name=生艾德曼振金丝
     S:oredict.plantGtFiberVibranium.name=生振金丝
     S:oredict.plantGtFiberVibraniumSilver.name=生银振金合金丝
     S:oredict.plantGtFiberVibraniumSteel.name=生振金钢丝
@@ -46770,7 +46770,7 @@ languagefile {
     S:oredict.plantGtTwigAmericium241.name=镅-241细枝
     S:oredict.plantGtTwigAmethyst.name=紫水晶细枝
     S:oredict.plantGtTwigAmethystEnder.name=紫水晶细枝
-    S:oredict.plantGtTwigAmmonia.name=Ammonia Twig
+    S:oredict.plantGtTwigAmmonia.name=氨细枝
     S:oredict.plantGtTwigAmordrine.name=魔力之石细枝
     S:oredict.plantGtTwigAndesite.name=安山岩细枝
     S:oredict.plantGtTwigAndradite.name=钙铁榴石细枝
@@ -47579,7 +47579,7 @@ languagefile {
     S:oredict.plantGtTwigVanadiumSteel.name=钒钢细枝
     S:oredict.plantGtTwigVanilla.name=香草细枝
     S:oredict.plantGtTwigVermiculite.name=蛭石细枝
-    S:oredict.plantGtTwigVibramantium.name=Vibramantium细枝
+    S:oredict.plantGtTwigVibramantium.name=艾德曼振金细枝
     S:oredict.plantGtTwigVibranium.name=振金细枝
     S:oredict.plantGtTwigVibraniumSilver.name=银振金合金细枝
     S:oredict.plantGtTwigVibraniumSteel.name=振金钢细枝
@@ -47646,7 +47646,7 @@ languagefile {
     S:oredict.plantGtWartAmericium241.name=镅-241疣
     S:oredict.plantGtWartAmethyst.name=紫水晶疣
     S:oredict.plantGtWartAmethystEnder.name=紫水晶疣
-    S:oredict.plantGtWartAmmonia.name=Ammonia Wart
+    S:oredict.plantGtWartAmmonia.name=氨疣
     S:oredict.plantGtWartAmordrine.name=魔力之石疣
     S:oredict.plantGtWartAndesite.name=安山岩疣
     S:oredict.plantGtWartAndradite.name=钙铁榴石疣
@@ -48458,7 +48458,7 @@ languagefile {
     S:oredict.plantGtWartVanadiumSteel.name=钒钢疣
     S:oredict.plantGtWartVanilla.name=香草疣
     S:oredict.plantGtWartVermiculite.name=蛭石疣
-    S:oredict.plantGtWartVibramantium.name=Vibramantium疣
+    S:oredict.plantGtWartVibramantium.name=艾德曼振金疣
     S:oredict.plantGtWartVibranium.name=振金疣
     S:oredict.plantGtWartVibraniumSilver.name=银振金合金疣
     S:oredict.plantGtWartVibraniumSteel.name=振金钢疣
@@ -49099,7 +49099,7 @@ languagefile {
     S:oredict.plateCurvedVanadium.name=弯曲钒板
     S:oredict.plateCurvedVanadiumGallium.name=弯曲钒镓合金板
     S:oredict.plateCurvedVanadiumSteel.name=弯曲钒钢板
-    S:oredict.plateCurvedVibramantium.name=弯曲Vibramantium 板
+    S:oredict.plateCurvedVibramantium.name=弯曲艾德曼振金板
     S:oredict.plateCurvedVibraniumSilver.name=弯曲银振金合金板
     S:oredict.plateCurvedVibraniumSteel.name=弯曲振金钢板
     S:oredict.plateCurvedVibrantAlloy.name=弯曲脉冲合金板
@@ -49494,7 +49494,7 @@ languagefile {
     S:oredict.plateDenseVanadium.name=致密钒板
     S:oredict.plateDenseVanadiumGallium.name=致密钒镓合金板
     S:oredict.plateDenseVanadiumSteel.name=致密钒钢板
-    S:oredict.plateDenseVibramantium.name=致密Vibramantium板
+    S:oredict.plateDenseVibramantium.name=致密艾德曼振金板
     S:oredict.plateDenseVibraniumSilver.name=致密银振金合金板
     S:oredict.plateDenseVibraniumSteel.name=致密振金钢板
     S:oredict.plateDenseVibrantAlloy.name=致密脉冲合金板
@@ -49877,7 +49877,7 @@ languagefile {
     S:oredict.plateDoubleVanadium.name=两重钒板
     S:oredict.plateDoubleVanadiumGallium.name=两重钒镓合金板
     S:oredict.plateDoubleVanadiumSteel.name=两重钒钢板
-    S:oredict.plateDoubleVibramantium.name=两重Vibramantium板
+    S:oredict.plateDoubleVibramantium.name=两重艾德曼振金板
     S:oredict.plateDoubleVibraniumSilver.name=两重银振金合金板
     S:oredict.plateDoubleVibraniumSteel.name=两重振金钢板
     S:oredict.plateDoubleVibrantAlloy.name=两重脉冲合金板
@@ -50622,7 +50622,7 @@ languagefile {
     S:oredict.plateQuadrupleVanadium.name=四重钒板
     S:oredict.plateQuadrupleVanadiumGallium.name=四重钒镓合金板
     S:oredict.plateQuadrupleVanadiumSteel.name=四重钒钢板
-    S:oredict.plateQuadrupleVibramantium.name=四重Vibramantium板
+    S:oredict.plateQuadrupleVibramantium.name=四重艾德曼振金板
     S:oredict.plateQuadrupleVibraniumSilver.name=四重银振金合金板
     S:oredict.plateQuadrupleVibraniumSteel.name=四重振金钢板
     S:oredict.plateQuadrupleVibrantAlloy.name=四重脉冲合金板
@@ -51000,7 +51000,7 @@ languagefile {
     S:oredict.plateQuintupleVanadium.name=五重钒板
     S:oredict.plateQuintupleVanadiumGallium.name=五重钒镓合金板
     S:oredict.plateQuintupleVanadiumSteel.name=五重钒钢板
-    S:oredict.plateQuintupleVibramantium.name=五重Vibramantium板
+    S:oredict.plateQuintupleVibramantium.name=五重艾德曼振金板
     S:oredict.plateQuintupleVibraniumSilver.name=五重银振金合金板
     S:oredict.plateQuintupleVibraniumSteel.name=五重振金钢板
     S:oredict.plateQuintupleVibrantAlloy.name=五重脉冲合金板
@@ -51488,7 +51488,7 @@ languagefile {
     S:oredict.plateTinyVanadium.name=小块钒板
     S:oredict.plateTinyVanadiumGallium.name=小块钒镓合金板
     S:oredict.plateTinyVanadiumSteel.name=小块钒钢板
-    S:oredict.plateTinyVibramantium.name=小块Vibramantium板
+    S:oredict.plateTinyVibramantium.name=小块艾德曼振金板
     S:oredict.plateTinyVibraniumSilver.name=小块银振金合金板
     S:oredict.plateTinyVibraniumSteel.name=小块振金钢板
     S:oredict.plateTinyVibrantAlloy.name=小块脉冲合金板
@@ -51879,7 +51879,7 @@ languagefile {
     S:oredict.plateTripleVanadium.name=三重钒板
     S:oredict.plateTripleVanadiumGallium.name=三重钒镓合金板
     S:oredict.plateTripleVanadiumSteel.name=三重钒钢板
-    S:oredict.plateTripleVibramantium.name=三重Vibramantium板
+    S:oredict.plateTripleVibramantium.name=三重艾德曼振金板
     S:oredict.plateTripleVibraniumSilver.name=三重银振金合金板
     S:oredict.plateTripleVibraniumSteel.name=三重振金钢板
     S:oredict.plateTripleVibrantAlloy.name=三重脉冲合金板
@@ -51916,7 +51916,7 @@ languagefile {
     S:oredict.plateVanadium.name=钒板
     S:oredict.plateVanadiumGallium.name=钒镓合金板
     S:oredict.plateVanadiumSteel.name=钒钢板
-    S:oredict.plateVibramantium.name=Vibramantium板
+    S:oredict.plateVibramantium.name=艾德曼振金板
     S:oredict.plateVibraniumSilver.name=银振金合金板
     S:oredict.plateVibraniumSteel.name=振金钢板
     S:oredict.plateVibrantAlloy.name=脉冲合金板
@@ -52242,7 +52242,7 @@ languagefile {
     S:oredict.ringUranium235.name=铀-235环
     S:oredict.ringUvarovite.name=钙铬榴石环
     S:oredict.ringVanadiumSteel.name=钒钢环
-    S:oredict.ringVibramantium.name=Vibramantium环
+    S:oredict.ringVibramantium.name=艾德曼振金环
     S:oredict.ringVibranium.name=振金环
     S:oredict.ringVibraniumSilver.name=银振金合金环
     S:oredict.ringVibraniumSteel.name=振金钢环
@@ -53098,7 +53098,7 @@ languagefile {
     S:oredict.rotorUranium235.name=铀-235转子
     S:oredict.rotorUvarovite.name=钙铬榴石转子
     S:oredict.rotorVanadiumSteel.name=钒钢转子
-    S:oredict.rotorVibramantium.name=Vibramantium转子
+    S:oredict.rotorVibramantium.name=艾德曼振金转子
     S:oredict.rotorVibranium.name=振金转子
     S:oredict.rotorVibraniumSilver.name=银振金合金转子
     S:oredict.rotorVibraniumSteel.name=振金钢转子
@@ -53402,7 +53402,7 @@ languagefile {
     S:oredict.roundUranium235.name=铀-235垫片
     S:oredict.roundUvarovite.name=钙铬榴石垫片
     S:oredict.roundVanadiumSteel.name=钒钢垫片
-    S:oredict.roundVibramantium.name=Vibramantium垫片
+    S:oredict.roundVibramantium.name=艾德曼振金垫片
     S:oredict.roundVibranium.name=振金垫片
     S:oredict.roundVibraniumSilver.name=银振金合金垫片
     S:oredict.roundVibraniumSteel.name=振金钢垫片
@@ -54195,7 +54195,7 @@ languagefile {
     S:oredict.scrapGtVanadiumSteel.name=钒钢废料
     S:oredict.scrapGtVanilla.name=香草废料
     S:oredict.scrapGtVermiculite.name=蛭石废料
-    S:oredict.scrapGtVibramantium.name=Vibramantium废料
+    S:oredict.scrapGtVibramantium.name=艾德曼振金废料
     S:oredict.scrapGtVibranium.name=振金废料
     S:oredict.scrapGtVibraniumSilver.name=银振金合金废料
     S:oredict.scrapGtVibraniumSteel.name=振金钢废料
@@ -54736,7 +54736,7 @@ languagefile {
     S:oredict.screwVanadium.name=钒螺丝
     S:oredict.screwVanadiumGallium.name=钒镓合金螺丝
     S:oredict.screwVanadiumSteel.name=钒钢螺丝
-    S:oredict.screwVibramantium.name=Vibramantium螺丝
+    S:oredict.screwVibramantium.name=艾德曼振金螺丝
     S:oredict.screwVibranium.name=振金螺丝
     S:oredict.screwVibraniumSilver.name=银振金合金螺丝
     S:oredict.screwVibraniumSteel.name=振金钢螺丝
@@ -55015,7 +55015,7 @@ languagefile {
     S:oredict.shurikenUranium235.name=铀-235飞镖
     S:oredict.shurikenUvarovite.name=钙铬榴石飞镖
     S:oredict.shurikenVanadiumSteel.name=钒钢飞镖
-    S:oredict.shurikenVibramantium.name=Vibramantium Shuriken
+    S:oredict.shurikenVibramantium.name=艾德曼振金飞镖
     S:oredict.shurikenVibranium.name=振金飞镖
     S:oredict.shurikenVibraniumSilver.name=银振金合金飞镖
     S:oredict.shurikenVibraniumSteel.name=振金钢飞镖
@@ -55454,7 +55454,7 @@ languagefile {
     S:oredict.springSmallUranium235.name=小型铀-235弹簧
     S:oredict.springSmallUvarovite.name=小型钙铬榴石弹簧
     S:oredict.springSmallVanadiumSteel.name=小型钒钢弹簧
-    S:oredict.springSmallVibramantium.name=小型Vibramantium弹簧
+    S:oredict.springSmallVibramantium.name=小型艾德曼振金弹簧
     S:oredict.springSmallVibranium.name=小型振金弹簧
     S:oredict.springSmallVibraniumSilver.name=小型银振金合金弹簧
     S:oredict.springSmallVibraniumSteel.name=小型振金钢弹簧
@@ -55516,7 +55516,7 @@ languagefile {
     S:oredict.springUranium235.name=铀-235弹簧
     S:oredict.springUvarovite.name=钙铬榴石弹簧
     S:oredict.springVanadiumSteel.name=钒钢弹簧
-    S:oredict.springVibramantium.name=Vibramantium弹簧
+    S:oredict.springVibramantium.name=艾德曼振金弹簧
     S:oredict.springVibranium.name=振金弹簧
     S:oredict.springVibraniumSilver.name=银振金合金弹簧
     S:oredict.springVibraniumSteel.name=振金钢弹簧
@@ -56368,7 +56368,7 @@ languagefile {
     S:oredict.stickLongVanadium.name=长钒杆
     S:oredict.stickLongVanadiumGallium.name=长钒镓合金杆
     S:oredict.stickLongVanadiumSteel.name=长钒钢杆
-    S:oredict.stickLongVibramantium.name=长Vibramantium杆
+    S:oredict.stickLongVibramantium.name=长艾德曼振金杆
     S:oredict.stickLongVibranium.name=长振金杆
     S:oredict.stickLongVibraniumSilver.name=长银振金合金杆
     S:oredict.stickLongVibraniumSteel.name=长振金钢杆
@@ -56569,7 +56569,7 @@ languagefile {
     S:oredict.stickVanadium.name=钒杆
     S:oredict.stickVanadiumGallium.name=钒镓合金杆
     S:oredict.stickVanadiumSteel.name=钒钢杆
-    S:oredict.stickVibramantium.name=Vibramantium杆
+    S:oredict.stickVibramantium.name=艾德曼振金杆
     S:oredict.stickVibranium.name=振金杆
     S:oredict.stickVibraniumSilver.name=银振金合金杆
     S:oredict.stickVibraniumSteel.name=振金钢杆
@@ -56848,7 +56848,7 @@ languagefile {
     S:oredict.toolHeadArrowUranium235.name=铀-235箭头
     S:oredict.toolHeadArrowUvarovite.name=钙铬榴石箭头
     S:oredict.toolHeadArrowVanadiumSteel.name=钒钢箭头
-    S:oredict.toolHeadArrowVibramantium.name=Vibramantium箭头
+    S:oredict.toolHeadArrowVibramantium.name=艾德曼振金箭头
     S:oredict.toolHeadArrowVibranium.name=振金箭头
     S:oredict.toolHeadArrowVibraniumSilver.name=银振金合金箭头
     S:oredict.toolHeadArrowVibraniumSteel.name=振金钢箭头
@@ -57167,7 +57167,7 @@ languagefile {
     S:oredict.toolHeadAxeDoubleUranium235.name=铀-235双刃斧头
     S:oredict.toolHeadAxeDoubleUvarovite.name=钙铬榴石双刃斧头
     S:oredict.toolHeadAxeDoubleVanadiumSteel.name=钒钢双刃斧头
-    S:oredict.toolHeadAxeDoubleVibramantium.name=Vibramantium双刃斧头
+    S:oredict.toolHeadAxeDoubleVibramantium.name=艾德曼振金双刃斧头
     S:oredict.toolHeadAxeDoubleVibranium.name=振金双刃斧头
     S:oredict.toolHeadAxeDoubleVibraniumSilver.name=银振金合金双刃斧头
     S:oredict.toolHeadAxeDoubleVibraniumSteel.name=振金钢双刃斧头
@@ -57369,7 +57369,7 @@ languagefile {
     S:oredict.toolHeadAxeUranium235.name=铀-235斧头
     S:oredict.toolHeadAxeUvarovite.name=钙铬榴石斧头
     S:oredict.toolHeadAxeVanadiumSteel.name=钒钢斧头
-    S:oredict.toolHeadAxeVibramantium.name=Vibramantium斧头
+    S:oredict.toolHeadAxeVibramantium.name=艾德曼振金斧头
     S:oredict.toolHeadAxeVibranium.name=振金斧头
     S:oredict.toolHeadAxeVibraniumSilver.name=银振金合金斧头
     S:oredict.toolHeadAxeVibraniumSteel.name=振金钢斧头
@@ -57610,7 +57610,7 @@ languagefile {
     S:oredict.toolHeadBuzzSawUranium235.name=铀-235圆锯片
     S:oredict.toolHeadBuzzSawUvarovite.name=钙铬榴石圆锯片
     S:oredict.toolHeadBuzzSawVanadiumSteel.name=钒钢圆锯片
-    S:oredict.toolHeadBuzzSawVibramantium.name=Vibramantium圆锯片
+    S:oredict.toolHeadBuzzSawVibramantium.name=艾德曼振金圆锯片
     S:oredict.toolHeadBuzzSawVibranium.name=振金圆锯片
     S:oredict.toolHeadBuzzSawVibraniumSilver.name=银振金合金圆锯片
     S:oredict.toolHeadBuzzSawVibraniumSteel.name=振金钢圆锯片
@@ -57847,7 +57847,7 @@ languagefile {
     S:oredict.toolHeadChainsawUranium235.name=铀-235电锯头
     S:oredict.toolHeadChainsawUvarovite.name=钙铬榴石电锯头
     S:oredict.toolHeadChainsawVanadiumSteel.name=钒钢电锯头
-    S:oredict.toolHeadChainsawVibramantium.name=Vibramantium电锯头
+    S:oredict.toolHeadChainsawVibramantium.name=艾德曼振金电锯头
     S:oredict.toolHeadChainsawVibranium.name=振金电锯头
     S:oredict.toolHeadChainsawVibraniumSilver.name=银振金合金电锯头
     S:oredict.toolHeadChainsawVibraniumSteel.name=振金钢电锯头
@@ -58084,7 +58084,7 @@ languagefile {
     S:oredict.toolHeadChiselUranium235.name=铀-235凿子头
     S:oredict.toolHeadChiselUvarovite.name=钙铬榴石凿子头
     S:oredict.toolHeadChiselVanadiumSteel.name=钒钢凿子头
-    S:oredict.toolHeadChiselVibramantium.name=Vibramantium凿子头
+    S:oredict.toolHeadChiselVibramantium.name=艾德曼振金凿子头
     S:oredict.toolHeadChiselVibranium.name=振金凿子头
     S:oredict.toolHeadChiselVibraniumSilver.name=银振金合金凿子头
     S:oredict.toolHeadChiselVibraniumSteel.name=振金钢凿子头
@@ -58561,7 +58561,7 @@ languagefile {
     S:oredict.toolHeadDrillUranium235.name=铀-235钻头
     S:oredict.toolHeadDrillUvarovite.name=钙铬榴石钻头
     S:oredict.toolHeadDrillVanadiumSteel.name=钒钢钻头
-    S:oredict.toolHeadDrillVibramantium.name=Vibramantium钻头
+    S:oredict.toolHeadDrillVibramantium.name=艾德曼振金钻头
     S:oredict.toolHeadDrillVibranium.name=振金钻头
     S:oredict.toolHeadDrillVibraniumSilver.name=银振金合金钻头
     S:oredict.toolHeadDrillVibraniumSteel.name=振金钢钻头
@@ -58798,7 +58798,7 @@ languagefile {
     S:oredict.toolHeadFileUranium235.name=铀-235锉刀头
     S:oredict.toolHeadFileUvarovite.name=钙铬榴石锉刀头
     S:oredict.toolHeadFileVanadiumSteel.name=钒钢锉刀头
-    S:oredict.toolHeadFileVibramantium.name=Vibramantium锉刀头
+    S:oredict.toolHeadFileVibramantium.name=艾德曼振金锉刀头
     S:oredict.toolHeadFileVibranium.name=振金锉刀头
     S:oredict.toolHeadFileVibraniumSilver.name=银振金合金锉刀头
     S:oredict.toolHeadFileVibraniumSteel.name=振金钢锉刀头
@@ -59065,7 +59065,7 @@ languagefile {
     S:oredict.toolHeadHammerUranium235.name=铀-235锤头
     S:oredict.toolHeadHammerUvarovite.name=钙铬榴石锤头
     S:oredict.toolHeadHammerVanadiumSteel.name=钒钢锤头
-    S:oredict.toolHeadHammerVibramantium.name=Vibramantium锤头
+    S:oredict.toolHeadHammerVibramantium.name=艾德曼振金锤头
     S:oredict.toolHeadHammerVibranium.name=振金锤头
     S:oredict.toolHeadHammerVibraniumSilver.name=银振金合金锤头
     S:oredict.toolHeadHammerVibraniumSteel.name=振金钢锤头
@@ -59346,7 +59346,7 @@ languagefile {
     S:oredict.toolHeadHoeUranium235.name=铀-235锄头
     S:oredict.toolHeadHoeUvarovite.name=钙铬榴石锄头
     S:oredict.toolHeadHoeVanadiumSteel.name=钒钢锄头
-    S:oredict.toolHeadHoeVibramantium.name=Vibramantium锄头
+    S:oredict.toolHeadHoeVibramantium.name=艾德曼振金锄头
     S:oredict.toolHeadHoeVibranium.name=振金锄头
     S:oredict.toolHeadHoeVibraniumSilver.name=银振金合金锄头
     S:oredict.toolHeadHoeVibraniumSteel.name=振金钢锄头
@@ -59561,7 +59561,7 @@ languagefile {
     S:oredict.toolHeadMaceUranium235.name=铀-235狼牙棒槌头
     S:oredict.toolHeadMaceUvarovite.name=钙铬榴石狼牙棒槌头
     S:oredict.toolHeadMaceVanadiumSteel.name=钒钢狼牙棒槌头
-    S:oredict.toolHeadMaceVibramantium.name=Vibramantium Mace Head
+    S:oredict.toolHeadMaceVibramantium.name=艾德曼振金狼牙棒槌头
     S:oredict.toolHeadMaceVibranium.name=振金狼牙棒槌头
     S:oredict.toolHeadMaceVibraniumSilver.name=银振金合金狼牙棒槌头
     S:oredict.toolHeadMaceVibraniumSteel.name=振金钢狼牙棒槌头
@@ -59772,7 +59772,7 @@ languagefile {
     S:oredict.toolHeadMattockUranium235.name=铀-235鹤嘴锄头
     S:oredict.toolHeadMattockUvarovite.name=钙铬榴石鹤嘴锄头
     S:oredict.toolHeadMattockVanadiumSteel.name=钒钢鹤嘴锄头
-    S:oredict.toolHeadMattockVibramantium.name=Vibramantium Mattock Head
+    S:oredict.toolHeadMattockVibramantium.name=艾德曼振金鹤嘴锄头
     S:oredict.toolHeadMattockVibranium.name=振金鹤嘴锄头
     S:oredict.toolHeadMattockVibraniumSilver.name=银振金合金鹤嘴锄头
     S:oredict.toolHeadMattockVibraniumSteel.name=振金钢鹤嘴锄头
@@ -60099,7 +60099,7 @@ languagefile {
     S:oredict.toolHeadPickaxeUranium235.name=铀-235镐头
     S:oredict.toolHeadPickaxeUvarovite.name=钙铬榴石镐头
     S:oredict.toolHeadPickaxeVanadiumSteel.name=钒钢镐头
-    S:oredict.toolHeadPickaxeVibramantium.name=Vibramantium镐头
+    S:oredict.toolHeadPickaxeVibramantium.name=艾德曼振金镐头
     S:oredict.toolHeadPickaxeVibranium.name=振金镐头
     S:oredict.toolHeadPickaxeVibraniumSilver.name=银振金合金镐头
     S:oredict.toolHeadPickaxeVibraniumSteel.name=振金钢镐头
@@ -60380,7 +60380,7 @@ languagefile {
     S:oredict.toolHeadPlowUranium235.name=铀-235犁头
     S:oredict.toolHeadPlowUvarovite.name=钙铬榴石犁头
     S:oredict.toolHeadPlowVanadiumSteel.name=钒钢犁头
-    S:oredict.toolHeadPlowVibramantium.name=Vibramantium犁头
+    S:oredict.toolHeadPlowVibramantium.name=艾德曼振金犁头
     S:oredict.toolHeadPlowVibranium.name=振金犁头
     S:oredict.toolHeadPlowVibraniumSilver.name=银振金合金犁头
     S:oredict.toolHeadPlowVibraniumSteel.name=振金钢犁头
@@ -60655,7 +60655,7 @@ languagefile {
     S:oredict.toolHeadRawArrowUranium235.name=粗糙的铀-235箭头
     S:oredict.toolHeadRawArrowUvarovite.name=粗糙的钙铬榴石箭头
     S:oredict.toolHeadRawArrowVanadiumSteel.name=粗糙的钒钢箭头
-    S:oredict.toolHeadRawArrowVibramantium.name=粗糙的Vibramantium 箭头
+    S:oredict.toolHeadRawArrowVibramantium.name=粗糙的艾德曼振金箭头
     S:oredict.toolHeadRawArrowVibranium.name=粗糙的振金箭头
     S:oredict.toolHeadRawArrowVibraniumSilver.name=粗糙的银振金合金箭头
     S:oredict.toolHeadRawArrowVibraniumSteel.name=粗糙的振金钢箭头
@@ -60974,7 +60974,7 @@ languagefile {
     S:oredict.toolHeadRawAxeDoubleUranium235.name=粗糙的铀-235双刃斧头
     S:oredict.toolHeadRawAxeDoubleUvarovite.name=粗糙的钙铬榴石双刃斧头
     S:oredict.toolHeadRawAxeDoubleVanadiumSteel.name=粗糙的钒钢双刃斧头
-    S:oredict.toolHeadRawAxeDoubleVibramantium.name=粗糙的Vibramantium双刃斧头
+    S:oredict.toolHeadRawAxeDoubleVibramantium.name=粗糙的艾德曼振金双刃斧头
     S:oredict.toolHeadRawAxeDoubleVibranium.name=粗糙的振金双刃斧头
     S:oredict.toolHeadRawAxeDoubleVibraniumSilver.name=粗糙的银振金合金双刃斧头
     S:oredict.toolHeadRawAxeDoubleVibraniumSteel.name=粗糙的振金钢双刃斧头
@@ -61176,7 +61176,7 @@ languagefile {
     S:oredict.toolHeadRawAxeUranium235.name=粗糙的铀-235斧头
     S:oredict.toolHeadRawAxeUvarovite.name=粗糙的钙铬榴石斧头
     S:oredict.toolHeadRawAxeVanadiumSteel.name=粗糙的钒钢斧头
-    S:oredict.toolHeadRawAxeVibramantium.name=粗糙的Vibramantium斧头
+    S:oredict.toolHeadRawAxeVibramantium.name=粗糙的艾德曼振金斧头
     S:oredict.toolHeadRawAxeVibranium.name=粗糙的振金斧头
     S:oredict.toolHeadRawAxeVibraniumSilver.name=粗糙的银振金合金斧头
     S:oredict.toolHeadRawAxeVibraniumSteel.name=粗糙的振金钢斧头
@@ -61417,7 +61417,7 @@ languagefile {
     S:oredict.toolHeadRawChiselUranium235.name=粗糙的铀-235凿子头
     S:oredict.toolHeadRawChiselUvarovite.name=粗糙的钙铬榴石凿子头
     S:oredict.toolHeadRawChiselVanadiumSteel.name=粗糙的钒钢凿子头
-    S:oredict.toolHeadRawChiselVibramantium.name=粗糙的Vibramantium凿子头
+    S:oredict.toolHeadRawChiselVibramantium.name=粗糙的艾德曼振金凿子头
     S:oredict.toolHeadRawChiselVibranium.name=粗糙的振金凿子头
     S:oredict.toolHeadRawChiselVibraniumSilver.name=粗糙的银振金合金凿子头
     S:oredict.toolHeadRawChiselVibraniumSteel.name=粗糙的振金钢凿子头
@@ -61694,7 +61694,7 @@ languagefile {
     S:oredict.toolHeadRawHoeUranium235.name=粗糙的铀-235锄头
     S:oredict.toolHeadRawHoeUvarovite.name=粗糙的钙铬榴石锄头
     S:oredict.toolHeadRawHoeVanadiumSteel.name=粗糙的钒钢锄头
-    S:oredict.toolHeadRawHoeVibramantium.name=粗糙的Vibramantium锄头
+    S:oredict.toolHeadRawHoeVibramantium.name=粗糙的艾德曼振金锄头
     S:oredict.toolHeadRawHoeVibranium.name=粗糙的振金锄头
     S:oredict.toolHeadRawHoeVibraniumSilver.name=粗糙的银振金合金锄头
     S:oredict.toolHeadRawHoeVibraniumSteel.name=粗糙的振金钢锄头
@@ -61909,7 +61909,7 @@ languagefile {
     S:oredict.toolHeadRawMaceUranium235.name=粗糙的铀-235狼牙棒槌头
     S:oredict.toolHeadRawMaceUvarovite.name=粗糙的钙铬榴石狼牙棒槌头
     S:oredict.toolHeadRawMaceVanadiumSteel.name=粗糙的钒钢狼牙棒槌头
-    S:oredict.toolHeadRawMaceVibramantium.name=Raw Vibramantium Mace Head
+    S:oredict.toolHeadRawMaceVibramantium.name=粗糙的艾德曼振金狼牙棒槌头
     S:oredict.toolHeadRawMaceVibranium.name=粗糙的振金狼牙棒槌头
     S:oredict.toolHeadRawMaceVibraniumSilver.name=粗糙的银振金合金狼牙棒槌头
     S:oredict.toolHeadRawMaceVibraniumSteel.name=粗糙的振金钢狼牙棒槌头
@@ -62120,7 +62120,7 @@ languagefile {
     S:oredict.toolHeadRawMattockUranium235.name=粗糙的铀-235鹤嘴锄头
     S:oredict.toolHeadRawMattockUvarovite.name=粗糙的钙铬榴石鹤嘴锄头
     S:oredict.toolHeadRawMattockVanadiumSteel.name=粗糙的钒钢鹤嘴锄头
-    S:oredict.toolHeadRawMattockVibramantium.name=Raw Vibramantium Mattock Head
+    S:oredict.toolHeadRawMattockVibramantium.name=粗糙的艾德曼振金鹤嘴锄头
     S:oredict.toolHeadRawMattockVibranium.name=粗糙的振金鹤嘴锄头
     S:oredict.toolHeadRawMattockVibraniumSilver.name=粗糙的银振金合金鹤嘴锄头
     S:oredict.toolHeadRawMattockVibraniumSteel.name=粗糙的振金钢鹤嘴锄头
@@ -62397,7 +62397,7 @@ languagefile {
     S:oredict.toolHeadRawPickaxeUranium235.name=粗糙的铀-235镐头
     S:oredict.toolHeadRawPickaxeUvarovite.name=粗糙的钙铬榴石镐头
     S:oredict.toolHeadRawPickaxeVanadiumSteel.name=粗糙的钒钢镐头
-    S:oredict.toolHeadRawPickaxeVibramantium.name=粗糙的Vibramantium镐头
+    S:oredict.toolHeadRawPickaxeVibramantium.name=粗糙的艾德曼振金镐头
     S:oredict.toolHeadRawPickaxeVibranium.name=粗糙的振金镐头
     S:oredict.toolHeadRawPickaxeVibraniumSilver.name=粗糙的银振金合金镐头
     S:oredict.toolHeadRawPickaxeVibraniumSteel.name=粗糙的振金钢镐头
@@ -62678,7 +62678,7 @@ languagefile {
     S:oredict.toolHeadRawPlowUranium235.name=粗糙的铀-235犁头
     S:oredict.toolHeadRawPlowUvarovite.name=粗糙的钙铬榴石犁头
     S:oredict.toolHeadRawPlowVanadiumSteel.name=粗糙的钒钢犁头
-    S:oredict.toolHeadRawPlowVibramantium.name=粗糙的Vibramantium犁头
+    S:oredict.toolHeadRawPlowVibramantium.name=粗糙的艾德曼振金犁头
     S:oredict.toolHeadRawPlowVibranium.name=粗糙的振金犁头
     S:oredict.toolHeadRawPlowVibraniumSilver.name=粗糙的银振金合金犁头
     S:oredict.toolHeadRawPlowVibraniumSteel.name=粗糙的振金钢犁头
@@ -62919,7 +62919,7 @@ languagefile {
     S:oredict.toolHeadRawSawUranium235.name=粗糙的铀-235锯片
     S:oredict.toolHeadRawSawUvarovite.name=粗糙的钙铬榴石锯片
     S:oredict.toolHeadRawSawVanadiumSteel.name=粗糙的钒钢锯片
-    S:oredict.toolHeadRawSawVibramantium.name=粗糙的Vibramantium锯片
+    S:oredict.toolHeadRawSawVibramantium.name=粗糙的艾德曼振金锯片
     S:oredict.toolHeadRawSawVibranium.name=粗糙的振金锯片
     S:oredict.toolHeadRawSawVibraniumSilver.name=粗糙的银振金合金锯片
     S:oredict.toolHeadRawSawVibraniumSteel.name=粗糙的振金钢锯片
@@ -63185,7 +63185,7 @@ languagefile {
     S:oredict.toolHeadRawSenseUranium235.name=粗糙的铀-235镰刀片
     S:oredict.toolHeadRawSenseUvarovite.name=粗糙的钙铬榴石镰刀片
     S:oredict.toolHeadRawSenseVanadiumSteel.name=粗糙的钒钢镰刀片
-    S:oredict.toolHeadRawSenseVibramantium.name=粗糙的Vibramantium镰刀片
+    S:oredict.toolHeadRawSenseVibramantium.name=粗糙的艾德曼振金镰刀片
     S:oredict.toolHeadRawSenseVibranium.name=粗糙的振金镰刀片
     S:oredict.toolHeadRawSenseVibraniumSilver.name=粗糙的银振金合金镰刀片
     S:oredict.toolHeadRawSenseVibraniumSteel.name=粗糙的振金钢镰刀片
@@ -63466,7 +63466,7 @@ languagefile {
     S:oredict.toolHeadRawShovelUranium235.name=粗糙的铀-235锹头
     S:oredict.toolHeadRawShovelUvarovite.name=粗糙的钙铬榴石锹头
     S:oredict.toolHeadRawShovelVanadiumSteel.name=粗糙的钒钢锹头
-    S:oredict.toolHeadRawShovelVibramantium.name=粗糙的Vibramantium 锹头
+    S:oredict.toolHeadRawShovelVibramantium.name=粗糙的艾德曼振金锹头
     S:oredict.toolHeadRawShovelVibranium.name=粗糙的振金锹头
     S:oredict.toolHeadRawShovelVibraniumSilver.name=粗糙的银振金合金锹头
     S:oredict.toolHeadRawShovelVibraniumSteel.name=粗糙的振金钢锹头
@@ -63747,7 +63747,7 @@ languagefile {
     S:oredict.toolHeadRawSpadeUranium235.name=粗糙的铀-235铲头
     S:oredict.toolHeadRawSpadeUvarovite.name=粗糙的钙铬榴石铲头
     S:oredict.toolHeadRawSpadeVanadiumSteel.name=粗糙的钒钢铲头
-    S:oredict.toolHeadRawSpadeVibramantium.name=粗糙的Vibramantium铲头
+    S:oredict.toolHeadRawSpadeVibramantium.name=粗糙的艾德曼振金铲头
     S:oredict.toolHeadRawSpadeVibranium.name=粗糙的振金铲头
     S:oredict.toolHeadRawSpadeVibraniumSilver.name=粗糙的银振金合金铲头
     S:oredict.toolHeadRawSpadeVibraniumSteel.name=粗糙的振金钢铲头
@@ -64028,7 +64028,7 @@ languagefile {
     S:oredict.toolHeadRawSwordUranium235.name=粗糙的铀-235剑身
     S:oredict.toolHeadRawSwordUvarovite.name=粗糙的钙铬榴石剑身
     S:oredict.toolHeadRawSwordVanadiumSteel.name=粗糙的钒钢剑身
-    S:oredict.toolHeadRawSwordVibramantium.name=粗糙的Vibramantium剑身
+    S:oredict.toolHeadRawSwordVibramantium.name=粗糙的艾德曼振金剑身
     S:oredict.toolHeadRawSwordVibranium.name=粗糙的振金剑身
     S:oredict.toolHeadRawSwordVibraniumSilver.name=粗糙的银振金合金剑身
     S:oredict.toolHeadRawSwordVibraniumSteel.name=粗糙的振金钢剑身
@@ -64269,7 +64269,7 @@ languagefile {
     S:oredict.toolHeadRawUniversalSpadeUranium235.name=粗糙的铀-235万用铲头
     S:oredict.toolHeadRawUniversalSpadeUvarovite.name=粗糙的钙铬榴石万用铲头
     S:oredict.toolHeadRawUniversalSpadeVanadiumSteel.name=粗糙的钒钢万用铲头
-    S:oredict.toolHeadRawUniversalSpadeVibramantium.name=粗糙的Vibramantium万用铲头
+    S:oredict.toolHeadRawUniversalSpadeVibramantium.name=粗糙的艾德曼振金万用铲头
     S:oredict.toolHeadRawUniversalSpadeVibranium.name=粗糙的振金万用铲头
     S:oredict.toolHeadRawUniversalSpadeVibraniumSilver.name=粗糙的银振金合金万用铲头
     S:oredict.toolHeadRawUniversalSpadeVibraniumSteel.name=粗糙的振金钢万用铲头
@@ -64506,7 +64506,7 @@ languagefile {
     S:oredict.toolHeadSawUranium235.name=铀-235锯片
     S:oredict.toolHeadSawUvarovite.name=钙铬榴石锯片
     S:oredict.toolHeadSawVanadiumSteel.name=钒钢锯片
-    S:oredict.toolHeadSawVibramantium.name=Vibramantium锯片
+    S:oredict.toolHeadSawVibramantium.name=艾德曼振金锯片
     S:oredict.toolHeadSawVibranium.name=振金锯片
     S:oredict.toolHeadSawVibraniumSilver.name=银振金合金锯片
     S:oredict.toolHeadSawVibraniumSteel.name=振金钢锯片
@@ -64746,7 +64746,7 @@ languagefile {
     S:oredict.toolHeadScrewdriverUranium235.name=铀-235螺丝刀头
     S:oredict.toolHeadScrewdriverUvarovite.name=钙铬榴石螺丝刀头
     S:oredict.toolHeadScrewdriverVanadiumSteel.name=钒钢螺丝刀头
-    S:oredict.toolHeadScrewdriverVibramantium.name=Vibramantium螺丝刀头
+    S:oredict.toolHeadScrewdriverVibramantium.name=艾德曼振金螺丝刀头
     S:oredict.toolHeadScrewdriverVibranium.name=振金螺丝刀头
     S:oredict.toolHeadScrewdriverVibraniumSilver.name=银振金合金螺丝刀头
     S:oredict.toolHeadScrewdriverVibraniumSteel.name=振金钢螺丝刀头
@@ -65012,7 +65012,7 @@ languagefile {
     S:oredict.toolHeadSenseUranium235.name=铀-235镰刀片
     S:oredict.toolHeadSenseUvarovite.name=钙铬榴石镰刀片
     S:oredict.toolHeadSenseVanadiumSteel.name=钒钢镰刀片
-    S:oredict.toolHeadSenseVibramantium.name=Vibramantium镰刀片
+    S:oredict.toolHeadSenseVibramantium.name=艾德曼振金镰刀片
     S:oredict.toolHeadSenseVibranium.name=振金镰刀片
     S:oredict.toolHeadSenseVibraniumSilver.name=银振金合金镰刀片
     S:oredict.toolHeadSenseVibraniumSteel.name=振金钢镰刀片
@@ -65293,7 +65293,7 @@ languagefile {
     S:oredict.toolHeadShovelUranium235.name=铀-235锹头
     S:oredict.toolHeadShovelUvarovite.name=钙铬榴石锹头
     S:oredict.toolHeadShovelVanadiumSteel.name=钒钢锹头
-    S:oredict.toolHeadShovelVibramantium.name=Vibramantium锹头
+    S:oredict.toolHeadShovelVibramantium.name=艾德曼振金锹头
     S:oredict.toolHeadShovelVibranium.name=振金锹头
     S:oredict.toolHeadShovelVibraniumSilver.name=银振金合金锹头
     S:oredict.toolHeadShovelVibraniumSteel.name=振金钢锹头
@@ -65574,7 +65574,7 @@ languagefile {
     S:oredict.toolHeadSpadeUranium235.name=铀-235铲头
     S:oredict.toolHeadSpadeUvarovite.name=钙铬榴石铲头
     S:oredict.toolHeadSpadeVanadiumSteel.name=钒钢铲头
-    S:oredict.toolHeadSpadeVibramantium.name=Vibramantium铲头
+    S:oredict.toolHeadSpadeVibramantium.name=艾德曼振金铲头
     S:oredict.toolHeadSpadeVibranium.name=振金铲头
     S:oredict.toolHeadSpadeVibraniumSilver.name=银振金合金铲头
     S:oredict.toolHeadSpadeVibraniumSteel.name=振金钢铲头
@@ -65855,7 +65855,7 @@ languagefile {
     S:oredict.toolHeadSwordUranium235.name=铀-235剑身
     S:oredict.toolHeadSwordUvarovite.name=钙铬榴石剑身
     S:oredict.toolHeadSwordVanadiumSteel.name=钒钢剑身
-    S:oredict.toolHeadSwordVibramantium.name=Vibramantium剑身
+    S:oredict.toolHeadSwordVibramantium.name=艾德曼振金剑身
     S:oredict.toolHeadSwordVibranium.name=振金剑身
     S:oredict.toolHeadSwordVibraniumSilver.name=银振金合金剑身
     S:oredict.toolHeadSwordVibraniumSteel.name=振金钢剑身
@@ -66096,7 +66096,7 @@ languagefile {
     S:oredict.toolHeadUniversalSpadeUranium235.name=铀-235万用铲头
     S:oredict.toolHeadUniversalSpadeUvarovite.name=钙铬榴石万用铲头
     S:oredict.toolHeadUniversalSpadeVanadiumSteel.name=钒钢万用铲头
-    S:oredict.toolHeadUniversalSpadeVibramantium.name=Vibramantium万用铲头
+    S:oredict.toolHeadUniversalSpadeVibramantium.name=艾德曼振金万用铲头
     S:oredict.toolHeadUniversalSpadeVibranium.name=振金万用铲头
     S:oredict.toolHeadUniversalSpadeVibraniumSilver.name=银振金合金万用铲头
     S:oredict.toolHeadUniversalSpadeVibraniumSteel.name=振金钢万用铲头
@@ -66333,7 +66333,7 @@ languagefile {
     S:oredict.toolHeadWrenchUranium235.name=铀-235扳手头
     S:oredict.toolHeadWrenchUvarovite.name=钙铬榴石扳手头
     S:oredict.toolHeadWrenchVanadiumSteel.name=钒钢扳手头
-    S:oredict.toolHeadWrenchVibramantium.name=Vibramantium扳手头
+    S:oredict.toolHeadWrenchVibramantium.name=艾德曼振金扳手头
     S:oredict.toolHeadWrenchVibranium.name=振金扳手头
     S:oredict.toolHeadWrenchVibraniumSilver.name=银振金合金扳手头
     S:oredict.toolHeadWrenchVibraniumSteel.name=振金钢扳手头
@@ -66507,7 +66507,7 @@ languagefile {
     S:oredict.wireFineUranium.name=优良铀线缆
     S:oredict.wireFineUranium235.name=优良铀-235线缆
     S:oredict.wireFineVanadiumSteel.name=优良钒钢线缆
-    S:oredict.wireFineVibramantium.name=优良Vibramantium 线缆
+    S:oredict.wireFineVibramantium.name=优良艾德曼振金线缆
     S:oredict.wireFineVibraniumSilver.name=优良银振金合金线缆
     S:oredict.wireFineVibraniumSteel.name=优良振金钢线缆
     S:oredict.wireFineVibrantAlloy.name=优良脉冲合金线缆

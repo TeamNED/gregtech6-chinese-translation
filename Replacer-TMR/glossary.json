@@ -24,6 +24,7 @@
     "Americium": "镅",
     "Americium-241": "镅-241",
     "Amethyst": "紫水晶",
+    "Ammonia": "氨",
     "Amordrine": "魔力之石",
     "Andesite": "安山岩",
     "Andradite": "钙铁榴石",
@@ -1696,6 +1697,7 @@
         ".*": "蛭石",
         "oredict.*[Dd]ust.*": "蛭石粉"
     },
+    "Vibramantium": "艾德曼振金",
     "Vibranium": "振金",
     "Vibranium Silver": "银振金合金",
     "Vibranium Steel": "振金钢",
@@ -1711,6 +1713,7 @@
     "Vulcanite": "熔岩结晶",
     "Vyroxeres": "幽冥剧毒结晶",
     "Water": "水",
+    "WaterDistilled": "蒸馏水",
     "Wax": {
         ".*": "蜡",
         "oredict.*[Dd]ust.*": "蜡粉"
