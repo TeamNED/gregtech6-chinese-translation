@@ -612,6 +612,12 @@
         "priority": 2000
     },
     {
+        "name": "oredict.+[dD]ouble.+",
+        "value": "Robust (?P<mw>.+)",
+        "repl": "加强{0}",
+        "priority": 2000
+    },
+    {
         "name": "oredict.plate(Gem)?Tiny.+",
         "value": "Tiny (?P<mw>.+)",
         "repl": "小块{0}",
