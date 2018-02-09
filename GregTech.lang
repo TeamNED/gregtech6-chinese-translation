@@ -12768,7 +12768,7 @@ languagefile {
     S:oredict.blockDustAlduorite.name=神秘蓝金粉块
     S:oredict.blockDustAlexandrite.name=紫翠玉粉块
     S:oredict.blockDustAlmandine.name=铁铝榴石粉块
-    S:oredict.blockDustAlmond.name=扁桃粉块
+    S:oredict.blockDustAlmond.name=碎杏仁粉块
     S:oredict.blockDustAlumina.name=氧化铝粉块
     S:oredict.blockDustAluminium.name=铝粉块
     S:oredict.blockDustAluminiumAlloy.name=铝合金粉块
@@ -17016,7 +17016,7 @@ languagefile {
     S:oredict.chemtubeAlduorite.name=神秘蓝金试管
     S:oredict.chemtubeAlexandrite.name=紫翠玉试管
     S:oredict.chemtubeAlmandine.name=铁铝榴石试管
-    S:oredict.chemtubeAlmond.name=Glass Tube containing Almond
+    S:oredict.chemtubeAlmond.name=杏仁试管
     S:oredict.chemtubeAlumina.name=氧化铝试管
     S:oredict.chemtubeAluminium.name=铝试管
     S:oredict.chemtubeAluminiumAlloy.name=铝合金试管
@@ -18892,7 +18892,7 @@ languagefile {
     S:oredict.crateGtDustAlduorite.name=神秘蓝金粉板条箱
     S:oredict.crateGtDustAlexandrite.name=紫翠玉粉板条箱
     S:oredict.crateGtDustAlmandine.name=铁铝榴石粉板条箱
-    S:oredict.crateGtDustAlmond.name=扁桃板条箱
+    S:oredict.crateGtDustAlmond.name=碎杏仁板条箱
     S:oredict.crateGtDustAlumina.name=氧化铝粉板条箱
     S:oredict.crateGtDustAluminium.name=铝粉板条箱
     S:oredict.crateGtDustAluminiumAlloy.name=铝合金粉板条箱
@@ -23919,7 +23919,7 @@ languagefile {
     S:oredict.dustAlduorite.name=神秘蓝金粉
     S:oredict.dustAlexandrite.name=紫翠玉粉
     S:oredict.dustAlmandine.name=铁铝榴石粉
-    S:oredict.dustAlmond.name=扁桃
+    S:oredict.dustAlmond.name=碎杏仁
     S:oredict.dustAlumina.name=氧化铝粉
     S:oredict.dustAluminium.name=铝粉
     S:oredict.dustAluminiumAlloy.name=铝合金粉
@@ -24214,7 +24214,7 @@ languagefile {
     S:oredict.dustDiv72Alduorite.name=1/72份神秘蓝金粉
     S:oredict.dustDiv72Alexandrite.name=1/72份紫翠玉粉
     S:oredict.dustDiv72Almandine.name=1/72份铁铝榴石粉
-    S:oredict.dustDiv72Almond.name=1/72份扁桃
+    S:oredict.dustDiv72Almond.name=1/72份碎杏仁
     S:oredict.dustDiv72Alumina.name=1/72份氧化铝粉
     S:oredict.dustDiv72Aluminium.name=1/72份铝粉
     S:oredict.dustDiv72AluminiumAlloy.name=1/72份铝合金粉
@@ -26491,7 +26491,7 @@ languagefile {
     S:oredict.dustSmallAlduorite.name=小堆神秘蓝金粉
     S:oredict.dustSmallAlexandrite.name=小堆紫翠玉粉
     S:oredict.dustSmallAlmandine.name=小堆铁铝榴石粉
-    S:oredict.dustSmallAlmond.name=小堆扁桃
+    S:oredict.dustSmallAlmond.name=小堆碎杏仁
     S:oredict.dustSmallAlumina.name=小堆氧化铝粉
     S:oredict.dustSmallAluminium.name=小堆铝粉
     S:oredict.dustSmallAluminiumAlloy.name=小堆铝合金粉
@@ -27353,7 +27353,7 @@ languagefile {
     S:oredict.dustTinyAlduorite.name=小撮神秘蓝金粉
     S:oredict.dustTinyAlexandrite.name=小撮紫翠玉粉
     S:oredict.dustTinyAlmandine.name=小撮铁铝榴石粉
-    S:oredict.dustTinyAlmond.name=小撮扁桃
+    S:oredict.dustTinyAlmond.name=小撮碎杏仁
     S:oredict.dustTinyAlumina.name=小撮氧化铝粉
     S:oredict.dustTinyAluminium.name=小撮铝粉
     S:oredict.dustTinyAluminiumAlloy.name=小撮铝合金粉
@@ -44128,7 +44128,7 @@ languagefile {
     S:oredict.plantGtBerryAlduorite.name=神秘蓝金莓
     S:oredict.plantGtBerryAlexandrite.name=紫翠玉莓
     S:oredict.plantGtBerryAlmandine.name=铁铝榴石莓
-    S:oredict.plantGtBerryAlmond.name=Almond Berry
+    S:oredict.plantGtBerryAlmond.name=杏仁莓
     S:oredict.plantGtBerryAlumina.name=氧化铝莓
     S:oredict.plantGtBerryAluminium.name=铝莓
     S:oredict.plantGtBerryAluminiumAlloy.name=铝合金莓
@@ -45004,7 +45004,7 @@ languagefile {
     S:oredict.plantGtBlossomAlduorite.name=神秘蓝金花
     S:oredict.plantGtBlossomAlexandrite.name=紫翠玉花
     S:oredict.plantGtBlossomAlmandine.name=铁铝榴石花
-    S:oredict.plantGtBlossomAlmond.name=Almond Blossom
+    S:oredict.plantGtBlossomAlmond.name=杏仁花
     S:oredict.plantGtBlossomAlumina.name=氧化铝花
     S:oredict.plantGtBlossomAluminium.name=铝花
     S:oredict.plantGtBlossomAluminiumAlloy.name=铝合金花
@@ -45880,7 +45880,7 @@ languagefile {
     S:oredict.plantGtFiberAlduorite.name=生神秘蓝金丝
     S:oredict.plantGtFiberAlexandrite.name=生紫翠玉丝
     S:oredict.plantGtFiberAlmandine.name=生铁铝榴石丝
-    S:oredict.plantGtFiberAlmond.name=Raw Almond Fiber
+    S:oredict.plantGtFiberAlmond.name=生杏仁丝
     S:oredict.plantGtFiberAlumina.name=生氧化铝丝
     S:oredict.plantGtFiberAluminium.name=生铝丝
     S:oredict.plantGtFiberAluminiumAlloy.name=生铝合金丝
@@ -46756,7 +46756,7 @@ languagefile {
     S:oredict.plantGtTwigAlduorite.name=神秘蓝金细枝
     S:oredict.plantGtTwigAlexandrite.name=紫翠玉细枝
     S:oredict.plantGtTwigAlmandine.name=铁铝榴石细枝
-    S:oredict.plantGtTwigAlmond.name=Almond Twig
+    S:oredict.plantGtTwigAlmond.name=杏仁细枝
     S:oredict.plantGtTwigAlumina.name=氧化铝细枝
     S:oredict.plantGtTwigAluminium.name=铝细枝
     S:oredict.plantGtTwigAluminiumAlloy.name=铝合金细枝
@@ -47632,7 +47632,7 @@ languagefile {
     S:oredict.plantGtWartAlduorite.name=神秘蓝金疣
     S:oredict.plantGtWartAlexandrite.name=紫翠玉疣
     S:oredict.plantGtWartAlmandine.name=铁铝榴石疣
-    S:oredict.plantGtWartAlmond.name=Almond Wart
+    S:oredict.plantGtWartAlmond.name=杏仁疣
     S:oredict.plantGtWartAlumina.name=氧化铝疣
     S:oredict.plantGtWartAluminium.name=铝疣
     S:oredict.plantGtWartAluminiumAlloy.name=铝合金疣
@@ -51798,7 +51798,7 @@ languagefile {
     S:oredict.plateTripleOsmiumElemental.name=三重锇板
     S:oredict.plateTripleOureclase.name=三重大地结晶板
     S:oredict.plateTriplePalladium.name=三重钯板
-    S:oredict.plateTriplePaper.name=三重纸板
+    S:oredict.plateTriplePaper.name=硬纸箱
     S:oredict.plateTriplePigIron.name=三重生铁板
     S:oredict.plateTriplePlastic.name=三重塑料板
     S:oredict.plateTriplePlatinum.name=三重铂板
@@ -53434,7 +53434,7 @@ languagefile {
     S:oredict.scrapGtAlduorite.name=神秘蓝金废料
     S:oredict.scrapGtAlexandrite.name=紫翠玉废料
     S:oredict.scrapGtAlmandine.name=铁铝榴石废料
-    S:oredict.scrapGtAlmond.name=Almond 废料
+    S:oredict.scrapGtAlmond.name=杏仁废料
     S:oredict.scrapGtAlumina.name=氧化铝废料
     S:oredict.scrapGtAluminium.name=铝废料
     S:oredict.scrapGtAluminiumAlloy.name=铝合金废料
@@ -66935,3 +66935,5 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT] 转换金属为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] 把木头变成木炭
 }
+
+
