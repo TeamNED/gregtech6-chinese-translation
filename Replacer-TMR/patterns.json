@@ -90,6 +90,12 @@
         "priority": 1000
     },
     {
+        "name": "oredict.casingMachine.+",
+        "value": "(?P<mw>.+) Machine Casing",
+        "repl": "{0}机械外壳",
+        "priority": 1000
+    },
+    {
         "name": "oredict.cell.+",
         "value": "(?P<mw>.+) Cell",
         "repl": "{0}单元",
@@ -606,10 +612,10 @@
         "priority": 1000
     },
     {
-        "name": "oredict.plateDense.+",
-        "value": "Dense (?P<mw>.+) Plate",
-        "repl": "致密{0}板",
-        "priority": 1000
+        "name": "oredict.+[dD]ense.+",
+        "value": "Dense (?P<mw>.+)",
+        "repl": "致密{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateCurved.+",
