@@ -235,6 +235,12 @@
     },
     {
         "name": "oredict.toolHead.+",
+        "value": "(?P<mw>.+) Buzzsaw Blade",
+        "repl": "{0}圆锯片",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) Drill Tip",
         "repl": "{0}钻头",
         "priority": 1000
@@ -243,6 +249,12 @@
         "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) File Tip",
         "repl": "{0}锉刀头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(?P<mw>.+) Chainsaw Tip",
+        "repl": "{0}电锯头",
         "priority": 1000
     },
     {
