@@ -13323,7 +13323,7 @@ languagefile {
     S:oredict.blockDustPentlandite.name=镍黄铁粉块
     S:oredict.blockDustPepperBlack.name=黑胡椒末粉块
     S:oredict.blockDustPerlite.name=珍珠岩粉块
-    S:oredict.blockDustPetrifiedWood.name=Block of Petrified Wood Pulp
+    S:oredict.blockDustPetrifiedWood.name=石化木浆粉块
     S:oredict.blockDustPetroleumCoke.name=石油焦炭粉块
     S:oredict.blockDustPetrotheum.name=构造之地岩粉块
     S:oredict.blockDustPhosphate.name=磷酸盐粉块
@@ -19446,7 +19446,7 @@ languagefile {
     S:oredict.crateGtDustPentlandite.name=镍黄铁粉板条箱
     S:oredict.crateGtDustPepperBlack.name=黑胡椒末板条箱
     S:oredict.crateGtDustPerlite.name=珍珠岩粉板条箱
-    S:oredict.crateGtDustPetrifiedWood.name=Crate of Petrified Wood Pulp
+    S:oredict.crateGtDustPetrifiedWood.name=石化木浆板条箱
     S:oredict.crateGtDustPetroleumCoke.name=石油焦炭粉板条箱
     S:oredict.crateGtDustPetrotheum.name=构造之地岩粉板条箱
     S:oredict.crateGtDustPhosphate.name=磷酸盐粉板条箱
@@ -24759,7 +24759,7 @@ languagefile {
     S:oredict.dustDiv72Pentlandite.name=1/72份镍黄铁粉
     S:oredict.dustDiv72PepperBlack.name=1/72份黑胡椒末
     S:oredict.dustDiv72Perlite.name=1/72份珍珠岩粉
-    S:oredict.dustDiv72PetrifiedWood.name=1/72nd of a Pile of Petrified Wood Pulp
+    S:oredict.dustDiv72PetrifiedWood.name=1/72份石化木浆
     S:oredict.dustDiv72PetroleumCoke.name=1/72份石油焦炭粉
     S:oredict.dustDiv72Petrotheum.name=1/72份构造之地岩粉
     S:oredict.dustDiv72Phosphate.name=1/72份磷酸盐粉
@@ -25533,7 +25533,7 @@ languagefile {
     S:oredict.dustImpurePalladium.name=含杂钯粉
     S:oredict.dustImpurePentlandite.name=含杂镍黄铁粉
     S:oredict.dustImpurePerlite.name=含杂珍珠岩粉
-    S:oredict.dustImpurePetrifiedWood.name=Impure Pile of Petrified Wood Pulp
+    S:oredict.dustImpurePetrifiedWood.name=含杂石化木浆
     S:oredict.dustImpurePetroleumCoke.name=含杂石油焦炭粉
     S:oredict.dustImpurePhosphate.name=含杂磷酸盐粉
     S:oredict.dustImpurePhosphor.name=含杂磷粉
@@ -25822,7 +25822,7 @@ languagefile {
     S:oredict.dustPentlandite.name=镍黄铁粉
     S:oredict.dustPepperBlack.name=黑胡椒末
     S:oredict.dustPerlite.name=珍珠岩粉
-    S:oredict.dustPetrifiedWood.name=Petrified Wood Pulp
+    S:oredict.dustPetrifiedWood.name=石化木浆
     S:oredict.dustPetroleumCoke.name=石油焦炭粉
     S:oredict.dustPetrotheum.name=构造之地岩粉
     S:oredict.dustPhosphate.name=磷酸盐粉
@@ -26280,7 +26280,7 @@ languagefile {
     S:oredict.dustPurePalladium.name=纯净钯粉
     S:oredict.dustPurePentlandite.name=纯净镍黄铁粉
     S:oredict.dustPurePerlite.name=纯净珍珠岩粉
-    S:oredict.dustPurePetrifiedWood.name=Purified Pile of Petrified Wood Pulp
+    S:oredict.dustPurePetrifiedWood.name=纯净石化木浆
     S:oredict.dustPurePetroleumCoke.name=纯净石油焦炭粉
     S:oredict.dustPurePhosphate.name=纯净磷酸盐粉
     S:oredict.dustPurePhosphor.name=纯净磷粉
@@ -27045,7 +27045,7 @@ languagefile {
     S:oredict.dustSmallPentlandite.name=小堆镍黄铁粉
     S:oredict.dustSmallPepperBlack.name=小堆黑胡椒末
     S:oredict.dustSmallPerlite.name=小堆珍珠岩粉
-    S:oredict.dustSmallPetrifiedWood.name=Small Pile of Petrified Wood Pulp
+    S:oredict.dustSmallPetrifiedWood.name=小堆石化木浆
     S:oredict.dustSmallPetroleumCoke.name=小堆石油焦炭粉
     S:oredict.dustSmallPetrotheum.name=小堆构造之地岩粉
     S:oredict.dustSmallPhosphate.name=小堆磷酸盐粉
@@ -27907,7 +27907,7 @@ languagefile {
     S:oredict.dustTinyPentlandite.name=小撮镍黄铁粉
     S:oredict.dustTinyPepperBlack.name=小撮黑胡椒末
     S:oredict.dustTinyPerlite.name=小撮珍珠岩粉
-    S:oredict.dustTinyPetrifiedWood.name=Tiny Pile of Petrified Wood Pulp
+    S:oredict.dustTinyPetrifiedWood.name=小撮石化木浆
     S:oredict.dustTinyPetroleumCoke.name=小撮石油焦炭粉
     S:oredict.dustTinyPetrotheum.name=小撮构造之地岩粉
     S:oredict.dustTinyPhosphate.name=小撮磷酸盐粉
@@ -51395,7 +51395,7 @@ languagefile {
     S:oredict.plateTinyOsmiumElemental.name=小块锇板
     S:oredict.plateTinyOureclase.name=小块大地结晶板
     S:oredict.plateTinyPalladium.name=小块钯板
-    S:oredict.plateTinyPaper.name=Tiny piece of Paper
+    S:oredict.plateTinyPaper.name=纸屑
     S:oredict.plateTinyPetrifiedWood.name=小块石化木板
     S:oredict.plateTinyPigIron.name=小块生铁板
     S:oredict.plateTinyPlastic.name=小块塑料板
@@ -51798,7 +51798,7 @@ languagefile {
     S:oredict.plateTripleOsmiumElemental.name=三重锇板
     S:oredict.plateTripleOureclase.name=三重大地结晶板
     S:oredict.plateTriplePalladium.name=三重钯板
-    S:oredict.plateTriplePaper.name=Carton
+    S:oredict.plateTriplePaper.name=硬纸箱
     S:oredict.plateTriplePigIron.name=三重生铁板
     S:oredict.plateTriplePlastic.name=三重塑料板
     S:oredict.plateTriplePlatinum.name=三重铂板

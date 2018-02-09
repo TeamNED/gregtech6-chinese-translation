@@ -499,63 +499,33 @@
     },
     {
         "name": "oredict.dustSmall.+",
-        "value": "Small Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "小堆{0}粉",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.dustSmall.+",
         "value": "Small Pile of (?P<mw>.+)$",
         "repl": "小堆{0}",
-        "priority": 900
-    },
-    {
-        "name": "oredict.dustTiny.+",
-        "value": "Tiny Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "小撮{0}粉",
-        "priority": 1000
+        "priority": 2000
     },
     {
         "name": "oredict.dustTiny.+",
         "value": "Tiny Pile of (?P<mw>.+)$",
         "repl": "小撮{0}",
-        "priority": 900
-    },
-    {
-        "name": "oredict.dustDiv72.+",
-        "value": "1/72nd of a Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "1/72份{0}粉",
-        "priority": 1000
+        "priority": 2000
     },
     {
         "name": "oredict.dustDiv72.+",
         "value": "1/72nd of a Pile of (?P<mw>.+)$",
         "repl": "1/72份{0}",
-        "priority": 900
-    },
-    {
-        "name": "oredict.dustPure.+",
-        "value": "Purified Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "纯净{0}粉",
-        "priority": 1000
+        "priority": 2000
     },
     {
         "name": "oredict.dustPure.+",
         "value": "Purified Pile of (?P<mw>.+)$",
         "repl": "纯净{0}",
-        "priority": 900
-    },
-    {
-        "name": "oredict.dustImpure.+",
-        "value": "Impure Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "含杂{0}粉",
         "priority": 1000
     },
     {
         "name": "oredict.dustImpure.+",
         "value": "Impure Pile of (?P<mw>.+)$",
         "repl": "含杂{0}",
-        "priority": 900
+        "priority": 1000
     },
     {
         "name": "oredict.(block|plate|crateGt).+",
