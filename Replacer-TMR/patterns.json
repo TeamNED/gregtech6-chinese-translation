@@ -355,7 +355,7 @@
     },
     {
         "name": "oredict.rockGt.+",
-        "value": "(?P<mw>.+) ?(bearing)? Rock",
+        "value": "(?P<mw>.+) bearing Rock",
         "repl": "含{0}岩石",
         "priority": 1000
     },
