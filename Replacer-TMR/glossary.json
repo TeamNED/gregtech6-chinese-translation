@@ -31,6 +31,7 @@
     "Angmallen": "神圣之金",
     "Annealed Copper": "韧铜",
     "Anthracite": "无烟煤",
+    "Anthracite Coal": "无烟煤",
     "Anti-Actinium": "反物质锕",
     "Anti-Adamantium": "反物质艾德曼合金",
     "Anti-Aluminium": "反物质铝",
@@ -464,7 +465,10 @@
     "Aredrite": "希尔金",
     "Argon": "氩",
     "Arsenic": "砷",
-    "Arsenopyrite": "砷黄铁矿",
+    "Arsenopyrite": {
+        ".*": "砷黄铁矿",
+        "oredict.(crushed|ore).+": "砷黄铁"
+    },
     "Asbestos": "石棉",
     "Ashes": "灰烬",
     "Asphalt": "沥青",
@@ -481,9 +485,15 @@
     "Basalt": "玄武岩",
     "Basaltic Mineral Sand": "玄武岩砂",
     "Basalz": "岩石",
-    "Bastnasite": "氟碳铈矿",
+    "Bastnasite": {
+        ".*": "氟碳铈矿",
+        "oredict.(crushed|ore).+": "氟碳铈"
+    },
     "Battery Alloy": "电池合金",
-    "Bauxite": "铝土矿",
+    "Bauxite": {
+        ".*": "铝土矿",
+        "oredict.(crushed|ore).+": "铝土"
+    },
     "Beam": "木梁",
     "Bedrock": "基岩",
     "Bedrock-HSLA-Alloy": "基岩合金",
@@ -633,15 +643,21 @@
     "Boron": "硼",
     "Brass": "黄铜",
     "Bro": "兄弟",
-    "Bromargyrite": "溴银矿",
+    "Bromargyrite": {
+        ".*": "溴银矿",
+        "oredict.(crushed|ore).+": "溴银"
+    },
     "Bromine": "溴",
     "Bronze": "青铜",
     "Brown": "褐色",
     "Brown Clay": "褐色粘土",
     "Brown Dye": "褐色染料粉",
-    "Brown Limonite": "褐铁矿",
+    "Brown Limonite": {
+        ".*": "褐铁矿",
+        "oredict.(crushed|ore).+": "褐铁"
+    },
     "Builder": "建筑",
-    "Bumbelvis": "基岩",
+    "Bumbelvis": "基岩大黄蜂",
     "Bumbleknight": "骑士大黄蜂",
     "Bumblemonarch": "黑脉金斑大黄蜂",
     "Bumbleshroom": "蘑菇大黄蜂",
@@ -667,7 +683,10 @@
         ".*": "锡石",
         "oredict.*[Dd]ust.*": "锡石粉"
     },
-    "Cassiterite Sand": "锡石沙矿",
+    "Cassiterite Sand": {
+        ".*": "锡石沙矿",
+        "oredict.(crushed|ore).+": "锡石沙"
+    },
     "Cd-In-Ag-Alloy": "镉铟银合金",
     "Celenegil": "幽冥毒结晶",
     "Celestine": "天青石",
@@ -677,7 +696,10 @@
     "Certus Quartz": "赛特斯石英",
     "Ceruclase": "暗影秘银",
     "Chad": "纸屑",
-    "Chalcopyrite": "黄铜矿",
+    "Chalcopyrite": {
+        ".*": "黄铜矿",
+        "oredict.(crushed|ore).+": "黄铜"
+    },
     "Chalk": "白垩",
     "Charcoal": "木炭",
     "Charged Certus Quartz": "充能赛特斯石英",
@@ -690,7 +712,10 @@
     "Chloroplatinic Acid": "氯铂酸",
     "Chocolate": "巧克力",
     "Chocolate Bar": "巧克力块",
-    "Chromite": "铬铁矿",
+    "Chromite": {
+        ".*": "铬铁矿",
+        "oredict.(crushed|ore).+": "铬铁"
+    },
     "Chromium": "铬",
     "Chromium Dioxide": "二氧化铬",
     "Chrysotile": "温石棉",
@@ -898,12 +923,18 @@
     "Europium": "铕",
     "Eximite": "虚空石",
     "Farnsium": "钫",
-    "Ferberite": "钨铁矿",
+    "Ferberite": {
+        ".*": "钨铁矿",
+        "oredict.(crushed|ore).+": "钨铁"
+    },
     "Fermium": "镄",
     "Ferric Chloride": "氯化铁",
     "Ferrite": "铁氧体",
     "Ferrous Chloride": "氯化亚铁",
-    "Ferrovanadium": "钒磁铁矿",
+    "Ferrovanadium": {
+        ".*": "钒磁铁矿",
+        "oredict.(crushed|ore).+": "钒磁铁"
+    },
     "Fiery Blood": "炙热钢",
     "Fiery Steel": "炙热钢",
     "Firestone": "火石",
@@ -931,11 +962,17 @@
     "Fullers Earth": "漂白土",
     "Gabbro": "辉长岩",
     "Gadolinium": "钆",
-    "Galena": "方铅矿",
+    "Galena": {
+        ".*": "方铅矿",
+        "oredict.(crushed|ore).+": "方铅"
+    },
     "Gallium": "镓",
     "Galvanized Steel": "镀锌钢",
     "Garnet Sand": "石榴石沙",
-    "Garnierite": "硅镁镍矿",
+    "Garnierite": {
+        ".*": "硅镁镍矿",
+        "oredict.(crushed|ore).+": "硅镁镍"
+    },
     "Germanium": "锗",
     "Gilded Iron": "镀金铁",
     "Glass": "玻璃",
@@ -992,7 +1029,10 @@
     "Helium-3": "氦-3",
     "Helium-Neon": "氦氖混合气体",
     "Hellish": "地狱",
-    "Hematite": "赤铁矿",
+    "Hematite": {
+        ".*": "赤铁矿",
+        "oredict.(crushed|ore).+": "赤铁"
+    },
     "Hemp Oil": "大麻籽油",
     "Hepatizon": "幽魂结晶",
     "Hexafluorosilicic Acid": "六氟硅酸",
@@ -1001,7 +1041,10 @@
     "Honey": "蜂蜜",
     "Honeydew": "蜂蜜滴",
     "Hot Frying Oil": "热炸油",
-    "Huebnerite": "钨锰矿",
+    "Huebnerite": {
+        ".*": "钨锰矿",
+        "oredict.(crushed|ore).+": "钨锰"
+    },
     "Hydrated Coal": "水合煤",
     "Hydrochloric Acid": "盐酸",
     "Hydrogen": "氢",
@@ -1054,7 +1097,10 @@
         "oredict.*[Dd]ust.*": "高岭石粉"
     },
     "Kerosine": "煤油",
-    "Kesterite": "锌黄锡矿",
+    "Kesterite": {
+        ".*": "锌黄锡矿",
+        "oredict.(crushed|ore).+": "锌黄锡"
+    },
     "Knightmetal": "骑士金属",
     "Komatiite": "科马提岩",
     "Kreknorite": "炽焰陨石",
@@ -1104,14 +1150,20 @@
     },
     "Magician": "魔法",
     "Magnalium": "镁铝合金",
-    "Magnesite": "菱镁矿",
+    "Magnesite": {
+        ".*": "菱镁矿",
+        "oredict.(crushed|ore).+": "菱镁"
+    },
     "Magnesium": "镁",
     "Magnesium Carbonate": "碳酸镁",
     "Magnesium Chloride": "氯化镁",
     "Magnetic Iron": "磁化铁",
     "Magnetic Neodymium": "磁化钕",
     "Magnetic Steel": "磁化钢",
-    "Magnetite": "磁铁矿",
+    "Magnetite": {
+        ".*": "磁铁矿",
+        "oredict.(crushed|ore).+": "磁铁"
+    },
     "Malachite": "孔雀石",
     "Mana Quartz": "魔力石英",
     "Manasteel": "魔力钢",
@@ -1144,7 +1196,10 @@
     "Mint": "薄荷",
     "Mirabilite": "芒硝",
     "Mithril": "秘银",
-    "Molybdenite": "辉钼矿",
+    "Molybdenite": {
+        ".*": "辉钼矿",
+        "oredict.(crushed|ore).+": "辉钼"
+    },
     "Molybdenum": "钼",
     "Monazite": "独居石",
     "Monopolistic": "垄断",
@@ -1273,7 +1328,10 @@
     "Potassium Sulfide": "硫化钾",
     "Potassium Sulfite": "亚硫酸钾",
     "Potato": "土豆",
-    "Powellite": "钼钙矿",
+    "Powellite": {
+        ".*": "钼钙矿",
+        "oredict.(crushed|ore).+": "钼钙"
+    },
     "Praseodymium": "镨",
     "Prismane": "棱柱烷",
     "Prometheum": "秘银",
@@ -1288,8 +1346,14 @@
     "Purple Alloy": "紫色合金",
     "Purple Dye": "紫色染料",
     "Purple Sapphire": "紫蓝宝石",
-    "Pyrite": "黄铁矿",
-    "Pyrolusite": "软锰矿",
+    "Pyrite": {
+        ".*": "黄铁矿",
+        "oredict.(crushed|ore).+": "黄铁"
+    },
+    "Pyrolusite": {
+        ".*": "软锰矿",
+        "oredict.(crushed|ore).+": "软锰"
+    },
     "Pyrope": "镁铝榴石",
     "Pyrotheum": "炽焱",
     "Quartz Sand": "石英沙",
@@ -1348,7 +1412,10 @@
     "Rubidium": "铷",
     "Rubracium": "褐铜",
     "Ruby": "红宝石",
-    "Russellite": "钨铋矿",
+    "Russellite": {
+        ".*": "钨铋矿",
+        "oredict.(crushed|ore).+": "钨铋"
+    },
     "Ruthenium": "钌",
     "Rutherfordium": "鑪",
     "Rutile": "金红石",
@@ -1365,7 +1432,10 @@
     "Sanguinite": "狱炎石",
     "Sapphire": "蓝宝石",
     "Scandium": "钪",
-    "Scheelite": "白钨矿",
+    "Scheelite": {
+        ".*": "白钨矿",
+        "oredict.(crushed|ore).+": "白钨"
+    },
     "Sea Water": "海水",
     "Seaborgium": "𬭳",
     "Sealed Wood": "防腐木",
@@ -1422,19 +1492,34 @@
     "Spectre Iron": "灵魂之铁",
     "Sperrylite": "砷铂",
     "Spessartine": "锰铝榴石",
-    "Sphalerite": "闪锌矿",
+    "Sphalerite": {
+        ".*": "闪锌矿",
+        "oredict.(crushed|ore).+": "闪锌"
+    },
     "Spinel": "尖晶石",
-    "Spodumene": "锂辉矿",
+    "Spodumene": {
+        ".*": "锂辉矿",
+        "oredict.(crushed|ore).+": "锂辉"
+    },
     "Spring Steel": "弹簧钢",
     "Spruce": "云杉木",
     "Stainless Steel": "不锈钢",
     "Stannic Chloride": "四氯化锡",
-    "Stannite": "黄锡矿",
+    "Stannite": {
+        ".*": "黄锡矿",
+        "oredict.(crushed|ore).+": "黄锡"
+    },
     "Steel": "钢",
     "Steeleaf": "钢叶",
     "Sterling Silver": "标准银",
-    "Stibnite": "辉锑矿",
-    "Stolzite": "钨铅矿",
+    "Stibnite": {
+        ".*": "辉锑矿",
+        "oredict.(crushed|ore).+": "辉锑"
+    },
+    "Stolzite": {
+        ".*": "钨铅矿",
+        "oredict.(crushed|ore).+": "钨铅"
+    },
     "Stone": "石",
     "Stoned": "石化",
     "Strontium": "锶",
@@ -1453,7 +1538,10 @@
         ".*": "滑石",
         "oredict.*[Dd]ust.*": "滑石粉"
     },
-    "Tantalite": "钽铁矿",
+    "Tantalite": {
+        ".*": "钽铁矿",
+        "oredict.(crushed|ore).+": "钽铁"
+    },
     "Tantalum": "钽",
     "Tanzanite": "坦桑石",
     "Tartarite": "溶火之石",
@@ -1464,7 +1552,10 @@
     "Terbium": "铽",
     "Terrasteel": "泰拉钢",
     "Teslatite": "特斯拉金属",
-    "Tetrahedrite": "黝铜矿",
+    "Tetrahedrite": {
+        ".*": "黝铜矿",
+        "oredict.(crushed|ore).+": "黝铜"
+    },
     "Thallium": "铊",
     "Thaumium": "神秘",
     "Thorium": "钍",
@@ -1596,7 +1687,10 @@
     "Triuntrium": "313号元素(Tut)",
     "Triununium": "311号元素(Tuu)",
     "Trona": "天然碱",
-    "Tungstate": "钨酸盐矿",
+    "Tungstate": {
+        ".*": "钨酸盐矿",
+        "oredict.(crushed|ore).+": "钨酸盐"
+    },
     "Tungsten": "钨",
     "Tungsten Carbide": "碳化钨",
     "Tungsten Trioxide": "三氧化钨",
@@ -1637,6 +1731,7 @@
     "Unhexseptium": "167号元素(Uhs)",
     "Unhextrium": "163号元素(Uht)",
     "Unhexunium": "161号元素(Uhu)",
+    "Unknown": "未知",
     "Unoctbium": "182号元素(Uob)",
     "Unoctennium": "189号元素(Uoe)",
     "Unocthexium": "186号元素(Uoh)",
@@ -1690,7 +1785,10 @@
     "Ununennium": "119号元素(Uue)",
     "Ununoctium": "118号元素(Og)",
     "Ununseptium": "117号元素(Ts)",
-    "Uraninite": "晶质铀矿",
+    "Uraninite": {
+        ".*": "晶质铀矿",
+        "oredict.(crushed|ore).+": "晶质铀"
+    },
     "Uranium": "铀",
     "Uranium-235": "铀-235",
     "Uvarovite": "钙铬榴石",
@@ -1732,26 +1830,33 @@
     "Wild": "野生",
     "Willow": "柳树",
     "Wizard": "巫术",
-    "Wolframite": "钨锰铁矿",
+    "Wolframite": {
+        ".*": "钨锰铁矿",
+        "oredict.(crushed|ore).+": "钨锰铁"
+    },
     "Wollastonite": "硅灰石",
     "Wood": "木",
     "Wood Plank": "木板",
     "Wood Pulp": "锯末",
     "Wrought Iron": "熟铁",
-    "Wulfenite": "钼铅矿",
+    "Wulfenite": {
+        ".*": "钼铅矿",
+        "oredict.(crushed|ore).+": "钼铅"
+    },
     "Xenon": "氙",
     "Yellorite": "黄铀",
     "Yellorium": "黄铀",
     "Yellow": "黄色",
     "Yellow Dye": "黄色染料",
-    "Yellow Limonite": "黄色褐铁矿",
+    "Yellow Limonite": {
+        ".*": "黄色褐铁矿",
+        "oredict.(crushed|ore).+": "黄色褐铁"
+    },
     "Yellow Sapphire": "黄色蓝宝石",
     "Ytterbium": "镱",
     "Yttrium": "钇",
     "Yttrium-Barium-Cuprate": "钇钡铜氧合金",
     "Zeolite": "沸石",
     "Zinc": "锌",
-    "Zirconium": "锆",
-    "Anthracite Coal":"无烟煤",
-    "Lignite Coal":"褐煤",
+    "Zirconium": "锆"
 }

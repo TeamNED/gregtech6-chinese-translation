@@ -152,7 +152,7 @@
     {
         "name": "oredict.tool.+",
         "value": "Raw (?P<mw>.+)",
-        "repl": "粗糙的{0}",
+        "repl": "粗制{0}",
         "priority": 2000
     },
     {
