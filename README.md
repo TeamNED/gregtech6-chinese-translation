@@ -33,6 +33,7 @@ I'm so buzy these days, so i may update it after I've done all works >_<
 - 任务队列：已经讨论完毕，只缺动手的任务。
 - 讨论中：还在撕的问题。所有新开的Issues都会自动收集到这里来。
 - 已完成：已经搞定了的项目。
+
 工作的流程就是，
 1. 当一个Issues讨论被敲定之后，别忙着Close，把它从讨论中拖到任务队列。
 2. 当你把事情搞定之后，再把任务队列里相应的卡片拖到已完成那里。（也可以通过关闭Issues来达到同样的效果）
