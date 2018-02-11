@@ -31,7 +31,7 @@ I'm so buzy these days, so i may update it after I've done all works >_<
 
 ~~废话毕~~。我们来看下具体怎么用。我把Projects页面分成了三份，*任务队列，已完成，讨论中。*
 - 任务队列：已经讨论完毕，只缺动手的任务。
-- 讨论中：还在撕的问题。所有新开的Issues都会自动收集到这里来。
+- 讨论中：还在撕的问题。所有新开的Issues都会自动收集到这里来。(目前貌似自动收集的功能有点问题，请点右上角Add Cards手动把Issue拖进来)
 - 已完成：已经搞定了的项目。
 
 工作的流程就是，
