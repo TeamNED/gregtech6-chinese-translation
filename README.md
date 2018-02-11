@@ -1,4 +1,8 @@
 # gregtech6-chinese-translate
+![Translation Status](https://weblate.sayori.pw/widgets/gregtech/-/svg-badge.svg)
+
+[Weblate翻译服务器](https://weblate.sayori.pw/engage/gregtech/?utm_source=widget)
+
 GregTech6汉化项目，欢迎加入。
 
 当前适配版本为v6.07.00
