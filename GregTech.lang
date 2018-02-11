@@ -844,7 +844,7 @@ languagefile {
     S:gt.behaviour.tripwirecutting=左键拆除绊线
     S:gt.behaviour.unstackable=堆叠时不可用！
     S:gt.behaviour.washing=投入炼药锅以清洗
-    S:gt.behaviour.worldgendebug=Testing Tool for executing Code based on Coordinates
+    S:gt.behaviour.worldgendebug=用来跑集成测试用的测试物品
     S:gt.block.asphalt.0.name=黑色沥青
     S:gt.block.asphalt.1.name=红色沥青
     S:gt.block.asphalt.10.name=黄绿色沥青
