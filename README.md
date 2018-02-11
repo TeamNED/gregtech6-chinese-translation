@@ -1,4 +1,6 @@
 # gregtech6-chinese-translate
+![Translation status big](https://weblate.sayori.pw/widgets/gregtech/zh_cn/gregtech6/287x66-grey.png)
+
 ![Translation Status](https://weblate.sayori.pw/widgets/gregtech/-/svg-badge.svg)
 
 [Weblate翻译服务器](https://weblate.sayori.pw/engage/gregtech/?utm_source=widget)
