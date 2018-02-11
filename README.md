@@ -26,6 +26,18 @@ I'm so buzy these days, so i may update it after I've done all works >_<
     - Update glossary.json and/or patterns.json
     - $ python3 Replacer-TMR/RegexReplacer.py GregTech.lang Original/GregTech.lang Replacer-TMR/glossary.json Replacer-TMR/patterns.json GregTech.lang
 
+## 工作流程指南:善用Project
+在某次更新后，GitHub给了我们一个强大的工具，就是Project。它并不只是个卡片墙，而是集成了自动Issues/PR归类收集形成Todo List和Todo List完成程度统计的自动化工程管理工具。
+
+~~废话毕~~。我们来看下具体怎么用。我把Projects页面分成了三份，*任务队列，已完成，讨论中。*
+- 任务队列：已经讨论完毕，只缺动手的任务。
+- 讨论中：还在撕的问题。所有新开的Issues都会自动放到这里来。
+- 已完成：已经搞定了的项目。
+工作的流程就是，
+1. 当一个Issues讨论被敲定之后，别忙着Close，把它从讨论中拖到任务队列。
+2. 当你把事情搞定之后，再把任务队列里相应的卡片拖到已完成那里。
+3. 你会发现标题那里的进度条推进了一格。给你一朵小红花。
+
 ## license
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本汉化项目 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。
 
