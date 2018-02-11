@@ -152,7 +152,7 @@
     {
         "name": "oredict.tool.+",
         "value": "Raw (?P<mw>.+)",
-        "repl": "粗制{0}",
+        "repl": "{0}毛坯",
         "priority": 2000
     },
     {
