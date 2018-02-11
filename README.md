@@ -31,3 +31,4 @@ I'm so buzy these days, so i may update it after I've done all works >_<
 
 
 ### if you have any question, please post it in issues
+### Welcom to our [Current Status Board](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translate/wiki/%E5%85%AC%E5%91%8A%E6%9D%BF-Current-Status)
