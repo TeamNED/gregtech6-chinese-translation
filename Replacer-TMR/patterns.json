@@ -6,22 +6,16 @@
         "priority":5000
     },
     {
-        "name":"oredict.blockDust.+",
-        "value":"Block of (?P<mw>.+) Dust",
-        "repl":"{0}粉块",
-        "priority":6000
+        "name": "gt.material.+",
+        "value": "(?P<mw>.+)",
+        "repl": "{0}",
+        "priority": 1000
     },
     {
-        "name":"oredict.blockDust.+",
-        "value":"Block of (?P<mw>.+)",
-        "repl":"{0}粉块",
-        "priority":5900
-    },
-    {
-        "name":"oredict.block.+",
-        "value":"Block of (?P<mw>.+)",
-        "repl":"{0}块",
-        "priority":5000
+        "name": "gt.material.Any.+",
+        "value": "(?P<mw>.+)",
+        "repl": "任意{0}",
+        "priority": 2000
     },
     {
         "name": "fluid.molten.+",
@@ -90,6 +84,12 @@
         "priority": 1000
     },
     {
+        "name": "oredict.casingMachine.+",
+        "value": "(?P<mw>.+) Machine Casing",
+        "repl": "{0}机械外壳",
+        "priority": 1000
+    },
+    {
         "name": "oredict.cell.+",
         "value": "(?P<mw>.+) Cell",
         "repl": "{0}单元",
@@ -152,7 +152,7 @@
     {
         "name": "oredict.tool.+",
         "value": "Raw (?P<mw>.+)",
-        "repl": "粗糙的{0}",
+        "repl": "{0}毛坯",
         "priority": 2000
     },
     {
@@ -225,12 +225,18 @@
         "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) Construction Pickaxe Head",
         "repl": "{0}建筑镐头",
-        "priority": 1000
+        "priority": 1100
     },
     {
         "name": "oredict.toolHead.+",
         "value": "(?P<mw>.+) Sword Blade",
         "repl": "{0}剑身",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(?P<mw>.+) Buzzsaw Blade",
+        "repl": "{0}圆锯片",
         "priority": 1000
     },
     {
@@ -241,8 +247,14 @@
     },
     {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) File Tip",
+        "value": "(?P<mw>.+) File Head",
         "repl": "{0}锉刀头",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(?P<mw>.+) Chainsaw Tip",
+        "repl": "{0}电锯头",
         "priority": 1000
     },
     {
@@ -264,26 +276,38 @@
         "priority": 1000
     },
     {
-        "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) Universal Spade Head",
-        "repl": "{0}万用铲头",
+        "name": "oredict.spring.+",
+        "value": "(?P<mw>.+) Spring",
+        "repl": "{0}弹簧",
         "priority": 1000
     },
     {
+        "name": "oredict.springSmall.+",
+        "value": "Small (?P<mw>.+) Spring",
+        "repl": "小型{0}弹簧",
+        "priority": 2000
+    },
+    {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) Universal Saw Blade",
+        "value": "(?P<mw>.+) Universal Spade Head",
+        "repl": "{0}万用铲头",
+        "priority": 1100
+    },
+    {
+        "name": "oredict.toolHead.+",
+        "value": "(?P<mw>.+) Saw Blade",
         "repl": "{0}锯片",
         "priority": 1000
     },
     {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) Universal Screwdriver Tip",
+        "value": "(?P<mw>.+) Screwdriver Tip",
         "repl": "{0}螺丝刀头",
         "priority": 1000
     },
     {
         "name": "oredict.toolHead.+",
-        "value": "(?P<mw>.+) Universal Wrench Tip",
+        "value": "(?P<mw>.+) Wrench Tip",
         "repl": "{0}扳手头",
         "priority": 1000
     },
@@ -306,6 +330,24 @@
         "priority": 1000
     },
     {
+        "name": "oredict.minecartWheels.+",
+        "value": "(?P<mw>.+) Cart Wheels",
+        "repl": "{0}车轮",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.chain.+",
+        "value": "Chains of (?P<mw>.+)",
+        "repl": "{0}锁链",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.link.+",
+        "value": "Link of (?P<mw>.+)",
+        "repl": "{0}链环",
+        "priority": 1000
+    },
+    {
         "name": "oredict.scrapGt.+",
         "value": "(?P<mw>.+) Scrap",
         "repl": "{0}废料",
@@ -313,15 +355,21 @@
     },
     {
         "name": "oredict.rockGt.+",
-        "value": "(?P<mw>.+) ?(bearing)? Rock",
+        "value": "(?P<mw>.+) bearing Rock",
         "repl": "含{0}岩石",
         "priority": 1000
     },
     {
-        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock).+",
-        "value": "(?P<mw>.+) Ore",
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand|Gravel|Marble).+",
+        "value": "(?P<mw>.+) (Ore|Infused Stone)",
         "repl": "{0}",
         "priority": 2000
+    },
+    {
+        "name": "oredict.ore.+",
+        "value": "(?P<mw>.+) (Ore|Infused Stone)",
+        "repl": "{0}矿石",
+        "priority": 500
     },
     {
         "name": "oredict.oreAndesit.+",
@@ -342,6 +390,12 @@
         "priority": 1000
     },
     {
+        "name": "oredict.oreMarble.+",
+        "value": "Marble (?P<mw>.+)",
+        "repl": "大理石{0}矿石",
+        "priority": 1000
+    },
+    {
         "name": "oredict.oreNetherrack.+",
         "value": "Nether (?P<mw>.+)",
         "repl": "下界{0}矿石",
@@ -351,6 +405,12 @@
         "name": "oredict.oreEndstone.+",
         "value": "End (?P<mw>.+)",
         "repl": "末地{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreVanillagranite.+",
+        "value": "Granite (?P<mw>.+)",
+        "repl": "花岗岩{0}矿石",
         "priority": 1000
     },
     {
@@ -367,7 +427,7 @@
     },
     {
         "name": "oredict.oreSandstone.+",
-        "value": "Granite (?P<mw>.+)",
+        "value": "Sandstone (?P<mw>.+)",
         "repl": "沙石{0}矿石",
         "priority": 1000
     },
@@ -408,22 +468,46 @@
         "priority": 1000
     },
     {
-        "name": "oredict.block.+",
-        "value": "Block of (?P<mw>.+)",
-        "repl": "{0}块",
-        "priority": 2000
-    },
-    {
         "name": "oredict.oreMars.+",
         "value": "Mars (?P<mw>.+)",
         "repl": "火星{0}矿石",
         "priority": 1000
     },
     {
+        "name": "oredict.oreRedSand.+",
+        "value": "Sand (?P<mw>.+)",
+        "repl": "{0}红矿沙",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreGravel.+",
+        "value": "Gravel (?P<mw>.+)",
+        "repl": "{0}沙砾",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreSand.+",
+        "value": "Sand (?P<mw>.+)",
+        "repl": "{0}矿沙",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.block.+",
+        "value": "Block of (?P<mw>.+)",
+        "repl": "{0}块",
+        "priority": 2000
+    },
+    {
         "name": "oredict.blockDust.+",
-        "value": "Block of (?P<mw>.+) ?(Dust|Powder)?$",
+        "value": "Block of (?P<mw>.+) (Dust|Powder)$",
         "repl": "{0}粉块",
         "priority": 3000
+    },
+    {
+        "name": "oredict.blockDust.+",
+        "value": "Block of (?P<mw>.+)$",
+        "repl": "{0}粉块",
+        "priority": 2900
     },
     {
         "name": "oredict.blockIngot.+",
@@ -451,50 +535,32 @@
     },
     {
         "name": "oredict.dustSmall.+",
-        "value": "Small Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "小堆{0}粉",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.dustSmall.+",
         "value": "Small Pile of (?P<mw>.+)$",
         "repl": "小堆{0}",
-        "priority": 900
-    },
-    {
-        "name": "oredict.dustTiny.+",
-        "value": "Tiny Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "小撮{0}粉",
-        "priority": 1000
+        "priority": 2000
     },
     {
         "name": "oredict.dustTiny.+",
         "value": "Tiny Pile of (?P<mw>.+)$",
         "repl": "小撮{0}",
-        "priority": 900
-    },
-    {
-        "name": "oredict.dustDiv72.+",
-        "value": "1/72nd of a Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "1/72份{0}粉",
-        "priority": 1000
+        "priority": 2000
     },
     {
         "name": "oredict.dustDiv72.+",
         "value": "1/72nd of a Pile of (?P<mw>.+)$",
         "repl": "1/72份{0}",
-        "priority": 900
+        "priority": 2000
     },
     {
         "name": "oredict.dustPure.+",
-        "value": "Purified Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "纯净{0}粉",
+        "value": "Purified Pile of (?P<mw>.+)$",
+        "repl": "纯净{0}",
         "priority": 1000
     },
     {
         "name": "oredict.dustImpure.+",
-        "value": "Impure Pile of (?P<mw>.+) (Dust|Powder)$",
-        "repl": "含杂{0}粉",
+        "value": "Impure Pile of (?P<mw>.+)$",
+        "repl": "含杂{0}",
         "priority": 1000
     },
     {
@@ -516,10 +582,16 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ingot.+",
+        "name": "oredict.(block|ingot|crateGt).+",
         "value": "(?P<mw>.+) Ingot",
         "repl": "{0}锭",
         "priority": 500
+    },
+    {
+        "name": "oredict.*[Gg]em.*",
+        "value": "Crystalline (?P<mw>.+)",
+        "repl": "结晶{0}",
+        "priority": 400
     },
     {
         "name": "oredict.ingotHot.+",
@@ -552,56 +624,62 @@
         "priority": 1000
     },
     {
-        "name": "oredict.plate.+",
-        "value": "(?P<mw>.+) Plate",
-        "repl": "{0}板",
-        "priority": 500
+        "name": "oredict.+[dD]ense.+",
+        "value": "Dense (?P<mw>.+)",
+        "repl": "致密{0}",
+        "priority": 2000
+    },
+    {
+        "name": "oredict.+[qQ]uadruple.+",
+        "value": "Reinforced (?P<mw>.+)",
+        "repl": "高强度{0}",
+        "priority": 2000
+    },
+    {
+        "name": "oredict.+[dD]ouble.+",
+        "value": "Robust (?P<mw>.+)",
+        "repl": "加强{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plate(Gem)?Tiny.+",
-        "value": "Tiny (?P<mw>.+) Plate",
-        "repl": "小块{0}板",
-        "priority": 1000
-    },
-    {
-        "name": "oredict.plateDense.+",
-        "value": "Dense (?P<mw>.+) Plate",
-        "repl": "致密{0}板",
-        "priority": 1000
+        "value": "Tiny (?P<mw>.+)",
+        "repl": "小块{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateCurved.+",
-        "value": "Curved (?P<mw>.+) Plate",
-        "repl": "弯曲{0}板",
-        "priority": 1000
+        "value": "Curved (?P<mw>.+)",
+        "repl": "弯曲{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateDouble.+",
-        "value": "Double (?P<mw>.+) Plate",
-        "repl": "两重{0}板",
-        "priority": 1000
+        "value": "Double (?P<mw>.+)",
+        "repl": "两重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateTriple.+",
-        "value": "Triple (?P<mw>.+) Plate",
-        "repl": "三重{0}板",
-        "priority": 1000
+        "value": "Triple (?P<mw>.+)",
+        "repl": "三重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateQuadruple.+",
-        "value": "Quadruple (?P<mw>.+) Plate",
-        "repl": "四重{0}板",
-        "priority": 1000
+        "value": "Quadruple (?P<mw>.+)",
+        "repl": "四重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.plateQuintuple.+",
-        "value": "Quintuple (?P<mw>.+) Plate",
-        "repl": "五重{0}板",
-        "priority": 1000
+        "value": "Quintuple (?P<mw>.+)",
+        "repl": "五重{0}",
+        "priority": 2000
     },
     {
         "name": "oredict.crushed.+",
-        "value": "Crushed (.+) Ore",
+        "value": "Crushed (?P<mw>.+) Ore",
         "repl": "粉碎{0}矿石",
         "priority": 1000
     },
@@ -795,6 +873,12 @@
         "name": "oredict.gemLegendary.+",
         "value": "Legendary (?P<mw>.+)\\s*(Crystal)?",
         "repl": "传奇{0}",
+        "priority": 1000
+    },
+    {
+        "name": "qwertech.machines.+",
+        "value": "(?P<mw>.+) Crafting Table",
+        "repl": "{0}合成站",
         "priority": 1000
     }
 ]

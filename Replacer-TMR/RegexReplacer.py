@@ -1,5 +1,5 @@
 # GT6-Translation RegexReplacer.py
-# by Tanimodori CC-BY-NC-SA 4.0
+# by Tanimodori GPL v3.0
 
 import sys
 import datetime
