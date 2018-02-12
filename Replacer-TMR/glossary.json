@@ -1105,6 +1105,7 @@
         ".*": "锌黄锡矿",
         "oredict.(crushed|ore).+": "锌黄锡"
     },
+    "Kimberlite":"金伯利岩",
     "Knightmetal": "骑士金属",
     "Komatiite": "科马提岩",
     "Kreknorite": "炽焰陨石",
@@ -1251,6 +1252,7 @@
     "Oganesson": "118号元素(Og)",
     "Oil": "油",
     "Oilsands": "油砂",
+    "Oil Shale":"含油页岩",
     "Olive Oil": "橄榄油",
     "Olivine": "橄榄石",
     "Opal": "猫眼石",
