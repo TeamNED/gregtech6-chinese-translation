@@ -3,6 +3,8 @@
 
 ![Translation Status](https://weblate.sayori.pw/widgets/gregtech/-/svg-badge.svg)
 
+[最新版(Nightly Build)汉化文件下载地址](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translate/blob/master/GregTech.lang)
+
 [Weblate翻译服务器](https://weblate.sayori.pw/engage/gregtech/?utm_source=widget)
 
 GregTech6汉化项目，欢迎加入。
