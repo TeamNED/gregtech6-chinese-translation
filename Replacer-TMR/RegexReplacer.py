@@ -218,13 +218,13 @@ class LangItemCollection:
         """Save this langFile to a given path"""
         with open(path, 'w', encoding='utf-8') as f:
             # Writes heading
-            f.write(
-                '# Configuration file\n\nenablelangfile {\n    B:UseThisFileAsLanguageFile=true\n}\n\n\nlanguagefile {\n')
+            #f.write(
+            #    '# Configuration file\n\nenablelangfile {\n    B:UseThisFileAsLanguageFile=true\n}\n\n\nlanguagefile {\n')
             # Sort in the order of keys
             for _item in sorted(self.items.values(), key=lambda x: x.key):
-                f.write('    S:{0}={1}\n'.format(_item.key, _item.zh_new))
+                f.write('S:{0}={1}\n'.format(_item.key, _item.zh_new))
             # Writes ending
-            f.write('}\n\n\n')
+            #f.write('}\n\n\n')
 
 # TODO
 # class PatternItem:
