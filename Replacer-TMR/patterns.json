@@ -373,121 +373,121 @@
     },
     {
         "name": "oredict.oreAndesit.+",
-        "value": "Andesite (?P<mw>.+)",
+        "value": "(Andesite )?(?P<mw>.+)",
         "repl": "安山岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreDiorite.+",
-        "value": "Diorite (?P<mw>.+)",
+        "value": "(Diorite )?(?P<mw>.+)",
         "repl": "闪长岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreLimestone.+",
-        "value": "Limestone (?P<mw>.+)",
+        "value": "(Limestone )?(?P<mw>.+)",
         "repl": "石灰岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreMarble.+",
-        "value": "Marble (?P<mw>.+)",
+        "value": "(Marble )?(?P<mw>.+)",
         "repl": "大理石{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreNetherrack.+",
-        "value": "Nether (?P<mw>.+)",
+        "value": "(Nether )?(?P<mw>.+)",
         "repl": "下界{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreEndstone.+",
-        "value": "End (?P<mw>.+)",
+        "value": "(End )?(?P<mw>.+)",
         "repl": "末地{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreVanillagranite.+",
-        "value": "Granite (?P<mw>.+)",
+        "value": "(Granite )?(?P<mw>.+)",
         "repl": "花岗岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreRedgranite.+",
-        "value": "Granite (?P<mw>.+)",
+        "value": "(Granite )?(?P<mw>.+)",
         "repl": "红色花岗岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreBlackgranite.+",
-        "value": "Granite (?P<mw>.+)",
+        "value": "(Granite )?(?P<mw>.+)",
         "repl": "黑色花岗岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreSandstone.+",
-        "value": "Sandstone (?P<mw>.+)",
+        "value": "(Sandstone )?(?P<mw>.+)",
         "repl": "沙石{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreSmall.+",
-        "value": "Small (?P<mw>.+)",
+        "value": "(Small )?(?P<mw>.+)",
         "repl": "贫瘠{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreBasalt.+",
-        "value": "Basalt (?P<mw>.+)",
+        "value": "(Basalt )?(?P<mw>.+)",
         "repl": "玄武岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreMud.+",
-        "value": "Mud (?P<mw>.+)",
+        "value": "(Mud )?(?P<mw>.+)",
         "repl": "淤泥{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreSpace.+",
-        "value": "Space (?P<mw>.+)",
+        "value": "(Space )?(?P<mw>.+)",
         "repl": "太空{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreBedrock.+",
-        "value": "Bedrock (?P<mw>.+)",
+        "value": "(Bedrock )?(?P<mw>.+)",
         "repl": "基岩{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreMoon.+",
-        "value": "Moon (?P<mw>.+)",
+        "value": "(Moon )?(?P<mw>.+)",
         "repl": "月球{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreMars.+",
-        "value": "Mars (?P<mw>.+)",
+        "value": "(Mars )?(?P<mw>.+)",
         "repl": "火星{0}矿石",
         "priority": 1000
     },
     {
         "name": "oredict.oreRedSand.+",
-        "value": "Sand (?P<mw>.+)",
+        "value": "(Sand )?(?P<mw>.+)",
         "repl": "{0}红矿沙",
         "priority": 1000
     },
     {
         "name": "oredict.oreGravel.+",
-        "value": "Gravel (?P<mw>.+)",
+        "value": "(Gravel )?(?P<mw>.+)",
         "repl": "{0}沙砾",
         "priority": 1000
     },
     {
-        "name": "oredict.oreSand.+",
-        "value": "Sand (?P<mw>.+)",
+        "name": "oredict.oreSand[A-Z].+",
+        "value": "(Sand )?(?P<mw>.+)",
         "repl": "{0}矿沙",
         "priority": 1000
     },
