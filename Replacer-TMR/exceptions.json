@@ -6,5 +6,8 @@
     "gt.material.AnyIronOrSteel":"任意钢或铁",
     "gt.material.AnyStone":"任意种类的石头",
     "gt.material.AnyWood":"任意木头",
-    "oredict.oreBasalticMineralSand.name":"玄武岩砂"
+    "oredict.oreBasalticMineralSand.name":"玄武岩砂",
+    "oredict.oreQuartziteQuartzBlack.name":"黑色石英岩矿石",
+    "oredict.oreQuartziteQuartzSand.name":"石英沙矿石",
+    "oredict.oreQuartziteQuartzite.name":"石英岩矿石"
 }

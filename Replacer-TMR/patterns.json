@@ -360,7 +360,7 @@
         "priority": 1000
     },
     {
-        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand|Gravel|Marble|Schist|Kimberlite|Komatiite|Quartzite).+",
+        "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand|Gravel|Marble|Blueschist|Kimberlite|Komatiite|Quartzite).+",
         "value": "(?P<mw>.+) (Ore|Infused Stone)",
         "repl": "{0}",
         "priority": 2000
@@ -471,6 +471,30 @@
         "name": "oredict.oreMars.+",
         "value": "(Mars )?(?P<mw>.+)",
         "repl": "火星{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreBlueschist.+",
+        "value": "(Schist )?(?P<mw>.+)",
+        "repl": "蓝片岩{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreKimberlite.+",
+        "value": "(Kimberlite )?(?P<mw>.+)",
+        "repl": "金伯利岩{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreKomatiite.+",
+        "value": "(Komatiite )?(?P<mw>.+)",
+        "repl": "科马提岩{0}矿石",
+        "priority": 1000
+    },
+    {
+        "name": "oredict.oreQuartzite.+",
+        "value": "(Quartzite )?(?P<mw>.+)",
+        "repl": "石英岩{0}矿石",
         "priority": 1000
     },
     {

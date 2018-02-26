@@ -96,7 +96,7 @@ class LangItemCollection:
                 line = line.strip()
                 if line.startswith('S:'):
                     line_list = line.split("=", 1)
-                    k = line_list[0]
+                    k = line_list[0][2:]
                     v = line_list[1]
                     if k not in self.items:
                         if (not isoriginal) and delete_obsolete_item:
