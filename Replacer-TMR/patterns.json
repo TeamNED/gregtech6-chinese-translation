@@ -904,5 +904,17 @@
         "value": "(?P<mw>.+) Crafting Table",
         "repl": "{0}合成站",
         "priority": 1000
+    },
+    {
+        "name": "qwertech.machines.+",
+        "value": "(?P<mw>.+) Crafting Anvil",
+        "repl": "{0}合成砧",
+        "priority": 1000
+    },
+    {
+        "name": "qwertech.machines.+",
+        "value": "(?P<mw>.+) Upgrade Desk",
+        "repl": "{0}升级台",
+        "priority": 1000
     }
 ]
