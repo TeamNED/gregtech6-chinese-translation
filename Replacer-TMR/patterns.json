@@ -361,7 +361,7 @@
     },
     {
         "name": "oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand|Gravel|Marble|Blueschist|Kimberlite|Komatiite|Quartzite).+",
-        "value": "(?P<mw>.+) (Ore|Infused Stone)",
+        "value": "(?P<mw>.+) (Ore|Stone)",
         "repl": "{0}",
         "priority": 2000
     },
