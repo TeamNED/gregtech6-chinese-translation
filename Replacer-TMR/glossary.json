@@ -1359,7 +1359,7 @@
     "Purple": "紫色",
     "Purple Alloy": "紫色合金",
     "Purple Dye": "紫色染料",
-    "Purple Sapphire": "紫蓝宝石",
+    "Purple Sapphire": "紫色蓝宝石",
     "Pyrite": {
         ".*": "黄铁矿",
         "oredict.(crushed|ore).+": "黄铁"
