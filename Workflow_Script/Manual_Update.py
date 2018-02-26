@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-print("transform.py loading")
+print("Manual_Update.py loading")
 
 zh_input = open("GregTech.lang", "r", encoding="utf-8")
 en_input = open("Original/GregTech.lang", "r", encoding="utf-8")
@@ -18,15 +18,13 @@ def make_dict(lang_file, lang_dict):
             lang_dict[line_list[0]] = line_list[1]
 
 
-make_dict(zh_input, zh_dict)
 make_dict(en_input, en_dict)
+make_dict(en_input, zh_dict)
+make_dict(zh_input, zh_dict)
 
 for k, v in en_dict.items():
     en_output.writelines(k.strip(" ") + "=" + v)
-    try:
-        if zh_dict[k] != v:
-            zh_output.writelines(k.strip(" ") + "=" + zh_dict[k])
-    except:
-        pass
+for k, v in zh_dict.items():
+    zh_output.writelines(k.strip(" ") + "=" + v)
 
-print("transform.py loaded")
+print("Manual_Update.py loaded")
