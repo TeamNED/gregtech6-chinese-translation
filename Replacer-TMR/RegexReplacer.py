@@ -92,12 +92,12 @@ class LangItemCollection:
 
     def loadFile(self, path, isoriginal):
         with open(path, 'r', encoding='utf-8') as f:
-            for l in f:
-                l = l.strip()
-                if l.startswith('S:'):
-                    i = l.index('=')
-                    k = l[2:i]
-                    v = l[i + 1:]
+            for line in f:
+                line = line.strip()
+                if line.startswith('S:'):
+                    line_list = line.split("=", 1)
+                    k = line_list[0]
+                    v = line_list[1]
                     if k not in self.items:
                         if (not isoriginal) and delete_obsolete_item:
                             continue
