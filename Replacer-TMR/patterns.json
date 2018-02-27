@@ -916,5 +916,11 @@
         "value": "(?P<mw>.+) Upgrade Desk",
         "repl": "{0}升级台",
         "priority": 1000
+    },
+    {
+        "name": "qwertech.armor.upgrades.+",
+        "value": "Dual (?P<mw>.+) Springs",
+        "repl": "小型{0}弹簧组",
+        "priority": 1000
     }
 ]

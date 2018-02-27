@@ -1297,15 +1297,14 @@
     "Overseer": "监工",
     "Oxygen": "氧气",
     "Padauk": {
-        ".*": "Padauk",
-        "qwertech.machines.55.name": "紫檀木",
+        ".*": "紫檀木",
         "qwertech.machines.57.name": "木瓜树木"
     },
     "Palis": "再构青金石水晶",
     "Palis Crystal": "再构青金石水晶",
     "Palladium": "钯",
     "Palm": "棕榈树木",
-    "Papaya": "木瓜树",
+    "Papaya": "木瓜树木",
     "Paper": "纸",
     "Paraffin Wax": {
         ".*": "石蜡",
