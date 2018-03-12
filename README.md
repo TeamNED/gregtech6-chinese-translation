@@ -1,19 +1,17 @@
-# gregtech6-chinese-translate
+# gregtech6-chinese-translation
 ![Translation status big](https://weblate.sayori.pw/widgets/gregtech/zh_cn/gregtech6/287x66-grey.png)
 
 ![Translation Status](https://weblate.sayori.pw/widgets/gregtech/-/svg-badge.svg)
 
-[最新版(Nightly Build)汉化文件下载地址](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translate/blob/master/GregTech.lang)
+[最新版(Nightly Build)汉化文件下载地址](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/blob/master/GregTech.lang)
 
 [Weblate翻译服务器](https://weblate.sayori.pw/engage/gregtech/?utm_source=widget)
 
 GregTech6汉化项目，欢迎加入。
 
-当前适配版本为v6.07.04
+当前适配版本为v6.07.04，内置兼容QwerTech-1.0.0-a.21
 
-内置兼容QwerTech-1.0.0-a.21
-
-原始文件源自Amamiya组,感谢Tanimodori的更新与对一堆奇葩问题的修复
+原始文件源自Amamiya组
 
 ## Notes from Gordon
 I'm so buzy these days, so i may update it after I've done all works >_<
