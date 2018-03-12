@@ -764,7 +764,7 @@
     {
         "name": "gt.block.planks.+",
         "value": "(?P<mw>.+) Slab",
-        "repl": "{0}半砖",
+        "repl": "{0}木半砖",
         "priority": 1000
     },
     {
