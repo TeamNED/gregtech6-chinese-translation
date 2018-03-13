@@ -314,7 +314,7 @@
     {
         "name": "oredict.wireFine.+",
         "value": "Fine (?P<mw>.+) Wire",
-        "repl": "优良{0}线缆",
+        "repl": "细{0}线缆",
         "priority": 1000
     },
     {
