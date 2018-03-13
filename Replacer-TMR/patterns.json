@@ -348,6 +348,12 @@
         "priority": 1000
     },
     {
+        "name": "oredict.railGt.+",
+        "value": "(?P<mw>.+) Rail",
+        "repl": "{0}导轨",
+        "priority": 1000
+    },
+    {
         "name": "oredict.scrapGt.+",
         "value": "(?P<mw>.+) Scrap",
         "repl": "{0}废料",
