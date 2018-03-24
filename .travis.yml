@@ -15,7 +15,7 @@ deploy:
     api_key:
         secure: ${GITHUB_TOKEN}
     file:
-        - "Gregtech.lang"
+        - "/Gregtech.lang"
     skip_cleanup: true
     on:
         repo: MoHaDouBiTeam/gregtech6-chinese-translation
