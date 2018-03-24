@@ -1,8 +1,22 @@
 # WIP.
-# Currently does nothing
+# Currently does nothing, just add Gregtech.lang as Nightly build when pushed.
 
 language: python
 python:
-  - "3.6"
+    - "3.6"
 script:
-  - echo "Hello, CI"
+    - echo "Hello, CI"
+before_deploy:
+    - git config --local user.name "JackyWangMislantiaJnirvana"
+    - git config --local user.mail "wmjwld@live.cn"
+    - git tag "格雷科技6汉化-Nightly-Build-$(date +'%Y%m%d%H%M%S')"
+deploy:
+    provider: releases
+    api_key:
+        secure: ${GITHUB_TOKEN}
+    file:
+        - "Gregtech.lang"
+    skip_cleanup: true
+    on:
+        repo: MoHaDouBiTeam/gregtech6-chinese-translation
+        branch: master
