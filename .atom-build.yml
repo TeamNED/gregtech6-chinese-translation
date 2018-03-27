@@ -1,1 +1,0 @@
-cmd: python Replacer-TMR/RegexReplacer.py Weblate/zh_cn.lang Original/GregTech.lang Replacer-TMR/glossary.json Replacer-TMR/patterns.json Weblate/zh_cn.lang Replacer-TMR/exceptions.json
