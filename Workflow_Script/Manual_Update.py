@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-print("Manual_Update.py loading")
+print("manual_update.py loading")
 
 zh_input = open("GregTech.lang", "r", encoding="utf-8")
 en_input = open("Original/GregTech.lang", "r", encoding="utf-8")
