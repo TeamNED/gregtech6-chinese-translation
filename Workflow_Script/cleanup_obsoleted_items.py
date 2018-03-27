@@ -5,7 +5,7 @@ print("cleanup_obsoleted_items.py loading")
 
 ORIGINAL_LOCATION = "Original/Gregtech.lang"
 TRANSLATED_LOCATION = "Gregtech.lang"
-OBSOLETED_ZH_CN_LOCATION = "Archive/zh_cn.lang"
+OBSOLETED_ZH_CN_LOCATION = "Archive/zh_cn_obsoleted.lang"
 
 en_file = open(ORIGINAL_LOCATION, "r", encoding="utf-8")
 zh_file = open(TRANSLATED_LOCATION, "r+", encoding="utf-8")
@@ -39,11 +39,15 @@ else:
 
 zh_file.seek(0)  # restore location ready to write
 
+
 for k, v in sorted(zh_dict.items(), key=lambda x: x[0]):
     if k not in en_dict.keys():
         zh_output_dict[k] = v  # k is an obsoleted item, updating
-        zh_output_file.writelines(k.strip(" ") + "=" + zh_dict[k])
+        zh_output_file.writelines(k.strip(" ") + "=" + zh_output_dict[k])
 
+# Writes heading
+zh_file.write(
+    "# Configuration file\n\nenablelangfile {\n    B:UseThisFileAsLanguageFile=true\n}\n\n\nlanguagefile {\n")
 
 for k, v in sorted(en_dict.items(), key=lambda x: x[0]):
     if(k not in zh_dict.keys()):
@@ -51,6 +55,10 @@ for k, v in sorted(en_dict.items(), key=lambda x: x[0]):
     else:
         # translated item, porting
         zh_file.writelines(k.strip(" ") + "=" + zh_dict[k])
+
+
+# Writes ending
+zh_file.write("}\n")
 
 zh_file.truncate()
 zh_output_file.truncate()
