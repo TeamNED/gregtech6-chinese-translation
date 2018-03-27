@@ -54,10 +54,10 @@ zh_file.write(
 for k, v in sorted(en_dict.items(), key=lambda x: x[0]):
     if(k not in zh_dict.keys()):
         # new item, using original
-        zh_file.writelines("\t"+k.strip(" ") + "=" + v+"\n")
+        zh_file.writelines("    "+k.strip(" ") + "=" + v+"\n")
     else:
         # translated item, porting
-        zh_file.writelines("\t"+k.strip(" ") + "=" + zh_dict[k]+"\n")
+        zh_file.writelines("    "+k.strip(" ") + "=" + zh_dict[k]+"\n")
 
 
 # Writes ending
