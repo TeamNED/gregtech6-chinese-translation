@@ -20,7 +20,7 @@ def make_dict(lang_file, lang_dict):
     for line in lang_file.readlines():
         if line != None and line[0] != "#" and line[0] != "{" and "=" in line and "S:"in line:
             line_list = line.split("=", 1)        # 依据等号切分语言文件条目
-            lang_dict[line_list[0]] = line_list[1]
+            lang_dict[line_list[0].strip()] = line_list[1].strip()
 
 
 make_dict(en_file, en_dict)
@@ -43,7 +43,9 @@ zh_file.seek(0)  # restore location ready to write
 for k, v in sorted(zh_dict.items(), key=lambda x: x[0]):
     if k not in en_dict.keys():
         zh_output_dict[k] = v  # k is an obsoleted item, updating
-        zh_output_file.writelines(k.strip(" ") + "=" + zh_output_dict[k])
+
+for k, v in sorted(zh_output_dict.items(), key=lambda x: x[0]):
+    zh_output_file.writelines(k.strip(" ") + "=" + zh_output_dict[k]+"\n")
 
 # Writes heading
 zh_file.write(
@@ -51,10 +53,11 @@ zh_file.write(
 
 for k, v in sorted(en_dict.items(), key=lambda x: x[0]):
     if(k not in zh_dict.keys()):
-        zh_file.writelines(k.strip(" ") + "=" + v)  # new item, using original
+        # new item, using original
+        zh_file.writelines("\t"+k.strip(" ") + "=" + v+"\n")
     else:
         # translated item, porting
-        zh_file.writelines(k.strip(" ") + "=" + zh_dict[k])
+        zh_file.writelines("\t"+k.strip(" ") + "=" + zh_dict[k]+"\n")
 
 
 # Writes ending

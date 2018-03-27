@@ -1315,10 +1315,7 @@
     "Oureclase": "大地结晶",
     "Overseer": "监工",
     "Oxygen": "氧气",
-    "Padauk": {
-        ".*": "紫檀木",
-        "qwertech.machines.57.name": "木瓜木"
-    },
+    "Padauk": "紫檀木",
     "Palis": "再构青金石水晶",
     "Palis Crystal": "再构青金石水晶",
     "Palladium": "钯",
