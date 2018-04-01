@@ -1,0 +1,20 @@
+# Configuration file
+
+enablelangfile {
+    B:UseThisFileAsLanguageFile=None
+}
+
+
+languagefile {
+    S:oredict.ingotIron=铁锭
+    S:oredict.ingotSteel=钢锭
+    S:oredict.plateIron=铁板
+    S:oredict.plateSteel=钢板
+    S:oredict.blockSteel=钢板块
+    S:oredict.crateGtIngotSteel=钢锭板条箱
+    S:oredict.crateGtPlateSteel=钢板板条箱
+    S:oredict.crateGtBlockIngotSteel=钢锭块板条箱
+    S:oredict.crateGtBlockPlateSteel=钢板块板条箱
+}
+
+

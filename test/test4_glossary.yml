@@ -1,0 +1,10 @@
+itemGroup:
+  Plate: 板
+  Ingot: 锭
+material:
+  Dark: 黑暗
+  Void:
+    - value: 虚空
+      regex: S:gt.multiitem.+
+    - value: 再构煤晶
+      regex: .+

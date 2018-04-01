@@ -1,0 +1,13 @@
+{
+    "oredict.ingotSteeleaf.name":"钢叶锭",
+    "oredict.blockDustBone.name":"骨粉块",
+    "oredict.gemEmpty.name":"空宝石",
+    "gt.material.AnyCoalCarbon":"任意煤炭或碳",
+    "gt.material.AnyIronOrSteel":"任意钢或铁",
+    "gt.material.AnyStone":"任意种类的石头",
+    "gt.material.AnyWood":"任意木头",
+    "oredict.oreBasalticMineralSand.name":"玄武岩砂",
+    "oredict.oreQuartziteQuartzBlack.name":"黑色石英岩矿石",
+    "oredict.oreQuartziteQuartzSand.name":"石英沙矿石",
+    "oredict.oreQuartziteQuartzite.name":"石英岩矿石"
+}
