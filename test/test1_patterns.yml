@@ -1,0 +1,5 @@
+- key: "S:oredict.+"
+  value: "(?P<material>.+) (?P<itemGroup>.+)"
+  token: "item"
+  repl: "{material}{itemGroup}"
+  priority: 1000

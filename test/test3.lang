@@ -1,0 +1,15 @@
+# Configuration file
+
+enablelangfile {
+    B:UseThisFileAsLanguageFile=false
+}
+
+
+languagefile {
+    S:gt.tooltip.blah=blah tooltip
+    S:gt.multiitem.blaah.name=blaah
+    S:gt.multiitem.blaah.tooltip=blaah tooltip
+    S:enchantment.blaaah=enchantment blaaah
+}
+
+

@@ -1,0 +1,10 @@
+- key: "S:oredict.+"
+  value: "(?P<material>.+) (?P<itemGroup>.+)"
+  token: "item"
+  repl: "{material}{itemGroup}"
+  priority: 1000
+- key: "S:gt.multiitem.+"
+  value: "(?P<material>.+) Bumblebee"
+  token: "bumblebee"
+  repl: "{material}大黄蜂"
+  priority: 1000

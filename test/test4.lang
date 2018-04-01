@@ -1,0 +1,14 @@
+# Configuration file
+
+enablelangfile {
+    B:UseThisFileAsLanguageFile=false
+}
+
+
+languagefile {
+    S:gt.multiitem.bumblebee.dark.name=Dark Bumblebee
+    S:gt.multiitem.bumblebee.void.name=Void Bumblebee
+    S:oredict.ingotVoid=Void Ingot
+}
+
+

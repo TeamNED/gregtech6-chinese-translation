@@ -1,0 +1,15 @@
+- key: "S:oredict.+"
+  value: "(?P<material>.+) (?P<itemGroup>.+)"
+  token: "item"
+  repl: "{material}{itemGroup}"
+  priority: 1000
+- key: "S:oredict.+"
+  value: "(?P<item>.+) Block"
+  token: "item"
+  repl: "{item}块"
+  priority: 1500
+- key: "S:oredict.+"
+  value: "Crate of (?P<item>.+)"
+  token: "crate"
+  repl: "{item}板条箱"
+  priority: 2000

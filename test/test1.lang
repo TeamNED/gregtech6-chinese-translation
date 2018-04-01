@@ -1,0 +1,15 @@
+# Configuration file
+
+enablelangfile {
+    B:UseThisFileAsLanguageFile=false
+}
+
+
+languagefile {
+    S:oredict.ingotIron=Iron Ingot
+    S:oredict.ingotSteel=Steel Ingot
+    S:oredict.plateIron=Iron Plate
+    S:oredict.plateSteel=Steel Plate
+}
+
+
