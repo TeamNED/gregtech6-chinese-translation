@@ -5,17 +5,19 @@ language: python
 python:
     - "3.6"
 script:
-    - echo "Hello, CI"
+    - python "source/gregtech/api/build.py"
 before_deploy:
     - git config --local user.name "JackyWangMislantiaJnirvana"
     - git config --local user.mail "wmjwld@live.cn"
     - git tag "格雷科技6汉化-Nightly-Build-$(date +'%Y%m%d%H%M%S')"
+before_script:
+    - export PYTHONPATH=$PYTHONPATH:$(source)
 deploy:
     provider: releases
     api_key:
         secure: ${GITHUB_TOKEN}
     file:
-        - "/Gregtech.lang"
+        - "GregTech.lang"
     skip_cleanup: true
     on:
         repo: MoHaDouBiTeam/gregtech6-chinese-translation
