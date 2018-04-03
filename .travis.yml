@@ -8,7 +8,7 @@ script:
 before_deploy:
     - git config --local user.name "JackyWangMislantiaJnirvana"
     - git config --local user.mail "wmjwld@live.cn"
-    - git tag "格雷科技6汉化-Stable-Build-$(TRAVIS_TAG)"
+#    - git tag "格雷科技6汉化-Stable-Build-$(TRAVIS_TAG)"
 before_script:
     - export PYTHONPATH=$PYTHONPATH:$g(source)
 install:
