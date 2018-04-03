@@ -22,7 +22,7 @@ def build_lang():
                 "# Configuration file\n\nenablelangfile {\n    B:UseThisFileAsLanguageFile=true\n}\n\n\nlanguagefile {\n")
             for k, v in sorted(output.items(), key=lambda x: x[0]):
                 output_file.write('    {0}={1}\n'.format(k, v))
-            output_file.write("\n}")
+            output_file.write("}\n")
 
     print('Building completed successfully')
 
