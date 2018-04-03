@@ -6,7 +6,7 @@ if __name__ == '__main__':
     with open('archive/Replacer-TMR/patterns.json', 'r', encoding='utf-8') as pattern_file:
         patterns = json.loads(pattern_file.read())
         for item in patterns:
-            item['key'] = item['name']
+            item['key'] = 'S:'+item['name']
             del item['name']
             item['token'] = 'item'
             item['repl'] = item['repl'].replace('{0}', '{material}')
