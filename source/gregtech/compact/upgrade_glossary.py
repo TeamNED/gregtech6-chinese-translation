@@ -10,8 +10,8 @@ if __name__ == '__main__':
                 new_value = []
                 for k2, v2 in v.items():
                     if k2 != '.*':
-                        new_value.append({'value': v2, 'regex': k2})
-                new_value.append({'value': '.*', 'regex': v['.*']})
+                        new_value.append({'value': v2, 'regex': 'S:'+k2})
+                new_value.append({'regex': '.*', 'value': v['.*']})
                 glossary[k] = new_value
         output_glossary = {'material': glossary}
         with open('config/upgraded_glossary.yml', 'w', encoding='utf-8') as output_file:

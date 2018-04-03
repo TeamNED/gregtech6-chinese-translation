@@ -44,7 +44,9 @@ if __name__ == '__main__':
                         help='Maxinum limit of tracking items')
     parser.add_argument('-w', '--workspace', nargs='+',
                         help='working namespace, replacer_workspace.yml will be ignored if enabled')
-    predicate_counter = PredicateCounter(parser.parse_args())
+    args = parser.parse_args()
+    if args.track:
+        predicate_counter = PredicateCounter(parser.parse_args())
 
     # initate logging system
     format_string_replace = "%(asctime)-8s %(levelname)-7s %(filename)s:%(lineno)-3d %(message)s"
@@ -70,24 +72,28 @@ if __name__ == '__main__':
     logger_translator.addHandler(handler_translator)
 
     # replacing
-    logger_replace.info('Start replaceing ...')
+    logger_replace.info('Start replacing ...')
     gt_translator = GregTechTranslator(
         None, None, 'config/patterns.yml', 'config/glossary.yml', 'config/exceptions.yml')
     with open('config/replacer_workspace.yml') as workspace_file:
         workspace = yaml.load(workspace_file)
         for item in workspace:
-            if predicate_counter.predicate_args.workspace is not None and item not in predicate_counter.predicate_args.workspace:
+            if args.workspace and item not in args.workspace:
                 continue
+
             logger_replace.info('Working on lang/'+item)
+
             gt_translator.path_to_original = 'lang/'+item+'/en_us.lang'
             gt_translator.path_to_translated = 'lang/'+item+'/zh_cn.lang'
             gt_translator.load_file()
-            if predicate_counter.predicate_args.track is None:
-                gt_translator.translate_all()
-            else:
+
+            if args.track:
                 logging.getLogger("replace").debug("Tracking mode enabled, now tracking: {0}".format(
                     predicate_counter.predicate_args.track))
                 gt_translator.translate_all(predicate_counter.predicate)
+            else:
+                gt_translator.translate_all()
+
             gt_translator.dump_translated_to(gt_translator.path_to_translated)
 
     logger_replace.info('Replacing completed successfully')

@@ -32,7 +32,7 @@ class Translator:
             Translated value of the item otherwise"""
         filtered_patterns = sorted(filter(lambda x: x.match_key(
             key), self.patterns), key=lambda x: x.priority, reverse=True)
-        return self._find_possible_translation(key, value, None, filtered_patterns, logging_predicate)
+        return self._find_possible_translation(key, value, 'TOP_LEVEL', filtered_patterns, logging_predicate)
 
     def _find_possible_translation(self, key, value, token, patterns, logging_predicate=None):
         """A greed algorithm to find a possibletranslation within and patterns and with higeset total priority
@@ -63,6 +63,7 @@ class Translator:
         # find glossary
         if(token in self.glossary and value in self.glossary[token]):
             if type(self.glossary[token]) is dict:
+                # if contains regexes and values
                 result = get_item_by_key(self.glossary[token], value, key)
             else:
                 result = self.glossary[token][value]

@@ -710,7 +710,7 @@
   value: (?P<material>.+) Concrete
 - key: S:gt.block.concrete.+
   priority: 1000
-  repl: '{material}加强混凝土'
+  repl: '{material}强化混凝土'
   token: item
   value: (?P<material>.+) Reinforced Concrete
 - key: S:gt.block.concrete.+
@@ -773,3 +773,8 @@
   repl: 小型{material}弹簧组
   token: item
   value: Dual (?P<material>.+) Springs
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{item_has_energy_tier} ({energy_tier})"
+  token: machine
+  value: (?P<item_has_energy_tier>.+) \((?P<energy_tier>.+)\)
