@@ -2,8 +2,9 @@
 
 import logging
 import sys
-from source.utilities import mclang
+
 from source.replacer.glossary import get_item_by_key
+from source.utilities import mclang
 
 
 class Translator:
@@ -78,6 +79,8 @@ class Translator:
             return result
 
         if not patterns:
+            logger.debug(
+                "Neither patterns nor glossary matched this item", extra={'event': 'FAILED', **logger_event_base})
             return None
 
         for index in range(0, len(patterns)):
@@ -106,7 +109,7 @@ class Translator:
                         result = current_pattern.format(token_dict)
 
                         logger.debug("Item translated as <{0}>".format(
-                            result), extra={'event': "SUCCESS"})
+                            result), extra={'event': "SUCCESS", **logger_event_base})
 
                         self.glossary.setdefault(current_pattern.token, {})[
                             value] = result
@@ -119,17 +122,18 @@ class Translator:
                             value] = result
 
                         logger.debug("Item translated as <{0}>".format(
-                            result), extra={'event': "SUCCESS"})
+                            result), extra={'event': "SUCCESS", **logger_event_base})
 
                         return result
                     else:
 
                         logger.warning("No enough token translated", extra={
-                                       'event': "FAILED"})
+                                       'event': "FAILED", **logger_event_base})
 
                         return None
 
-        logger.warning("Patterns ALL FAILED", extra={'event': "FAILED"})
+        logger.warning("Patterns ALL FAILED", extra={
+                       'event': "FAILED", **logger_event_base})
 
         return None  # All patterns failed
 

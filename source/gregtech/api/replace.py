@@ -26,7 +26,7 @@ class RegexFilter(logging.Filter):
         if record.event == 'TRANSLATING':
             self.count = self.count + 1  # only increase on new items
 
-        if(self.track or self.track_regex.match(record.key)):
+        if(self.track is None or self.track_regex.match(record.key)):
             if(self.limit is None or self.count <= self.limit):
                 return 1
         return 0
