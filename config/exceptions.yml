@@ -1,7 +1,9 @@
+# Any materials
 S:gt.material.AnyCoalCarbon: 任意煤炭或碳
 S:gt.material.AnyIronOrSteel: 任意钢或铁
 S:gt.material.AnyStone: 任意种类的石头
 S:gt.material.AnyWood: 任意木头
+
 S:oredict.blockDustBone.name: 骨粉块
 S:oredict.gemEmpty.name: 空宝石
 S:oredict.ingotSteeleaf.name: 钢叶锭
@@ -9,3 +11,30 @@ S:oredict.oreBasalticMineralSand.name: 玄武岩砂
 S:oredict.oreQuartziteQuartzBlack.name: 黑色石英岩矿石
 S:oredict.oreQuartziteQuartzSand.name: 石英沙矿石
 S:oredict.oreQuartziteQuartzite.name: 石英岩矿石
+
+# Unknown Ores
+S:oredict.oreAndesiteEmpty.name: 安山岩未知矿石
+S:oredict.oreBasaltEmpty.name: 玄武岩未知矿石
+S:oredict.oreBedrockEmpty.name: 基岩未知矿石
+S:oredict.oreBlackgraniteEmpty.name: 黑色花岗岩未知矿石
+S:oredict.oreBlueschistEmpty.name: 蓝片岩未知矿石
+S:oredict.oreGreenschistEmpty.name: 绿片岩未知矿石
+S:oredict.oreDioriteEmpty.name: 闪长岩未知矿石
+S:oredict.oreEndstoneEmpty.name: 末地未知矿石
+S:oredict.oreGravelEmpty.name: 未知沙砾
+S:oredict.oreKimberliteEmpty.name: 金伯利岩未知矿石
+S:oredict.oreKomatiiteEmpty.name: 科马提岩未知矿石
+S:oredict.oreLimestoneEmpty.name: 石灰岩未知矿石
+S:oredict.oreMarbleEmpty.name: 大理石未知矿石
+S:oredict.oreMarsEmpty.name: 火星未知矿石
+S:oredict.oreMoonEmpty.name: 月球未知矿石
+S:oredict.oreMudEmpty.name: 淤泥未知矿石
+S:oredict.oreNetherrackEmpty.name: 下界未知矿石
+S:oredict.oreQuartziteEmpty.name: 石英岩未知矿石
+S:oredict.oreRedSandEmpty.name: 未知红矿沙
+S:oredict.oreRedgraniteEmpty.name: 红色花岗岩未知矿石
+S:oredict.oreSandEmpty.name: 未知矿沙
+S:oredict.oreSandstoneEmpty.name: 沙石未知矿石
+S:oredict.oreSmallEmpty.name: 贫瘠未知矿石
+S:oredict.oreSpaceEmpty.name: 太空未知矿石
+S:oredict.oreVanillagraniteEmpty.name: 花岗岩未知矿石

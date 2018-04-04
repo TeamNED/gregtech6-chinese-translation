@@ -303,136 +303,20 @@
   repl: 含{material}岩石
   token: item
   value: (?P<material>.+) bearing Rock
-- key: S:oredict.ore(Andesit|Diorite|Limestone|Netherrack|Endstone|Vanillagranite|Redgranite|Blackgranite|Sandstone|Small|Basalt|Bedrock|Moon|Mud|Space|Mars|RedSand|Sand|Gravel|Marble|Blueschist|Kimberlite|Komatiite|Quartzite).+
-  priority: 2000
-  repl: '{material}'
-  token: item
-  value: (?P<material>.+) (Ore|Stone)
+
+# Ores
 - key: S:oredict.ore.+
-  priority: 500
-  repl: '{material}矿石'
-  token: item
-  value: (?P<material>.+) (Ore|Infused Stone)
-- key: S:oredict.oreAndesit.+
-  priority: 1000
-  repl: 安山岩{material}矿石
-  token: item
-  value: (Andesite )?(?P<material>.+)
-- key: S:oredict.oreDiorite.+
-  priority: 1000
-  repl: 闪长岩{material}矿石
-  token: item
-  value: (Diorite )?(?P<material>.+)
-- key: S:oredict.oreLimestone.+
-  priority: 1000
-  repl: 石灰岩{material}矿石
-  token: item
-  value: (Limestone )?(?P<material>.+)
-- key: S:oredict.oreMarble.+
-  priority: 1000
-  repl: 大理石{material}矿石
-  token: item
-  value: (Marble )?(?P<material>.+)
-- key: S:oredict.oreNetherrack.+
-  priority: 1000
-  repl: 下界{material}矿石
-  token: item
-  value: (Nether )?(?P<material>.+)
-- key: S:oredict.oreEndstone.+
-  priority: 1000
-  repl: 末地{material}矿石
-  token: item
-  value: (End )?(?P<material>.+)
-- key: S:oredict.oreVanillagranite.+
-  priority: 1000
-  repl: 花岗岩{material}矿石
-  token: item
-  value: (Granite )?(?P<material>.+)
-- key: S:oredict.oreRedgranite.+
-  priority: 1000
-  repl: 红色花岗岩{material}矿石
-  token: item
-  value: (Granite )?(?P<material>.+)
-- key: S:oredict.oreBlackgranite.+
-  priority: 1000
-  repl: 黑色花岗岩{material}矿石
-  token: item
-  value: (Granite )?(?P<material>.+)
-- key: S:oredict.oreSandstone.+
-  priority: 1000
-  repl: 沙石{material}矿石
-  token: item
-  value: (Sandstone )?(?P<material>.+)
-- key: S:oredict.oreSmall.+
-  priority: 1000
-  repl: 贫瘠{material}矿石
-  token: item
-  value: (Small )?(?P<material>.+)
-- key: S:oredict.oreBasalt.+
-  priority: 1000
-  repl: 玄武岩{material}矿石
-  token: item
-  value: (Basalt )?(?P<material>.+)
-- key: S:oredict.oreMud.+
-  priority: 1000
-  repl: 淤泥{material}矿石
-  token: item
-  value: (Mud )?(?P<material>.+)
-- key: S:oredict.oreSpace.+
-  priority: 1000
-  repl: 太空{material}矿石
-  token: item
-  value: (Space )?(?P<material>.+)
-- key: S:oredict.oreBedrock.+
-  priority: 1000
-  repl: 基岩{material}矿石
-  token: item
-  value: (Bedrock )?(?P<material>.+)
-- key: S:oredict.oreMoon.+
-  priority: 1000
-  repl: 月球{material}矿石
-  token: item
-  value: (Moon )?(?P<material>.+)
-- key: S:oredict.oreMars.+
-  priority: 1000
-  repl: 火星{material}矿石
-  token: item
-  value: (Mars )?(?P<material>.+)
-- key: S:oredict.oreBlueschist.+
-  priority: 1000
-  repl: 蓝片岩{material}矿石
-  token: item
-  value: (Schist )?(?P<material>.+)
-- key: S:oredict.oreKimberlite.+
-  priority: 1000
-  repl: 金伯利岩{material}矿石
-  token: item
-  value: (Kimberlite )?(?P<material>.+)
-- key: S:oredict.oreKomatiite.+
-  priority: 1000
-  repl: 科马提岩{material}矿石
-  token: item
-  value: (Komatiite )?(?P<material>.+)
-- key: S:oredict.oreQuartzite.+
-  priority: 1000
-  repl: 石英岩{material}矿石
-  token: item
-  value: (Quartzite )?(?P<material>.+)
-- key: S:oredict.oreRedSand.+
-  priority: 1000
-  repl: '{material}红矿沙'
-  token: item
-  value: (Sand )?(?P<material>.+)
-- key: S:oredict.oreGravel.+
-  priority: 1000
-  repl: '{material}沙砾'
-  token: item
-  value: (Gravel )?(?P<material>.+)
-- key: S:oredict.oreSand[A-Z].+
-  priority: 1000
-  repl: '{material}矿沙'
-  token: item
-  value: (Sand )?(?P<material>.+)
+  priority: 2000
+  repl: '{stratum_prefix}{material}矿石'
+  token: ore
+  value: (?P<stratum_prefix>[^ ]+) (?P<material>.+) (Ore|Stone)
+- key: S:oredict.ore.+
+  priority: 2000
+  repl: '{material}{stratum_suffix}'
+  token: ore
+  value: (?P<stratum_suffix>[^ ]+) (?P<material>.+) (Ore|Stone)
+
+
 - key: S:oredict.block.+
   priority: 2000
   repl: '{material}块'

@@ -19,14 +19,15 @@ class RegexFilter(logging.Filter):
         self.track = track
         self.count = 0
         self.limit = limit
-        self.track_regex = re.compile(self.track)
+        if(track):
+            self.track_regex = re.compile(self.track)
 
     def filter(self, record):
         """ Match a key with given limit and regex"""
         if record.event == 'TRANSLATING':
             self.count = self.count + 1  # only increase on new items
 
-        if(self.track is None or self.track_regex.match(record.key)):
+        if(self.track and self.track_regex.match(record.key)):
             if(self.limit is None or self.count <= self.limit):
                 return 1
         return 0

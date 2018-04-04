@@ -2022,3 +2022,40 @@ item_has_energy_tier:
 TOP_LEVEL:
   Wood Planks: 木板
   Wood Slab: 木半砖
+
+stratum_prefix:
+  Andesit: 安山岩
+  Diorite: 闪长岩
+  Limestone: 石灰岩
+  Marble: 大理石
+  Netherrac: 下界
+  Endston: 末地
+  Vanillagranite: 花岗岩
+  Redgranite: 红色花岗岩
+  Blackgranite: 黑色花岗岩
+  Sandstone: 沙石
+  Small: 贫瘠
+  Basalt: 玄武岩
+  Mud: 淤泥
+  Space: 太空
+  Bedrock: 基岩
+  Moon: 月球
+  Mars: 火星
+  Blueschist: 蓝片岩
+  Kimberlite: 金伯利岩
+  Komatiite: 科马提岩
+  Quartzite: 石英岩
+  Schist:
+  - regex: S:oredict.oreBlueschist.+
+    value: 蓝片岩
+  - regex: S:oredict.oreGreenschist.+
+    value: 绿片岩
+
+
+stratum_suffix:
+  Sand:
+  - regex: S:oredict.oreSand[A-Z].+
+    value: 矿沙
+  - regex: S:oredict.oreRedSand.+
+    value: 红矿沙
+  Gravel: 沙砾
