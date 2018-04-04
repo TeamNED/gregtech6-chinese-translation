@@ -1,6 +1,7 @@
 #-*- coding：utf-8 -*-
 import argparse
 import logging
+import logging.config
 import re
 import sys
 
@@ -9,29 +10,42 @@ import yaml
 from source.gregtech.gregtech_translator import GregTechTranslator
 
 
-class PredicateCounter:
-    def __init__(self, predicate_args):
-        self.predicate_args = predicate_args
+class RegexFilter(logging.Filter):
+    def __init__(self):
+        super().__init__()
+        # self.set_track_args(None)
+
+    def set_track_args(self, track, limit=None):
+        self.track = track
         self.count = 0
-        self.track_regex = re.compile(
-            self.predicate_args.track)
+        self.limit = limit
+        self.track_regex = re.compile(self.track)
 
-    def predicate(self, key):
+    def filter(self, record):
         """ Match a key with given limit and regex"""
-        if(self.predicate_args.track is None):
-            logging.getLogger("replace.py").warning(
-                "No regex given for tracking")
-            return
+        if record.event == 'TRANSLATING':
+            self.count = self.count + 1  # only increase on new items
 
-        self.count = self.count + 1
-
-        if(self.predicate_args.n is not None and self.count > self.predicate_args.n):
-            return
-
-        return self.track_regex.match(key)
+        if(self.track or self.track_regex.match(record.key)):
+            if(self.limit is None or self.count <= self.limit):
+                return 1
+        return 0
 
     def clear_count(self):
         self.count = 0
+
+
+def logging_system_init(track, limit=None):
+    """If track is not none, initiate a logging system"""
+    # if args.track is None:
+    #    return
+    with open('config/logging.yml', 'r') as logging_file:
+        logging_config = yaml.load(logging_file)
+        logging.config.dictConfig(logging_config)
+
+        reg_filter = RegexFilter()
+        reg_filter.set_track_args(track, limit)
+        logging.getLogger('source.replacer.translator').addFilter(reg_filter)
 
 
 if __name__ == '__main__':
@@ -45,34 +59,12 @@ if __name__ == '__main__':
     parser.add_argument('-w', '--workspace', nargs='+',
                         help='working namespace, replacer_workspace.yml will be ignored if enabled')
     args = parser.parse_args()
-    if args.track:
-        predicate_counter = PredicateCounter(parser.parse_args())
 
     # initate logging system
-    format_string_replace = "%(asctime)-8s %(levelname)-7s %(filename)s:%(lineno)-3d %(message)s"
-    date_format_string = "%H:%M:%S"
-    formatter_replace = logging.Formatter(
-        format_string_replace, date_format_string)
-
-    handler_replace = logging.StreamHandler(sys.stdout)
-    handler_replace.setFormatter(formatter_replace)
-    handler_replace.setLevel(logging.DEBUG)
-    logger_replace = logging.getLogger("replace")
-    logger_replace.setLevel(logging.DEBUG)
-    logger_replace.addHandler(handler_replace)
-
-    format_string_translator = "%(asctime)-8s %(levelname)-7s %(filename)s:%(lineno)-3d %(event)-12s %(message)s"
-    formatter_translator = logging.Formatter(
-        format_string_translator, date_format_string)
-    handler_translator = logging.StreamHandler(sys.stdout)
-    handler_translator.setFormatter(formatter_translator)
-    handler_translator.setLevel(logging.DEBUG)
-    logger_translator = logging.getLogger("translator")
-    logger_translator.setLevel(logging.DEBUG)
-    logger_translator.addHandler(handler_translator)
-
+    logging_system_init(args.track, args.n)
     # replacing
-    logger_replace.info('Start replacing ...')
+    logger = logging.getLogger(__name__)
+    logger.info('Start replacing ...')
     gt_translator = GregTechTranslator(
         None, None, 'config/patterns.yml', 'config/glossary.yml', 'config/exceptions.yml')
     with open('config/replacer_workspace.yml') as workspace_file:
@@ -81,19 +73,17 @@ if __name__ == '__main__':
             if args.workspace and item not in args.workspace:
                 continue
 
-            logger_replace.info('Working on lang/'+item)
+            logger.info('Working on lang/'+item)
 
             gt_translator.path_to_original = 'lang/'+item+'/en_us.lang'
             gt_translator.path_to_translated = 'lang/'+item+'/zh_cn.lang'
             gt_translator.load_file()
 
             if args.track:
-                logging.getLogger("replace").debug("Tracking mode enabled, now tracking: {0}".format(
-                    predicate_counter.predicate_args.track))
-                gt_translator.translate_all(predicate_counter.predicate)
-            else:
-                gt_translator.translate_all()
+                logger.debug(
+                    "Tracking mode enabled, now tracking: %s", args.track)
+            gt_translator.translate_all()
 
             gt_translator.dump_translated_to(gt_translator.path_to_translated)
 
-    logger_replace.info('Replacing completed successfully')
+    logger.info('Replacing completed successfully')

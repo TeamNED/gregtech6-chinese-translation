@@ -19,7 +19,7 @@ class Translator:
         self.glossary = glossary
         self.patterns = patterns
 
-    def translate(self, key, value, logging_predicate=None):
+    def translate(self, key, value):
         """
         Try to translate with given glossary and patterns
 
@@ -32,9 +32,9 @@ class Translator:
             Translated value of the item otherwise"""
         filtered_patterns = sorted(filter(lambda x: x.match_key(
             key), self.patterns), key=lambda x: x.priority, reverse=True)
-        return self._find_possible_translation(key, value, 'TOP_LEVEL', filtered_patterns, logging_predicate)
+        return self._find_possible_translation(key, value, 'TOP_LEVEL', filtered_patterns)
 
-    def _find_possible_translation(self, key, value, token, patterns, logging_predicate=None):
+    def _find_possible_translation(self, key, value, token, patterns):
         """A greed algorithm to find a possibletranslation within and patterns and with higeset total priority
 
         Args:
@@ -48,17 +48,18 @@ class Translator:
             str of tranlation otherwise"""
 
         # logging
-        logger = None
-        if logging_predicate and logging_predicate(key):
-            logger = logging.getLogger('translator')
+        logger = logging.getLogger(__name__)
+        logger_event_base = {'key': key, 'value': value, 'token': token}
+
+        logger.debug("key=%s,value=%s,token=%s", key, value, token, extra={
+                     'event': 'TRANSLATING', **logger_event_base})
+        if patterns:
+            for pattern in patterns:
+                self._log_pattern_status(
+                    logger, logger_event_base, pattern, 'PATTERN_LOAD')
+        else:
             logger.debug(
-                "key={0},value={1},token={2}".format(key, value, token), extra={'event': 'TRANSLATING'})
-            if patterns:
-                for pattern in patterns:
-                    logger.debug("({0}->{1}) as <{2}> @{3} #{4}".format(
-                        pattern.value, pattern.repl, pattern.token, pattern.key, pattern.priority), extra={'event': 'PATTERN_LOAD'})
-            else:
-                logger.debug("", extra={'event': 'NO_PATTERN'})
+                "", extra={'event': 'NO_PATTERN', **logger_event_base})
 
         # find glossary
         if(token in self.glossary and value in self.glossary[token]):
@@ -68,12 +69,12 @@ class Translator:
             else:
                 result = self.glossary[token][value]
 
-            if logger:
-                if result:
-                    logger.debug("Found as <{0}>".format(
-                        self.glossary[token][value]), extra={'event': 'GLOSSARY'})
-                else:
-                    logger.warning("Not found", extra={'event': 'GLOSSARY'})
+            if result:
+                logger.debug("Found as <{}>".format(
+                    self.glossary[token][value]), extra={'event': 'GLOSSARY', **logger_event_base})
+            else:
+                logger.warning("Not found", extra={
+                    'event': 'GLOSSARY', **logger_event_base})
             return result
 
         if not patterns:
@@ -83,11 +84,8 @@ class Translator:
             current_pattern = patterns[index]
             status, match_result = current_pattern.match_value(value)
             if(status):
-
-                if logger:
-                    logger.debug("({0}->{1}) as <{2}> @{3} #{4}".format
-                                 (current_pattern.value, current_pattern.repl, current_pattern.token,
-                                  current_pattern.key, current_pattern.priority), extra={'event': 'PATTERN_USING'})
+                self._log_pattern_status(
+                    logger, logger_event_base, current_pattern, 'PATTERN_USING')
 
                 succ = 1  # Flag for all token-value has translated
                 token_dict = {}
@@ -95,24 +93,20 @@ class Translator:
                     for t, v in match_result.items():
                         # Find All tokens' tranlation
                         find_result = self._find_possible_translation(
-                            key, v, t, patterns[index+1:], logging_predicate)
+                            key, v, t, patterns[index+1:])
                         if find_result:
                             token_dict[t] = find_result
                         else:
                             succ = 0  # Match failed
 
-                            if logger:
-                                logger.debug("({0}->{1}) as <{2}> @{3} #{4}".format
-                                             (current_pattern.value, current_pattern.repl, current_pattern.token,
-                                              current_pattern.key, current_pattern.priority), extra={'event': 'PATTERN_FAIL'})
-                            break
+                            self._log_pattern_status(
+                                logger, logger_event_base, current_pattern, 'PATTERN_FAIL')
                     if(succ):
                         # Add the result to glossary as a cache
                         result = current_pattern.format(token_dict)
 
-                        if logger:
-                            logger.debug(
-                                "Item translated as <{0}>".format(result), extra={'event': "SUCCESS"})
+                        logger.debug("Item translated as <{0}>".format(
+                            result), extra={'event': "SUCCESS"})
 
                         self.glossary.setdefault(current_pattern.token, {})[
                             value] = result
@@ -124,20 +118,33 @@ class Translator:
                         self.glossary.setdefault(current_pattern.token, {})[
                             value] = result
 
-                        if logger:
-                            logger.debug(
-                                "Item translated as <{0}>".format(result), extra={'event': "SUCCESS"})
+                        logger.debug("Item translated as <{0}>".format(
+                            result), extra={'event': "SUCCESS"})
 
                         return result
                     else:
 
-                        if logger:
-                            logger.warning(
-                                "No enough token translated", extra={'event': "FAILED"})
+                        logger.warning("No enough token translated", extra={
+                                       'event': "FAILED"})
 
                         return None
 
-        if logger:
-            logger.warning("Patterns ALL FAILED", extra={'event': "FAILED"})
+        logger.warning("Patterns ALL FAILED", extra={'event': "FAILED"})
 
         return None  # All patterns failed
+
+    def _log_pattern_status(self, logger, logger_event_base, pattern, event, level=logging.DEBUG):
+        """Log on the logger of an event concerning pattern
+
+        Args:
+            logger (logging.Logger): the logger you want to log on
+            logger_event_base (dict): a dict containing keys: 'key','value' and 'token'
+            pattern (replacer.Pattern): the pattern that you concerning
+            event (str): which tells what happens
+            level (int): level of LogRecord sent to logger, default is DEBUG
+
+        Returns:
+            None
+        """
+        logger.log(level, "%s --> %s as <%s> @%s #%s", pattern.value, pattern.repl, pattern.token,
+                   pattern.key, pattern.priority, extra={'event': event, **logger_event_base})

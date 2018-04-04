@@ -1,0 +1,27 @@
+version: 1
+disable_existing_loggers: False
+formatters:
+  normal:
+    format: "%(asctime)-8s %(levelname)-7s %(filename)s:%(lineno)-3d %(message)s"
+    datefmt: "%H:%M:%S"
+  event:
+    format: "%(asctime)-8s %(levelname)-7s %(filename)s:%(lineno)-3d %(event)-12s %(message)s"
+    datefmt: "%H:%M:%S"
+handlers: 
+  default:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: normal
+    stream: ext://sys.stdout
+  translator:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: event
+    stream: ext://sys.stdout
+loggers:
+  __main__:
+    handlers: ['default']
+    level: DEBUG
+  source.replacer.translator:
+    handlers: ['translator']
+    level: DEBUG

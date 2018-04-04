@@ -1,7 +1,6 @@
 #-*- coding：utf-8 -*-
 
 import re
-from collections import UserDict
 
 
 def get_item_by_key(self, name, key):

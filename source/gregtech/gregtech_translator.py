@@ -50,12 +50,12 @@ class GregTechTranslator(Translator):
         self.load_file()
         self.load_config()
 
-    def translate_all(self, logging_predicate=None):
+    def translate_all(self):
         for k, v in self.original.items():
             if k in self.excptions.keys():
                 translate_result = self.excptions[k]
             else:
-                translate_result = self.translate(k, v, logging_predicate)
+                translate_result = self.translate(k, v)
             if(translate_result is not None):
                 self.translated[k] = translate_result  # Translate succeeded
             elif k not in self.translated.keys():

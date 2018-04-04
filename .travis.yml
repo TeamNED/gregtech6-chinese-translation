@@ -10,8 +10,6 @@ before_deploy:
     - git config --local user.name "JackyWangMislantiaJnirvana"
     - git config --local user.mail "wmjwld@live.cn"
     - git tag "格雷科技6汉化-Nightly-Build-$(date +'%Y%m%d%H%M%S')"
-before_script:
-    - export PYTHONPATH=$PYTHONPATH:$(source)
 install:
     - pip install pyyaml
 deploy:
