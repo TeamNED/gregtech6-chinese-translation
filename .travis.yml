@@ -1,5 +1,4 @@
-# WIP.
-# Currently does nothing, just add Gregtech.lang as Nightly build when pushed.
+# Stable release
 
 language: python
 python:
@@ -9,18 +8,20 @@ script:
 before_deploy:
     - git config --local user.name "JackyWangMislantiaJnirvana"
     - git config --local user.mail "wmjwld@live.cn"
-    - git tag "格雷科技6汉化-Nightly-Build-$(date +'%Y%m%d%H%M%S')"
+#    - git tag "格雷科技6汉化-Stable-Build-$(TRAVIS_TAG)"
 before_script:
     - export PYTHONPATH=$PYTHONPATH:source
 install:
     - pip install pyyaml
 deploy:
     provider: releases
+    prerelease: true
     api_key:
         secure: ${GITHUB_TOKEN}
     file:
         - "GregTech.lang"
     skip_cleanup: true
     on:
+        tags: true
         repo: MoHaDouBiTeam/gregtech6-chinese-translation
-        branch: master
+        branch: stable
