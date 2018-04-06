@@ -1,6 +1,4 @@
 # gregtech6-chinese-translation
-![Translation status big](https://weblate.sayori.pw/widgets/gregtech/zh_cn/gregtech6/287x66-grey.png)
-
 ![Translation Status](https://weblate.sayori.pw/widgets/gregtech/-/svg-badge.svg) ![Build Status](https://travis-ci.org/MoHaDouBiTeam/gregtech6-chinese-translation.svg?branch=master)
 
 [最新版(Nightly Build)汉化文件下载地址](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/releases/latest)
