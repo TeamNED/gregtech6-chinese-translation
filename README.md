@@ -3,7 +3,7 @@
 
 [最新版(Nightly Build)汉化文件下载地址](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/releases/latest)
 
-[Weblate翻译服务器传送门](https://weblate.sayori.pw/engage/gregtech/?utm_source=widget)
+[Weblate翻译服务器传送门](https://weblate.exz.me/projects/gregtech/)
 
 GregTech6汉化项目，欢迎加入。
 
