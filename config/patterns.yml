@@ -1,3 +1,4 @@
+# uncatagorized
 - key: S:oredict.crateGt.+
   priority: 5000
   repl: '{material}板条箱'
@@ -304,7 +305,7 @@
   token: item
   value: (?P<material>.+) bearing Rock
 
-# Ores
+# ores
 - key: S:oredict.ore.+
   priority: 2000
   repl: '{stratum_prefix}{material}矿石'
@@ -316,7 +317,7 @@
   token: ore
   value: (?P<stratum_suffix>[^ ]+) (?P<material>.+) (Ore|Stone)
 
-
+# blocks
 - key: S:oredict.block.+
   priority: 2000
   repl: '{material}块'
@@ -352,31 +353,11 @@
   repl: '{material}粉'
   token: item
   value: (?P<material>.+) (Dust|Powder)
-- key: S:oredict.dustSmall.+
+- key: S:oredict.dust.+
   priority: 2000
-  repl: 小堆{material}
+  repl: '{dust_type}{material}'
   token: item
-  value: Small Pile of (?P<material>.+)$
-- key: S:oredict.dustTiny.+
-  priority: 2000
-  repl: 小撮{material}
-  token: item
-  value: Tiny Pile of (?P<material>.+)$
-- key: S:oredict.dustDiv72.+
-  priority: 2000
-  repl: 1/72份{material}
-  token: item
-  value: 1/72nd of a Pile of (?P<material>.+)$
-- key: S:oredict.dustPure.+
-  priority: 1000
-  repl: 纯净{material}
-  token: item
-  value: Purified Pile of (?P<material>.+)$
-- key: S:oredict.dustImpure.+
-  priority: 1000
-  repl: 含杂{material}
-  token: item
-  value: Impure Pile of (?P<material>.+)$
+  value: (?P<dust_type>.+) of (?P<material>.+)$
 - key: S:oredict.(block|plate|crateGt).+
   priority: 500
   repl: '{material}板'
@@ -402,31 +383,15 @@
   repl: 结晶{material}
   token: item
   value: Crystalline (?P<material>.+)
-- key: S:oredict.ingotHot.+
+
+
+- key: S:oredict.ingot.+
   priority: 1000
-  repl: 热{material}锭
+  repl: '{ingot_type}{material}锭'
   token: item
-  value: Hot (?P<material>.+) Ingot
-- key: S:oredict.ingotDouble.+
-  priority: 1000
-  repl: 两重{material}锭
-  token: item
-  value: Double (?P<material>.+) Ingot
-- key: S:oredict.ingotTriple.+
-  priority: 1000
-  repl: 三重{material}锭
-  token: item
-  value: Triple (?P<material>.+) Ingot
-- key: S:oredict.ingotQuadruple.+
-  priority: 1000
-  repl: 四重{material}锭
-  token: item
-  value: Quadruple (?P<material>.+) Ingot
-- key: S:oredict.ingotQuintuple.+
-  priority: 1000
-  repl: 五重{material}锭
-  token: item
-  value: Quintuple (?P<material>.+) Ingot
+  value: (?P<ingot_type>[^ ]+) (?P<material>.+) Ingot
+
+# plates
 - key: S:oredict.+[dD]ense.+
   priority: 2000
   repl: 致密{material}
@@ -472,36 +437,19 @@
   repl: 五重{material}
   token: item
   value: Quintuple (?P<material>.+)
+
+# crushed ores
 - key: S:oredict.crushed.+
   priority: 1000
-  repl: 粉碎{material}矿石
-  token: item
-  value: Crushed (?P<material>.+) Ore
-- key: S:oredict.crushedCentrifuged.+
+  repl: '{crushed_ore_type}{material}矿石'
+  token: crushed_ore
+  value: (?P<crushed_ore_type>[^ ]+) (?P<material>.+) Ore
+- key: 'S:oredict.crushed.*Tiny.+'
   priority: 1100
-  repl: 离心{material}矿石
-  token: item
-  value: Refined (?P<material>.+) Ore
-- key: S:oredict.crushedPurified.+
-  priority: 1100
-  repl: 纯净{material}矿石
-  token: item
-  value: Purified (?P<material>.+) Ore
-- key: S:oredict.crushedTiny.+
-  priority: 1050
-  repl: 小撮粉碎{material}矿石
-  token: item
-  value: Tiny Crushed (?P<material>.+) Ore
-- key: S:oredict.crushedPurifiedTiny.+
-  priority: 1200
-  repl: 小撮纯净{material}矿石
-  token: item
-  value: Tiny Purified (?P<material>.+) Ore
-- key: S:oredict.crushedCentrifugedTiny.+
-  priority: 1200
-  repl: 小撮离心{material}矿石
-  token: item
-  value: Tiny Refined (?P<material>.+) Ore
+  repl: 小撮{crushed_ore_type}
+  token: tiny_crushed_ore
+  value: Tiny (?P<crushed_ore_type>.+)
+
 - key: S:gt.block.(beam|log|planks).+
   priority: 1500
   repl: '{material} (防火)'
@@ -547,21 +495,13 @@
   repl: '{material} (钨钢)'
   token: item
   value: (?P<material>.+) \(Tungstensteel\)
+
+# bumblebee
 - key: S:gt.multiitem.bumblebee.+
   priority: 2000
-  repl: '{material} (死亡)'
-  token: item
-  value: (?P<material>.+) \(Dead\)
-- key: S:gt.multiitem.bumblebee.+
-  priority: 2000
-  repl: '{material} (已扫描)'
-  token: item
-  value: (?P<material>.+) \(Scanned\)
-- key: S:gt.multiitem.bumblebee.+
-  priority: 2000
-  repl: '{material} (死亡且已扫描)'
-  token: item
-  value: (?P<material>.+) \(Dead & Scanned\)
+  repl: '{material} ({bumblebee_status})'
+  token: bumblebee
+  value: (?P<material>.+) \((?P<bumblebee_status>.+)\)
 - key: S:gt.multiitem.bumblebee.+
   priority: 1500
   repl: 雄性{material}
@@ -587,6 +527,8 @@
   repl: '{material}大黄蜂'
   token: item
   value: (?P<material>.+) Bumblebee
+  
+# concrete
 - key: S:gt.block.concrete.+
   priority: 1000
   repl: '{material}混凝土'
@@ -602,6 +544,8 @@
   repl: '{material}半砖'
   token: item
   value: (?P<material>.+) Slab
+
+# cfoam
 - key: S:fluid.cfoam.+
   priority: 2000
   repl: 高级{material}
@@ -612,31 +556,15 @@
   repl: '{material}建筑泡沫'
   token: item
   value: (?P<material>.+) C-Foam
-- key: S:oredict.gemChipped.+
+
+# gem
+- key: S:oredict.gem.+
   priority: 1000
-  repl: 碎裂的{material}
-  token: item
-  value: Chipped (?P<material>.+)\s*(Crystal)?
-- key: S:oredict.gemExquisite.+
-  priority: 1000
-  repl: 精美的{material}
-  token: item
-  value: Exquisite (?P<material>.+)\s*(Crystal)?
-- key: S:oredict.gemFlawed.+
-  priority: 1000
-  repl: 有瑕疵的{material}
-  token: item
-  value: Flawed (?P<material>.+)\s*(Crystal)?
-- key: S:oredict.gemFlawless.+
-  priority: 1000
-  repl: 无瑕的{material}
-  token: item
-  value: Flawless (?P<material>.+)\s*(Crystal)?
-- key: S:oredict.gemLegendary.+
-  priority: 1000
-  repl: 传奇{material}
-  token: item
-  value: Legendary (?P<material>.+)\s*(Crystal)?
+  repl: '{gem_tier}{material}'
+  token: gem
+  value: (?P<gem_tier>[^ ]) (?P<material>.+)\s*(Crystal)?
+
+# qt
 - key: S:qwertech.machines.+
   priority: 1000
   repl: '{material}合成站'
@@ -657,6 +585,7 @@
   repl: 小型{material}弹簧组
   token: item
   value: Dual (?P<material>.+) Springs
+
 - key: S:gt.multitileentity.+
   priority: 1000
   repl: "{item_has_energy_tier} ({energy_tier})"

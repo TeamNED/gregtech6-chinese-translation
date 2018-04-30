@@ -1993,6 +1993,8 @@ material:
   Cyan Energium: 青色能量水晶
   Wood Planks: 木板
   Wood Slab: 木半砖
+  Ultimet: 无尽
+  Bedrockium: 基岩
 
 energy_tier:
   ULV: ULV
@@ -2059,3 +2061,34 @@ stratum_suffix:
   - regex: S:oredict.oreRedSand.+
     value: 红矿沙
   Gravel: 沙砾
+
+dust_type:
+  1/72nd of a Pile: 1/72份
+  Tiny Pile: 小撮
+  Small Pile: 小堆
+  Purified Pile: 纯净
+  Impure Pile: 含杂
+
+ingot_type:
+  Hot: 热
+  Double: 两重
+  Triple: 三重
+  Quadruple: 四重
+  Quintuple: 五重
+
+crushed_ore_type:
+  Crushed: 粉碎
+  Refined: 离心
+  Purified: 纯净
+
+bumblebee_status:
+  Dead: 死亡
+  Scanned: 已扫描
+  Dead & Scanned: 死亡且已扫描
+
+gem_tier:
+  Chipped: 碎裂的
+  Exquisite: 精美的
+  Flawed: 有瑕疵的
+  Flawless: 无瑕的
+  Legendary: 传奇
