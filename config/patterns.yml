@@ -567,7 +567,15 @@
   priority: 1000
   repl: '{gem_tier}{material}'
   token: gem
-  value: (?P<gem_tier>[^ ]) (?P<material>.+)\s*(Crystal)?
+  value: (?P<gem_tier>[^ ]+) (?P<material>.+)\s*(Crystal)?
+
+# bullet
+- key: S:oredict.bulletGt.+
+  priority: 1000
+  repl: '{bullet_type}{material}子弹'
+  token: bullet
+  value: (?P<bullet_type>[^ ]+) (?P<material>.+) Bullet
+
 
 # qt
 - key: S:qwertech.machines.+

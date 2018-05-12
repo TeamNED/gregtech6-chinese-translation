@@ -2006,6 +2006,10 @@ material:
   Aqua Middle: 水蓝元素宝石
   Crimson Middle: 深红元素宝石
   Green Middle: 翠绿元素宝石
+  Forgetful: 健忘
+  Amnesic: 失忆
+  Bumbleheimers: 痴呆大黄蜂
+  Bumble in Black: 黑色大黄蜂
 
 energy_tier:
   ULV: ULV
@@ -2105,3 +2109,8 @@ gem_tier:
   Flawed: 有瑕疵的
   Flawless: 无瑕的
   Legendary: 传奇
+
+bullet_type:
+  Small: 小型
+  Medium: 中型
+  Large: 大型
