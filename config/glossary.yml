@@ -1017,7 +1017,7 @@ material:
     value: 方铅矿
   Gallium: 镓
   Galvanized Steel: 镀锌钢
-  Garnet Sand: 石榴石沙
+  Garnet Sand: 石榴子石沙
   Garnierite:
   - regex: S:oredict.(crushed|ore).+
     value: 硅镁镍
@@ -1451,7 +1451,7 @@ material:
     value: 软锰矿
   Pyrope: 镁铝榴石
   Pyrotheum: 炽焱
-  Quartz Sand: 石英沙
+  Quartz Sand: 石英砂
   Quartzite: 石英岩
   Radium: 镭
   Radon: 氡
@@ -2028,6 +2028,7 @@ item_has_energy_tier:
   Red Energium: 能量水晶
   Cyan Energium: 青色能量水晶
   Lead-Acid Battery: 铅酸电池
+  Nickel-Cadmium Battery: 镍镉电池
   Alkaline Battery: 碱性电池
   Red Energium Crystal: 能量水晶
   Cyan Energium Crystal: 青色能量水晶

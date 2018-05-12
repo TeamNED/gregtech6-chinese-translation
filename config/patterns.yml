@@ -312,6 +312,11 @@
   token: ore
   value: (?P<stratum_prefix>[^ ]+) (?P<material>.+) (Ore|Stone)
 - key: S:oredict.ore.+
+  priority: 1000
+  repl: '{stratum_prefix}{material}矿石'
+  token: ore
+  value: (?P<stratum_prefix>[^ ]+) (?P<material>.+)
+- key: S:oredict.ore.+
   priority: 2000
   repl: '{material}{stratum_suffix}'
   token: ore
