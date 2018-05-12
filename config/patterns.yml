@@ -599,8 +599,75 @@
   token: item
   value: Dual (?P<material>.+) Springs
 
+# multitileentity
+
 - key: S:gt.multitileentity.+
   priority: 1000
   repl: "{item_has_energy_tier} ({energy_tier})"
   token: machine
   value: (?P<item_has_energy_tier>.+) \((?P<energy_tier>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}个人机械保险箱"
+  token: machine
+  value: Mechanical (?P<material>.+) Safe
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "带锁的{material}保险箱"
+  token: machine
+  value: Key Locked (?P<material>.+) Safe
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "四联抽屉 ({material})"
+  token: machine
+  value: Compartment Drawer \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}箱子"
+  token: machine
+  value: (?P<material>.+) Chest
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "高级工作台 ({material})"
+  token: machine
+  value: Advanced Crafting Table \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}强化木箱"
+  token: machine
+  value: (?P<material>.+) reinforced wooden Chest
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "充能工作台 ({material})"
+  token: machine
+  value: Charging Crafting Table \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "量子存储器 ({material})"
+  token: machine
+  value: Mass Storage \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "书架 ({material})"
+  token: machine
+  value: Bookshelf \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "衣橱 ({material})"
+  token: machine
+  value: Locker \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "充能衣橱 ({material})"
+  token: machine
+  value: Charging Locker \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}漏斗"
+  token: machine
+  value: (?P<material>.+) Hopper
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}队列漏斗 (FIFO)"
+  token: machine
+  value: (?P<material>.+) Queue Hopper
