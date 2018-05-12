@@ -1995,6 +1995,17 @@ material:
   Wood Slab: 木半砖
   Ultimet: 无尽
   Bedrockium: 基岩
+  Octine: 炽炎铁
+  Valonite: 法罗钠
+  Syrmorite: 赛摩铜
+  Scabyst: 痂壳晶
+  Slimy Bone: 粘骨
+  Pitstone: 麻纹石
+  Lantanum: 镧
+  Betweenstone: 交错石
+  Aqua Middle: 水蓝元素宝石
+  Crimson Middle: 深红元素宝石
+  Green Middle: 翠绿元素宝石
 
 energy_tier:
   ULV: ULV
@@ -2052,6 +2063,7 @@ stratum_prefix:
     value: 蓝片岩
   - regex: S:oredict.oreGreenschist.+
     value: 绿片岩
+  Stone: 石头
 
 
 stratum_suffix:

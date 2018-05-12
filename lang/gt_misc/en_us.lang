@@ -12,6 +12,7 @@ S:gt.behaviour.feed.cat=Is usable as Cat Food
 S:gt.behaviour.feed.chocolate=Do not feed this to Pets!
 S:gt.behaviour.feed.dog=Is usable as Dog Food
 S:gt.behaviour.feed.grass=Is usable as Cow, Sheep and Horse Food
+S:gt.behaviour.feed.pig=Is usable as Pig Food
 S:gt.behaviour.flintandtinder=Ignites a Fire with a Chance of
 S:gt.behaviour.foamspray.uses=Remaining Uses:
 S:gt.behaviour.hardenerspray.uses=Remaining Uses:
