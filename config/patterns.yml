@@ -532,6 +532,11 @@
   repl: '{material}大黄蜂'
   token: item
   value: (?P<material>.+) Bumblebee
+#- key: S:gt.multiitem.food.+
+#  priority: 1000
+#  repl: '{material}蜂巢'
+#  token: item
+#  value: (?P<material>.+) Comb
   
 # concrete
 - key: S:gt.block.concrete.+
