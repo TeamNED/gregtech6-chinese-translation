@@ -590,6 +590,11 @@
   value: (?P<material>.+) Crafting Table
 - key: S:qwertech.machines.+
   priority: 1000
+  repl: '{material}操作台'
+  token: item
+  value: (?P<material>.+) Countertop
+- key: S:qwertech.machines.+
+  priority: 1000
   repl: '{material}合成砧'
   token: item
   value: (?P<material>.+) Crafting Anvil

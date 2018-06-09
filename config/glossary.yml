@@ -1361,7 +1361,7 @@ material:
   Perlite: 珍珠岩
   Petrified Wood: 石化木
   Petrified Wood Plank: 石化木板
-  Petrified Wood Pulp: 石化木浆
+  Petrified Wood Pulp: 石化木锯末
   Petrol: 汽油
   Petroleum Coke: 石油焦炭
   Petrotheum: 构造之地岩
@@ -1543,7 +1543,7 @@ material:
   Seaborgium: "\U0002CB73"
   Sealed Wood: 防腐木
   Sealed Wood Plank: 防腐木板
-  Sealed Wood Pulp: 防腐锯末
+  Sealed Wood Pulp: 防腐木锯末
   Seed Oil: 种子油
   Selenium: 硒
   Sequoia: 红杉
@@ -2012,8 +2012,12 @@ material:
   Bumble in Black: 黑色大黄蜂
   Dreamwood: 梦之木
   Livingwood: 活木
+  Livingwood Pulp: 活木锯末
   Military: 军用
   Weedwood: 杂草木
+  Lithium Chlorate: 氯酸铝
+  Lithium Perchlorate: 高氯酸锂
+  Lithium Hydroxide: 氢氧化铝
 
 energy_tier:
   ULV: ULV
@@ -2037,6 +2041,8 @@ item_has_energy_tier:
   Cyan Energium: 青色能量水晶
   Lead-Acid Battery: 铅酸电池
   Nickel-Cadmium Battery: 镍镉电池
+  Lithium-Cobalt Battery: 钴酸锂电池
+  Lithium-Manganese Battery: 锂锰电池单元
   Alkaline Battery: 碱性电池
   Red Energium Crystal: 能量水晶
   Cyan Energium Crystal: 青色能量水晶
