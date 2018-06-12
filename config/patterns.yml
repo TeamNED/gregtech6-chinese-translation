@@ -49,6 +49,11 @@
   repl: '{material}螺栓'
   token: item
   value: (?P<material>.+) Bolt
+- key: S:oredict.bolt.+
+  priority: 1000
+  repl: '短{material}杆'
+  token: item
+  value: Short (?P<material>.+) Stick
 - key: S:oredict.screw.+
   priority: 1000
   repl: '{material}螺丝'
@@ -58,12 +63,12 @@
   priority: 1500
   repl: 长{material}杆
   token: item
-  value: Long (?P<material>.+) Rod
+  value: Long (?P<material>.+) (Rod|Stick)
 - key: S:oredict.stick.+
   priority: 1000
   repl: '{material}杆'
   token: item
-  value: (?P<material>.+) Rod
+  value: (?P<material>.+) (Rod|Stick)
 - key: S:oredict.casingSmall.+
   priority: 1000
   repl: '{material}外壳'
@@ -359,6 +364,11 @@
   token: item
   value: (?P<material>.+) (Dust|Powder)
 - key: S:oredict.dust.+
+  priority: 100
+  repl: '{material}'
+  token: item
+  value: (?P<material>.+)
+- key: S:oredict.dust.+
   priority: 2000
   repl: '{dust_type}{material}'
   token: item
@@ -367,7 +377,7 @@
   priority: 500
   repl: '{material}板'
   token: item
-  value: (?P<material>.+) Plate
+  value: (?P<material>.+) (Plate|Plank)
 - key: S:oredict.nugget.+
   priority: 1000
   repl: '{material}粒'

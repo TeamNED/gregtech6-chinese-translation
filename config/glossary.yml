@@ -1360,7 +1360,6 @@ material:
   Pentlandite: 镍黄铁
   Perlite: 珍珠岩
   Petrified Wood: 石化木
-  Petrified Wood Plank: 石化木板
   Petrified Wood Pulp: 石化木锯末
   Petrol: 汽油
   Petroleum Coke: 石油焦炭
@@ -1399,7 +1398,6 @@ material:
   Plutonium-241: 钚-241
   Plutonium-243: 钚-243
   Polished Wood: 抛光木
-  Polished Wood Plank: 抛光木板
   Polished Wood Pulp: 抛光木锯末
   Pollucite: 铯榴石
   Polonium: 钋
@@ -1506,7 +1504,6 @@ material:
   Rubber Pulp: 橡胶浆
   Rubber Sheet: 橡胶片
   Rubber Wood: 橡胶木
-  Rubber Wood Plank: 橡胶木板
   Rubber Wood Pulp: 橡胶锯末
   Rubberwood: 橡胶
   Rubidium: 铷
@@ -1542,7 +1539,6 @@ material:
   Sea Water: 海水
   Seaborgium: "\U0002CB73"
   Sealed Wood: 防腐木
-  Sealed Wood Plank: 防腐木板
   Sealed Wood Pulp: 防腐木锯末
   Seed Oil: 种子油
   Selenium: 硒
@@ -2011,10 +2007,12 @@ material:
   Bumbleheimers: 痴呆大黄蜂
   Bumble in Black: 黑色大黄蜂
   Dreamwood: 梦之木
+  Dreamwood Pulp: 梦之木锯末
   Livingwood: 活木
   Livingwood Pulp: 活木锯末
   Military: 军用
   Weedwood: 杂草木
+  Weedwood Pulp: 杂草木锯末
   Lithium Chlorate: 氯酸铝
   Lithium Perchlorate: 高氯酸锂
   Lithium Hydroxide: 氢氧化铝
