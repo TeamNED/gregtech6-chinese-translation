@@ -195,6 +195,6 @@ S:gt.lang.use.x.to.toggle.facing.pre=使用
 S:gt.lang.walkspeed=这个方块会改变行走速度
 S:gt.lang.wire.stats.amperage=电流(A):
 S:gt.lang.wire.stats.loss=损耗:
-S:gt.lang.wire.stats.lossless=无损地转换能量
+S:gt.lang.wire.stats.lossless=无损地传输能量
 S:gt.lang.wire.stats.voltage=电压(V):
 S:gt.lang.work.in.progress=§r§f§l未完成§r§7，它可能不会如你所愿地正常工作！
