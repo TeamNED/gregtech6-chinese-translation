@@ -1,4 +1,4 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 import yaml
 
 from source.replacer.pattern import Pattern
@@ -18,7 +18,7 @@ class GregTechTranslator(Translator):
         super().__init__(self.glossary, self.patterns)
 
     def load_config(self):
-        """ load all config-related varibles"""
+        """ load all config-related variables"""
 
         # Load patterns
         with open(self.path_to_patterns, 'r', encoding='utf-8') as pattern_file:
@@ -29,12 +29,12 @@ class GregTechTranslator(Translator):
         with open(self.path_to_glossary, 'r', encoding='utf-8') as glossary_file:
             self.glossary = yaml.load(glossary_file)
 
-        # Load excption
-        with open(self.path_to_exception, 'r', encoding='utf-8') as excption_file:
-            self.excptions = yaml.load(excption_file)
+        # Load exception
+        with open(self.path_to_exception, 'r', encoding='utf-8') as exception_file:
+            self.exceptions = yaml.load(exception_file)
 
     def load_file(self):
-        """ Reload  varibles only related to the original file and translated file"""
+        """ Reload  variables only related to the original file and translated file"""
         # Load original
         with open(self.path_to_original, 'r', encoding='utf-8') as original_file:
             self.original = mclang_to_dict(
@@ -46,17 +46,17 @@ class GregTechTranslator(Translator):
                 translated_file, lambda x: x.strip().startswith('S:'))
 
     def load_all(self):
-        """ load all path-related varibles"""
+        """ load all path-related variables"""
         self.load_file()
         self.load_config()
 
     def translate_all(self):
         for k, v in self.original.items():
-            if k in self.excptions.keys():
-                translate_result = self.excptions[k]
+            if k in self.exceptions.keys():
+                translate_result = self.exceptions[k]
             else:
                 translate_result = self.translate(k, v)
-            if(translate_result is not None):
+            if translate_result is not None:
                 self.translated[k] = translate_result  # Translate succeeded
             elif k not in self.translated.keys():
                 self.translated[k] = v  # New item
