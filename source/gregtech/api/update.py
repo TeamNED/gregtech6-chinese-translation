@@ -1,4 +1,4 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 
 import os
 import yaml
@@ -23,11 +23,11 @@ def _update_splitted_lang_version(lang_path, config, output_name):
     with open(lang_path, 'r', encoding='utf-8') as lang_file:
         lang = mclang_to_dict(lang_file, lambda x: x.strip().startswith('S:'))
         for group_name, dic in dict_split(lang, config).items():
-            print('Updating lang/'+group_name+'/'+output_name+' ...')
+            print('Updating lang/' + group_name + '/' + output_name + ' ...')
 
-            if not os.path.exists('lang/'+group_name):
-                os.makedirs('lang/'+group_name)
-            with open('lang/'+group_name+'/'+output_name, 'w', encoding='utf-8') as output:
+            if not os.path.exists('lang/' + group_name):
+                os.makedirs('lang/' + group_name)
+            with open('lang/' + group_name + '/' + output_name, 'w', encoding='utf-8') as output:
                 for k, v in sorted(dic.items(), key=lambda x: x[0]):
                     output.write('{0}={1}\n'.format(k, v))
 

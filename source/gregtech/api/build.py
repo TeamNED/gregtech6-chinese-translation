@@ -1,7 +1,7 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 
-import os
 import yaml
+
 from source.utilities.mclang import mclang_to_dict
 
 
@@ -13,7 +13,7 @@ def build_lang():
 
         for item in config:
             group_name = item['name']
-            with open('lang/'+group_name+'/zh_cn.lang', 'r', encoding='utf-8') as lang_file:
+            with open('lang/' + group_name + '/zh_cn.lang', 'r', encoding='utf-8') as lang_file:
                 lang = mclang_to_dict(
                     lang_file, lambda x: x.strip().startswith('S:'))
                 output.update(lang)

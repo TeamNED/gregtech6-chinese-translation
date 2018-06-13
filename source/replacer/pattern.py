@@ -1,7 +1,6 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 
 import re
-import logging
 
 
 class Pattern:
@@ -34,7 +33,7 @@ class Pattern:
         Returns:
             true if matched, false otherwise"""
         # Try to match key
-        if(self.key_rg is None):
+        if (self.key_rg is None):
             self.key_rg = re.compile(self.key)
 
         return self.key_rg.match(key) is not None
@@ -51,11 +50,11 @@ class Pattern:
                 dict: head-value dict which might be None"""
 
         # Try to match value
-        if(self.value_rg is None):
+        if (self.value_rg is None):
             self.value_rg = re.compile(self.value)
 
         match_result = self.value_rg.match(value)
-        if(match_result is not None):
+        if (match_result is not None):
             return (True, match_result.groupdict())
         else:
             return (False, None)

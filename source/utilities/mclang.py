@@ -1,4 +1,4 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 
 
 def mclang_to_dict(text, filter=None):
@@ -13,7 +13,7 @@ def mclang_to_dict(text, filter=None):
 
     result = {}
     for line in text:
-        if((filter is None or filter(line)) and line.find('=') != -1):
+        if (filter is None or filter(line)) and line.find('=') != -1:
             k, v = line.split('=', maxsplit=1)
             result[k.strip()] = v.strip()
 

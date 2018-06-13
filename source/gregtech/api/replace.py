@@ -1,10 +1,8 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 import argparse
 import logging
 import logging.config
 import re
-import sys
-
 import yaml
 
 from source.gregtech.gregtech_translator import GregTechTranslator
@@ -19,7 +17,7 @@ class RegexFilter(logging.Filter):
         self.track = track
         self.count = 0
         self.limit = limit
-        if(track):
+        if track:
             self.track_regex = re.compile(self.track)
 
     def filter(self, record):
@@ -27,8 +25,8 @@ class RegexFilter(logging.Filter):
         if record.event == 'TRANSLATING':
             self.count = self.count + 1  # only increase on new items
 
-        if(self.track and self.track_regex.match(record.key)):
-            if(self.limit is None or self.count <= self.limit):
+        if self.track and self.track_regex.match(record.key):
+            if self.limit is None or self.count <= self.limit:
                 return 1
         return 0
 
@@ -56,12 +54,12 @@ if __name__ == '__main__':
     parser.add_argument('-t', '--track',
                         help='Regex expressions of which subject you want to track')
     parser.add_argument('-n', type=int,
-                        help='Maxinum limit of tracking items')
+                        help='Maximum limit of tracking items')
     parser.add_argument('-w', '--workspace', nargs='+',
                         help='working namespace, replacer_workspace.yml will be ignored if enabled')
     args = parser.parse_args()
 
-    # initate logging system
+    # initialize logging system
     logging_system_init(args.track, args.n)
     # replacing
     logger = logging.getLogger(__name__)
@@ -74,10 +72,10 @@ if __name__ == '__main__':
             if args.workspace and item not in args.workspace:
                 continue
 
-            logger.info('Working on lang/'+item)
+            logger.info('Working on lang/' + item)
 
-            gt_translator.path_to_original = 'lang/'+item+'/en_us.lang'
-            gt_translator.path_to_translated = 'lang/'+item+'/zh_cn.lang'
+            gt_translator.path_to_original = 'lang/' + item + '/en_us.lang'
+            gt_translator.path_to_translated = 'lang/' + item + '/zh_cn.lang'
             gt_translator.load_file()
 
             if args.track:

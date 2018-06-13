@@ -1,10 +1,8 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 
 import logging
-import sys
 
 from source.replacer.glossary import get_item_by_key
-from source.utilities import mclang
 
 
 class Translator:
@@ -53,7 +51,7 @@ class Translator:
         logger_event_base = {'key': key, 'value': value, 'token': token}
 
         logger.debug("key=%s,value=%s,token=%s", key, value, token, extra={
-                     'event': 'TRANSLATING', **logger_event_base})
+            'event': 'TRANSLATING', **logger_event_base})
         if patterns:
             for pattern in patterns:
                 self._log_pattern_status(
@@ -63,7 +61,7 @@ class Translator:
                 "", extra={'event': 'NO_PATTERN', **logger_event_base})
 
         # find glossary
-        if(token in self.glossary and value in self.glossary[token]):
+        if (token in self.glossary and value in self.glossary[token]):
             if type(self.glossary[token]) is dict:
                 # if contains regexes and values
                 result = get_item_by_key(self.glossary[token], value, key)
@@ -86,17 +84,17 @@ class Translator:
         for index in range(0, len(patterns)):
             current_pattern = patterns[index]
             status, match_result = current_pattern.match_value(value)
-            if(status):
+            if (status):
                 self._log_pattern_status(
                     logger, logger_event_base, current_pattern, 'PATTERN_USING')
 
                 succ = 1  # Flag for all token-value has translated
                 token_dict = {}
-                if(match_result):
+                if (match_result):
                     for t, v in match_result.items():
                         # Find All tokens' tranlation
                         find_result = self._find_possible_translation(
-                            key, v, t, patterns[index+1:])
+                            key, v, t, patterns[index + 1:])
                         if find_result:
                             token_dict[t] = find_result
                         else:
@@ -104,7 +102,7 @@ class Translator:
 
                             self._log_pattern_status(
                                 logger, logger_event_base, current_pattern, 'PATTERN_FAIL')
-                    if(succ):
+                    if (succ):
                         # Add the result to glossary as a cache
                         result = current_pattern.format(token_dict)
 
@@ -115,7 +113,7 @@ class Translator:
                             value] = result
                         return result
                 else:
-                    if(current_pattern.repl.find('{') == -1 and current_pattern.repl.find('}') == -1):
+                    if (current_pattern.repl.find('{') == -1 and current_pattern.repl.find('}') == -1):
                         # No token needed
                         result = current_pattern.repl
                         self.glossary.setdefault(current_pattern.token, {})[
@@ -128,12 +126,12 @@ class Translator:
                     else:
 
                         logger.warning("No enough token translated", extra={
-                                       'event': "FAILED", **logger_event_base})
+                            'event': "FAILED", **logger_event_base})
 
                         return None
 
         logger.warning("Patterns ALL FAILED", extra={
-                       'event': "FAILED", **logger_event_base})
+            'event': "FAILED", **logger_event_base})
 
         return None  # All patterns failed
 

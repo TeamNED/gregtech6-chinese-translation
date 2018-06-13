@@ -1,4 +1,4 @@
-#-*- coding：utf-8 -*-
+# -*- coding：utf-8 -*-
 import json
 import yaml
 
@@ -10,7 +10,7 @@ if __name__ == '__main__':
                 new_value = []
                 for k2, v2 in v.items():
                     if k2 != '.*':
-                        new_value.append({'value': v2, 'regex': 'S:'+k2})
+                        new_value.append({'value': v2, 'regex': 'S:' + k2})
                 new_value.append({'regex': '.*', 'value': v['.*']})
                 glossary[k] = new_value
         output_glossary = {'material': glossary}
