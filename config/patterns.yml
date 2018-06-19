@@ -601,8 +601,18 @@
 - key: S:qwertech.machines.+
   priority: 1000
   repl: '{material}操作台'
-  token: item
+  token: countertop
   value: (?P<material>.+) Countertop
+- key: S:qwertech.machines.+
+  priority: 900
+  repl: '{material}原石'
+  token: countertop
+  value: (?P<material>.+) Cobblestone
+- key: S:qwertech.machines.+
+  priority: 900
+  repl: '光滑{countertop}'
+  token: countertop
+  value: Smooth (?P<countertop>.+)
 - key: S:qwertech.machines.+
   priority: 1000
   repl: '{material}合成砧'
