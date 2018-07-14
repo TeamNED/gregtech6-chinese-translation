@@ -1302,6 +1302,7 @@ material:
   Nickel: 镍
   Nihilistic: 虚无
   Nihonium: 鉨
+  Nikoline Alloy: 蓝石合金
   Nikolite: 蓝石
   Niobium: 铌
   Niobium Nitride: 氮化铌
@@ -1662,6 +1663,7 @@ material:
   Terbium: 铽
   Terrasteel: 泰拉钢
   Teslatite: 特斯拉金属
+  Teslatine Alloy: 特斯拉合金
   Tetrahedrite:
   - regex: S:oredict.(crushed|ore).+
     value: 黝铜
