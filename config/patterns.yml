@@ -695,9 +695,14 @@
   priority: 1000
   repl: "{material}漏斗"
   token: machine
+  value: (?P<material>.+) Funnel
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}料斗"
+  token: machine
   value: (?P<material>.+) Hopper
 - key: S:gt.multitileentity.+
   priority: 1000
-  repl: "{material}队列漏斗 (FIFO)"
+  repl: "{material}队列料斗"
   token: machine
   value: (?P<material>.+) Queue Hopper
