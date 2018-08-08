@@ -2019,6 +2019,46 @@ material:
   Lithium Perchlorate: 高氯酸锂
   Lithium Hydroxide: 氢氧化铝
   Livingrock: 活石
+  Raw Compost: 可堆肥材料
+  Compost: 堆肥
+  Alder: 桤木
+  Apple: 苹果树
+  Ash: 梣树
+  Beech: 山毛榉
+  Box: 黄杨木
+  Brazilwood: 巴西红木
+  Butternut: 灰核桃树
+  Cedar: 雪松木
+  Elder: 接骨木
+  Elm: 榆树
+  Eucalyptus: 桉树
+  Fig: 无花果树
+  Gingko: 银杏
+  Hawthorn: 山楂木
+  Hemlock: 铁杉
+  Hickory: 山核桃
+  Holly: 冬青
+  Hornbeam: 鹅耳枥
+  Iroko: 大绿柄桑木
+  Locust: 刺槐
+  Logwood: 墨水树
+  Maclura: 桑橙
+  Olive: 橄榄树
+  Pear: 梨树
+  Pink Ivory: 象牙粉红木
+  Purpleheart: 紫心檀木
+  Rowan: 花楸木
+  Rosewood: 蔷薇木
+  Sweetgum: 枫香木
+  Syzgium: 蒲桃木
+  Whitebeam: 白面子树
+  Yew: 红豆杉
+  Aspen: 白杨木
+  Douglas Fir: 花旗松
+  Sycamore: 悬铃木
+  White Cedar: 北美香柏木
+  White Elm: 榆树
+
 
 energy_tier:
   ULV: ULV

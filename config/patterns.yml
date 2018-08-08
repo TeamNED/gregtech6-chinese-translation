@@ -288,12 +288,12 @@
   priority: 1000
   repl: '{material}锁链'
   token: item
-  value: Chains of (?P<material>.+)
+  value: (?P<material>.+) Chains
 - key: S:oredict.link.+
   priority: 1000
   repl: '{material}链环'
   token: item
-  value: Link of (?P<material>.+)
+  value: (?P<material>.+) Link
 - key: S:oredict.railGt.+
   priority: 1000
   repl: '{material}导轨'
@@ -592,7 +592,7 @@
   value: (?P<bullet_type>[^ ]+) (?P<material>.+) Bullet
 
 
-# qt
+# qtqt
 - key: S:qwertech.machines.+
   priority: 1000
   repl: '{material}合成站'
@@ -623,6 +623,11 @@
   repl: '{material}升级台'
   token: item
   value: (?P<material>.+) Upgrade Desk
+- key: S:qwertech.machines.+
+  priority: 1000
+  repl: '{material}堆肥桶'
+  token: item
+  value: (?P<material>.+) Compost Bin
 - key: S:qwertech.armor.upgrades.+
   priority: 1000
   repl: 小型{material}弹簧组
