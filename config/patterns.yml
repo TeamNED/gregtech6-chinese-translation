@@ -605,7 +605,7 @@
   value: (?P<material>.+) Countertop
 - key: S:qwertech.machines.+
   priority: 900
-  repl: '{material}原石'
+  repl: '{material}圆石'
   token: countertop
   value: (?P<material>.+) Cobblestone
 - key: S:qwertech.machines.+
