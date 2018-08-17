@@ -592,7 +592,7 @@
   value: (?P<bullet_type>[^ ]+) (?P<material>.+) Bullet
 
 
-# qtqt
+# qt
 - key: S:qwertech.machines.+
   priority: 1000
   repl: '{material}合成站'
