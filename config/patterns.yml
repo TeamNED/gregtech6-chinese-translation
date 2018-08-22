@@ -511,6 +511,12 @@
   token: item
   value: (?P<material>.+) \(Tungstensteel\)
 
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: '{material}喷嘴'
+  token: item
+  value: (?P<material>.+) Nozzle 
+
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
   priority: 2000
