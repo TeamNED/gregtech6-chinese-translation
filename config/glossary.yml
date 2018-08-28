@@ -23,7 +23,7 @@ material:
   Amber: 琥珀
   Americium: 镅
   Americium-241: 镅-241
-  Amethyst: 紫水晶
+  Amethyst: 紫晶
   Ammonia: 氨
   Amnesic Wax: 遗忘蜜蜡
   Amordrine: 魔力之石
@@ -624,12 +624,12 @@ material:
   Biununium: 211号元素(Buu)
   Bixbite: 红绿柱石
   Black: 黑色
-  Black Bronze: 乌铜
+  Black Bronze: 黑青铜
   Black Dye: 黑色染料
   Black Granite: 黑色花岗岩
   Black Pepper: 黑胡椒
   Black Quartz: 黑色石英岩
-  Black Steel: 碳钢
+  Black Steel: 黑钢
   Black Vitriol: 硫酸铁
   Blaze: 烈焰棒
   Blaze Quartz: 烈焰石英
@@ -794,7 +794,7 @@ material:
   Cryotheum: 凛冰
   Crystalline Almandine: 铁铝榴石
   Crystalline Amber: 琥珀
-  Crystalline Amethyst: 紫水晶
+  Crystalline Amethyst: 紫晶
   Crystalline Andradite: 钙铁榴石
   Crystalline Anthracite: 结晶无烟煤
   Crystalline Anti-Vibranium: 反物质振金
@@ -814,7 +814,7 @@ material:
   Crystalline Dioptase: 结晶翠铜石
   Crystalline Emerald: 绿宝石
   Crystalline Empty: 空
-  Crystalline Ender Amethyst: 紫水晶
+  Crystalline Ender Amethyst: 末影紫晶
   Crystalline Endereye: 末影之眼
   Crystalline Enderpearl: 末影珍珠
   Crystalline Firestone: 火石
@@ -846,7 +846,7 @@ material:
   Crystalline Nether Star: 下界之星
   Crystalline Niter: 硝石
   Crystalline Olivine: 橄榄石
-  Crystalline Opal: 猫眼石
+  Crystalline Opal: 蛋白石
   Crystalline Orange Sapphire: 结晶橙色蓝宝石
   Crystalline Phosphorite: 磷灰石
   Crystalline Phosphorus: 磷
@@ -949,7 +949,7 @@ material:
   Empty Crate: 压缩木
   Enceladus Glowstone: 土卫二萤石
   End: 末地
-  Ender Amethyst: 紫水晶
+  Ender Amethyst: 末影紫晶
   Endereye: 末影之眼
   Enderium: 末影
   Enderium Base: 末影锭粗胚
@@ -1330,7 +1330,7 @@ material:
   Oilshale: 含油页岩
   Olive Oil: 橄榄油
   Olivine: 橄榄石
-  Opal: 猫眼石
+  Opal: 蛋白石
   Orange: 橙色
   Orange CY-11: 橙色试剂Y-11
   Orange Dye: 橙色染料
@@ -1617,7 +1617,7 @@ material:
     value: 黄锡矿
   Steel: 钢
   Steeleaf: 钢叶
-  Sterling Silver: 标准银
+  Sterling Silver: 标准纯银
   Stibnite:
   - regex: S:oredict.(crushed|ore).+
     value: 辉锑
@@ -1962,7 +1962,7 @@ material:
   Wollastonite: 硅灰石
   Wood: 木
   Wood Pulp: 锯末
-  Wrought Iron: 熟铁
+  Wrought Iron: 锻铁
   Wulfenite:
   - regex: S:oredict.(crushed|ore).+
     value: 钼铅
@@ -1991,7 +1991,7 @@ material:
   Cyan Energium: 青色能量水晶
   Wood Planks: 木板
   Wood Slab: 木半砖
-  Ultimet: 无尽
+  Ultimet: 哈式合金
   Bedrockium: 基岩
   Octine: 炽炎铁
   Valonite: 法罗钠
