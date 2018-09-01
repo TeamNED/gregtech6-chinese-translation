@@ -23,7 +23,7 @@ material:
   Amber: 琥珀
   Americium: 镅
   Americium-241: 镅-241
-  Amethyst: 紫晶
+  Amethyst: 紫水晶
   Ammonia: 氨
   Amnesic Wax: 遗忘蜜蜡
   Amordrine: 魔力之石
@@ -805,7 +805,7 @@ material:
   Crystalline Blue Topaz: 蓝色黄玉
   Crystalline Certus Quartz: 赛特斯石英
   Crystalline Charcoal: 木炭
-  Crystalline Charged Certus Quartz: 充能的赛特斯石英
+  Crystalline Charged Certus Quartz: 充能赛特斯石英
   Crystalline Coal: 煤
   Crystalline Coal Coke: 焦煤
   Crystalline Craponite: 焦屎石
@@ -1065,10 +1065,10 @@ material:
   Ground Almond: 碎杏仁
   Ground Black Pepper: 黑胡椒末
   Ground Cinnamon: 肉桂粉
-  Ground Hazelnut: 榛子碎
+  Ground Hazelnut: 碎榛子
   Ground Nutmeg: 肉豆蔻粉
   Ground Peanut: 碎花生
-  Ground Pistachio: 开心果碎
+  Ground Pistachio: 碎开心果
   Ground Potato: 土豆泥
   Ground Vanilla: 香草粉
   Gunpowder: 火药
@@ -1097,7 +1097,7 @@ material:
   Holy Water: 圣水
   Honey: 蜂蜜
   Honeydew: 蜂蜜滴
-  Hot Frying Oil: 热炸油
+  Hot Frying Oil: 热食用油
   Huebnerite:
   - regex: S:oredict.(crushed|ore).+
     value: 钨锰
@@ -1176,7 +1176,7 @@ material:
   Lapis: 青金石
   Larch: 落叶松
   Large Ice Cube: 冰
-  Latex: 天然橡胶
+  Latex: 胶乳
   Lava: 岩浆
   Lavender Quartz: 熏香石英
   Lawrencium: 铹
@@ -1285,7 +1285,7 @@ material:
   Moon Turf: 月面草皮
   Morganite: 铯绿柱石
   Moscovium: 镆
-  Mossy: 长满苔藓的
+  Mossy: 苔痕
   Naquadah: 硅岩金属
   Naquadria: 硅岩金属化合物
   Neodymium: 钕
@@ -1617,7 +1617,7 @@ material:
     value: 黄锡矿
   Steel: 钢
   Steeleaf: 钢叶
-  Sterling Silver: 标准纯银
+  Sterling Silver: 纯银
   Stibnite:
   - regex: S:oredict.(crushed|ore).+
     value: 辉锑
@@ -1991,7 +1991,7 @@ material:
   Cyan Energium: 青色能量水晶
   Wood Planks: 木板
   Wood Slab: 木半砖
-  Ultimet: 哈式合金
+  Ultimet: 哈氏合金
   Bedrockium: 基岩
   Octine: 炽炎铁
   Valonite: 法罗钠
@@ -2081,14 +2081,14 @@ energy_tier:
 
 item_has_energy_tier:
   Red Energium: 能量水晶
-  Cyan Energium: 青色能量水晶
+  Cyan Energium: 青能水晶
   Lead-Acid Battery: 铅酸电池
   Nickel-Cadmium Battery: 镍镉电池
   Lithium-Cobalt Battery: 钴酸锂电池
-  Lithium-Manganese Battery: 锂锰电池单元
+  Lithium-Manganese Battery: 锂锰电池
   Alkaline Battery: 碱性电池
   Red Energium Crystal: 能量水晶
-  Cyan Energium Crystal: 青色能量水晶
+  Cyan Energium Crystal: 青能水晶
 
 TOP_LEVEL:
   Wood Planks: 木板
@@ -2141,7 +2141,7 @@ dust_type:
 
 ingot_type:
   Hot: 热
-  Double: 两重
+  Double: 双重
   Triple: 三重
   Quadruple: 四重
   Quintuple: 五重
@@ -2164,6 +2164,6 @@ gem_tier:
   Legendary: 传奇
 
 bullet_type:
-  Small: 小型
-  Medium: 中型
-  Large: 大型
+  Small: 小号
+  Medium: 中号
+  Large: 大号
