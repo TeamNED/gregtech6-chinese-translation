@@ -1,12 +1,12 @@
 # uncatagorized
 - key: S:oredict.crateGt.+
   priority: 5000
-  repl: '{material}板条箱'
+  repl: "{material}板条箱"
   token: item
   value: Crate of (?P<material>.+)
 - key: S:gt.material.+
   priority: 1000
-  repl: '{material}'
+  repl: "{material}"
   token: item
   value: (?P<material>.+)
 - key: S:gt.material.Any.+
@@ -21,17 +21,17 @@
   value: Molten (?P<material>.+)
 - key: S:oredict.plantGtBlossom.+
   priority: 1000
-  repl: '{material}花'
+  repl: "{material}花"
   token: item
   value: (?P<material>.+) Blossom
 - key: S:oredict.plantGtBerry.+
   priority: 1000
-  repl: '{material}莓'
+  repl: "{material}莓"
   token: item
   value: (?P<material>.+) Berry
 - key: S:oredict.plantGtWart.+
   priority: 1000
-  repl: '{material}疣'
+  repl: "{material}疣"
   token: item
   value: (?P<material>.+) Wart
 - key: S:oredict.plantGtFiber.+
@@ -41,22 +41,22 @@
   value: Raw (?P<material>.+) Fiber
 - key: S:oredict.plantGtTwig.+
   priority: 1000
-  repl: '{material}细枝'
+  repl: "{material}细枝"
   token: item
   value: (?P<material>.+) Twig
 - key: S:oredict.bolt.+
   priority: 1000
-  repl: '{material}螺栓'
+  repl: "{material}螺栓"
   token: item
   value: (?P<material>.+) Bolt
 - key: S:oredict.bolt.+
   priority: 1000
-  repl: '短{material}杆'
+  repl: "短{material}杆"
   token: item
   value: Short (?P<material>.+) Stick
 - key: S:oredict.screw.+
   priority: 1000
-  repl: '{material}螺丝'
+  repl: "{material}螺丝"
   token: item
   value: (?P<material>.+) Screw
 - key: S:oredict.stickLong.+
@@ -66,37 +66,37 @@
   value: Long (?P<material>.+) (Rod|Stick)
 - key: S:oredict.stick.+
   priority: 1000
-  repl: '{material}杆'
+  repl: "{material}杆"
   token: item
   value: (?P<material>.+) (Rod|Stick)
 - key: S:oredict.casingSmall.+
   priority: 1000
-  repl: '{material}外壳'
+  repl: "{material}外壳"
   token: item
   value: (?P<material>.+) Item Casing
 - key: S:oredict.casingMachine.+
   priority: 1000
-  repl: '{material}机械外壳'
+  repl: "{material}机械外壳"
   token: item
   value: (?P<material>.+) Machine Casing
 - key: S:oredict.cell.+
   priority: 1000
-  repl: '{material}单元'
+  repl: "{material}单元"
   token: item
   value: (?P<material>.+) Cell
 - key: S:oredict.foil.+
   priority: 1000
-  repl: '{material}箔'
+  repl: "{material}箔"
   token: item
   value: (?P<material>.+) Foil
 - key: S:oredict.ring.+
   priority: 1000
-  repl: '{material}环'
+  repl: "{material}环"
   token: item
   value: (?P<material>.+) Ring
 - key: S:oredict.gearGt.+
   priority: 1000
-  repl: '{material}齿轮'
+  repl: "{material}齿轮"
   token: item
   value: (?P<material>.+) Gear
 - key: S:oredict.gearGtSmall.+
@@ -106,17 +106,17 @@
   value: Small (?P<material>.+) Gear
 - key: S:oredict.chemtube.+
   priority: 1000
-  repl: '{material}试管'
+  repl: "{material}试管"
   token: item
   value: Glass Tube containing (?P<material>.+)
 - key: S:oredict.arrowGtWood.+
   priority: 1000
-  repl: '{material}箭'
+  repl: "{material}箭"
   token: item
   value: (?P<material>.+) Arrow
 - key: S:oredict.lens.+
   priority: 1000
-  repl: '{material}透镜'
+  repl: "{material}透镜"
   token: item
   value: (?P<material>.+) Lens
 - key: S:oredict.arrowGtPlastic.+
@@ -126,32 +126,32 @@
   value: Light (?P<material>.+) Arrow
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}箭头'
+  repl: "{material}箭头"
   token: item
   value: (?P<material>.+) Arrow Head
 - key: S:oredict.tool.+
   priority: 2000
-  repl: '{material}毛坯'
+  repl: "{material}毛坯"
   token: item
   value: Raw (?P<material>.+)
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}斧头'
+  repl: "{material}斧头"
   token: item
   value: (?P<material>.+) Axe Head
 - key: S:oredict.toolHead.+
   priority: 1500
-  repl: '{material}双刃斧头'
+  repl: "{material}双刃斧头"
   token: item
   value: (?P<material>.+) Double Axe Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}锤头'
+  repl: "{material}锤头"
   token: item
   value: (?P<material>.+) Hammer Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}锄头'
+  repl: "{material}锄头"
   token: item
   value: (?P<material>.+) Hoe Head
 - key: S:oredict.toolHead.+
@@ -161,82 +161,82 @@
   value: (?P<material>.+) tipped Pickaxe Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}镐头'
+  repl: "{material}镐头"
   token: item
   value: (?P<material>.+) Pickaxe Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}犁头'
+  repl: "{material}犁头"
   token: item
   value: (?P<material>.+) Plow Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}镰刀片'
+  repl: "{material}镰刀片"
   token: item
   value: (?P<material>.+) Sense Blade
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}铲头'
+  repl: "{material}铲头"
   token: item
   value: (?P<material>.+) Spade Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}锹头'
+  repl: "{material}锹头"
   token: item
   value: (?P<material>.+) Shovel Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}凿子头'
+  repl: "{material}凿子头"
   token: item
   value: (?P<material>.+) Chisel Head
 - key: S:oredict.toolHead.+
   priority: 1100
-  repl: '{material}建筑镐头'
+  repl: "{material}建筑镐头"
   token: item
   value: (?P<material>.+) Construction Pickaxe Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}剑身'
+  repl: "{material}剑身"
   token: item
   value: (?P<material>.+) Sword Blade
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}圆锯片'
+  repl: "{material}圆锯片"
   token: item
   value: (?P<material>.+) Buzzsaw Blade
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}钻头'
+  repl: "{material}钻头"
   token: item
   value: (?P<material>.+) Drill Tip
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}锉刀头'
+  repl: "{material}锉刀头"
   token: item
   value: (?P<material>.+) File Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}电锯头'
+  repl: "{material}电锯头"
   token: item
   value: (?P<material>.+) Chainsaw Tip
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}狼牙棒槌头'
+  repl: "{material}狼牙棒槌头"
   token: item
   value: (?P<material>.+) Mace Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}鹤嘴锄头'
+  repl: "{material}鹤嘴锄头"
   token: item
   value: (?P<material>.+) Mattock Head
 - key: S:oredict.shuriken.+
   priority: 1000
-  repl: '{material}飞镖'
+  repl: "{material}飞镖"
   token: item
   value: (?P<material>.+) Shuriken
 - key: S:oredict.spring.+
   priority: 1000
-  repl: '{material}弹簧'
+  repl: "{material}弹簧"
   token: item
   value: (?P<material>.+) Spring
 - key: S:oredict.springSmall.+
@@ -246,22 +246,22 @@
   value: Small (?P<material>.+) Spring
 - key: S:oredict.toolHead.+
   priority: 1100
-  repl: '{material}万用铲头'
+  repl: "{material}万用铲头"
   token: item
   value: (?P<material>.+) Universal Spade Head
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}锯片'
+  repl: "{material}锯片"
   token: item
   value: (?P<material>.+) Saw Blade
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}螺丝刀头'
+  repl: "{material}螺丝刀头"
   token: item
   value: (?P<material>.+) Screwdriver Tip
 - key: S:oredict.toolHead.+
   priority: 1000
-  repl: '{material}扳手头'
+  repl: "{material}扳手头"
   token: item
   value: (?P<material>.+) Wrench Tip
 - key: S:oredict.wireFine.+
@@ -271,37 +271,37 @@
   value: Fine (?P<material>.+) Wire
 - key: S:oredict.rotor.+
   priority: 1000
-  repl: '{material}转子'
+  repl: "{material}转子"
   token: item
   value: (?P<material>.+) Rotor
 - key: S:oredict.round.+
   priority: 1000
-  repl: '{material}垫片'
+  repl: "{material}垫片"
   token: item
   value: (?P<material>.+) Round
 - key: S:oredict.minecartWheels.+
   priority: 1000
-  repl: '{material}车轮'
+  repl: "{material}车轮"
   token: item
   value: (?P<material>.+) Cart Wheels
 - key: S:oredict.chain.+
   priority: 1000
-  repl: '{material}锁链'
+  repl: "{material}锁链"
   token: item
   value: (?P<material>.+) Chains
 - key: S:oredict.link.+
   priority: 1000
-  repl: '{material}链环'
+  repl: "{material}链环"
   token: item
   value: (?P<material>.+) Link
 - key: S:oredict.railGt.+
   priority: 1000
-  repl: '{material}导轨'
+  repl: "{material}导轨"
   token: item
   value: (?P<material>.+) Rail
 - key: S:oredict.scrapGt.+
   priority: 1000
-  repl: '{material}废料'
+  repl: "{material}废料"
   token: item
   value: (?P<material>.+) Scrap
 - key: S:oredict.rockGt.+
@@ -313,44 +313,44 @@
 # ores
 - key: S:oredict.ore.+
   priority: 2000
-  repl: '{stratum_prefix}{material}矿石'
+  repl: "{stratum_prefix}{material}矿石"
   token: ore
   value: (?P<stratum_prefix>[^ ]+) (?P<material>.+) (Ore|Stone)
 - key: S:oredict.ore.+
   priority: 1000
-  repl: '{stratum_prefix}{material}矿石'
+  repl: "{stratum_prefix}{material}矿石"
   token: ore
   value: (?P<stratum_prefix>[^ ]+) (?P<material>.+)
 - key: S:oredict.ore.+
   priority: 2000
-  repl: '{material}{stratum_suffix}'
+  repl: "{material}{stratum_suffix}"
   token: ore
   value: (?P<stratum_suffix>[^ ]+) (?P<material>.+) (Ore|Stone)
 
 # blocks
 - key: S:oredict.block.+
   priority: 2000
-  repl: '{material}块'
+  repl: "{material}块"
   token: item
   value: Block of (?P<material>.+)
 - key: S:oredict.blockDust.+
   priority: 3000
-  repl: '{material}粉块'
+  repl: "{material}粉块"
   token: item
   value: Block of (?P<material>.+) (Dust|Powder)$
 - key: S:oredict.blockDust.+
   priority: 2900
-  repl: '{material}粉块'
+  repl: "{material}粉块"
   token: item
   value: Block of (?P<material>.+)$
 - key: S:oredict.blockIngot.+
   priority: 3000
-  repl: '{material}锭块'
+  repl: "{material}锭块"
   token: item
   value: Block of (?P<material>.+) (Ingot)?$
 - key: S:oredict.blockPlate.+
   priority: 3000
-  repl: '{material}板块'
+  repl: "{material}板块"
   token: item
   value: Block of (?P<material>.+) Plates?$
 - key: S:oredict.blockSolid.+
@@ -360,37 +360,37 @@
   value: Block of solid (?P<material>.+)$
 - key: S:oredict.(block|dust|crateGt).+
   priority: 500
-  repl: '{material}粉'
+  repl: "{material}粉"
   token: item
   value: (?P<material>.+) (Dust|Powder)
 - key: S:oredict.dust.+
   priority: 100
-  repl: '{material}'
+  repl: "{material}"
   token: item
   value: (?P<material>.+)
 - key: S:oredict.dust.+
   priority: 2000
-  repl: '{dust_type}{material}'
+  repl: "{dust_type}{material}"
   token: item
   value: (?P<dust_type>.+) of (?P<material>.+)$
 - key: S:oredict.(block|plate|crateGt).+
   priority: 500
-  repl: '{material}板'
+  repl: "{material}板"
   token: item
   value: (?P<material>.+) (Plate|Plank)
 - key: S:oredict.nugget.+
   priority: 1000
-  repl: '{material}粒'
+  repl: "{material}粒"
   token: item
   value: (?P<material>.+) Nugget
 - key: S:oredict.chunkGt.+
   priority: 1000
-  repl: '{material}小块'
+  repl: "{material}小块"
   token: item
   value: (?P<material>.+) Chunk
 - key: S:oredict.(block|ingot|crateGt).+
   priority: 500
-  repl: '{material}锭'
+  repl: "{material}锭"
   token: item
   value: (?P<material>.+) Ingot
 - key: S:oredict.*[Gg]em.*
@@ -399,10 +399,9 @@
   token: item
   value: Crystalline (?P<material>.+)
 
-
 - key: S:oredict.ingot.+
   priority: 1000
-  repl: '{ingot_type}{material}锭'
+  repl: "{ingot_type}{material}锭"
   token: item
   value: (?P<ingot_type>[^ ]+) (?P<material>.+) Ingot
 
@@ -456,10 +455,10 @@
 # crushed ores
 - key: S:oredict.crushed.+
   priority: 1000
-  repl: '{crushed_ore_type}{material}矿石'
+  repl: "{crushed_ore_type}{material}矿石"
   token: crushed_ore
   value: (?P<crushed_ore_type>[^ ]+) (?P<material>.+) Ore
-- key: 'S:oredict.crushed.*Tiny.+'
+- key: "S:oredict.crushed.*Tiny.+"
   priority: 1100
   repl: 小撮{crushed_ore_type}
   token: tiny_crushed_ore
@@ -467,60 +466,60 @@
 
 - key: S:gt.block.(beam|log|planks).+
   priority: 1500
-  repl: '{material} (防火)'
+  repl: "{material} (防火)"
   token: item
   value: (?P<material>.+) \(Fireproof\)
 - key: S:gt.block.beam.+
   priority: 1000
-  repl: '{material}梁'
+  repl: "{material}梁"
   token: item
   value: (?P<material>.+) Beam
 - key: S:gt.block.log.+
   priority: 1000
-  repl: '{material}原木'
+  repl: "{material}原木"
   token: item
   value: (?P<material>.+) Log
 - key: S:gt.block.planks.+
   priority: 1000
-  repl: '{material}木板'
+  repl: "{material}木板"
   token: item
   value: (?P<material>.+) Planks?
 - key: S:gt.block.planks.+
   priority: 1000
-  repl: '{material}木半砖'
+  repl: "{material}木半砖"
   token: item
   value: (?P<material>.+) Slab
 - key: S:gt.multitileentity.+
   priority: 1000
-  repl: '{material} (青铜)'
+  repl: "{material} (青铜)"
   token: item
   value: (?P<material>.+) \(Bronze\)
 - key: S:gt.multitileentity.+
   priority: 1000
-  repl: '{material} (钢)'
+  repl: "{material} (钢)"
   token: item
   value: (?P<material>.+) \(Steel\)
 - key: S:gt.multitileentity.+
   priority: 1000
-  repl: '{material} (钛)'
+  repl: "{material} (钛)"
   token: item
   value: (?P<material>.+) \(Titanium\)
 - key: S:gt.multitileentity.+
   priority: 1000
-  repl: '{material} (钨钢)'
+  repl: "{material} (钨钢)"
   token: item
   value: (?P<material>.+) \(Tungstensteel\)
 
 - key: S:gt.multitileentity.+
   priority: 1000
-  repl: '{material}喷嘴'
+  repl: "{material}喷嘴"
   token: item
-  value: (?P<material>.+) Nozzle 
+  value: (?P<material>.+) Nozzle
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
   priority: 2000
-  repl: '{material} ({bumblebee_status})'
+  repl: "{material} ({bumblebee_status})"
   token: bumblebee
   value: (?P<material>.+) \((?P<bumblebee_status>.+)\)
 - key: S:gt.multiitem.bumblebee.+
@@ -535,17 +534,17 @@
   value: (?P<material>.+) Princess
 - key: S:gt.multiitem.bumblebee.+
   priority: 1500
-  repl: '{material}蜂后'
+  repl: "{material}蜂后"
   token: item
   value: (?P<material>.+) Queen
 - key: S:gt.multiitem.bumblebee.+
   priority: 1000
-  repl: '{material}大黄蜂'
+  repl: "{material}大黄蜂"
   token: item
   value: Bumble (?P<material>.+)
 - key: S:gt.multiitem.bumblebee.+
   priority: 1000
-  repl: '{material}大黄蜂'
+  repl: "{material}大黄蜂"
   token: item
   value: (?P<material>.+) Bumblebee
 #- key: S:gt.multiitem.food.+
@@ -553,21 +552,21 @@
 #  repl: '{material}蜂巢'
 #  token: item
 #  value: (?P<material>.+) Comb
-  
+
 # concrete
 - key: S:gt.block.concrete.+
   priority: 1000
-  repl: '{material}混凝土'
+  repl: "{material}混凝土"
   token: item
   value: (?P<material>.+) Concrete
 - key: S:gt.block.concrete.+
   priority: 1000
-  repl: '{material}强化混凝土'
+  repl: "{material}强化混凝土"
   token: item
   value: (?P<material>.+) Reinforced Concrete
 - key: S:gt.block.concrete.+
   priority: 2000
-  repl: '{material}半砖'
+  repl: "{material}半砖"
   token: item
   value: (?P<material>.+) Slab
 
@@ -579,59 +578,80 @@
   value: Advanced (?P<material>.+)
 - key: S:fluid.cfoam.+
   priority: 1000
-  repl: '{material}建筑泡沫'
+  repl: "{material}建筑泡沫"
   token: item
   value: (?P<material>.+) C-Foam
 
 # gem
 - key: S:oredict.gem.+
   priority: 1000
-  repl: '{gem_tier}{material}'
+  repl: "{gem_tier}{material}"
   token: gem
   value: (?P<gem_tier>[^ ]+) (?P<material>.+)\s*(Crystal)?
 
 # bullet
 - key: S:oredict.bulletGt.+
   priority: 1000
-  repl: '{bullet_type}{material}子弹'
+  repl: "{bullet_type}{material}子弹"
   token: bullet
   value: (?P<bullet_type>[^ ]+) (?P<material>.+) Bullet
 
+# multitileentity
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "熔炼坩埚 ({material})"
+  token: cruible
+  value: Smelting Crucible \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "模具 ({material})"
+  token: mold
+  value: Mold \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "坩埚浇铸口 ({material})"
+  token: crucible_faucet
+  value: Crucible Faucet \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "浇铸盆 ({material})"
+  token: basin
+  value: Basin \((?P<material>.+)\)
 
 # qt
 - key: S:qwertech.machines.+
   priority: 1000
-  repl: '{material}合成站'
+  repl: "{material}合成站"
   token: item
   value: (?P<material>.+) Crafting Table
 - key: S:qwertech.machines.+
   priority: 1000
-  repl: '{material}操作台'
+  repl: "{material}操作台"
   token: countertop
   value: (?P<material>.+) Countertop
 - key: S:qwertech.machines.+
   priority: 900
-  repl: '{material}圆石'
+  repl: "{material}圆石"
   token: countertop
   value: (?P<material>.+) Cobblestone
 - key: S:qwertech.machines.+
   priority: 900
-  repl: '光滑{countertop}'
+  repl: "光滑{countertop}"
   token: countertop
   value: Smooth (?P<countertop>.+)
 - key: S:qwertech.machines.+
   priority: 1000
-  repl: '{material}合成砧'
+  repl: "{material}合成砧"
   token: item
   value: (?P<material>.+) Crafting Anvil
 - key: S:qwertech.machines.+
   priority: 1000
-  repl: '{material}升级台'
+  repl: "{material}升级台"
   token: item
   value: (?P<material>.+) Upgrade Desk
 - key: S:qwertech.machines.+
   priority: 1000
-  repl: '{material}堆肥桶'
+  repl: "{material}堆肥桶"
   token: item
   value: (?P<material>.+) Compost Bin
 - key: S:qwertech.armor.upgrades.+

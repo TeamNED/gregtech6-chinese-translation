@@ -1306,7 +1306,11 @@ material:
   Nikolite: 蓝石
   Niobium: 铌
   Niobium Nitride: 氮化铌
-  Niobium Titanium: 铌钛
+  Niobium Titanium:
+  - regex: S:gt.multitileentity.+
+    value: 铌钛合金
+  - regex: .*
+    value: 铌钛
   Niter: 硝石
   Nitric Acid: 硝酸
   Nitro Carbon: 氮化碳
@@ -1628,7 +1632,11 @@ material:
     value: 钨铅
   - regex: .*
     value: 钨铅矿
-  Stone: 石
+  Stone:
+  - regex: S:gt.multitileentity.+
+    value: 石头
+  - regex: .*
+    value: 石
   Stoned: 石化
   Strontium: 锶
   Subnautic: 深海
@@ -1670,7 +1678,11 @@ material:
   - regex: .*
     value: 黝铜矿
   Thallium: 铊
-  Thaumium: 神秘
+  Thaumium:
+  - regex: S:gt.multitileentity.+
+    value: 神秘锭
+  - regex: .*
+    value: 神秘
   Thorium: 钍
   Thulium: 铥
   Tin: 锡
@@ -2060,6 +2072,14 @@ material:
   White Elm: 榆树
   Uran: 乌兰
   Anti-Uran: 反物质乌兰
+  Skyroot: 天根木
+  Darkwood: 黑树
+  Ambrosium: 神能晶
+  Continuum: 命运
+  Gravitite: 重力晶
+  Holystone: 圣石
+  Shimmerwood: 微光木
+  Zanite: 紫晶
 
 
 energy_tier:

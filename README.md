@@ -1,23 +1,26 @@
-# 格雷科技6简体中文本地化项目 
+# 格雷科技 6 简体中文本地化项目
+
 # Simplified Chinese Translation Project for GregTech 6
 
 ![Build Status](https://travis-ci.org/MoHaDouBiTeam/gregtech6-chinese-translation.svg?branch=master)
 
-GregTech6汉化项目，欢迎加入。
+GregTech6 汉化项目，欢迎加入。
 
-当前适配版本为v6.08.00，内置兼容QwerTech-1.0.0-a.32
+当前适配版本为 v6.09.01，内置兼容 QwerTech-1.0.0-a.35
 
-Currently updated to GT 6.08.00, with built-in support for QwerTech-1.0.0-a.32
+Currently updated to GT 6.09.01, with built-in support for QwerTech-1.0.0-a.35
 
-[Weblate翻译服务器传送门](https://weblate.exz.me/projects/gregtech/)
+[Weblate 翻译服务器传送门](https://weblate.exz.me/projects/gregtech/)
 
 ## 使用方法 Usage
 
 0. 格雷科技的语言文件是.minecraft/Gregtech.lang。
-1. [在这里下载最新的GregTech.lang](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/releases/latest)
-2. 将GregTech.lang拷贝到./minecraft下，覆盖原来的GregTech.lang
-3. 启动游戏，汉化生效
+1. [在这里下载最新的 GregTech.lang](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/releases/latest)
+1. 将 GregTech.lang 拷贝到./minecraft 下，覆盖原来的 GregTech.lang
+1. 启动游戏，汉化生效
+
 ---
+
 1. [Download Latest Translation file Gregtech.lang](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/releases/latest)
 2. Use downloaded Gregtech.lang to replace .minecraft/Gregtech.lang
 3. Restart your game and see the results.
@@ -34,8 +37,8 @@ Welcome to our [Current Status Board](https://github.com/MoHaDouBiTeam/gregtech6
 
 ## 鸣谢 Credits
 
-原始文件源自Amamiya组
+原始文件源自 Amamiya 组
 
-感谢`phi`提供了Weblate服务器
+感谢`phi`提供了 Weblate 服务器
 
-感谢`phi`和`酒石酸菌`以及CPFAOrg的各位提供的技术支持
+感谢`phi`和`酒石酸菌`以及 CPFAOrg 的各位提供的技术支持
