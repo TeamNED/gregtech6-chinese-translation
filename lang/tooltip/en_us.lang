@@ -1842,6 +1842,9 @@ S:gt.tooltip.coins.3=Render Lag for your System.
 S:gt.tooltip.energybattery.1=Selector Covers can set the amount of emitted Packets
 S:gt.tooltip.energybattery.2=Mode 0 = Emit as much as possible, this is Default
 S:gt.tooltip.energybattery.3=Mode 1 - 15 = Emit up to 1 - 15 Packets if enough Energy Storages
+S:gt.tooltip.gearbox.custom.1=Gears are interlocked wrongly!
+S:gt.tooltip.gearbox.custom.2=Use Wrench to mount Gears from your Inventory
+S:gt.tooltip.gearbox.custom.3=Use Monkeywrench to change Axle Direction
 S:gt.tooltip.multiblock.bedrockdrill.1=3x3 Base of Bedrock Mining Drill Heads centered ontop Bedrock Ores
 S:gt.tooltip.multiblock.bedrockdrill.2=Full 3x4x3 of Dense Titanium Walls ontop
 S:gt.tooltip.multiblock.bedrockdrill.3=Main top-center inside the Titanium Tower facing upwards
