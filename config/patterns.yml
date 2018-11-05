@@ -616,6 +616,11 @@
   repl: "单元式流体容器 ({material})"
   token: item
   value: Capsule-Cell-Container \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "旋转动能引擎 ({material})"
+  token: item
+  value: (?P<material>.+) Rotation Engine
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
