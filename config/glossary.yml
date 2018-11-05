@@ -1009,6 +1009,7 @@ material:
   Fullers Earth: 漂白土
   Gabbro: 辉长岩
   Gadolinium: 钆
+  Gaia: 盖亚
   Gaia Spirit: 盖亚之魂
   Galena:
   - regex: S:oredict.(crushed|ore).+
@@ -2084,6 +2085,7 @@ material:
   Light Prismarine: 海晶石
   Peanut Wood: 花生木
   Peanut Wood Pulp: 花生木锯末
+  Wooden: 木制
 
 
 energy_tier:

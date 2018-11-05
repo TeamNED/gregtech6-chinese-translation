@@ -489,6 +489,8 @@
   repl: "{material}木半砖"
   token: item
   value: (?P<material>.+) Slab
+
+# multitileentity
 - key: S:gt.multitileentity.+
   priority: 1000
   repl: "{material} (青铜)"
@@ -509,12 +511,111 @@
   repl: "{material} (钨钢)"
   token: item
   value: (?P<material>.+) \(Tungstensteel\)
-
 - key: S:gt.multitileentity.+
   priority: 1000
   repl: "{material}喷嘴"
   token: item
   value: (?P<material>.+) Nozzle
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}物流管道"
+  token: item
+  value: (?P<material>.+) Item Pipe
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}流体管道"
+  token: item
+  value: (?P<material>.+) Fluid Pipe
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "微型{material}"
+  token: item
+  value: Tiny (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "小型{material}"
+  token: item
+  value: Small (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "中型{material}"
+  token: item
+  value: Medium (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "大型{material}"
+  token: item
+  value: Large (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "巨型{material}"
+  token: item
+  value: Huge (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "四合一{material}"
+  token: item
+  value: Quadruple (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "九合一{material}"
+  token: item
+  value: Nonuple (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "限制{material}"
+  token: item
+  value: Restrictive (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 2000
+  repl: "大型限制{material}"
+  token: item
+  value: Restrictive Large (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 2000
+  repl: "巨型限制{material}"
+  token: item
+  value: Restrictive Huge (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}轴"
+  token: item
+  value: (?P<material>.+) Axle
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}轴"
+  token: item
+  value: (?P<material>.+) Axle
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}变速箱"
+  token: item
+  value: (?P<material>.+) Transformer Gearbox
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}可调变速箱"
+  token: item
+  value: Custom (?P<material>.+) Gearbox
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}储罐"
+  token: item
+  value: (?P<material>.+) Barrel
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}储罐"
+  token: item
+  value: (?P<material>.+) Drum
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}储物桶"
+  token: item
+  value: (?P<material>.+) Item Barrel
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "单元式流体容器 ({material})"
+  token: item
+  value: Capsule-Cell-Container \((?P<material>.+)\)
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
@@ -737,3 +838,80 @@
   repl: "{material}队列料斗"
   token: machine
   value: (?P<material>.+) Queue Hopper
+
+# gt.stone
+- key: S:gt.stone.+
+  priority: 1000
+  repl: "{material}"
+  token: material
+  value: (?P<material>.+)
+- key: S:gt.stone.+
+  priority: 1500
+  repl: "{material}圆石"
+  token: material
+  value: (?P<material>.+) Cobblestone
+- key: S:gt.stone.+
+  priority: 1500
+  repl: "{material}方块"
+  token: material
+  value: (?P<material>.+) Tiles
+- key: S:gt.stone.+
+  priority: 1500
+  repl: "{material}砖块"
+  token: material
+  value: (?P<material>.+) Bricks
+- key: S:gt.stone.+
+  priority: 1500
+  repl: "{material}风车纹砖块A"
+  token: material
+  value: (?P<material>.+) Windmill Tiles A
+- key: S:gt.stone.+
+  priority: 1500
+  repl: "{material}风车纹砖块B"
+  token: material
+  value: (?P<material>.+) Windmill Tiles B
+- key: S:gt.stone.+
+  priority: 1500
+  repl: "{material}方砖"
+  token: material
+  value: (?P<material>.+) Square Bricks
+- key: S:gt.stone.+
+  priority: 2000
+  repl: "{material}台阶"
+  token: material
+  value: (?P<material>.+) Slab
+- key: S:gt.stone.+
+  priority: 3000
+  repl: "苔藓{material}"
+  token: material
+  value: Mossy (?P<material>.+)
+- key: S:gt.stone.+
+  priority: 3000
+  repl: "小型{material}"
+  token: material
+  value: Small (?P<material>.+)
+- key: S:gt.stone.+
+  priority: 3000
+  repl: "裂纹{material}"
+  token: material
+  value: Cracked (?P<material>.+)
+- key: S:gt.stone.+
+  priority: 3000
+  repl: "錾制{material}"
+  token: material
+  value: Chiseled (?P<material>.+)
+- key: S:gt.stone.+
+  priority: 3000
+  repl: "平滑{material}"
+  token: material
+  value: Smooth (?P<material>.+)
+- key: S:gt.stone.+
+  priority: 3000
+  repl: "钢筋{material}"
+  token: material
+  value: Reinforced (?P<material>.+)
+- key: S:gt.stone.+
+  priority: 3000
+  repl: "红石化{material}"
+  token: material
+  value: Redstoned (?P<material>.+)
