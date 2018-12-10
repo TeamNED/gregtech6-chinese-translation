@@ -1,3 +1,6 @@
+S:gt.recipe.anvil=砧
+S:gt.recipe.anvil.bend.big=在砧上弯曲敲打 (大)
+S:gt.recipe.anvil.bend.small=在砧上弯曲敲打 (小)
 S:gt.recipe.assembler=组装机
 S:gt.recipe.autoclave=高压釜
 S:gt.recipe.autocrafting=自动合成

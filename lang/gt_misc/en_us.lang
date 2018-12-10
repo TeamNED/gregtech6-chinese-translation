@@ -94,6 +94,7 @@ S:gt.crop.whitegrapes=White Grapes
 S:gt.crop.withereed=Withereed
 S:gt.crop.yellowappletree=Yellow Apple Tree
 S:gt.display.fluid.name=Fluid Display
+S:gt.empty_slot.name=Empty Slot
 S:gt.integrated_circuit.name=Selector Tag
 S:gt.research.page.1.GT_ADVANCEDMETALLURGY=Now that you have discovered all the basic Metals, you can finally move on to the next Level of Magic Metallurgy and create more advanced Metals
 S:gt.research.page.1.GT_CRYSTALLISATION=Sometimes when processing your Crystal Shards, they become a pile of Dust instead of the mostly wanted Shard.<BR><BR>You have finally found a way to reverse this Process by using Vitreus Essentia for recrystallising the Shards.

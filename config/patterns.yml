@@ -327,7 +327,14 @@
   token: ore
   value: (?P<stratum_suffix>[^ ]+) (?P<material>.+) (Ore|Stone)
 
-# blocks
+# gt_block
+- key: S:gt.block.bars.+
+  priority: 1000
+  repl: "{material}栏杆"
+  token: item
+  value: (?P<material>.+) Bars
+
+# oredict
 - key: S:oredict.block.+
   priority: 2000
   repl: "{material}块"
@@ -621,6 +628,11 @@
   repl: "旋转动能引擎 ({material})"
   token: item
   value: (?P<material>.+) Rotation Engine
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}砧"
+  token: item
+  value: (?P<material>.+) Anvil
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+

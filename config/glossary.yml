@@ -937,6 +937,7 @@ material:
   Elemental Tritanium: 三钛
   Elf: 精灵
   Elven Dragonstone: 精灵龙石
+  Elementium: 源质钢
   Elven Elementium: 源质钢
   Elven Quartz: 精灵石英
   Emeradic: 再构绿宝石水晶
@@ -1018,6 +1019,7 @@ material:
     value: 方铅矿
   Gallium: 镓
   Galvanized Steel: 镀锌钢
+  Garnet: 石榴子石
   Garnet Sand: 石榴子石沙
   Garnierite:
   - regex: S:oredict.(crushed|ore).+
@@ -1053,6 +1055,7 @@ material:
   Gray Dye: 灰色染料
   Gray Vitriol: 硫酸锰
   Greatwood: 宏伟之木
+  Greatwood Pulp: 宏伟之木锯末
   Green: 绿色
   Green CY-11: 绿色试剂Y-11
   Green Dye: 绿色染料
@@ -1566,6 +1569,7 @@ material:
   Silver: 银
   Silver Iodide: 碘化银
   Silverwood: 银树
+  Silverwood Pulp: 银树锯末
   Sintered Tungsten: 结晶钨
   Sluice Sand: 矿物杂质沙
   Smithsonite: 菱锌
@@ -1999,6 +2003,7 @@ material:
   Zebrawood: 斑木
   Zeolite: 沸石
   Zinc: 锌
+  Zircon: 锆石
   Zirconium: 锆
   Red Energium: 能量水晶
   Cyan Energium: 青色能量水晶
@@ -2074,20 +2079,37 @@ material:
   Uran: 乌兰
   Anti-Uran: 反物质乌兰
   Skyroot: 天根木
+  Skyroot Pulp: 天根木锯末
   Darkwood: 黑树
   Ambrosium: 神能晶
   Continuum: 命运
   Gravitite: 重力晶
   Holystone: 圣石
   Shimmerwood: 微光木
+  Shimmerwood Pulp: 微光木锯末
   Zanite: 紫晶
   Dark Prismarine: 深色海晶石
-  Light Prismarine: 海晶石
+  Light Prismarine: 亮色海晶石
+  Dark Prismarine Crystal: 深色海晶石
+  Light Prismarine Crystal: 亮色海晶石
+  Prismarine: 海晶石
   Peanut Wood: 花生木
   Peanut Wood Pulp: 花生木锯末
   Wooden: 木制
   Titanium-Gold: 钛金
-
+  Carbon Trioxide: 三氧化碳
+  Amazonite: 天河石
+  Azurite: 石青
+  Bamboo: 竹
+  Bamboo Pulp: 竹锯末
+  Elvorium: 魔灵
+  Mauftrium: 始源魂灵
+  Muspelheim Power: 炽热魔灵
+  Niflheim Power: 极寒魔灵
+  Black Onyx: 黑色缟玛瑙
+  Red Onyx: 红色缟玛瑙
+  Eudialyte: 异性石
+  Iffesal: 伊夫萨尔
 
 energy_tier:
   ULV: ULV
@@ -2122,12 +2144,13 @@ TOP_LEVEL:
   Wood Slab: 木半砖
 
 stratum_prefix:
-  Andesit: 安山岩
+  Andesite: 安山岩
   Diorite: 闪长岩
   Limestone: 石灰岩
   Marble: 大理石
-  Netherrac: 下界
-  Endston: 末地
+  Netherrack: 下界
+  Endstone: 末地
+  End: 末地
   Vanillagranite: 花岗岩
   Redgranite: 红色花岗岩
   Blackgranite: 黑色花岗岩
@@ -2149,6 +2172,7 @@ stratum_prefix:
   - regex: S:oredict.oreGreenschist.+
     value: 绿片岩
   Stone: 石头
+  Prismarine: 海晶石
 
 
 stratum_suffix:
