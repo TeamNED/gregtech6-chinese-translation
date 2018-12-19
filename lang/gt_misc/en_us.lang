@@ -114,3 +114,4 @@ S:gt.research.page.1.GT_TRANSNICKEL=You have discovered a way to multiply Nickel
 S:gt.research.page.1.GT_TRANSSOLDERINGALLOY=Your discovery of Bronze Transmutation has lead you to the conclusion it works with other Alloys such as Soldering Alloy as well.
 S:gt.research.page.1.GT_TRANSZINC=You have discovered a way to multiply Zinc by steeping Zinc Nuggets in Metallum harvested from other Metals.
 S:gt.research.page.1.GT_WOOD_TO_CHARCOAL=You have discovered a way of making Charcoal magically instead of using Coke Ovens for this purpose.<BR><BR>To create Charcoal from Logs you first need an air-free environment, some vacuus essentia is needed for that, then you need to incinerate the Log using ignis essentia and wait until all the Water inside the Logs is burned away.<BR><BR>This method however doesn't create Creosote as byproduct.
+S:gt.weapon.sneak.rightclick.reload=Sneak Rightclick to Reload

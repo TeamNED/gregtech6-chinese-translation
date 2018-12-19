@@ -114,3 +114,4 @@ S:gt.research.page.1.GT_TRANSNICKEL=你发现了如何从金属提取§5metallum
 S:gt.research.page.1.GT_TRANSSOLDERINGALLOY=青铜嬗变术的发现让你发现了它对其他合金，如钎焊合金同样有效.
 S:gt.research.page.1.GT_TRANSZINC=你发现了如何从金属提取§5metallum§0要素并将其转换为锌粒的方法.
 S:gt.research.page.1.GT_WOOD_TO_CHARCOAL=你发现了一种用魔法的方法而不是通常的加热法来制作木炭.<BR><BR>制作木炭首先要隔绝空气,因此需要一些§6Vacuos要素,其次要用§7ignis§0要素灼烧木头直至其中的水分全部被蒸发.<BR><BR>然而这种方法不会产生杂酚油这样的副产品.
+S:gt.weapon.sneak.rightclick.reload=潜行右击以重新装填

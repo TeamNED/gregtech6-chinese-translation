@@ -6,18 +6,18 @@
 
 GregTech6 汉化项目，欢迎加入。
 
-当前适配版本为 v6.09.12，内置兼容 QwerTech-1.0.0-a.35
+当前适配版本为 v6.09.13，内置兼容 QwerTech-1.0.0-a.41
 
-Currently updated to GT 6.09.12, with built-in support for QwerTech-1.0.0-a.35
+Currently updated to GT 6.09.13, with built-in support for QwerTech-1.0.0-a.41
 
 [Weblate 翻译服务器传送门](https://weblate.exz.me/projects/gregtech/)
 
 ## 使用方法 Usage
 
-0. 格雷科技的语言文件是.minecraft/Gregtech.lang。
-1. [在这里下载最新的 GregTech.lang](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/releases/latest)
-1. 将 GregTech.lang 拷贝到./minecraft 下，覆盖原来的 GregTech.lang
-1. 启动游戏，汉化生效
+1. 格雷科技的语言文件是.minecraft/Gregtech.lang。
+2. [在这里下载最新的 GregTech.lang](https://github.com/MoHaDouBiTeam/gregtech6-chinese-translation/releases/latest)
+3. 将 GregTech.lang 拷贝到./minecraft 下，覆盖原来的 GregTech.lang
+4. 启动游戏，汉化生效
 
 ---
 
