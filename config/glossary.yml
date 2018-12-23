@@ -2110,6 +2110,13 @@ material:
   Red Onyx: 红色缟玛瑙
   Eudialyte: 异性石
   Iffesal: 伊夫萨尔
+  DominicanAmber: 多米尼加蓝琥珀
+  Licorice: 盐甘草糖
+  Marshmallow: 棉花糖
+  Marshmallow Pulp: 棉花糖碎屑
+  Nougat: 牛轧糖
+  PEZ: 皮礼士糖
+  Any: 任意
 
 energy_tier:
   ULV: ULV
@@ -2148,12 +2155,17 @@ stratum_prefix:
   Diorite: 闪长岩
   Limestone: 石灰岩
   Marble: 大理石
+  Nether: 下界
   Netherrack: 下界
   Endstone: 末地
   End: 末地
-  Vanillagranite: 花岗岩
-  Redgranite: 红色花岗岩
-  Blackgranite: 黑色花岗岩
+  Granite:
+  - regex: S:oredict.oreRedgranite.+
+    value: 红色花岗岩
+  - regex: S:oredict.oreBlackgranite.+
+    value: 黑色花岗岩
+  - regex: S:oredict.oreVanillagranite.+
+    value: 花岗岩
   Sandstone: 沙石
   Small: 贫瘠
   Basalt: 玄武岩

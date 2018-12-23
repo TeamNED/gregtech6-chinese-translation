@@ -706,6 +706,11 @@
   repl: "{gem_tier}{material}"
   token: gem
   value: (?P<gem_tier>[^ ]+) (?P<material>.+)\s*(Crystal)?
+- key: S:oredict.gem.+
+  priority: 800
+  repl: "{material}"
+  token: gem
+  value: (?P<material>.+)
 
 # bullet
 - key: S:oredict.bulletGt.+

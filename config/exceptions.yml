@@ -3,7 +3,9 @@ S:gt.material.AnyCoalCarbon: 任意煤炭或碳
 S:gt.material.AnyIronOrSteel: 任意钢或铁
 S:gt.material.AnyStone: 任意种类的石头
 S:gt.material.AnyWood: 任意木头
+S:gt.material.Any: 任意材料
 
+S:oredict.rockGtHolystone.name: 圣石
 S:oredict.blockDustBone.name: 骨粉块
 S:oredict.gemEmpty.name: 空宝石
 S:oredict.ingotSteeleaf.name: 钢叶锭
