@@ -1880,6 +1880,15 @@ S:gt.tooltip.multiblock.largeboiler.1=3x3 Base of Heat Acceptors
 S:gt.tooltip.multiblock.largeboiler.2=3x3x3 Hollow of the Block you crafted this one with
 S:gt.tooltip.multiblock.largeboiler.3=Main centered on Side-Bottom of Boiler facing outwards
 S:gt.tooltip.multiblock.largeboiler.4=Input only possible at Bottom Layer of Boiler
+S:gt.tooltip.multiblock.lightningrod.1=Bottom: 3x3 of Tungsten Walls with Main at Center
+S:gt.tooltip.multiblock.lightningrod.2=Then: Full 3x3 of Large Niobium-Titanium Coils
+S:gt.tooltip.multiblock.lightningrod.3=Then: Full 3x3 of Tungsten Walls
+S:gt.tooltip.multiblock.lightningrod.4=Then: Full 3x3 of Large Niobium-Titanium Coils
+S:gt.tooltip.multiblock.lightningrod.5=Top: 3x3 of Tungsten Walls
+S:gt.tooltip.multiblock.lightningrod.6=Centered Above: 1x1 Pillar of simple Lightning Rod Blocks
+S:gt.tooltip.multiblock.lightningrod.7=The Tip of the Rod has to be at Y = 100 or above
+S:gt.tooltip.multiblock.lightningrod.8=Optimum Efficiency at a Rod Length of 100m
+S:gt.tooltip.multiblock.lightningrod.9=Reduced Efficiency if too close to another Lightning Rod (256m)
 S:gt.tooltip.multiblock.steamturbine.1=3x3x4 of the Block you crafted this one with
 S:gt.tooltip.multiblock.steamturbine.2=Main centered on the 3x3 facing outwards
 S:gt.tooltip.multiblock.steamturbine.3=Input only possible at Main Block
