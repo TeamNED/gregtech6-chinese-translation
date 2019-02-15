@@ -127,6 +127,7 @@ S:itemGroup.plateQuadruple=4x板
 S:itemGroup.plateQuintuple=5x板
 S:itemGroup.plateTiny=小块板
 S:itemGroup.plateTriple=3x板
+S:itemGroup.qwertech.machines.-1=Natural
 S:itemGroup.qwertech.machines.0=合成站
 S:itemGroup.railGt=单导轨
 S:itemGroup.ring=环

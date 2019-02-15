@@ -38,6 +38,7 @@ S:gt.recipe.fermenter=Fermenter
 S:gt.recipe.freezer=Freezer
 S:gt.recipe.fuels.burn=Burnable Fuels
 S:gt.recipe.fuels.engine=Engine Fuels
+S:gt.recipe.fuels.fluidbed=Fluidized Bed Fuels
 S:gt.recipe.fuels.gas=Gas Fuels
 S:gt.recipe.fuels.hot=Hot Fuels
 S:gt.recipe.fuels.magic=Magic Fuels

@@ -121,6 +121,7 @@ S:itemGroup.plateQuadruple=4x Plates
 S:itemGroup.plateQuintuple=5x Plates
 S:itemGroup.plateTiny=Tiny Plates
 S:itemGroup.plateTriple=3x Plates
+S:itemGroup.qwertech.machines.-1=Natural
 S:itemGroup.qwertech.machines.0=Crafting Tables
 S:itemGroup.railGt=Single Rails
 S:itemGroup.ring=Rings

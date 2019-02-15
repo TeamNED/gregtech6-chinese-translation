@@ -27,6 +27,7 @@ S:gt.behaviour.plunger.fluid=Clears 1000 Liters of Fluid from Tanks
 S:gt.behaviour.plunger.item=Clears Items from Pipes
 S:gt.behaviour.remote=Activates up to 16 Blocks within a Range of 128m
 S:gt.behaviour.removerspray.uses=Remaining Uses:
+S:gt.behaviour.rocks=Indicates occurence of
 S:gt.behaviour.scanning=Can scan Blocks in World
 S:gt.behaviour.scoop=Catches Butterflies
 S:gt.behaviour.shears=Shaves Sheep, Mooshrooms and alike

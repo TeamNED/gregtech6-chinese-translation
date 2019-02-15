@@ -38,6 +38,7 @@ S:gt.recipe.fermenter=发酵器
 S:gt.recipe.freezer=冷冻机
 S:gt.recipe.fuels.burn=可燃流体
 S:gt.recipe.fuels.engine=流体燃料
+S:gt.recipe.fuels.fluidbed=Fluidized Bed Fuels
 S:gt.recipe.fuels.gas=气体燃料
 S:gt.recipe.fuels.hot=热燃料
 S:gt.recipe.fuels.magic=魔法燃料

@@ -27,6 +27,7 @@ S:gt.behaviour.plunger.fluid=从水槽中移除1000L液体
 S:gt.behaviour.plunger.item=清除管道中的物品
 S:gt.behaviour.remote=在128m范围内激活16个方块
 S:gt.behaviour.removerspray.uses=剩余使用次数:
+S:gt.behaviour.rocks=Indicates occurence of
 S:gt.behaviour.scanning=可以扫描世界中的方块
 S:gt.behaviour.scoop=左键捕捉蝴蝶
 S:gt.behaviour.shears=注意不要拿着它到处乱跑

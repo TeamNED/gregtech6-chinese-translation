@@ -884,6 +884,7 @@ S:gt.block.concrete.slab.5.8.name=灰色混凝土半砖
 S:gt.block.concrete.slab.5.9.name=粉色混凝土半砖
 S:gt.block.diggable.0.name=淤泥
 S:gt.block.diggable.1.name=褐色粘土
+S:gt.block.diggable.2.name=Turf
 S:gt.block.diggable.32767.name=任何该方块的子方块
 S:gt.block.flower.a.0.name=粗壮绒毛蓼
 S:gt.block.flower.a.1.name=克罗斯比绒毛蓼

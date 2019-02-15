@@ -884,6 +884,7 @@ S:gt.block.concrete.slab.5.8.name=Gray Concrete Slab
 S:gt.block.concrete.slab.5.9.name=Pink Concrete Slab
 S:gt.block.diggable.0.name=Mud
 S:gt.block.diggable.1.name=Brown Clay
+S:gt.block.diggable.2.name=Turf
 S:gt.block.diggable.32767.name=Any Sub-Block of this one
 S:gt.block.flower.a.0.name=Altered Andesite Buckwheat
 S:gt.block.flower.a.1.name=Crosby Buckwheat
