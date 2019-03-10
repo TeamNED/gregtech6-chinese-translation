@@ -2131,6 +2131,84 @@ material:
   Ethylene: 乙烯
   Propylene: 丙烯
   Industrial Diamond: 工业钻石
+  Soymilk: 豆奶
+  DNA: DNA
+  Blood: 血
+  Blood*: 血*
+  Mushroom Soup: 蘑菇汤
+  Ice Water: 冰水
+  Sugarwater: 糖水
+  Slime: 史莱姆
+  Salty Water: 咸水
+  Ethereal: 天域木
+  Hellbark: 地狱皮木
+  Jacaranda: 蓝花楹木
+  Mangrove: 红树
+  SacredOak: 神圣橡树
+  Towerwood: 塔木
+  Witchwood: 巫魂木
+  Bloodwood: 血木
+  Fusewood: 熔融木
+  Ghostwood: 幽魂木
+  Hopseed: 车桑子木
+  Silverbell: 银铃
+  Tiger: 核桃木
+  Ogre: 奥格
+  Wyvern: 双足飞龙
+  Thorntree: 荆棘树
+  Silver Pine: 银松
+  Quaking Aspen: 颤杨
+  Common Aspen: 欧洲山杨
+  White Poplar: 白杨
+  Boxleaf Azara: 小叶金柞
+  Southern Magnolia: 荷花玉兰
+  Sweetbay: 月桂
+  Marblewood: 编条相思木
+  Tamo Ash: 水曲柳
+  White Meranti: 白娑罗双
+  Compressed: 压缩木
+  Dry: 干
+  Dark: 暗色
+  Andesite: 安山岩
+  Diorite: 闪长岩
+  Limestone: 石灰岩
+  Marble: 大理石
+  Nether: 下界
+  Netherrack: 下界
+  Endstone: 末地
+  End: 末地
+  Granite:
+  - regex: S:oredict.oreRedgranite.+
+    value: 红色花岗岩
+  - regex: S:oredict.oreBlackgranite.+
+    value: 黑色花岗岩
+  - regex: S:oredict.oreVanillagranite.+
+    value: 花岗岩
+  - regex: S:qwertech.+
+    value: 花岗岩
+  Sandstone: 沙石
+  Small: 贫瘠
+  Basalt: 玄武岩
+  Mud: 淤泥
+  Space: 太空
+  Bedrock: 基岩
+  Moon: 月球
+  Mars: 火星
+  Blueschist: 蓝片岩
+  Kimberlite: 金伯利岩
+  Komatiite: 科马提岩
+  Quartzite: 石英岩
+  Schist:
+  - regex: S:oredict.oreBlueschist.+
+    value: 蓝片岩
+  - regex: S:oredict.oreGreenschist.+
+    value: 绿片岩
+  Stone: 石头
+  Prismarine: 海晶石
+
+
+
+
   
 
 energy_tier:

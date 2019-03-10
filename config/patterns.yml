@@ -773,6 +773,26 @@
   token: item
   value: (?P<material>.+) Crafting Table
 - key: S:qwertech.machines.+
+  priority: 900
+  repl: "光滑{counterdrawers}"
+  token: counterdrawers
+  value: Smooth (?P<counterdrawers>.+)
+- key: S:qwertech.machines.+
+  priority: 1000
+  repl: "{material}抽屉柜"
+  token: counterdrawers
+  value: (?P<material>.+) Counterdrawers
+- key: S:qwertech.machines.+
+  priority: 1000
+  repl: "{material}箱子"
+  token: counterdrawers
+  value: (?P<material>.+) Chest
+- key: S:qwertech.machines.+
+  priority: 1000
+  repl: "{material}巢箱"
+  token: counterdrawers
+  value: (?P<material>.+) Nesting Box
+- key: S:qwertech.machines.+
   priority: 1000
   repl: "{material}操作台"
   token: countertop
@@ -809,7 +829,7 @@
   value: Dual (?P<material>.+) Springs
 - key: S:qwertech.dna.+
   priority: 1000
-  repl: 装着{material}的注射器
+  repl: "{material}注射器"
   token: item
   value: Syringe of (?P<material>.+)
 
