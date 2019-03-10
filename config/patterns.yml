@@ -278,7 +278,7 @@
   priority: 1000
   repl: "{material}垫片"
   token: item
-  value: (?P<material>.+) Round
+  value: (?P<material>.+) (Round|Marbel)
 - key: S:oredict.minecartWheels.+
   priority: 1000
   repl: "{material}车轮"
@@ -304,11 +304,21 @@
   repl: "{material}废料"
   token: item
   value: (?P<material>.+) Scrap
+- key: S:oredict.scrapGt.+
+  priority: 1000
+  repl: "{material}碎片"
+  token: item
+  value: (?P<material>.+) (Splinters|Shards)
+- key: S:oredict.scrapGt.+
+  priority: 1000
+  repl: "{material}碎石"
+  token: item
+  value: (?P<material>.+) Pebbles
 - key: S:oredict.rockGt.+
   priority: 1000
   repl: 含{material}岩石
   token: item
-  value: (?P<material>.+) bearing Rock
+  value: (?P<material>.+) (bearing Rock|Shard)
 
 # ores
 - key: S:oredict.ore.+
@@ -633,6 +643,21 @@
   repl: "{material}砧"
   token: item
   value: (?P<material>.+) Anvil
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}燃气涡轮机核心"
+  token: item
+  value: (?P<material>.+) Gas Turbine Main Housing
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "催化裂解器 ({material})"
+  token: item
+  value: Catalytic Cracker \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "蒸汽裂解器 ({material})"
+  token: item
+  value: Steam Cracker \((?P<material>.+)\)
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
@@ -782,6 +807,11 @@
   repl: 小型{material}弹簧组
   token: item
   value: Dual (?P<material>.+) Springs
+- key: S:qwertech.dna.+
+  priority: 1000
+  repl: 装着{material}的注射器
+  token: item
+  value: Syringe of (?P<material>.+)
 
 # multitileentity
 

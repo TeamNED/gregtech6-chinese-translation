@@ -823,6 +823,8 @@ material:
   Crystalline Forcicium: 力场
   Crystalline Forcillium: 力场
   Crystalline Glass Pane: 玻璃板
+  Glass Pane: 玻璃板
+  Cast Glass Pane: 玻璃板
   Crystalline Green Sapphire: 结晶绿色蓝宝石
   Crystalline Grossular: 钙铝榴石
   Crystalline Ice: 冰
@@ -944,6 +946,7 @@ material:
   Emeradic Crystal: 再构绿宝石水晶
   Emerald: 绿宝石
   Emerald Green: 绿色绿宝石
+  Silken Emerald Green: 绿色绿宝石
   Emerald Green Bar: 绿宝石锭
   Emery: 金刚砂
   Empty: 空
@@ -1148,6 +1151,7 @@ material:
   Iritanium: 钛铱合金
   Iron: 铁
   Ironwood: 铁木
+  Ironwood Pulp: 铁木锯末
   Jade: 翡翠
   Japanese Maple: 日本枫木
   Jasper: 碧玉
@@ -1209,6 +1213,7 @@ material:
   Lithium-6: 锂-6
   Livermorium: 鉝
   Liveroot: 活根
+  Liveroot Pulp: 活根锯末
   Lonsdaleite: 六方碳
   Lubricant: 润滑油
   Ludicrite: 滑稽
@@ -1626,6 +1631,7 @@ material:
     value: 黄锡矿
   Steel: 钢
   Steeleaf: 钢叶
+  Steeleaf Pulp: 钢叶锯末
   Sterling Silver: 纯银
   Stibnite:
   - regex: S:oredict.(crushed|ore).+
@@ -1703,9 +1709,12 @@ material:
     value: 豆腐沫
   - regex: .*
     value: 豆腐
+  Silken Tofu: 豆腐
   Tofu Bar: 豆腐锭
   Topaz: 黄玉
   Treated Wood: 防腐木
+  Treated Plank: 防腐木板
+  Treated Wood Pulp: 防腐木锯末
   Tree Bark: 树皮
   Tribibium: 322号元素(Tbb)
   Tribiennium: 329号元素(Tbe)
@@ -1957,6 +1966,7 @@ material:
   Walnut: 胡桃木
   Water: 水
   WaterDistilled: 蒸馏水
+  Distilled Water: 蒸馏水
   Wax:
   - regex: S:oredict.*[Dd]ust.*
     value: 蜡粉
@@ -2118,6 +2128,10 @@ material:
   PEZ: 皮礼士糖
   Any: 任意
   Bischofite: 水氯镁石
+  Ethylene: 乙烯
+  Propylene: 丙烯
+  Industrial Diamond: 工业钻石
+  
 
 energy_tier:
   ULV: ULV
