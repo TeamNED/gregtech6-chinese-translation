@@ -2036,7 +2036,7 @@ material:
   Amnesic: 失忆
   Bumbleheimers: 痴呆大黄蜂
   Bumble in Black: 黑色大黄蜂
-  Private Bumble: 私人大黄蜂
+  Private Bumble: 列兵大黄蜂
   Lt. Bumbleson: 中尉大黄蜂
   Colonel Bumble O'Beeill: 上校大黄蜂
   General Bumblemond: 将军大黄蜂
@@ -2172,43 +2172,6 @@ material:
   White Meranti: 白娑罗双
   Compressed: 压缩木
   Dry: 干
-  Dark: 暗色
-  Andesite: 安山岩
-  Diorite: 闪长岩
-  Limestone: 石灰岩
-  Marble: 大理石
-  Nether: 下界
-  Netherrack: 下界
-  Endstone: 末地
-  End: 末地
-  Granite:
-  - regex: S:oredict.oreRedgranite.+
-    value: 红色花岗岩
-  - regex: S:oredict.oreBlackgranite.+
-    value: 黑色花岗岩
-  - regex: S:oredict.oreVanillagranite.+
-    value: 花岗岩
-  - regex: S:qwertech.+
-    value: 花岗岩
-  Sandstone: 沙石
-  Small: 贫瘠
-  Basalt: 玄武岩
-  Mud: 淤泥
-  Space: 太空
-  Bedrock: 基岩
-  Moon: 月球
-  Mars: 火星
-  Blueschist: 蓝片岩
-  Kimberlite: 金伯利岩
-  Komatiite: 科马提岩
-  Quartzite: 石英岩
-  Schist:
-  - regex: S:oredict.oreBlueschist.+
-    value: 蓝片岩
-  - regex: S:oredict.oreGreenschist.+
-    value: 绿片岩
-  Stone: 石头
-  Prismarine: 海晶石
 
 
 
