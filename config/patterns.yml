@@ -3,6 +3,11 @@
   priority: 5000
   repl: "{material}板条箱"
   token: item
+  value: Partial Crate of (?P<material>.+)
+- key: S:oredict.crateGt.+
+  priority: 5000
+  repl: "{material}板条箱"
+  token: item
   value: Crate of (?P<material>.+)
 - key: S:gt.material.+
   priority: 1000
@@ -658,6 +663,31 @@
   repl: "蒸汽裂解器 ({material})"
   token: item
   value: Steam Cracker \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "小型{material}储罐主阀门"
+  token: item
+  value: Small (?P<material>.+) Tank Main Valve
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "大型{material}储罐主阀门"
+  token: item
+  value: Large (?P<material>.+) Tank Main Valve
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "小型致密{material}储罐主阀门"
+  token: item
+  value: Small Dense (?P<material>.+) Tank Main Valve
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "大型致密{material}储罐主阀门"
+  token: item
+  value: Large Dense (?P<material>.+) Tank Main Valve
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}锅炉气压计核心"
+  token: item
+  value: (?P<material>.+) Boiler Main Barometer
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
