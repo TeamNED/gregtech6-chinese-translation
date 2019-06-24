@@ -31,6 +31,7 @@ S:gt.autocrafting.insert.blueprint=把自动合成表蓝图放在这里
 S:gt.behaviour.cropnalyzer=能扫描世界中的作物
 S:gt.behaviour.cure.zombie.strong=可以治愈强壮的僵尸村民
 S:gt.behaviour.cure.zombie.weak=可以治愈虚弱的僵尸村民
+S:gt.behaviour.ducttape.uses=剩余使用次数:
 S:gt.behaviour.extinguisher.uses=剩余使用次数:
 S:gt.behaviour.feed.cat=可以当做猫粮
 S:gt.behaviour.feed.chocolate=不要把这玩意喂给宠物！

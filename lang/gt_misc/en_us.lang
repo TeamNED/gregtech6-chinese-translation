@@ -31,6 +31,7 @@ S:gt.autocrafting.insert.blueprint=Insert an autocraftable Blueprint here
 S:gt.behaviour.cropnalyzer=Can scan Crops in World
 S:gt.behaviour.cure.zombie.strong=Can be used to cure strong Zombie Villagers
 S:gt.behaviour.cure.zombie.weak=Can be used to cure weakened Zombie Villagers
+S:gt.behaviour.ducttape.uses=Remaining Uses:
 S:gt.behaviour.extinguisher.uses=Remaining Uses:
 S:gt.behaviour.feed.cat=Is usable as Cat Food
 S:gt.behaviour.feed.chocolate=Do not feed this to Pets!
