@@ -2175,6 +2175,15 @@ material:
   Disulfuric Acid: 焦硫酸
   Riverwater: 河水
   Lanthanum: 镧
+  Gypsum: 石膏
+  Coralium: 珊瑚
+  Dreadium: 恐惧
+  Ethaxium: 伊桑斯
+  LiquifiedCoralium: 液化珊瑚
+  Nitrate: 硝酸盐
+  Phosphorous: 磷
+  Slate: 板岩
+  Abyssalnite: 深渊
 
 
 
@@ -2249,6 +2258,7 @@ stratum_prefix:
     value: 绿片岩
   Stone: 石头
   Prismarine: 海晶石
+  Abyssalnite: 深渊
 
 
 stratum_suffix:

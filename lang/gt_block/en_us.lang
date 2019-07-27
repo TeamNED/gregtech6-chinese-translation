@@ -1600,6 +1600,7 @@ S:gt.block.rockores.3.name=Rock Salt
 S:gt.block.rockores.32767.name=Any Sub-Block of this one
 S:gt.block.rockores.4.name=Bauxite
 S:gt.block.rockores.5.name=Oil Shale
+S:gt.block.rockores.6.name=Gypsum
 S:gt.block.sands.0.name=Black Sand
 S:gt.block.sands.32767.name=Any Sub-Block of this one
 S:gt.block.sapling.0.name=Rubber Sapling

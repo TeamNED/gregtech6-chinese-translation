@@ -1600,6 +1600,7 @@ S:gt.block.rockores.3.name=岩盐
 S:gt.block.rockores.32767.name=任何该方块的子方块
 S:gt.block.rockores.4.name=铝土矿
 S:gt.block.rockores.5.name=含油页岩
+S:gt.block.rockores.6.name=石膏
 S:gt.block.sands.0.name=黑沙
 S:gt.block.sands.32767.name=任何该方块的子方块
 S:gt.block.sapling.0.name=橡胶树苗
