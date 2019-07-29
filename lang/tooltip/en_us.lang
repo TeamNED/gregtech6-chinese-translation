@@ -2013,6 +2013,7 @@ S:gt.tooltip.sensor.screwdrive.display=Use Screwdriver on Display toggle Hexadec
 S:gt.tooltip.sensor.screwdrive.modes=Use Screwdriver on anything else to switch Modes.
 S:gt.tooltip.sensor.stackometer=Measures the precise amount of Stacks
 S:gt.tooltip.sensor.superheavyweightometer=Measures the weight of an Inventory (in Kilotons)
+S:gt.tooltip.sensor.tachometer=Measures Axle Rotations (In RU)
 S:gt.tooltip.sensor.thermometer=Measures Temperature (In Kelvin)
 S:gt.tooltip.sensor.tpsmeter=Measures TPS of the whole Server
 S:qt.armor.0.tooltip=Rattles worse than bones

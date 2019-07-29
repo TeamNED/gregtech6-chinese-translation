@@ -1566,6 +1566,7 @@ S:gt.multitileentity.31015.name=Electrometer Sensor
 S:gt.multitileentity.31016.name=TPS Sensor
 S:gt.multitileentity.31017.name=Player Counter Sensor
 S:gt.multitileentity.31018.name=Progress Sensor
+S:gt.multitileentity.31019.name=Tachometer Sensor
 S:gt.multitileentity.32.name=Tritanium Alloy Chest
 S:gt.multitileentity.32000.name=Miniature End Portal
 S:gt.multitileentity.32001.name=Miniature Twilight Portal

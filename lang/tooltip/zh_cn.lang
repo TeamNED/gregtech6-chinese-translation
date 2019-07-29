@@ -2043,6 +2043,7 @@ S:gt.tooltip.sensor.screwdrive.display=在显示屏上使用螺丝刀开关十�
 S:gt.tooltip.sensor.screwdrive.modes=在其他地方使用螺丝刀调整其他模式。
 S:gt.tooltip.sensor.stackometer=测量栈的精确数量
 S:gt.tooltip.sensor.superheavyweightometer=测量库存的质量(单位: 千吨)
+S:gt.tooltip.sensor.tachometer=测量轴的转速 (单位: RU)
 S:gt.tooltip.sensor.thermometer=测量温度(单位: 开尔文)
 S:gt.tooltip.sensor.tpsmeter=测量整个服务器的TPS值
 S:qt.armor.0.tooltip=动起来比骷髅跑步还要响

@@ -114,6 +114,7 @@ S:gt.lang.requirement.air.front=Requires Air in front to work!
 S:gt.lang.requirement.chunk.loader=Needs to be in a loaded Chunk to work properly!
 S:gt.lang.requirement.empty.ashes=Requires Ashes to be extracted regularly!
 S:gt.lang.requirement.ignite.fire=Requires ignition by Flint and Tinder or similar!
+S:gt.lang.requirement.molten.calcite=Requires to be filled with Molten Calcite!
 S:gt.lang.requirement.unstacked=Does not work when stacked!
 S:gt.lang.requirement.water=Requires input of Water!
 S:gt.lang.requirement.water.any=Requires input of any Water!
