@@ -1966,6 +1966,15 @@ S:gt.tooltip.multiblock.lightningrod.6=Centered Above: 1x1 Pillar of simple Ligh
 S:gt.tooltip.multiblock.lightningrod.7=The Tip of the Rod has to be at Y = 100 or above
 S:gt.tooltip.multiblock.lightningrod.8=Optimum Efficiency at a Rod Length of 100m
 S:gt.tooltip.multiblock.lightningrod.9=Reduced Efficiency if too close to another Lightning Rod (256m)
+S:gt.tooltip.multiblock.logisticscore.1=5x5x5 Frame made out of Galvanized Steel Walls (Power Input Here)
+S:gt.tooltip.multiblock.logisticscore.2=3x3x3 Core of any Multiblock Processor Units (Customizable)
+S:gt.tooltip.multiblock.logisticscore.3=The Six 3x3 Walls need to be Ventilation Units
+S:gt.tooltip.multiblock.logisticscore.4=Main centered at any Side facing outwards
+S:gt.tooltip.multiblock.logisticscore.5=At least one of each Processor Type needed (Or use a Versatile one)
+S:gt.tooltip.multiblock.logisticscore.6=Logic Processors increase Operation Count by 1
+S:gt.tooltip.multiblock.logisticscore.7=Control Processors increase Maximum Network Range by 1m
+S:gt.tooltip.multiblock.logisticscore.8=Storage Processors increase Buffer Size by 1 Stack or 16000L
+S:gt.tooltip.multiblock.logisticscore.9=Conversion Processors increase Throughput by 1 Stack or 16000L
 S:gt.tooltip.multiblock.mixer.1=3x3x2 of Stainless Steel Walls
 S:gt.tooltip.multiblock.mixer.2=Main Block centered on Side-Bottom and facing outwards
 S:gt.tooltip.multiblock.mixer.3=Top Half accepts Input, Bottom Half and Main Block emit Output
