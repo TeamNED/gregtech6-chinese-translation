@@ -688,6 +688,11 @@
   repl: "{material}锅炉气压计核心"
   token: item
   value: (?P<material>.+) Boiler Main Barometer
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "物流量子存储器 ({material})"
+  token: item
+  value: Logistics Mass Storage \((?P<material>.+)\)
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
