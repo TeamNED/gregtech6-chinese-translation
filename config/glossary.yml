@@ -1381,6 +1381,7 @@ material:
   Phosphate: 磷酸盐
   Phosphor: 磷
   Phosphorite: 磷灰石
+  Phosphorous: 磷酸钙
   Phosphorus: 磷酸钙
   Photon: 光子
   Pig Iron: 生铁
@@ -2191,6 +2192,8 @@ material:
   Crystal Matrix: 水晶矩阵
   Cosmic Neutronium: 宇宙中子态素
   Infinity: 无尽
+  Coolant: 冷却液
+  Heatant: 热冷却液
 
 
 
