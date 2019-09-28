@@ -800,6 +800,16 @@
   repl: "浇铸盆 ({material})"
   token: basin
   value: Basin \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "{material}燃料棒"
+  token: reactor_rod
+  value: (?P<material>.+) Fuel Rod
+- key: S:gt.multitileentity.
+  priority: 1500
+  repl: "枯竭{material}"
+  token: depleted_reactor_rod
+  value: Depleted (?P<material>.+)
 
 # qt
 - key: S:qwertech.machines.+

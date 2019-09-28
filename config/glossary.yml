@@ -23,6 +23,7 @@ material:
   Amber: 琥珀
   Americium: 镅
   Americium-241: 镅-241
+  Americium-245: 镅-245
   Amethyst: 紫水晶
   Ammonia: 氨
   Amnesic Wax: 遗忘蜜蜡
@@ -1412,6 +1413,7 @@ material:
   Plutonium: 钚
   Plutonium-241: 钚-241
   Plutonium-243: 钚-243
+  Plutonium-244: 钚-244
   Polished Wood: 抛光木
   Polished Wood Pulp: 抛光木锯末
   Pollucite: 铯榴石
@@ -1696,6 +1698,7 @@ material:
   - regex: .*
     value: 神秘
   Thorium: 钍
+  Thorium-230: 钍-230
   Thulium: 铥
   Tin: 锡
   Tin Alloy: 锡合金
@@ -1935,6 +1938,7 @@ material:
     value: 晶质铀矿
   Uranium: 铀
   Uranium-235: 铀-235
+  Uranium-238: 铀-238
   UraniumEnriched: 浓缩铀
   Uvarovite: 钙铬榴石
   Vanadium: 钒
