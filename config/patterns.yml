@@ -693,6 +693,37 @@
   repl: "物流量子存储器 ({material})"
   token: item
   value: Logistics Mass Storage \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "燃烧室 ({fuel_type}, {material})"
+  token: item
+  value: Burning Box \((?P<fuel_type>.+), (?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "致密{material}"
+  token: item
+  value: Dense (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "大型{material}坩埚"
+  token: item
+  value: Large (?P<material>.+) Crucible
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}壁板"
+  token: item
+  value: (?P<material>.+) Wall
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "流化床燃烧室 ({material})"
+  token: item
+  value: Fluidized Bed Burning Box \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "热交换器 ({material})"
+  token: item
+  value: Heat Exchanger \((?P<material>.+)\)
+  
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+

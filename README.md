@@ -6,9 +6,9 @@
 
 GregTech6 汉化项目，欢迎加入。
 
-当前适配版本为 v6.11.11，内置兼容 QwerTech-1.0.0-a.49
+当前适配版本为 v6.11.17，内置兼容 QwerTech-1.0.0-a.49
 
-Currently updated to GT 6.11.11, with built-in support for QwerTech-1.0.0-a.49
+Currently updated to GT 6.11.17, with built-in support for QwerTech-1.0.0-a.49
 
 [Weblate 翻译服务器传送门](https://weblate.exz.me/projects/gregtech/)
 

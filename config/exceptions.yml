@@ -4,6 +4,7 @@ S:gt.material.AnyIronOrSteel: 任意钢或铁
 S:gt.material.AnyStone: 任意种类的石头
 S:gt.material.AnyWood: 任意木头
 S:gt.material.Any: 任意材料
+S:gt.multitileentity.18029.name: 致密任意钢壁板
 
 S:oredict.rockGtHolystone.name: 圣石
 S:oredict.blockDustBone.name: 骨粉块

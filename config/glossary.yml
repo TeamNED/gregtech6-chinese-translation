@@ -2198,11 +2198,18 @@ material:
   Infinity: 无尽
   Coolant: 冷却液
   Heatant: 热冷却液
+  Tantalum Hafnium: 钽铪合金
+  Tantalum Hafnium Carbide: 碳化钽铪
 
 
 
 
-  
+
+
+fuel_type:
+  Gas: 气体
+  Liquid: 液体
+  Solid: 固体
 
 energy_tier:
   ULV: ULV
