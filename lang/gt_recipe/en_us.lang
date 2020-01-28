@@ -63,6 +63,7 @@ S:gt.recipe.microwave=Microwave
 S:gt.recipe.mixer=Mixer
 S:gt.recipe.mortar=Mortar
 S:gt.recipe.nanofab=Nanoscale Fabricator
+S:gt.recipe.other=Other Relations
 S:gt.recipe.plantalyzer=Plantalyzer
 S:gt.recipe.polarizer=Polarizer
 S:gt.recipe.press=Press

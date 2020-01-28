@@ -480,6 +480,7 @@ material:
   Astral Silver: 星银
   Atlarus: 深金
   Autumn: 秋树
+  Aventurine: 东陵石
   Awakened Draconium: 觉醒龙
   Bald Cypress: 落羽松
   Balsa: 巴尔杉
@@ -515,6 +516,8 @@ material:
   Bentonite: 膨润土
   Berkelium: 锫
   Beryllium: 铍
+  Beryllium-7: 铍-7
+  Beryllium-8: 铍-8
   Bibibium: 222号元素(Bbb)
   Bibiennium: 229号元素(Bbe)
   Bibihexium: 226号元素(Bbh)
@@ -625,8 +628,10 @@ material:
   Biununium: 211号元素(Buu)
   Bixbite: 红绿柱石
   Black: 黑色
+  Black Aventurine: 黑色东陵石
   Black Bronze: 黑青铜
   Black Dye: 黑色染料
+  Black Fluorite: 黑色氟石
   Black Granite: 黑色花岗岩
   Black Pepper: 黑胡椒
   Black Quartz: 黑色石英岩
@@ -638,8 +643,11 @@ material:
   Blizz: 暴雪
   Blue: 蓝色
   Blue Alloy: 蓝石合金
+  Blue Aventurine: 蓝色东陵石
   Blue CY-11: 蓝色试剂Y-11
   Blue Dye: 蓝色染料粉
+  Blue Fluorite: 蓝色氟石
+  Blue Jasper: 蓝色碧玉
   Blue Mahoe: 高红槿
   Blue Sapphire: 蓝宝石
   Blue Schist: 蓝片岩
@@ -653,6 +661,7 @@ material:
   Bonemeal: 骨粉
   Borax: 硼砂
   Boron: 硼
+  Boron-11: 硼-11
   Brass: 黄铜
   Bro: 兄弟
   Bromargyrite:
@@ -663,6 +672,7 @@ material:
   Bromine: 溴
   Bronze: 青铜
   Brown: 褐色
+  Brown Aventurine: 褐色东陵石
   Brown Clay: 褐色粘土
   Brown Dye: 褐色染料粉
   Brown Limonite:
@@ -1061,8 +1071,11 @@ material:
   Greatwood: 宏伟之木
   Greatwood Pulp: 宏伟之木锯末
   Green: 绿色
+  Green Aventurine: 绿色东陵石
   Green CY-11: 绿色试剂Y-11
   Green Dye: 绿色染料
+  Green Fluorite: 绿色氟石
+  Green Jasper: 绿色碧玉
   Green Sapphire: 绿色蓝宝石
   Green Schist: 绿片岩
   Green Vitriol: 硫酸亚铁
@@ -1082,12 +1095,13 @@ material:
   Gunpowder: 火药
   Gypsum: 石膏
   HSLA-Steel: HSLA钢
-  Haderoth: 幻之铜
+  Haderoth: 幻铜
   Hafnium: 铪
   Hard Rock: 硬岩
   Hassium: "\U0002CB76"
   Hazel: 榛树
   Hazelnut: 榛子
+  Heavy Water: 重水
   Heliodor: 金绿柱石
   Helium: 氦
   Helium-3: 氦-3
@@ -1279,6 +1293,7 @@ material:
   Midasium: 溶火金
   Migmatite: 混合岩
   Milk: 牛奶
+  Milky Quartz: 乳白色石英
   Mince Meat: 肉沫
   Mint: 薄荷
   Mirabilite: 芒硝
@@ -1337,6 +1352,7 @@ material:
   Oatmeal: 燕麦粉
   Obsidian: 黑曜石
   Obsidian Steel: 黑曜石钢
+  Ocean Jasper: 海蓝色碧玉
   Oganesson: 118号元素(Og)
   Oil: 油
   Oil Shale: 含油页岩
@@ -1348,6 +1364,7 @@ material:
   Orange: 橙色
   Orange CY-11: 橙色试剂Y-11
   Orange Dye: 橙色染料
+  Orange Fluorite: 橙色氟石
   Orange Sapphire: 橙色蓝宝石
   Orichalcum: 自然之石
   Oriharukon: 山铜
@@ -1389,6 +1406,8 @@ material:
   Pinalite: 氯钨铅
   Pink: 粉色
   Pink CY-11: 粉色试剂Y-11
+  Pink Diamond: 粉钻
+  Pink Fluorite: 粉色氟石
   Pink Dye: 粉色染料
   Pink Vitriol: 硫酸镁
   Pistachio: 开心果
@@ -1473,14 +1492,18 @@ material:
   Rainbow Eucalyptus: 彩虹桉
   Rainbow Wood: 彩虹树
   Rainbowood: 彩虹树
+  Rainforest Jasper: 雨林碧玉
   Rare Earth: 稀土
   Raw Fishmeal: 生鱼肉
   Raw Meat: 生肉
   Red: 红色
+  Red Aventurine: 红色东陵石
   Red Alloy: 红色合金
   Red CY-11: 红色试剂Y-11
   Red Dye: 红色染料
+  Red Fluorite: 红色氟石
   Red Granite: 红色花岗岩
+  Red Jasper: 红色碧玉
   Red Matter: 红物质
   Red Meteor: 红色陨石
   Red Quartz: 红色石英
@@ -1559,6 +1582,7 @@ material:
   Sealed Wood Pulp: 防腐木锯末
   Seed Oil: 种子油
   Selenium: 硒
+  Semiheavy Water: 半重水
   Sequoia: 红杉
   Shadow Iron: 暗影铁
   Shadow Steel: 暗影钢
@@ -1675,6 +1699,7 @@ material:
   - regex: .*
     value: 钽铁矿
   Tantalum: 钽
+  Tantalum Hafnium Carbide: 碳化钽铪
   Tanzanite: 坦桑石
   Tartarite: 溶火之石
   Tea: 茶
@@ -1846,7 +1871,7 @@ material:
   UU-Amplifier: UU增殖液
   UU-Matter: UU物质
   Ultimet: 哈氏合金
-  Umberstone: 深棕石头
+  Umberstone: 棕石
   Unbibium: 122号元素(Ubb)
   Unbiennium: 129号元素(Ube)
   Unbihexium: 126号元素(Ubx)
@@ -1982,6 +2007,7 @@ material:
   White: 白色
   White CY-11: 白色试剂Y-11
   White Dye: 白色染料
+  White Fluorite: 白色氟石
   White Vitriol: 硫酸锌
   Wild: 野生
   Willow: 柳树
@@ -2004,8 +2030,11 @@ material:
   Yellorite: 黄铀
   Yellorium: 黄铀
   Yellow: 黄色
+  Yellow Aventurine: 黄色东陵石
   Yellow CY-11: 黄色试剂Y-11
   Yellow Dye: 黄色染料
+  Yellow Fluorite: 黄色氟石
+  Yellow Jasper: 黄色碧玉
   Yellow Limonite:
   - regex: S:oredict.(crushed|ore).+
     value: 黄色褐铁
