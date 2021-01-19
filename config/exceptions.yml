@@ -15,6 +15,10 @@ S:oredict.oreQuartziteQuartzBlack.name: 黑色石英岩矿石
 S:oredict.oreQuartziteQuartzSand.name: 石英沙矿石
 S:oredict.oreQuartziteQuartzite.name: 石英岩矿石
 
+# to be fixed
+S:oredict.gemBlazeQuartz.name: 烈焰石英
+S:oredict.gemVoidQuartz.name: 虚空石英
+
 # Unknown Ores
 S:oredict.oreAndesiteEmpty.name: 安山岩未知矿石
 S:oredict.oreBasaltEmpty.name: 玄武岩未知矿石
@@ -41,3 +45,5 @@ S:oredict.oreSandstoneEmpty.name: 沙石未知矿石
 S:oredict.oreSmallEmpty.name: 贫瘠未知矿石
 S:oredict.oreSpaceEmpty.name: 太空未知矿石
 S:oredict.oreVanillagraniteEmpty.name: 花岗岩未知矿石
+
+S:gt.multitileentity.32712.name: 强化矿用雷管

@@ -1,3 +1,13 @@
+S:"Dirty Water.name"=Dirty Water
+S:"Heavy Oil.name"=Heavy Oil
+S:"Light Oil.name"=Light Oil
+S:"Natural Gas.name"=Natural Gas
+S:"Raw Oil.name"=Raw Oil
+S:"Sea Water.name"=Sea Water
+S:"Very Heavy Oil.name"=Very Heavy Oil
+S:"fluid.molten hsla"=Molten HSLA Steel
+S:"fluid.molten hsla.name"=Molten HSLA Steel
+S:Riverwater.name=Riverwater
 S:enchantment.damage.endermen=Disjunction
 S:enchantment.damage.radioactivity=Radioactivity
 S:enchantment.damage.slime=Dissolving

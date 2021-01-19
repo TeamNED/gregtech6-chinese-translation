@@ -19,11 +19,16 @@
   repl: 任意{material}
   token: item
   value: (?P<material>.+)
-- key: S:fluid.molten.+
+- key: S:fluid.(hot)?molten.+
   priority: 1000
   repl: 熔融{material}
   token: item
   value: Molten (?P<material>.+)
+- key: S:fluid.hot.+
+  priority: 1500
+  repl: 热{material}
+  token: item
+  value: Hot (?P<material>.+)
 - key: S:oredict.plantGtBlossom.+
   priority: 1000
   repl: "{material}花"
@@ -304,6 +309,11 @@
   repl: "{material}导轨"
   token: item
   value: (?P<material>.+) Rail
+- key: S:oredict.toolHeadBuilderwand.+
+  priority: 1000
+  repl: "{material}建筑之杖帽"
+  token: item
+  value: (?P<material>.+) Builder's Wand Cap
 - key: S:oredict.scrapGt.+
   priority: 1000
   repl: "{material}废料"
@@ -348,6 +358,16 @@
   repl: "{material}栏杆"
   token: item
   value: (?P<material>.+) Bars
+- key: S:gt.block.crystalores.+
+  priority: 1000
+  repl: "{material}晶体矿石"
+  token: item
+  value: (?P<material>.+) Crystal
+- key: S:gt.block.vanillaores.+
+  priority: 1000
+  repl: "{material}矿石"
+  token: ore
+  value: (?P<material>.+) Ore
 
 # oredict
 - key: S:oredict.block.+
@@ -385,6 +405,11 @@
   repl: "{material}粉"
   token: item
   value: (?P<material>.+) (Dust|Powder)
+- key: S:oredict.(block|dust|crateGt).+
+  priority: 500
+  repl: "{material}锯末"
+  token: item
+  value: (?P<material>.+) (Pulp)
 - key: S:oredict.dust.+
   priority: 100
   repl: "{material}"
@@ -404,7 +429,7 @@
   priority: 1000
   repl: "{material}粒"
   token: item
-  value: (?P<material>.+) Nugget
+  value: (?P<material>.+) (Nugget|Pellet)
 - key: S:oredict.chunkGt.+
   priority: 1000
   repl: "{material}小块"
@@ -415,6 +440,11 @@
   repl: "{material}锭"
   token: item
   value: (?P<material>.+) Ingot
+- key: S:oredict.(block|ingot|crateGt).+
+  priority: 450
+  repl: "{material}"
+  token: item
+  value: (?P<material>.+)
 - key: S:oredict.*[Gg]em.*
   priority: 400
   repl: 结晶{material}
@@ -426,6 +456,11 @@
   repl: "{ingot_type}{material}锭"
   token: item
   value: (?P<ingot_type>[^ ]+) (?P<material>.+) Ingot
+- key: S:oredict.ingot.+
+  priority: 950
+  repl: "{ingot_type}{material}"
+  token: item
+  value: (?P<ingot_type>[^ ]+) (?P<material>.+)
 
 # plates
 - key: S:oredict.+[dD]ense.+
@@ -475,6 +510,11 @@
   value: Quintuple (?P<material>.+)
 
 # crushed ores
+- key: S:oredict.crushed.+
+  priority: 950
+  repl: "{crushed_ore_type}{material}"
+  token: crushed_ore
+  value: (?P<crushed_ore_type>[^ ]+) (?P<material>.+)
 - key: S:oredict.crushed.+
   priority: 1000
   repl: "{crushed_ore_type}{material}矿石"
@@ -705,6 +745,16 @@
   value: Dense (?P<material>.+)
 - key: S:gt.multitileentity.+
   priority: 1000
+  repl: "蒸汽锅炉 ({material})"
+  token: item
+  value: Steam Boiler Tank \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1500
+  repl: "强化{material}"
+  token: item
+  value: Strong (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1000
   repl: "大型{material}坩埚"
   token: item
   value: Large (?P<material>.+) Crucible
@@ -723,7 +773,148 @@
   repl: "热交换器 ({material})"
   token: item
   value: Heat Exchanger \((?P<material>.+)\)
-  
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "熔炼坩埚 ({material})"
+  token: cruible
+  value: Smelting Crucible \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "模具 ({material})"
+  token: mold
+  value: Mold \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "坩埚浇铸口 ({material})"
+  token: crucible_faucet
+  value: Crucible Faucet \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "浇铸盆 ({material})"
+  token: basin
+  value: Basin \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "坩埚浇铸道 ({material})"
+  token: crucible_crossing
+  value: Crucible Crossing \((?P<material>.+)\)
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "{material}燃料棒"
+  token: reactor_rod
+  value: (?P<material>.+) Fuel Rod
+- key: S:gt.multitileentity.
+  priority: 1000
+  repl: "{material}增殖燃料棒"
+  token: reactor_rod
+  value: (?P<material>.+) Breeder Rod
+- key: S:gt.multitileentity.
+  priority: 1500
+  repl: "枯竭{material}"
+  token: depleted_reactor_rod
+  value: Depleted (?P<material>.+)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{item_has_energy_tier} ({energy_tier})"
+  token: machine
+  value: (?P<item_has_energy_tier>.+) \((?P<energy_tier>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}个人机械保险箱"
+  token: machine
+  value: Mechanical (?P<material>.+) Safe
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "带锁的{material}保险箱"
+  token: machine
+  value: Key Locked (?P<material>.+) Safe
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "四联抽屉 ({material})"
+  token: machine
+  value: Compartment Drawer \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}箱子"
+  token: machine
+  value: (?P<material>.+) Chest
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "高级工作台 ({material})"
+  token: machine
+  value: Advanced Crafting Table \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}强化木箱"
+  token: machine
+  value: (?P<material>.+) reinforced wooden Chest
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "充能工作台 ({material})"
+  token: machine
+  value: Charging Crafting Table \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "量子存储器 ({material})"
+  token: machine
+  value: Mass Storage \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "书架 ({material})"
+  token: machine
+  value: Bookshelf \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "衣橱 ({material})"
+  token: machine
+  value: Locker \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "充能衣橱 ({material})"
+  token: machine
+  value: Charging Locker \((?P<material>.+)\)
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}漏斗"
+  token: machine
+  value: (?P<material>.+) Funnel
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}料斗"
+  token: machine
+  value: (?P<material>.+) Hopper
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}队列料斗"
+  token: machine
+  value: (?P<material>.+) Queue Hopper
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{wire_size} 未绝缘{material}线缆"
+  token: wire
+  value: (?P<wire_size>\d+x) (?P<material>.+) Wire
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{wire_size} 绝缘{material}线缆"
+  token: wire
+  value: (?P<wire_size>\d+x) (?P<material>.+) Cable
+- key: S:gt.multitileentity.+
+  priority: 1000
+  repl: "{material}脚手架"
+  token: scaffold
+  value: (?P<material>.+) Scaffold
+
+# multiitem
+- key: S:gt.multiitem.
+  priority: 1000
+  repl: "粘土模具 ({shape})"
+  token: mold
+  value: Clay (?P<shape>.+) Mold
+- key: S:gt.multiitem.
+  priority: 1000
+  repl: "粘土{shape}"
+  token: mold
+  value: Clay (?P<shape>.+) 
 
 # bumblebee
 - key: S:gt.multiitem.bumblebee.+
@@ -810,37 +1001,6 @@
   token: bullet
   value: (?P<bullet_type>[^ ]+) (?P<material>.+) Bullet
 
-# multitileentity
-- key: S:gt.multitileentity.
-  priority: 1000
-  repl: "熔炼坩埚 ({material})"
-  token: cruible
-  value: Smelting Crucible \((?P<material>.+)\)
-- key: S:gt.multitileentity.
-  priority: 1000
-  repl: "模具 ({material})"
-  token: mold
-  value: Mold \((?P<material>.+)\)
-- key: S:gt.multitileentity.
-  priority: 1000
-  repl: "坩埚浇铸口 ({material})"
-  token: crucible_faucet
-  value: Crucible Faucet \((?P<material>.+)\)
-- key: S:gt.multitileentity.
-  priority: 1000
-  repl: "浇铸盆 ({material})"
-  token: basin
-  value: Basin \((?P<material>.+)\)
-- key: S:gt.multitileentity.
-  priority: 1000
-  repl: "{material}燃料棒"
-  token: reactor_rod
-  value: (?P<material>.+) Fuel Rod
-- key: S:gt.multitileentity.
-  priority: 1500
-  repl: "枯竭{material}"
-  token: depleted_reactor_rod
-  value: Depleted (?P<material>.+)
 
 # qt
 - key: S:qwertech.machines.+
@@ -909,83 +1069,6 @@
   token: item
   value: Syringe of (?P<material>.+)
 
-# multitileentity
-
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "{item_has_energy_tier} ({energy_tier})"
-  token: machine
-  value: (?P<item_has_energy_tier>.+) \((?P<energy_tier>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "{material}个人机械保险箱"
-  token: machine
-  value: Mechanical (?P<material>.+) Safe
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "带锁的{material}保险箱"
-  token: machine
-  value: Key Locked (?P<material>.+) Safe
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "四联抽屉 ({material})"
-  token: machine
-  value: Compartment Drawer \((?P<material>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "{material}箱子"
-  token: machine
-  value: (?P<material>.+) Chest
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "高级工作台 ({material})"
-  token: machine
-  value: Advanced Crafting Table \((?P<material>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "{material}强化木箱"
-  token: machine
-  value: (?P<material>.+) reinforced wooden Chest
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "充能工作台 ({material})"
-  token: machine
-  value: Charging Crafting Table \((?P<material>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "量子存储器 ({material})"
-  token: machine
-  value: Mass Storage \((?P<material>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "书架 ({material})"
-  token: machine
-  value: Bookshelf \((?P<material>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "衣橱 ({material})"
-  token: machine
-  value: Locker \((?P<material>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "充能衣橱 ({material})"
-  token: machine
-  value: Charging Locker \((?P<material>.+)\)
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "{material}漏斗"
-  token: machine
-  value: (?P<material>.+) Funnel
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "{material}料斗"
-  token: machine
-  value: (?P<material>.+) Hopper
-- key: S:gt.multitileentity.+
-  priority: 1000
-  repl: "{material}队列料斗"
-  token: machine
-  value: (?P<material>.+) Queue Hopper
 
 # gt.stone
 - key: S:gt.stone.+

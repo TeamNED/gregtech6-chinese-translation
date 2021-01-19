@@ -469,7 +469,7 @@ material:
   Argon: 氩
   Arsenic: 砷
   Arsenopyrite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 砷黄铁
   - regex: .*
     value: 砷黄铁矿
@@ -495,13 +495,13 @@ material:
   Basaltic Mineral Sand: 玄武岩砂
   Basalz: 岩石
   Bastnasite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 氟碳铈
   - regex: .*
     value: 氟碳铈矿
   Battery Alloy: 电池合金
   Bauxite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 铝土
   - regex: .*
     value: 铝土矿
@@ -638,6 +638,7 @@ material:
   Black Steel: 黑钢
   Black Vitriol: 黑矾
   Blaze: 烈焰棒
+  Blaze Powder: 烈焰粉
   Blaze Quartz: 烈焰石英
   Blitz: 狂风
   Blizz: 暴雪
@@ -665,7 +666,7 @@ material:
   Brass: 黄铜
   Bro: 兄弟
   Bromargyrite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 溴银
   - regex: .*
     value: 溴银矿
@@ -676,7 +677,7 @@ material:
   Brown Clay: 褐色粘土
   Brown Dye: 褐色染料粉
   Brown Limonite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 褐铁
   - regex: .*
     value: 褐铁矿
@@ -709,7 +710,7 @@ material:
   - regex: .*
     value: 锡石
   Cassiterite Sand:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 锡石沙
   - regex: .*
     value: 锡石沙矿
@@ -723,12 +724,13 @@ material:
   Ceruclase: 暗影秘银
   Chad: 纸屑
   Chalcopyrite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 黄铜
   - regex: .*
     value: 黄铜矿
   Chalk: 白垩
   Charcoal: 木炭
+  Charcoal Brick: 木炭锭
   Charged Certus Quartz: 充能赛特斯石英
   Cheese: 奶酪
   Cheese Bar: 奶酪条
@@ -755,7 +757,7 @@ material:
   Chocolate: 巧克力
   Chocolate Bar: 巧克力块
   Chromite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 铬铁
   - regex: .*
     value: 铬铁矿
@@ -768,7 +770,9 @@ material:
   Claus: 圣诞
   Clay: 粘土
   Coal: 煤
+  Coal Brick: 煤锭
   Coal Coke: 焦煤
+  Coal Coke Brick: 焦煤锭
   Cobalt: 钴
   Cobalt Brass: 钴黄铜
   Cobalt Hexahydrate: 六水合钴
@@ -983,7 +987,7 @@ material:
   Eximite: 虚空石
   Farnsium: 钫
   Ferberite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钨铁
   - regex: .*
     value: 钨铁矿
@@ -992,7 +996,7 @@ material:
   Ferrite: 铁氧体
   Ferrous Chloride: 氯化亚铁
   Ferrovanadium:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钒磁铁
   - regex: .*
     value: 钒磁铁矿
@@ -1027,7 +1031,7 @@ material:
   Gaia: 盖亚
   Gaia Spirit: 盖亚之魂
   Galena:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 方铅
   - regex: .*
     value: 方铅矿
@@ -1036,7 +1040,7 @@ material:
   Garnet: 石榴子石
   Garnet Sand: 石榴子石沙
   Garnierite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 硅镁镍
   - regex: .*
     value: 硅镁镍矿
@@ -1069,7 +1073,6 @@ material:
   Gray Dye: 灰色染料
   Gray Vitriol: 硫酸锰
   Greatwood: 宏伟之木
-  Greatwood Pulp: 宏伟之木锯末
   Green: 绿色
   Green Aventurine: 绿色东陵石
   Green CY-11: 绿色试剂Y-11
@@ -1108,7 +1111,7 @@ material:
   Helium-Neon: 氦氖混合气体
   Hellish: 地狱
   Hematite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 赤铁
   - regex: .*
     value: 赤铁矿
@@ -1121,7 +1124,7 @@ material:
   Honeydew: 蜂蜜滴
   Hot Frying Oil: 热食用油
   Huebnerite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钨锰
   - regex: .*
     value: 钨锰矿
@@ -1166,7 +1169,6 @@ material:
   Iritanium: 钛铱合金
   Iron: 铁
   Ironwood: 铁木
-  Ironwood Pulp: 铁木锯末
   Jade: 翡翠
   Japanese Maple: 日本枫木
   Jasper: 碧玉
@@ -1185,7 +1187,7 @@ material:
   Kapok: 木棉木
   Kerosine: 煤油
   Kesterite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 锌黄锡
   - regex: .*
     value: 锌黄锡矿
@@ -1213,7 +1215,9 @@ material:
   Light Gray: 淡灰色
   Light Gray Dye: 淡灰色染料
   Lignite Coal: 褐煤
+  Lignite Coal Brick: 褐煤锭
   Lignite Coke: 焦化褐煤
+  Lignite Coke Brick: 焦化褐煤锭
   Lime:
   - regex: S:qwertech.machines.+
     value: 酸橙木
@@ -1228,8 +1232,8 @@ material:
   Lithium-6: 锂-6
   Livermorium: 鉝
   Liveroot: 活根
-  Liveroot Pulp: 活根锯末
   Lonsdaleite: 六方碳
+  Lonsdaleite Brick: 六方碳锭
   Lubricant: 润滑油
   Ludicrite: 滑稽
   Lumium: 流明
@@ -1247,7 +1251,7 @@ material:
   Magician: 魔法
   Magnalium: 镁铝合金
   Magnesite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 菱镁
   - regex: .*
     value: 菱镁矿
@@ -1258,7 +1262,7 @@ material:
   Magnetic Neodymium: 磁化钕
   Magnetic Steel: 磁化钢
   Magnetite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 磁铁
   - regex: .*
     value: 磁铁矿
@@ -1299,7 +1303,7 @@ material:
   Mirabilite: 芒硝
   Mithril: 秘银
   Molybdenite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 辉钼
   - regex: .*
     value: 辉钼矿
@@ -1392,9 +1396,9 @@ material:
   Pentlandite: 镍黄铁
   Perlite: 珍珠岩
   Petrified Wood: 石化木
-  Petrified Wood Pulp: 石化木锯末
   Petrol: 汽油
   Petroleum Coke: 石油焦炭
+  Petroleum Coke Brick: 石油焦炭锭
   Petrotheum: 构造之地岩
   Phosphate: 磷酸盐
   Phosphor: 磷
@@ -1434,7 +1438,6 @@ material:
   Plutonium-243: 钚-243
   Plutonium-244: 钚-244
   Polished Wood: 抛光木
-  Polished Wood Pulp: 抛光木锯末
   Pollucite: 铯榴石
   Polonium: 钋
   Poplar: 白杨木
@@ -1454,17 +1457,19 @@ material:
   Potassium Sulfite: 亚硫酸钾
   Potato: 土豆
   Powellite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钼钙
   - regex: .*
     value: 钼钙矿
   Praseodymium: 镨
   Prismane: 棱柱烷
+  Prismane Brick: 棱柱烷锭
   Prometheum: 幻金
   Promethium: 钷
   Propane: 丙烷
   Protactinium: 镤
   Proteus Glowstone: 海卫八萤石
+  Proton: 质子
   Pulsating Iron: 脉冲铁
   Pumice: 浮石
   Purified Vinteum: 纯净温特姆
@@ -1474,17 +1479,18 @@ material:
   Purple Dye: 紫色染料
   Purple Sapphire: 紫色蓝宝石
   Pyrite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 黄铁
   - regex: .*
     value: 黄铁矿
   Pyrolusite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 软锰
   - regex: .*
     value: 软锰矿
   Pyrope: 镁铝榴石
   Pyrotheum: 炽焱
+  Quartz: 石英
   Quartz Sand: 石英砂
   Quartzite: 石英岩
   Radium: 镭
@@ -1550,7 +1556,7 @@ material:
   Rubracium: 褐铜
   Ruby: 红宝石
   Russellite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钨铋
   - regex: .*
     value: 钨铋矿
@@ -1572,14 +1578,13 @@ material:
   Sapphire: 蓝宝石
   Scandium: 钪
   Scheelite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 白钨
   - regex: .*
     value: 白钨矿
   Sea Water: 海水
   Seaborgium: "\U0002CB73"
   Sealed Wood: 防腐木
-  Sealed Wood Pulp: 防腐木锯末
   Seed Oil: 种子油
   Selenium: 硒
   Semiheavy Water: 半重水
@@ -1601,7 +1606,6 @@ material:
   Silver: 银
   Silver Iodide: 碘化银
   Silverwood: 银树
-  Silverwood Pulp: 银树锯末
   Sintered Tungsten: 结晶钨
   Sluice Sand: 矿物杂质沙
   Smithsonite: 菱锌
@@ -1637,13 +1641,13 @@ material:
   Sperrylite: 砷铂
   Spessartine: 锰铝榴石
   Sphalerite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 闪锌
   - regex: .*
     value: 闪锌矿
   Spinel: 尖晶石
   Spodumene:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 锂辉
   - regex: .*
     value: 锂辉矿
@@ -1652,21 +1656,20 @@ material:
   Stainless Steel: 不锈钢
   Stannic Chloride: 四氯化锡
   Stannite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 黄锡
   - regex: .*
     value: 黄锡矿
   Steel: 钢
   Steeleaf: 钢叶
-  Steeleaf Pulp: 钢叶锯末
   Sterling Silver: 纯银
   Stibnite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 辉锑
   - regex: .*
     value: 辉锑矿
   Stolzite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钨铅
   - regex: .*
     value: 钨铅矿
@@ -1694,7 +1697,7 @@ material:
   - regex: .*
     value: 滑石
   Tantalite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钽铁
   - regex: .*
     value: 钽铁矿
@@ -1712,7 +1715,7 @@ material:
   Teslatite: 特斯拉金属
   Teslatine Alloy: 特斯拉合金
   Tetrahedrite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 黝铜
   - regex: .*
     value: 黝铜矿
@@ -1724,6 +1727,7 @@ material:
     value: 神秘
   Thorium: 钍
   Thorium-230: 钍-230
+  Thorium-232: 钍-232
   Thulium: 铥
   Tin: 锡
   Tin Alloy: 锡合金
@@ -1743,7 +1747,6 @@ material:
   Topaz: 黄玉
   Treated Wood: 防腐木
   Treated Plank: 防腐木板
-  Treated Wood Pulp: 防腐木锯末
   Tree Bark: 树皮
   Tribibium: 322号元素(Tbb)
   Tribiennium: 329号元素(Tbe)
@@ -1858,7 +1861,7 @@ material:
   Triununium: 311号元素(Tuu)
   Trona: 天然碱
   Tungstate:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钨酸盐
   - regex: .*
     value: 钨酸盐矿
@@ -1957,13 +1960,20 @@ material:
   Ununoctium: 118号元素(Og)
   Ununseptium: 117号元素(Ts)
   Uraninite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 晶质铀
   - regex: .*
     value: 晶质铀矿
   Uranium: 铀
+  Uranium Hexafluoride: 六氟化铀
+  Uranium Tetrafluoride: 四氟化铀
+  Uranium-233: 铀-233
   Uranium-235: 铀-235
   Uranium-238: 铀-238
+  Uranium-235 Hexafluoride: 六氟化铀-235
+  Uranium-238 Tetrafluoride: 四氟化铀-238
+  Uranium-238 Hexafluoride: 六氟化铀-238
+  Uranium-238 Tetrafluoride: 四氟化铀-238
   UraniumEnriched: 浓缩铀
   Uvarovite: 钙铬榴石
   Vanadium: 钒
@@ -2013,7 +2023,7 @@ material:
   Willow: 柳树
   Wizard: 巫术
   Wolframite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钨锰铁
   - regex: .*
     value: 钨锰铁矿
@@ -2022,7 +2032,7 @@ material:
   Wood Pulp: 锯末
   Wrought Iron: 锻铁
   Wulfenite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 钼铅
   - regex: .*
     value: 钼铅矿
@@ -2036,7 +2046,7 @@ material:
   Yellow Fluorite: 黄色氟石
   Yellow Jasper: 黄色碧玉
   Yellow Limonite:
-  - regex: S:oredict.(crushed|ore).+
+  - regex: S:(oredict.(crushed|ore).+|gt.block.(crystalores|vanillaores).+)
     value: 黄色褐铁
   - regex: .*
     value: 黄色褐铁矿
@@ -2075,12 +2085,9 @@ material:
   Colonel Bumble O'Beeill: 上校大黄蜂
   General Bumblemond: 将军大黄蜂
   Dreamwood: 梦之木
-  Dreamwood Pulp: 梦之木锯末
   Livingwood: 活木
-  Livingwood Pulp: 活木锯末
   Military: 军用
   Weedwood: 杂草木
-  Weedwood Pulp: 杂草木锯末
   Lithium Chlorate: 氯酸锂
   Lithium Perchlorate: 高氯酸锂
   Lithium Hydroxide: 氢氧化锂
@@ -2127,14 +2134,12 @@ material:
   Uran: 乌兰
   Anti-Uran: 反物质乌兰
   Skyroot: 天根木
-  Skyroot Pulp: 天根木锯末
   Darkwood: 黑树
   Ambrosium: 神能晶
   Continuum: 命运
   Gravitite: 重力晶
   Holystone: 圣石
   Shimmerwood: 微光木
-  Shimmerwood Pulp: 微光木锯末
   Zanite: 紫晶
   Dark Prismarine: 深色海晶石
   Light Prismarine: 亮色海晶石
@@ -2142,14 +2147,12 @@ material:
   Light Prismarine Crystal: 亮色海晶石
   Prismarine: 海晶石
   Peanut Wood: 花生木
-  Peanut Wood Pulp: 花生木锯末
   Wooden: 木制
   Titanium-Gold: 钛金
   Carbon Trioxide: 三氧化碳
   Amazonite: 天河石
   Azurite: 石青
   Bamboo: 竹
-  Bamboo Pulp: 竹锯末
   Elvorium: 魔灵
   Mauftrium: 始源魂灵
   Muspelheim Power: 炽热魔灵
@@ -2239,7 +2242,142 @@ material:
   Tritiated Water: 超重水
   Heavy Water: 重水
   Semiheavy Water: 半重水
-
+  Ethanol: 乙醇
+  Kerosene: 煤油
+  Hellderberry Juice: 下界莓汁
+  Ancient Debris: 远古残骸
+  Recycled Ancient Debris: 已回收的远古残骸
+  Efrine: 绿金
+  Euphemium: Ep
+  Gloomstone: 阴郁荧石
+  Netherite: 下界合金
+  Netherite Scrap: 下界合金废料
+  Netherite Scrap Powder: 下界合金废料粉末
+  Schrabidium: Sa326
+  Thorium Salt: 钍盐
+  Red Clay: 红色粘土
+  Hexorium: 黑克斯
+  Black Hexorium: 黑色黑克斯
+  Blue Hexorium: 蓝色黑克斯
+  Green Hexorium: 绿色黑克斯
+  Red Hexorium: 红色黑克斯
+  White Hexorium: 白色黑克斯
+  Abyssal Oat: 深渊燕麦
+  Abyssal Oatmeal: 深渊燕麦片
+  Advanced Alloy: 高级合金
+  Dead Wood: 枯木
+  Bleached Wood: 星光木
+  Frozen Wood: 冻木
+  Mossy Wood: 苔痕木
+  Rotten Wood: 腐木
+  Scorched Wood: 焦皮枯木
+  Tainted Wood: 腐化木
+  Varnished Wood: 漆包木
+  Wyvernwood: 飞龙木
+  Walnutwood: 核桃木
+  Warped Wood: 诡异木
+  Autumn Wood: 秋树木
+  Ashwood: 梣树木
+  Applewood: 苹果树木
+  Boxwood: 黄杨木
+  Butternutwood: 灰核桃树木
+  Cherrywood: 樱桃树木
+  Chestnutwood: 栗树木
+  Citruswood: 柑橘树木
+  Cocobolowood: 黄檀树木
+  Coconut: 椰子树木
+  Crimsonwood: 绯红木
+  Elderwood: 接骨木
+  Etherealwood: 天域树木
+  Figwood: 无花果树木
+  Foxfire: 狐火木
+  Giganteumwood: 巨杉树木
+  Goldwood: 金木
+  Junglewood: 丛林木
+  Limewood: 酸橙树木
+  Magicwood: 魔法树木
+  Ogrewood: 食人魔树木
+  Olivewood: 橄榄树木
+  Papayawood: 木瓜树木
+  Pearwood: 梨树木
+  Plumwood: 李子树木
+  Sacred Oak: 神圣橡树
+  Tapazite: 磷酸钙
+  Blackstone: 黑石
+  Deadrock: 死岩
+  CMB Steel: CMB钢
+  High-Speed Steel: 高速钢
+  Dineutronium: 双聚中子态素
+  Tungsten Alloy: 钨合金
+  HeeEndium: 末影矿
+  Lanthanium: 镧
+  Magnetized Tungsten: 磁化钨
+  Netherized Diamond: 下界钻石
+  Paduak: 紫檀木
+  Pine: 松树木
+  Polymer: 聚合物
+  Salpeter: 萨尔皮特
+  Saturnite: 土星
+  Starmetal: 星辉
+  Steam: 蒸汽
+  Thorium232: 钍-232
+  Unobtainium: 难得素
+  Verticium: 韦德赛
+  Void Quartz: 虚空石英
+  Weidanium: 韦丹
+  Blazing: 烈焰
+  Flaming: 火焰
+  Pyro Bumble: 纵火大黄蜂
+  Bumbletrantor: 川陀大黄蜂
+  Blizzful: 暴雪
+  Freezing: 冷冻
+  Mr. Bumblefreeze: 冷冻人大黄蜂
+  Cryo Bumble: 低温大黄蜂
+  Blitzing: 闪击
+  Storming: 暴雨
+  Bumbleaang: 安昂大黄蜂
+  Aero Bumble: 大气大黄蜂
+  Basalzed: 玄武岩
+  Quakeing: 震动
+  Earth Bound: 地球冒险
+  Tera Bumble: 大地大黄蜂
+  Superconductor: 超导体
+  Plutonium-239: 钚-239
+  Chimerite: 精灵石
+  Air infused: 风之
+  Earth infused: 地之
+  Entropy infused: 混沌
+  Fire infused: 火之
+  Order infused: 秩序
+  Water infused: 水之
+  Balance infused: 平衡
+  Dull: 枯竭
+  Magic infused: 魔力
+  Balance Shards: 平衡碎片
+  Dull Shards: 枯竭碎片
+  Magic Shards: 魔力碎片
+  Balance infused Powder: 
+  - regex: S:oredict.blockDustInfused.+
+    value: 平衡碎片
+  - regex: .*
+    value: 平衡碎片粉末
+  Dull Crystal Powder: 
+  - regex: S:oredict.blockDustInfused.+
+    value: 枯竭碎片
+  - regex: .*
+    value: 枯竭碎片粉末
+  Magic infused Powder: 
+  - regex: S:oredict.blockDustInfused.+
+    value: 魔力碎片
+  - regex: .*
+    value: 魔力碎片粉末
+  Moonstone: 月亮石
+  Sunstone: 太阳石
+  Moonstone Dust: 月亮石粉
+  Sunstone Dust: 太阳石粉
+  Fine Soulsand: 细灵魂沙
+  Anthracite Brick: 无烟煤锭
+  Dominican Amber: 多米尼加琥珀
 
 
 
@@ -2343,6 +2481,7 @@ ingot_type:
 
 crushed_ore_type:
   Crushed: 粉碎
+  Ground: 磨碎
   Refined: 离心
   Purified: 纯净
 
@@ -2362,3 +2501,81 @@ bullet_type:
   Small: 小号
   Medium: 中号
   Large: 大号
+
+wire_size:
+  1x: 1x
+  2x: 2x
+  3x: 3x
+  4x: 4x
+  5x: 5x
+  6x: 6x
+  7x: 7x
+  8x: 8x
+  9x: 9x
+  10x: 10x
+  11x: 11x
+  12x: 12x
+  13x: 13x
+  14x: 14x
+  15x: 15x
+  16x: 16x
+
+shape:
+  Plate: 板
+  Long Rod: 长杆
+  Bolt: 螺栓
+  Ring: 环
+  Cell: 槽
+  Ingot: 锭
+  Wire: 线缆
+  Casing: 外壳
+  Tiny Pipe: 微型管道
+  Small Pipe: 小型管道
+  Normal Pipe: 管道
+  Large Pipe: 大型管道
+  Huge Pipe: 巨型管道
+  Block: 方块
+  Sword Blade: 剑身
+  Pickaxe Head: 镐头
+  Shovel Head: 锹头
+  Axe Head: 斧头
+  Hoe Head: 锄头
+  Hammer Head: 锤头
+  File Head: 锉刀刀头
+  Spade: 铲
+  Universal Spade: 万用铲
+  Saw Blade: 锯刃
+  Sword: 剑
+  Pickaxe: 镐
+  Shovel: 锹
+  Axe: 斧
+  Double Axe: 双刃斧
+  Hoe: 锄
+  Hammer: 锤
+  File: 锉刀
+  Saw: 锯
+  Gear: 齿轮
+  Bottle: 瓶子
+  Curved Plate: 弯曲板
+  Small Gear: 小型齿轮
+  Rod: 杆
+  Capsule-Cell-Container: 单元式流体容器
+  Foil: 箔
+  Tiny Plate: 小块板
+  Chunk: 小块
+  Item Casing: 外壳
+  Builder's Wand: 建筑之杖
+  Chisel: 凿子
+  Arrow: 箭
+  Screwdriver: 螺丝刀
+  Tap: 龙头
+  Funnel: 料斗
+  Crucible: 坩埚
+  Basin: 浇铸盆
+  Mold: 模具
+  Faucet: 坩埚浇铸口
+  Crossing: 浇筑道
+  Juicer: 榨汁机
+  Bowl: 碗
+  Plow: 犁
+  Sense: 镰刀
