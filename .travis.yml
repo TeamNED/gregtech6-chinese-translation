@@ -17,7 +17,7 @@ install:
 deploy:
     provider: releases
     api_key:
-        secure: ${GITHUB_TOKEN}
+        secure: "aXItSAzRgp9ghplTmupjBn+v7l2/bBe2XuZUc5h0fl4RAJwEwWcXfdRh5dRA5nxhF5Ed6h9u4frxzlm/K7l46cQ/xi5LGTjN9uFTXCSgm4YS2HRpxGYy78Jbmn3Sj88JtXRbBdLmYeL5yE9/U36K0+DX4cfvOEKZi4g35mU4B1eHM66PVytKPm4gKQMbYKpE/VsFz2f1j4fKsmnKZ0ZhaHoDQKA9Fj7+VKb625DV34/Fz2FlRvQfWxH0wtHj19w/9NOUqC1AiGrtFWt383ZpZ7/sgpU2Ws5DWbpbnDy29QqGvZoX8YpNwZk+vdH6kGrEpwkvmjvVMdzSXaq+hTGSrzt/oCSe0CtByCnP7usQMHcCMLysWJds0Y/8QsBB6RP/QrNfLe6RO2jiWa+xyYIDYxhljKAqgBNk1EaRMaQbhnHrVvu7no5wihMootJ7AdD7uvUHR9LoWevNeXcHLJSlmyD59/tOWSMUtHBbqLSGVJpcMnFVt3Yw+Nl0MxB0D09hYXEOrjrpoCOMGfmJs3HCY6kF0WuYkzuxbGmIyQquWH2szY0sxgCvEsRuIHBAJnY26cwGs3CDesw3NJDVTGM4yP2JKb3CoPln7bu91XjSmUFTpT5my6LD558y+LWM8xqLuxtJ6Rt73SkSpganxJhiwOHJc7I/k0GWH1SNS6cvB0M="
     file:
         - "GregTech.lang"
     skip_cleanup: true
