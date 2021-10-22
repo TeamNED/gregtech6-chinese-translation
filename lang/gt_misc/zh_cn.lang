@@ -48,6 +48,7 @@ S:gt.behaviour.paddy=右键耕地挖掘水田
 S:gt.behaviour.paintremoverspray.uses=剩余使用次数:
 S:gt.behaviour.paintspray.uses=剩余使用次数:
 S:gt.behaviour.path=右键草方块制造草径
+S:gt.behaviour.placedynamite=放置炸药并将其链接到快捷栏中的远程激活器
 S:gt.behaviour.plunger.fluid=从水槽中移除1000L液体
 S:gt.behaviour.plunger.item=清除管道中的物品
 S:gt.behaviour.remote=在128m范围内激活16个方块
