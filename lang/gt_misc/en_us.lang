@@ -48,6 +48,7 @@ S:gt.behaviour.paddy=Creates Paddies on Farmland on Rightclick
 S:gt.behaviour.paintremoverspray.uses=Remaining Uses:
 S:gt.behaviour.paintspray.uses=Remaining Uses:
 S:gt.behaviour.path=Creates Paths on Grass on Rightclick
+S:gt.behaviour.placedynamite=Places Dynamite and links it to Remote Activators in Hotbar
 S:gt.behaviour.plunger.fluid=Clears 1000 Liters of Fluid from Tanks
 S:gt.behaviour.plunger.item=Clears Items from Pipes
 S:gt.behaviour.remote=Activates up to 16 Blocks within a Range of 128m
