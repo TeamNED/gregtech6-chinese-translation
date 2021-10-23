@@ -1,5 +1,6 @@
 S:"Dirty Water.name"=Dirty Water
 S:"Heavy Oil.name"=Heavy Oil
+S:"Hot Spring Water.name"=Hot Spring Water
 S:"Light Oil.name"=Light Oil
 S:"Natural Gas.name"=Natural Gas
 S:"Raw Oil.name"=Raw Oil
@@ -12,6 +13,16 @@ S:enchantment.damage.endermen=Disjunction
 S:enchantment.damage.radioactivity=Radioactivity
 S:enchantment.damage.slime=Dissolving
 S:enchantment.damage.werewolf=Werebane
+S:loot.bonusChest=Bonus Chest
+S:loot.dungeonChest=Dungeon
+S:loot.mineshaftCorridor=Mineshaft
+S:loot.pyramidDesertyChest=Desert Pyramid
+S:loot.pyramidJungleChest=Jungle Temple
+S:loot.pyramidJungleDispenser=Dispenser
+S:loot.strongholdCorridor=Corridor
+S:loot.strongholdCrossing=Storage
+S:loot.strongholdLibrary=Library
+S:loot.villageBlacksmith=Blacksmith
 S:mc.recipe.furnace=Furnace
 S:mc.recipe.furnacefuel=Furnace Fuels (1 Smelt = 5000 Units)
 S:qt.armor.0.name=Chain Helmet
