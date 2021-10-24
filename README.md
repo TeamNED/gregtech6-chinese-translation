@@ -1,3 +1,6 @@
+# 注意：该项目目前已经停止更新，请前往[新项目](https://github.com/TeamNED/GregTech6-Translation-Groupware)下载后续版本的更新
+你仍然可以在这里下载对应GT6-6.14.21版本及以前版本的汉化文件。
+
 # 格雷科技 6 简体中文本地化项目
 
 # Simplified Chinese Translation Project for GregTech 6
@@ -6,7 +9,7 @@
 
 GregTech6 汉化项目，欢迎加入。
 
-当前适配版本为 v6.14.06，内置兼容 QwerTech-1.0.0-a.50
+当前适配版本为 v6.14.21，内置兼容 QwerTech-1.0.0-a.50
 
 Currently updated to GT 6.14.06, with built-in support for QwerTech-1.0.0-a.50
 
